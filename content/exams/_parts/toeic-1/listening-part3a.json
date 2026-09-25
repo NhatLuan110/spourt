@@ -1,0 +1,809 @@
+[
+  {
+    "id": "listening-part3-c1",
+    "skill": "listening",
+    "title": "Part 3 — Conversation 1: a late delivery",
+    "format": "TOEIC Listening — Part 3 · Conversation 1 (câu 32–34)",
+    "instructionsVi": "Nghe hội thoại rồi trả lời 3 câu. Trong đề thật bạn có khoảng 8 giây đọc trước câu hỏi. Ba câu luôn theo thứ tự: đầu đoạn, giữa đoạn, rồi việc sắp làm.",
+    "promptEn": "Listen to the conversation and answer questions 32 through 34.",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "W",
+        "text": "Hi Marcus, do you have a second? It's about the Delaney order."
+      },
+      {
+        "speaker": "M",
+        "text": "The one going out today?"
+      },
+      {
+        "speaker": "W",
+        "text": "It was meant to. The courier just called — their van broke down outside Reading and they can't collect until tomorrow morning."
+      },
+      {
+        "speaker": "M",
+        "text": "That's a problem. Delaney's shop opens on Friday and they need stock on the shelves by Thursday."
+      },
+      {
+        "speaker": "W",
+        "text": "I know. If they collect at eight tomorrow it still arrives Thursday afternoon, but there's no margin at all."
+      },
+      {
+        "speaker": "M",
+        "text": "Then let's not rely on it. I'll ring Delaney now and tell them what's happened before they hear it from the courier."
+      }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p3-32",
+        "kind": "mcq",
+        "prompt": "32. What is the problem?",
+        "options": [
+          {
+            "id": "a",
+            "text": "A shop has cancelled its opening."
+          },
+          {
+            "id": "b",
+            "text": "A courier's vehicle has broken down."
+          },
+          {
+            "id": "c",
+            "text": "An order was sent to the wrong address."
+          },
+          {
+            "id": "d",
+            "text": "A product is out of stock."
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'their van broke down outside Reading'. Vấn đề nằm ở phía đơn vị vận chuyển, không phải ở hàng hoá."
+      },
+      {
+        "id": "p3-33",
+        "kind": "mcq",
+        "prompt": "33. Why is the delay serious?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The order will be cancelled automatically."
+          },
+          {
+            "id": "b",
+            "text": "The warehouse closes tomorrow."
+          },
+          {
+            "id": "c",
+            "text": "The customer's shop opens on Friday."
+          },
+          {
+            "id": "d",
+            "text": "The courier will charge extra."
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'Delaney's shop opens on Friday and they need stock on the shelves by Thursday'."
+      },
+      {
+        "id": "p3-34",
+        "kind": "mcq",
+        "prompt": "34. What will the man do next?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Book a different courier"
+          },
+          {
+            "id": "b",
+            "text": "Collect the order himself"
+          },
+          {
+            "id": "c",
+            "text": "Wait until Thursday afternoon"
+          },
+          {
+            "id": "d",
+            "text": "Telephone the customer"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'I'll ring Delaney now'. Câu cuối của Part 3 gần như luôn hỏi hành động kế tiếp."
+      }
+    ]
+  },
+  {
+    "id": "listening-part3-c2",
+    "skill": "listening",
+    "title": "Part 3 — Conversation 2: booking a training room",
+    "format": "TOEIC Listening — Part 3 · Conversation 2 (câu 35–37)",
+    "instructionsVi": "Nghe rồi trả lời 3 câu. Đoạn này có một chỗ người nói tự sửa lại thông tin — nghe hụt là mất điểm.",
+    "promptEn": "Listen to the conversation and answer questions 35 through 37.",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "M",
+        "text": "Facilities, this is Ade."
+      },
+      {
+        "speaker": "W",
+        "text": "Hi Ade. I need a room for a training session on the fourteenth, for about twenty people."
+      },
+      {
+        "speaker": "M",
+        "text": "Twenty. The Boardroom takes eighteen, so that's out. Training Room A takes thirty — let me check the fourteenth. Sorry, I'm looking at the wrong month. The fourteenth… yes, it's free all day."
+      },
+      {
+        "speaker": "W",
+        "text": "Great. Does it have a projector?"
+      },
+      {
+        "speaker": "M",
+        "text": "It does, but the bulb is being replaced next week. I'd bring a laptop and use the large screen instead, just in case."
+      },
+      {
+        "speaker": "W",
+        "text": "Fine. Can you put it in the calendar and send me the room code?"
+      },
+      {
+        "speaker": "M",
+        "text": "Will do. I'll email it this afternoon."
+      }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p3-35",
+        "kind": "mcq",
+        "prompt": "35. Why is the Boardroom unsuitable?",
+        "options": [
+          {
+            "id": "a",
+            "text": "It is already booked on the fourteenth."
+          },
+          {
+            "id": "b",
+            "text": "It does not have a projector."
+          },
+          {
+            "id": "c",
+            "text": "It is being redecorated."
+          },
+          {
+            "id": "d",
+            "text": "It holds fewer people than required."
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'The Boardroom takes eighteen, so that's out' — cần chỗ cho hai mươi người. Phải so hai con số."
+      },
+      {
+        "id": "p3-36",
+        "kind": "mcq",
+        "prompt": "36. What does the man suggest about the projector?",
+        "options": [
+          {
+            "id": "a",
+            "text": "That she book a different room"
+          },
+          {
+            "id": "b",
+            "text": "That she request a new bulb herself"
+          },
+          {
+            "id": "c",
+            "text": "That the woman bring a laptop and use the screen instead"
+          },
+          {
+            "id": "d",
+            "text": "That the session be postponed"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'I'd bring a laptop and use the large screen instead, just in case' — vì bóng đèn máy chiếu sắp được thay."
+      },
+      {
+        "id": "p3-37",
+        "kind": "mcq",
+        "prompt": "37. What will the man send?",
+        "options": [
+          {
+            "id": "a",
+            "text": "A projector bulb"
+          },
+          {
+            "id": "b",
+            "text": "The room code"
+          },
+          {
+            "id": "c",
+            "text": "A list of attendees"
+          },
+          {
+            "id": "d",
+            "text": "A quotation"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'send me the room code' — 'I'll email it this afternoon'."
+      }
+    ]
+  },
+  {
+    "id": "listening-part3-c3",
+    "skill": "listening",
+    "title": "Part 3 — Conversation 3: at a hotel reception",
+    "format": "TOEIC Listening — Part 3 · Conversation 3 (câu 38–40)",
+    "instructionsVi": "Nghe rồi trả lời 3 câu. Chú ý phân biệt điều khách YÊU CẦU với điều lễ tân thực sự ĐÁP ỨNG được.",
+    "promptEn": "Listen to the conversation and answer questions 38 through 40.",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "M",
+        "text": "Good afternoon. I have a reservation under Okafor, checking in today."
+      },
+      {
+        "speaker": "W",
+        "text": "Let me see… yes, three nights, a standard room on the fourth floor."
+      },
+      {
+        "speaker": "M",
+        "text": "I'd asked for a quiet room away from the lift, if that's possible."
+      },
+      {
+        "speaker": "W",
+        "text": "I can see the note. The fourth floor is fully booked, I'm afraid, but I can move you to the sixth — same room type, and it's at the far end of the corridor."
+      },
+      {
+        "speaker": "M",
+        "text": "That works. One more thing: is breakfast included?"
+      },
+      {
+        "speaker": "W",
+        "text": "Not on this rate, but you can add it for twelve pounds a morning, and it's cheaper if you pay for all three nights now."
+      },
+      {
+        "speaker": "M",
+        "text": "I'll take all three then."
+      }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p3-38",
+        "kind": "mcq",
+        "prompt": "38. What had the man requested in advance?",
+        "options": [
+          {
+            "id": "a",
+            "text": "A room on the fourth floor"
+          },
+          {
+            "id": "b",
+            "text": "A late check-out"
+          },
+          {
+            "id": "c",
+            "text": "Breakfast to be included"
+          },
+          {
+            "id": "d",
+            "text": "A room away from the lift"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'I'd asked for a quiet room away from the lift'. Tầng bốn là phòng đã đặt sẵn, không phải yêu cầu của khách."
+      },
+      {
+        "id": "p3-39",
+        "kind": "mcq",
+        "prompt": "39. What does the woman offer to do?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Upgrade him to a larger room"
+          },
+          {
+            "id": "b",
+            "text": "Give him a discount on the room rate"
+          },
+          {
+            "id": "c",
+            "text": "Move him to the sixth floor"
+          },
+          {
+            "id": "d",
+            "text": "Extend his stay by one night"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'I can move you to the sixth — same room type'. Bà ấy nói rõ CÙNG hạng phòng, nên (A) sai."
+      },
+      {
+        "id": "p3-40",
+        "kind": "mcq",
+        "prompt": "40. What does the man decide about breakfast?",
+        "options": [
+          {
+            "id": "a",
+            "text": "It is already included in his rate."
+          },
+          {
+            "id": "b",
+            "text": "He will pay for all three mornings now."
+          },
+          {
+            "id": "c",
+            "text": "He will decide each morning."
+          },
+          {
+            "id": "d",
+            "text": "He will eat elsewhere."
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'it's cheaper if you pay for all three nights now' — 'I'll take all three then'."
+      }
+    ]
+  },
+  {
+    "id": "listening-part3-c4",
+    "skill": "listening",
+    "title": "Part 3 — Conversation 4: three speakers, staffing a stand",
+    "format": "TOEIC Listening — Part 3 · Conversation 4, ba người nói (câu 41–43)",
+    "instructionsVi": "Hội thoại BA người. Câu hỏi thường hỏi ý kiến của một người cụ thể, nên phải theo dõi ai nói gì chứ không chỉ nhớ nội dung.",
+    "promptEn": "Listen to the conversation among three speakers and answer questions 41 through 43.",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "W1",
+        "text": "So, the trade fair stand. We need two people on it at all times, and it runs three days."
+      },
+      {
+        "speaker": "M",
+        "text": "I can do Wednesday and Thursday, but not Friday — I've got the audit that morning."
+      },
+      {
+        "speaker": "W2",
+        "text": "I'm free all three days. But I've never done a stand before, so I'd rather not be on it alone."
+      },
+      {
+        "speaker": "W1",
+        "text": "You won't be. I'll take Friday with you. That leaves Wednesday and Thursday covered by you two."
+      },
+      {
+        "speaker": "M",
+        "text": "Do we have the new brochures? Last year we ran out by lunchtime on day one."
+      },
+      {
+        "speaker": "W1",
+        "text": "Five hundred ordered, arriving Monday. I'll bring them over myself so they don't sit in the post room."
+      }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p3-41",
+        "kind": "mcq",
+        "prompt": "41. Why can the man not work on Friday?",
+        "options": [
+          {
+            "id": "a",
+            "text": "He has never worked on a stand."
+          },
+          {
+            "id": "b",
+            "text": "He will be collecting brochures."
+          },
+          {
+            "id": "c",
+            "text": "He is travelling that day."
+          },
+          {
+            "id": "d",
+            "text": "He has an audit that morning."
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'not Friday — I've got the audit that morning'. (A) là lo ngại của người phụ nữ thứ hai, không phải của ông ta."
+      },
+      {
+        "id": "p3-42",
+        "kind": "mcq",
+        "prompt": "42. What concern does the second woman raise?",
+        "options": [
+          {
+            "id": "a",
+            "text": "She is unavailable on Wednesday."
+          },
+          {
+            "id": "b",
+            "text": "She does not want to staff the stand alone."
+          },
+          {
+            "id": "c",
+            "text": "She thinks five hundred brochures is too few."
+          },
+          {
+            "id": "d",
+            "text": "She has another event that week."
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'I've never done a stand before, so I'd rather not be on it alone'."
+      },
+      {
+        "id": "p3-43",
+        "kind": "mcq",
+        "prompt": "43. What will the first woman do with the brochures?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Order five hundred more"
+          },
+          {
+            "id": "b",
+            "text": "Leave them in the post room"
+          },
+          {
+            "id": "c",
+            "text": "Deliver them to the stand herself"
+          },
+          {
+            "id": "d",
+            "text": "Send them directly to the venue"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'I'll bring them over myself so they don't sit in the post room'. (B) chính là điều bà ấy muốn TRÁNH."
+      }
+    ]
+  },
+  {
+    "id": "listening-part3-c5",
+    "skill": "listening",
+    "title": "Part 3 — Conversation 5: a job applicant calls",
+    "format": "TOEIC Listening — Part 3 · Conversation 5 (câu 44–46)",
+    "instructionsVi": "Nghe rồi trả lời 3 câu. Có một chi tiết được nêu dưới dạng điều kiện — bỏ qua điều kiện là chọn sai dù nghe đúng con số.",
+    "promptEn": "Listen to the conversation and answer questions 44 through 46.",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "W",
+        "text": "Hello, Brightmoor Recruitment."
+      },
+      {
+        "speaker": "M",
+        "text": "Hi, I applied for the warehouse supervisor post last week. I wanted to check whether you'd received my references."
+      },
+      {
+        "speaker": "W",
+        "text": "Let me look. We have one from Hartley Logistics… but the second one hasn't come through."
+      },
+      {
+        "speaker": "M",
+        "text": "That'll be from my previous manager. He's been on leave."
+      },
+      {
+        "speaker": "W",
+        "text": "That's fine — we can shortlist you with one reference, as long as the second arrives before the interview stage. Interviews are the week of the twentieth."
+      },
+      {
+        "speaker": "M",
+        "text": "I'll chase him today. Is there anything else outstanding?"
+      },
+      {
+        "speaker": "W",
+        "text": "Just the forklift certificate. Email a scan and I'll add it to your file."
+      }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p3-44",
+        "kind": "mcq",
+        "prompt": "44. Why is the man calling?",
+        "options": [
+          {
+            "id": "a",
+            "text": "To check whether his references have arrived"
+          },
+          {
+            "id": "b",
+            "text": "To arrange an interview date"
+          },
+          {
+            "id": "c",
+            "text": "To withdraw his application"
+          },
+          {
+            "id": "d",
+            "text": "To ask about the salary"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'I wanted to check whether you'd received my references'."
+      },
+      {
+        "id": "p3-45",
+        "kind": "mcq",
+        "prompt": "45. Under what condition can he be shortlisted with one reference?",
+        "options": [
+          {
+            "id": "a",
+            "text": "If he provides a forklift certificate"
+          },
+          {
+            "id": "b",
+            "text": "If his former manager returns from leave"
+          },
+          {
+            "id": "c",
+            "text": "If he applies again after the twentieth"
+          },
+          {
+            "id": "d",
+            "text": "If the second reference arrives before the interview stage"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'as long as the second arrives before the interview stage'. Đây là điều kiện, không phải lời hứa vô điều kiện."
+      },
+      {
+        "id": "p3-46",
+        "kind": "mcq",
+        "prompt": "46. What is the man asked to send?",
+        "options": [
+          {
+            "id": "a",
+            "text": "A new application form"
+          },
+          {
+            "id": "b",
+            "text": "His manager's contact details"
+          },
+          {
+            "id": "c",
+            "text": "A scan of his forklift certificate"
+          },
+          {
+            "id": "d",
+            "text": "A copy of his identification"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'Just the forklift certificate. Email a scan'."
+      }
+    ]
+  },
+  {
+    "id": "listening-part3-c6",
+    "skill": "listening",
+    "title": "Part 3 — Conversation 6: returning a faulty item",
+    "format": "TOEIC Listening — Part 3 · Conversation 6 (câu 47–49)",
+    "instructionsVi": "Nghe rồi trả lời 3 câu. Câu hỏi thứ hai hỏi HÀM Ý của một câu nói, không hỏi nghĩa đen.",
+    "promptEn": "Listen to the conversation and answer questions 47 through 49.",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "W",
+        "text": "Hi, I bought this kettle here three weeks ago and it's stopped heating."
+      },
+      {
+        "speaker": "M",
+        "text": "Sorry to hear that. Do you have the receipt?"
+      },
+      {
+        "speaker": "W",
+        "text": "I've got the card statement, not the paper receipt."
+      },
+      {
+        "speaker": "M",
+        "text": "Well, that's not ideal. But three weeks is inside our thirty-day window, and the statement shows the store and the amount, so I can look it up."
+      },
+      {
+        "speaker": "W",
+        "text": "Would I get a refund or a replacement?"
+      },
+      {
+        "speaker": "M",
+        "text": "Either. Though I'd say we've had four of that model back this month, so I'd take the refund and choose something else."
+      }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p3-47",
+        "kind": "mcq",
+        "prompt": "47. What is the problem with the product?",
+        "options": [
+          {
+            "id": "a",
+            "text": "It has stopped heating."
+          },
+          {
+            "id": "b",
+            "text": "It arrived damaged."
+          },
+          {
+            "id": "c",
+            "text": "It is the wrong model."
+          },
+          {
+            "id": "d",
+            "text": "It was overpriced."
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'I bought this kettle here three weeks ago and it's stopped heating'."
+      },
+      {
+        "id": "p3-48",
+        "kind": "mcq",
+        "prompt": "48. What does the man mean when he says, 'that's not ideal'?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The purchase is outside the return window."
+          },
+          {
+            "id": "b",
+            "text": "A card statement is acceptable but less convenient than a receipt."
+          },
+          {
+            "id": "c",
+            "text": "The kettle cannot be returned at all."
+          },
+          {
+            "id": "d",
+            "text": "He does not believe the customer."
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "Ngay sau đó ông ta nói 'But three weeks is inside our thirty-day window… so I can look it up'. Câu 'not ideal' chỉ là nói giảm, không phải từ chối."
+      },
+      {
+        "id": "p3-49",
+        "kind": "mcq",
+        "prompt": "49. What does the man recommend?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Taking a replacement of the same model"
+          },
+          {
+            "id": "b",
+            "text": "Waiting until the receipt is found"
+          },
+          {
+            "id": "c",
+            "text": "Contacting the manufacturer directly"
+          },
+          {
+            "id": "d",
+            "text": "Taking a refund and choosing a different product"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'we've had four of that model back this month, so I'd take the refund and choose something else'."
+      }
+    ]
+  },
+  {
+    "id": "listening-part3-c7",
+    "skill": "listening",
+    "title": "Part 3 — Conversation 7: rearranging a site visit",
+    "format": "TOEIC Listening — Part 3 · Conversation 7 (câu 50–52)",
+    "instructionsVi": "Nghe rồi trả lời 3 câu. Có hai mốc thời gian được nhắc tới và một trong hai bị thay đổi — bám vào lượt nói cuối cùng.",
+    "promptEn": "Listen to the conversation and answer questions 50 through 52.",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "M",
+        "text": "Priya, are we still visiting the Kingsbury site on Tuesday?"
+      },
+      {
+        "speaker": "W",
+        "text": "That was the plan, but the contractor asked to move it. They're pouring concrete Tuesday and the yard will be closed."
+      },
+      {
+        "speaker": "M",
+        "text": "Wednesday, then?"
+      },
+      {
+        "speaker": "W",
+        "text": "Wednesday I'm in Manchester all day. Thursday morning would work — say ten o'clock."
+      },
+      {
+        "speaker": "M",
+        "text": "Ten's fine. How long should I allow?"
+      },
+      {
+        "speaker": "W",
+        "text": "Two hours for the walk-round, plus travel. It's about forty minutes each way, so block out the whole morning."
+      },
+      {
+        "speaker": "M",
+        "text": "I'll update the calendar and let the contractor know."
+      }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p3-50",
+        "kind": "mcq",
+        "prompt": "50. Why was the original date changed?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Concrete is being poured and the yard will be closed."
+          },
+          {
+            "id": "b",
+            "text": "The woman will be in Manchester."
+          },
+          {
+            "id": "c",
+            "text": "The contractor has cancelled the project."
+          },
+          {
+            "id": "d",
+            "text": "The man is unavailable on Tuesday."
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'They're pouring concrete Tuesday and the yard will be closed'. (B) là lý do loại thứ Tư, không phải thứ Ba — bẫy ghép sai lý do với ngày."
+      },
+      {
+        "id": "p3-51",
+        "kind": "mcq",
+        "prompt": "51. When will the visit take place?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Tuesday at ten"
+          },
+          {
+            "id": "b",
+            "text": "Wednesday morning"
+          },
+          {
+            "id": "c",
+            "text": "Thursday at ten"
+          },
+          {
+            "id": "d",
+            "text": "Thursday afternoon"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'Thursday morning would work — say ten o'clock'."
+      },
+      {
+        "id": "p3-52",
+        "kind": "mcq",
+        "prompt": "52. How much time does the woman advise setting aside?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Two hours in total"
+          },
+          {
+            "id": "b",
+            "text": "The whole morning"
+          },
+          {
+            "id": "c",
+            "text": "Forty minutes"
+          },
+          {
+            "id": "d",
+            "text": "The whole day"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "Hai tiếng đi bộ khảo sát cộng bốn mươi phút mỗi chiều, nên bà ấy kết luận 'block out the whole morning'."
+      }
+    ]
+  }
+]

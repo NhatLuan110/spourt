@@ -1,0 +1,692 @@
+[
+  {
+    "id": "listening-part3-c8",
+    "skill": "listening",
+    "title": "Part 3 — Conversation 8: a contract renewal",
+    "format": "TOEIC Listening — Part 3 · Conversation 8 (câu 53–55)",
+    "instructionsVi": "Nghe rồi trả lời 3 câu. Có một quy định kèm ngoại lệ; câu hỏi nhắm đúng vào ngoại lệ.",
+    "promptEn": "Listen to the conversation and answer questions 53 through 55.",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "W",
+        "text": "Our cleaning contract runs out at the end of June. Do we automatically renew?"
+      },
+      {
+        "speaker": "M",
+        "text": "Only if neither side gives notice. Ninety days, so the cut-off would be the end of March."
+      },
+      {
+        "speaker": "W",
+        "text": "That's next week. Are we happy with them?"
+      },
+      {
+        "speaker": "M",
+        "text": "Mostly. The main site is fine. The complaints all come from the Wren Street office, and that's a different crew."
+      },
+      {
+        "speaker": "W",
+        "text": "Can we keep the contract but change the crew?"
+      },
+      {
+        "speaker": "M",
+        "text": "That's exactly what I'd ask for. Renewing gives us leverage to raise it — if we let it lapse we start a tender from scratch, and that's three months of work."
+      }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p3-53",
+        "kind": "mcq",
+        "prompt": "53. Under what condition does the contract renew automatically?",
+        "options": [
+          {
+            "id": "a",
+            "text": "If the company is satisfied with the service"
+          },
+          {
+            "id": "b",
+            "text": "If a new tender is not started"
+          },
+          {
+            "id": "c",
+            "text": "If the crew is changed"
+          },
+          {
+            "id": "d",
+            "text": "If neither party gives ninety days' notice"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'Only if neither side gives notice. Ninety days'."
+      },
+      {
+        "id": "p3-54",
+        "kind": "mcq",
+        "prompt": "54. Where do the complaints come from?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The Wren Street office"
+          },
+          {
+            "id": "b",
+            "text": "The main site"
+          },
+          {
+            "id": "c",
+            "text": "Both sites equally"
+          },
+          {
+            "id": "d",
+            "text": "From the cleaning company itself"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'The main site is fine. The complaints all come from the Wren Street office'."
+      },
+      {
+        "id": "p3-55",
+        "kind": "mcq",
+        "prompt": "55. Why does the man want to renew rather than let the contract lapse?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Renewing is cheaper."
+          },
+          {
+            "id": "b",
+            "text": "The contract cannot legally be ended."
+          },
+          {
+            "id": "c",
+            "text": "A new tender would take about three months."
+          },
+          {
+            "id": "d",
+            "text": "The crew would leave immediately."
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'if we let it lapse we start a tender from scratch, and that's three months of work'."
+      }
+    ]
+  },
+  {
+    "id": "listening-part3-c9",
+    "skill": "listening",
+    "title": "Part 3 — Conversation 9: a delayed publication",
+    "format": "TOEIC Listening — Part 3 · Conversation 9 (câu 56–58)",
+    "instructionsVi": "Nghe rồi trả lời 3 câu. Hai nguyên nhân được nêu ra nhưng chỉ một là nguyên nhân chính — câu hỏi phân biệt đúng chỗ đó.",
+    "promptEn": "Listen to the conversation and answer questions 56 through 58.",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "M",
+        "text": "The annual report was meant to go out on Friday. Where are we?"
+      },
+      {
+        "speaker": "W",
+        "text": "Design is finished. We're waiting on the auditors to sign off the figures."
+      },
+      {
+        "speaker": "M",
+        "text": "I heard the printers were also short-staffed."
+      },
+      {
+        "speaker": "W",
+        "text": "They were, last week, but they've caught up. It really is just the sign-off now."
+      },
+      {
+        "speaker": "M",
+        "text": "How long once we have it?"
+      },
+      {
+        "speaker": "W",
+        "text": "Three working days to print and two to distribute. So if we get the sign-off Monday, it lands with shareholders the following Monday."
+      },
+      {
+        "speaker": "M",
+        "text": "I'll call the audit partner myself this afternoon. That usually moves things."
+      }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p3-56",
+        "kind": "mcq",
+        "prompt": "56. What is holding up the report?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The design is unfinished."
+          },
+          {
+            "id": "b",
+            "text": "The printers are short-staffed."
+          },
+          {
+            "id": "c",
+            "text": "The auditors have not signed off the figures."
+          },
+          {
+            "id": "d",
+            "text": "Shareholder addresses are missing."
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'It really is just the sign-off now'. Nhà in TỪNG thiếu người nhưng đã bắt kịp — bẫy chọn nguyên nhân đã được giải quyết."
+      },
+      {
+        "id": "p3-57",
+        "kind": "mcq",
+        "prompt": "57. How long will printing and distribution take in total?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Two working days"
+          },
+          {
+            "id": "b",
+            "text": "Five working days"
+          },
+          {
+            "id": "c",
+            "text": "Three working days"
+          },
+          {
+            "id": "d",
+            "text": "Ten working days"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "Ba ngày in cộng hai ngày phát hành. Phải cộng hai con số, không có câu nào nói thẳng."
+      },
+      {
+        "id": "p3-58",
+        "kind": "mcq",
+        "prompt": "58. What will the man do?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Contact the audit partner"
+          },
+          {
+            "id": "b",
+            "text": "Find a different printer"
+          },
+          {
+            "id": "c",
+            "text": "Delay the shareholder mailing"
+          },
+          {
+            "id": "d",
+            "text": "Approve the figures himself"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'I'll call the audit partner myself this afternoon'."
+      }
+    ]
+  },
+  {
+    "id": "listening-part3-c10",
+    "skill": "listening",
+    "title": "Part 3 — Conversation 10: a training request",
+    "format": "TOEIC Listening — Part 3 · Conversation 10 (câu 59–61)",
+    "instructionsVi": "Nghe rồi trả lời 3 câu. Người nói dùng cách nói giảm nhẹ để từ chối một phần — câu hỏi hàm ý nhắm vào đó.",
+    "promptEn": "Listen to the conversation and answer questions 59 through 61.",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "W",
+        "text": "I'd like to do the project management certification. It's four days, spread over two months."
+      },
+      {
+        "speaker": "M",
+        "text": "How much is it?"
+      },
+      {
+        "speaker": "W",
+        "text": "Two thousand two hundred, including the exam."
+      },
+      {
+        "speaker": "M",
+        "text": "Right. Well, the training budget for the year is three thousand for the whole team."
+      },
+      {
+        "speaker": "W",
+        "text": "So that's a no."
+      },
+      {
+        "speaker": "M",
+        "text": "It's not a no. It's a not-this-quarter. If you can wait until the new budget in April, I'd support it — and I'd rather fund one proper certification than four half-day courses that change nothing."
+      }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p3-59",
+        "kind": "mcq",
+        "prompt": "59. What is the woman requesting?",
+        "options": [
+          {
+            "id": "a",
+            "text": "A pay rise"
+          },
+          {
+            "id": "b",
+            "text": "Time off to study"
+          },
+          {
+            "id": "c",
+            "text": "A transfer to another team"
+          },
+          {
+            "id": "d",
+            "text": "Funding for a certification course"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'I'd like to do the project management certification… Two thousand two hundred, including the exam'."
+      },
+      {
+        "id": "p3-60",
+        "kind": "mcq",
+        "prompt": "60. What does the man mean by 'It's a not-this-quarter'?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The request is refused permanently."
+          },
+          {
+            "id": "b",
+            "text": "The course is not suitable."
+          },
+          {
+            "id": "c",
+            "text": "The request is delayed, not rejected."
+          },
+          {
+            "id": "d",
+            "text": "Another employee will attend instead."
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "Ông ta nói rõ 'It's not a no' rồi nêu điều kiện đợi tới ngân sách tháng Tư."
+      },
+      {
+        "id": "p3-61",
+        "kind": "mcq",
+        "prompt": "61. What does the man say he prefers?",
+        "options": [
+          {
+            "id": "a",
+            "text": "One substantial certification"
+          },
+          {
+            "id": "b",
+            "text": "Several short courses for the whole team"
+          },
+          {
+            "id": "c",
+            "text": "Online training only"
+          },
+          {
+            "id": "d",
+            "text": "In-house training"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'I'd rather fund one proper certification than four half-day courses that change nothing'."
+      }
+    ]
+  },
+  {
+    "id": "listening-part3-c11",
+    "skill": "listening",
+    "title": "Part 3 — Conversation 11: with a delivery schedule",
+    "format": "TOEIC Listening — Part 3 · Conversation 11, kèm bảng trên đề (câu 62–64)",
+    "instructionsVi": "Dạng 'Look at the graphic'. Người nói mô tả gián tiếp, bạn phải tự đối chiếu bảng. Đọc bảng TRƯỚC khi băng chạy.",
+    "promptEn": "Listen to the conversation and answer questions 62 through 64. Refer to the delivery schedule below where indicated.\n\nDELIVERY WINDOWS — Fairport depot\nRoute A — Mon & Thu — 07:00–11:00\nRoute B — Tue & Fri — 11:00–15:00\nRoute C — Wed only — 07:00–11:00\nRoute D — Mon–Fri — 15:00–19:00",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "M",
+        "text": "The customer says they can only receive goods in the afternoon, and they need it before Wednesday."
+      },
+      {
+        "speaker": "W",
+        "text": "Afternoon rules out the early routes straight away."
+      },
+      {
+        "speaker": "M",
+        "text": "And the one that runs every weekday would work, wouldn't it?"
+      },
+      {
+        "speaker": "W",
+        "text": "It would, but it's the most expensive — there's a surcharge for the late window. The other afternoon option is cheaper but only runs twice a week."
+      },
+      {
+        "speaker": "M",
+        "text": "Twice a week starting Tuesday. That's still before Wednesday."
+      },
+      {
+        "speaker": "W",
+        "text": "Then take that one and save the surcharge. I'll book it now and email you the reference."
+      }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p3-62",
+        "kind": "mcq",
+        "prompt": "62. Look at the graphic. Which route will they book?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Route A"
+          },
+          {
+            "id": "b",
+            "text": "Route C"
+          },
+          {
+            "id": "c",
+            "text": "Route D"
+          },
+          {
+            "id": "d",
+            "text": "Route B"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "Cần buổi chiều nên loại A và C. Trong hai tuyến chiều, họ chọn tuyến rẻ hơn chạy hai lần một tuần và bắt đầu từ thứ Ba — đó là Route B."
+      },
+      {
+        "id": "p3-63",
+        "kind": "mcq",
+        "prompt": "63. Why do they reject the everyday route?",
+        "options": [
+          {
+            "id": "a",
+            "text": "It carries a surcharge."
+          },
+          {
+            "id": "b",
+            "text": "It does not run on Tuesdays."
+          },
+          {
+            "id": "c",
+            "text": "It arrives too late in the week."
+          },
+          {
+            "id": "d",
+            "text": "It is fully booked."
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'it's the most expensive — there's a surcharge for the late window'."
+      },
+      {
+        "id": "p3-64",
+        "kind": "mcq",
+        "prompt": "64. What will the woman send?",
+        "options": [
+          {
+            "id": "a",
+            "text": "An invoice"
+          },
+          {
+            "id": "b",
+            "text": "A revised schedule"
+          },
+          {
+            "id": "c",
+            "text": "A booking reference"
+          },
+          {
+            "id": "d",
+            "text": "A quotation"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'I'll book it now and email you the reference'."
+      }
+    ]
+  },
+  {
+    "id": "listening-part3-c12",
+    "skill": "listening",
+    "title": "Part 3 — Conversation 12: a booking problem",
+    "format": "TOEIC Listening — Part 3 · Conversation 12 (câu 65–67)",
+    "instructionsVi": "Nghe rồi trả lời 3 câu. Phân biệt điều khách ĐÒI với điều nhân viên có thẩm quyền làm.",
+    "promptEn": "Listen to the conversation and answer questions 65 through 67.",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "W",
+        "text": "I booked a twin room for three nights but you've given us a double. There are two of us travelling for work."
+      },
+      {
+        "speaker": "M",
+        "text": "I do apologise. Let me look… you're right, the booking says twin. Unfortunately we're fully occupied tonight."
+      },
+      {
+        "speaker": "W",
+        "text": "So what can you do?"
+      },
+      {
+        "speaker": "M",
+        "text": "For tonight, I can offer a second room at no charge, though it's on a different floor. From tomorrow I can move you both into a twin as booked."
+      },
+      {
+        "speaker": "W",
+        "text": "And will you refund tonight's rate for the inconvenience?"
+      },
+      {
+        "speaker": "M",
+        "text": "I can't authorise a refund at the desk, but I'll log it and the duty manager will call you before ten tomorrow morning."
+      }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p3-65",
+        "kind": "mcq",
+        "prompt": "65. What is the problem?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The wrong room type was allocated."
+          },
+          {
+            "id": "b",
+            "text": "The booking was cancelled."
+          },
+          {
+            "id": "c",
+            "text": "The guests arrived a day early."
+          },
+          {
+            "id": "d",
+            "text": "The rate was charged twice."
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "Đặt phòng hai giường đơn nhưng được xếp phòng giường đôi."
+      },
+      {
+        "id": "p3-66",
+        "kind": "mcq",
+        "prompt": "66. What does the man offer for tonight?",
+        "options": [
+          {
+            "id": "a",
+            "text": "A full refund"
+          },
+          {
+            "id": "b",
+            "text": "An upgrade to a suite"
+          },
+          {
+            "id": "c",
+            "text": "A second room free of charge"
+          },
+          {
+            "id": "d",
+            "text": "A voucher for a future stay"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'I can offer a second room at no charge, though it's on a different floor'."
+      },
+      {
+        "id": "p3-67",
+        "kind": "mcq",
+        "prompt": "67. What does the man say about the refund?",
+        "options": [
+          {
+            "id": "a",
+            "text": "It will be processed immediately."
+          },
+          {
+            "id": "b",
+            "text": "It is not available in this case."
+          },
+          {
+            "id": "c",
+            "text": "It must be requested in writing."
+          },
+          {
+            "id": "d",
+            "text": "The duty manager will call about it."
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'I can't authorise a refund at the desk, but I'll log it and the duty manager will call you'. Không từ chối, chỉ là không đủ thẩm quyền."
+      }
+    ]
+  },
+  {
+    "id": "listening-part3-c13",
+    "skill": "listening",
+    "title": "Part 3 — Conversation 13: three speakers, a website redesign",
+    "format": "TOEIC Listening — Part 3 · Conversation 13, ba người nói (câu 68–70)",
+    "instructionsVi": "Hội thoại cuối của Part 3. Ba người, có bất đồng được giải quyết bằng một phương án dung hoà ở cuối.",
+    "promptEn": "Listen to the conversation among three speakers and answer questions 68 through 70.",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "M1",
+        "text": "The agency has come back with two options for the website. Full rebuild, or refresh the front end only."
+      },
+      {
+        "speaker": "W",
+        "text": "How much between them?"
+      },
+      {
+        "speaker": "M1",
+        "text": "Rebuild is forty thousand, refresh is fourteen."
+      },
+      {
+        "speaker": "M2",
+        "text": "The refresh doesn't fix the checkout, though. That's where we lose people — a third of baskets are abandoned at the payment step."
+      },
+      {
+        "speaker": "W",
+        "text": "Then a refresh is money spent on the part that isn't broken."
+      },
+      {
+        "speaker": "M1",
+        "text": "Forty thousand is more than we have this year."
+      },
+      {
+        "speaker": "M2",
+        "text": "Could we rebuild the checkout alone and leave the rest? It's not either-or."
+      },
+      {
+        "speaker": "W",
+        "text": "Ask them to quote for that. If it comes in under twenty I think we can make a case for it."
+      }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p3-68",
+        "kind": "mcq",
+        "prompt": "68. What problem does the second man identify?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The website loads too slowly."
+          },
+          {
+            "id": "b",
+            "text": "Customers abandon the checkout."
+          },
+          {
+            "id": "c",
+            "text": "The design looks outdated."
+          },
+          {
+            "id": "d",
+            "text": "The agency is too expensive."
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'a third of baskets are abandoned at the payment step'."
+      },
+      {
+        "id": "p3-69",
+        "kind": "mcq",
+        "prompt": "69. Why does the woman object to the cheaper option?",
+        "options": [
+          {
+            "id": "a",
+            "text": "It does not address the actual problem."
+          },
+          {
+            "id": "b",
+            "text": "It would take too long."
+          },
+          {
+            "id": "c",
+            "text": "The agency has never done one before."
+          },
+          {
+            "id": "d",
+            "text": "It would still cost forty thousand."
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'a refresh is money spent on the part that isn't broken'."
+      },
+      {
+        "id": "p3-70",
+        "kind": "mcq",
+        "prompt": "70. What will they ask the agency to do?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Reduce the price of the full rebuild"
+          },
+          {
+            "id": "b",
+            "text": "Start work immediately"
+          },
+          {
+            "id": "c",
+            "text": "Quote for rebuilding the checkout only"
+          },
+          {
+            "id": "d",
+            "text": "Provide references from other clients"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'Could we rebuild the checkout alone… Ask them to quote for that'."
+      }
+    ]
+  }
+]

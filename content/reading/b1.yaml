@@ -1,0 +1,365 @@
+# Bài đọc B1 — câu dài hơn, lập luận có nhiều bước.
+cefr: B1
+passages:
+  - slug: what-happens-to-plastic-in-the-mekong
+    title: What Happens to Plastic in the Mekong
+    titleVi: Rác nhựa trên sông Mê Kông đi về đâu
+    topic: environment
+    estimatedMinutes: 6
+    source: Sprout original
+    glossary: [pollution, recycle, landfill, sustainable, habitat, contaminate, recyclable]
+    body: |
+      Every year the Mekong carries tens of thousands of tonnes of plastic towards the
+      sea, and plastic pollution in the delta is now measured rather than guessed at. Photographs of the delta usually show bottles floating past boats, and that
+      image is accurate but incomplete. The bottles are the part of the problem that
+      is easiest to see and, as it happens, the part that is easiest to solve.
+
+      A bottle is valuable. In most of Vietnam, someone will collect it. Informal
+      waste collectors, who work without contracts and without protection, gather PET
+      bottles and aluminium cans because a buyer pays for them by weight. This system
+      is unfair to the people doing the work, but it does mean that the most
+      recyclable material rarely reaches the water in the first place.
+
+      The material that does reach the water is the material nobody will pay for: thin
+      film, food wrappers, coffee sachets, the small multi-layer packets that hold
+      shampoo or instant noodles. These are made of several kinds of plastic bonded
+      together. No recycling plant can separate them economically, so they go to a
+      landfill, or they blow off the back of a truck, or they wash off a street during
+      the first heavy rain of the season.
+
+      Once in the river, thin film behaves differently from a bottle. It breaks into
+      pieces quickly under sunlight. Those pieces do not disappear; they become small
+      enough to enter the food chain, and they contaminate the habitat of the fish
+      that thirty million people in the delta depend on.
+
+      This is why researchers argue that river cleanup boats, however photogenic, are
+      the wrong place to spend most of the money. By the time plastic is in the water
+      it has already been through the cheapest moment to catch it. A sustainable
+      answer works upstream: packaging that uses one material instead of five, deposit
+      schemes that give thin plastics a price, and waste collection in the districts
+      where trucks currently do not go.
+
+      None of that photographs as well as a boat with a net. All of it matters more.
+    questions:
+      - type: MCQ
+        prompt: According to the passage, why do plastic bottles rarely reach the river?
+        options:
+          - Informal collectors gather them because buyers pay for them
+          - Factories are legally required to take them back
+          - They are too heavy to be carried by the current
+          - Most bottles in Vietnam are made of glass
+        answer: Informal collectors gather them because buyers pay for them
+        explanationVi: "Đoạn hai: chai nhựa có giá trị nên người thu gom phi chính thức
+          nhặt chúng vì được trả tiền theo cân."
+      - type: MCQ
+        prompt: Why can multi-layer sachets not be recycled economically?
+        options:
+          - They combine several kinds of plastic bonded together
+          - They are always contaminated with food
+          - They are too small for machines to see
+          - They are banned from recycling plants by law
+        answer: They combine several kinds of plastic bonded together
+        explanationVi: "Đoạn ba giải thích chúng được làm từ nhiều loại nhựa dán vào
+          nhau nên không nhà máy nào tách ra có lãi."
+      - type: MCQ
+        prompt: What is the author's main criticism of river cleanup boats?
+        options:
+          - They act after the cheapest moment to catch the plastic has passed
+          - They damage the habitat of fish in the delta
+          - They are too expensive for local governments to buy
+          - They collect only bottles and ignore film
+        answer: They act after the cheapest moment to catch the plastic has passed
+        explanationVi: "Đoạn năm: khi nhựa đã xuống nước thì thời điểm rẻ nhất để chặn
+          nó đã trôi qua."
+      - type: TRUE_FALSE
+        prompt: Đúng hay sai theo bài đọc?
+        statement: The author thinks the system of informal waste collection is fair to the collectors.
+        answer: false
+        explanationVi: "Sai. Tác giả viết rõ \"This system is unfair to the people doing
+          the work\" nhưng vẫn thừa nhận nó có hiệu quả."
+      - type: TRUE_FALSE
+        prompt: Đúng hay sai theo bài đọc?
+        statement: Thin plastic film breaks into small pieces faster than bottles do.
+        answer: true
+        explanationVi: "Đúng. Đoạn bốn nói màng mỏng vỡ nhanh dưới ánh nắng, khác với chai."
+      - type: SHORT_ANSWER
+        prompt: "How many people in the delta depend on the fish mentioned in the passage?"
+        accept: ["thirty million", "30 million", "thirty million people"]
+        explanationVi: "\"the fish that thirty million people in the delta depend on\"."
+      - type: SHORT_ANSWER
+        prompt: "Nêu một giải pháp \"upstream\" mà bài đọc đề xuất. Trả lời ngắn bằng tiếng Anh."
+        accept:
+          - packaging that uses one material instead of five
+          - deposit schemes
+          - deposit schemes that give thin plastics a price
+          - waste collection in districts where trucks do not go
+          - single material packaging
+        explanationVi: "Đoạn năm nêu ba hướng: bao bì một loại vật liệu, chương trình đặt
+          cọc để nhựa mỏng có giá, và thu gom rác ở những khu xe tải chưa tới."
+
+  - slug: the-quiet-cost-of-remote-work
+    title: The Quiet Cost of Remote Work
+    titleVi: Cái giá thầm lặng của làm việc từ xa
+    topic: work
+    estimatedMinutes: 6
+    source: Sprout original
+    glossary: [colleague, commute, workload, schedule, overtime, promotion]
+    body: |
+      When offices in Ho Chi Minh City closed in 2021, most people measured the change
+      in hours saved. A commute of forty minutes each way is more than six working
+      weeks a year. Getting those weeks back felt like a straightforward gain, and for
+      many workers it was.
+
+      Three years later the picture is more complicated, and the complication is not
+      the one people expected. Productivity did not collapse. What changed was
+      something harder to put in a report.
+
+      Consider how you used to learn your job. Very little of it came from training
+      documents. You heard a colleague handle a difficult phone call and noticed how
+      they softened a refusal. You saw which meetings your manager left early. You
+      overheard the sentence that explained why a project had really been cancelled.
+      None of that is written down anywhere, and almost none of it survives the move
+      to video calls, where every conversation has a title and an invitation list.
+
+      Junior staff lose the most. A senior engineer who spent ten years in an office
+      already has the map. A graduate who joined in their bedroom has the tasks but
+      not the map, and often does not know the map exists. Managers read their silence
+      as confidence.
+
+      There is a second cost. Without the physical boundary of leaving a building, the
+      working day expands quietly. Surveys across the region find that remote workers
+      report a heavier workload than before, even when their actual output is
+      unchanged, because the schedule no longer has an edge. Overtime stops being an
+      event and becomes a texture.
+
+      None of this is an argument for ordering everybody back. The commute really was
+      wasteful, and the freedom is real, especially for parents and for anyone whose
+      promotion once depended on being visible in the right corridor. But the
+      companies doing this well have accepted that what an office provided was not
+      desks. It was a hundred small accidents a day, and accidents have to be
+      scheduled now, which is a strange sentence, and still the correct one.
+    questions:
+      - type: MCQ
+        prompt: What does the author say most people expected to be the problem with remote work?
+        options:
+          - A fall in productivity
+          - A rise in office rent
+          - Slower internet connections
+          - Fewer promotions for parents
+        answer: A fall in productivity
+        explanationVi: "Đoạn hai: \"Productivity did not collapse\" — điều mọi người lo
+          là năng suất sụt, nhưng nó đã không xảy ra."
+      - type: MCQ
+        prompt: According to the passage, why do junior staff lose the most?
+        options:
+          - They have the tasks but not the informal map of how work happens
+          - They are given harder projects than senior staff
+          - They have slower computers at home
+          - They are excluded from video calls
+        answer: They have the tasks but not the informal map of how work happens
+        explanationVi: "Đoạn bốn: người mới có việc để làm nhưng không có \"the map\" —
+          hiểu biết ngầm về cách công việc thật sự vận hành."
+      - type: MCQ
+        prompt: "What does the author mean by \"Overtime stops being an event and becomes a texture\"?"
+        options:
+          - Extra work is no longer noticed as something separate
+          - Overtime is now paid at a different rate
+          - Companies have banned overtime entirely
+          - Workers celebrate overtime together
+        answer: Extra work is no longer noticed as something separate
+        explanationVi: "Không còn ranh giới rời khỏi toà nhà nên làm thêm không còn là
+          một sự kiện riêng biệt mà hoà vào nền của ngày làm việc."
+      - type: TRUE_FALSE
+        prompt: Đúng hay sai theo bài đọc?
+        statement: The author argues that all employees should return to the office.
+        answer: false
+        explanationVi: "Sai. Đoạn cuối mở đầu bằng \"None of this is an argument for
+          ordering everybody back.\""
+      - type: TRUE_FALSE
+        prompt: Đúng hay sai theo bài đọc?
+        statement: Managers sometimes mistake a junior employee's silence for confidence.
+        answer: true
+        explanationVi: "Đúng. \"Managers read their silence as confidence.\""
+      - type: SHORT_ANSWER
+        prompt: "How many working weeks a year does a forty-minute commute each way cost?"
+        accept: ["more than six", "six", "6", "more than six weeks", "six weeks"]
+        explanationVi: "Đoạn đầu: quãng đường đi làm bốn mươi phút mỗi chiều tương đương
+          hơn sáu tuần làm việc một năm."
+      - type: SHORT_ANSWER
+        prompt: "Theo câu cuối, cái mà văn phòng thật sự cung cấp không phải là bàn ghế, mà là gì? Trả lời bằng tiếng Anh."
+        accept: ["a hundred small accidents a day", "small accidents", "a hundred small accidents"]
+        explanationVi: "\"It was a hundred small accidents a day\" — hàng trăm cuộc gặp
+          tình cờ nhỏ mỗi ngày."
+
+  - slug: why-your-password-is-weaker-than-you-think
+    title: Why Your Password Is Weaker Than You Think
+    titleVi: Vì sao mật khẩu của bạn yếu hơn bạn tưởng
+    topic: technology
+    estimatedMinutes: 5
+    source: Sprout original
+    glossary: [password, device, database]
+    body: |
+      Most advice about passwords is thirty years old and was never very good. You
+      have probably been told to use a capital letter, a number and a symbol, and to
+      change your password every ninety days. Both rules make passwords worse.
+
+      They make them worse because humans respond to rules predictably. Told to add a
+      capital, almost everyone capitalises the first letter. Told to add a number,
+      almost everyone adds it at the end, and the number is usually 1. Told to change
+      the password every quarter, people change `Summer2024!` to `Summer2025!`. An
+      attacker's software knows all of this. It does not guess letter by letter; it
+      guesses the patterns people actually use.
+
+      Length is what genuinely helps, because the work of guessing grows much faster
+      with length than with variety. Four ordinary unrelated words are harder to break
+      than eight characters of nonsense, and far easier to remember.
+
+      But the bigger risk is not that someone guesses your password. It is that a
+      company you signed up to five years ago is careless with its database. When that
+      database leaks, your email address and password appear together in a file that
+      circulates for years. Attackers then try that pair on your bank, your email and
+      your work account. This is called credential stuffing, and it is by far the most
+      common way ordinary accounts are lost.
+
+      Which leads to the two things that actually matter. First, never reuse a
+      password on an account you care about, and use a password manager so that you do
+      not have to remember dozens of them. Second, turn on two-factor authentication,
+      preferably with an app on your device rather than SMS, because a text message
+      can be redirected to somebody else's phone.
+
+      Everything else, including the ninety-day rule, is administration pretending to
+      be security.
+    questions:
+      - type: MCQ
+        prompt: Why does the author say the "capital letter and number" rule makes passwords worse?
+        options:
+          - People follow it in predictable ways that attackers already model
+          - It makes passwords too long to type accurately
+          - It prevents password managers from working
+          - It stops websites from encrypting the password
+        answer: People follow it in predictable ways that attackers already model
+        explanationVi: "Đoạn hai: con người phản ứng với quy tắc theo cách đoán trước
+          được, và phần mềm tấn công đoán theo đúng những khuôn mẫu đó."
+      - type: MCQ
+        prompt: What is credential stuffing, according to the passage?
+        options:
+          - Trying a leaked email and password pair on other services
+          - Filling a login form with very long random text
+          - Encrypting a database twice by mistake
+          - Sending fake password reset emails
+        answer: Trying a leaked email and password pair on other services
+        explanationVi: "Đoạn bốn định nghĩa: kẻ tấn công thử cặp email và mật khẩu bị lộ
+          trên ngân hàng, email và tài khoản công việc của bạn."
+      - type: MCQ
+        prompt: Why does the author prefer an authentication app to SMS?
+        options:
+          - A text message can be redirected to another phone
+          - Apps work without an internet connection
+          - SMS codes expire too quickly
+          - Apps are cheaper for the company
+        answer: A text message can be redirected to another phone
+        explanationVi: "Đoạn năm nói rõ tin nhắn có thể bị chuyển hướng sang điện thoại
+          của người khác."
+      - type: TRUE_FALSE
+        prompt: Đúng hay sai theo bài đọc?
+        statement: The author believes four unrelated words are weaker than eight random characters.
+        answer: false
+        explanationVi: "Sai. Bài viết nói ngược lại: bốn từ thường không liên quan khó
+          phá hơn tám ký tự vô nghĩa, và lại dễ nhớ hơn."
+      - type: TRUE_FALSE
+        prompt: Đúng hay sai theo bài đọc?
+        statement: The biggest risk to an ordinary account is someone guessing the password directly.
+        answer: false
+        explanationVi: "Sai. Rủi ro lớn hơn là cơ sở dữ liệu của một công ty bị lộ, rồi
+          cặp email và mật khẩu bị đem thử ở nơi khác."
+      - type: SHORT_ANSWER
+        prompt: "What single factor does the author say genuinely helps a password?"
+        accept: [length, "its length", "the length"]
+        explanationVi: "\"Length is what genuinely helps\" — độ dài mới là thứ thật sự
+          có tác dụng."
+      - type: SHORT_ANSWER
+        prompt: "Theo câu cuối, quy tắc đổi mật khẩu 90 ngày thực chất là gì? Trả lời bằng tiếng Anh."
+        accept: ["administration pretending to be security", "administration", "administration pretending to be security."]
+        explanationVi: "\"administration pretending to be security\" — thủ tục hành chính
+          giả dạng bảo mật."
+
+  - slug: why-vietnamese-coffee-is-different
+    title: Why Vietnamese Coffee Is Different
+    titleVi: Vì sao cà phê Việt Nam khác biệt
+    topic: daily-life
+    estimatedMinutes: 5
+    source: Sprout original
+    glossary: [humid, recipe, queue, arrive]
+    body: |
+      Walk into a café in Hanoi and order a coffee, and what arrives will not
+      look like coffee anywhere else. It comes in a small glass, half of it
+      sweetened condensed milk, with a metal filter sitting on top and dripping
+      slowly. Nobody is in a hurry.
+
+      There are two reasons for this, and only one of them is about taste.
+
+      The first is the bean. Most of the world drinks arabica, a delicate plant
+      that needs high, cool mountains. Vietnam grows mainly robusta, which
+      tolerates the humid lowlands and produces a cup that is stronger, more
+      bitter, and roughly twice as caffeinated. Robusta is often treated as the
+      cheaper bean, and in blends it usually is. Drunk on its own, it needs
+      something to balance it.
+
+      The second reason is history. Condensed milk arrived with the French, at
+      a time when fresh milk could not survive a day in the heat and there were
+      almost no dairy cows in the country. A tin of sweetened condensed milk
+      kept for months in a cupboard. What began as the only practical option
+      became the recipe everyone grew up with.
+
+      That combination — a strong bitter bean and a very sweet milk — is why
+      the drink works. Neither half would be pleasant alone.
+
+      The slow filter is a third thing, and it is not really about the coffee at
+      all. It takes four or five minutes, which is exactly long enough to make
+      sitting down feel like the point. In a country where iced tea is free and
+      plastic stools are everywhere, a café is somewhere you stay, not somewhere
+      you queue.
+    questions:
+      - type: MCQ
+        prompt: According to the passage, what are the two main reasons Vietnamese coffee tastes different?
+        options:
+          - The type of bean and the use of condensed milk
+          - The roasting method and the water
+          - The filter and the glass
+          - The climate and the price
+        answer: The type of bean and the use of condensed milk
+        explanationVi: "Bài nêu rõ hai lý do: giống cà phê (robusta) và sữa đặc — một
+          về hạt, một về lịch sử."
+      - type: MCQ
+        prompt: Why does the passage say robusta suits Vietnam?
+        options:
+          - It grows well in humid lowlands
+          - It needs cool mountains
+          - It is easier to roast
+          - It has less caffeine
+        answer: It grows well in humid lowlands
+        explanationVi: "Arabica cần núi cao mát, còn robusta chịu được vùng thấp ẩm —
+          đúng điều kiện Việt Nam."
+      - type: TRUE_FALSE
+        prompt: Đúng hay sai theo bài đọc?
+        statement: Condensed milk was chosen because people preferred its taste to fresh milk.
+        answer: false
+        explanationVi: "Sai. Bài nói sữa đặc là lựa chọn duy nhất khả thi vì sữa tươi
+          không để được trong nóng và hầu như không có bò sữa. Khẩu vị đến sau."
+      - type: TRUE_FALSE
+        prompt: Đúng hay sai theo bài đọc?
+        statement: The writer says robusta has about twice as much caffeine as arabica.
+        answer: true
+        explanationVi: "Đúng — \"roughly twice as caffeinated\"."
+      - type: SHORT_ANSWER
+        prompt: How long does the slow filter take, according to the passage?
+        accept: ["four or five minutes", "4 or 5 minutes", "four to five minutes"]
+        explanationVi: "\"It takes four or five minutes\"."
+      - type: SHORT_ANSWER
+        prompt: "Câu cuối phân biệt quán cà phê là nơi thế nào, so với nơi thế nào? Trả lời bằng tiếng Anh."
+        accept:
+          - "somewhere you stay, not somewhere you queue"
+          - "a place you stay not a place you queue"
+          - "somewhere you stay not somewhere you queue"
+        explanationVi: "\"a café is somewhere you stay, not somewhere you queue\" — nơi
+          để ngồi lại, không phải nơi xếp hàng."

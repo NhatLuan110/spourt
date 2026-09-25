@@ -1,0 +1,1372 @@
+# Chủ đề Du lịch (§12.1). Nguồn: Wiktionary (CC BY-SA), WordNet, Tatoeba (CC BY).
+topic: travel
+words:
+  - lemma: boarding
+    cefr: A2
+    frequencyRank: 11500
+    ipaUs: /ˈbɔːrdɪŋ/
+    ipaUk: /ˈbɔːdɪŋ/
+    syllables: board·ing
+    stressPattern: '10'
+    subtopics: [airport]
+    senses:
+      - pos: NOUN
+        definitionEn: The act of getting on a plane, ship or train.
+        definitionVi: Việc lên tàu xe, lên máy bay.
+        examples:
+          - en: Boarding starts thirty minutes before take off.
+            vi: Việc lên máy bay bắt đầu ba mươi phút trước giờ cất cánh.
+          - en: Keep your boarding pass in your hand.
+            vi: Hãy cầm thẻ lên máy bay trong tay.
+
+  - lemma: departure
+    cefr: B1
+    frequencyRank: 8600
+    ipaUs: /dɪˈpɑːrtʃər/
+    ipaUk: /dɪˈpɑːtʃə/
+    syllables: de·par·ture
+    stressPattern: '010'
+    subtopics: [airport]
+    senses:
+      - pos: NOUN
+        definitionEn: The act of leaving a place, especially to start a journey.
+        definitionVi: Sự khởi hành; việc rời đi để bắt đầu chuyến đi.
+        examples:
+          - en: Check the departure board for your gate.
+            vi: Hãy xem bảng khởi hành để biết cửa ra máy bay.
+          - en: Our departure was delayed by fog.
+            vi: Chuyến khởi hành của chúng tôi bị hoãn vì sương mù.
+        antonyms: [arrival]
+
+  - lemma: arrival
+    cefr: B1
+    frequencyRank: 7300
+    ipaUs: /əˈraɪvl̩/
+    ipaUk: /əˈraɪvl̩/
+    syllables: ar·riv·al
+    stressPattern: '010'
+    subtopics: [airport]
+    senses:
+      - pos: NOUN
+        definitionEn: The act of reaching a place at the end of a journey.
+        definitionVi: Sự đến nơi; việc tới đích ở cuối hành trình.
+        examples:
+          - en: On arrival, please show your passport.
+            vi: Khi tới nơi, vui lòng xuất trình hộ chiếu.
+          - en: The arrival hall was full of families.
+            vi: Sảnh đến chật kín các gia đình.
+        antonyms: [departure]
+
+  - lemma: luggage
+    cefr: A2
+    frequencyRank: 12700
+    ipaUs: /ˈlʌɡɪdʒ/
+    ipaUk: /ˈlʌɡɪdʒ/
+    syllables: lug·gage
+    stressPattern: '10'
+    subtopics: [airport, travel-problems]
+    senses:
+      - pos: NOUN
+        definitionEn: The bags and cases you take with you when travelling.
+        definitionVi: Hành lý; túi và vali mang theo khi đi lại.
+        examples:
+          - en: My luggage went to the wrong city.
+            vi: Hành lý của tôi bị chuyển nhầm thành phố.
+          - en: Hand luggage must fit under the seat.
+            vi: Hành lý xách tay phải vừa dưới ghế ngồi.
+
+  - lemma: reservation
+    cefr: B1
+    frequencyRank: 9900
+    ipaUs: /ˌrezərˈveɪʃn̩/
+    ipaUk: /ˌrezəˈveɪʃn̩/
+    syllables: res·er·va·tion
+    stressPattern: '0010'
+    subtopics: [booking, hotel]
+    senses:
+      - pos: NOUN
+        definitionEn: An arrangement to keep a room, seat or table for you.
+        definitionVi: Việc đặt trước; sắp xếp giữ phòng, ghế hay bàn cho bạn.
+        examples:
+          - en: I have a reservation under the name Linh.
+            vi: Tôi có đặt phòng dưới tên Linh.
+          - en: Cancel the reservation before six or you will be charged.
+            vi: Huỷ đặt chỗ trước sáu giờ nếu không bạn sẽ bị tính tiền.
+
+  - lemma: itinerary
+    cefr: C1
+    frequencyRank: 22600
+    ipaUs: /aɪˈtɪnəreri/
+    ipaUk: /aɪˈtɪnərəri/
+    syllables: i·tin·er·ar·y
+    stressPattern: '01000'
+    subtopics: [sightseeing, booking]
+    senses:
+      - pos: NOUN
+        definitionEn: A plan of a journey, listing places and times.
+        definitionVi: Lịch trình; kế hoạch chuyến đi ghi rõ địa điểm và thời gian.
+        examples:
+          - en: The itinerary gives us two days in Hue.
+            vi: Lịch trình cho chúng ta hai ngày ở Huế.
+          - en: She printed the itinerary and left a copy at home.
+            vi: Cô ấy in lịch trình và để lại một bản ở nhà.
+
+  - lemma: accommodation
+    cefr: B1
+    frequencyRank: 10400
+    ipaUs: /əˌkɑːməˈdeɪʃn̩/
+    ipaUk: /əˌkɒməˈdeɪʃn̩/
+    syllables: ac·com·mo·da·tion
+    stressPattern: '00010'
+    subtopics: [hotel, booking]
+    senses:
+      - pos: NOUN
+        definitionEn: A place to stay, such as a hotel room or a flat.
+        definitionVi: Chỗ ở; nơi lưu trú như phòng khách sạn hay căn hộ.
+        examples:
+          - en: Accommodation in the old town is cheap in the rainy season.
+            vi: Chỗ ở trong phố cổ rẻ vào mùa mưa.
+          - en: The price includes accommodation and breakfast.
+            vi: Giá đã gồm chỗ ở và bữa sáng.
+
+  - lemma: sightseeing
+    cefr: A2
+    frequencyRank: 21200
+    ipaUs: /ˈsaɪtsiːɪŋ/
+    ipaUk: /ˈsaɪtsiːɪŋ/
+    syllables: sight·see·ing
+    stressPattern: '100'
+    subtopics: [sightseeing]
+    senses:
+      - pos: NOUN
+        definitionEn: Visiting interesting places as a tourist.
+        definitionVi: Việc tham quan; đi xem các địa điểm thú vị với tư cách khách du lịch.
+        examples:
+          - en: We spent the morning sightseeing along the river.
+            vi: Chúng tôi dành buổi sáng tham quan dọc bờ sông.
+          - en: There is no time for sightseeing on this trip.
+            vi: Chuyến này không có thời gian tham quan.
+
+  - lemma: delay
+    cefr: A2
+    frequencyRank: 4600
+    ipaUs: /dɪˈleɪ/
+    ipaUk: /dɪˈleɪ/
+    syllables: de·lay
+    stressPattern: '01'
+    subtopics: [travel-problems]
+    senses:
+      - pos: NOUN
+        definitionEn: A period of waiting because something is late.
+        definitionVi: Sự chậm trễ; khoảng thời gian phải chờ vì bị muộn.
+        examples:
+          - en: There is a two hour delay on all flights.
+            vi: Mọi chuyến bay đều chậm hai tiếng.
+          - en: The delay made us miss the last bus.
+            vi: Sự chậm trễ khiến chúng tôi lỡ chuyến xe cuối.
+
+  - lemma: cancel
+    cefr: A2
+    frequencyRank: 5500
+    ipaUs: /ˈkænsl̩/
+    ipaUk: /ˈkænsl̩/
+    syllables: can·cel
+    stressPattern: '10'
+    subtopics: [booking, travel-problems]
+    senses:
+      - pos: VERB
+        definitionEn: To say that something planned will not happen.
+        definitionVi: Huỷ; tuyên bố việc đã lên kế hoạch sẽ không diễn ra.
+        examples:
+          - en: They cancelled the train because of the storm.
+            vi: Họ huỷ chuyến tàu vì bão.
+          - en: You can cancel free of charge until Friday.
+            vi: Bạn có thể huỷ miễn phí cho đến thứ Sáu.
+
+  - lemma: currency
+    cefr: B1
+    frequencyRank: 6600
+    ipaUs: /ˈkɜːrənsi/
+    ipaUk: /ˈkʌrənsi/
+    syllables: cur·ren·cy
+    stressPattern: '100'
+    subtopics: [travel-problems]
+    senses:
+      - pos: NOUN
+        definitionEn: The system of money used in a country.
+        definitionVi: Tiền tệ; hệ thống tiền được dùng ở một quốc gia.
+        examples:
+          - en: Change your currency before you leave the airport.
+            vi: Hãy đổi tiền trước khi rời sân bay.
+          - en: The local currency is not accepted across the border.
+            vi: Đồng tiền địa phương không được chấp nhận bên kia biên giới.
+
+  - lemma: destination
+    cefr: B1
+    frequencyRank: 7800
+    ipaUs: /ˌdestɪˈneɪʃn̩/
+    ipaUk: /ˌdestɪˈneɪʃn̩/
+    syllables: des·ti·na·tion
+    stressPattern: '0010'
+    subtopics: [sightseeing]
+    senses:
+      - pos: NOUN
+        definitionEn: The place someone is travelling to.
+        definitionVi: Điểm đến; nơi mà ai đó đang đi tới.
+        examples:
+          - en: Our final destination is a village in the mountains.
+            vi: Điểm đến cuối cùng của chúng tôi là một ngôi làng trên núi.
+          - en: Hoi An is a popular destination in spring.
+            vi: Hội An là điểm đến được ưa chuộng vào mùa xuân.
+
+  - lemma: passport
+    cefr: A2
+    frequencyRank: 9300
+    ipaUs: /ˈpæspɔːrt/
+    ipaUk: /ˈpɑːspɔːt/
+    syllables: pass·port
+    stressPattern: '10'
+    subtopics: [airport]
+    senses:
+      - pos: NOUN
+        definitionEn: An official book that lets you travel to other countries.
+        definitionVi: Hộ chiếu; sổ chính thức cho phép bạn ra nước ngoài.
+        examples:
+          - en: My passport expires in October.
+            vi: Hộ chiếu của tôi hết hạn vào tháng Mười.
+          - en: Keep your passport in the hotel safe.
+            vi: Hãy để hộ chiếu trong két an toàn của khách sạn.
+
+  - lemma: transport
+    cefr: B1
+    frequencyRank: 3800
+    ipaUs: /ˈtrænspɔːrt/
+    ipaUk: /ˈtrænspɔːt/
+    syllables: trans·port
+    stressPattern: '10'
+    subtopics: [transport]
+    senses:
+      - pos: NOUN
+        definitionEn: A system or vehicle for carrying people or goods.
+        definitionVi: Phương tiện giao thông, vận tải; hệ thống chở người hoặc hàng.
+        examples:
+          - en: Public transport in the city is cheap and slow.
+            vi: Giao thông công cộng trong thành phố rẻ nhưng chậm.
+          - en: We arranged transport from the station to the hotel.
+            vi: Chúng tôi đã thu xếp phương tiện từ ga về khách sạn.
+
+  - lemma: fare
+    cefr: B1
+    frequencyRank: 10900
+    ipaUs: /fer/
+    ipaUk: /feə/
+    syllables: fare
+    stressPattern: '1'
+    subtopics: [transport]
+    senses:
+      - pos: NOUN
+        definitionEn: The money you pay to travel on a bus, train or plane.
+        definitionVi: Tiền vé; khoản tiền trả để đi xe buýt, tàu hay máy bay.
+        examples:
+          - en: The bus fare went up by two thousand dong.
+            vi: Tiền vé xe buýt tăng hai nghìn đồng.
+          - en: Children under six travel at half fare.
+            vi: Trẻ dưới sáu tuổi đi với nửa giá vé.
+
+  - lemma: check-in
+    cefr: A2
+    frequencyRank: 19800
+    ipaUs: /ˈtʃekɪn/
+    ipaUk: /ˈtʃekɪn/
+    syllables: check·in
+    stressPattern: '10'
+    subtopics: [hotel, airport]
+    senses:
+      - pos: NOUN
+        definitionEn: The act of reporting your arrival at a hotel or an airport.
+        definitionVi: Thủ tục nhận phòng hoặc làm thủ tục bay.
+        examples:
+          - en: Check-in opens two hours before the flight.
+            vi: Quầy làm thủ tục mở hai tiếng trước chuyến bay.
+          - en: Late check-in costs an extra fee.
+            vi: Nhận phòng muộn phải trả thêm phí.
+
+  - lemma: souvenir
+    cefr: A2
+    frequencyRank: 17100
+    ipaUs: /ˌsuːvəˈnɪr/
+    ipaUk: /ˌsuːvəˈnɪə/
+    syllables: sou·ve·nir
+    stressPattern: '001'
+    subtopics: [sightseeing]
+    senses:
+      - pos: NOUN
+        definitionEn: A small object bought to remember a place by.
+        definitionVi: Quà lưu niệm; vật nhỏ mua để nhớ về một nơi.
+        examples:
+          - en: She bought a lantern as a souvenir.
+            vi: Cô ấy mua một chiếc đèn lồng làm quà lưu niệm.
+          - en: The souvenir shops close at nine.
+            vi: Các cửa hàng lưu niệm đóng cửa lúc chín giờ.
+
+  - lemma: direction
+    cefr: A2
+    frequencyRank: 2200
+    ipaUs: /dəˈrekʃn̩/
+    ipaUk: /dəˈrekʃn̩/
+    syllables: di·rec·tion
+    stressPattern: '010'
+    subtopics: [directions]
+    senses:
+      - pos: NOUN
+        definitionEn: The way something moves or faces; instructions for getting somewhere.
+        definitionVi: Hướng; hoặc chỉ dẫn đường đi.
+        examples:
+          - en: We walked in the wrong direction for ten minutes.
+            vi: Chúng tôi đi sai hướng suốt mười phút.
+          - en: A woman gave us directions to the market.
+            vi: Một người phụ nữ chỉ đường cho chúng tôi ra chợ.
+
+  - lemma: departure lounge
+    cefr: B1
+    frequencyRank: 28400
+    ipaUs: /dɪˈpɑːrtʃər laʊndʒ/
+    ipaUk: /dɪˈpɑːtʃə laʊndʒ/
+    syllables: de·par·ture lounge
+    stressPattern: '0101'
+    subtopics: [airport]
+    senses:
+      - pos: NOUN
+        definitionEn: The room where passengers wait before getting on a plane.
+        definitionVi: Phòng chờ khởi hành; nơi hành khách đợi trước khi lên máy bay.
+        examples:
+          - en: We waited in the departure lounge for four hours.
+            vi: Chúng tôi đợi ở phòng chờ khởi hành suốt bốn tiếng.
+          - en: The departure lounge has free water and slow wifi.
+            vi: Phòng chờ khởi hành có nước miễn phí và wifi chậm.
+
+  - lemma: journey
+    cefr: A2
+    frequencyRank: 3000
+    ipaUs: /ˈdʒɜːrni/
+    ipaUk: /ˈdʒɜːni/
+    syllables: jour·ney
+    stressPattern: '10'
+    subtopics: [transport]
+    senses:
+      - pos: NOUN
+        definitionEn: An act of travelling from one place to another.
+        definitionVi: Chuyến đi, hành trình; việc di chuyển từ nơi này tới nơi khác.
+        examples:
+          - en: The journey from Hanoi to Sapa takes six hours.
+            vi: Hành trình từ Hà Nội lên Sa Pa mất sáu tiếng.
+          - en: It was a long journey but the view was worth it.
+            vi: Đó là chuyến đi dài nhưng cảnh đẹp thì đáng công.
+
+  - lemma: arrive
+    cefr: A1
+    frequencyRank: 1500
+    ipaUs: /əˈraɪv/
+    ipaUk: /əˈraɪv/
+    syllables: ar·rive
+    stressPattern: '01'
+    subtopics: [airport, transport]
+    senses:
+      - pos: VERB
+        definitionEn: To reach a place at the end of a journey.
+        definitionVi: Đến nơi; tới đích ở cuối chuyến đi.
+        examples:
+          - en: We arrive in Hue at half past five.
+            vi: Chúng tôi đến Huế lúc năm giờ rưỡi.
+          - en: The train arrived twenty minutes late.
+            vi: Tàu đến muộn hai mươi phút.
+
+  - lemma: visa
+    cefr: A2
+    frequencyRank: 6200
+    ipaUs: /ˈviːzə/
+    ipaUk: /ˈviːzə/
+    syllables: vi·sa
+    stressPattern: '10'
+    subtopics: [airport]
+    senses:
+      - pos: NOUN
+        definitionEn: Official permission stamped in a passport to enter a country.
+        definitionVi: Thị thực; giấy phép nhập cảnh đóng trong hộ chiếu.
+        examples:
+          - en: A tourist visa lasts thirty days.
+            vi: Thị thực du lịch có hạn ba mươi ngày.
+          - en: Apply for the visa at least a month early.
+            vi: Xin thị thực trước ít nhất một tháng.
+
+  - lemma: aisle
+    cefr: B1
+    frequencyRank: 11300
+    ipaUs: /aɪl/
+    ipaUk: /aɪl/
+    syllables: aisle
+    stressPattern: '1'
+    subtopics: [airport]
+    senses:
+      - pos: NOUN
+        definitionEn: The passage between rows of seats on a plane or in a shop.
+        definitionVi: Lối đi giữa các hàng ghế trên máy bay, hoặc giữa các kệ hàng.
+        examples:
+          - en: I always ask for an aisle seat.
+            vi: Tôi luôn xin ghế sát lối đi.
+          - en: Keep the aisle clear during take-off.
+            vi: Giữ lối đi thông thoáng khi cất cánh.
+
+  - lemma: layover
+    cefr: B2
+    frequencyRank: 16900
+    ipaUs: /ˈleɪoʊvər/
+    ipaUk: /ˈleɪəʊvə/
+    syllables: lay·o·ver
+    stressPattern: '100'
+    subtopics: [travel-problems]
+    senses:
+      - pos: NOUN
+        definitionEn: A short stop between two flights.
+        definitionVi: Thời gian nối chuyến; khoảng dừng ngắn giữa hai chuyến bay.
+        examples:
+          - en: We have a four-hour layover in Bangkok.
+            vi: Chúng tôi nối chuyến bốn tiếng ở Bangkok.
+          - en: A short layover is risky if the first flight is late.
+            vi: Nối chuyến ngắn rất rủi ro nếu chuyến đầu trễ.
+
+  - lemma: refund
+    cefr: B1
+    frequencyRank: 8100
+    ipaUs: /ˈriːfʌnd/
+    ipaUk: /ˈriːfʌnd/
+    syllables: re·fund
+    stressPattern: '10'
+    subtopics: [travel-problems]
+    senses:
+      - pos: NOUN
+        definitionEn: Money paid back when something is returned or cancelled.
+        definitionVi: Tiền hoàn lại; khoản trả lại khi trả hàng hoặc huỷ dịch vụ.
+        examples:
+          - en: The airline offered a full refund.
+            vi: Hãng bay đồng ý hoàn tiền toàn bộ.
+          - en: A refund takes up to ten working days.
+            vi: Việc hoàn tiền mất tới mười ngày làm việc.
+
+  - lemma: customs
+    cefr: B1
+    frequencyRank: 7400
+    ipaUs: /ˈkʌstəmz/
+    ipaUk: /ˈkʌstəmz/
+    syllables: cus·toms
+    stressPattern: '10'
+    subtopics: [airport]
+    senses:
+      - pos: NOUN
+        definitionEn: The place where officials check what you bring into a country.
+        definitionVi: Hải quan; nơi kiểm tra hàng hoá mang vào một nước.
+        examples:
+          - en: We waited forty minutes at customs.
+            vi: Chúng tôi chờ bốn mươi phút ở hải quan.
+          - en: Declare any food at customs.
+            vi: Khai báo thực phẩm ở hải quan.
+
+  - lemma: landmark
+    cefr: B1
+    frequencyRank: 10100
+    ipaUs: /ˈlændmɑːrk/
+    ipaUk: /ˈlændmɑːk/
+    syllables: land·mark
+    stressPattern: '10'
+    subtopics: [sightseeing]
+    senses:
+      - pos: NOUN
+        definitionEn: A well-known building or feature that is easy to recognise.
+        definitionVi: Địa danh nổi bật; công trình hoặc cảnh dễ nhận ra.
+        examples:
+          - en: The bridge is the city's best-known landmark.
+            vi: Cây cầu là địa danh nổi tiếng nhất thành phố.
+          - en: Meet me at the landmark by the lake.
+            vi: Gặp tôi ở chỗ địa danh cạnh hồ nhé.
+
+  - lemma: ticket
+    cefr: A1
+    ipaUs: /ˈtɪkɪt/
+    senses:
+      - pos: NOUN
+        definitionEn: A printed or digital paper giving the holder the right to enter a place or travel.
+        definitionVi: Vé
+        examples:
+          - en: Please show your ticket to the conductor before boarding the train.
+            vi: Vui lòng xuất trình vé cho người soát vé trước khi lên tàu.
+          - en: I bought a cheap ticket online for my flight to Paris.
+            vi: Tôi đã mua vé giá rẻ trực tuyến cho chuyến bay đến Paris.
+  - lemma: document
+    cefr: A2
+    ipaUs: /ˈdɑːkjumənt/
+    senses:
+      - pos: NOUN
+        definitionEn: A piece of written text saved electronically for work or study.
+        definitionVi: tài liệu
+        examples:
+          - en: She typed the important document before the meeting.
+            vi: Cô ấy đã đánh máy tài liệu quan trọng trước cuộc họp.
+          - en: Send the signed document back via email today.
+            vi: Hãy gửi lại tài liệu đã ký qua email hôm nay.
+  - lemma: terminal
+    cefr: B1
+    ipaUs: /ˈtɜːrmɪnl/
+    senses:
+      - pos: NOUN
+        definitionEn: A large building at an airport or station where passengers arrive and depart.
+        definitionVi: Nhà ga
+        examples:
+          - en: Our international flight departs from terminal two early tomorrow morning.
+            vi: Chuyến bay quốc tế của chúng tôi khởi hành từ nhà ga số hai vào sáng sớm mai.
+          - en: We waited inside the busy terminal for our delayed baggage to arrive.
+            vi: Chúng tôi chờ đợi bên trong nhà ga đông đúc để hành lý bị chậm trễ của mình đến nơi.
+  - lemma: gate
+    cefr: A2
+    ipaUs: /ɡeɪt/
+    senses:
+      - pos: NOUN
+        definitionEn: A barrier that opens and closes like a door in a fence or wall.
+        definitionVi: cái cổng
+        examples:
+          - en: Please remember to close the garden gate after you enter.
+            vi: Xin hãy nhớ đóng cái cổng vườn sau khi bạn bước vào.
+          - en: The tall metal gate protects the front yard from strays.
+            vi: Cái cổng kim loại cao bảo vệ sân trước khỏi chó mèo lang thang.
+  - lemma: connection
+    cefr: B1
+    ipaUs: /kəˈnekʃn/
+    senses:
+      - pos: NOUN
+        definitionEn: A continuation of a journey by changing planes, trains, or buses.
+        definitionVi: Chuyến nối chuyến
+        examples:
+          - en: We only have forty minutes to make our international flight connection.
+            vi: Chúng tôi chỉ có bốn mươi phút để thực hiện chuyến nối chuyến bay quốc tế của mình.
+          - en: Missing your travel connection can ruin a carefully planned vacation.
+            vi: Việc lỡ chuyến nối chuyến du lịch có thể làm hỏng một kỳ nghỉ được lên kế hoạch cẩn thận.
+  - lemma: transfer
+    cefr: B1
+    ipaUs: /ˈtrænsfɜːr/
+    senses:
+      - pos: NOUN
+        definitionEn: An act of moving from one vehicle or place to another during travel.
+        definitionVi: Sự chuyển tiếp
+        examples:
+          - en: The hotel provides a free airport transfer for all registered guests.
+            vi: Khách sạn cung cấp dịch vụ xe đưa đón sân bay miễn phí cho tất cả khách đã đăng ký.
+          - en: Our bus transfer to the mountain resort takes about two hours.
+            vi: Chuyến xe trung chuyển của chúng tôi đến khu nghỉ dưỡng trên núi mất khoảng hai giờ.
+  - lemma: transit
+    cefr: B1
+    ipaUs: /ˈtrænzɪt/
+    senses:
+      - pos: NOUN
+        definitionEn: The movement of people or goods from one place to another.
+        definitionVi: Sự quá cảnh
+        examples:
+          - en: Passengers in transit do not need to clear local customs immediately.
+            vi: Hành khách quá cảnh không cần phải làm thủ tục hải quan địa phương ngay lập tức.
+          - en: Our luggage was lost somewhere in transit between London and Tokyo.
+            vi: Hành lý của chúng tôi đã bị thất lạc ở đâu đó trong quá trình quá cảnh giữa Luân Đôn và Tokyo.
+  - lemma: lounge
+    cefr: B1
+    ipaUs: /laʊndʒ/
+    senses:
+      - pos: NOUN
+        definitionEn: A comfortable room in an airport or station where travelers can relax.
+        definitionVi: Phòng chờ
+        examples:
+          - en: First-class travelers can relax inside the airport lounge before departure.
+            vi: Hành khách hạng nhất có thể thư giãn bên trong phòng chờ sân bay trước khi khởi hành.
+          - en: We drank some coffee while waiting in the executive lounge.
+            vi: Chúng tôi đã uống chút cà phê trong khi chờ đợi tại phòng chờ hạng thương gia.
+  - lemma: window
+    cefr: A1
+    ipaUs: /ˈwɪndoʊ/
+    senses:
+      - pos: NOUN
+        definitionEn: An opening in the wall of a vehicle fitted with glass to look outside.
+        definitionVi: Cửa sổ
+        examples:
+          - en: I always prefer to sit near the window during long flights.
+            vi: Tôi luôn thích ngồi gần cửa sổ trong các chuyến bay dài.
+          - en: Looking out the window, she watched the clouds slowly pass by.
+            vi: Nhìn ra ngoài cửa sổ, cô ấy ngắm nhìn những đám mây trôi qua chậm rãi.
+  - lemma: exit
+    cefr: A2
+    ipaUs: /ˈeksɪt/
+    senses:
+      - pos: NOUN
+        definitionEn: A door or way out of a building, room, or vehicle.
+        definitionVi: Lối ra
+        examples:
+          - en: Locate the nearest emergency exit before taking your seat on board.
+            vi: Xác định vị trí lối ra khẩn cấp gần nhất trước khi bạn ngồi vào ghế.
+          - en: We finally found the baggage claim exit after a long wait.
+            vi: Cuối cùng chúng tôi đã tìm thấy lối ra nhận hành lý sau một thời gian chờ đợi dài.
+  - lemma: seatbelt
+    cefr: A2
+    ipaUs: /ˈsiːtbelt/
+    senses:
+      - pos: NOUN
+        definitionEn: A strap designed to hold a passenger safely in a seat.
+        definitionVi: Dây an toàn
+        examples:
+          - en: Please fasten your seatbelt securely before the airplane starts moving.
+            vi: Vui lòng thắt dây an toàn thật chặt trước khi máy bay bắt đầu di chuyển.
+          - en: The flight attendant reminded everyone to keep their seatbelt fastened tightly.
+            vi: Tiếp viên hàng không nhắc nhở mọi người giữ dây an toàn được thắt chặt.
+  - lemma: passenger
+    cefr: A1
+    ipaUs: /ˈpæsɪndʒər/
+    senses:
+      - pos: NOUN
+        definitionEn: A person who is traveling in a vehicle without driving it.
+        definitionVi: Hành khách
+        examples:
+          - en: Every passenger must show a valid boarding pass at the counter.
+            vi: Mọi hành khách phải xuất trình thẻ lên máy bay hợp lệ tại quầy.
+          - en: The friendly driver greeted each passenger as they entered the bus.
+            vi: Người lái xe thân thiện chào đón từng hành khách khi họ bước lên xe buýt.
+  - lemma: tourist
+    cefr: A1
+    ipaUs: /ˈtʊrɪst/
+    senses:
+      - pos: NOUN
+        definitionEn: A person who is traveling or visiting a place for pleasure.
+        definitionVi: Khách du lịch
+        examples:
+          - en: Many tourist groups visit the ancient temple every single day.
+            vi: Nhiều nhóm khách du lịch ghé thăm ngôi đền cổ kính này mỗi ngày.
+          - en: The curious tourist took many photographs of the historic city center.
+            vi: Khách du lịch tò mò đã chụp rất nhiều bức ảnh về trung tâm thành phố lịch sử.
+  - lemma: backpacker
+    cefr: B1
+    ipaUs: /ˈbækpækər/
+    senses:
+      - pos: NOUN
+        definitionEn: A traveler who carries a large backpack and travels cheaply.
+        definitionVi: Khách du lịch ba lô
+        examples:
+          - en: A young backpacker explored the mountain trails with minimal luggage.
+            vi: Một khách du lịch ba lô trẻ tuổi đã khám phá các lối mòn trên núi với ít hành lý.
+          - en: Every young backpacker needs a sturdy bag for long journeys.
+            vi: Mọi khách du lịch ba lô trẻ tuổi đều cần một chiếc túi chắc chắn cho những chuyến đi dài.
+  - lemma: excursion
+    cefr: B2
+    ipaUs: /ɪkˈskɜːrʒn/
+    senses:
+      - pos: NOUN
+        definitionEn: A short journey or trip made for pleasure, usually returning the same day.
+        definitionVi: Chuyến tham quan
+        examples:
+          - en: We booked a guided excursion to the nearby coral reef islands.
+            vi: Chúng tôi đã đặt một chuyến tham quan có hướng dẫn đến các hòn đảo rạn san hô gần đó.
+          - en: The exciting mountain excursion lasted for the entire sunny afternoon.
+            vi: Chuyến tham quan vùng núi thú vị kéo dài suốt cả buổi chiều đầy nắng.
+  - lemma: cruise
+    cefr: B1
+    ipaUs: /kruːz/
+    senses:
+      - pos: NOUN
+        definitionEn: A holiday on a large ship where people visit several places.
+        definitionVi: Chuyến du ngoạn
+        examples:
+          - en: They enjoyed a relaxing Caribbean cruise during their wedding anniversary.
+            vi: Họ tận hưởng một chuyến du ngoạn vùng Caribbean thư giãn trong lễ kỷ niệm ngày cưới của họ.
+          - en: Our family booked a luxury cruise across the Mediterranean Sea.
+            vi: Gia đình chúng tôi đã đặt một chuyến du ngoạn sang trọng băng qua Biển Địa Trung Hải.
+  - lemma: voyage
+    cefr: B2
+    ipaUs: /ˈvɔɪɪdʒ/
+    senses:
+      - pos: NOUN
+        definitionEn: A long journey, especially by ship across the ocean or in space.
+        definitionVi: Chuyến hải hành
+        examples:
+          - en: The historic sea voyage across the Atlantic Ocean took six weeks.
+            vi: Chuyến hải hành lịch sử băng qua Đại Tây Dương kéo dài sáu tuần.
+          - en: Sailors prepared their vessel for a dangerous voyage into unknown waters.
+            vi: Các thủy thủ chuẩn bị tàu của họ cho một chuyến hải hành nguy hiểm vào vùng biển chưa biết.
+  - lemma: trip
+    cefr: A1
+    ipaUs: /trɪp/
+    senses:
+      - pos: NOUN
+        definitionEn: A journey in which you visit a place and return again.
+        definitionVi: Chuyến đi
+        examples:
+          - en: Our family planned a wonderful camping trip for the summer holidays.
+            vi: Gia đình chúng tôi đã lên kế hoạch cho một chuyến đi cắm trại tuyệt vời vào kỳ nghỉ hè.
+          - en: Business trip requirements often demand frequent travel across different continents.
+            vi: Các yêu cầu của chuyến đi công tác thường đòi hỏi việc di chuyển thường xuyên qua các châu lục.
+  - lemma: tour
+    cefr: A1
+    ipaUs: /tʊr/
+    senses:
+      - pos: NOUN
+        definitionEn: A journey for pleasure in which you visit several different places.
+        definitionVi: Tour du lịch
+        examples:
+          - en: We joined a walking tour of the historic European city.
+            vi: Chúng tôi tham gia một chuyến tham quan đi bộ ở thành phố lịch sử châu Âu.
+          - en: The guided museum tour gave us deep insights into local history.
+            vi: Chuyến tham quan bảo tàng có hướng dẫn mang lại cho chúng tôi cái nhìn sâu sắc về lịch sử.
+  - lemma: guide
+    cefr: A2
+    ipaUs: /ɡaɪd/
+    senses:
+      - pos: NOUN
+        definitionEn: A person who shows visitors around places of interest.
+        definitionVi: Hướng dẫn viên
+        examples:
+          - en: Our local tour guide explained the ancient history of the palace.
+            vi: Hướng dẫn viên du lịch địa phương của chúng tôi đã giải thích lịch sử cổ xưa của cung điện.
+          - en: A helpful museum guide showed us the rare prehistoric artifacts.
+            vi: Một hướng dẫn viên bảo tàng hữu ích đã cho chúng tôi xem các hiện vật tiền sử quý hiếm.
+  - lemma: brochure
+    cefr: B1
+    ipaUs: /ˈbroʊ.ʃʊr/
+    senses:
+      - pos: NOUN
+        definitionEn: A small book or magazine containing pictures and information about a product or service.
+        definitionVi: tài liệu quảng cáo
+        examples:
+          - en: Grab a travel brochure from the rack before planning your trip.
+            vi: Hãy lấy một tài liệu quảng cáo du lịch từ giá trước khi lên kế hoạch cho chuyến đi.
+          - en: The colorful brochure highlights the top tourist attractions in the city.
+            vi: Tài liệu quảng cáo đầy màu sắc nêu bật các điểm tham quan hàng đầu trong thành phố.
+  - lemma: map
+    cefr: A1
+    ipaUs: /mæp/
+    senses:
+      - pos: NOUN
+        definitionEn: A diagrammatic representation of an area of land or sea.
+        definitionVi: bản đồ
+        examples:
+          - en: She unfolded a paper map to find the nearest subway station.
+            vi: Cô ấy mở một tấm bản đồ giấy để tìm ga tàu điện ngầm gần nhất.
+          - en: Always keep a digital map handy when exploring a new city.
+            vi: Luôn giữ một bản đồ kỹ thuật số sẵn sàng khi khám phá một thành phố mới.
+  - lemma: route
+    cefr: A2
+    ipaUs: /ruːt/
+    senses:
+      - pos: NOUN
+        definitionEn: A way or course taken in getting from a starting place to a destination.
+        definitionVi: tuyến đường
+        examples:
+          - en: This scenic route offers breathtaking views of the mountains and ocean.
+            vi: Tuyến đường phong cảnh này mang lại tầm nhìn tuyệt đẹp ra núi và đại dương.
+          - en: We changed our driving route to avoid heavy traffic on the highway.
+            vi: Chúng tôi đã đổi tuyến đường lái xe để tránh tắc đường nặng trên cao tốc.
+  - lemma: detour
+    cefr: B2
+    ipaUs: /ˈdiː.tɔːr/
+    senses:
+      - pos: NOUN
+        definitionEn: A longer route taken to avoid a problem or to visit somewhere.
+        definitionVi: đường vòng
+        examples:
+          - en: Road construction forced us to take a long detour through the hills.
+            vi: Việc thi công đường buộc chúng tôi phải đi đường vòng dài qua các ngọn đồi.
+          - en: Following the unexpected detour added another thirty minutes to our journey.
+            vi: Việc đi đường vòng bất ngờ làm tăng thêm ba mươi phút cho hành trình.
+  - lemma: toll
+    cefr: B1
+    ipaUs: /toʊl/
+    senses:
+      - pos: NOUN
+        definitionEn: A charge payable for permission to use a particular bridge or road.
+        definitionVi: phí cầu đường
+        examples:
+          - en: Keep some cash ready to pay the highway toll at the gate.
+            vi: Hãy chuẩn bị sẵn ít tiền mặt để trả phí cầu đường cao tốc tại cổng.
+          - en: Electronic payment systems make paying the bridge toll much faster now.
+            vi: Hệ thống thanh toán điện tử giúp việc trả phí cầu đường nhanh hơn nhiều.
+  - lemma: rental
+    cefr: A2
+    ipaUs: /ˈrɛn.təl/
+    senses:
+      - pos: NOUN
+        definitionEn: An action of renting something, or a rented property or item.
+        definitionVi: đồ thuê / sự cho thuê
+        examples:
+          - en: We picked up our compact car rental at the airport terminal.
+            vi: Chúng tôi đã nhận chiếc ô tô thuê nhỏ gọn tại nhà ga sân bay.
+          - en: Finding a reliable vacation rental near the beach took a few weeks.
+            vi: Việc tìm kiếm một chỗ cho thuê kỳ nghỉ đáng tin cậy gần biển mất vài tuần.
+  - lemma: concierge
+    cefr: B2
+    ipaUs: /ˌkɑːn.siˈɛrʒ/
+    senses:
+      - pos: NOUN
+        definitionEn: A hotel employee who helps guests with arrangements like tours or reservations.
+        definitionVi: nhân viên hướng dẫn khách sạn
+        examples:
+          - en: The helpful hotel concierge booked us a table at a popular restaurant.
+            vi: Nhân viên hướng dẫn khách sạn nhiệt tình đã đặt bàn cho chúng tôi ở một nhà hàng nổi tiếng.
+          - en: Ask the front desk concierge for recommendations on local historical landmarks.
+            vi: Hãy hỏi nhân viên hướng dẫn ở quầy lễ tân để xin gợi ý về các di tích lịch sử địa phương.
+  - lemma: lobby
+    cefr: A2
+    ipaUs: /ˈlɑː.bi/
+    senses:
+      - pos: NOUN
+        definitionEn: An entrance hall in a hotel, theatre, or public building.
+        definitionVi: sảnh đợi
+        examples:
+          - en: Meet me in the hotel lobby in ten minutes before departure.
+            vi: Hãy gặp tôi ở sảnh đợi khách sạn trong mười phút trước giờ khởi hành.
+          - en: Guests sat comfortably in the bright lobby while waiting for their tour.
+            vi: Khách ngồi thoải mái ở khu vực sảnh sáng sủa trong khi chờ đợi tour.
+  - lemma: suite
+    cefr: B1
+    ipaUs: /swiːt/
+    senses:
+      - pos: NOUN
+        definitionEn: A set of rooms designated for one person's or a family's use, especially in a hotel.
+        definitionVi: phòng suite
+        examples:
+          - en: They upgraded our standard room to a luxury suite on the top floor.
+            vi: Họ đã nâng cấp phòng tiêu chuẩn của chúng tôi thành phòng suite sang trọng trên tầng cao nhất.
+          - en: The spacious family suite includes a private balcony overlooking the city skyline.
+            vi: Phòng suite gia đình rộng rãi bao gồm ban công riêng nhìn ra đường chân trời thành phố.
+  - lemma: keycard
+    cefr: B1
+    ipaUs: /ˈkiː.kɑːrd/
+    senses:
+      - pos: NOUN
+        definitionEn: A plastic card used to open electronic hotel room doors.
+        definitionVi: thẻ phòng
+        examples:
+          - en: Insert your keycard into the slot to activate the room power.
+            vi: Hãy cắm thẻ phòng của bạn vào khe để kích hoạt nguồn điện trong phòng.
+          - en: I accidentally left my hotel keycard inside the locked bedroom door.
+            vi: Tôi vô tình để quên thẻ phòng khách sạn bên trong cửa phòng ngủ đang khóa.
+  - lemma: adapter
+    cefr: B1
+    ipaUs: /əˈdæptər/
+    senses:
+      - pos: NOUN
+        definitionEn: A device used to connect different types of plugs.
+        definitionVi: bộ chuyển đổi
+        examples:
+          - en: I need a travel adapter for European sockets.
+            vi: Tôi cần một bộ chuyển đổi du lịch cho ổ cắm châu Âu.
+          - en: Use the USB adapter to connect your mouse.
+            vi: Sử dụng bộ chuyển đổi USB để kết nối con chuột của bạn.
+  - lemma: roaming
+    cefr: B2
+    ipaUs: /ˈroʊ.mɪŋ/
+    senses:
+      - pos: NOUN
+        definitionEn: The use of a mobile phone on another network outside its home area.
+        definitionVi: chuyển vùng
+        examples:
+          - en: Check your mobile carrier rates before enabling international roaming on your phone.
+            vi: Kiểm tra cước nhà mạng di động trước khi bật chuyển vùng quốc tế trên điện thoại.
+          - en: High data roaming charges can surprise travelers when they return home.
+            vi: Cước chuyển vùng dữ liệu cao có thể làm du khách ngạc nhiên khi họ về nhà.
+  - lemma: insurance
+    cefr: B1
+    ipaUs: /ɪnˈʃʊr.əns/
+    senses:
+      - pos: NOUN
+        definitionEn: An arrangement by which a company provides a guarantee of compensation for specified loss.
+        definitionVi: bảo hiểm
+        examples:
+          - en: Purchasing comprehensive travel insurance protects you against unexpected medical emergencies
+              abroad.
+            vi: Mua bảo hiểm du lịch toàn diện giúp bảo vệ bạn trước các trường hợp y tế khẩn cấp ở nước ngoài.
+          - en: Make sure your travel insurance covers lost baggage and canceled flight tickets.
+            vi: Hãy đảm bảo bảo hiểm du lịch của bạn chi trả hành lý thất lạc và vé máy bay hủy.
+  - lemma: embassy
+    cefr: B1
+    ipaUs: /ˈɛm.bə.si/
+    senses:
+      - pos: NOUN
+        definitionEn: The official residence or offices of an ambassador.
+        definitionVi: đại sứ quán
+        examples:
+          - en: Go to the local embassy immediately if you lose your passport abroad.
+            vi: Hãy đến đại sứ quán địa phương ngay lập tức nếu bạn mất hộ chiếu ở nước ngoài.
+          - en: The national embassy provides assistance to citizens facing legal trouble overseas.
+            vi: Đại sứ quán quốc gia cung cấp sự hỗ trợ cho công dân gặp rắc rối pháp lý ở hải ngoại.
+  - lemma: consulate
+    cefr: B2
+    ipaUs: /ˈkɑːn.sə.lɪt/
+    senses:
+      - pos: NOUN
+        definitionEn: The building where a consul official works.
+        definitionVi: lãnh sự quán
+        examples:
+          - en: We visited the regional consulate to renew our travel documents before departure.
+            vi: Chúng tôi đã đến lãnh sự quán khu vực để gia hạn giấy tờ du lịch trước khi khởi hành.
+          - en: The American consulate in that city offers emergency services for tourists.
+            vi: Lãnh sự quán Mỹ tại thành phố đó cung cấp dịch vụ khẩn cấp cho khách du lịch.
+  - lemma: jetlag
+    cefr: B1
+    ipaUs: /ˈdʒɛtˌlæɡ/
+    senses:
+      - pos: NOUN
+        definitionEn: Extreme tiredness felt by a person after a long flight across different time zones.
+        definitionVi: hiện tượng lệch múi giờ
+        examples:
+          - en: Drink plenty of water during the flight to minimize severe jetlag symptoms.
+            vi: Uống nhiều nước trong chuyến bay để giảm thiểu các triệu chứng lệch múi giờ nặng.
+          - en: It took me three days to overcome the jetlag after crossing the ocean.
+            vi: Tôi mất ba ngày để vượt qua hiện tượng lệch múi giờ sau khi băng qua đại dương.
+  - lemma: overbooking
+    cefr: B2
+    ipaUs: /ˌoʊ.vərˈbʊk.ɪŋ/
+    senses:
+      - pos: NOUN
+        definitionEn: The action of selling more tickets or rooms than are actually available.
+        definitionVi: tình trạng bán quá số chỗ
+        examples:
+          - en: Airline overbooking can sometimes force passengers to take a later flight.
+            vi: Tình trạng bán quá số chỗ của hãng hàng không đôi khi buộc hành khách phải đi chuyến bay sau.
+          - en: The hotel apologized for the accidental overbooking and offered a free upgrade.
+            vi: Khách sạn xin lỗi vì tình trạng bán quá số phòng và đề nghị một lần nâng cấp miễn phí.
+  - lemma: upgrade
+    cefr: B1
+    ipaUs: /ˈʌp.ɡreɪd/
+    senses:
+      - pos: NOUN
+        definitionEn: An improvement to a better state or a higher class of service.
+        definitionVi: sự nâng cấp
+        examples:
+          - en: We were lucky to receive a free cabin upgrade on our flight.
+            vi: Chúng tôi rất may mắn khi nhận được một lần nâng cấp khoang miễn phí trên chuyến bay.
+          - en: Ask at the front desk if a room upgrade is available today.
+            vi: Hãy hỏi ở quầy lễ tân xem có dịch vụ nâng cấp phòng vào ngày hôm nay không.
+  - lemma: kiosk
+    cefr: B1
+    ipaUs: /ˈkiː.ɑːsk/
+    senses:
+      - pos: NOUN
+        definitionEn: A small physical structure or automated terminal where things are sold or services provided.
+        definitionVi: ki-ốt / quầy tự phục vụ
+        examples:
+          - en: Use the self-service check-in kiosk to print your boarding pass quickly.
+            vi: Sử dụng ki-ốt làm thủ tục tự phục vụ để in thẻ lên máy bay nhanh chóng.
+          - en: You can buy train tickets at the automated kiosk near the entrance.
+            vi: Bạn có thể mua vé tàu tại quầy tự phục vụ tự động ở gần lối vào.
+  - lemma: security
+    cefr: A2
+    ipaUs: /səˈkjʊr.ə.ti/
+    senses:
+      - pos: NOUN
+        definitionEn: The state of being free from danger or threat, or the procedures to ensure it.
+        definitionVi: an ninh
+        examples:
+          - en: Passengers must pass through airport security before entering the departure gates.
+            vi: Hành khách phải đi qua khu an ninh sân bay trước khi bước vào các cổng khởi hành.
+          - en: Strict security checks at the border help prevent illegal items from entering.
+            vi: Các cuộc kiểm tra an ninh nghiêm ngặt ở biên giới giúp ngăn chặn các mặt hàng bất hợp pháp.
+  - lemma: immigration
+    cefr: B1
+    ipaUs: /ˌɪmɪˈɡreɪʃn/
+    senses:
+      - pos: NOUN
+        definitionEn: The place at a port, airport, or border where official checks are made on people
+          entering a country.
+        definitionVi: Khu vực kiểm tra nhập cảnh
+        examples:
+          - en: We spent an hour clearing immigration at the busy airport.
+            vi: Chúng tôi mất một tiếng để làm thủ tục nhập cảnh tại sân bay đông đúc.
+          - en: Please have your passport ready before you enter immigration.
+            vi: Vui lòng chuẩn bị sẵn hộ chiếu trước khi bạn bước vào khu vực nhập cảnh.
+  - lemma: declaration
+    cefr: B2
+    ipaUs: /ˌdɛkləˈreɪʃn/
+    senses:
+      - pos: NOUN
+        definitionEn: A statement of taxable goods or things you are bringing into a country.
+        definitionVi: Tờ khai hải quan
+        examples:
+          - en: He handed his customs declaration form to the officer.
+            vi: Anh ấy đã nộp tờ khai hải quan của mình cho viên chức.
+          - en: Making a false declaration at the border is illegal.
+            vi: Khai báo gian dối tại biên giới là hành vi phạm pháp.
+  - lemma: carousel
+    cefr: B1
+    ipaUs: /ˌkærəˈsɛl/
+    senses:
+      - pos: NOUN
+        definitionEn: A moving belt from which passengers collect their luggage at an airport.
+        definitionVi: Băng chuyền hành lý
+        examples:
+          - en: We waited by the baggage carousel for our suitcases.
+            vi: Chúng tôi đứng đợi bên băng chuyền hành lý để lấy vali.
+          - en: Your red backpack should appear on this carousel soon.
+            vi: Ba lô đỏ của bạn sẽ xuất hiện trên băng chuyền này sớm thôi.
+  - lemma: pilot
+    cefr: A2
+    ipaUs: /ˈpaɪlət/
+    senses:
+      - pos: NOUN
+        definitionEn: A person who operates the controls of an aircraft.
+        definitionVi: Phi công
+        examples:
+          - en: The friendly pilot welcomed all passengers onto the flight.
+            vi: Viên phi công thân thiện đã chào đón mọi hành khách lên chuyến bay.
+          - en: Our pilot announced that we would land shortly.
+            vi: Phi công của chúng tôi thông báo rằng chúng tôi sẽ hạ cánh sớm.
+  - lemma: captain
+    cefr: A2
+    ipaUs: /ˈkæptən/
+    senses:
+      - pos: NOUN
+        definitionEn: The person in command of a ship or an aircraft.
+        definitionVi: Thuyền trưởng / Cơ trưởng
+        examples:
+          - en: The captain steered the ship safely through the storm.
+            vi: Thuyền trưởng đã điều khiển con tàu vượt qua cơn bão một cách an toàn.
+          - en: The captain spoke over the intercom about the weather.
+            vi: Cơ trưởng đã nói qua hệ thống liên lạc nội bộ về thời tiết.
+  - lemma: attendant
+    cefr: A2
+    ipaUs: /əˈtɛndənt/
+    senses:
+      - pos: NOUN
+        definitionEn: A person whose job is to provide service to passengers on a plane or train.
+        definitionVi: Nhân viên phục vụ
+        examples:
+          - en: A flight attendant offered us drinks shortly after takeoff.
+            vi: Một tiếp viên hàng không đã mời chúng tôi đồ uống ngay sau khi cất cánh.
+          - en: The train attendant checked every passenger's ticket carefully.
+            vi: Nhân viên phục vụ trên tàu đã kiểm tra vé của mọi hành khách rất kỹ.
+  - lemma: compass
+    cefr: B1
+    ipaUs: /ˈkʌmpəs/
+    senses:
+      - pos: NOUN
+        definitionEn: An instrument with a magnetic needle that shows direction.
+        definitionVi: La bàn
+        examples:
+          - en: We used a compass to find our way in the deep woods.
+            vi: Chúng tôi đã dùng một la bàn để tìm đường trong khu rừng sâu.
+          - en: A reliable compass is essential for any serious mountain hiker.
+            vi: Một chiếc la bàn đáng tin cậy là rất cần thiết cho bất kỳ người leo núi nào.
+  - lemma: highway
+    cefr: A2
+    ipaUs: /ˈhaɪweɪ/
+    senses:
+      - pos: NOUN
+        definitionEn: A main road for traveling a long distance, especially between cities.
+        definitionVi: Đường cao tốc / Quốc lộ
+        examples:
+          - en: Driving down the coastal highway offers breathtaking ocean views.
+            vi: Lái xe dọc theo con đường cao tốc ven biển mang lại tầm nhìn tuyệt đẹp.
+          - en: Traffic on the main highway was delayed by an accident.
+            vi: Giao thông trên quốc lộ chính bị chậm lại do một vụ tai nạn.
+  - lemma: booth
+    cefr: B1
+    ipaUs: /buːθ/
+    senses:
+      - pos: NOUN
+        definitionEn: A small enclosed space or structure for one person or a specific purpose.
+        definitionVi: Buồng / Quầy nhỏ
+        examples:
+          - en: We bought our tickets at the small wooden booth.
+            vi: Chúng tôi đã mua vé tại quầy bằng gỗ nhỏ.
+          - en: The information booth was staffed by a helpful local guide.
+            vi: Quầy thông tin được túc trực bởi một hướng dẫn viên địa phương nhiệt tình.
+  - lemma: agency
+    cefr: B1
+    ipaUs: /ˈeɪdʒənsi/
+    senses:
+      - pos: NOUN
+        definitionEn: A business or organization that provides a particular service, such as booking travel.
+        definitionVi: Hãng / Đại lý
+        examples:
+          - en: We booked our summer vacation through a trusted travel agency.
+            vi: Chúng tôi đã đặt kỳ nghỉ hè qua một đại lý du lịch đáng tin cậy.
+          - en: The rental car agency required a valid driver's license.
+            vi: Hãng cho thuê xe yêu cầu một bằng lái xe hợp lệ.
+  - lemma: receptionist
+    cefr: A2
+    ipaUs: /rɪˈsɛpʃənɪst/
+    senses:
+      - pos: NOUN
+        definitionEn: A person whose job is to welcome visitors and deal with clients at a hotel or office.
+        definitionVi: Nhân viên lễ tân
+        examples:
+          - en: The polite receptionist gave us the key to our hotel room.
+            vi: Nhân viên lễ tân lịch sự đã đưa chìa khóa phòng khách sạn cho chúng tôi.
+          - en: Ask the receptionist if you need extra towels.
+            vi: Hãy hỏi nhân viên lễ tân nếu bạn cần thêm khăn tắm.
+  - lemma: elevator
+    cefr: A2
+    ipaUs: /ˈɛlɪveɪtər/
+    senses:
+      - pos: NOUN
+        definitionEn: A machine that carries people up and down in a tall building.
+        definitionVi: Thang máy
+        examples:
+          - en: We took the elevator to the tenth floor to reach our room.
+            vi: Chúng tôi đi thang máy lên tầng mười để đến phòng của mình.
+          - en: The hotel elevator is currently out of service for repairs.
+            vi: Thang máy của khách sạn hiện đang ngừng hoạt động để sửa chữa.
+  - lemma: balcony
+    cefr: B1
+    ipaUs: /ˈbæl.kə.ni/
+    senses:
+      - pos: NOUN
+        definitionEn: A platform enclosed by a wall or rail outside a window upstairs.
+        definitionVi: ban công
+        examples:
+          - en: She grows colorful flowers in pots on her apartment balcony.
+            vi: Cô ấy trồng những bông hoa đầy màu sắc trong chậu ở ban công căn hộ.
+          - en: We stood on the balcony to watch the evening sunset.
+            vi: Chúng tôi đứng ở ban công để ngắm hoàng hôn buổi chiều.
+  - lemma: tip
+    cefr: A2
+    ipaUs: /tɪp/
+    senses:
+      - pos: NOUN
+        definitionEn: A small amount of extra money given to someone for their service.
+        definitionVi: Tiền boa / Tiền tip
+        examples:
+          - en: Leaving a good tip for the tour guide is customary here.
+            vi: Để lại một khoản tiền tip hậu hĩnh cho hướng dẫn viên là phong tục ở đây.
+          - en: He forgot to leave a tip after eating at the restaurant.
+            vi: Anh ấy quên để lại tiền boa sau khi ăn tại nhà hàng.
+  - lemma: checklist
+    cefr: B1
+    ipaUs: /ˈtʃɛklɪst/
+    senses:
+      - pos: NOUN
+        definitionEn: A list of things to be done, checked, or remembered.
+        definitionVi: Danh sách cần kiểm tra
+        examples:
+          - en: I always make a packing checklist before going on a trip.
+            vi: Tôi luôn lập danh sách đồ cần đóng gói trước khi đi du lịch.
+          - en: Check every item on your travel checklist before leaving home.
+            vi: Kiểm tra từng mục trong danh sách du lịch của bạn trước khi rời nhà.
+  - lemma: charger
+    cefr: A2
+    ipaUs: /ˈtʃɑːrdʒər/
+    senses:
+      - pos: NOUN
+        definitionEn: A device used to put electricity back into a battery.
+        definitionVi: Bộ sạc / Cục sạc
+        examples:
+          - en: I forgot to pack my phone charger in my suitcase.
+            vi: Tôi quên mang theo cục sạc điện thoại trong vali của mình.
+          - en: You can borrow my portable charger if your battery dies.
+            vi: Bạn có thể mượn cục sạc dự phòng của tôi nếu pin bạn hết.
+  - lemma: policy
+    cefr: B2
+    ipaUs: /ˈpɑːləsi/
+    senses:
+      - pos: NOUN
+        definitionEn: A set of ideas or a plan of what to do in particular situations.
+        definitionVi: Chính sách
+        examples:
+          - en: Make sure you read the cancellation policy before booking the flight.
+            vi: Hãy đảm bảo bạn đọc kỹ chính sách hủy vé trước khi đặt chuyến bay.
+          - en: Our travel insurance policy covers emergency medical expenses abroad.
+            vi: Chính sách bảo hiểm du lịch của chúng tôi chi trả chi phí y tế ở nước ngoài.
+  - lemma: claim
+    cefr: B2
+    ipaUs: /kleɪm/
+    senses:
+      - pos: NOUN
+        definitionEn: An official request for money from an insurance company for a loss.
+        definitionVi: Đơn yêu cầu bồi thường
+        examples:
+          - en: He filed an insurance claim after his luggage was lost.
+            vi: Anh ấy đã nộp đơn yêu cầu bồi thường bảo hiểm sau khi hành lý bị mất.
+          - en: The airline paid out our baggage damage claim quickly.
+            vi: Hãng hàng không đã thanh toán đơn yêu cầu bồi thường hỏng hành lý.
+  - lemma: theft
+    cefr: B2
+    ipaUs: /θɛft/
+    senses:
+      - pos: NOUN
+        definitionEn: The crime of stealing something.
+        definitionVi: Trộm cắp
+        examples:
+          - en: Travelers should be aware of petty theft in crowded tourist areas.
+            vi: Du khách nên đề phòng nạn trộm cắp vặt ở những khu du lịch đông đúc.
+          - en: He reported the theft of his wallet to the local police.
+            vi: Anh ấy đã báo cáo vụ trộm ví của mình cho cảnh sát địa phương.
+  - lemma: shuttle
+    cefr: B1
+    ipaUs: /ˈʃʌtl/
+    senses:
+      - pos: NOUN
+        definitionEn: A vehicle or aircraft that travels regularly between two places.
+        definitionVi: Xe đưa đón
+        examples:
+          - en: The airport shuttle takes guests directly to the hotel lobby.
+            vi: Xe đưa đón sân bay chở khách đi thẳng đến sảnh khách sạn.
+          - en: We missed the morning shuttle and had to wait an hour.
+            vi: Chúng tôi đã lỡ chuyến xe buýt đưa đón buổi sáng và phải đợi một tiếng.
+  - lemma: charter
+    cefr: B2
+    ipaUs: /ˈtʃɑːrtər/
+    senses:
+      - pos: NOUN
+        definitionEn: The hiring of a boat, plane, or other vehicle for private use.
+        definitionVi: Hợp đồng thuê chuyến
+        examples:
+          - en: They decided to book a private charter for their island vacation.
+            vi: Họ đã quyết định đặt một chuyến thuê riêng cho kỳ nghỉ trên đảo.
+          - en: The company arranged a flight charter to transport all delegates quickly.
+            vi: Công ty đã sắp xếp một chuyến bay thuê bao để vận chuyển tất cả đại biểu nhanh chóng.
+  - lemma: berth
+    cefr: B2
+    ipaUs: /bɜːrθ/
+    senses:
+      - pos: NOUN
+        definitionEn: A fixed bed or bunk on a ship, train, or other form of transport.
+        definitionVi: Giường ngủ trên tàu hoặc xe lửa
+        examples:
+          - en: My train ticket includes a comfortable upper berth for the night journey.
+            vi: Vé tàu của tôi bao gồm một giường tầng trên thoải mái cho chuyến đi đêm.
+          - en: She secured a quiet berth near the window on the ferry.
+            vi: Cô ấy đã giữ một chiếc giường yên tĩnh gần cửa sổ trên phà.
+  - lemma: cabin
+    cefr: A2
+    ipaUs: /ˈkæbɪn/
+    senses:
+      - pos: NOUN
+        definitionEn: A private room or compartment on a ship or aircraft.
+        definitionVi: Buồng, phòng trên tàu hoặc máy bay
+        examples:
+          - en: Passengers can relax inside their cabin during the long cruise.
+            vi: Hành khách có thể thư giãn bên trong phòng của họ trong suốt chuyến hải trình dài.
+          - en: The flight attendant asked everyone to return to their cabin seat.
+            vi: Tiếp viên hàng không yêu cầu mọi người trở về chỗ ngồi trong cabin của mình.
+  - lemma: deck
+    cefr: B1
+    ipaUs: /dek/
+    senses:
+      - pos: NOUN
+        definitionEn: A floor of a ship or bus, especially an open upper one.
+        definitionVi: Boong tàu, sàn
+        examples:
+          - en: Tourists walked around the upper deck to enjoy the ocean breeze.
+            vi: Khách du lịch đi dạo quanh boong trên để tận hưởng làn gió biển.
+          - en: We stood on the deck watching the gorgeous sunset over water.
+            vi: Chúng tôi đứng trên boong tàu ngắm cảnh hoàng hôn tuyệt đẹp trên mặt nước.
+  - lemma: anchor
+    cefr: B1
+    ipaUs: /ˈæŋkər/
+    senses:
+      - pos: NOUN
+        definitionEn: A heavy metal object dropped from a vessel to the sea bottom to prevent it moving.
+        definitionVi: Cái neo
+        examples:
+          - en: The sailors dropped the heavy anchor when they reached the bay.
+            vi: Các thủy thủ đã thả chiếc neo nặng khi họ đến vịnh.
+          - en: Our boat stayed secure because the anchor held firmly in place.
+            vi: Thuyền của chúng tôi vẫn đứng vững vì cái neo bám chắc vào vị trí.
+  - lemma: cockpit
+    cefr: B2
+    ipaUs: /ˈkɑːkpɪt/
+    senses:
+      - pos: NOUN
+        definitionEn: The compartment where the pilot sits while controlling an aircraft.
+        definitionVi: Buồng lái máy bay
+        examples:
+          - en: The captain checked the navigation instruments inside the airplane cockpit.
+            vi: Cơ trưởng đã kiểm tra các thiết bị điều hướng bên trong buồng lái máy bay.
+          - en: Only authorized flight crew members are allowed to enter the cockpit.
+            vi: Chỉ các thành viên phi hành đoàn được ủy quyền mới được phép vào buồng lái.
+  - lemma: runway
+    cefr: A2
+    ipaUs: /ˈrʌnweɪ/
+    senses:
+      - pos: NOUN
+        definitionEn: A strip of paved ground where aircraft take off and land.
+        definitionVi: Đường băng
+        examples:
+          - en: The large airliner taxied slowly down the long airport runway.
+            vi: Chiếc máy bay thương mại lớn từ từ lăn bánh dọc theo đường băng dài của sân bay.
+          - en: Heavy rain caused a brief delay on the main landing runway.
+            vi: Mưa lớn đã gây ra sự chậm trễ ngắn trên đường băng hạ cánh chính.
+  - lemma: tarmac
+    cefr: B2
+    ipaUs: /ˈtɑːrmæk/
+    senses:
+      - pos: NOUN
+        definitionEn: The material used for paving roads and airport areas, or the surface itself.
+        definitionVi: Nhựa đường, mặt đường nhựa
+        examples:
+          - en: Passengers walked across the hot tarmac to board the waiting plane.
+            vi: Hành khách bước qua mặt đường nhựa nóng bỏng để lên chiếc máy bay đang chờ.
+          - en: Ground staff parked the luggage cart directly on the open tarmac.
+            vi: Nhân viên mặt đất đã đỗ xe đẩy hành lý trực tiếp trên bãi nhựa đường thoáng đãng.
+  - lemma: backpack
+    cefr: A1
+    ipaUs: /ˈbækpæk/
+    senses:
+      - pos: NOUN
+        definitionEn: A bag carried on the back using two straps.
+        definitionVi: Ba lô
+        examples:
+          - en: Students carry heavy books inside a sturdy canvas backpack to school.
+            vi: Học sinh mang sách nặng bên trong một chiếc ba lô vải bền đến trường.
+          - en: He packed his laptop and clothes into a travel backpack for camping.
+            vi: Anh ấy xếp máy tính xách tay và quần áo vào ba lô du lịch để cắm trại.
+  - lemma: hostel
+    cefr: A2
+    ipaUs: /ˈhɑːstl/
+    senses:
+      - pos: NOUN
+        definitionEn: An inexpensive lodging place providing cheap shared rooms for travelers.
+        definitionVi: Nhà nghỉ tập thể, kí túc xá giá rẻ
+        examples:
+          - en: Young budget travelers often stay in a vibrant downtown hostel together.
+            vi: Những du khách trẻ có ngân sách hạn hẹp thường ở chung trong một nhà nghỉ sôi động ở trung tâm
+              thành phố.
+          - en: We booked a shared dormitory bed at the local youth hostel.
+            vi: Chúng tôi đã đặt một giường ký túc xá chung tại nhà nghỉ thanh niên địa phương.
+  - lemma: hotel
+    cefr: A1
+    ipaUs: /hoʊˈtel/
+    senses:
+      - pos: NOUN
+        definitionEn: An establishment providing paid lodging, meals, and other services for travelers.
+        definitionVi: Khách sạn
+        examples:
+          - en: They checked into a luxury hotel near the city center beach.
+            vi: Họ đã nhận phòng tại một khách sạn sang trọng gần bãi biển trung tâm thành phố.
+          - en: The conference guests reserved a nice hotel for three nights.
+            vi: Các khách dự hội nghị đã đặt trước một khách sạn đẹp trong ba đêm.
+  - lemma: motel
+    cefr: A2
+    ipaUs: /moʊˈtel/
+    senses:
+      - pos: NOUN
+        definitionEn: A roadside hotel designed primarily for motorists, with parking near rooms.
+        definitionVi: Nhà nghỉ ven đường
+        examples:
+          - en: Tired drivers stopped at a roadside motel to rest overnight.
+            vi: Những tài xế mệt mỏi đã dừng chân tại một nhà nghỉ ven đường để nghỉ qua đêm.
+          - en: This convenient motel offers free parking right outside every door.
+            vi: Nhà nghỉ tiện lợi này cung cấp chỗ đỗ xe miễn phí ngay bên ngoài mỗi cửa phòng.
+  - lemma: campsite
+    cefr: A2
+    ipaUs: /ˈkæmpsaɪt/
+    senses:
+      - pos: NOUN
+        definitionEn: A place where people can pitch tents or park campers for vacation.
+        definitionVi: Khu cắm trại
+        examples:
+          - en: Family campers pitched their large tent on the quiet forest campsite.
+            vi: Các thành viên gia đình đi cắm trại đã dựng chiếc lều lớn của họ tại khu cắm trại trong rừng yên
+              tĩnh.
+          - en: We booked a scenic lakeside campsite for our weekend outdoor adventure.
+            vi: Chúng tôi đã đặt một khu cắm trại ven hồ có phong cảnh đẹp cho chuyến phiêu lưu ngoài trời cuối
+              tuần.

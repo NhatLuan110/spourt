@@ -1,0 +1,366 @@
+[
+  {
+    "id": "listening-part2-question-response",
+    "skill": "listening",
+    "title": "Part 2 — Question–Response",
+    "format": "TOEIC Listening — Part 2 · Question–Response, 25 câu, ba lựa chọn, chỉ nghe không có chữ",
+    "instructionsVi": "Ở mục tiêu 900, gần như mọi đáp án đúng đều gián tiếp: né câu hỏi, hỏi ngược, hoặc phản bác giả định trong câu hỏi. Hai phương án sai luôn bám vào từ đã nghe. Nguyên tắc: nghe thấy từ lặp lại thì nghi ngờ trước đã.",
+    "promptEn": "You will hear a question or statement followed by three responses. Choose the most appropriate response for each of the 25 items.",
+    "accent": "uk",
+    "transcript": [
+      { "speaker": "7", "text": "Have the revised terms been circulated to the board?" },
+      { "speaker": "8", "text": "Why wasn't the discrepancy flagged at the time?" },
+      { "speaker": "9", "text": "I'd have expected a response from Yusuf by now." },
+      { "speaker": "10", "text": "Do you want the figures broken down by region or by product line?" },
+      { "speaker": "11", "text": "Where's the master copy of the lease kept?" },
+      { "speaker": "12", "text": "Isn't Priya supposed to be chairing this?" },
+      { "speaker": "13", "text": "How firm is the delivery date?" },
+      { "speaker": "14", "text": "Could you look at clause nine before I sign?" },
+      { "speaker": "15", "text": "We've had no complaints about the new layout." },
+      { "speaker": "16", "text": "Should I hold the room for the whole afternoon?" },
+      { "speaker": "17", "text": "Who authorised the overtime?" },
+      { "speaker": "18", "text": "What did the site inspector actually say?" },
+      { "speaker": "19", "text": "The transfer still hasn't cleared." },
+      { "speaker": "20", "text": "Would it be simpler to lease the equipment?" },
+      { "speaker": "21", "text": "How are we placed for cover on the twenty-third?" },
+      { "speaker": "22", "text": "You did tell them the price excludes installation, didn't you?" },
+      { "speaker": "23", "text": "There's a queue at the loading bay again." },
+      { "speaker": "24", "text": "Which of the two candidates impressed you more?" },
+      { "speaker": "25", "text": "Hasn't the audit report been signed off yet?" },
+      { "speaker": "26", "text": "I'm not sure this supplier can scale with us." },
+      { "speaker": "27", "text": "When do the new rates take effect?" },
+      { "speaker": "28", "text": "Do you know why the trial was stopped?" },
+      { "speaker": "29", "text": "That's a considerable jump in the insurance premium." },
+      { "speaker": "30", "text": "Shall we push the launch back to the autumn?" },
+      { "speaker": "31", "text": "The figures in the appendix don't match the summary." }
+    ],
+    "timeLimitSec": 600,
+    "questions": [
+      {
+        "id": "p2-7",
+        "kind": "mcq",
+        "prompt": "7. Have the revised terms been circulated to the board?",
+        "options": [
+          { "id": "a", "text": "The board room is on the fourth floor." },
+          { "id": "b", "text": "Only to the two who asked for them." },
+          { "id": "c", "text": "Yes, I revised them twice." }
+        ],
+        "answer": "b",
+        "explanationVi": "Đáp án đúng thu hẹp câu hỏi Yes/No thành 'chỉ một phần'. (A) lặp 'board', (C) lặp 'revised' — cả hai là bẫy lặp từ.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p2-8",
+        "kind": "mcq",
+        "prompt": "8. Why wasn't the discrepancy flagged at the time?",
+        "options": [
+          { "id": "a", "text": "By the end of the quarter." },
+          { "id": "b", "text": "It was flagged in red." },
+          { "id": "c", "text": "Whoever ran the reconciliation has left." }
+        ],
+        "answer": "c",
+        "explanationVi": "Không nêu lý do trực tiếp mà nêu điều khiến ta không thể biết lý do — vẫn là trả lời hợp lệ. (A) trả lời 'When' cho câu hỏi 'Why'.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p2-9",
+        "kind": "mcq",
+        "prompt": "9. I'd have expected a response from Yusuf by now.",
+        "options": [
+          { "id": "a", "text": "He's out until Thursday." },
+          { "id": "b", "text": "Yes, I responded to it." },
+          { "id": "c", "text": "The expectation was clear enough." }
+        ],
+        "answer": "a",
+        "explanationVi": "Câu kể mang hàm ý phàn nàn; đáp án đúng giải thích hộ người vắng mặt. (B) đổi chủ thể sang 'tôi', (C) lặp gốc từ 'expect'.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p2-10",
+        "kind": "mcq",
+        "prompt": "10. Do you want the figures broken down by region or by product line?",
+        "options": [
+          { "id": "a", "text": "Whichever one the client asked for last time." },
+          { "id": "b", "text": "The line was broken." },
+          { "id": "c", "text": "No, it hasn't been." }
+        ],
+        "answer": "a",
+        "explanationVi": "Câu hỏi lựa chọn không bắt buộc chọn một trong hai — đẩy quyết định sang tiêu chí khác vẫn đúng. (C) sai vì câu hỏi lựa chọn không trả lời được bằng No.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p2-11",
+        "kind": "mcq",
+        "prompt": "11. Where's the master copy of the lease kept?",
+        "options": [
+          { "id": "a", "text": "It expires in March." },
+          { "id": "b", "text": "We leased it for five years." },
+          { "id": "c", "text": "Legal won't let it leave the building." }
+        ],
+        "answer": "c",
+        "explanationVi": "Không nói phòng nào nhưng vẫn khoanh vùng vị trí — đây là kiểu trả lời 'Where' gián tiếp rất hay gặp ở mức 900.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p2-12",
+        "kind": "mcq",
+        "prompt": "12. Isn't Priya supposed to be chairing this?",
+        "options": [
+          { "id": "a", "text": "She has a chair by the window." },
+          { "id": "b", "text": "There was a change on Friday." },
+          { "id": "c", "text": "Yes, that's supposed to be it." }
+        ],
+        "answer": "b",
+        "explanationVi": "Đáp án bác bỏ giả định trong câu hỏi mà không dùng No. (A) khai thác 'chair' làm danh từ ghế — bẫy đồng âm khác nghĩa.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p2-13",
+        "kind": "mcq",
+        "prompt": "13. How firm is the delivery date?",
+        "options": [
+          { "id": "a", "text": "Firmly attached, yes." },
+          { "id": "b", "text": "It depends what the port does." },
+          { "id": "c", "text": "Delivered on Tuesday." }
+        ],
+        "answer": "b",
+        "explanationVi": "'How firm' hỏi mức độ chắc chắn; trả lời bằng điều kiện phụ thuộc là chuẩn. (A) lặp 'firm' sai nghĩa, (C) lặp 'deliver'.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p2-14",
+        "kind": "mcq",
+        "prompt": "14. Could you look at clause nine before I sign?",
+        "options": [
+          { "id": "a", "text": "Is that the indemnity one?" },
+          { "id": "b", "text": "I signed it already." },
+          { "id": "c", "text": "Nine copies, please." }
+        ],
+        "answer": "a",
+        "explanationVi": "Hỏi ngược để xác nhận trước khi nhận việc — dạng đáp án đúng chiếm tỉ lệ lớn ở Part 2 mức cao. (C) lặp số 'nine'.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p2-15",
+        "kind": "mcq",
+        "prompt": "15. We've had no complaints about the new layout.",
+        "options": [
+          { "id": "a", "text": "Complaints go to reception." },
+          { "id": "b", "text": "Which doesn't mean people like it." },
+          { "id": "c", "text": "The layout is on page two." }
+        ],
+        "answer": "b",
+        "explanationVi": "Đáp án phản bác cách suy luận của người nói. Nghe được 'which doesn't mean' là nhận ra ngay — mẫu câu này gần như luôn là đáp án đúng khi có mặt.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p2-16",
+        "kind": "mcq",
+        "prompt": "16. Should I hold the room for the whole afternoon?",
+        "options": [
+          { "id": "a", "text": "It's held together well." },
+          { "id": "b", "text": "Room 402." },
+          { "id": "c", "text": "Better that than run out of time." }
+        ],
+        "answer": "c",
+        "explanationVi": "'Better that than…' là cách nói Yes có kèm lý do. (A) lặp 'hold' ở nghĩa khác hẳn.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p2-17",
+        "kind": "mcq",
+        "prompt": "17. Who authorised the overtime?",
+        "options": [
+          { "id": "a", "text": "Nobody had to — it's in the shift agreement." },
+          { "id": "b", "text": "Over an hour of it." },
+          { "id": "c", "text": "The author is on the cover." }
+        ],
+        "answer": "a",
+        "explanationVi": "Đáp án bác bỏ tiền giả định rằng phải có người duyệt. (C) là bẫy âm 'authorised' / 'author'.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p2-18",
+        "kind": "mcq",
+        "prompt": "18. What did the site inspector actually say?",
+        "options": [
+          { "id": "a", "text": "He inspected the roof." },
+          { "id": "b", "text": "Nothing we can quote yet." },
+          { "id": "c", "text": "At the site office." }
+        ],
+        "answer": "b",
+        "explanationVi": "Từ chối cung cấp nội dung vẫn là trả lời đúng trọng tâm. (C) trả lời 'Where' và lặp 'site'.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p2-19",
+        "kind": "mcq",
+        "prompt": "19. The transfer still hasn't cleared.",
+        "options": [
+          { "id": "a", "text": "I cleared the table already." },
+          { "id": "b", "text": "Transfer to line two." },
+          { "id": "c", "text": "It's a bank holiday there." }
+        ],
+        "answer": "c",
+        "explanationVi": "Đưa nguyên nhân bên ngoài để giải thích sự chậm trễ. Hai phương án kia lặp lần lượt 'cleared' và 'transfer' ở nghĩa khác.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p2-20",
+        "kind": "mcq",
+        "prompt": "20. Would it be simpler to lease the equipment?",
+        "options": [
+          { "id": "a", "text": "Not once you count the service charges." },
+          { "id": "b", "text": "Simple enough to install." },
+          { "id": "c", "text": "The equipment arrived on Tuesday." }
+        ],
+        "answer": "a",
+        "explanationVi": "'Not once you…' là No kèm điều kiện. Nghe câu ngắn mà bắt đầu bằng phủ định có mệnh đề phụ thì thường là đáp án.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p2-21",
+        "kind": "mcq",
+        "prompt": "21. How are we placed for cover on the twenty-third?",
+        "options": [
+          { "id": "a", "text": "Under the cover." },
+          { "id": "b", "text": "Ask me after the rota goes out." },
+          { "id": "c", "text": "Place it on the shelf." }
+        ],
+        "answer": "b",
+        "explanationVi": "Hoãn trả lời sang mốc thời gian cụ thể là hợp lệ. 'Cover' ở đây nghĩa là người trực thay — (A) hiểu thành 'cái nắp'.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p2-22",
+        "kind": "mcq",
+        "prompt": "22. You did tell them the price excludes installation, didn't you?",
+        "options": [
+          { "id": "a", "text": "The price went up in May." },
+          { "id": "b", "text": "Yes, they installed it." },
+          { "id": "c", "text": "It's in the quotation in writing." }
+        ],
+        "answer": "c",
+        "explanationVi": "Trả lời câu hỏi đuôi bằng bằng chứng thay vì Yes/No. (B) lặp 'install' và đổi hẳn chủ thể hành động.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p2-23",
+        "kind": "mcq",
+        "prompt": "23. There's a queue at the loading bay again.",
+        "options": [
+          { "id": "a", "text": "Since they cut the second shift, always." },
+          { "id": "b", "text": "Load it from the other side." },
+          { "id": "c", "text": "Please queue over there." }
+        ],
+        "answer": "a",
+        "explanationVi": "Từ 'again' trong câu kể báo hiệu đáp án đúng sẽ nói về nguyên nhân lặp lại. (C) hiểu nhầm thành hướng dẫn khách xếp hàng.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p2-24",
+        "kind": "mcq",
+        "prompt": "24. Which of the two candidates impressed you more?",
+        "options": [
+          { "id": "a", "text": "Two of them, yes." },
+          { "id": "b", "text": "Neither, if I'm honest." },
+          { "id": "c", "text": "The impression was good." }
+        ],
+        "answer": "b",
+        "explanationVi": "'Neither' bác bỏ cả hai lựa chọn — hoàn toàn hợp lệ với câu hỏi lựa chọn. (C) lặp gốc 'impress'.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p2-25",
+        "kind": "mcq",
+        "prompt": "25. Hasn't the audit report been signed off yet?",
+        "options": [
+          { "id": "a", "text": "The auditors sign in at the door." },
+          { "id": "b", "text": "Report to the third floor." },
+          { "id": "c", "text": "Not till the stock count is redone." }
+        ],
+        "answer": "c",
+        "explanationVi": "Nêu điều kiện còn thiếu thay vì nói No. (A) và (B) lặp 'sign' và 'report' ở nghĩa khác — bẫy kép.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p2-26",
+        "kind": "mcq",
+        "prompt": "26. I'm not sure this supplier can scale with us.",
+        "options": [
+          { "id": "a", "text": "They doubled capacity last year." },
+          { "id": "b", "text": "The scales are calibrated monthly." },
+          { "id": "c", "text": "Supply is kept on the shelf." }
+        ],
+        "answer": "a",
+        "explanationVi": "Đưa bằng chứng ngược lại nỗi lo của người nói. (B) là bẫy đồng âm 'scale' (mở rộng quy mô / cái cân).",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p2-27",
+        "kind": "mcq",
+        "prompt": "27. When do the new rates take effect?",
+        "options": [
+          { "id": "a", "text": "Effective communication, yes." },
+          { "id": "b", "text": "The same day the contract is countersigned." },
+          { "id": "c", "text": "At the rate we're going." }
+        ],
+        "answer": "b",
+        "explanationVi": "Mốc thời gian được neo vào một sự kiện chứ không phải một ngày cụ thể. (C) lặp 'rate' trong thành ngữ khác nghĩa hẳn.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p2-28",
+        "kind": "mcq",
+        "prompt": "28. Do you know why the trial was stopped?",
+        "options": [
+          { "id": "a", "text": "It stopped at four." },
+          { "id": "b", "text": "A trial period of six months." },
+          { "id": "c", "text": "Ask Compliance, not me." }
+        ],
+        "answer": "c",
+        "explanationVi": "Chuyển câu hỏi sang bộ phận khác — dạng 'tôi không biết' được diễn đạt gọn. Hai phương án kia lặp 'stop' và 'trial'.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p2-29",
+        "kind": "mcq",
+        "prompt": "29. That's a considerable jump in the insurance premium.",
+        "options": [
+          { "id": "a", "text": "One claim will do that." },
+          { "id": "b", "text": "Jump over the barrier." },
+          { "id": "c", "text": "Insured for the full year." }
+        ],
+        "answer": "a",
+        "explanationVi": "Giải thích nguyên nhân bằng một câu rút gọn, 'do that' thay cho 'gây ra mức tăng đó'. Đại từ thay thế là điểm khó nhất của Part 2 mức 900.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p2-30",
+        "kind": "mcq",
+        "prompt": "30. Shall we push the launch back to the autumn?",
+        "options": [
+          { "id": "a", "text": "Push the door, don't pull." },
+          { "id": "b", "text": "And miss the trade fair?" },
+          { "id": "c", "text": "It launched last autumn." }
+        ],
+        "answer": "b",
+        "explanationVi": "Câu hỏi tu từ mang nghĩa phản đối mạnh. Không có Yes/No nào nhưng vẫn là đáp án duy nhất hợp lý.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p2-31",
+        "kind": "mcq",
+        "prompt": "31. The figures in the appendix don't match the summary.",
+        "options": [
+          { "id": "a", "text": "The appendix is at the back." },
+          { "id": "b", "text": "Match them by colour." },
+          { "id": "c", "text": "The summary predates the restatement." }
+        ],
+        "answer": "c",
+        "explanationVi": "Giải thích chênh lệch bằng mốc thời gian: bản tóm tắt viết TRƯỚC khi số liệu được trình bày lại. 'Predate' là từ then chốt.",
+        "difficulty": "hard"
+      }
+    ]
+  }
+]

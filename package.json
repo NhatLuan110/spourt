@@ -1,0 +1,54 @@
+{
+  "name": "sprout",
+  "private": true,
+  "version": "0.1.0",
+  "packageManager": "pnpm@9.15.4",
+  "engines": {
+    "node": ">=20.11"
+  },
+  "scripts": {
+    "dev": "turbo run dev",
+    "build": "turbo run build --concurrency=2",
+    "lint": "turbo run lint --concurrency=2",
+    "typecheck": "turbo run typecheck --concurrency=2",
+    "test": "turbo run test --concurrency=1",
+    "db:generate": "pnpm --filter @sprout/api exec prisma generate",
+    "db:migrate": "pnpm --filter @sprout/api run prisma:migrate",
+    "db:push": "pnpm --filter @sprout/api exec dotenv -e ../../.env -- prisma db push",
+    "db:reset": "pnpm --filter @sprout/api run prisma:reset",
+    "db:seed": "pnpm --filter @sprout/api run seed",
+    "db:studio": "pnpm --filter @sprout/api run prisma:studio",
+    "pg:start": "node scripts/local-postgres.mjs start",
+    "pg:stop": "node scripts/local-postgres.mjs stop",
+    "format": "prettier --write \"**/*.{ts,tsx,md,json,css}\"",
+    "db:deploy": "pnpm --filter @sprout/api run prisma:deploy",
+    "check:content": "node scripts/check-content.cjs",
+    "check:ai": "node scripts/check-ai.mjs",
+    "check:stt": "node scripts/check-stt-literal.mjs",
+    "import:vocab": "node scripts/import-vocab.mjs",
+    "make:admin": "node scripts/make-admin.mjs",
+    "check:glossary": "node scripts/suggest-glossary.cjs"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.18.0",
+    "@next/eslint-plugin-next": "^15.1.4",
+    "@playwright/test": "^1.62.1",
+    "@types/node": "^22.10.5",
+    "@types/pg": "^8.23.1",
+    "embedded-postgres": "18.4.0-beta.17",
+    "eslint": "^9.18.0",
+    "eslint-plugin-jsx-a11y": "^6.10.2",
+    "eslint-plugin-react-hooks": "^5.1.0",
+    "globals": "^15.14.0",
+    "pg": "^8.23.0",
+    "prettier": "^3.4.2",
+    "turbo": "^2.3.3",
+    "typescript": "^5.7.3",
+    "typescript-eslint": "^8.20.0"
+  },
+  "pnpm": {
+    "overrides": {
+      "fastify": "5.12.1"
+    }
+  }
+}

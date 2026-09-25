@@ -1,0 +1,499 @@
+cefr: B2
+tracks:
+  - slug: reviewing-a-returnable-cup-pilot
+    title: Reviewing the Returnable Cup Pilot
+    titleVi: Đánh giá chương trình thí điểm cốc có thể hoàn trả
+    topic: environment
+    accent: US
+    format: dialogue
+    speakerCount: 2
+    glossary:
+      - term: return rate
+        definitionVi: tỷ lệ hoàn trả
+      - term: landfill diversion
+        definitionVi: giảm lượng rác chôn lấp
+    segments:
+      - speaker: Maya
+        text: Let us review the festival cup pilot before we prepare the committee report. The collection
+          figures look encouraging, but I want to know what happened after the cups left the site.
+        vi: Hãy xem lại chương trình cốc hoàn trả tại lễ hội trước khi chuẩn bị báo cáo cho ủy ban. Số cốc
+          thu về khá khả quan, nhưng tôi muốn biết chuyện gì xảy ra sau khi chúng rời địa điểm lễ
+          hội.
+      - speaker: Liam
+        text: We recorded an eighty-two percent return rate across the three main zones. That percentage
+          counts cups handed back by visitors; it does not tell us how many were eventually used
+          again.
+        vi: Chúng ta ghi nhận tỷ lệ hoàn trả tám mươi hai phần trăm ở ba khu vực chính. Con số đó tính các
+          cốc khách đã trả, chứ không cho biết bao nhiêu cốc thực sự được dùng lại.
+      - speaker: Maya
+        text: Exactly. We initially treated collection as evidence of waste reduction. However, a cup that
+          is returned and then discarded has completed no additional use cycle, despite appearing in
+          our success figures.
+        vi: Đúng vậy. Ban đầu chúng ta xem việc thu cốc là bằng chứng giảm rác thải. Nhưng một chiếc cốc
+          được trả rồi bị loại bỏ chưa có thêm lượt sử dụng nào, dù vẫn được tính trong số liệu
+          thành công.
+      - speaker: Liam
+        text: We also assumed every returned cup could be washed and reused without damage. The cleaning
+          contractor has now supplied records showing why that assumption needs checking against the
+          actual condition of each batch.
+        vi: Chúng ta còn cho rằng mọi cốc trả lại đều có thể rửa và dùng tiếp mà không hư hỏng. Đơn vị vệ
+          sinh vừa cung cấp hồ sơ cho thấy phải kiểm tra giả định đó theo tình trạng thực tế của
+          từng lô.
+      - speaker: Maya
+        text: "The logistics report raises another issue: transport to the off-site washing facility added
+          substantial carbon emissions. We need to report those separately, since less landfill
+          waste does not automatically mean fewer emissions."
+        vi: "Báo cáo hậu cần còn nêu vấn đề khác: việc vận chuyển đến nơi rửa bên ngoài tạo thêm lượng khí
+          thải carbon đáng kể. Chúng ta cần báo cáo riêng, vì giảm rác chôn lấp không tự động đồng
+          nghĩa với giảm khí thải."
+      - speaker: Liam
+        text: There was also a five percent breakage rate during transit. We should record how those damaged
+          cups were handled, instead of assuming that every item leaving the washing facility
+          returns to circulation.
+        vi: Tỷ lệ cốc vỡ khi vận chuyển còn ở mức năm phần trăm. Chúng ta nên ghi lại cách xử lý các cốc
+          hỏng, thay vì mặc định mọi cốc rời cơ sở rửa đều được đưa vào dùng tiếp.
+      - speaker: Maya
+        text: Agreed. Let us count completed reuse cycles as well as collections. I also want an emissions
+          estimate per use, with the assumptions stated clearly enough for the committee to question
+          them.
+        vi: Đồng ý. Hãy đếm số lượt tái sử dụng hoàn tất bên cạnh số cốc thu về. Tôi cũng muốn có ước tính
+          khí thải mỗi lượt dùng, kèm các giả định rõ ràng để ủy ban có thể xem xét.
+      - speaker: Liam
+        text: And we must check whether reusable cups actually replace disposable ones. A vendor giving
+          customers both would increase our reusable-cup count without removing the corresponding
+          single-use item from the waste stream.
+        vi: Chúng ta cũng phải kiểm tra cốc tái sử dụng có thực sự thay cốc dùng một lần không. Nếu người
+          bán đưa cả hai loại, số cốc tái sử dụng vẫn tăng nhưng cốc dùng một lần tương ứng không
+          được loại khỏi lượng rác.
+      - speaker: Maya
+        text: That means checking vendor compliance at food stalls, rather than relying only on collection
+          bins. Volunteers can record exceptions on a short form without trying to interview every
+          customer in a queue.
+        vi: Vậy phải kiểm tra việc tuân thủ ở các quầy đồ ăn thay vì chỉ theo dõi thùng thu cốc. Tình nguyện
+          viên có thể ghi các trường hợp ngoại lệ vào phiếu ngắn, không cần hỏi từng khách đang xếp
+          hàng.
+      - speaker: Liam
+        text: "For waste reduction, I propose net landfill diversion weight as our primary indicator: the
+          weight kept out of landfill after allowing for discarded reusable cups. We should keep the
+          emissions estimate alongside it."
+        vi: Về giảm rác thải, tôi đề xuất dùng khối lượng rác thực tế tránh phải chôn lấp làm chỉ số chính,
+          sau khi đã tính phần cốc tái sử dụng bị loại bỏ. Ước tính khí thải vẫn cần được trình bày
+          kèm theo.
+      - speaker: Maya
+        text: That would make the report more useful. Let us finalise the new guidelines by Friday
+          afternoon, and clearly distinguish what we have measured from what we still need to
+          estimate.
+        vi: Như vậy báo cáo sẽ hữu ích hơn. Hãy hoàn tất hướng dẫn mới trước chiều thứ Sáu và phân biệt rõ
+          số liệu đã đo với những gì còn phải ước tính.
+      - speaker: Liam
+        text: I will ask the logistics team to update its reporting template today. Then we can test the new
+          form on one delivery before using it throughout the next event.
+        vi: Hôm nay tôi sẽ nhờ nhóm hậu cần cập nhật mẫu báo cáo. Sau đó chúng ta có thể thử mẫu mới với một
+          chuyến hàng trước khi áp dụng cho toàn bộ sự kiện tiếp theo.
+    dictation:
+      - 6
+      - 7
+      - 11
+      - 12
+    questions:
+      - type: MCQ
+        prompt: What was the initial return rate recorded in the pilot program?
+        promptVi: Tỷ lệ hoàn trả ban đầu được ghi nhận trong chương trình thí điểm là bao nhiêu?
+        options:
+          - Seventy-five percent
+          - Eighty-two percent
+          - Ninety percent
+          - Sixty-eight percent
+        answer: Eighty-two percent
+        explanationVi: Ở lượt 2, Liam nói tỷ lệ hoàn trả ghi nhận được là eighty-two percent, tức 82%.
+      - type: MCQ
+        prompt: What hidden problem did the logistics report reveal about the washing process?
+        promptVi: Vấn đề ẩn giấu nào mà báo cáo hậu cần đã tiết lộ về quá trình rửa cốc?
+        options:
+          - Transport emissions added a significant carbon overhead
+          - Water supplies at the site ran out completely
+          - Washing machines consumed too much electricity
+          - Workers refused to clean the returned cups
+        answer: Transport emissions added a significant carbon overhead
+        explanationVi: Ở lượt 5, Maya cho biết việc vận chuyển cốc đến cơ sở rửa bên ngoài tạo thêm khí thải
+          carbon đáng kể.
+      - type: MCQ
+        prompt: What percentage of cups broke during transit?
+        promptVi: Có bao nhiêu phần trăm số cốc bị vỡ trong quá trình vận chuyển?
+        options:
+          - Two percent
+          - Five percent
+          - Ten percent
+          - Twelve percent
+        answer: Five percent
+        explanationVi: Ở lượt 6, Liam nói tỷ lệ cốc vỡ trong khi vận chuyển là five percent, tức 5%.
+      - type: MCQ
+        prompt: What primary success indicator did Liam propose for the next phase?
+        promptVi: Chỉ số thành công chính nào mà Liam đề xuất cho giai đoạn tiếp theo?
+        options:
+          - Total gross revenue generated
+          - Net landfill diversion weight
+          - Number of active volunteers
+          - Average customer satisfaction score
+        answer: Net landfill diversion weight
+        explanationVi: Ở lượt 10, Liam đề xuất net landfill diversion weight làm chỉ số chính về giảm rác
+          chôn lấp, đồng thời vẫn báo cáo khí thải riêng.
+      - type: TRUE_FALSE
+        statement: The organisers initially confused high return rates with true waste reduction.
+        prompt: The organisers initially confused high return rates with true waste reduction.
+        promptVi: Những người tổ chức ban đầu đã nhầm lẫn giữa tỷ lệ hoàn trả cao với việc giảm rác thải
+          thực sự.
+        answer: true
+        explanationVi: Ở lượt 3, Maya nói ban đầu nhóm đã xem số cốc thu về là bằng chứng giảm rác, dù có
+          cốc bị loại bỏ trước khi được dùng lại.
+      - type: TRUE_FALSE
+        statement: Liam and Maya decided to cancel all future cup collection initiatives.
+        prompt: Liam and Maya decided to cancel all future cup collection initiatives.
+        promptVi: Liam và Maya đã quyết định hủy bỏ tất cả các sáng kiến thu gom cốc trong tương lai.
+        answer: false
+        explanationVi: Hai người đang chuẩn bị cách theo dõi cho sự kiện tiếp theo ở lượt cuối, không hủy
+          chương trình.
+      - type: SHORT_ANSWER
+        prompt: Where will volunteers check vendor compliance? Give the TWO-word place.
+        promptVi: Tình nguyện viên sẽ kiểm tra việc tuân thủ của người bán ở đâu? Viết địa điểm gồm HAI từ.
+        accept:
+          - food stalls
+          - at food stalls
+        explanationVi: Maya nêu địa điểm food stalls, tức các quầy đồ ăn, ở lượt 9.
+      - type: SHORT_ANSWER
+        prompt: By which afternoon will the new guidelines be finalised? Give TWO words.
+        promptVi: Hướng dẫn mới sẽ được hoàn tất trước buổi chiều nào? Viết HAI từ.
+        accept:
+          - Friday afternoon
+        explanationVi: Maya đặt hạn hoàn tất vào Friday afternoon ở lượt 11.
+  - slug: discussing-a-digital-archive-release
+    title: Discussing a Digital Archive Release
+    titleVi: Thảo luận về việc phát hành kho lưu trữ kỹ thuật số
+    topic: technology
+    accent: UK
+    format: dialogue
+    speakerCount: 2
+    glossary:
+      - term: context loss
+        definitionVi: mất bối cảnh
+      - term: pilot
+        definitionVi: chương trình thử nghiệm
+    segments:
+      - speaker: Clara
+        text: We need a clear plan for putting the regional historical photographs online next month. The
+          scanning is finished, but deciding what visitors should see requires more thought than
+          simply uploading every available file.
+        vi: Chúng ta cần kế hoạch rõ ràng để đưa ảnh lịch sử địa phương lên mạng vào tháng sau. Việc quét
+          ảnh đã xong, nhưng quyết định cho khách xem những gì cần được cân nhắc kỹ hơn việc tải lên
+          toàn bộ tệp.
+      - speaker: Noah
+        text: Wider access would help people who cannot visit the archive. My concern is that an isolated
+          image can lose its context, particularly when names and dates are uncertain or a
+          photograph shows a sensitive event.
+        vi: Việc mở rộng truy cập sẽ giúp những người không thể đến kho lưu trữ. Tôi lo ảnh đứng riêng lẻ sẽ
+          mất bối cảnh, nhất là khi tên, ngày tháng chưa chắc chắn hoặc ảnh ghi lại sự kiện nhạy
+          cảm.
+      - speaker: Clara
+        text: Contributors asked us to attach full background stories rather than raw image files. Some
+          supplied several possible dates, so the captions must preserve that uncertainty instead of
+          presenting one guess as an established fact.
+        vi: Người đóng góp yêu cầu đính kèm đầy đủ câu chuyện phía sau thay vì chỉ đăng tệp ảnh. Có người
+          cung cấp nhiều mốc thời gian khả dĩ, nên chú thích phải giữ sự chưa chắc chắn đó, không
+          biến một phỏng đoán thành sự thật đã xác nhận.
+      - speaker: Noah
+        text: There is also material that families intended only for staff to consult. Publishing their
+          personal letters beside the public portraits could damage trust, even if those letters
+          help us understand the photographs.
+        vi: Còn có tài liệu các gia đình chỉ muốn nhân viên tham khảo. Đăng thư riêng bên cạnh ảnh chân dung
+          công khai có thể làm mất lòng tin, dù các lá thư giúp chúng ta hiểu ảnh rõ hơn.
+      - speaker: Clara
+        text: Then the release needs to follow each contributor's recorded preferences. Where a note is
+          unclear, we should ask before including the item. A deadline is not a reason to fill in
+          missing permission ourselves.
+        vi: Vậy việc công bố phải theo nguyện vọng đã ghi nhận của từng người đóng góp. Nếu ghi chú chưa rõ,
+          chúng ta nên hỏi trước khi đưa tài liệu lên. Có hạn chót không có nghĩa là chúng ta được
+          tự suy ra phần cho phép còn thiếu.
+      - speaker: Noah
+        text: One option would be to limit the first release to academic researchers who sign a usage
+          agreement. That would give us a smaller audience while we check how the explanations work.
+        vi: Một lựa chọn là giới hạn đợt đầu cho các nhà nghiên cứu ký thỏa thuận sử dụng. Như vậy nhóm
+          người xem sẽ nhỏ hơn trong lúc chúng ta kiểm tra hiệu quả của phần giải thích.
+      - speaker: Clara
+        text: That seems too restrictive for our educational purpose. Local residents have useful knowledge
+          too, and excluding them would make it harder to learn which details need clarification or
+          correction.
+        vi: Cách đó có vẻ quá hạn chế so với mục đích giáo dục của chúng ta. Người dân địa phương cũng có
+          kiến thức hữu ích, và loại họ ra sẽ khiến chúng ta khó biết chi tiết nào cần làm rõ hoặc
+          sửa lại.
+      - speaker: Noah
+        text: We could instead run a limited public pilot with non-sensitive landscape photographs whose
+          contributors have agreed to publication. It would test the presentation without exposing
+          the more personal material.
+        vi: Thay vào đó, chúng ta có thể thử nghiệm công khai ở phạm vi nhỏ với ảnh phong cảnh không nhạy
+          cảm đã được người đóng góp đồng ý công bố. Cách này giúp thử cách trình bày mà không đưa
+          tài liệu riêng tư hơn lên mạng.
+      - speaker: Clara
+        text: I can support that, provided each picture includes explanatory text and a clear way to report
+          a possible mistake. We should review suggested corrections before changing the catalogue
+          record.
+        vi: Tôi đồng ý, với điều kiện mỗi ảnh có phần giải thích và cách báo lỗi rõ ràng. Chúng ta cần xem
+          xét các đề nghị sửa trước khi thay đổi thông tin trong danh mục.
+      - speaker: Noah
+        text: Agreed. After three months we can review the feedback and decide whether to expand. Visitor
+          numbers alone will not be enough; we also need to know whether people understand the
+          captions.
+        vi: Đồng ý. Sau ba tháng chúng ta có thể xem phản hồi rồi quyết định có mở rộng không. Chỉ số lượt
+          xem chưa đủ; chúng ta còn cần biết người xem có hiểu chú thích hay không.
+      - speaker: Clara
+        text: I will write the pilot plan and share it with the archive team tomorrow morning. It will
+          explain the selection process and identify who responds to questions from contributors and
+          visitors.
+        vi: Tôi sẽ viết kế hoạch thử nghiệm và gửi cho nhóm lưu trữ vào sáng mai. Kế hoạch sẽ giải thích
+          cách chọn ảnh và chỉ rõ ai phụ trách trả lời người đóng góp cùng khách tham quan.
+      - speaker: Noah
+        text: Please include the updated donor consent checklist too. That will help everyone check the same
+          information consistently before a photograph is approved for the public collection.
+        vi: Hãy đính kèm cả danh sách kiểm tra sự đồng ý của người hiến tặng đã cập nhật. Như vậy mọi người
+          sẽ kiểm tra thông tin nhất quán trước khi duyệt ảnh cho bộ sưu tập công khai.
+    dictation:
+      - 4
+      - 7
+      - 9
+      - 12
+    questions:
+      - type: MCQ
+        prompt: When is the online release of historical photographs scheduled?
+        promptVi: Việc phát hành trực tuyến các bức ảnh lịch sử được lên lịch vào thời gian nào?
+        options:
+          - Next week
+          - Next month
+          - In three months
+          - Next year
+        answer: Next month
+        explanationVi: Clara nêu thời gian dự kiến đưa ảnh lên mạng là next month ở lượt 1.
+      - type: MCQ
+        prompt: What specific requirement did contributors request?
+        promptVi: Yêu cầu cụ thể nào mà những người đóng góp đã đề nghị?
+        options:
+          - Attach full background stories
+          - Keep all files completely secret
+          - Sell the images for profit
+          - Remove all captions entirely
+        answer: Attach full background stories
+        explanationVi: Ở lượt 3, Clara nói người đóng góp yêu cầu đính kèm full background stories.
+      - type: MCQ
+        prompt: What compromise did Noah propose regarding the initial release?
+        promptVi: Noah đã đề xuất thỏa hiệp nào về việc phát hành ban đầu?
+        options:
+          - Cancel the project indefinitely
+          - Launch a limited pilot focusing on non-sensitive landscape photographs
+          - Charge high fees for every download
+          - Print the photos in a physical book only
+        answer: Launch a limited pilot focusing on non-sensitive landscape photographs
+        explanationVi: Noah đề xuất thử nghiệm với ảnh phong cảnh không nhạy cảm, đã được đồng ý công bố, ở
+          lượt 8.
+      - type: MCQ
+        prompt: How long will they wait before reviewing user feedback on the pilot?
+        promptVi: Họ sẽ đợi bao lâu trước khi xem xét phản hồi của người dùng về chương trình thí điểm?
+        options:
+          - One month
+          - Three months
+          - Six months
+          - Twelve months
+        answer: Three months
+        explanationVi: Noah nói nhóm sẽ xem phản hồi sau three months ở lượt 10.
+      - type: TRUE_FALSE
+        statement: Clara felt that restricting access only to academic researchers aligned with their mission.
+        prompt: Clara felt that restricting access only to academic researchers aligned with their mission.
+        promptVi: Clara cảm thấy việc hạn chế quyền truy cập chỉ cho các nhà nghiên cứu học thuật phù hợp
+          với sứ mệnh của họ.
+        answer: false
+        explanationVi: Clara cho rằng việc chỉ cho giới học thuật truy cập là quá hạn chế và loại mất ý kiến
+          hữu ích từ người dân địa phương, theo lượt 7.
+      - type: TRUE_FALSE
+        statement: The pilot will give visitors a way to report possible mistakes.
+        prompt: The pilot will give visitors a way to report possible mistakes.
+        promptVi: Chương trình thử nghiệm sẽ có cách để người xem báo các lỗi có thể có.
+        answer: true
+        explanationVi: Ở lượt 9, Clara yêu cầu mỗi ảnh có cách rõ ràng để người xem báo lỗi có thể có.
+      - type: SHORT_ANSWER
+        prompt: When will Clara share the pilot plan with the team? Give TWO words.
+        promptVi: Clara sẽ gửi kế hoạch thử nghiệm cho nhóm khi nào? Viết HAI từ.
+        accept:
+          - tomorrow morning
+        explanationVi: Ở lượt 11, Clara nói sẽ gửi kế hoạch cho nhóm vào tomorrow morning.
+      - type: SHORT_ANSWER
+        prompt: Which checklist does Noah request? Give THREE or FOUR words.
+        promptVi: Noah yêu cầu danh sách kiểm tra nào? Viết BA hoặc BỐN từ.
+        accept:
+          - donor consent checklist
+          - updated donor consent checklist
+        explanationVi: Ở lượt 12, Noah yêu cầu đính kèm updated donor consent checklist.
+  - slug: evaluating-a-mentoring-scheme
+    title: Evaluating a Mentoring Scheme
+    titleVi: Đánh giá một chương trình cố vấn
+    topic: education
+    accent: UK
+    format: dialogue
+    speakerCount: 2
+    glossary:
+      - term: mentoring scheme
+        vi: chương trình cố vấn
+      - term: self-selection bias
+        vi: độ chệch tự tuyển chọn
+      - term: control group
+        vi: nhóm đối chứng
+    segments:
+      - speaker: Dr. Helen Vance
+        text: Mark, let's review the final numbers for our pilot mentoring scheme in the business faculty
+          before we present them to the academic board next Monday morning.
+        vi: Mark, hãy xem lại các con số cuối cùng của chương trình cố vấn thí điểm ở khoa kinh doanh trước
+          khi chúng ta trình bày trước hội đồng học thuật vào sáng thứ Hai tới.
+      - speaker: Mark Davies
+        text: Absolutely, Helen. We tracked forty-five student participants over the autumn term, but we
+          need to look much closer at what those engagement metrics actually show us.
+        vi: Chắc chắn rồi, Helen. Chúng ta đã theo dõi 45 sinh viên tham gia trong học kỳ mùa thu, nhưng
+          chúng ta cần xem xét kỹ hơn những số liệu tương tác đó thực sự cho thấy điều gì.
+      - speaker: Dr. Helen Vance
+        text: Right, at first glance, the retention rate for mentored students jumped to ninety-two percent
+          compared to eighty percent across the rest of the department.
+        vi: Đúng vậy, thoạt nhìn, tỷ lệ giữ chân sinh viên được cố vấn đã tăng vọt lên 92% so với 80% ở phần
+          còn lại của khoa.
+      - speaker: Mark Davies
+        text: That initial data certainly looks impressive, but we must carefully distinguish between
+          genuine impact and self-selection bias. The students who signed up were already
+          exceptionally motivated.
+        vi: Dữ liệu ban đầu đó chắc chắn trông rất ấn tượng, nhưng chúng ta phải phân biệt cẩn thận giữa tác
+          động thực sự và độ chệch tự tuyển chọn. Những sinh viên đăng ký vốn đã có động lực đặc
+          biệt cao.
+      - speaker: Dr. Helen Vance
+        text: Exactly. They attended an average of six out of eight scheduled sessions, whereas less driven
+          peers quietly dropped out of the support programme by week four.
+        vi: Chính xác. Họ tham gia trung bình 6 trong số 8 buổi đã lên lịch, trong khi các bạn cùng lớp kém
+          quyết tâm hơn đã lặng lẽ bỏ chương trình hỗ trợ vào tuần thứ tư.
+      - speaker: Mark Davies
+        text: Precisely. Furthermore, baseline entry grades for the mentoring cohort averaged a solid
+          B-plus, which is significantly higher than the wider faculty average of C-plus.
+        vi: Đúng vậy. Hơn nữa, điểm đầu vào cơ bản của nhóm cố vấn trung bình đạt mức B cộng vững chắc, cao
+          hơn đáng kể so với mức trung bình của toàn khoa là C cộng.
+      - speaker: Dr. Helen Vance
+        text: So the retention boost might just reflect their prior academic standing rather than the
+          mentoring intervention itself. That is a crucial correction for our final report.
+        vi: Vì vậy, việc tăng tỷ lệ giữ chân có thể chỉ phản ánh học lực trước đó của họ chứ không phải do
+          bản thân hoạt động can thiệp cố vấn. Đó là một sự điều chỉnh quan trọng cho báo cáo cuối
+          cùng của chúng ta.
+      - speaker: Mark Davies
+        text: Yes, exactly. If we want credible evidence of impact next semester, we cannot just measure raw
+          attendance. We urgently need a control group of similarly motivated students.
+        vi: Vâng, chính xác. Nếu chúng ta muốn có bằng chứng đáng tin cậy về tác động vào học kỳ tới, chúng
+          ta không thể chỉ đo lường số lượng tham gia thô. Chúng ta rất cần một nhóm đối chứng gồm
+          những sinh viên có động lực tương tự.
+      - speaker: Dr. Helen Vance
+        text: Agreed completely. We should match mentees with non-mentored peers who share identical entry
+          grades and historical attendance patterns from previous academic terms.
+        vi: Hoàn toàn đồng ý. Chúng ta nên ghép đôi các sinh viên được cố vấn với những bạn đồng trang lứa
+          không được cố vấn nhưng có điểm đầu vào và xu hướng chuyên cần lịch sử giống hệt nhau từ
+          các học kỳ trước.
+      - speaker: Mark Davies
+        text: That will give us a far more accurate baseline. I can restructure the evaluation metrics by
+          Friday afternoon to reflect this rigorous control group comparison.
+        vi: Điều đó sẽ cung cấp cho chúng ta một đường cơ sở chính xác hơn nhiều. Tôi có thể cơ cấu lại các
+          số liệu đánh giá trước chiều thứ Sáu để phản ánh việc so sánh nhóm đối chứng nghiêm ngặt
+          này.
+      - speaker: Dr. Helen Vance
+        text: Perfect. Make sure you highlight that the current ninety-two percent figure is merely
+          preliminary and shouldn't be framed as a direct causal outcome just yet.
+        vi: Hoàn hảo. Hãy chắc chắn rằng bạn nhấn mạnh con số 92% hiện tại chỉ là sơ bộ và không nên được
+          đóng khung là kết quả nhân quả trực tiếp ngay lúc này.
+      - speaker: Mark Davies
+        text: Will do, Helen. I will update the draft and email the revised framework to you before the
+          faculty committee meeting on Monday morning without fail.
+        vi: Được, Helen. Tôi sẽ cập nhật bản thảo và gửi cho bạn khung đánh giá đã sửa trước cuộc họp ủy ban
+          khoa vào sáng thứ Hai.
+    dictation:
+      - 3
+      - 5
+      - 8
+      - 10
+    questions:
+      - type: MCQ
+        prompt: What is the current retention rate for students in the mentoring scheme?
+        promptVi: Tỷ lệ giữ chân sinh viên trong chương trình cố vấn hiện tại là bao nhiêu?
+        options:
+          - Eighty percent
+          - Ninety-two percent
+          - Forty-five percent
+          - Seventy percent
+        answer: Ninety-two percent
+        explanationVi: Helen nêu rõ tỷ lệ giữ chân sinh viên được cố vấn là chín mươi hai phần trăm
+          (ninety-two percent) ở lượt nói thứ ba.
+      - type: MCQ
+        prompt: What does Mark say about the baseline entry grades of the mentoring cohort?
+        promptVi: Mark nói gì về điểm đầu vào cơ bản của nhóm sinh viên tham gia cố vấn?
+        options:
+          - They matched the wider faculty average.
+          - They averaged a solid B-plus.
+          - They were lower than the department average.
+          - They were entirely unrecorded.
+        answer: They averaged a solid B-plus.
+        explanationVi: Mark chỉ ra ở lượt nói thứ sáu rằng điểm đầu vào cơ bản của nhóm cố vấn trung bình
+          đạt mức B cộng vững chắc (a solid B-plus).
+      - type: MCQ
+        prompt: How many sessions did participants attend on average, out of the eight scheduled?
+        promptVi: Trong tám buổi được lên lịch, người tham gia dự trung bình bao nhiêu buổi?
+        options:
+          - Six out of eight
+          - All eight
+          - Four out of eight
+          - Five out of eight
+        answer: Six out of eight
+        explanationVi: Helen xác nhận ở lượt nói thứ năm rằng họ tham gia trung bình sáu trong số tám buổi
+          đã lên lịch (six out of eight scheduled sessions).
+      - type: MCQ
+        prompt: What solution do they agree on to get credible evidence of impact next semester?
+        promptVi: Họ đồng ý giải pháp nào để có được bằng chứng đáng tin cậy về tác động vào học kỳ tới?
+        options:
+          - Cancelling the mentoring scheme
+          - Using a control group of similarly motivated students
+          - Increasing the faculty average to an A
+          - Measuring only the raw attendance rates
+        answer: Using a control group of similarly motivated students
+        explanationVi: Mark và Helen đồng ý ở các lượt nói cuối rằng họ cần một nhóm đối chứng gồm những
+          sinh viên có động lực tương tự (a control group of similarly motivated students).
+      - type: TRUE_FALSE
+        prompt: The students who signed up for the mentoring pilot were already exceptionally motivated.
+        promptVi: Những sinh viên đăng ký tham gia chương trình thí điểm cố vấn vốn đã có động lực đặc biệt
+          cao.
+        answer: true
+        explanationVi: Mark giải thích ở lượt nói thứ tư rằng học sinh đăng ký vốn đã có động lực đặc biệt
+          cao, tạo ra độ chệch tự tuyển chọn.
+        statement: The students who signed up for the mentoring pilot were already exceptionally motivated.
+      - type: TRUE_FALSE
+        prompt: They already have conclusive proof that mentoring caused the higher retention rate.
+        promptVi: Họ đã có bằng chứng chắc chắn rằng hoạt động cố vấn làm tỷ lệ tiếp tục học cao hơn.
+        answer: false
+        explanationVi: Helen nhấn mạnh ở lượt 11 rằng con số 92% mới là sơ bộ và chưa thể xem là kết quả
+          nhân quả trực tiếp của việc cố vấn.
+        statement: They already have conclusive proof that mentoring caused the higher retention rate.
+      - type: SHORT_ANSWER
+        prompt: How many student participants were tracked over the autumn term? State the exact number.
+        promptVi: Có bao nhiêu sinh viên tham gia đã được theo dõi trong học kỳ mùa thu? Nêu con số chính
+          xác.
+        accept:
+          - "45"
+          - forty-five
+          - forty five
+          - 45 students
+          - forty-five students
+        explanationVi: Mark cho biết ở lượt nói thứ hai rằng họ đã theo dõi bốn mươi lăm sinh viên tham gia
+          (forty-five student participants) trong học kỳ mùa thu.
+      - type: SHORT_ANSWER
+        prompt: By which afternoon does Mark say he can restructure the evaluation metrics? State the exact
+          time phrase.
+        promptVi: Mark nói anh ấy có thể cơ cấu lại các số liệu đánh giá trước buổi chiều nào? Nêu cụm thời
+          gian chính xác.
+        accept:
+          - Friday afternoon
+          - friday afternoon
+        explanationVi: Mark cho biết ở lượt nói thứ mười rằng anh có thể cơ cấu lại các số liệu đánh giá
+          trước chiều thứ Sáu (Friday afternoon).

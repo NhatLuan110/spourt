@@ -1,0 +1,56 @@
+[
+  {
+    "id": "speaking-describe-picture-station",
+    "skill": "speaking",
+    "title": "Speaking Q3 — Describe a picture",
+    "format": "TOEIC Speaking — Describe a Picture · 45 giây chuẩn bị, 45 giây nói",
+    "instructionsVi": "Cảnh nhiều lớp, nhiều hoạt động song song và một chi tiết gợi tình huống. Ở mức 900, người chấm mong bạn vừa mô tả chính xác vừa suy ra được bối cảnh.",
+    "promptEn": "Describe the scene below in as much detail as you can. You have 45 seconds to prepare and 45 seconds to speak.\n\nSCENE: A crowded railway station concourse. In the centre, a large departure board shows several rows of text; a group of about ten people stand looking up at it, most holding phones. On the right, a queue of roughly fifteen people waits at a ticket window where a single member of staff is serving. On the left, a cleaner pushes a trolley past a row of closed shop shutters. In the foreground, a man in a suit sits on a suitcase, reading a newspaper. A handwritten sign on an easel near the board reads 'Reduced service today'.",
+    "timeLimitSec": 45,
+    "preparationSec": 45,
+    "sampleAnswer": "This picture shows a crowded railway station concourse, and something appears to be disrupting the normal service.\n\nIn the centre, there is a large departure board with several rows of text. About ten people are standing underneath it, looking up, and most of them are holding phones, so they are probably checking for updates about their trains.\n\nOn the right, roughly fifteen people are queuing at a ticket window, but only one member of staff is serving them, which explains why the queue is so long.\n\nOn the left, a cleaner is pushing a trolley past a row of shops, and all of the shutters are closed.\n\nIn the foreground, a man in a suit is sitting on his suitcase and reading a newspaper. He looks as though he has been waiting for some time.\n\nThe detail that ties it together is a handwritten sign on an easel which says 'Reduced service today'. That suggests the delays are known about and probably significant.",
+    "rubricVi": [
+      "Nêu giả thuyết bối cảnh ngay câu đầu ('something appears to be disrupting...') rồi dùng các chi tiết để chống đỡ. Đây là cách mở của bài mức 900.",
+      "Nối các chi tiết với nhau bằng quan hệ nhân quả: một nhân viên nên hàng dài, biển báo nên hành khách nhìn bảng. Mô tả rời rạc không được điểm cao.",
+      "Ngôn ngữ phỏng đoán chính xác: probably, appears to, looks as though, suggests.",
+      "Giữ trật tự không gian rõ và kết bằng chi tiết then chốt (tấm biển) thay vì kết cụt.",
+      "Dùng trọn 45 giây, phát âm rõ, không tăng tốc để nhồi thêm chi tiết."
+    ]
+  },
+  {
+    "id": "speaking-respond-information-training",
+    "skill": "speaking",
+    "title": "Speaking Q7–9 — Respond using information provided",
+    "format": "TOEIC Speaking — Respond Using Information Provided · 30 giây đọc bảng",
+    "instructionsVi": "Bảng có ghi chú và ngoại lệ ở cuối. Ở mức 900, ít nhất một câu hỏi chỉ trả lời đúng nếu bạn đọc cả phần ghi chú, không chỉ các dòng chính.",
+    "promptEn": "You have 30 seconds to read the schedule below. Then answer the three questions using the information given.\n\nVELLMAR LOGISTICS — Compliance Training, week of 9 June\nAll sessions in the Boardroom unless stated.\n\nMon 9 Jun · 09:00–10:30 · Data protection refresher · Ines Duarte\nTue 10 Jun · 14:00–16:00 · Dangerous goods handling · Karl Weber (Training Annexe)\nWed 11 Jun · 09:00–11:00 · Anti-bribery policy · Ines Duarte\nThu 12 Jun · 13:00–15:30 · Dangerous goods handling (repeat) · Karl Weber (Training Annexe)\nFri 13 Jun · 10:00–11:00 · Q&A drop-in · Compliance team\n\nNotes: Dangerous goods handling is mandatory for warehouse staff only. All other sessions are mandatory for all employees. The Friday drop-in is optional.\n\nQuestions:\n1. When and where is the anti-bribery session?\n2. I work in finance — I've been told I have to attend the dangerous goods course. Is that right?\n3. Could you tell me everything Karl Weber is running, and anything I should know about it?",
+    "timeLimitSec": 60,
+    "preparationSec": 30,
+    "sampleAnswer": "1. The anti-bribery policy session is on Wednesday the eleventh of June, from nine o'clock until eleven, and it takes place in the Boardroom.\n\n2. Actually, that's not correct. The dangerous goods handling course is mandatory for warehouse staff only, so as someone in finance you are not required to attend it. The sessions that are mandatory for all employees are the data protection refresher on Monday and the anti-bribery policy session on Wednesday.\n\n3. Certainly. Karl Weber is running the dangerous goods handling course, and he runs it twice. The first is on Tuesday the tenth, from two until four in the afternoon, and the second is a repeat on Thursday the twelfth, from one until half past three. Both of those take place in the Training Annexe rather than the Boardroom, and as I mentioned, they are only required for warehouse staff.",
+    "rubricVi": [
+      "Câu 2 chỉ trả lời đúng nếu đọc phần ghi chú cuối bảng. Bỏ qua ghi chú là sai hoàn toàn — đây là bẫy chính.",
+      "Đính chính thông tin sai rồi BỔ SUNG thông tin đúng mà người hỏi thực sự cần (những buổi họ phải dự).",
+      "Câu 3 phải nêu đủ cả hai buổi, kèm giờ, VÀ hai điểm đáng lưu ý: địa điểm khác thường và đối tượng bắt buộc.",
+      "Đọc ngày giờ tự nhiên, không đọc như đọc bảng biểu.",
+      "Chỉ dùng thông tin trong bảng. Ở phần này, thêm thông tin ngoài bảng bị tính là sai."
+    ]
+  },
+  {
+    "id": "speaking-propose-solution-quality",
+    "skill": "speaking",
+    "title": "Speaking Q10 — Propose a solution",
+    "format": "TOEIC Speaking — Propose a Solution · 30 giây chuẩn bị, 60 giây nói",
+    "instructionsVi": "Vấn đề có ba mặt và có yếu tố xung đột giữa hai bộ phận. Giải pháp phải xử lý được cả vấn đề trước mắt lẫn nguyên nhân, mà không đổ lỗi cho bên nào.",
+    "promptEn": "Listen to the voicemail describing a problem, then leave a message proposing a solution.\n\nVOICEMAIL: 'Hi, this is Rowan Beck, quality manager at the Northgate plant. We've got a situation. The last four batches from line two failed inspection on the same measurement, so I've held them — that's about eleven thousand units. Production says the line is within tolerance and wants them released, and they're pointing at the shipping deadline on Friday. I've checked our gauge and it was calibrated last month, so I don't think the problem is on my side. I need someone to make a call here, because production and quality are not going to agree on this one. Call me on 0191 552 3016.'",
+    "timeLimitSec": 60,
+    "preparationSec": 30,
+    "sampleAnswer": "Hello Rowan, this is Amira Haddad from operations, returning your call.\n\nLet me confirm what I've understood. Four consecutive batches from line two, around eleven thousand units, have failed inspection on the same measurement and you've placed them on hold. Production believes the line is within tolerance and wants a release because of Friday's shipping deadline, and your gauge was calibrated last month.\n\nHere's what I propose. First, for today: we send a sample of thirty units from the held batches to the external lab for independent measurement. That removes the argument about whose instrument is right, and we should have a result tomorrow morning, which still leaves time before Friday.\n\nSecond, whichever way that comes back, I want line two's own gauge calibrated this week as well, because right now neither side can prove its position.\n\nThe hold stays in place until the lab result arrives — that's my decision, not yours, so please pass that to production. I'll call them myself this afternoon. Can you arrange the sample dispatch today?",
+    "rubricVi": [
+      "Nhắc lại đủ CẢ BA yếu tố: bốn lô bị giữ, xung đột với sản xuất, và việc thiết bị đo đã hiệu chuẩn. Thiếu một yếu tố là chưa hoàn thành nhiệm vụ.",
+      "Giải pháp phải phá được thế bế tắc bằng bên thứ ba khách quan, thay vì phân xử ai đúng ai sai.",
+      "Nhận trách nhiệm quyết định thay cho người gọi ('that's my decision, not yours'). Đây là chi tiết cho thấy hiểu đúng vai trò được nhờ cậy.",
+      "Tôn trọng ràng buộc thời gian đã nêu (thứ Sáu) và chứng minh phương án vẫn kịp.",
+      "Kết bằng một yêu cầu hành động cụ thể cho người nhận. Dùng trọn 60 giây."
+    ]
+  }
+]

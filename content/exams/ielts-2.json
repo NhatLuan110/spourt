@@ -1,0 +1,1018 @@
+{
+  "examId": "ielts",
+  "levelId": "2",
+  "vocabulary": [
+    {
+      "id": "assumption",
+      "term": "assumption",
+      "ipa": "/əˈsʌmpʃn/",
+      "meaningVi": "giả định, điều mặc nhiên cho là đúng",
+      "definitionEn": "Something you accept as true without proof.",
+      "example": "The forecast rests on the assumption that migration stays constant.",
+      "exampleVi": "Dự báo dựa trên giả định rằng mức di cư giữ nguyên.",
+      "collocations": [
+        "underlying assumption",
+        "challenge an assumption",
+        "on the assumption that"
+      ]
+    },
+    {
+      "id": "correlation",
+      "term": "correlation",
+      "ipa": "/ˌkɒrəˈleɪʃn/",
+      "meaningVi": "mối tương quan",
+      "definitionEn": "A relationship in which two things change together, without one necessarily causing the other.",
+      "example": "There is a correlation between income and cycling rates, but the direction is unclear.",
+      "exampleVi": "Có tương quan giữa thu nhập và tỉ lệ đi xe đạp, nhưng chưa rõ chiều tác động.",
+      "collocations": [
+        "a strong correlation",
+        "correlation between",
+        "correlation is not causation"
+      ]
+    },
+    {
+      "id": "substantial",
+      "term": "substantial",
+      "ipa": "/səbˈstænʃl/",
+      "meaningVi": "đáng kể, lớn",
+      "definitionEn": "Large in amount, value or importance.",
+      "example": "The scheme required a substantial initial investment.",
+      "exampleVi": "Chương trình này đòi hỏi khoản đầu tư ban đầu đáng kể.",
+      "collocations": [
+        "substantial evidence",
+        "a substantial proportion",
+        "substantially higher"
+      ]
+    },
+    {
+      "id": "implement",
+      "term": "implement",
+      "ipa": "/ˈɪmplɪment/",
+      "meaningVi": "triển khai, đưa vào thực hiện",
+      "definitionEn": "To put a plan or decision into effect.",
+      "example": "The policy was implemented in stages across six districts.",
+      "exampleVi": "Chính sách được triển khai theo từng giai đoạn ở sáu quận.",
+      "collocations": [
+        "implement a policy",
+        "fully implemented",
+        "implementation phase"
+      ]
+    },
+    {
+      "id": "constraint",
+      "term": "constraint",
+      "ipa": "/kənˈstreɪnt/",
+      "meaningVi": "ràng buộc, hạn chế",
+      "definitionEn": "Something that limits what you can do.",
+      "example": "Budget constraints delayed the second phase by a year.",
+      "exampleVi": "Ràng buộc ngân sách khiến giai đoạn hai chậm mất một năm.",
+      "collocations": [
+        "financial constraints",
+        "time constraints",
+        "operate under constraints"
+      ]
+    },
+    {
+      "id": "compensate",
+      "term": "compensate",
+      "ipa": "/ˈkɒmpenseɪt/",
+      "meaningVi": "bù đắp, đền bù",
+      "definitionEn": "To reduce the bad effect of something, or to pay someone for a loss.",
+      "example": "Longer opening hours did not compensate for the smaller collection.",
+      "exampleVi": "Giờ mở cửa dài hơn không bù đắp được cho bộ sưu tập nhỏ đi.",
+      "collocations": [
+        "compensate for",
+        "adequately compensated",
+        "compensation scheme"
+      ]
+    },
+    {
+      "id": "prioritise",
+      "term": "prioritise",
+      "ipa": "/praɪˈɒrətaɪz/",
+      "meaningVi": "ưu tiên, xếp thứ tự ưu tiên",
+      "definitionEn": "To decide which things are most important and deal with them first.",
+      "example": "The trust prioritised repairs over new acquisitions.",
+      "exampleVi": "Quỹ ưu tiên sửa chữa hơn là mua thêm hiện vật mới.",
+      "collocations": [
+        "prioritise spending",
+        "clearly prioritised",
+        "set priorities"
+      ]
+    },
+    {
+      "id": "attribute",
+      "term": "attribute",
+      "ipa": "/əˈtrɪbjuːt/",
+      "meaningVi": "quy cho, cho là do",
+      "definitionEn": "To say that something is caused by a particular thing or person.",
+      "example": "The authors attribute the rise to better reporting rather than more incidents.",
+      "exampleVi": "Nhóm tác giả quy mức tăng này cho việc ghi nhận tốt hơn chứ không phải do có nhiều vụ hơn.",
+      "collocations": [
+        "attribute X to Y",
+        "widely attributed",
+        "attributable to"
+      ]
+    },
+    {
+      "id": "widespread",
+      "term": "widespread",
+      "ipa": "/ˈwaɪdspred/",
+      "meaningVi": "phổ biến rộng rãi, lan rộng",
+      "definitionEn": "Existing or happening over a large area or among many people.",
+      "example": "Support for the scheme was widespread but shallow.",
+      "exampleVi": "Sự ủng hộ dành cho chương trình thì rộng nhưng không sâu.",
+      "collocations": [
+        "widespread adoption",
+        "become widespread",
+        "widespread concern"
+      ]
+    },
+    {
+      "id": "undermine",
+      "term": "undermine",
+      "ipa": "/ˌʌndəˈmaɪn/",
+      "meaningVi": "làm suy yếu, làm xói mòn",
+      "definitionEn": "To gradually weaken something such as confidence or an argument.",
+      "example": "Missing data undermined the credibility of the report.",
+      "exampleVi": "Dữ liệu thiếu làm xói mòn độ tin cậy của báo cáo.",
+      "collocations": [
+        "undermine confidence",
+        "seriously undermine",
+        "undermine an argument"
+      ]
+    },
+    {
+      "id": "sustain",
+      "term": "sustain",
+      "ipa": "/səˈsteɪn/",
+      "meaningVi": "duy trì, giữ vững",
+      "definitionEn": "To keep something going over time at the same level.",
+      "example": "Few volunteer schemes sustain their first-year numbers.",
+      "exampleVi": "Ít chương trình tình nguyện nào giữ được số lượng của năm đầu.",
+      "collocations": [
+        "sustain growth",
+        "sustained effort",
+        "hard to sustain"
+      ]
+    },
+    {
+      "id": "framework",
+      "term": "framework",
+      "ipa": "/ˈfreɪmwɜːk/",
+      "meaningVi": "khung, bộ khung lý thuyết",
+      "definitionEn": "A set of ideas or rules used to plan or judge something.",
+      "example": "The study applies a framework developed for rural transport.",
+      "exampleVi": "Nghiên cứu áp dụng bộ khung vốn được xây cho giao thông nông thôn.",
+      "collocations": [
+        "theoretical framework",
+        "regulatory framework",
+        "within this framework"
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "id": "reading-library-lending",
+      "skill": "reading",
+      "title": "What library statistics do not show",
+      "format": "IELTS Academic Reading — Passage 1 · Multiple choice + Sentence completion",
+      "instructionsVi": "Đọc bài rồi trả lời 5 câu. Bài có hai lập luận đối lập nhau; câu hỏi buộc bạn phân biệt quan điểm của tác giả với quan điểm mà tác giả chỉ thuật lại.",
+      "promptEn": "Read the passage and answer the five questions that follow.",
+      "passage": "Public library systems in most countries publish an annual figure for items borrowed. It is a convenient number: easy to collect, comparable between years, and intuitively meaningful. Across much of Europe it has been falling steadily since the early 2000s, and this decline is routinely cited as evidence that libraries matter less than they did.\n\nThe inference is less secure than it appears. Lending counts one activity, and it happens to be the activity most exposed to competition from streaming and cheap online retail. Meanwhile, several categories of library use have grown sharply over the same period and are recorded, if at all, in separate systems. Sessions on public computers, help with government forms now filed only online, English classes, children's reading groups and use of the building as a place to work or shelter have all expanded. A 2019 survey of eleven English library authorities found that visits had fallen by nine per cent since 2010 while loans fell by thirty-one per cent, a divergence that lending figures alone cannot explain.\n\nSome managers argue that the answer is to broaden the headline statistic — to publish visits, or a composite index of services used. Others resist this. A composite figure, they point out, can be constructed to show almost anything, and once a measure becomes a target it tends to be gamed. The head of one authority described a neighbouring service that had boosted its 'engagements' by counting every child who passed through a school holiday event, including those attending under supervision as part of a class visit.\n\nThere is a further difficulty that neither camp resolves. Much of what libraries now do is valued precisely because it is not transactional. A person who spends the afternoon in a warm reading room without borrowing anything, without booking a computer and without speaking to staff leaves no trace in any system at all. Whatever measure replaces lending will still miss them, and the more useful that quiet use becomes, the more misleading any single number is likely to be.",
+      "timeLimitSec": 375,
+      "questions": [
+        {
+          "id": "q1",
+          "kind": "mcq",
+          "prompt": "Why does the writer describe lending figures as 'convenient'?",
+          "options": [
+            {
+              "id": "a",
+              "text": "Because they capture the full range of library services"
+            },
+            {
+              "id": "b",
+              "text": "Because they are simple to gather and compare over time"
+            },
+            {
+              "id": "c",
+              "text": "Because they have been rising in most countries"
+            },
+            {
+              "id": "d",
+              "text": "Because governments require libraries to publish them"
+            }
+          ],
+          "answer": "b",
+          "explanationVi": "Đoạn 1: 'easy to collect, comparable between years, and intuitively meaningful'. Đáp án A ngược hẳn với luận điểm chính của bài."
+        },
+        {
+          "id": "q2",
+          "kind": "mcq",
+          "prompt": "What does the 2019 survey suggest?",
+          "options": [
+            {
+              "id": "a",
+              "text": "Visits and loans fell at a similar rate."
+            },
+            {
+              "id": "b",
+              "text": "Visits rose while loans fell."
+            },
+            {
+              "id": "c",
+              "text": "Neither visits nor loans changed significantly."
+            },
+            {
+              "id": "d",
+              "text": "Loans fell much faster than visits did."
+            }
+          ],
+          "answer": "d",
+          "explanationVi": "Thăm viếng giảm 9%, cho mượn giảm 31% — chênh lệch lớn. Đáp án B là bẫy: lượt thăm vẫn giảm, chỉ là giảm ít hơn."
+        },
+        {
+          "id": "q3",
+          "kind": "short-answer",
+          "prompt": "According to the critics, what happens once a measure becomes a ____? (ONE WORD)",
+          "answer": "target",
+          "explanationVi": "Đoạn 3: 'once a measure becomes a target it tends to be gamed'."
+        },
+        {
+          "id": "q4",
+          "kind": "mcq",
+          "prompt": "Why is the neighbouring service mentioned?",
+          "options": [
+            {
+              "id": "a",
+              "text": "To show how a broader measure can be inflated"
+            },
+            {
+              "id": "b",
+              "text": "As an example of successful outreach to schools"
+            },
+            {
+              "id": "c",
+              "text": "To prove that visits are more reliable than loans"
+            },
+            {
+              "id": "d",
+              "text": "To argue that children's events should be funded"
+            }
+          ],
+          "answer": "a",
+          "explanationVi": "Ví dụ đó minh hoạ việc đếm gộp cả học sinh đi theo lớp để thổi phồng con số 'engagements'."
+        },
+        {
+          "id": "q5",
+          "kind": "mcq",
+          "prompt": "What is the writer's own position in the final paragraph?",
+          "options": [
+            {
+              "id": "a",
+              "text": "Libraries should return to using lending figures only."
+            },
+            {
+              "id": "b",
+              "text": "A composite index would solve the measurement problem."
+            },
+            {
+              "id": "c",
+              "text": "Some valuable use will escape any single measure."
+            },
+            {
+              "id": "d",
+              "text": "Quiet users should be required to register on arrival."
+            }
+          ],
+          "answer": "c",
+          "explanationVi": "Đoạn cuối: người ngồi đọc yên lặng 'leaves no trace in any system at all', và 'whatever measure replaces lending will still miss them'."
+        }
+      ]
+    },
+    {
+      "id": "reading-tfng-remote",
+      "skill": "reading",
+      "title": "Remote work and city centres",
+      "format": "IELTS Academic Reading — Passage 2 · Identifying information (True/False/Not Given)",
+      "instructionsVi": "Chọn TRUE, FALSE hoặc NOT GIVEN. Ở mức này các câu NOT GIVEN được viết sao cho nghe rất hợp lý — đúng như đề thi thật, chỉ dày đặc hơn.",
+      "promptEn": "Do the following statements agree with the information given in the passage? Choose TRUE, FALSE or NOT GIVEN.",
+      "passage": "When large employers moved to hybrid working after 2020, forecasters expected city centre economies to contract in proportion. The prediction was straightforward: fewer commuters would mean fewer sandwiches sold, fewer train tickets bought and, eventually, empty offices.\n\nThe outcome has been more uneven. Office attendance in most large European cities settled at roughly sixty per cent of its 2019 level, and it has not recovered further since 2023. Yet retail spending in the same districts fell by only about fifteen per cent, and in a few cities it has surpassed 2019 in cash terms, though not once adjusted for inflation. The pattern of spending shifted rather than simply shrinking: weekday lunch trade declined, while evening and weekend trade grew as central areas attracted more visits for reasons unrelated to work.\n\nTransport told a different story again. Season ticket sales collapsed and have not returned, but total journeys recovered faster than revenue because passengers switched to single tickets bought on three or four days a week. Several operators found themselves carrying nearly as many people for considerably less money, a combination that put pressure on services precisely when demand looked healthy.\n\nOffice property has adjusted most slowly, as leases signed before 2020 expire only gradually. Vacancy rates are highest in older buildings without modern ventilation or good transport links, while newer, well-connected space has remained close to fully let. Analysts describe the market as splitting rather than declining, though how far that split will go is disputed.",
+      "timeLimitSec": 375,
+      "questions": [
+        {
+          "id": "t1",
+          "kind": "mcq",
+          "prompt": "Retail spending in central districts fell by roughly the same proportion as office attendance.",
+          "options": [
+            {
+              "id": "a",
+              "text": "FALSE"
+            },
+            {
+              "id": "b",
+              "text": "TRUE"
+            },
+            {
+              "id": "c",
+              "text": "NOT GIVEN"
+            }
+          ],
+          "answer": "a",
+          "explanationVi": "Đi làm còn khoảng 60% (giảm ~40%) trong khi bán lẻ chỉ giảm khoảng 15%. Bài cho hai con số khác hẳn nhau nên là FALSE."
+        },
+        {
+          "id": "t2",
+          "kind": "mcq",
+          "prompt": "In some cities, retail spending exceeded 2019 levels once inflation was taken into account.",
+          "options": [
+            {
+              "id": "a",
+              "text": "TRUE"
+            },
+            {
+              "id": "b",
+              "text": "NOT GIVEN"
+            },
+            {
+              "id": "c",
+              "text": "FALSE"
+            }
+          ],
+          "answer": "c",
+          "explanationVi": "Bài nói vượt 2019 'in cash terms, though not once adjusted for inflation' — tức là sau khi tính lạm phát thì KHÔNG vượt. Câu hỏi đảo ngược đúng chỗ đó."
+        },
+        {
+          "id": "t3",
+          "kind": "mcq",
+          "prompt": "Transport operators carried nearly as many passengers as before but earned less.",
+          "options": [
+            {
+              "id": "a",
+              "text": "FALSE"
+            },
+            {
+              "id": "b",
+              "text": "TRUE"
+            },
+            {
+              "id": "c",
+              "text": "NOT GIVEN"
+            }
+          ],
+          "answer": "b",
+          "explanationVi": "Đoạn 3: 'carrying nearly as many people for considerably less money'."
+        },
+        {
+          "id": "t4",
+          "kind": "mcq",
+          "prompt": "Employers who required full-time office attendance had higher staff turnover.",
+          "options": [
+            {
+              "id": "a",
+              "text": "NOT GIVEN"
+            },
+            {
+              "id": "b",
+              "text": "TRUE"
+            },
+            {
+              "id": "c",
+              "text": "FALSE"
+            }
+          ],
+          "answer": "a",
+          "explanationVi": "Bài không hề bàn tới tỉ lệ nghỉ việc hay chính sách bắt buộc lên văn phòng. Nghe hợp lý nhưng không có trong bài — NOT GIVEN."
+        },
+        {
+          "id": "t5",
+          "kind": "mcq",
+          "prompt": "Older office buildings have higher vacancy rates than newer ones.",
+          "options": [
+            {
+              "id": "a",
+              "text": "FALSE"
+            },
+            {
+              "id": "b",
+              "text": "TRUE"
+            },
+            {
+              "id": "c",
+              "text": "NOT GIVEN"
+            }
+          ],
+          "answer": "b",
+          "explanationVi": "Đoạn 4: 'Vacancy rates are highest in older buildings... while newer, well-connected space has remained close to fully let'."
+        }
+      ]
+    },
+    {
+      "id": "reading-matching-glass",
+      "skill": "reading",
+      "title": "Four approaches to recycling glass",
+      "format": "IELTS Academic Reading — Passage 3 · Matching headings / Matching information",
+      "instructionsVi": "Mỗi câu hỏi hỏi thông tin nằm ở đoạn nào. Thông tin không xuất hiện theo thứ tự câu hỏi, nên phải quét cả bài — đây là điểm khác biệt so với dạng trắc nghiệm thường.",
+      "promptEn": "The passage has four sections, A–D. Which section contains the following information?",
+      "passage": "A. Container glass is one of the few materials that can be melted and reformed indefinitely without losing quality. A bottle collected today can be back on a shelf within a month. The saving is mostly energy: cullet, the industry term for crushed recycled glass, melts at a lower temperature than raw sand, soda ash and limestone, so every ten per cent of cullet in the mix cuts furnace energy by roughly two to three per cent.\n\nB. The obstacle is colour. Green, brown and clear glass cannot be freely substituted, because clear glass contaminated with even small amounts of coloured cullet cannot be used for clear containers again. Countries that collect glass mixed together therefore produce cullet suitable only for green bottles or for non-container uses, while countries that separate at the kerbside preserve far more of the value.\n\nC. Where separation is impractical, optical sorting offers a partial answer. Crushed glass passes under sensors that identify colour and eject fragments with jets of air, at rates approaching twenty tonnes an hour. The equipment is expensive and struggles with fragments below about ten millimetres, which is one reason kerbside collection systems try to avoid crushing glass in the truck.\n\nD. A quieter alternative is to stop recycling glass into glass. Crushed mixed cullet works well as a substitute for sand in road foundations and concrete, and demand from construction is steady. This avoids the colour problem entirely, but it also ends the loop: material used in a road bed will not become a bottle again, and the energy saving in the glass furnace is lost.",
+      "timeLimitSec": 300,
+      "questions": [
+        {
+          "id": "m1",
+          "kind": "mcq",
+          "prompt": "A limitation related to the size of glass pieces",
+          "options": [
+            {
+              "id": "a",
+              "text": "Section A"
+            },
+            {
+              "id": "b",
+              "text": "Section B"
+            },
+            {
+              "id": "c",
+              "text": "Section D"
+            },
+            {
+              "id": "d",
+              "text": "Section C"
+            }
+          ],
+          "answer": "d",
+          "explanationVi": "Đoạn C: máy phân loại quang học 'struggles with fragments below about ten millimetres'."
+        },
+        {
+          "id": "m2",
+          "kind": "mcq",
+          "prompt": "A quantified relationship between recycled content and energy use",
+          "options": [
+            {
+              "id": "a",
+              "text": "Section B"
+            },
+            {
+              "id": "b",
+              "text": "Section A"
+            },
+            {
+              "id": "c",
+              "text": "Section C"
+            },
+            {
+              "id": "d",
+              "text": "Section D"
+            }
+          ],
+          "answer": "b",
+          "explanationVi": "Đoạn A: cứ 10% cullet thì giảm khoảng 2–3% năng lượng lò nung."
+        },
+        {
+          "id": "m3",
+          "kind": "mcq",
+          "prompt": "A use for glass that removes it from the recycling loop",
+          "options": [
+            {
+              "id": "a",
+              "text": "Section A"
+            },
+            {
+              "id": "b",
+              "text": "Section B"
+            },
+            {
+              "id": "c",
+              "text": "Section D"
+            },
+            {
+              "id": "d",
+              "text": "Section C"
+            }
+          ],
+          "answer": "c",
+          "explanationVi": "Đoạn D: dùng làm nền đường thì 'will not become a bottle again' — ra khỏi vòng tuần hoàn."
+        },
+        {
+          "id": "m4",
+          "kind": "mcq",
+          "prompt": "How collection method affects the value of the material recovered",
+          "options": [
+            {
+              "id": "a",
+              "text": "Section B"
+            },
+            {
+              "id": "b",
+              "text": "Section A"
+            },
+            {
+              "id": "c",
+              "text": "Section C"
+            },
+            {
+              "id": "d",
+              "text": "Section D"
+            }
+          ],
+          "answer": "a",
+          "explanationVi": "Đoạn B: thu gom lẫn màu chỉ ra được cullet giá trị thấp, còn phân loại tại nhà 'preserve far more of the value'."
+        }
+      ]
+    },
+    {
+      "id": "listening-flat-viewing",
+      "skill": "listening",
+      "title": "Arranging a flat viewing",
+      "format": "IELTS Listening — Section 1 · Hội thoại đời thường, hai người, form completion",
+      "instructionsVi": "Nghe rồi trả lời 4 câu. Có hai chỗ thông tin được sửa lại và một chỗ đánh vần — cả ba đều là bẫy chuẩn của Section 1.",
+      "promptEn": "Listen to the phone call and answer the questions.",
+      "accent": "uk",
+      "transcript": [
+        {
+          "speaker": "Agent",
+          "text": "Hartley Lettings, Priya speaking."
+        },
+        {
+          "speaker": "Caller",
+          "text": "Hello, I'm calling about the two-bedroom flat on Meadow Road. Is it still available?"
+        },
+        {
+          "speaker": "Agent",
+          "text": "The Meadow Road one, yes. It's eight hundred and ninety a month. Sorry, that's the ground floor one — the flat still available is the first floor, and that one's nine hundred and forty."
+        },
+        {
+          "speaker": "Caller",
+          "text": "Nine forty. Does that include anything?"
+        },
+        {
+          "speaker": "Agent",
+          "text": "Water and building maintenance, but not council tax and not electricity."
+        },
+        {
+          "speaker": "Caller",
+          "text": "Right. Could I view it this week?"
+        },
+        {
+          "speaker": "Agent",
+          "text": "I've got Wednesday at half five, or Saturday morning at ten."
+        },
+        {
+          "speaker": "Caller",
+          "text": "Saturday, please."
+        },
+        {
+          "speaker": "Agent",
+          "text": "Lovely. Can I take a name?"
+        },
+        {
+          "speaker": "Caller",
+          "text": "It's Nguyen. N-G-U-Y-E-N."
+        },
+        {
+          "speaker": "Agent",
+          "text": "N-G-U-Y-E-N, got it. And one thing to mention — the entrance is round the back, on Cowley Lane, not on Meadow Road itself. People do get caught out by that."
+        },
+        {
+          "speaker": "Caller",
+          "text": "Cowley Lane. Thanks, I'd have stood outside the wrong door."
+        },
+        {
+          "speaker": "Agent",
+          "text": "You'd not be the first. Bring photo ID, that's all you need for a viewing."
+        }
+      ],
+      "timeLimitSec": 280,
+      "questions": [
+        {
+          "id": "l1",
+          "kind": "short-answer",
+          "prompt": "What is the monthly rent for the available flat? Give the figure in pounds. (A NUMBER)",
+          "answer": "940",
+          "accepted": [
+            "£940",
+            "940 pounds",
+            "nine hundred and forty"
+          ],
+          "explanationVi": "890 là căn tầng trệt, nhân viên tự sửa lại: căn còn trống là tầng một, giá 940. Nghe hụt câu sửa là mất điểm."
+        },
+        {
+          "id": "l2",
+          "kind": "mcq",
+          "prompt": "Which cost is included in the rent?",
+          "options": [
+            {
+              "id": "a",
+              "text": "Council tax"
+            },
+            {
+              "id": "b",
+              "text": "Electricity"
+            },
+            {
+              "id": "c",
+              "text": "Internet"
+            },
+            {
+              "id": "d",
+              "text": "Water"
+            }
+          ],
+          "answer": "d",
+          "explanationVi": "'Water and building maintenance, but not council tax and not electricity'."
+        },
+        {
+          "id": "l3",
+          "kind": "short-answer",
+          "prompt": "Which street is the entrance on? (NO MORE THAN TWO WORDS)",
+          "answer": "Cowley Lane",
+          "accepted": [
+            "cowley lane",
+            "Cowley"
+          ],
+          "explanationVi": "'the entrance is round the back, on Cowley Lane, not on Meadow Road itself'. Meadow Road là địa chỉ căn hộ, không phải lối vào."
+        },
+        {
+          "id": "l4",
+          "kind": "mcq",
+          "prompt": "What must the caller bring to the viewing?",
+          "options": [
+            {
+              "id": "a",
+              "text": "Proof of income"
+            },
+            {
+              "id": "b",
+              "text": "Photo identification"
+            },
+            {
+              "id": "c",
+              "text": "A deposit"
+            },
+            {
+              "id": "d",
+              "text": "A reference letter"
+            }
+          ],
+          "answer": "b",
+          "explanationVi": "'Bring photo ID, that's all you need for a viewing'."
+        }
+      ]
+    },
+    {
+      "id": "listening-volunteer-briefing",
+      "skill": "listening",
+      "title": "Volunteer briefing at a nature reserve",
+      "format": "IELTS Listening — Section 2 · Độc thoại đời thường",
+      "instructionsVi": "Nghe bài nói rồi trả lời 4 câu. Người nói liệt kê nhiều mốc thời gian và địa điểm liền nhau; hãy ghi nhanh trong lúc nghe thay vì cố nhớ.",
+      "promptEn": "Listen to the briefing for new volunteers and answer the questions.",
+      "accent": "uk",
+      "transcript": [
+        {
+          "speaker": "Coordinator",
+          "text": "Morning all, and thanks for signing up. I'll run through the practicalities and then we'll get outside."
+        },
+        {
+          "speaker": "Coordinator",
+          "text": "Sessions run every Saturday from nine to one. We also have a Wednesday group, but that's for trained volunteers only, so you'll join Saturdays for at least the first two months."
+        },
+        {
+          "speaker": "Coordinator",
+          "text": "Meet at the wooden gate by the car park, not at the visitor centre. The visitor centre doesn't open until ten and you'd be standing about."
+        },
+        {
+          "speaker": "Coordinator",
+          "text": "We provide gloves, tools and hot drinks. You need to bring waterproof boots and your own lunch. There's no shop on site and the nearest village is a twenty-minute walk."
+        },
+        {
+          "speaker": "Coordinator",
+          "text": "This autumn we're mainly clearing scrub from the wet meadow, which stops it turning into woodland and losing the orchids. In spring the work shifts to path repair and pond clearance."
+        },
+        {
+          "speaker": "Coordinator",
+          "text": "One safety point. If you find anything that looks like an old bottle or a piece of metal in the soil, don't pick it up — flag it and tell a supervisor. Part of this site was a wartime depot and we still turn up the occasional surprise."
+        }
+      ],
+      "timeLimitSec": 280,
+      "questions": [
+        {
+          "id": "v1",
+          "kind": "mcq",
+          "prompt": "Why will new volunteers not join the Wednesday group?",
+          "options": [
+            {
+              "id": "a",
+              "text": "It is fully booked."
+            },
+            {
+              "id": "b",
+              "text": "It is only for volunteers who have been trained."
+            },
+            {
+              "id": "c",
+              "text": "It runs at a different site."
+            },
+            {
+              "id": "d",
+              "text": "It has been cancelled for the autumn."
+            }
+          ],
+          "answer": "b",
+          "explanationVi": "'that's for trained volunteers only, so you'll join Saturdays for at least the first two months'."
+        },
+        {
+          "id": "v2",
+          "kind": "short-answer",
+          "prompt": "Where should volunteers meet? At the wooden ____. (NO MORE THAN TWO WORDS)",
+          "answer": "gate",
+          "accepted": [
+            "gate by the car park"
+          ],
+          "explanationVi": "'Meet at the wooden gate by the car park, not at the visitor centre'. Trung tâm du khách là chỗ KHÔNG hẹn."
+        },
+        {
+          "id": "v3",
+          "kind": "mcq",
+          "prompt": "What must volunteers bring themselves?",
+          "options": [
+            {
+              "id": "a",
+              "text": "Gloves and tools"
+            },
+            {
+              "id": "b",
+              "text": "Hot drinks"
+            },
+            {
+              "id": "c",
+              "text": "Waterproof boots and lunch"
+            },
+            {
+              "id": "d",
+              "text": "A first aid kit"
+            }
+          ],
+          "answer": "c",
+          "explanationVi": "'We provide gloves, tools and hot drinks. You need to bring waterproof boots and your own lunch'."
+        },
+        {
+          "id": "v4",
+          "kind": "mcq",
+          "prompt": "What should a volunteer do on finding metal in the soil?",
+          "options": [
+            {
+              "id": "a",
+              "text": "Leave it, mark the spot and inform a supervisor"
+            },
+            {
+              "id": "b",
+              "text": "Put it in the waste bin"
+            },
+            {
+              "id": "c",
+              "text": "Take it to the visitor centre"
+            },
+            {
+              "id": "d",
+              "text": "Photograph it and continue working"
+            }
+          ],
+          "answer": "a",
+          "explanationVi": "'don't pick it up — flag it and tell a supervisor', vì khu này từng là kho quân sự thời chiến."
+        }
+      ]
+    },
+    {
+      "id": "listening-seminar-survey",
+      "skill": "listening",
+      "title": "Seminar — designing a questionnaire",
+      "format": "IELTS Listening — Section 4 · Bài giảng học thuật, không nghỉ giữa chừng",
+      "instructionsVi": "Nghe ba người trao đổi rồi trả lời 4 câu. Section 3 khó ở chỗ phải nhớ AI nói ý nào, không chỉ nhớ ý gì được nói.",
+      "promptEn": "Listen to the seminar discussion and answer the questions.",
+      "accent": "uk",
+      "transcript": [
+        {
+          "speaker": "Tutor",
+          "text": "So, you've both drafted questionnaires for the transport study. Maya, where are you up to?"
+        },
+        {
+          "speaker": "Maya",
+          "text": "I've got twenty-eight questions. I wanted to cover journey purpose, cost, timing and satisfaction properly."
+        },
+        {
+          "speaker": "Tutor",
+          "text": "Twenty-eight is a lot for a street survey. What's your expected completion time?"
+        },
+        {
+          "speaker": "Maya",
+          "text": "About nine minutes, I think."
+        },
+        {
+          "speaker": "Tom",
+          "text": "That's the bit I'd worry about. When I piloted mine, anything over five minutes and people started giving one-word answers just to get away."
+        },
+        {
+          "speaker": "Tutor",
+          "text": "That's a real effect, and it doesn't show up as missing data — it shows up as poor quality data, which is harder to spot."
+        },
+        {
+          "speaker": "Maya",
+          "text": "So cut it down. Which ones go?"
+        },
+        {
+          "speaker": "Tutor",
+          "text": "Ask yourself which questions you could answer from existing sources. Fares are published. Timetables are published. Don't spend a respondent's patience on something you can look up."
+        },
+        {
+          "speaker": "Tom",
+          "text": "Mine's twelve questions now. The problem I've got is the satisfaction scale — I used five points and almost everyone picked the middle."
+        },
+        {
+          "speaker": "Tutor",
+          "text": "Try four points, with no neutral option. It forces a direction. Some researchers object that it's coercive, but for a short street survey I think it's the better trade-off."
+        }
+      ],
+      "timeLimitSec": 280,
+      "questions": [
+        {
+          "id": "s1",
+          "kind": "short-answer",
+          "prompt": "How many questions does Maya's draft currently have? (A NUMBER)",
+          "answer": "28",
+          "accepted": [
+            "twenty-eight",
+            "twenty eight"
+          ],
+          "explanationVi": "Maya: 'I've got twenty-eight questions'. Tom có 12, dễ nhầm nếu không theo dõi ai nói."
+        },
+        {
+          "id": "s2",
+          "kind": "mcq",
+          "prompt": "What problem does Tom report from his pilot?",
+          "options": [
+            {
+              "id": "a",
+              "text": "Long surveys led to short, low-quality answers."
+            },
+            {
+              "id": "b",
+              "text": "People refused to take part at all."
+            },
+            {
+              "id": "c",
+              "text": "Respondents misunderstood the wording."
+            },
+            {
+              "id": "d",
+              "text": "The survey took less time than expected."
+            }
+          ],
+          "answer": "a",
+          "explanationVi": "Tom: quá 5 phút thì 'people started giving one-word answers just to get away'."
+        },
+        {
+          "id": "s3",
+          "kind": "mcq",
+          "prompt": "What does the tutor advise about which questions to remove?",
+          "options": [
+            {
+              "id": "a",
+              "text": "Remove questions about satisfaction."
+            },
+            {
+              "id": "b",
+              "text": "Remove the first and last sections."
+            },
+            {
+              "id": "c",
+              "text": "Remove any question with a numeric answer."
+            },
+            {
+              "id": "d",
+              "text": "Remove anything answerable from published sources."
+            }
+          ],
+          "answer": "d",
+          "explanationVi": "'Fares are published. Timetables are published. Don't spend a respondent's patience on something you can look up'."
+        },
+        {
+          "id": "s4",
+          "kind": "mcq",
+          "prompt": "Why does the tutor suggest a four-point scale?",
+          "options": [
+            {
+              "id": "a",
+              "text": "It is quicker to print."
+            },
+            {
+              "id": "b",
+              "text": "It is the standard in transport research."
+            },
+            {
+              "id": "c",
+              "text": "It removes the neutral option and forces a direction."
+            },
+            {
+              "id": "d",
+              "text": "It produces more missing data, which is easier to analyse."
+            }
+          ],
+          "answer": "c",
+          "explanationVi": "'Try four points, with no neutral option. It forces a direction'. Giảng viên cũng thừa nhận có người phản đối là ép buộc."
+        }
+      ]
+    },
+    {
+      "id": "writing-task1-process",
+      "skill": "writing",
+      "title": "Task 1 — How glass is recycled",
+      "format": "IELTS Academic Writing — Task 1 · 20 phút, tối thiểu 150 từ",
+      "instructionsVi": "Viết 150–200 từ. Dạng quy trình cần thì bị động và từ nối trình tự, KHÔNG cần số liệu. Đề luyện cho quy trình có một nhánh rẽ, khó hơn quy trình một chiều thường gặp.",
+      "promptEn": "The diagram below describes the recycling of container glass. Summarise the information by selecting and reporting the main features.\n\nStages: 1 Household bottles placed in kerbside bin (separated by colour: clear / green / brown) → 2 Collected by truck → 3 Delivered to sorting facility → 4 Manual check to remove lids, ceramics and stones → 5 Crushed into cullet → 6a Colour-sorted cullet sent to glass furnace, mixed with sand, soda ash and limestone → 7a Melted at 1,500°C → 8a Moulded into new bottles → 9a Filled and returned to shops.\nBranch: 6b Mixed-colour or contaminated cullet diverted to construction → 7b Used as aggregate in road foundations (leaves the cycle).",
+      "timeLimitSec": 1200,
+      "minWords": 150,
+      "maxWords": 200,
+      "sampleAnswer": "The diagram illustrates how container glass is recycled, from household disposal through to either the production of new bottles or use in construction.\n\nOverall, the process is a loop for glass that is clean and colour-sorted, but a one-way path for material that is mixed or contaminated. Nine stages are involved in total, with the route dividing after crushing.\n\nAt the first stage, households place bottles in a kerbside bin, separating them by colour into clear, green and brown. The bottles are then collected by truck and delivered to a sorting facility, where lids, ceramics and stones are removed by hand. Once checked, the glass is crushed into small fragments known as cullet.\n\nThe route now divides. Colour-sorted cullet is sent to a furnace, where it is combined with sand, soda ash and limestone and melted at 1,500°C before being moulded into new bottles, filled and returned to shops. Cullet that is mixed in colour or contaminated is instead diverted to the construction industry, where it is used as aggregate in road foundations and so leaves the cycle permanently.",
+      "rubricVi": [
+        "Có câu tổng quan nêu đặc điểm bao trùm: quy trình là vòng khép kín với thuỷ tinh sạch nhưng một chiều với thuỷ tinh lẫn màu. Đây là chỗ phân biệt bài band 6 với band 7.",
+        "Mô tả ĐỦ nhánh rẽ. Nhiều bài chỉ tả nhánh chính rồi bỏ quên nhánh đi vào xây dựng, mất điểm Task Achievement.",
+        "Dùng thì hiện tại bị động: are collected, is crushed, is melted. Quy trình mà viết chủ động hết là lỗi ngữ pháp điển hình.",
+        "Từ nối trình tự đa dạng: at the first stage, then, once, before, now. Không lặp 'After that' ở mọi câu.",
+        "Không bịa thêm số liệu, không giải thích vì sao phải làm vậy — chỉ mô tả các bước sơ đồ đưa ra."
+      ]
+    },
+    {
+      "id": "writing-task2-museums",
+      "skill": "writing",
+      "title": "Task 2 — Should museums charge for entry?",
+      "format": "IELTS Academic Writing — Task 2 · 40 phút, tối thiểu 250 từ, chiếm 2/3 điểm Writing",
+      "instructionsVi": "Viết 250–320 từ. Đề có hai vế phải trả lời cả hai; bỏ vế nào là bị chấm 'không đủ nhiệm vụ'. Ở mức này đề buộc bạn cân nhắc đánh đổi chứ không chỉ liệt kê ưu nhược.",
+      "promptEn": "Museums and art galleries in some countries are free to enter, funded by taxes. In others, visitors pay an entrance fee.\n\nWhat are the advantages of free entry, and do these outweigh the disadvantages?",
+      "timeLimitSec": 2400,
+      "minWords": 250,
+      "maxWords": 320,
+      "sampleAnswer": "Whether national collections should be free is really a question about who pays and who benefits. Free entry has clear advantages, and on balance I believe they outweigh the drawbacks, though not for the reason usually given.\n\nThe obvious benefit is access. When a gallery charges, a visit becomes a planned event that has to justify its cost, and people who are unsure whether they will enjoy it simply do not come. Free entry allows short, casual visits — twenty minutes on the way home, a single room rather than the whole building — and it is this pattern that turns a museum into part of ordinary life rather than a special occasion. School groups and low-income families benefit most, since a family of four faces a substantial bill under any fee system.\n\nThe disadvantages are also real. Free institutions depend on public funding, which is vulnerable in a way that ticket revenue is not, and several free museums have responded to budget cuts by reducing opening hours or closing galleries — a less visible form of exclusion. There is also a fairness objection: taxpayers who never visit are subsidising those who do, and visitors to national museums are, on average, wealthier and better educated than the population as a whole.\n\nI find the access argument stronger, but it needs qualifying. Free entry alone does not produce a broader audience; museums that removed charges without changing anything else largely saw their existing visitors come more often. The advantage is only realised when free entry is combined with outreach, evening opening and exhibitions that speak to people who do not already feel at home in such buildings.\n\nOn that condition, I would keep entry free and fund it publicly, while charging for temporary exhibitions so that those who want more can contribute more.",
+      "rubricVi": [
+        "Trả lời ĐỦ hai vế: nêu ưu điểm, RỒI phán xét ưu điểm có lớn hơn nhược điểm không. Chỉ liệt kê ưu nhược mà không kết luận là thiếu nhiệm vụ.",
+        "Nêu nhược điểm một cách công bằng thay vì dựng bù nhìn để đập. Giám khảo đánh giá cao bài thừa nhận điểm mạnh của phía đối lập.",
+        "Có ít nhất một ý đi sâu hơn mức hiển nhiên — ví dụ miễn phí không tự động mở rộng khán giả. Đây là thứ đưa bài lên band 7 trở lên.",
+        "Kết luận phải đưa ra lập trường có điều kiện rõ ràng, không kết bằng câu chung chung kiểu 'both sides have advantages'.",
+        "Đủ 250 từ và chia đoạn rõ. Viết một khối liền không xuống dòng bị trừ điểm Coherence."
+      ]
+    },
+    {
+      "id": "speaking-part1-routine",
+      "skill": "speaking",
+      "title": "Part 1 — Daily routine, technology and travel",
+      "format": "IELTS Speaking — Part 1 · Introduction and interview, 4–5 phút",
+      "instructionsVi": "Trả lời từng câu 2–3 câu, không chuẩn bị trước. Part 1 hỏi về bản thân và thói quen hằng ngày; mục đích là làm quen và đo phản xạ, nên đừng trả lời như bài luận.",
+      "promptEn": "Answer each question in two or three sentences.\n1. Are you a morning person or an evening person?\n2. How do you usually get to work or college?\n3. How often do you use your phone for something other than messaging?\n4. Do you prefer travelling alone or with other people?\n5. Is there anywhere you would like to visit that you have not been to yet?",
+      "timeLimitSec": 300,
+      "preparationSec": 0,
+      "sampleAnswer": "1. Definitely a morning person, which is unusual among people my age. I do my best work before ten, and by about nine in the evening I'm not much use to anyone.\n\n2. I cycle, mostly. It takes about twenty-five minutes, and it's faster than the bus once you count the waiting. If it's raining heavily I'll take a taxi, but that's maybe twice a month.\n\n3. Constantly, I'm afraid. Maps, podcasts on the way in, and quite a lot of reading — I probably get through more articles on my phone than I do on a laptop these days.\n\n4. It depends on the trip. For a city I'd rather go with someone, because half the point is talking about what you've seen. For hiking I genuinely prefer being alone; I like being able to stop whenever I want without negotiating.\n\n5. I'd like to see the far north of Vietnam properly — Ha Giang, that area. I've been meaning to go for about three years and something always comes up, which is a poor excuse given it's a day's travel away.",
+      "rubricVi": [
+        "Câu 'Do you prefer A or B?' nên trả lời có điều kiện ('It depends on...') rồi giải thích, thay vì chọn cứng một bên. Cách này thể hiện dải ngôn ngữ tốt hơn.",
+        "Trả lời 2–3 câu, có lý do. Câu trả lời chỉ nêu sự thật mà không giải thích sẽ bị hỏi thêm và làm bạn mất nhịp.",
+        "Dùng trạng từ tần suất và ước lượng: mostly, maybe twice a month, probably. Đây là ngôn ngữ đời thường mà Part 1 chấm.",
+        "Được phép thừa nhận điều không hay về bản thân (\"I'm afraid\", \"a poor excuse\"). Nghe tự nhiên hơn nhiều so với câu trả lời hoàn hảo.",
+        "Giữ giọng hội thoại. Part 1 là làm quen, không phải trình bày quan điểm."
+      ]
+    },
+    {
+      "id": "speaking-part2-decision",
+      "skill": "speaking",
+      "title": "Part 2 — A decision you took time over",
+      "format": "IELTS Speaking — Part 2 · Long turn, 1 phút chuẩn bị, 1–2 phút nói",
+      "instructionsVi": "Chuẩn bị 1 phút rồi nói 2 phút. Đề này buộc kể chuyện có diễn tiến theo thời gian, nên phải dùng nhiều thì khác nhau — chỗ giám khảo chấm Grammatical Range.",
+      "promptEn": "Describe a decision you took a long time to make. You should say:\n- what the decision was\n- why it was difficult\n- how you finally decided\n\nand explain how you feel about it now.",
+      "timeLimitSec": 120,
+      "preparationSec": 60,
+      "sampleAnswer": "The decision I want to talk about was whether to change my degree subject after the first year. I'd started in electrical engineering, mainly because I was good at physics at school and everybody around me treated it as the obvious choice.\n\nWhat made it difficult wasn't the academic side. It was that I'd already spent a year on it, my family had been proud when I got in, and switching felt like admitting I'd been wrong in public. There was also a practical worry: I'd have lost most of a year's credits, so I would have graduated later than my friends.\n\nIn the end what settled it was fairly unglamorous. I kept a note for about six weeks of which classes I actually looked forward to, and the pattern was unmistakable — it was the software modules every single time. Seeing it written down made it much harder to keep pretending I was undecided.\n\nLooking back, I'm glad I changed, though I'd say the delay itself wasn't wasted. If I'd switched in the first month I'd always have wondered whether I'd given engineering a fair chance. Now I know I did, and that's made me much more settled about it than I would otherwise have been.",
+      "rubricVi": [
+        "Dùng đủ dải thì: quá khứ đơn cho diễn biến, quá khứ hoàn thành cho việc xảy ra trước, điều kiện loại 3 ('If I'd switched... I'd always have wondered') cho phần suy ngẫm. Đây chính là chỗ ghi điểm ngữ pháp.",
+        "Trả lời cả bốn ý, nhất là ý cuối 'bây giờ cảm thấy thế nào' — ý này buộc đánh giá chứ không kể tiếp.",
+        "Kể chi tiết cụ thể (ghi chép trong sáu tuần) thay vì nói chung 'it was hard to decide'. Chi tiết là thứ làm bài nghe thật.",
+        "Giữ nhịp 2 phút. Nếu hết ý sớm, mở rộng bằng cách nói về phương án đã cân nhắc rồi loại bỏ.",
+        "Tránh mở đầu công thức kiểu 'Today I am going to talk about'. Vào thẳng câu chuyện tự nhiên hơn nhiều."
+      ]
+    },
+    {
+      "id": "speaking-part3-education",
+      "skill": "speaking",
+      "title": "Part 3 — Discussion: choices and advice",
+      "format": "IELTS Speaking — Part 3 · Two-way discussion, 4–5 phút",
+      "instructionsVi": "Trả lời mỗi câu thành đoạn 3–5 câu. Ở mức này giám khảo sẽ hỏi thêm 'Why?' hoặc nêu quan điểm ngược — hãy tập bảo vệ lập luận thay vì đổi ý ngay.",
+      "promptEn": "Answer each question in turn, in three to five sentences.\n1. Why do young people often find it hard to choose a career?\n2. Some say parents should decide what their children study. What is your view?\n3. Is it better to make decisions quickly or to take a long time over them?",
+      "timeLimitSec": 300,
+      "preparationSec": 0,
+      "sampleAnswer": "1. Partly because they're asked to choose before they've experienced any of the options. A seventeen-year-old picking a degree is essentially guessing what a job will feel like from the outside, and school gives very little exposure to actual working environments. The number of options has also grown enormously, which sounds like an advantage but in practice makes comparison much harder.\n\n2. I'd disagree with that fairly strongly, though I understand where it comes from. Parents usually have a clearer view of financial risk, and in many families that experience is genuinely valuable. But a subject you didn't choose is very hard to sustain through the difficult years, and I think the person who has to do the work should be the one who decides. The useful role for a parent is to widen the range of options a child knows about, not to narrow it to one.\n\n3. It depends on how reversible the decision is. For something you can undo cheaply, deciding fast is usually better, because the cost of deliberating exceeds the cost of being wrong. For decisions that lock you in for years, taking time is rational — although there's a point where taking longer stops producing new information and becomes avoidance, and recognising that point is the actual skill.",
+      "rubricVi": [
+        "Với câu hỏi 'What is your view?', phải nêu lập trường rõ ràng rồi bảo vệ. Trả lời hai mặt cân bằng mà không chọn là né câu hỏi.",
+        "Thừa nhận điểm hợp lý của phía đối lập trước khi phản bác — cách này vừa lịch sự vừa cho thấy tư duy nhiều lớp.",
+        "Câu 3 nên phân loại tình huống thay vì trả lời một chiều. 'It depends on...' rồi nêu tiêu chí là cách trả lời band cao.",
+        "Dùng ngôn ngữ nhấn mạnh và giảm nhẹ có kiểm soát: fairly strongly, usually, there's a point where. Nói tuyệt đối dễ bị hỏi vặn.",
+        "Nếu giám khảo phản biện, hãy bảo vệ hoặc điều chỉnh có lý do. Đổi ý ngay lập tức bị coi là thiếu tự tin về nội dung."
+      ]
+    }
+  ]
+}

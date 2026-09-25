@@ -1,0 +1,764 @@
+[
+  {
+    "id": "reading-part5-incomplete-sentences",
+    "skill": "reading",
+    "title": "Part 5 — Incomplete Sentences",
+    "format": "TOEIC Reading — Part 5 · Incomplete Sentences, 30 câu (101–130)",
+    "instructionsVi": "Ba mươi câu độc lập, mỗi câu một chỗ trống. Đề thi thật cho 75 phút cho cả Reading, nên Part 5 chỉ nên tốn khoảng 20 giây một câu. Đề luyện siết còn 18 giây để lúc thi bạn dư giờ cho Part 7.",
+    "promptEn": "Select the best word or phrase to complete each sentence.",
+    "passage": "101. The shipment will arrive on Tuesday ______ the ferry is delayed by weather.\n102. All expense claims must be submitted ______ the fifth of the month.\n103. Ms Okafor asked her assistant ______ the meeting to Thursday.\n104. The new printer is far more ______ than the model it replaced.\n105. Employees should keep their ______ for any purchase over twenty dollars.\n106. The conference room ______ up to forty delegates in theatre style.\n107. ______ the heavy rain, the outdoor event went ahead as planned.\n108. Please contact the helpdesk ______ you have trouble logging in.\n109. The report was ______ detailed that the committee needed an extra week.\n110. Mr Nakamura has worked here ______ 2019.\n111. All suppliers must comply ______ the revised safety standards.\n112. The manager was pleased with the team's ______ of the project.\n113. Visitors are ______ to sign in at reception before proceeding.\n114. Neither of the two candidates ______ available to start in March.\n115. The invoice should be paid within thirty days of ______ .\n116. We will need to ______ the budget before the board meeting.\n117. The office will be closed on Monday ______ a public holiday.\n118. She has been with the company ______ than anyone else on the floor.\n119. The training session was postponed ______ low attendance.\n120. Please ensure that all documents are filed ______ .\n121. The new policy affects ______ employee in the department.\n122. The delivery was ______ than we expected, arriving two days early.\n123. ______ submitting your application, please review the guidelines.\n124. The technician explained ______ the machine had stopped working.\n125. Sales figures for the third quarter were ______ higher than forecast.\n126. The company is looking for someone ______ can manage a small team.\n127. The parcel ______ delivered while you were at lunch.\n128. Our office is located ______ the bank and the post office.\n129. He asked whether the samples ______ ready for shipping.\n130. The seminar was cancelled because ______ people registered.",
+    "timeLimitSec": 540,
+    "questions": [
+      {
+        "id": "p5-101",
+        "kind": "mcq",
+        "prompt": "101. The shipment will arrive on Tuesday ______ the ferry is delayed by weather.",
+        "options": [
+          {
+            "id": "a",
+            "text": "however"
+          },
+          {
+            "id": "b",
+            "text": "despite"
+          },
+          {
+            "id": "c",
+            "text": "because"
+          },
+          {
+            "id": "d",
+            "text": "unless"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'unless' = trừ khi, nối hai mệnh đề với điều kiện phủ định. 'despite' đi với danh từ, 'because' đảo ngược logic."
+      },
+      {
+        "id": "p5-102",
+        "kind": "mcq",
+        "prompt": "102. All expense claims must be submitted ______ the fifth of the month.",
+        "options": [
+          {
+            "id": "a",
+            "text": "by"
+          },
+          {
+            "id": "b",
+            "text": "until"
+          },
+          {
+            "id": "c",
+            "text": "since"
+          },
+          {
+            "id": "d",
+            "text": "during"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'by' = chậm nhất là, dùng cho hạn chót. 'until' chỉ hành động kéo dài liên tục tới thời điểm đó — cặp bẫy phổ biến nhất Part 5."
+      },
+      {
+        "id": "p5-103",
+        "kind": "mcq",
+        "prompt": "103. Ms Okafor asked her assistant ______ the meeting to Thursday.",
+        "options": [
+          {
+            "id": "a",
+            "text": "reschedule"
+          },
+          {
+            "id": "b",
+            "text": "to reschedule"
+          },
+          {
+            "id": "c",
+            "text": "rescheduling"
+          },
+          {
+            "id": "d",
+            "text": "rescheduled"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "Cấu trúc 'ask somebody TO DO something'."
+      },
+      {
+        "id": "p5-104",
+        "kind": "mcq",
+        "prompt": "104. The new printer is far more ______ than the model it replaced.",
+        "options": [
+          {
+            "id": "a",
+            "text": "reliably"
+          },
+          {
+            "id": "b",
+            "text": "reliability"
+          },
+          {
+            "id": "c",
+            "text": "reliable"
+          },
+          {
+            "id": "d",
+            "text": "rely"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "Sau 'far more' và trước 'than' cần TÍNH TỪ. Dạng câu hỏi từ loại: nhìn vị trí là đoán được, không cần hiểu nghĩa."
+      },
+      {
+        "id": "p5-105",
+        "kind": "mcq",
+        "prompt": "105. Employees should keep their ______ for any purchase over twenty dollars.",
+        "options": [
+          {
+            "id": "a",
+            "text": "recipes"
+          },
+          {
+            "id": "b",
+            "text": "receiving"
+          },
+          {
+            "id": "c",
+            "text": "receipts"
+          },
+          {
+            "id": "d",
+            "text": "receives"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'receipts' = biên lai. 'recipes' = công thức nấu ăn — bẫy cặp từ nhìn gần giống nhau."
+      },
+      {
+        "id": "p5-106",
+        "kind": "mcq",
+        "prompt": "106. The conference room ______ up to forty delegates in theatre style.",
+        "options": [
+          {
+            "id": "a",
+            "text": "accommodates"
+          },
+          {
+            "id": "b",
+            "text": "accommodate"
+          },
+          {
+            "id": "c",
+            "text": "accommodating"
+          },
+          {
+            "id": "d",
+            "text": "to accommodate"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "Chủ ngữ số ít, thì hiện tại đơn, động từ thêm -s. Câu hỏi hoà hợp chủ ngữ với động từ."
+      },
+      {
+        "id": "p5-107",
+        "kind": "mcq",
+        "prompt": "107. ______ the heavy rain, the outdoor event went ahead as planned.",
+        "options": [
+          {
+            "id": "a",
+            "text": "Although"
+          },
+          {
+            "id": "b",
+            "text": "However"
+          },
+          {
+            "id": "c",
+            "text": "Even though"
+          },
+          {
+            "id": "d",
+            "text": "Despite"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "Sau chỗ trống là CỤM DANH TỪ ('the heavy rain'), nên phải dùng giới từ 'Despite'. 'Although' cần mệnh đề có động từ."
+      },
+      {
+        "id": "p5-108",
+        "kind": "mcq",
+        "prompt": "108. Please contact the helpdesk ______ you have trouble logging in.",
+        "options": [
+          {
+            "id": "a",
+            "text": "so"
+          },
+          {
+            "id": "b",
+            "text": "if"
+          },
+          {
+            "id": "c",
+            "text": "but"
+          },
+          {
+            "id": "d",
+            "text": "or"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "Quan hệ điều kiện: gặp trục trặc thì liên hệ. 'so' chỉ kết quả, không hợp ở đây."
+      },
+      {
+        "id": "p5-109",
+        "kind": "mcq",
+        "prompt": "109. The report was ______ detailed that the committee needed an extra week.",
+        "options": [
+          {
+            "id": "a",
+            "text": "so"
+          },
+          {
+            "id": "b",
+            "text": "such"
+          },
+          {
+            "id": "c",
+            "text": "too"
+          },
+          {
+            "id": "d",
+            "text": "very"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "Cấu trúc 'so + tính từ + that'. 'such' đi với danh từ ('such a detailed report that…')."
+      },
+      {
+        "id": "p5-110",
+        "kind": "mcq",
+        "prompt": "110. Mr Nakamura has worked here ______ 2019.",
+        "options": [
+          {
+            "id": "a",
+            "text": "for"
+          },
+          {
+            "id": "b",
+            "text": "from"
+          },
+          {
+            "id": "c",
+            "text": "during"
+          },
+          {
+            "id": "d",
+            "text": "since"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'since' đi với MỐC thời gian, 'for' đi với KHOẢNG thời gian. Hiện tại hoàn thành cộng mốc năm nên chọn 'since'."
+      },
+      {
+        "id": "p5-111",
+        "kind": "mcq",
+        "prompt": "111. All suppliers must comply ______ the revised safety standards.",
+        "options": [
+          {
+            "id": "a",
+            "text": "to"
+          },
+          {
+            "id": "b",
+            "text": "for"
+          },
+          {
+            "id": "c",
+            "text": "with"
+          },
+          {
+            "id": "d",
+            "text": "on"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'comply WITH' là giới từ cố định. Dạng câu hỏi giới từ đi kèm động từ phải học thuộc theo cụm."
+      },
+      {
+        "id": "p5-112",
+        "kind": "mcq",
+        "prompt": "112. The manager was pleased with the team's ______ of the project.",
+        "options": [
+          {
+            "id": "a",
+            "text": "complete"
+          },
+          {
+            "id": "b",
+            "text": "completion"
+          },
+          {
+            "id": "c",
+            "text": "completely"
+          },
+          {
+            "id": "d",
+            "text": "completed"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "Sau sở hữu cách 'the team's' và trước 'of' cần DANH TỪ."
+      },
+      {
+        "id": "p5-113",
+        "kind": "mcq",
+        "prompt": "113. Visitors are ______ to sign in at reception before proceeding.",
+        "options": [
+          {
+            "id": "a",
+            "text": "requiring"
+          },
+          {
+            "id": "b",
+            "text": "require"
+          },
+          {
+            "id": "c",
+            "text": "requirement"
+          },
+          {
+            "id": "d",
+            "text": "required"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'are required to' — bị động. Khách là người BỊ yêu cầu, không phải người yêu cầu."
+      },
+      {
+        "id": "p5-114",
+        "kind": "mcq",
+        "prompt": "114. Neither of the two candidates ______ available to start in March.",
+        "options": [
+          {
+            "id": "a",
+            "text": "are"
+          },
+          {
+            "id": "b",
+            "text": "is"
+          },
+          {
+            "id": "c",
+            "text": "were"
+          },
+          {
+            "id": "d",
+            "text": "have been"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'Neither of…' luôn đi với động từ SỐ ÍT, dù sau đó là danh từ số nhiều. Bẫy hoà hợp kinh điển."
+      },
+      {
+        "id": "p5-115",
+        "kind": "mcq",
+        "prompt": "115. The invoice should be paid within thirty days of ______ .",
+        "options": [
+          {
+            "id": "a",
+            "text": "receipt"
+          },
+          {
+            "id": "b",
+            "text": "receive"
+          },
+          {
+            "id": "c",
+            "text": "received"
+          },
+          {
+            "id": "d",
+            "text": "receiver"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "Sau giới từ 'of' cần danh từ. 'receipt' ở đây nghĩa là 'việc nhận được', không phải tờ biên lai."
+      },
+      {
+        "id": "p5-116",
+        "kind": "mcq",
+        "prompt": "116. We will need to ______ the budget before the board meeting.",
+        "options": [
+          {
+            "id": "a",
+            "text": "revive"
+          },
+          {
+            "id": "b",
+            "text": "reverse"
+          },
+          {
+            "id": "c",
+            "text": "revise"
+          },
+          {
+            "id": "d",
+            "text": "revolve"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'revise' = sửa đổi cho phù hợp. Ba phương án kia gần giống về hình thức nhưng khác hẳn nghĩa."
+      },
+      {
+        "id": "p5-117",
+        "kind": "mcq",
+        "prompt": "117. The office will be closed on Monday ______ a public holiday.",
+        "options": [
+          {
+            "id": "a",
+            "text": "because"
+          },
+          {
+            "id": "b",
+            "text": "so that"
+          },
+          {
+            "id": "c",
+            "text": "because of"
+          },
+          {
+            "id": "d",
+            "text": "in order to"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "Sau chỗ trống là cụm danh từ, nên cần 'because of'. 'because' cần mệnh đề có chủ ngữ và động từ."
+      },
+      {
+        "id": "p5-118",
+        "kind": "mcq",
+        "prompt": "118. She has been with the company ______ than anyone else on the floor.",
+        "options": [
+          {
+            "id": "a",
+            "text": "long"
+          },
+          {
+            "id": "b",
+            "text": "longer"
+          },
+          {
+            "id": "c",
+            "text": "longest"
+          },
+          {
+            "id": "d",
+            "text": "as long"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "Có 'than' nên phải dùng dạng SO SÁNH HƠN. 'longest' là so sánh nhất, không đi với 'than'."
+      },
+      {
+        "id": "p5-119",
+        "kind": "mcq",
+        "prompt": "119. The training session was postponed ______ low attendance.",
+        "options": [
+          {
+            "id": "a",
+            "text": "due to"
+          },
+          {
+            "id": "b",
+            "text": "due"
+          },
+          {
+            "id": "c",
+            "text": "although"
+          },
+          {
+            "id": "d",
+            "text": "whereas"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'due to' + cụm danh từ, chỉ nguyên nhân. 'although' và 'whereas' cần mệnh đề và mang nghĩa tương phản."
+      },
+      {
+        "id": "p5-120",
+        "kind": "mcq",
+        "prompt": "120. Please ensure that all documents are filed ______ .",
+        "options": [
+          {
+            "id": "a",
+            "text": "correct"
+          },
+          {
+            "id": "b",
+            "text": "correction"
+          },
+          {
+            "id": "c",
+            "text": "corrected"
+          },
+          {
+            "id": "d",
+            "text": "correctly"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "Bổ nghĩa cho động từ 'are filed' nên cần TRẠNG TỪ."
+      },
+      {
+        "id": "p5-121",
+        "kind": "mcq",
+        "prompt": "121. The new policy affects ______ employee in the department.",
+        "options": [
+          {
+            "id": "a",
+            "text": "all"
+          },
+          {
+            "id": "b",
+            "text": "most"
+          },
+          {
+            "id": "c",
+            "text": "every"
+          },
+          {
+            "id": "d",
+            "text": "several"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'employee' là danh từ ĐẾM ĐƯỢC SỐ ÍT, chỉ 'every' đi được. 'all', 'most', 'several' đều cần số nhiều."
+      },
+      {
+        "id": "p5-122",
+        "kind": "mcq",
+        "prompt": "122. The delivery was ______ than we expected, arriving two days early.",
+        "options": [
+          {
+            "id": "a",
+            "text": "faster"
+          },
+          {
+            "id": "b",
+            "text": "fast"
+          },
+          {
+            "id": "c",
+            "text": "fastest"
+          },
+          {
+            "id": "d",
+            "text": "fastly"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "Có 'than' nên dùng so sánh hơn. 'fastly' không tồn tại trong tiếng Anh."
+      },
+      {
+        "id": "p5-123",
+        "kind": "mcq",
+        "prompt": "123. ______ submitting your application, please review the guidelines.",
+        "options": [
+          {
+            "id": "a",
+            "text": "Ago"
+          },
+          {
+            "id": "b",
+            "text": "First"
+          },
+          {
+            "id": "c",
+            "text": "Earlier"
+          },
+          {
+            "id": "d",
+            "text": "Before"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'Before + V-ing' là cấu trúc chuẩn. 'ago' đứng sau khoảng thời gian, không mở đầu câu."
+      },
+      {
+        "id": "p5-124",
+        "kind": "mcq",
+        "prompt": "124. The technician explained ______ the machine had stopped working.",
+        "options": [
+          {
+            "id": "a",
+            "text": "what"
+          },
+          {
+            "id": "b",
+            "text": "why"
+          },
+          {
+            "id": "c",
+            "text": "which"
+          },
+          {
+            "id": "d",
+            "text": "whose"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "Mệnh đề sau đã đủ chủ ngữ và động từ, cần từ nối chỉ LÝ DO. 'what' và 'which' phải làm chủ ngữ hoặc tân ngữ trong mệnh đề."
+      },
+      {
+        "id": "p5-125",
+        "kind": "mcq",
+        "prompt": "125. Sales figures for the third quarter were ______ higher than forecast.",
+        "options": [
+          {
+            "id": "a",
+            "text": "significant"
+          },
+          {
+            "id": "b",
+            "text": "significance"
+          },
+          {
+            "id": "c",
+            "text": "significantly"
+          },
+          {
+            "id": "d",
+            "text": "signify"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "Bổ nghĩa cho tính từ 'higher' nên cần TRẠNG TỪ."
+      },
+      {
+        "id": "p5-126",
+        "kind": "mcq",
+        "prompt": "126. The company is looking for someone ______ can manage a small team.",
+        "options": [
+          {
+            "id": "a",
+            "text": "who"
+          },
+          {
+            "id": "b",
+            "text": "which"
+          },
+          {
+            "id": "c",
+            "text": "whose"
+          },
+          {
+            "id": "d",
+            "text": "what"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "Đại từ quan hệ chỉ NGƯỜI làm chủ ngữ, chọn 'who'. 'which' dùng cho vật, 'whose' chỉ sở hữu."
+      },
+      {
+        "id": "p5-127",
+        "kind": "mcq",
+        "prompt": "127. The parcel ______ delivered while you were at lunch.",
+        "options": [
+          {
+            "id": "a",
+            "text": "has"
+          },
+          {
+            "id": "b",
+            "text": "was"
+          },
+          {
+            "id": "c",
+            "text": "did"
+          },
+          {
+            "id": "d",
+            "text": "is being"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "Bị động ở quá khứ: bưu kiện ĐƯỢC giao. Mệnh đề 'while you were at lunch' cố định thì quá khứ."
+      },
+      {
+        "id": "p5-128",
+        "kind": "mcq",
+        "prompt": "128. Our office is located ______ the bank and the post office.",
+        "options": [
+          {
+            "id": "a",
+            "text": "among"
+          },
+          {
+            "id": "b",
+            "text": "along"
+          },
+          {
+            "id": "c",
+            "text": "across"
+          },
+          {
+            "id": "d",
+            "text": "between"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'between' dùng cho HAI đối tượng, 'among' cho ba trở lên."
+      },
+      {
+        "id": "p5-129",
+        "kind": "mcq",
+        "prompt": "129. He asked whether the samples ______ ready for shipping.",
+        "options": [
+          {
+            "id": "a",
+            "text": "are"
+          },
+          {
+            "id": "b",
+            "text": "is"
+          },
+          {
+            "id": "c",
+            "text": "be"
+          },
+          {
+            "id": "d",
+            "text": "were"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "Động từ tường thuật 'asked' ở quá khứ nên mệnh đề sau lùi thì. 'samples' số nhiều nên chọn 'were'."
+      },
+      {
+        "id": "p5-130",
+        "kind": "mcq",
+        "prompt": "130. The seminar was cancelled because ______ people registered.",
+        "options": [
+          {
+            "id": "a",
+            "text": "a few"
+          },
+          {
+            "id": "b",
+            "text": "little"
+          },
+          {
+            "id": "c",
+            "text": "few"
+          },
+          {
+            "id": "d",
+            "text": "a little"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'few' = quá ít (nghĩa phủ định), hợp với việc bị huỷ. 'a few' mang nghĩa tích cực là 'có một vài'. 'little' dùng cho danh từ không đếm được."
+      }
+    ]
+  }
+]

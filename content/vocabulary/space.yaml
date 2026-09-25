@@ -1,0 +1,1387 @@
+# Chủ đề Vũ trụ (§12.1). Nguồn: Wiktionary (CC BY-SA), WordNet, NASA public domain.
+topic: space
+words:
+  - lemma: orbit
+    cefr: B1
+    frequencyRank: 7200
+    ipaUs: /ˈɔːrbɪt/
+    ipaUk: /ˈɔːbɪt/
+    syllables: or·bit
+    stressPattern: '10'
+    subtopics: [solar-system, satellites]
+    senses:
+      - pos: NOUN
+        definitionEn: The curved path an object takes around a planet or star.
+        definitionVi: Quỹ đạo; đường cong một vật đi quanh hành tinh hay ngôi sao.
+        examples:
+          - en: The station completes one orbit every ninety minutes.
+            vi: Trạm vũ trụ hoàn thành một vòng quỹ đạo sau mỗi chín mươi phút.
+          - en: The Moon stays in orbit around the Earth.
+            vi: Mặt Trăng vẫn ở trên quỹ đạo quanh Trái Đất.
+
+  - lemma: astronaut
+    cefr: A2
+    frequencyRank: 13600
+    ipaUs: /ˈæstrənɔːt/
+    ipaUk: /ˈæstrənɔːt/
+    syllables: as·tro·naut
+    stressPattern: '100'
+    subtopics: [astronauts, space-travel]
+    senses:
+      - pos: NOUN
+        definitionEn: A person trained to travel and work in space.
+        definitionVi: Phi hành gia; người được huấn luyện để bay và làm việc ngoài vũ trụ.
+        examples:
+          - en: The astronaut spent six months on the station.
+            vi: Phi hành gia đã ở trên trạm sáu tháng.
+          - en: Every astronaut learns to fix things in zero gravity.
+            vi: Mọi phi hành gia đều học cách sửa đồ trong môi trường không trọng lực.
+
+  - lemma: gravity
+    cefr: B1
+    frequencyRank: 6400
+    ipaUs: /ˈɡrævəti/
+    ipaUk: /ˈɡrævəti/
+    syllables: grav·i·ty
+    stressPattern: '100'
+    subtopics: [astrophysics]
+    senses:
+      - pos: NOUN
+        definitionEn: The force that pulls objects towards each other.
+        definitionVi: Trọng lực; lực hút kéo các vật về phía nhau.
+        examples:
+          - en: Gravity on Mars is much weaker than on Earth.
+            vi: Trọng lực trên sao Hoả yếu hơn nhiều so với Trái Đất.
+          - en: Water floats in a ball without gravity.
+            vi: Nước nổi thành quả cầu khi không có trọng lực.
+
+  - lemma: galaxy
+    cefr: B1
+    frequencyRank: 11400
+    ipaUs: /ˈɡæləksi/
+    ipaUk: /ˈɡæləksi/
+    syllables: gal·ax·y
+    stressPattern: '100'
+    subtopics: [galaxies-stars]
+    senses:
+      - pos: NOUN
+        definitionEn: A very large group of stars, gas and dust held together by gravity.
+        definitionVi: Thiên hà; tập hợp rất lớn gồm sao, khí và bụi gắn kết bởi trọng lực.
+        examples:
+          - en: Our galaxy is called the Milky Way.
+            vi: Thiên hà của chúng ta tên là Ngân Hà.
+          - en: That galaxy is two million light years away.
+            vi: Thiên hà đó cách chúng ta hai triệu năm ánh sáng.
+
+  - lemma: satellite
+    cefr: B1
+    frequencyRank: 8100
+    ipaUs: /ˈsætəlaɪt/
+    ipaUk: /ˈsætəlaɪt/
+    syllables: sat·el·lite
+    stressPattern: '100'
+    subtopics: [satellites]
+    senses:
+      - pos: NOUN
+        definitionEn: A machine sent into space to travel around the Earth.
+        definitionVi: Vệ tinh; thiết bị được đưa lên không gian để bay quanh Trái Đất.
+        examples:
+          - en: A weather satellite spotted the storm early.
+            vi: Một vệ tinh thời tiết đã phát hiện cơn bão từ sớm.
+          - en: The phone finds your position using satellites.
+            vi: Điện thoại xác định vị trí của bạn nhờ vệ tinh.
+
+  - lemma: telescope
+    cefr: B1
+    frequencyRank: 12200
+    ipaUs: /ˈteləskoʊp/
+    ipaUk: /ˈtelɪskəʊp/
+    syllables: tel·e·scope
+    stressPattern: '100'
+    subtopics: [astrophysics, galaxies-stars]
+    senses:
+      - pos: NOUN
+        definitionEn: An instrument that makes distant objects look nearer.
+        definitionVi: Kính thiên văn; dụng cụ làm vật ở xa trông gần hơn.
+        examples:
+          - en: Through the telescope you can see the rings of Saturn.
+            vi: Qua kính thiên văn bạn có thể thấy vành đai sao Thổ.
+          - en: The new telescope looks back at the first galaxies.
+            vi: Kính thiên văn mới nhìn ngược về những thiên hà đầu tiên.
+
+  - lemma: launch
+    cefr: B1
+    frequencyRank: 3300
+    ipaUs: /lɔːntʃ/
+    ipaUk: /lɔːntʃ/
+    syllables: launch
+    stressPattern: '1'
+    subtopics: [space-travel]
+    senses:
+      - pos: VERB
+        definitionEn: To send a rocket or spacecraft into the sky.
+        definitionVi: Phóng; đưa tên lửa hay tàu vũ trụ lên bầu trời.
+        examples:
+          - en: They will launch the rocket at dawn.
+            vi: Họ sẽ phóng tên lửa vào lúc rạng sáng.
+          - en: Bad weather delayed the launch by a week.
+            vi: Thời tiết xấu làm việc phóng bị hoãn một tuần.
+
+  - lemma: rocket
+    cefr: A2
+    frequencyRank: 9200
+    ipaUs: /ˈrɑːkɪt/
+    ipaUk: /ˈrɒkɪt/
+    syllables: rock·et
+    stressPattern: '10'
+    subtopics: [space-travel]
+    senses:
+      - pos: NOUN
+        definitionEn: A vehicle shaped like a tube that is used to travel into space.
+        definitionVi: Tên lửa; phương tiện hình ống dùng để bay vào không gian.
+        examples:
+          - en: The rocket carried food and water to the crew.
+            vi: Tên lửa chở thực phẩm và nước cho phi hành đoàn.
+          - en: Each rocket burns fuel for only a few minutes.
+            vi: Mỗi tên lửa chỉ đốt nhiên liệu trong vài phút.
+
+  - lemma: planet
+    cefr: A2
+    frequencyRank: 4200
+    ipaUs: /ˈplænɪt/
+    ipaUk: /ˈplænɪt/
+    syllables: plan·et
+    stressPattern: '10'
+    subtopics: [solar-system]
+    senses:
+      - pos: NOUN
+        definitionEn: A large round object in space that moves around a star.
+        definitionVi: Hành tinh; thiên thể lớn hình cầu chuyển động quanh một ngôi sao.
+        examples:
+          - en: Mars is the fourth planet from the Sun.
+            vi: Sao Hoả là hành tinh thứ tư tính từ Mặt Trời.
+          - en: No other planet in our system has liquid water on its surface.
+            vi: Không hành tinh nào khác trong hệ của ta có nước lỏng trên bề mặt.
+
+  - lemma: comet
+    cefr: B2
+    frequencyRank: 17300
+    ipaUs: /ˈkɑːmɪt/
+    ipaUk: /ˈkɒmɪt/
+    syllables: com·et
+    stressPattern: '10'
+    subtopics: [solar-system]
+    senses:
+      - pos: NOUN
+        definitionEn: A body of ice and dust that grows a bright tail near the Sun.
+        definitionVi: Sao chổi; khối băng và bụi mọc đuôi sáng khi tới gần Mặt Trời.
+        examples:
+          - en: The comet will not return for another sixty years.
+            vi: Sao chổi này sáu mươi năm nữa mới quay lại.
+          - en: We watched the comet from the roof at midnight.
+            vi: Chúng tôi ngắm sao chổi từ trên mái nhà lúc nửa đêm.
+
+  - lemma: eclipse
+    cefr: B2
+    frequencyRank: 15900
+    ipaUs: /ɪˈklɪps/
+    ipaUk: /ɪˈklɪps/
+    syllables: e·clipse
+    stressPattern: '01'
+    subtopics: [solar-system]
+    senses:
+      - pos: NOUN
+        definitionEn: An occasion when one body in space hides another from view.
+        definitionVi: Hiện tượng nhật thực hoặc nguyệt thực; khi một thiên thể che khuất thiên thể khác.
+        examples:
+          - en: The eclipse lasted only four minutes.
+            vi: Nhật thực chỉ kéo dài bốn phút.
+          - en: Never look straight at an eclipse without a filter.
+            vi: Đừng bao giờ nhìn thẳng vào nhật thực mà không có kính lọc.
+
+  - lemma: atmosphere
+    cefr: B2
+    frequencyRank: 5600
+    ipaUs: /ˈætməsfɪr/
+    ipaUk: /ˈætməsfɪə/
+    syllables: at·mos·phere
+    stressPattern: '100'
+    subtopics: [astrophysics, solar-system]
+    senses:
+      - pos: NOUN
+        definitionEn: The layer of gases around a planet.
+        definitionVi: Khí quyển; lớp khí bao quanh một hành tinh.
+        examples:
+          - en: Most meteors burn up in the atmosphere.
+            vi: Phần lớn thiên thạch bốc cháy trong khí quyển.
+          - en: The atmosphere of Venus is thick and hot.
+            vi: Khí quyển sao Kim dày đặc và nóng bỏng.
+
+  - lemma: spacecraft
+    cefr: B2
+    frequencyRank: 14700
+    ipaUs: /ˈspeɪskræft/
+    ipaUk: /ˈspeɪskrɑːft/
+    syllables: space·craft
+    stressPattern: '10'
+    subtopics: [space-travel]
+    senses:
+      - pos: NOUN
+        definitionEn: A vehicle used for travelling in space.
+        definitionVi: Tàu vũ trụ; phương tiện dùng để di chuyển trong không gian.
+        examples:
+          - en: The spacecraft landed gently on the dusty ground.
+            vi: Tàu vũ trụ hạ cánh nhẹ nhàng xuống mặt đất đầy bụi.
+          - en: This spacecraft carries no people, only instruments.
+            vi: Tàu vũ trụ này không chở người, chỉ chở thiết bị.
+
+  - lemma: crew
+    cefr: B1
+    frequencyRank: 3700
+    ipaUs: /kruː/
+    ipaUk: /kruː/
+    syllables: crew
+    stressPattern: '1'
+    subtopics: [astronauts]
+    senses:
+      - pos: NOUN
+        definitionEn: The group of people who work together on a ship, plane or spacecraft.
+        definitionVi: Phi hành đoàn, thuỷ thủ đoàn; nhóm người cùng làm việc trên tàu.
+        examples:
+          - en: The crew trained together for two years.
+            vi: Phi hành đoàn đã huấn luyện cùng nhau suốt hai năm.
+          - en: A crew of four will fly the next mission.
+            vi: Một đoàn bốn người sẽ bay chuyến tiếp theo.
+
+  - lemma: mission
+    cefr: B1
+    frequencyRank: 2600
+    ipaUs: /ˈmɪʃn̩/
+    ipaUk: /ˈmɪʃn̩/
+    syllables: mis·sion
+    stressPattern: '10'
+    subtopics: [space-travel]
+    senses:
+      - pos: NOUN
+        definitionEn: An important job that a group is sent to do.
+        definitionVi: Sứ mệnh, nhiệm vụ; công việc quan trọng mà một nhóm được giao.
+        examples:
+          - en: The mission to the far side of the Moon took eight days.
+            vi: Sứ mệnh tới vùng tối của Mặt Trăng kéo dài tám ngày.
+          - en: Their mission is to collect rock samples.
+            vi: Nhiệm vụ của họ là thu thập mẫu đá.
+
+  - lemma: universe
+    cefr: B1
+    frequencyRank: 5000
+    ipaUs: /ˈjuːnɪvɜːrs/
+    ipaUk: /ˈjuːnɪvɜːs/
+    syllables: u·ni·verse
+    stressPattern: '100'
+    subtopics: [astrophysics]
+    senses:
+      - pos: NOUN
+        definitionEn: Everything that exists, including all of space and time.
+        definitionVi: Vũ trụ; tất cả những gì tồn tại, gồm toàn bộ không gian và thời gian.
+        examples:
+          - en: The universe is still growing larger.
+            vi: Vũ trụ vẫn đang giãn nở rộng thêm.
+          - en: Nobody knows how much of the universe we can see.
+            vi: Không ai biết ta nhìn thấy được bao nhiêu phần của vũ trụ.
+
+  - lemma: astronomer
+    cefr: B2
+    frequencyRank: 16200
+    ipaUs: /əˈstrɑːnəmər/
+    ipaUk: /əˈstrɒnəmə/
+    syllables: as·tron·o·mer
+    stressPattern: '0100'
+    subtopics: [astrophysics]
+    senses:
+      - pos: NOUN
+        definitionEn: A scientist who studies stars, planets and space.
+        definitionVi: Nhà thiên văn học; nhà khoa học nghiên cứu sao, hành tinh và vũ trụ.
+        examples:
+          - en: An astronomer in Chile found the new comet.
+            vi: Một nhà thiên văn ở Chile đã tìm ra sao chổi mới.
+          - en: She became an astronomer after a school trip to the observatory.
+            vi: Cô trở thành nhà thiên văn sau chuyến đi đài quan sát hồi đi học.
+
+  - lemma: astronomy
+    cefr: B2
+    frequencyRank: 15100
+    ipaUs: /əˈstrɑːnəmi/
+    ipaUk: /əˈstrɒnəmi/
+    syllables: as·tron·o·my
+    stressPattern: '0100'
+    subtopics: [astrophysics]
+    senses:
+      - pos: NOUN
+        definitionEn: The scientific study of objects in space.
+        definitionVi: Thiên văn học; ngành khoa học nghiên cứu các thiên thể.
+        examples:
+          - en: He studies astronomy at a university in Hanoi.
+            vi: Anh ấy học thiên văn học ở một trường đại học tại Hà Nội.
+          - en: Astronomy needs dark skies and patience.
+            vi: Thiên văn học cần bầu trời tối và sự kiên nhẫn.
+
+  - lemma: astronomical
+    cefr: C1
+    frequencyRank: 19400
+    ipaUs: /ˌæstrəˈnɑːmɪkl̩/
+    ipaUk: /ˌæstrəˈnɒmɪkl̩/
+    syllables: as·tro·nom·i·cal
+    stressPattern: '00100'
+    subtopics: [astrophysics]
+    senses:
+      - pos: ADJECTIVE
+        definitionEn: Relating to astronomy, or extremely large.
+        definitionVi: Thuộc về thiên văn; hoặc lớn đến mức khổng lồ.
+        examples:
+          - en: The distance is given in astronomical units.
+            vi: Khoảng cách được tính bằng đơn vị thiên văn.
+          - en: The cost of the project was astronomical.
+            vi: Chi phí của dự án lớn khủng khiếp.
+
+  - lemma: solar
+    cefr: B1
+    frequencyRank: 6900
+    ipaUs: /ˈsoʊlər/
+    ipaUk: /ˈsəʊlə/
+    syllables: so·lar
+    stressPattern: '10'
+    subtopics: [solar-system]
+    senses:
+      - pos: ADJECTIVE
+        definitionEn: Relating to the Sun or using energy from it.
+        definitionVi: Thuộc về Mặt Trời; dùng năng lượng mặt trời.
+        examples:
+          - en: Every planet in the solar system moves in the same direction.
+            vi: Mọi hành tinh trong hệ mặt trời đều chuyển động cùng chiều.
+          - en: The village runs on solar power.
+            vi: Ngôi làng chạy bằng điện mặt trời.
+
+  - lemma: asteroid
+    cefr: B1
+    frequencyRank: 11900
+    ipaUs: /ˈæstərɔɪd/
+    ipaUk: /ˈæstərɔɪd/
+    syllables: as·ter·oid
+    stressPattern: '100'
+    subtopics: [solar-system]
+    senses:
+      - pos: NOUN
+        definitionEn: A rocky object smaller than a planet that orbits the sun.
+        definitionVi: Tiểu hành tinh; khối đá nhỏ hơn hành tinh, quay quanh mặt trời.
+        examples:
+          - en: Most asteroids lie between Mars and Jupiter.
+            vi: Phần lớn tiểu hành tinh nằm giữa sao Hoả và sao Mộc.
+          - en: The asteroid passed closer than the moon.
+            vi: Tiểu hành tinh đó bay qua gần hơn cả mặt trăng.
+  - lemma: probe
+    cefr: B2
+    frequencyRank: 10200
+    ipaUs: /proʊb/
+    ipaUk: /prəʊb/
+    syllables: probe
+    stressPattern: '1'
+    subtopics: [space-travel]
+    senses:
+      - pos: NOUN
+        definitionEn: An unmanned spacecraft sent to study something far away.
+        definitionVi: Tàu thăm dò; tàu vũ trụ không người lái gửi đi nghiên cứu.
+        examples:
+          - en: The probe sent back photos for eleven years.
+            vi: Tàu thăm dò gửi ảnh về suốt mười một năm.
+          - en: A probe will land on the comet next spring.
+            vi: Một tàu thăm dò sẽ hạ cánh xuống sao chổi vào mùa xuân tới.
+
+  - lemma: lunar
+    cefr: B2
+    frequencyRank: 11400
+    ipaUs: /ˈluːnər/
+    ipaUk: /ˈluːnə/
+    syllables: lu·nar
+    stressPattern: '10'
+    subtopics: [solar-system]
+    senses:
+      - pos: ADJECTIVE
+        definitionEn: Relating to the moon.
+        definitionVi: Thuộc về mặt trăng.
+        examples:
+          - en: Tet follows the lunar calendar.
+            vi: Tết tính theo lịch mặt trăng, tức âm lịch.
+          - en: The lunar surface is covered in fine dust.
+            vi: Bề mặt mặt trăng phủ đầy bụi mịn.
+
+  - lemma: constellation
+    cefr: B2
+    frequencyRank: 13600
+    ipaUs: /ˌkɑːnstəˈleɪʃn̩/
+    ipaUk: /ˌkɒnstəˈleɪʃn̩/
+    syllables: con·stel·la·tion
+    stressPattern: '0010'
+    subtopics: [galaxies-stars]
+    senses:
+      - pos: NOUN
+        definitionEn: A group of stars that forms a pattern in the sky.
+        definitionVi: Chòm sao; nhóm sao tạo thành hình trên bầu trời.
+        examples:
+          - en: Orion is the easiest constellation to find.
+            vi: Lạp Hộ là chòm sao dễ tìm nhất.
+          - en: Sailors once navigated by the constellations.
+            vi: Thuỷ thủ ngày xưa định hướng bằng các chòm sao.
+
+  - lemma: weightless
+    cefr: B2
+    frequencyRank: 16400
+    ipaUs: /ˈweɪtləs/
+    ipaUk: /ˈweɪtləs/
+    syllables: weight·less
+    stressPattern: '10'
+    subtopics: [astronauts]
+    senses:
+      - pos: ADJECTIVE
+        definitionEn: Having no apparent weight, as in orbit.
+        definitionVi: Không trọng lượng; như khi ở trên quỹ đạo.
+        examples:
+          - en: Everything floats because the crew is weightless.
+            vi: Mọi thứ trôi lơ lửng vì phi hành đoàn không trọng lượng.
+          - en: Water forms balls in a weightless cabin.
+            vi: Nước vo thành giọt tròn trong khoang không trọng lượng.
+
+  - lemma: observatory
+    cefr: B2
+    frequencyRank: 14800
+    ipaUs: /əbˈzɜːrvətɔːri/
+    ipaUk: /əbˈzɜːvətri/
+    syllables: ob·serv·a·to·ry
+    stressPattern: '01000'
+    subtopics: [astrophysics]
+    senses:
+      - pos: NOUN
+        definitionEn: A building with telescopes for studying the sky.
+        definitionVi: Đài thiên văn; nơi đặt kính viễn vọng để quan sát bầu trời.
+        examples:
+          - en: The observatory sits above the cloud line.
+            vi: Đài thiên văn nằm trên tầng mây.
+          - en: Students visit the observatory every December.
+            vi: Sinh viên tới đài thiên văn vào tháng Mười hai hằng năm.
+
+  - lemma: meteor
+    cefr: B1
+    frequencyRank: 13800
+    ipaUs: /ˈmiːtiər/
+    ipaUk: /ˈmiːtiə/
+    syllables: me·te·or
+    stressPattern: '100'
+    subtopics: [solar-system]
+    senses:
+      - pos: NOUN
+        definitionEn: A piece of rock that burns brightly as it enters the atmosphere.
+        definitionVi: Sao băng; mảnh đá cháy sáng khi lao vào khí quyển.
+        examples:
+          - en: We saw nine meteors in an hour.
+            vi: Chúng tôi thấy chín sao băng trong một tiếng.
+          - en: The meteor shower peaks in August.
+            vi: Mưa sao băng đạt đỉnh vào tháng Tám.
+
+  - lemma: trajectory
+    cefr: B2
+    frequencyRank: 15400
+    ipaUs: /trəˈdʒektəri/
+    ipaUk: /trəˈdʒektəri/
+    syllables: tra·jec·to·ry
+    stressPattern: '0100'
+    subtopics: [space-travel]
+    senses:
+      - pos: NOUN
+        definitionEn: The curved path an object follows through space.
+        definitionVi: Quỹ đạo bay; đường cong mà vật thể đi trong không gian.
+        examples:
+          - en: A small burn corrected the trajectory.
+            vi: Một lần đốt động cơ ngắn đã chỉnh lại quỹ đạo bay.
+          - en: They calculated the trajectory six months ahead.
+            vi: Họ tính quỹ đạo bay trước sáu tháng.
+
+  - lemma: star
+    cefr: A1
+    ipaUs: /stɑːr/
+    senses:
+      - pos: NOUN
+        definitionEn: A luminous point of light in the night sky.
+        definitionVi: Ngôi sao
+        examples:
+          - en: We can see a bright star shining in the clear night sky.
+            vi: Chúng ta có thể nhìn thấy một ngôi sao sáng chiếu rọi trên bầu trời đêm quang đãng.
+          - en: She pointed her small telescope toward a distant star last night.
+            vi: Cô ấy đã hướng chiếc kính viễn vọng nhỏ của mình về phía một ngôi sao ở xa vào tối qua.
+  - lemma: moon
+    cefr: A1
+    ipaUs: /muːn/
+    senses:
+      - pos: NOUN
+        definitionEn: The natural satellite of the earth.
+        definitionVi: Mặt Trăng
+        examples:
+          - en: The bright moon illuminated the dark path during our evening walk.
+            vi: Ánh trăng sáng soi rọi con đường tối trong buổi đi dạo buổi tối của chúng tôi.
+          - en: Scientists have studied the moon for many decades with modern technology.
+            vi: Các nhà khoa học đã nghiên cứu Mặt Trăng trong nhiều thập kỷ bằng công nghệ hiện đại.
+  - lemma: sun
+    cefr: A1
+    ipaUs: /sʌn/
+    senses:
+      - pos: NOUN
+        definitionEn: The star around which the earth orbits.
+        definitionVi: Mặt Trời
+        examples:
+          - en: The warm sun provides essential energy for all living things here.
+            vi: Mặt Trời ấm áp cung cấp năng lượng thiết yếu cho mọi sinh vật sống ở đây.
+          - en: Children love playing outside when the sun shines brightly all afternoon.
+            vi: Trẻ em thích chơi đùa ngoài trời khi Mặt Trời chiếu sáng rực rỡ suốt buổi chiều.
+  - lemma: earth
+    cefr: A1
+    ipaUs: /ɜːrθ/
+    senses:
+      - pos: NOUN
+        definitionEn: The planet on which we live.
+        definitionVi: Trái Đất
+        examples:
+          - en: All living creatures depend heavily on the natural resources of earth.
+            vi: Tất cả sinh vật sống phụ thuộc rất nhiều vào các nguồn tài nguyên thiên nhiên của Trái Đất.
+          - en: Astronauts can see the beautiful blue earth clearly from outer space.
+            vi: Các phi hành gia có thể nhìn rõ Trái Đất màu xanh xinh đẹp từ ngoài không gian.
+  - lemma: Mars
+    cefr: A2
+    ipaUs: /mɑːrz/
+    senses:
+      - pos: NOUN
+        definitionEn: The fourth planet from the sun, known as the red planet.
+        definitionVi: Sao Hỏa
+        examples:
+          - en: Space agencies plan to send human explorers to mars very soon.
+            vi: Các cơ quan vũ trụ có kế hoạch cử các nhà thám hiểm con người lên Sao Hỏa rất sớm.
+          - en: Rovers on mars collect valuable soil samples to search for ancient life.
+            vi: Các xe tự hành trên Sao Hỏa thu thập các mẫu đất quý giá để tìm kiếm sự sống cổ đại.
+  - lemma: Venus
+    cefr: A2
+    ipaUs: /ˈviːnəs/
+    senses:
+      - pos: NOUN
+        definitionEn: The second planet from the sun, very hot and bright.
+        definitionVi: Sao Kim
+        examples:
+          - en: Venus appears extremely bright in the morning sky before the sunrise.
+            vi: Sao Kim xuất hiện cực kỳ sáng trên bầu trời buổi sáng trước khi mặt trời mọc.
+          - en: Thick clouds of sulfuric acid permanently cover the surface of venus.
+            vi: Những đám mây axit sulfuric dày đặc bao phủ vĩnh viễn bề mặt của Sao Kim.
+  - lemma: Jupiter
+    cefr: A2
+    ipaUs: /ˈdʒuːpɪtər/
+    senses:
+      - pos: NOUN
+        definitionEn: The largest planet in our solar system.
+        definitionVi: Sao Mộc
+        examples:
+          - en: Jupiter features a massive storm known as the great red spot.
+            vi: Sao Mộc có một cơn bão lớn được gọi là vết đỏ lớn.
+          - en: Astronomers discovered dozens of new moons orbiting around giant jupiter recently.
+            vi: Các nhà thiên văn học gần đây đã phát hiện ra hàng tá mặt trăng mới quay quanh Sao Mộc khổng lồ.
+  - lemma: Saturn
+    cefr: A2
+    ipaUs: /ˈsætərn/
+    senses:
+      - pos: NOUN
+        definitionEn: The planet with large prominent rings around it.
+        definitionVi: Sao Thổ
+        examples:
+          - en: Saturn is famous for its stunning ring system made of ice.
+            vi: Sao Thổ nổi tiếng với hệ thống vành đai tuyệt đẹp được làm bằng băng.
+          - en: Galileo was the first astronomer to observe saturn through a telescope.
+            vi: Galileo là nhà thiên văn học đầu tiên quan sát Sao Thổ qua kính viễn vọng.
+  - lemma: Mercury
+    cefr: A2
+    ipaUs: /ˈmɜːrkjəri/
+    senses:
+      - pos: NOUN
+        definitionEn: The smallest and closest planet to the sun.
+        definitionVi: Sao Thủy
+        examples:
+          - en: Mercury experiences extreme temperature changes between its day and night sides.
+            vi: Sao Thủy trải qua sự thay đổi nhiệt độ khắc nghiệt giữa các mặt ban ngày và ban đêm.
+          - en: Spacecraft face severe radiation when flying close to tiny mercury today.
+            vi: Các tàu vũ trụ phải đối mặt với bức xạ nghiêm trọng khi bay gần Sao Thủy nhỏ bé ngày nay.
+  - lemma: Neptune
+    cefr: B1
+    ipaUs: /ˈneptuːn/
+    senses:
+      - pos: NOUN
+        definitionEn: The eighth and furthest known major planet from the sun.
+        definitionVi: Sao Hải Vương
+        examples:
+          - en: Neptune has supersonic winds that blow across its cold blue atmosphere.
+            vi: Sao Hải Vương có những cơn gió siêu thanh thổi qua bầu khí quyển màu xanh lạnh giá của nó.
+          - en: Voyager two is the only spacecraft that has ever visited neptune.
+            vi: Voyager hai là tàu vũ trụ duy nhất từng đến thăm Sao Hải Vương.
+  - lemma: Uranus
+    cefr: B1
+    ipaUs: /ˈjʊrənəs/
+    senses:
+      - pos: NOUN
+        definitionEn: The seventh planet from the sun, which rotates on its side.
+        definitionVi: Sao Thiên Vương
+        examples:
+          - en: Uranus rotates completely on its side due to a past collision.
+            vi: Sao Thiên Vương quay hoàn toàn sang một bên do một vụ va chạm trong quá khứ.
+          - en: Telescopes show that uranus has a pale blue-green color appearance.
+            vi: Kính viễn vọng cho thấy Sao Thiên Vương có vẻ ngoài màu xanh lam nhạt.
+  - lemma: Pluto
+    cefr: B1
+    ipaUs: /ˈpluːtoʊ/
+    senses:
+      - pos: NOUN
+        definitionEn: A dwarf planet located in the Kuiper belt.
+        definitionVi: Sao Diêm Vương
+        examples:
+          - en: Pluto was reclassified from a major planet to a dwarf planet.
+            vi: Sao Diêm Vương đã được phân loại lại từ một hành tinh lớn thành một hành tinh lùn.
+          - en: New Horizons provided humanity with the first detailed pictures of pluto.
+            vi: Tàu New Horizons đã cung cấp cho nhân loại những bức ảnh chi tiết đầu tiên về Sao Diêm Vương.
+  - lemma: nebula
+    cefr: B2
+    ipaUs: /ˈnebjuːlə/
+    senses:
+      - pos: NOUN
+        definitionEn: A giant cloud of dust and gas in space.
+        definitionVi: Tinh vân
+        examples:
+          - en: The stunning nebula glowed with vibrant colors in the deep cosmos.
+            vi: Tinh vân tuyệt đẹp tỏa sáng với màu sắc rực rỡ trong vũ trụ sâu thẳm.
+          - en: New stars are constantly born inside the dense gas of a nebula.
+            vi: Những ngôi sao mới liên tục được sinh ra bên trong lớp khí đặc của một tinh vân.
+  - lemma: supernova
+    cefr: B2
+    ipaUs: /ˌsuːpərˈnoʊvə/
+    senses:
+      - pos: NOUN
+        definitionEn: The powerful and luminous explosion of a dying star.
+        definitionVi: Siêu tân tinh
+        examples:
+          - en: A distant supernova lit up the galaxy with incredible blinding energy.
+            vi: Một vụ nổ siêu tân tinh ở xa đã thắp sáng thiên hà với năng lượng chói lóa đáng kinh ngạc.
+          - en: Astronomers study every supernova to understand how heavy elements are formed.
+            vi: Các nhà thiên văn học nghiên cứu mọi siêu tân tinh để hiểu các nguyên tố nặng được hình thành
+              như thế nào.
+  - lemma: cosmos
+    cefr: B2
+    ipaUs: /ˈkɑːzmoʊs/
+    senses:
+      - pos: NOUN
+        definitionEn: The universe seen as a well-ordered whole.
+        definitionVi: Vũ trụ
+        examples:
+          - en: Humans have always looked up at the cosmos with great wonder.
+            vi: Con người luôn ngước nhìn vũ trụ với sự kinh ngạc lớn lao.
+          - en: Telescopes help scientists unlock the deepest mysterious secrets of the cosmos.
+            vi: Kính viễn vọng giúp các nhà khoa học khám phá những bí mật huyền bí sâu thẳm nhất của vũ trụ.
+  - lemma: exoplanet
+    cefr: B2
+    ipaUs: /ˈeksəʊplænɪt/
+    senses:
+      - pos: NOUN
+        definitionEn: A planet that orbits a star outside the solar system.
+        definitionVi: Hành tinh ngoài hệ Mặt Trời
+        examples:
+          - en: Scientists discovered a rocky exoplanet located in a habitable zone.
+            vi: Các nhà khoa học đã phát hiện ra một hành tinh ngoài hệ Mặt Trời có đá nằm trong vùng có thể ở
+              được.
+          - en: Finding water on an exoplanet is a major goal for astronomers.
+            vi: Tìm thấy nước trên một hành tinh ngoài hệ Mặt Trời là mục tiêu lớn đối với các nhà thiên văn
+              học.
+  - lemma: starlight
+    cefr: B1
+    ipaUs: /ˈstɑːrlaɪt/
+    senses:
+      - pos: NOUN
+        definitionEn: Light coming from the stars.
+        definitionVi: Ánh sao
+        examples:
+          - en: The faint starlight guided travelers across the dark desert at night.
+            vi: Ánh sao mờ nhạt dẫn đường cho những lữ khách băng qua sa mạc tối vào ban đêm.
+          - en: Ancient navigators used starlight to find their direction across oceans safely.
+            vi: Những nhà hàng hải cổ đại đã sử dụng ánh sao để tìm hướng đi vượt đại dương một cách an toàn.
+  - lemma: sunlight
+    cefr: A2
+    ipaUs: /ˈsʌnlaɪt/
+    senses:
+      - pos: NOUN
+        definitionEn: Light from the sun.
+        definitionVi: Ánh sáng mặt trời
+        examples:
+          - en: Plants need warm sunlight to perform photosynthesis and grow healthy leaves.
+            vi: Thực vật cần ánh sáng mặt trời ấm áp để quang hợp và phát triển những chiếc lá khỏe mạnh.
+          - en: She opened the curtains to let the bright sunlight fill her room completely.
+            vi: Cô ấy mở rèm cửa để ánh sáng mặt trời rực rỡ lấp đầy căn phòng của mình.
+  - lemma: spacesuit
+    cefr: B1
+    ipaUs: /ˈspeɪssuːt/
+    senses:
+      - pos: NOUN
+        definitionEn: A garment worn to protect astronauts in outer space.
+        definitionVi: Bộ đồ du hành vũ trụ
+        examples:
+          - en: The astronaut put on his heavy spacesuit before leaving the station.
+            vi: Phi hành gia đã mặc bộ đồ du hành vũ trụ nặng nề của mình trước khi rời khỏi trạm.
+          - en: A modern spacesuit provides oxygen and protects against dangerous cosmic radiation.
+            vi: Một bộ đồ du hành vũ trụ hiện đại cung cấp oxy và bảo vệ chống lại bức xạ vũ trụ nguy hiểm.
+  - lemma: spacewalk
+    cefr: B2
+    ipaUs: /ˈspeɪswɔːk/
+    senses:
+      - pos: NOUN
+        definitionEn: A period of work done by an astronaut outside a spacecraft.
+        definitionVi: Chuyến đi bộ ngoài không gian
+        examples:
+          - en: The scheduled spacewalk lasted for more than six hours outside the station.
+            vi: Chuyến đi bộ ngoài không gian theo lịch trình kéo dài hơn sáu giờ bên ngoài trạm.
+          - en: Engineers prepared their tools carefully before starting today's challenging spacewalk.
+            vi: Các kỹ sư đã chuẩn bị dụng cụ cẩn thận trước khi bắt đầu chuyến đi bộ ngoài không gian đầy thử
+              thách hôm nay.
+  - lemma: spaceport
+    cefr: B2
+    ipaUs: /ˈspeɪsˌpɔːrt/
+    senses:
+      - pos: NOUN
+        definitionEn: A facility for launching and receiving spacecraft.
+        definitionVi: Cảng vũ trụ
+        examples:
+          - en: The government built a new spaceport near the coast.
+            vi: Chính phủ đã xây dựng một cảng vũ trụ mới gần bờ biển.
+          - en: Technicians at the spaceport prepared the rocket for takeoff.
+            vi: Các kỹ thuật viên tại cảng vũ trụ đã chuẩn bị tên lửa để cất cánh.
+  - lemma: launchpad
+    cefr: B2
+    ipaUs: /ˈlɔːntʃˌpæd/
+    senses:
+      - pos: NOUN
+        definitionEn: A platform used for launching rockets or spacecraft.
+        definitionVi: Bệ phóng
+        examples:
+          - en: The rocket stood upright on the launchpad before ignition.
+            vi: Tên lửa đứng thẳng trên bệ phóng trước khi đánh lửa.
+          - en: Engineers checked the systems on the launchpad this morning.
+            vi: Các kỹ sư đã kiểm tra các hệ thống trên bệ phóng sáng nay.
+  - lemma: countdown
+    cefr: B1
+    ipaUs: /ˈkaʊntˌdaʊn/
+    senses:
+      - pos: NOUN
+        definitionEn: The backward counting to zero before a rocket launch.
+        definitionVi: Quá trình đếm ngược
+        examples:
+          - en: The audience watched the digital countdown on the screen.
+            vi: Khán giả đã xem bộ đếm ngược kỹ thuật số trên màn hình.
+          - en: Scientists held their breath during the final seconds of countdown.
+            vi: Các nhà khoa học đã nín thở trong những giây cuối cùng của quá trình đếm ngược.
+  - lemma: capsule
+    cefr: B1
+    ipaUs: /ˈkæpsuːl/
+    senses:
+      - pos: NOUN
+        definitionEn: A small soluble container enclosing a dose of medicine.
+        definitionVi: viên nang thuốc
+        examples:
+          - en: This red and yellow capsule contains a strong antibiotic for your severe infection.
+            vi: Viên nang màu đỏ và vàng này chứa một loại kháng sinh mạnh cho bệnh nhiễm trùng nặng của bạn.
+          - en: Open the capsule and mix the powder inside with a little sweet juice.
+            vi: Mở viên nang ra và trộn bột bên trong với một ít nước trái cây ngọt.
+  - lemma: module
+    cefr: B2
+    ipaUs: /ˈmɑːdʒuːl/
+    senses:
+      - pos: NOUN
+        definitionEn: A self-contained component of a spacecraft or space station.
+        definitionVi: Mô-đun
+        examples:
+          - en: The lunar module separated successfully from the main command craft.
+            vi: Mô-đun mặt trăng đã tách thành công khỏi tàu chỉ huy chính.
+          - en: Crew members installed a new air purification module today.
+            vi: Các thành viên phi hành đoàn đã lắp đặt một mô-đun lọc không khí mới hôm nay.
+  - lemma: booster
+    cefr: B2
+    ipaUs: /ˈbuːstər/
+    senses:
+      - pos: NOUN
+        definitionEn: A rocket stage that provides extra thrust during launch.
+        definitionVi: Tên lửa đẩy phụ
+        examples:
+          - en: The heavy booster fell back into the ocean after separation.
+            vi: Tên lửa đẩy phụ nặng đã rơi trở lại đại dương sau khi tách ra.
+          - en: Engineers designed a reusable booster to reduce space flight costs.
+            vi: Các kỹ sư đã thiết kế tên lửa đẩy tái sử dụng để giảm chi phí bay vào vũ trụ.
+  - lemma: thruster
+    cefr: C1
+    ipaUs: /ˈθrʌstər/
+    senses:
+      - pos: NOUN
+        definitionEn: A small rocket engine used to control spacecraft movement.
+        definitionVi: Động cơ đẩy nhỏ
+        examples:
+          - en: The pilot used a small thruster to adjust the orbit.
+            vi: Phi công đã sử dụng một động cơ đẩy nhỏ để điều chỉnh quỹ đạo.
+          - en: A faulty thruster caused the satellite to spin out.
+            vi: Một động cơ đẩy bị lỗi đã khiến vệ tinh quay vòng mất kiểm soát.
+  - lemma: propulsion
+    cefr: C1
+    ipaUs: /prəˈpʌlʃn/
+    senses:
+      - pos: NOUN
+        definitionEn: The force that drives something forward, especially a vehicle.
+        definitionVi: Hệ thống đẩy
+        examples:
+          - en: Advanced ion propulsion allows probes to travel across deep space.
+            vi: Hệ thống đẩy ion tiên tiến cho phép các tàu thăm dò bay qua không gian sâu.
+          - en: Scientists are testing experimental propulsion systems for future Mars missions.
+            vi: Các nhà khoa học đang thử nghiệm các hệ thống đẩy thử nghiệm cho các sứ mệnh sao Hỏa tương lai.
+  - lemma: fuel
+    cefr: A2
+    ipaUs: /ˈfjuːəl/
+    senses:
+      - pos: NOUN
+        definitionEn: Material burned to produce power or energy for engines.
+        definitionVi: Nhiên liệu
+        examples:
+          - en: The rocket requires thousands of liters of liquid fuel.
+            vi: Tên lửa yêu cầu hàng nghìn lít nhiên liệu lỏng.
+          - en: Technicians monitored the fuel levels closely before the ignition.
+            vi: Các kỹ thuật viên đã theo dõi sát sao mức nhiên liệu trước khi đánh lửa.
+  - lemma: engine
+    cefr: A2
+    ipaUs: /ˈendʒɪn/
+    senses:
+      - pos: NOUN
+        definitionEn: A machine that converts chemical energy into mechanical power.
+        definitionVi: Động cơ
+        examples:
+          - en: The main engine roared to life during the departure sequence.
+            vi: Động cơ chính đã gầm lên hoạt động trong suốt quá trình khởi hành.
+          - en: Engineers inspected the rocket engine for any structural damage.
+            vi: Các kỹ sư đã kiểm tra động cơ tên lửa xem có bất kỳ hư hỏng kết cấu nào không.
+  - lemma: antenna
+    cefr: B2
+    ipaUs: /ænˈtenə/
+    senses:
+      - pos: NOUN
+        definitionEn: A device used to transmit or receive radio waves.
+        definitionVi: Ant-ten
+        examples:
+          - en: The large antenna sent vital telemetry data back to Earth.
+            vi: Ant-ten lớn đã truyền dữ liệu từ xa quan trọng trở lại Trái Đất.
+          - en: Ground controllers adjusted the tracking antenna to catch signals.
+            vi: Nhân viên điều khiển mặt đất đã điều chỉnh ant-ten theo dõi để bắt tín hiệu.
+  - lemma: rover
+    cefr: B1
+    ipaUs: /ˈroʊvər/
+    senses:
+      - pos: NOUN
+        definitionEn: A vehicle designed to explore the surface of a planet.
+        definitionVi: Xe tự hành
+        examples:
+          - en: A robotic rover rolled across the dusty Martian landscape slowly.
+            vi: Một chiếc xe tự hành robot đã lăn bánh chậm chạp trên phong cảnh đầy bụi sao Hỏa.
+          - en: Scientists controlled the Mars rover from a facility on Earth.
+            vi: Các nhà khoa học đã điều khiển xe tự hành sao Hỏa từ một cơ sở trên Trái Đất.
+  - lemma: lander
+    cefr: B2
+    ipaUs: /ˈlændər/
+    senses:
+      - pos: NOUN
+        definitionEn: A spacecraft designed to land on the surface of a celestial body.
+        definitionVi: Tàu đổ bộ
+        examples:
+          - en: The lunar lander touched down softly on the gray dust.
+            vi: Tàu đổ bộ mặt trăng đã hạ cánh nhẹ nhàng trên lớp bụi xám.
+          - en: Researchers analyzed data transmitted by the automated Venus lander.
+            vi: Các nhà nghiên cứu đã phân tích dữ liệu được truyền bởi tàu đổ bộ sao Kim tự động.
+  - lemma: docking
+    cefr: C1
+    ipaUs: /ˈdɑːkɪŋ/
+    senses:
+      - pos: NOUN
+        definitionEn: The act of joining two spacecraft together in orbit.
+        definitionVi: Việc lắp ghép tàu vũ trụ
+        examples:
+          - en: Successful docking occurred automatically between the capsule and station.
+            vi: Quá trình lắp ghép thành công đã diễn ra tự động giữa khoang tàu và trạm.
+          - en: Astronauts prepared for the difficult docking maneuver for hours.
+            vi: Các phi hành gia đã chuẩn bị cho thao tác lắp ghép khó khăn trong nhiều giờ.
+  - lemma: reentry
+    cefr: C1
+    ipaUs: /riːˈentri/
+    senses:
+      - pos: NOUN
+        definitionEn: The act of entering the Earth's atmosphere from space.
+        definitionVi: Sự quay trở lại bầu khí quyển
+        examples:
+          - en: The heat shield protected the vehicle during high speed reentry.
+            vi: Lớp chắn nhiệt đã bảo vệ phương tiện trong suốt quá trình quay lại bầu khí quyển tốc độ cao.
+          - en: Mission control monitored the dangerous reentry phase with great anxiety.
+            vi: Bộ phận điều khiển sứ mệnh đã theo dõi giai đoạn quay lại nguy hiểm với sự lo lắng lớn.
+  - lemma: touchdown
+    cefr: B2
+    ipaUs: /ˈtʌtʃˌdaʊn/
+    senses:
+      - pos: NOUN
+        definitionEn: The exact moment when a spacecraft lands on a surface.
+        definitionVi: Thời điểm hạ cánh
+        examples:
+          - en: Cheers erupted in mission control at the exact touchdown moment.
+            vi: Tiếng reo hò bùng nổ ở phòng điều khiển sứ mệnh vào đúng thời điểm hạ cánh.
+          - en: The probe reported successful touchdown on the asteroid surface.
+            vi: Tàu thăm dò đã báo cáo hạ cánh thành công trên bề mặt tiểu hành tinh.
+  - lemma: crater
+    cefr: B1
+    ipaUs: /ˈkreɪtər/
+    senses:
+      - pos: NOUN
+        definitionEn: A large bowl-shaped hole on a planet or moon surface.
+        definitionVi: Hố va chạm
+        examples:
+          - en: The deep impact crater revealed ancient layers of rock.
+            vi: Hố va chạm sâu đã tiết lộ các lớp đá cổ xưa.
+          - en: The lunar rover drove carefully around a massive volcanic crater.
+            vi: Xe tự hành mặt trăng đã lái xe cẩn thận xung quanh một miệng hố núi lửa khổng lồ.
+  - lemma: surface
+    cefr: A2
+    ipaUs: /ˈsɜːrfɪs/
+    senses:
+      - pos: NOUN
+        definitionEn: The outside or top layer of something like a planet.
+        definitionVi: Bề mặt
+        examples:
+          - en: The rocky surface of Mars is cold and dry.
+            vi: Bề mặt đá của sao Hỏa lạnh và khô.
+          - en: Rovers explore the solid surface to collect interesting geological samples.
+            vi: Các xe tự hành khám phá bề mặt cứng để thu thập các mẫu địa chất thú vị.
+  - lemma: core
+    cefr: B1
+    ipaUs: /kɔːr/
+    senses:
+      - pos: NOUN
+        definitionEn: The central or innermost part of a planet or star.
+        definitionVi: Lõi
+        examples:
+          - en: Scientists believe the molten iron core generates a magnetic field.
+            vi: Các nhà khoa học tin rằng lõi sắt nóng chảy tạo ra một từ trường.
+          - en: The rocket core stage separated cleanly after exhausting its propellant.
+            vi: Tầng lõi tên lửa đã tách sạch sẽ sau khi cạn kiệt chất đẩy.
+  - lemma: dust
+    cefr: A2
+    ipaUs: /dʌst/
+    senses:
+      - pos: NOUN
+        definitionEn: Fine dry powder that settles on surfaces in space or planets.
+        definitionVi: Bụi
+        examples:
+          - en: Fine cosmic dust swirled around the distant star cluster.
+            vi: Bụi vũ trụ mịn màng xoáy xung quanh cụm sao xa xôi.
+          - en: A thick layer of red dust covered the solar panels.
+            vi: Một lớp bụi đỏ dày bao phủ các tấm pin mặt trời.
+  - lemma: rock
+    cefr: B1
+    ipaUs: /rɑːk/
+    senses:
+      - pos: NOUN
+        definitionEn: A solid piece of mineral matter forming part of the surface of the earth and other planets.
+        definitionVi: đá
+        examples:
+          - en: A small rock floated past the spacecraft window.
+            vi: Một viên đá nhỏ trôi qua cửa sổ tàu vũ trụ.
+          - en: Scientists found a strange rock sample on Mars.
+            vi: Các nhà khoa học đã tìm thấy một mẫu đá lạ trên sao Hỏa.
+  - lemma: ice
+    cefr: A2
+    ipaUs: /aɪs/
+    senses:
+      - pos: NOUN
+        definitionEn: Frozen water, found in large quantities in comets and on some planets and moons.
+        definitionVi: băng
+        examples:
+          - en: Comets are mostly made of dust and ice.
+            vi: Các sao chổi chủ yếu được cấu tạo từ bụi và băng.
+          - en: The probe detected underground ice on the moon.
+            vi: Tàu thăm dò đã phát hiện băng ngầm trên mặt trăng.
+  - lemma: vacuum
+    cefr: A2
+    ipaUs: /ˈvæk.juːm/
+    senses:
+      - pos: NOUN
+        definitionEn: An electrical appliance that cleans floors by sucking up dirt and dust.
+        definitionVi: máy hút bụi
+        examples:
+          - en: I usually run the vacuum across the living room carpet weekly.
+            vi: Tôi thường dùng máy hút bụi trên thảm phòng khách hàng tuần.
+          - en: The old vacuum stopped working in the middle of cleaning.
+            vi: Cái máy hút bụi cũ đã ngừng hoạt động giữa chừng lúc dọn dẹp.
+  - lemma: radiation
+    cefr: B2
+    ipaUs: /ˌreɪdiˈeɪʃn/
+    senses:
+      - pos: NOUN
+        definitionEn: The emission of energy as electromagnetic waves or as moving subatomic particles.
+        definitionVi: bức xạ
+        examples:
+          - en: Solar radiation can damage unprotected satellite solar panels.
+            vi: Bức xạ mặt trời có thể làm hỏng các tấm pin mặt trời không được bảo vệ của vệ tinh.
+          - en: Astronauts must wear shielding against harmful cosmic radiation.
+            vi: Các phi hành gia phải mặc đồ bảo hộ chống lại bức xạ vũ trụ có hại.
+  - lemma: temperature
+    cefr: A2
+    ipaUs: /ˈtemprətʃər/
+    senses:
+      - pos: NOUN
+        definitionEn: The degree or intensity of heat present in a substance or object.
+        definitionVi: nhiệt độ
+        examples:
+          - en: The surface temperature on Mercury is extremely high.
+            vi: Nhiệt độ bề mặt trên sao Thủy cực kỳ cao.
+          - en: Scientists monitor the temperature inside the space station.
+            vi: Các nhà khoa học giám sát nhiệt độ bên trong trạm vũ trụ.
+  - lemma: distance
+    cefr: A2
+    ipaUs: /ˈdɪstəns/
+    senses:
+      - pos: NOUN
+        definitionEn: The amount of space between two points or places.
+        definitionVi: khoảng cách
+        examples:
+          - en: The distance between Earth and Mars changes constantly.
+            vi: Khoảng cách giữa Trái Đất và sao Hỏa thay đổi liên tục.
+          - en: Astronomers measure distance across galaxies in light years.
+            vi: Các nhà thiên văn học đo khoảng cách giữa các thiên hà bằng năm ánh sáng.
+  - lemma: rotation
+    cefr: B1
+    ipaUs: /roʊˈteɪʃn/
+    senses:
+      - pos: NOUN
+        definitionEn: The action or process of rotating around an axis or center.
+        definitionVi: sự quay
+        examples:
+          - en: Earth completes one full rotation every twenty four hours.
+            vi: Trái Đất hoàn thành một vòng quay đầy đủ cứ sau hai mươi tư giờ.
+          - en: Its fast rotation makes days very short.
+            vi: Sự quay nhanh của nó làm cho các ngày trở nên rất ngắn.
+  - lemma: revolution
+    cefr: B2
+    ipaUs: /ˌrevəˈluːʃn/
+    senses:
+      - pos: NOUN
+        definitionEn: The movement of one object around another object in a circular or elliptical path.
+        definitionVi: sự quay vòng
+        examples:
+          - en: Earth makes one full revolution around the sun yearly.
+            vi: Trái Đất thực hiện một vòng quay quanh mặt trời mỗi năm.
+          - en: The complete revolution takes three hundred sixty days.
+            vi: Vòng quay hoàn chỉnh mất ba trăm sáu mươi ngày.
+  - lemma: axis
+    cefr: B2
+    ipaUs: /ˈæksɪs/
+    senses:
+      - pos: NOUN
+        definitionEn: An imaginary line about which a body rotates.
+        definitionVi: trục
+        examples:
+          - en: Earth spins on its axis once every day.
+            vi: Trái Đất quay quanh trục của nó một lần mỗi ngày.
+          - en: The tilted axis causes our changing seasonal weather.
+            vi: Trục nghiêng gây ra thời tiết theo mùa thay đổi của chúng ta.
+  - lemma: tilt
+    cefr: B2
+    ipaUs: /tɪlt/
+    senses:
+      - pos: NOUN
+        definitionEn: A sloping position or movement away from a vertical line.
+        definitionVi: độ nghiêng
+        examples:
+          - en: The axial tilt of Earth creates four seasons.
+            vi: Độ nghiêng trục của Trái Đất tạo ra bốn mùa.
+          - en: This slight tilt affects sunlight angles across hemispheres.
+            vi: Độ nghiêng nhẹ này ảnh hưởng đến góc chiếu ánh sáng mặt trời qua các bán cầu.
+  - lemma: equator
+    cefr: B2
+    ipaUs: /ɪˈkweɪtər/
+    senses:
+      - pos: NOUN
+        definitionEn: An imaginary line drawn around the earth equally distant from both poles.
+        definitionVi: xích đạo
+        examples:
+          - en: The equator receives direct sunlight all year long.
+            vi: Xích đạo nhận được ánh sáng mặt trời trực tiếp suốt cả năm.
+          - en: Satellites launched from the equator get extra speed.
+            vi: Các vệ tinh phóng từ xích đạo có được tốc độ bổ sung.
+  - lemma: hemisphere
+    cefr: B2
+    ipaUs: /ˈhemɪsfɪr/
+    senses:
+      - pos: NOUN
+        definitionEn: A half of a sphere, or a half of the earth, divided by the equator.
+        definitionVi: bán cầu
+        examples:
+          - en: The northern hemisphere experiences winter in December months.
+            vi: Bán cầu bắc trải qua mùa đông vào những tháng tháng Mười Hai.
+          - en: Stargazers in each hemisphere see different constellations overhead.
+            vi: Những người ngắm sao ở mỗi bán cầu nhìn thấy các chòm sao khác nhau phía trên.
+  - lemma: equinox
+    cefr: C1
+    ipaUs: /ˈiːkwɪnɑːks/
+    senses:
+      - pos: NOUN
+        definitionEn: The time or date when day and night are of equal length.
+        definitionVi: điểm phân
+        examples:
+          - en: The spring equinox marks the start of spring.
+            vi: Điểm phân mùa xuân đánh dấu sự bắt đầu của mùa xuân.
+          - en: During the equinox sunlight hits the equator equally.
+            vi: Trong thời gian điểm phân, ánh sáng mặt trời chiếu vào xích đạo một cách đều đặn.
+  - lemma: solstice
+    cefr: C1
+    ipaUs: /ˈsɑːlstɪs/
+    senses:
+      - pos: NOUN
+        definitionEn: Either of the two times in the year when the sun reaches its highest or lowest point.
+        definitionVi: điểm chí
+        examples:
+          - en: The summer solstice brings the longest daylight hours.
+            vi: Ngày hạ chí mang lại số giờ ban ngày dài nhất.
+          - en: Winter solstice brings the shortest day of year.
+            vi: Ngày đông chí mang lại ngày ngắn nhất trong năm.
+  - lemma: aurora
+    cefr: C1
+    ipaUs: /əˈrɔːrə/
+    senses:
+      - pos: NOUN
+        definitionEn: A natural electrical phenomenon characterized by the appearance of streamers of
+          reddish or greenish light.
+        definitionVi: cực quang
+        examples:
+          - en: A bright aurora danced across the night sky.
+            vi: Một dải cực quang rực rỡ nhảy múa khắp bầu trời đêm.
+          - en: Solar storms often trigger a colorful polar aurora.
+            vi: Các cơn bão mặt trời thường kích hoạt hiện tượng cực quang đầy màu sắc ở vùng cực.
+  - lemma: meteorite
+    cefr: C1
+    ipaUs: /ˈmiːtiəraɪt/
+    senses:
+      - pos: NOUN
+        definitionEn: A piece of rock or metal from space that has survived passing through the atmosphere.
+        definitionVi: thiên thạch
+        examples:
+          - en: A heavy meteorite crashed into the desert ground.
+            vi: Một khối thiên thạch nặng đã đâm xuống mặt đất sa mạc.
+          - en: Scientists analyzed the ancient meteorite found in Antarctica.
+            vi: Các nhà khoa học đã phân tích thiên thạch cổ đại được tìm thấy ở Nam Cực.
+  - lemma: meteoroid
+    cefr: C1
+    ipaUs: /ˈmiːtiəruːd/
+    senses:
+      - pos: NOUN
+        definitionEn: A small body moving in the solar system that would become a meteor if it entered the
+          atmosphere.
+        definitionVi: thiên thạch nhỏ
+        examples:
+          - en: A tiny meteoroid burned up entering the atmosphere.
+            vi: Một thiên thạch nhỏ đã bốc cháy khi đi vào bầu khí quyển.
+          - en: Space agencies track every dangerous passing meteoroid carefully.
+            vi: Các cơ quan vũ trụ theo dõi cẩn thận mọi thiên thạch nhỏ đi ngang qua nguy hiểm.
+  - lemma: interplanetary
+    cefr: C1
+    ipaUs: /ˌɪntərˈplænəteri/
+    senses:
+      - pos: ADJECTIVE
+        definitionEn: Situated or occurring between planets.
+        definitionVi: liên hành tinh
+        examples:
+          - en: Interplanetary travel requires advanced rockets and life support.
+            vi: Du hành liên hành tinh đòi hỏi tên lửa tiên tiến và hệ thống hỗ trợ sự sống.
+          - en: Probes send interplanetary data back to ground stations.
+            vi: Các tàu thăm dò gửi dữ liệu liên hành tinh về các trạm mặt đất.
+  - lemma: interstellar
+    cefr: C1
+    ipaUs: /ˌɪntərˈstelər/
+    senses:
+      - pos: ADJECTIVE
+        definitionEn: Occuring or situated between stars.
+        definitionVi: liên vì sao
+        examples:
+          - en: Interstellar space holds vast clouds of cosmic dust.
+            vi: Không gian liên vì sao chứa các đám mây bụi vũ trụ khổng lồ.
+          - en: Voyager probes are now exploring true interstellar space.
+            vi: Các tàu thăm dò Voyager hiện đang khám phá không gian liên vì sao thực sự.
+  - lemma: spectrum
+    cefr: B2
+    ipaUs: /ˈspektrəm/
+    senses:
+      - pos: NOUN
+        definitionEn: A band of colors, as seen in a rainbow, or a range of wavelengths.
+        definitionVi: quang phổ
+        examples:
+          - en: Telescopes analyze the light spectrum from distant stars.
+            vi: Kính thiên văn phân tích quang phổ ánh sáng từ các ngôi sao xa xôi.
+          - en: The solar spectrum shows various chemical elements inside.
+            vi: Quang phổ mặt trời cho thấy các nguyên tố hóa học khác nhau bên trong.
+  - lemma: luminosity
+    cefr: C1
+    ipaUs: /ˌluːmɪˈnɑːsəti/
+    senses:
+      - pos: NOUN
+        definitionEn: The total amount of energy emitted by a star or other astronomical object per second.
+        definitionVi: Độ sáng
+        examples:
+          - en: Astronomers measure the luminosity of distant stars using advanced space telescopes.
+            vi: Các nhà thiên văn học đo độ sáng của các ngôi sao xa xôi bằng kính viễn vọng không gian tiên
+              tiến.
+          - en: The luminosity of this unusual galaxy has baffled scientists for several decades.
+            vi: Độ sáng của thiên hà bất thường này đã làm các nhà khoa học bối rối suốt mấy thập kỷ.
+  - lemma: magnitude
+    cefr: B2
+    ipaUs: /ˈmæɡnɪtuːd/
+    senses:
+      - pos: NOUN
+        definitionEn: A numerical scale used to express the apparent or absolute brightness of a celestial body.
+        definitionVi: Cấp sao
+        examples:
+          - en: This brilliant star is of the first magnitude and shines brightly tonight.
+            vi: Ngôi sao rực rỡ này thuộc cấp sao thứ nhất và chiếu sáng rực rỡ đêm nay.
+          - en: Astronomers calculate the exact magnitude of newly discovered stars in our galaxy.
+            vi: Các nhà thiên văn học tính toán cấp sao chính xác của những ngôi sao mới được phát hiện trong
+              thiên hà của chúng ta.
+  - lemma: redshift
+    cefr: C1
+    ipaUs: /ˈredˌʃɪft/
+    senses:
+      - pos: NOUN
+        definitionEn: The displacement of spectral lines toward longer wavelengths in radiation from distant
+          galaxies.
+        definitionVi: Dịch chuyển đỏ
+        examples:
+          - en: The observed redshift in the spectrum proves the universe is continuously expanding.
+            vi: Hiện tượng dịch chuyển đỏ quan sát được trong quang phổ chứng minh vũ trụ liên tục giãn nở.
+          - en: Measuring the redshift helps researchers calculate the speed of receding galaxies.
+            vi: Việc đo lường độ dịch chuyển đỏ giúp các nhà nghiên cứu tính toán tốc độ của các thiên hà đang
+              lùi xa.
+  - lemma: light-year
+    cefr: B2
+    ipaUs: /ˈlaɪtˌjɪər/
+    senses:
+      - pos: NOUN
+        definitionEn: The distance that light travels in one vacuum year, roughly nine trillion kilometers.
+        definitionVi: Năm ánh sáng
+        examples:
+          - en: Proxima Centauri is more than four light-years away from our solar system.
+            vi: Proxima Centauri cách hệ mặt trời của chúng ta hơn bốn năm ánh sáng.
+          - en: No human spacecraft has ever traveled even a single light-year into space.
+            vi: Chưa từng có con tàu vũ trụ nào của con người bay được dù chỉ một năm ánh sáng vào không gian.
+  - lemma: black hole
+    cefr: B2
+    ipaUs: /ˈblækˌhoʊl/
+    senses:
+      - pos: NOUN
+        definitionEn: A region of spacetime exhibiting such strong gravitational effects that nothing can escape.
+        definitionVi: Hố đen
+        examples:
+          - en: Nothing can escape the intense gravitational pull of a massive black-hole.
+            vi: Không có gì có thể thoát khỏi lực hút hấp dẫn cực mạnh của một hố đen khổng lồ.
+          - en: Astronomers recently captured the first visual image of a distant black-hole.
+            vi: Các nhà thiên văn học gần đây đã chụp được hình ảnh trực quan đầu tiên về một hố đen ở xa.
+  - lemma: wormhole
+    cefr: C1
+    ipaUs: /ˈwɜːrˌhoʊl/
+    senses:
+      - pos: NOUN
+        definitionEn: A hypothetical connection through spacetime linking disparate points in the universe.
+        definitionVi: Lỗ sâu
+        examples:
+          - en: Science fiction writers frequently use a wormhole for rapid interstellar travel stories.
+            vi: Các nhà văn khoa học viễn tưởng thường sử dụng lỗ sâu cho những câu chuyện du hành liên sao
+              nhanh chóng.
+          - en: Modern physicists only theorize about the possible existence of a stable wormhole.
+            vi: Các nhà vật lý hiện đại chỉ đưa ra lý thuyết về sự tồn tại khả dĩ của một lỗ sâu ổn định.
+  - lemma: pulsar
+    cefr: C1
+    ipaUs: /ˈpʌlsɑːr/
+    senses:
+      - pos: NOUN
+        definitionEn: A celestial object that emits rapid pulses of radio waves and other electromagnetic
+          radiation.
+        definitionVi: Sao pulsar
+        examples:
+          - en: A rotating pulsar emits narrow beams of intense electromagnetic radiation into space.
+            vi: Một ngôi sao pulsar quay phát ra các chùm bức xạ điện từ cường độ cao hẹp vào không gian.
+          - en: The rhythmic radio signals from a pulsar greatly puzzled early radio astronomers.
+            vi: Các tín hiệu vô tuyến nhịp nhàng từ một ngôi sao pulsar từng làm các nhà thiên văn vô tuyến thời
+              đầu rất bối rối.
+  - lemma: quasar
+    cefr: C1
+    ipaUs: /ˈkweɪzɑːr/
+    senses:
+      - pos: NOUN
+        definitionEn: An extremely luminous active galactic nucleus powered by a massive black hole.
+        definitionVi: Quasar
+        examples:
+          - en: A distant quasar shines far brighter than an entire normal spiral galaxy.
+            vi: Một quasar ở xa chiếu sáng rực rỡ hơn nhiều so với toàn bộ một thiên hà xoắn ốc bình thường.
+          - en: This newly discovered quasar provides crucial clues about early cosmic history.
+            vi: Quasar mới được phát hiện này cung cấp những manh mối quan trọng về lịch sử vũ trụ sơ khai.
+  - lemma: photon
+    cefr: C1
+    ipaUs: /ˈfoʊtɑːn/
+    senses:
+      - pos: NOUN
+        definitionEn: A fundamental particle representing a quantum of light or other electromagnetic radiation.
+        definitionVi: Hạt photon
+        examples:
+          - en: A single photon takes thousands of years to leave the solar core.
+            vi: Một hạt photon đơn lẻ phải mất hàng ngàn năm để rời khỏi lõi mặt trời.
+          - en: Solar panels generate clean electricity when a photon knocks outer electrons free.
+            vi: Các tấm pin mặt trời tạo ra điện sạch khi một hạt photon đánh văng các electron bên ngoài ra.
+  - lemma: antimatter
+    cefr: C1
+    ipaUs: /ˈæntiˌmætər/
+    senses:
+      - pos: NOUN
+        definitionEn: Matter composed of the antiparticles of those that constitute normal matter.
+        definitionVi: Phản vật chất
+        examples:
+          - en: Contact between normal matter and antimatter creates an immense amount of energy.
+            vi: Sự tiếp xúc giữa vật chất thông thường và phản vật chất tạo ra một lượng năng lượng khổng lồ.
+          - en: Producing even a tiny microscopic amount of antimatter costs a fortune today.
+            vi: Việc sản xuất dù chỉ một lượng phản vật chất vi mô nhỏ bé cũng tốn rất nhiều tiền ngày nay.
+  - lemma: navigation
+    cefr: B2
+    ipaUs: /ˌnævɪˈɡeɪʃn/
+    senses:
+      - pos: NOUN
+        definitionEn: The process or activity of accurately plotting and controlling the course of a spacecraft.
+        definitionVi: Sự điều hướng
+        examples:
+          - en: Modern spacecraft rely on complex computer systems for autonomous deep-space navigation.
+            vi: Tàu vũ trụ hiện đại phụ thuộc vào các hệ thống máy tính phức tạp để điều hướng tự động trong
+              không gian sâu.
+          - en: Ancient sailors used the bright stars for safe navigation across vast oceans.
+            vi: Những thủy thủ thời cổ đại đã dùng các ngôi sao sáng để điều hướng an toàn qua các đại dương bao
+              la.
+  - lemma: telemetry
+    cefr: C1
+    ipaUs: /ˈtelɪmətri/
+    senses:
+      - pos: NOUN
+        definitionEn: The process of recording and transmitting readings of instruments to a distant location.
+        definitionVi: Hệ thống đo xa
+        examples:
+          - en: Engineers monitor the spacecraft telemetry constantly during the extremely risky rocket launch.
+            vi: Các kỹ sư giám sát liên tục hệ thống đo xa của tàu vũ trụ trong suốt quá trình phóng tên lửa cực
+              kỳ rủi ro.
+          - en: Mission control carefully analyzed the telemetry data to diagnose the sudden engine failure.
+            vi: Phòng điều khiển sứ mệnh đã phân tích kỹ lưỡng dữ liệu từ hệ thống đo xa để chẩn đoán sự cố động
+              cơ đột ngột.

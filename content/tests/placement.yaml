@@ -1,0 +1,259 @@
+# Bài kiểm tra đầu vào — thích ứng theo trình độ.
+#
+# Ngân hàng câu hỏi trải từ A1 đến C1 trên bốn kỹ năng đọc được bằng máy.
+# Thuật toán ở packages/scoring/src/adaptive.ts chọn câu tiếp theo dựa trên
+# câu trước, nên thứ tự trong tệp này không phải thứ tự người học nhìn thấy.
+tests:
+  - slug: placement
+    kind: placement
+    title: Kiểm tra đầu vào
+    description: >-
+      Khoảng 12 đến 30 câu, tự điều chỉnh độ khó theo câu trả lời của bạn.
+      Kết quả là trình độ CEFR cho từng kỹ năng, và Sprout dùng nó để chọn
+      bài học phù hợp.
+    durationMin: 20
+    passScore: 0
+    isAdaptive: true
+    sections:
+      - skill: GRAMMAR
+        title: Ngữ pháp
+        order: 1
+      - skill: VOCABULARY
+        title: Từ vựng
+        order: 2
+      - skill: READING
+        title: Đọc hiểu
+        order: 3
+    questions:
+      # ---- A1 ----------------------------------------------------------
+      - skill: GRAMMAR
+        cefr: A1
+        type: MCQ
+        prompt: "My sister ____ a teacher."
+        options: [is, are, am, be]
+        answer: is
+        explanationVi: "Chủ ngữ ngôi ba số ít đi với is."
+      - skill: GRAMMAR
+        cefr: A1
+        type: MCQ
+        prompt: "There ____ two books on the desk."
+        options: [are, is, be, have]
+        answer: are
+        explanationVi: "two books là số nhiều nên dùng are."
+      - skill: GRAMMAR
+        cefr: A1
+        type: MCQ
+        prompt: "I ____ coffee every morning."
+        options: [drink, drinks, am drink, drinking]
+        answer: drink
+        explanationVi: "Chủ ngữ I ở hiện tại đơn dùng động từ nguyên thể."
+      - skill: VOCABULARY
+        cefr: A1
+        type: MCQ
+        prompt: "You buy bread at a ____."
+        options: [bakery, library, garage, pharmacy]
+        answer: bakery
+        explanationVi: "bakery là tiệm bánh mì."
+      - skill: VOCABULARY
+        cefr: A1
+        type: MCQ
+        prompt: "The opposite of \"cheap\" is ____."
+        options: [expensive, small, quiet, early]
+        answer: expensive
+        explanationVi: "cheap là rẻ, trái nghĩa là expensive — đắt."
+      - skill: READING
+        cefr: A1
+        type: TRUE_FALSE
+        prompt: "Đọc câu sau rồi cho biết nhận định đúng hay sai."
+        statement: "\"The shop opens at nine and closes at six.\" — The shop is open at seven in the evening."
+        answer: false
+        explanationVi: "Cửa hàng đóng lúc 6 giờ, nên 7 giờ tối đã đóng rồi."
+
+      # ---- A2 ----------------------------------------------------------
+      - skill: GRAMMAR
+        cefr: A2
+        type: MCQ
+        prompt: "We ____ to Da Nang last summer."
+        options: [went, go, have gone, are going]
+        answer: went
+        explanationVi: "last summer là mốc quá khứ đã xong nên dùng quá khứ đơn went."
+      - skill: GRAMMAR
+        cefr: A2
+        type: MCQ
+        prompt: "This bag is ____ than that one."
+        options: [heavier, more heavy, heaviest, heavy]
+        answer: heavier
+        explanationVi: "heavy hai âm tiết tận cùng -y nên so sánh hơn là heavier."
+      - skill: GRAMMAR
+        cefr: A2
+        type: MCQ
+        prompt: "How ____ sugar do you want?"
+        options: [much, many, some, few]
+        answer: much
+        explanationVi: "sugar không đếm được nên dùng How much."
+      - skill: VOCABULARY
+        cefr: A2
+        type: MCQ
+        prompt: "I need to ____ an appointment with the doctor."
+        options: [make, do, take, get on]
+        answer: make
+        explanationVi: "Cụm cố định là make an appointment."
+      - skill: VOCABULARY
+        cefr: A2
+        type: MCQ
+        prompt: "The flight was ____ by two hours because of the storm."
+        options: [delayed, cancelled, arrived, boarded]
+        answer: delayed
+        explanationVi: "delayed nghĩa là bị hoãn lại; cancelled là huỷ hẳn."
+      - skill: READING
+        cefr: A2
+        type: MCQ
+        prompt: >-
+          "Lan works from Monday to Friday. On Saturday she visits her
+          grandmother, and on Sunday she rests at home."
+          How many days a week does Lan work?
+        options: [Five, Six, Seven, Four]
+        answer: Five
+        explanationVi: "Từ thứ Hai đến thứ Sáu là năm ngày."
+
+      # ---- B1 ----------------------------------------------------------
+      - skill: GRAMMAR
+        cefr: B1
+        type: MCQ
+        prompt: "I ____ here since 2019."
+        options: [have worked, worked, work, am working]
+        answer: have worked
+        explanationVi: "since đánh dấu việc bắt đầu trong quá khứ còn kéo dài tới hiện tại."
+      - skill: GRAMMAR
+        cefr: B1
+        type: MCQ
+        prompt: "If it ____ tomorrow, we will cancel the trip."
+        options: [rains, will rain, rained, would rain]
+        answer: rains
+        explanationVi: "Điều kiện loại 1: mệnh đề if dùng hiện tại đơn."
+      - skill: GRAMMAR
+        cefr: B1
+        type: MCQ
+        prompt: "The report ____ by my colleague last week."
+        options: [was written, was wrote, wrote, is written]
+        answer: was written
+        explanationVi: "Bị động quá khứ là was + quá khứ phân từ written."
+      - skill: GRAMMAR
+        cefr: B1
+        type: MCQ
+        prompt: "The woman ____ called you is waiting outside."
+        options: [who, which, whom, whose]
+        answer: who
+        explanationVi: "Đại từ thay cho người và làm chủ ngữ nên dùng who."
+      - skill: VOCABULARY
+        cefr: B1
+        type: MCQ
+        prompt: "Despite the heavy rain, they ____ to finish the work on time."
+        options: [managed, succeeded, achieved, could]
+        answer: managed
+        explanationVi: "manage to do something là xoay xở làm được; succeed đi với in + V-ing."
+      - skill: READING
+        cefr: B1
+        type: MCQ
+        prompt: >-
+          "The café changed its opening hours in March. Regulars complained,
+          but the owner said the earlier close had cut her energy bill by a
+          third and let her keep the same staff."
+          Why did the owner change the hours?
+        options:
+          - To reduce costs without losing staff
+          - Because customers asked her to
+          - Because she was moving premises
+          - To open a second café
+        answer: To reduce costs without losing staff
+        explanationVi: "Chủ quán nói việc đóng sớm giảm một phần ba tiền điện và giữ được nhân viên."
+
+      # ---- B2 ----------------------------------------------------------
+      - skill: GRAMMAR
+        cefr: B2
+        type: MCQ
+        prompt: "She said she ____ me the next day."
+        options: [would call, will call, calls, is calling]
+        answer: would call
+        explanationVi: "Câu tường thuật lùi thì: will thành would."
+      - skill: GRAMMAR
+        cefr: B2
+        type: MCQ
+        prompt: "If we ____ earlier, we would not have missed the train."
+        options: [had left, left, would leave, have left]
+        answer: had left
+        explanationVi: "Điều kiện loại 3: mệnh đề if dùng had + quá khứ phân từ."
+      - skill: GRAMMAR
+        cefr: B2
+        type: MCQ
+        prompt: "I wish I ____ more attention in that meeting."
+        options: [had paid, paid, would pay, have paid]
+        answer: had paid
+        explanationVi: "Tiếc về một việc đã xảy ra dùng wish + quá khứ hoàn thành."
+      - skill: VOCABULARY
+        cefr: B2
+        type: MCQ
+        prompt: "The evidence was ____ enough to change the committee's mind."
+        options: [compelling, obedient, transparent, redundant]
+        answer: compelling
+        explanationVi: "compelling nghĩa là thuyết phục mạnh mẽ."
+      - skill: VOCABULARY
+        cefr: B2
+        type: MCQ
+        prompt: "Her explanation was deliberately ____, so nobody could pin her down."
+        options: [vague, blunt, concise, candid]
+        answer: vague
+        explanationVi: "vague là mơ hồ; blunt và candid đều nghĩa là thẳng thắn."
+      - skill: READING
+        cefr: B2
+        type: MCQ
+        prompt: >-
+          "The proposal is not wrong so much as premature. Every mechanism it
+          describes would work, but none of the data needed to choose between
+          them will exist for another two years."
+          What is the writer's objection?
+        options:
+          - The timing, not the reasoning
+          - The cost of the mechanisms
+          - An error in the calculations
+          - The author's qualifications
+        answer: The timing, not the reasoning
+        explanationVi: "\"not wrong so much as premature\" — không sai, chỉ là quá sớm."
+
+      # ---- C1 ----------------------------------------------------------
+      - skill: GRAMMAR
+        cefr: C1
+        type: MCQ
+        prompt: "____ had she sat down than the phone rang."
+        options: [No sooner, Hardly when, Not only, Rather]
+        answer: No sooner
+        explanationVi: "Cấu trúc đảo ngữ: No sooner ... than. Hardly đi với when, không phải than."
+      - skill: GRAMMAR
+        cefr: C1
+        type: MCQ
+        prompt: "It is essential that every application ____ by Friday."
+        options: [be submitted, is submitted, was submitted, will be submitted]
+        answer: be submitted
+        explanationVi: "Sau It is essential that dùng thức giả định: động từ ở dạng nguyên thể."
+      - skill: VOCABULARY
+        cefr: C1
+        type: MCQ
+        prompt: "The two accounts of the meeting are difficult to ____."
+        options: [reconcile, reconvene, reiterate, relinquish]
+        answer: reconcile
+        explanationVi: "reconcile là dung hoà hai điều mâu thuẫn."
+      - skill: READING
+        cefr: C1
+        type: MCQ
+        prompt: >-
+          "That the policy failed is not in dispute. What remains contested is
+          whether it failed because it was poorly designed or because it was
+          never funded at the level its designers assumed."
+          What does the writer treat as settled?
+        options:
+          - That the policy failed
+          - That the design was poor
+          - That funding was adequate
+          - That the designers were wrong
+        answer: That the policy failed
+        explanationVi: "\"is not in dispute\" nghĩa là không ai tranh cãi việc chính sách thất bại."

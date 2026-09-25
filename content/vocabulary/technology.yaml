@@ -1,0 +1,1436 @@
+# Chủ đề Công nghệ (§12.1). Nguồn: Wiktionary (CC BY-SA), WordNet, Tatoeba (CC BY).
+topic: technology
+words:
+  - lemma: download
+    cefr: A2
+    frequencyRank: 4100
+    ipaUs: /ˈdaʊnloʊd/
+    ipaUk: /ˈdaʊnləʊd/
+    syllables: down·load
+    stressPattern: '10'
+    subtopics: [internet]
+    senses:
+      - pos: VERB
+        definitionEn: To copy a file from the internet onto your own device.
+        definitionVi: Tải xuống; chép tệp từ internet về máy của mình.
+        examples:
+          - en: It took two minutes to download the whole album.
+            vi: Mất hai phút để tải xuống cả album.
+          - en: Do not download files from sites you do not trust.
+            vi: Đừng tải tệp từ những trang bạn không tin tưởng.
+        synonyms: [save]
+      - pos: NOUN
+        definitionEn: A file that has been copied from the internet.
+        definitionVi: Tệp đã tải xuống.
+        examples:
+          - en: The download finished while I was making coffee.
+            vi: Tệp tải xong trong lúc tôi pha cà phê.
+          - en: Check your downloads folder for the receipt.
+            vi: Kiểm tra thư mục tải xuống để tìm hoá đơn.
+
+  - lemma: password
+    cefr: A2
+    frequencyRank: 3800
+    ipaUs: /ˈpæswɜːrd/
+    ipaUk: /ˈpɑːswɜːd/
+    syllables: pass·word
+    stressPattern: '10'
+    subtopics: [cybersecurity]
+    senses:
+      - pos: NOUN
+        definitionEn: A secret set of characters that lets you into an account.
+        definitionVi: Mật khẩu; chuỗi ký tự bí mật để vào tài khoản.
+        examples:
+          - en: Please choose a password you have not used anywhere else.
+            vi: Hãy chọn một mật khẩu bạn chưa dùng ở nơi nào khác.
+          - en: He forgot the password and had to reset it.
+            vi: Anh ấy quên mật khẩu và phải đặt lại.
+
+  - lemma: algorithm
+    cefr: B2
+    frequencyRank: 7900
+    ipaUs: /ˈælɡərɪðəm/
+    ipaUk: /ˈælɡərɪðəm/
+    syllables: al·go·rithm
+    stressPattern: '100'
+    subtopics: [ai-data, programming]
+    senses:
+      - pos: NOUN
+        definitionEn: A set of steps a computer follows to solve a problem.
+        definitionVi: Thuật toán; các bước máy tính làm theo để giải một bài toán.
+        examples:
+          - en: The algorithm decides which posts you see first.
+            vi: Thuật toán quyết định bạn thấy bài đăng nào trước.
+          - en: A sorting algorithm puts the names in order.
+            vi: Một thuật toán sắp xếp đưa các tên vào đúng thứ tự.
+
+  - lemma: device
+    cefr: B1
+    frequencyRank: 2900
+    ipaUs: /dɪˈvaɪs/
+    ipaUk: /dɪˈvaɪs/
+    syllables: de·vice
+    stressPattern: '01'
+    subtopics: [computers, phones]
+    senses:
+      - pos: NOUN
+        definitionEn: A piece of equipment made for a particular purpose.
+        definitionVi: Thiết bị; món đồ được chế tạo cho một mục đích nhất định.
+        examples:
+          - en: You can sign in on up to three devices.
+            vi: Bạn có thể đăng nhập trên tối đa ba thiết bị.
+          - en: This app works on any device with a browser.
+            vi: Ứng dụng này chạy trên mọi thiết bị có trình duyệt.
+        synonyms: [gadget]
+
+  - lemma: encrypt
+    cefr: C1
+    frequencyRank: 11200
+    ipaUs: /ɪnˈkrɪpt/
+    ipaUk: /ɪnˈkrɪpt/
+    syllables: en·crypt
+    stressPattern: '01'
+    subtopics: [cybersecurity]
+    senses:
+      - pos: VERB
+        definitionEn: To change information into a code so others cannot read it.
+        definitionVi: Mã hoá; chuyển thông tin thành mã để người khác không đọc được.
+        examples:
+          - en: The app encrypts every message before it leaves your phone.
+            vi: Ứng dụng mã hoá mọi tin nhắn trước khi rời khỏi điện thoại của bạn.
+          - en: Encrypt the backup before you upload it.
+            vi: Hãy mã hoá bản sao lưu trước khi tải lên.
+
+  - lemma: browse
+    cefr: B1
+    frequencyRank: 6400
+    ipaUs: /braʊz/
+    ipaUk: /braʊz/
+    syllables: browse
+    stressPattern: '1'
+    subtopics: [internet]
+    senses:
+      - pos: VERB
+        definitionEn: To look through pages or items without a fixed goal.
+        definitionVi: Duyệt; xem lướt qua các trang hoặc mục mà không có mục đích cụ thể.
+        examples:
+          - en: I browse the news for ten minutes every morning.
+            vi: Tôi lướt tin tức mười phút mỗi sáng.
+          - en: She was browsing a shopping site when the power went out.
+            vi: Cô ấy đang duyệt một trang mua sắm thì mất điện.
+
+  - lemma: update
+    cefr: A2
+    frequencyRank: 2600
+    ipaUs: /ʌpˈdeɪt/
+    ipaUk: /ʌpˈdeɪt/
+    syllables: up·date
+    stressPattern: '01'
+    subtopics: [computers, phones]
+    senses:
+      - pos: VERB
+        definitionEn: To make something newer or more correct.
+        definitionVi: Cập nhật; làm cho thứ gì đó mới hơn hoặc đúng hơn.
+        examples:
+          - en: Update the app before you report the bug.
+            vi: Hãy cập nhật ứng dụng trước khi báo lỗi.
+          - en: They update the timetable every Monday.
+            vi: Họ cập nhật thời khoá biểu vào mỗi thứ Hai.
+      - pos: NOUN
+        definitionEn: A newer version, or a piece of new information.
+        definitionVi: Bản cập nhật; thông tin mới.
+        examples:
+          - en: The security update takes about a minute.
+            vi: Bản cập nhật bảo mật mất khoảng một phút.
+          - en: Any update on the delivery?
+            vi: Có tin gì mới về việc giao hàng không?
+
+  - lemma: storage
+    cefr: B1
+    frequencyRank: 5100
+    ipaUs: /ˈstɔːrɪdʒ/
+    ipaUk: /ˈstɔːrɪdʒ/
+    syllables: stor·age
+    stressPattern: '10'
+    subtopics: [computers, ai-data]
+    senses:
+      - pos: NOUN
+        definitionEn: Space where files or things are kept.
+        definitionVi: Bộ nhớ, kho lưu trữ; nơi giữ tệp hoặc đồ vật.
+        examples:
+          - en: My phone says storage is almost full.
+            vi: Điện thoại của tôi báo bộ nhớ gần đầy.
+          - en: Photos take up most of the storage on this laptop.
+            vi: Ảnh chiếm phần lớn dung lượng lưu trữ trên chiếc laptop này.
+
+  - lemma: upload
+    cefr: A2
+    frequencyRank: 6800
+    ipaUs: /ˈʌploʊd/
+    ipaUk: /ˈʌpləʊd/
+    syllables: up·load
+    stressPattern: '10'
+    subtopics: [internet]
+    senses:
+      - pos: VERB
+        definitionEn: To copy a file from your device onto the internet.
+        definitionVi: Tải lên; chép tệp từ máy của mình lên internet.
+        examples:
+          - en: Please upload your photo before Friday.
+            vi: Hãy tải ảnh của bạn lên trước thứ Sáu.
+          - en: The video took an hour to upload.
+            vi: Đoạn video mất một tiếng để tải lên.
+        antonyms: [download]
+
+  - lemma: software
+    cefr: A2
+    frequencyRank: 2400
+    ipaUs: /ˈsɔːftwer/
+    ipaUk: /ˈsɒftweə/
+    syllables: soft·ware
+    stressPattern: '10'
+    subtopics: [computers]
+    senses:
+      - pos: NOUN
+        definitionEn: The programs a computer runs, as opposed to its physical parts.
+        definitionVi: Phần mềm; các chương trình máy tính chạy, khác với phần cứng.
+        examples:
+          - en: The school bought new software for the language lab.
+            vi: Trường mua phần mềm mới cho phòng lab ngoại ngữ.
+          - en: This software works on both phones and laptops.
+            vi: Phần mềm này chạy được trên cả điện thoại lẫn máy tính xách tay.
+        antonyms: [hardware]
+
+  - lemma: hardware
+    cefr: B1
+    frequencyRank: 5100
+    ipaUs: /ˈhɑːrdwer/
+    ipaUk: /ˈhɑːdweə/
+    syllables: hard·ware
+    stressPattern: '10'
+    subtopics: [computers]
+    senses:
+      - pos: NOUN
+        definitionEn: The physical parts of a computer that you can touch.
+        definitionVi: Phần cứng; các bộ phận vật lý của máy tính mà ta sờ được.
+        examples:
+          - en: The problem is in the hardware, not the program.
+            vi: Vấn đề nằm ở phần cứng chứ không phải chương trình.
+          - en: Old hardware cannot run this game.
+            vi: Phần cứng cũ không chạy nổi trò chơi này.
+        antonyms: [software]
+
+  - lemma: network
+    cefr: B1
+    frequencyRank: 1900
+    ipaUs: /ˈnetwɜːrk/
+    ipaUk: /ˈnetwɜːk/
+    syllables: net·work
+    stressPattern: '10'
+    subtopics: [internet]
+    senses:
+      - pos: NOUN
+        definitionEn: A group of computers or people connected to each other.
+        definitionVi: Mạng lưới; nhóm máy tính hoặc con người kết nối với nhau.
+        examples:
+          - en: The office network went down for an hour.
+            vi: Mạng của văn phòng sập mất một tiếng.
+          - en: She built a network of contacts in the industry.
+            vi: Cô ấy xây dựng một mạng lưới quan hệ trong ngành.
+
+  - lemma: encryption
+    cefr: C1
+    frequencyRank: 16700
+    ipaUs: /ɪnˈkrɪpʃn̩/
+    ipaUk: /ɪnˈkrɪpʃn̩/
+    syllables: en·cryp·tion
+    stressPattern: '010'
+    subtopics: [cybersecurity]
+    senses:
+      - pos: NOUN
+        definitionEn: The process of turning information into a secret code.
+        definitionVi: Sự mã hoá; quá trình biến thông tin thành mã bí mật.
+        examples:
+          - en: The app uses strong encryption for every message.
+            vi: Ứng dụng dùng mã hoá mạnh cho mọi tin nhắn.
+          - en: Without encryption, anyone on the network could read it.
+            vi: Không có mã hoá, bất kỳ ai trên mạng cũng đọc được.
+
+  - lemma: hacker
+    cefr: B1
+    frequencyRank: 12900
+    ipaUs: /ˈhækər/
+    ipaUk: /ˈhækə/
+    syllables: hack·er
+    stressPattern: '10'
+    subtopics: [cybersecurity]
+    senses:
+      - pos: NOUN
+        definitionEn: A person who breaks into computer systems without permission.
+        definitionVi: Tin tặc; người xâm nhập hệ thống máy tính không được phép.
+        examples:
+          - en: A hacker stole thousands of email addresses.
+            vi: Một tin tặc đã đánh cắp hàng nghìn địa chỉ email.
+          - en: The bank hired a hacker to test its defences.
+            vi: Ngân hàng thuê một hacker để kiểm tra hệ thống phòng thủ.
+
+  - lemma: database
+    cefr: B2
+    frequencyRank: 4700
+    ipaUs: /ˈdeɪtəbeɪs/
+    ipaUk: /ˈdeɪtəbeɪs/
+    syllables: da·ta·base
+    stressPattern: '100'
+    subtopics: [ai-data, programming]
+    senses:
+      - pos: NOUN
+        definitionEn: An organised store of information that a computer can search.
+        definitionVi: Cơ sở dữ liệu; kho thông tin có tổ chức để máy tính tra cứu.
+        examples:
+          - en: Every order is saved in the database.
+            vi: Mọi đơn hàng đều được lưu trong cơ sở dữ liệu.
+          - en: The database holds ten years of weather records.
+            vi: Cơ sở dữ liệu lưu mười năm số liệu thời tiết.
+
+  - lemma: debug
+    cefr: B2
+    frequencyRank: 24500
+    ipaUs: /ˌdiːˈbʌɡ/
+    ipaUk: /ˌdiːˈbʌɡ/
+    syllables: de·bug
+    stressPattern: '01'
+    subtopics: [programming]
+    senses:
+      - pos: VERB
+        definitionEn: To find and remove mistakes from a computer program.
+        definitionVi: Gỡ lỗi; tìm và loại bỏ lỗi trong chương trình máy tính.
+        examples:
+          - en: It took two days to debug the payment page.
+            vi: Mất hai ngày để gỡ lỗi trang thanh toán.
+          - en: Write small functions and they are easier to debug.
+            vi: Viết hàm nhỏ thì dễ gỡ lỗi hơn.
+
+  - lemma: notification
+    cefr: B1
+    frequencyRank: 9600
+    ipaUs: /ˌnoʊtɪfɪˈkeɪʃn̩/
+    ipaUk: /ˌnəʊtɪfɪˈkeɪʃn̩/
+    syllables: no·ti·fi·ca·tion
+    stressPattern: '00010'
+    subtopics: [phones, social-media]
+    senses:
+      - pos: NOUN
+        definitionEn: A short message a device shows to tell you something happened.
+        definitionVi: Thông báo; tin nhắn ngắn thiết bị hiện lên để báo có việc gì đó.
+        examples:
+          - en: Turn off notifications while you study.
+            vi: Tắt thông báo khi bạn học bài.
+          - en: I missed the notification about the meeting.
+            vi: Tôi bỏ lỡ thông báo về cuộc họp.
+
+  - lemma: charger
+    cefr: A2
+    frequencyRank: 17800
+    ipaUs: /ˈtʃɑːrdʒər/
+    ipaUk: /ˈtʃɑːdʒə/
+    syllables: char·ger
+    stressPattern: '10'
+    subtopics: [phones]
+    senses:
+      - pos: NOUN
+        definitionEn: A device that puts electricity back into a battery.
+        definitionVi: Bộ sạc; thiết bị nạp điện lại cho pin.
+        examples:
+          - en: I left my charger at the hotel.
+            vi: Tôi để quên bộ sạc ở khách sạn.
+          - en: This charger fits both the phone and the tablet.
+            vi: Bộ sạc này dùng được cho cả điện thoại lẫn máy tính bảng.
+
+  - lemma: streaming
+    cefr: B1
+    frequencyRank: 10800
+    ipaUs: /ˈstriːmɪŋ/
+    ipaUk: /ˈstriːmɪŋ/
+    syllables: stream·ing
+    stressPattern: '10'
+    subtopics: [internet, social-media]
+    senses:
+      - pos: NOUN
+        definitionEn: Watching or listening to something over the internet as it plays.
+        definitionVi: Phát trực tuyến; xem hoặc nghe qua internet ngay khi đang phát.
+        examples:
+          - en: Streaming uses a lot of mobile data.
+            vi: Phát trực tuyến tốn rất nhiều dữ liệu di động.
+          - en: The concert is available for streaming tonight.
+            vi: Buổi hoà nhạc được phát trực tuyến tối nay.
+
+  - lemma: artificial
+    cefr: B2
+    frequencyRank: 3900
+    ipaUs: /ˌɑːrtɪˈfɪʃl̩/
+    ipaUk: /ˌɑːtɪˈfɪʃl̩/
+    syllables: ar·ti·fi·cial
+    stressPattern: '0010'
+    subtopics: [ai-data]
+    senses:
+      - pos: ADJECTIVE
+        definitionEn: Made by people rather than existing in nature.
+        definitionVi: Nhân tạo; do con người tạo ra chứ không có sẵn trong tự nhiên.
+        examples:
+          - en: Artificial intelligence can now write short stories.
+            vi: Trí tuệ nhân tạo hiện có thể viết truyện ngắn.
+          - en: The lake is artificial but the fish are real.
+            vi: Cái hồ là nhân tạo nhưng cá thì có thật.
+        antonyms: [natural]
+
+  - lemma: notify
+    cefr: B1
+    frequencyRank: 12500
+    ipaUs: /ˈnoʊtɪfaɪ/
+    ipaUk: /ˈnəʊtɪfaɪ/
+    syllables: no·ti·fy
+    stressPattern: '100'
+    subtopics: [phones, internet]
+    senses:
+      - pos: VERB
+        definitionEn: To tell someone officially about something.
+        definitionVi: Thông báo; báo chính thức cho ai đó biết việc gì.
+        examples:
+          - en: The app will notify you when the file is ready.
+            vi: Ứng dụng sẽ thông báo cho bạn khi tệp đã sẵn sàng.
+          - en: Please notify us if your address changes.
+            vi: Vui lòng thông báo cho chúng tôi nếu bạn đổi địa chỉ.
+
+  - lemma: bandwidth
+    cefr: B2
+    frequencyRank: 12600
+    ipaUs: /ˈbændwɪdθ/
+    ipaUk: /ˈbændwɪdθ/
+    syllables: band·width
+    stressPattern: '10'
+    subtopics: [internet]
+    senses:
+      - pos: NOUN
+        definitionEn: How much data a connection can carry at once.
+        definitionVi: Băng thông; lượng dữ liệu đường truyền tải được cùng lúc.
+        examples:
+          - en: Video calls use more bandwidth than messages.
+            vi: Gọi video tốn băng thông hơn nhắn tin.
+          - en: The office upgraded its bandwidth last month.
+            vi: Văn phòng nâng băng thông tháng trước.
+
+  - lemma: server
+    cefr: B1
+    frequencyRank: 4700
+    ipaUs: /ˈsɜːrvər/
+    ipaUk: /ˈsɜːvə/
+    syllables: serv·er
+    stressPattern: '10'
+    subtopics: [computers]
+    senses:
+      - pos: NOUN
+        definitionEn: A computer that stores files or runs services for other computers.
+        definitionVi: Máy chủ; máy tính lưu tệp hoặc chạy dịch vụ cho máy khác.
+        examples:
+          - en: The server went down for twenty minutes.
+            vi: Máy chủ sập mất hai mươi phút.
+          - en: All the photos are kept on a server in Singapore.
+            vi: Toàn bộ ảnh được lưu trên máy chủ ở Singapore.
+
+  - lemma: firewall
+    cefr: B2
+    frequencyRank: 13900
+    ipaUs: /ˈfaɪərwɔːl/
+    ipaUk: /ˈfaɪəwɔːl/
+    syllables: fire·wall
+    stressPattern: '10'
+    subtopics: [cybersecurity]
+    senses:
+      - pos: NOUN
+        definitionEn: A system that blocks unwanted network traffic.
+        definitionVi: Tường lửa; hệ thống chặn lưu lượng mạng không mong muốn.
+        examples:
+          - en: The firewall blocked the connection automatically.
+            vi: Tường lửa tự động chặn kết nối đó.
+          - en: Ask IT to open the port on the firewall.
+            vi: Nhờ bộ phận IT mở cổng trên tường lửa.
+
+  - lemma: backup
+    cefr: B1
+    frequencyRank: 8200
+    ipaUs: /ˈbækʌp/
+    ipaUk: /ˈbækʌp/
+    syllables: back·up
+    stressPattern: '10'
+    subtopics: [computers]
+    senses:
+      - pos: NOUN
+        definitionEn: A spare copy of files kept in case the original is lost.
+        definitionVi: Bản sao lưu; bản dự phòng phòng khi mất bản gốc.
+        examples:
+          - en: Luckily I had a backup from Sunday.
+            vi: May là tôi có bản sao lưu từ Chủ nhật.
+          - en: The backup runs automatically every night.
+            vi: Việc sao lưu chạy tự động mỗi đêm.
+
+  - lemma: bug
+    cefr: A2
+    frequencyRank: 6700
+    ipaUs: /bʌɡ/
+    ipaUk: /bʌɡ/
+    syllables: bug
+    stressPattern: '1'
+    subtopics: [programming]
+    senses:
+      - pos: NOUN
+        definitionEn: A mistake in a program that makes it behave wrongly.
+        definitionVi: Lỗi phần mềm; sai sót khiến chương trình chạy sai.
+        examples:
+          - en: We found the bug after three hours.
+            vi: Chúng tôi tìm ra lỗi sau ba tiếng.
+          - en: This bug only appears on old phones.
+            vi: Lỗi này chỉ xuất hiện trên điện thoại đời cũ.
+
+  - lemma: interface
+    cefr: B2
+    frequencyRank: 7900
+    ipaUs: /ˈɪntərfeɪs/
+    ipaUk: /ˈɪntəfeɪs/
+    syllables: in·ter·face
+    stressPattern: '100'
+    subtopics: [programming]
+    senses:
+      - pos: NOUN
+        definitionEn: The part of a system a person or another program interacts with.
+        definitionVi: Giao diện; phần mà người dùng hoặc chương trình khác tương tác.
+        examples:
+          - en: The new interface is much easier for beginners.
+            vi: Giao diện mới dễ dùng hơn nhiều với người mới.
+          - en: Two apps talk to each other through this interface.
+            vi: Hai ứng dụng nói chuyện với nhau qua giao diện này.
+
+  - lemma: subscribe
+    cefr: B1
+    frequencyRank: 7100
+    ipaUs: /səbˈskraɪb/
+    ipaUk: /səbˈskraɪb/
+    syllables: sub·scribe
+    stressPattern: '01'
+    subtopics: [social-media]
+    senses:
+      - pos: VERB
+        definitionEn: To pay regularly for a service, or to follow a channel.
+        definitionVi: Đăng ký; trả tiền định kỳ cho dịch vụ, hoặc theo dõi một kênh.
+        examples:
+          - en: I subscribe to two news apps.
+            vi: Tôi đăng ký hai ứng dụng tin tức.
+          - en: Subscribe if you want a reminder each week.
+            vi: Đăng ký nếu bạn muốn nhận nhắc hằng tuần.
+
+  - lemma: install
+    cefr: A2
+    frequencyRank: 4300
+    ipaUs: /ɪnˈstɔːl/
+    ipaUk: /ɪnˈstɔːl/
+    syllables: in·stall
+    stressPattern: '01'
+    subtopics: [computers]
+    senses:
+      - pos: VERB
+        definitionEn: To put a program onto a device so it can be used.
+        definitionVi: Cài đặt; đưa chương trình vào thiết bị để dùng được.
+        examples:
+          - en: Install the app before the meeting starts.
+            vi: Cài ứng dụng trước khi cuộc họp bắt đầu.
+          - en: It took ten minutes to install the update.
+            vi: Mất mười phút để cài bản cập nhật.
+
+  - lemma: crash
+    cefr: B1
+    frequencyRank: 5900
+    ipaUs: /kræʃ/
+    ipaUk: /kræʃ/
+    syllables: crash
+    stressPattern: '1'
+    subtopics: [computers]
+    senses:
+      - pos: VERB
+        definitionEn: To stop working suddenly, of a program or computer.
+        definitionVi: Sập, treo; chương trình hoặc máy tính đột ngột ngừng chạy.
+        examples:
+          - en: The app crashes every time I open a large file.
+            vi: Ứng dụng treo mỗi lần tôi mở tệp lớn.
+          - en: My laptop crashed and I lost the draft.
+            vi: Máy tính tôi sập và mất bản nháp.
+
+  - lemma: wireless
+    cefr: A2
+    frequencyRank: 6400
+    ipaUs: /ˈwaɪərləs/
+    ipaUk: /ˈwaɪələs/
+    syllables: wire·less
+    stressPattern: '10'
+    subtopics: [internet]
+    senses:
+      - pos: ADJECTIVE
+        definitionEn: Working without cables, using radio signals.
+        definitionVi: Không dây; hoạt động bằng sóng thay vì dây cáp.
+        examples:
+          - en: The printer is wireless, so you can print from your phone.
+            vi: Máy in không dây nên bạn in được từ điện thoại.
+          - en: Wireless headphones need charging every few days.
+            vi: Tai nghe không dây cần sạc vài ngày một lần.
+
+  - lemma: privacy
+    cefr: B1
+    frequencyRank: 4100
+    ipaUs: /ˈpraɪvəsi/
+    ipaUk: /ˈprɪvəsi/
+    syllables: pri·va·cy
+    stressPattern: '100'
+    subtopics: [cybersecurity]
+    senses:
+      - pos: NOUN
+        definitionEn: Keeping personal information away from other people.
+        definitionVi: Quyền riêng tư; giữ thông tin cá nhân không cho người khác biết.
+        examples:
+          - en: Read the privacy settings before you sign up.
+            vi: Đọc phần cài đặt riêng tư trước khi đăng ký.
+          - en: The app collects more data than privacy rules allow.
+            vi: Ứng dụng thu thập nhiều dữ liệu hơn quy định về riêng tư cho phép.
+
+  - lemma: automate
+    cefr: B2
+    frequencyRank: 12100
+    ipaUs: /ˈɔːtəmeɪt/
+    ipaUk: /ˈɔːtəmeɪt/
+    syllables: au·to·mate
+    stressPattern: '100'
+    subtopics: [ai-data]
+    senses:
+      - pos: VERB
+        definitionEn: To make a task run by machine instead of by hand.
+        definitionVi: Tự động hoá; để máy làm thay vì làm thủ công.
+        examples:
+          - en: We automated the weekly report last year.
+            vi: Năm ngoái chúng tôi tự động hoá báo cáo hằng tuần.
+          - en: Automating this saves two hours a day.
+            vi: Tự động hoá việc này tiết kiệm hai tiếng mỗi ngày.
+
+  - lemma: dataset
+    cefr: B2
+    frequencyRank: 14200
+    ipaUs: /ˈdeɪtəset/
+    ipaUk: /ˈdeɪtəset/
+    syllables: da·ta·set
+    stressPattern: '100'
+    subtopics: [ai-data]
+    senses:
+      - pos: NOUN
+        definitionEn: A collection of related data used for analysis or training.
+        definitionVi: Tập dữ liệu; bộ dữ liệu liên quan dùng để phân tích hoặc huấn luyện.
+        examples:
+          - en: The model was trained on a dataset of ten million sentences.
+            vi: Mô hình được huấn luyện trên tập dữ liệu mười triệu câu.
+          - en: Clean the dataset before you draw any conclusion.
+            vi: Làm sạch tập dữ liệu trước khi rút ra kết luận nào.
+
+  - lemma: cloud
+    cefr: B1
+    frequencyRank: 3800
+    ipaUs: /klaʊd/
+    ipaUk: /klaʊd/
+    syllables: cloud
+    stressPattern: '1'
+    subtopics: [internet]
+    senses:
+      - pos: NOUN
+        definitionEn: Storage and computing power provided over the internet.
+        definitionVi: Đám mây; nơi lưu trữ và xử lý dữ liệu qua internet.
+        examples:
+          - en: All our documents live in the cloud now.
+            vi: Toàn bộ tài liệu của chúng tôi giờ nằm trên đám mây.
+          - en: Moving to the cloud cut our hardware costs.
+            vi: Chuyển lên đám mây giúp giảm chi phí phần cứng.
+
+  - lemma: computer
+    cefr: A1
+    ipaUs: /kəmˈpjuːtər/
+    senses:
+      - pos: NOUN
+        definitionEn: An electronic device for storing and processing data.
+        definitionVi: máy tính
+        examples:
+          - en: He uses his computer every evening to finish his office work.
+            vi: Anh ấy sử dụng máy tính mỗi tối để hoàn thành công việc văn phòng.
+          - en: The old computer crashed right before I could save my presentation.
+            vi: Chiếc máy tính cũ bị treo ngay trước khi tôi kịp lưu bài thuyết trình.
+  - lemma: laptop
+    cefr: A1
+    ipaUs: /ˈlæpˌtɑp/
+    senses:
+      - pos: NOUN
+        definitionEn: A portable personal computer with a screen and keyboard.
+        definitionVi: máy tính xách tay
+        examples:
+          - en: She packed her laptop into the backpack before heading to the cafe.
+            vi: Cô ấy đã cất máy tính xách tay vào ba lô trước khi đến quán cà phê.
+          - en: My laptop battery usually lasts for about six hours of continuous typing.
+            vi: Pin máy tính xách tay của tôi thường kéo dài khoảng sáu giờ gõ phím liên tục.
+  - lemma: desktop
+    cefr: A2
+    ipaUs: /ˈdɛskˌtɑp/
+    senses:
+      - pos: NOUN
+        definitionEn: A personal computer designed for regular use at a desk.
+        definitionVi: máy tính để bàn
+        examples:
+          - en: He prefers a desktop for playing heavy video games after school hours.
+            vi: Cậu ấy thích dùng máy tính để bàn để chơi các trò chơi nặng sau giờ học.
+          - en: The IT department installed new desktop units in the main accounting office.
+            vi: Bộ phận IT đã lắp đặt các máy tính để bàn mới tại phòng kế toán chính.
+  - lemma: tablet
+    cefr: A2
+    ipaUs: /ˈtæblət/
+    senses:
+      - pos: NOUN
+        definitionEn: A small compressed disc of medicine that dissolves or is swallowed.
+        definitionVi: viên thuốc nén
+        examples:
+          - en: Dissolve the effervescent tablet in a glass of cold water before drinking it.
+            vi: Hòa tan viên thuốc sủi bọt trong một cốc nước lạnh trước khi uống nó.
+          - en: The doctor prescribed one pain-relief tablet every six hours as needed.
+            vi: Bác sĩ kê đơn một viên thuốc giảm đau cứ sau sáu giờ khi cần thiết.
+  - lemma: smartphone
+    cefr: A2
+    ipaUs: /ˈsmɑrtˌfoʊn/
+    senses:
+      - pos: NOUN
+        definitionEn: A mobile phone that performs many functions of a computer.
+        definitionVi: điện thoại thông minh
+        examples:
+          - en: Almost everyone carries a smartphone to stay connected with friends and family.
+            vi: Hầu như mọi người đều mang theo điện thoại thông minh để giữ liên lạc với bạn bè.
+          - en: He dropped his smartphone on the concrete floor and cracked the glass.
+            vi: Anh ấy đánh rơi điện thoại thông minh xuống sàn bê tông và làm nứt mặt kính.
+  - lemma: keyboard
+    cefr: A1
+    ipaUs: /ˈkiːˌbɔrd/
+    senses:
+      - pos: NOUN
+        definitionEn: A panel of keys used to operate a computer.
+        definitionVi: bàn phím
+        examples:
+          - en: She bought a mechanical keyboard because she loves the satisfying typing sound.
+            vi: Cô ấy đã mua một bàn phím cơ vì thích âm thanh gõ phím thú vị đó.
+          - en: Dust and crumbs can easily get stuck between the keys of your keyboard.
+            vi: Bụi và vụn bánh mì có thể dễ dàng kẹt giữa các phím trên bàn phím của bạn.
+  - lemma: mouse
+    cefr: A1
+    ipaUs: /maʊs/
+    senses:
+      - pos: NOUN
+        definitionEn: A hand-held device used to control a computer cursor.
+        definitionVi: chuột máy tính
+        examples:
+          - en: He moved the wireless mouse across the pad to click the link.
+            vi: Anh ấy di chuyển con chuột không dây trên tấm lót để nhấp vào liên kết.
+          - en: The computer mouse stopped working because the batteries ran completely out today.
+            vi: Con chuột máy tính đã ngừng hoạt động vì pin đã cạn kiệt hoàn toàn hôm nay.
+  - lemma: monitor
+    cefr: A2
+    ipaUs: /ˈmɑnətər/
+    senses:
+      - pos: NOUN
+        definitionEn: An output device that displays information in pictorial form.
+        definitionVi: màn hình
+        examples:
+          - en: He adjusted the height of his monitor to prevent neck pain today.
+            vi: Anh ấy đã điều chỉnh độ cao của màn hình để tránh đau cổ ngày hôm nay.
+          - en: The large curved monitor provides an immersive experience for graphic design tasks.
+            vi: Màn hình cong lớn mang lại trải nghiệm đắm chìm cho các công việc thiết kế đồ họa.
+  - lemma: screen
+    cefr: A1
+    ipaUs: /skriːn/
+    senses:
+      - pos: NOUN
+        definitionEn: The flat surface on an electronic device where images appear.
+        definitionVi: màn hình
+        examples:
+          - en: Please clean the dusty screen with a soft microfiber cloth right now.
+            vi: Vui lòng làm sạch màn hình đầy bụi bằng một chiếc khăn sợi nhỏ mềm ngay.
+          - en: Staring at a bright screen for too long can strain your eyes.
+            vi: Nhìn chằm chằm vào một màn hình sáng quá lâu có thể làm mỏi mắt bạn.
+  - lemma: printer
+    cefr: A2
+    ipaUs: /ˈprɪntər/
+    senses:
+      - pos: NOUN
+        definitionEn: A machine for printing text or pictures onto paper.
+        definitionVi: máy in
+        examples:
+          - en: The office printer ran out of black ink during an important meeting.
+            vi: Máy in văn phòng đã hết mực đen trong một cuộc họp quan trọng.
+          - en: She walked over to the shared printer to collect her printed documents.
+            vi: Cô ấy bước tới máy in chung để lấy các tài liệu đã in của mình.
+  - lemma: scanner
+    cefr: B1
+    ipaUs: /ˈskænər/
+    senses:
+      - pos: NOUN
+        definitionEn: A device that scans documents and converts them to digital data.
+        definitionVi: máy quét
+        examples:
+          - en: He used the office scanner to digitize his old family photo albums.
+            vi: Anh ấy đã dùng máy quét văn phòng để số hóa album ảnh gia đình cũ.
+          - en: The document scanner quickly converted paper contracts into PDF files for emailing.
+            vi: Máy quét tài liệu nhanh chóng chuyển đổi hợp đồng giấy thành tệp PDF để gửi email.
+  - lemma: webcam
+    cefr: B1
+    ipaUs: /ˈwɛbˌkæm/
+    senses:
+      - pos: NOUN
+        definitionEn: A video camera connected to a computer for live streaming.
+        definitionVi: webcam
+        examples:
+          - en: Make sure your webcam is turned on during the virtual team meeting.
+            vi: Hãy chắc chắn rằng webcam của bạn được bật trong cuộc họp nhóm trực tuyến.
+          - en: The built-in laptop webcam produced a grainy image in low light conditions.
+            vi: Webcam máy tính xách tay tích hợp tạo ra hình ảnh hạt trong điều kiện ánh sáng yếu.
+  - lemma: microphone
+    cefr: B1
+    ipaUs: /ˈmaɪkrəˌfoʊn/
+    senses:
+      - pos: NOUN
+        definitionEn: An instrument for converting sound waves into electrical signals.
+        definitionVi: micrô
+        examples:
+          - en: Please mute your microphone when you are not speaking during lectures.
+            vi: Vui lòng tắt tiếng microphone của bạn khi bạn không nói chuyện trong các bài giảng.
+          - en: He tested the studio microphone before recording his weekly podcast episode tonight.
+            vi: Anh ấy đã thử nghiệm microphone phòng thu trước khi ghi âm tập podcast hàng tuần.
+  - lemma: touchscreen
+    cefr: B1
+    ipaUs: /ˈtʌtʃˌskriːn/
+    senses:
+      - pos: NOUN
+        definitionEn: A display screen that is sensitive to the touch of a finger.
+        definitionVi: màn hình cảm ứng
+        examples:
+          - en: Modern laptops often feature a responsive touchscreen for easier document navigation.
+            vi: Máy tính xách tay hiện đại thường có màn hình cảm ứng nhạy để điều hướng tài liệu.
+          - en: Wipe the greasy fingerprints off the smartphone touchscreen using a soft cloth.
+            vi: Lau sạch các dấu vân tay nhờ nhờ trên màn hình cảm ứng điện thoại bằng khăn mềm.
+  - lemma: speaker
+    cefr: A2
+    ipaUs: /ˈspiːkər/
+    senses:
+      - pos: NOUN
+        definitionEn: A transducer that converts electrical signals into audio sound.
+        definitionVi: loa
+        examples:
+          - en: Turn up the bluetooth speaker volume so everyone can hear the song.
+            vi: Vặn to âm lượng loa bluetooth để mọi người đều có thể nghe thấy bài hát.
+          - en: One wireless speaker stopped working because moisture got inside the plastic casing.
+            vi: Một chiếc loa không dây đã ngừng hoạt động vì hơi ẩm lọt vào vỏ nhựa.
+  - lemma: headphones
+    cefr: A2
+    ipaUs: /ˈhɛdˌfoʊnz/
+    senses:
+      - pos: NOUN
+        definitionEn: A pair of small speakers worn over the ears to listen to audio.
+        definitionVi: tai nghe
+        examples:
+          - en: He wears his headphones while listening to music during work.
+            vi: Anh ấy đeo tai nghe trong khi nghe nhạc lúc làm việc.
+          - en: She forgot her headphones at home before catching the train.
+            vi: Cô ấy quên tai nghe ở nhà trước khi lên tàu.
+  - lemma: router
+    cefr: B1
+    ipaUs: /ˈraʊtər/
+    senses:
+      - pos: NOUN
+        definitionEn: A device that forwards data packets between computer networks.
+        definitionVi: bộ định tuyến
+        examples:
+          - en: Reset the internet router by unplugging the power cable for one minute.
+            vi: Khởi động lại bộ định tuyến internet bằng cách rút cáp nguồn trong một phút.
+          - en: Place the Wi-Fi router in a central location for better signal coverage.
+            vi: Đặt bộ định tuyến Wi-Fi ở vị trí trung tâm để có vùng phủ sóng tín hiệu tốt hơn.
+  - lemma: modem
+    cefr: B1
+    ipaUs: /ˈmoʊdəm/
+    senses:
+      - pos: NOUN
+        definitionEn: A device that modulates signals to encode and decode data.
+        definitionVi: modem
+        examples:
+          - en: The broadband modem connects our home network to the worldwide internet service.
+            vi: Modem băng thông rộng kết nối mạng gia đình chúng ta với dịch vụ internet toàn cầu.
+          - en: Indicator lights on the cable modem show whether the connection is stable.
+            vi: Đèn báo trên modem cáp hiển thị kết nối có ổn định hay không.
+  - lemma: processor
+    cefr: B2
+    ipaUs: /ˈprɑˌsɛsər/
+    senses:
+      - pos: NOUN
+        definitionEn: The central processing unit that executes instructions in a computer.
+        definitionVi: bộ xử lý
+        examples:
+          - en: A fast processor helps your computer run multiple heavy applications smoothly now.
+            vi: Bộ xử lý nhanh giúp máy tính của bạn chạy nhiều ứng dụng nặng mượt mà bây giờ.
+          - en: The upgraded computer processor handles 3D rendering tasks much faster than before.
+            vi: Bộ xử lý máy tính nâng cấp xử lý các tác vụ dựng hình 3D nhanh hơn nhiều.
+  - lemma: motherboard
+    cefr: B2
+    ipaUs: /ˈmʌðərˌbɔrd/
+    senses:
+      - pos: NOUN
+        definitionEn: The main printed circuit board in a complex electronic system.
+        definitionVi: bo mạch chủ
+        examples:
+          - en: The technician replaced the faulty motherboard inside the custom-built gaming computer.
+            vi: Kỹ thuật viên đã thay thế bo mạch chủ bị lỗi bên trong máy tính chơi game.
+          - en: Every major hardware component connects directly to the central computer motherboard layout.
+            vi: Mọi linh kiện phần cứng chính kết nối trực tiếp với bố cục bo mạch chủ máy tính.
+  - lemma: microchip
+    cefr: B2
+    ipaUs: /ˈmaɪ.kroʊ.tʃɪp/
+    senses:
+      - pos: NOUN
+        definitionEn: A tiny piece of silicon with electronic circuits used in computers and devices.
+        definitionVi: Vi mạch
+        examples:
+          - en: This modern smartphone contains a powerful microchip for fast data processing.
+            vi: Chiếc điện thoại thông minh hiện đại này chứa một vi mạch mạnh mẽ để xử lý dữ liệu nhanh chóng.
+          - en: Engineers designed a new microchip to improve the artificial intelligence system.
+            vi: Các kỹ sư đã thiết kế một vi mạch mới để cải thiện hệ thống trí tuệ nhân tạo.
+  - lemma: sensor
+    cefr: B1
+    ipaUs: /ˈsɛn.sər/
+    senses:
+      - pos: NOUN
+        definitionEn: A device that detects physical changes and measures them.
+        definitionVi: Cảm biến
+        examples:
+          - en: The motion sensor automatically turns on the hallway lights at night.
+            vi: Cảm biến chuyển động tự động bật đèn hành lang vào ban đêm.
+          - en: A temperature sensor helps regulate the cooling system in the car engine.
+            vi: Cảm biến nhiệt độ giúp điều chỉnh hệ thống làm mát trong động cơ ô tô.
+  - lemma: drone
+    cefr: B2
+    ipaUs: /droʊn/
+    senses:
+      - pos: NOUN
+        definitionEn: An unmanned aircraft controlled remotely by a pilot or computer.
+        definitionVi: Máy bay không người lái
+        examples:
+          - en: The delivery company tested a drone to send packages across the city.
+            vi: Công ty giao hàng đã thử nghiệm một máy bay không người lái để gửi bưu phẩm qua thành phố.
+          - en: Photographers use a drone to capture stunning landscape shots from high above.
+            vi: Các nhiếp ảnh gia sử dụng máy bay không người lái để ghi lại những khung cảnh thiên nhiên tuyệt
+              đẹp từ trên cao.
+  - lemma: robotics
+    cefr: B2
+    ipaUs: /roʊˈbɑː.tɪks/
+    senses:
+      - pos: NOUN
+        definitionEn: The branch of technology that deals with the design and operation of robots.
+        definitionVi: Kỹ thuật người máy
+        examples:
+          - en: Students in the engineering class study robotics to build automated machines.
+            vi: Học sinh trong lớp kỹ thuật học về kỹ thuật người máy để chế tạo các cỗ máy tự động.
+          - en: Advances in robotics have transformed modern manufacturing and assembly line work.
+            vi: Những tiến bộ trong kỹ thuật người máy đã làm thay đổi công việc sản xuất và lắp ráp hiện đại.
+  - lemma: browser
+    cefr: B1
+    ipaUs: /ˈbraʊ.zɚ/
+    senses:
+      - pos: NOUN
+        definitionEn: A software program used to access and view websites on the internet.
+        definitionVi: Trình duyệt web
+        examples:
+          - en: Open your preferred web browser to search for information on the internet.
+            vi: Hãy mở trình duyệt web ưa thích của bạn để tìm kiếm thông tin trên internet.
+          - en: This browser blocks annoying pop-up advertisements while you read online articles.
+            vi: Trình duyệt này chặn các quảng cáo bật lên phiền toái khi bạn đọc bài báo trực tuyến.
+  - lemma: website
+    cefr: A2
+    ipaUs: /ˈwɛb.saɪt/
+    senses:
+      - pos: NOUN
+        definitionEn: A set of related web pages located under a single domain name.
+        definitionVi: Trang web
+        examples:
+          - en: Visit our official website to learn more about the upcoming technology conference.
+            vi: Hãy truy cập trang web chính thức của chúng tôi để tìm hiểu thêm về hội nghị công nghệ sắp tới.
+          - en: The company redesigned its website to provide a better user experience.
+            vi: Công ty đã thiết kế lại trang web của mình để mang lại trải nghiệm người dùng tốt hơn.
+  - lemma: webpage
+    cefr: A2
+    ipaUs: /ˈwɛb.peɪdʒ/
+    senses:
+      - pos: NOUN
+        definitionEn: A single document connected to the World Wide Web and viewed in a browser.
+        definitionVi: Trang điện tử
+        examples:
+          - en: Please refresh this webpage if the content does not load correctly.
+            vi: Vui lòng tải lại trang điện tử này nếu nội dung không hiển thị chính xác.
+          - en: The user saved the webpage as a PDF file for offline reading.
+            vi: Người dùng đã lưu trang điện tử thành tệp PDF để đọc ngoại tuyến.
+  - lemma: link
+    cefr: A2
+    ipaUs: /lɪŋk/
+    senses:
+      - pos: NOUN
+        definitionEn: A reference to data that the user can follow by clicking or tapping.
+        definitionVi: Liên kết
+        examples:
+          - en: Click on the secure link to verify your account details immediately.
+            vi: Nhấp vào liên kết bảo mật để xác minh chi tiết tài khoản của bạn ngay lập tức.
+          - en: She shared a useful link in the chat box for everyone to review.
+            vi: Cô ấy đã chia sẻ một liên kết hữu ích trong hộp trò chuyện để mọi người cùng xem xét.
+  - lemma: tab
+    cefr: B1
+    ipaUs: /tæb/
+    senses:
+      - pos: NOUN
+        definitionEn: A small interface element that lets users open multiple pages in one window.
+        definitionVi: Thẻ trình duyệt
+        examples:
+          - en: I usually keep too many tabs open while researching for my project.
+            vi: Tôi thường mở quá nhiều thẻ trong khi tìm kiếm tài liệu cho dự án của mình.
+          - en: Press control and click to open the article in a new tab.
+            vi: Nhấn phím điều khiển và nhấp để mở bài báo trong một thẻ mới.
+  - lemma: search
+    cefr: A2
+    ipaUs: /sɜːrtʃ/
+    senses:
+      - pos: VERB
+        definitionEn: To look for information in a database or on the internet.
+        definitionVi: Tìm kiếm
+        examples:
+          - en: You can search for any academic article using the digital library system.
+            vi: Bạn có thể tìm kiếm bất kỳ bài báo học thuật nào bằng hệ thống thư viện số.
+          - en: Engineers search online databases to find solutions for coding errors.
+            vi: Các kỹ sư tìm kiếm cơ sở dữ liệu trực tuyến để tìm giải pháp cho các lỗi lập trình.
+  - lemma: cookie
+    cefr: B1
+    ipaUs: /ˈkʊk.i/
+    senses:
+      - pos: NOUN
+        definitionEn: A small piece of data sent from a website and stored on the user's computer.
+        definitionVi: Tệp cookie
+        examples:
+          - en: This website uses a cookie to remember your personal login preferences.
+            vi: Trang web này sử dụng tệp cookie để ghi nhớ các tùy chọn đăng nhập cá nhân của bạn.
+          - en: You can clear your browser data and every cookie through settings.
+            vi: Bạn có thể xóa dữ liệu trình duyệt và mọi tệp cookie thông qua phần cài đặt.
+  - lemma: cache
+    cefr: B2
+    ipaUs: /kæʃ/
+    senses:
+      - pos: NOUN
+        definitionEn: A hardware or software component that stores data for fast future requests.
+        definitionVi: Bộ nhớ đệm
+        examples:
+          - en: Clearing the browser cache often resolves strange loading issues on web pages.
+            vi: Xóa bộ nhớ đệm của trình duyệt thường giải quyết được các sự cố tải kỳ lạ trên trang web.
+          - en: The app saves temporary files in the cache to improve overall operating speed.
+            vi: Ứng dụng lưu các tệp tạm thời trong bộ nhớ đệm để cải thiện tốc độ hoạt động tổng thể.
+  - lemma: session
+    cefr: B2
+    ipaUs: /ˈsɛʃ.ən/
+    senses:
+      - pos: NOUN
+        definitionEn: A period of interaction between a user and a computer system or network.
+        definitionVi: Phiên làm việc
+        examples:
+          - en: Your active session will expire automatically after fifteen minutes of inactivity.
+            vi: Phiên làm việc hoạt động của bạn sẽ tự động hết hạn sau mười lăm phút không hoạt động.
+          - en: The banking system terminated the online session for security reasons.
+            vi: Hệ thống ngân hàng đã chấm dứt phiên làm việc trực tuyến vì lý do bảo mật.
+  - lemma: account
+    cefr: A1
+    ipaUs: /əˈkaʊnt/
+    senses:
+      - pos: NOUN
+        definitionEn: An arrangement with a service that allows access to a computer system or network.
+        definitionVi: Tài khoản
+        examples:
+          - en: Create a new account by providing your valid email address and password.
+            vi: Tạo một tài khoản mới bằng cách cung cấp địa chỉ email hợp lệ và mật khẩu của bạn.
+          - en: She forgot her password and could not access her personal cloud account.
+            vi: Cô ấy đã quên mật khẩu và không thể truy cập vào tài khoản đám mây cá nhân của mình.
+  - lemma: login
+    cefr: A2
+    ipaUs: /ˈlɑː.ɡɪn/
+    senses:
+      - pos: NOUN
+        definitionEn: The credentials or process used to gain access to a computer system.
+        definitionVi: Đăng nhập
+        examples:
+          - en: Enter your correct login credentials to access the internal corporate network.
+            vi: Nhập thông tin đăng nhập chính xác của bạn để truy cập mạng nội bộ của công ty.
+          - en: The system prompted an error message because the login details were wrong.
+            vi: Hệ thống đã bật thông báo lỗi vì chi tiết đăng nhập không đúng.
+  - lemma: logout
+    cefr: A2
+    ipaUs: /ˈlɑː.ɡaʊt/
+    senses:
+      - pos: NOUN
+        definitionEn: The act of ending a session or signing out of a computer system.
+        definitionVi: Đăng xuất
+        examples:
+          - en: Always perform a secure logout when using public library computers.
+            vi: Luôn thực hiện đăng xuất an toàn khi sử dụng máy tính thư viện công cộng.
+          - en: The automatic logout feature protects user data from unauthorized access.
+            vi: Tính năng đăng xuất tự động bảo vệ dữ liệu người dùng khỏi sự truy cập trái phép.
+  - lemma: username
+    cefr: A2
+    ipaUs: /ˈjɝː.zoʊ.neɪm/
+    senses:
+      - pos: NOUN
+        definitionEn: A unique name used by a particular person to access a computer system.
+        definitionVi: Tên người dùng
+        examples:
+          - en: Please choose a unique username that other people have not taken yet.
+            vi: Vui lòng chọn một tên người dùng độc nhất mà người khác chưa sử dụng.
+          - en: He entered his custom username and password to join the gaming platform.
+            vi: Anh ấy đã nhập tên người dùng và mật khẩu tùy chỉnh của mình để tham gia nền tảng trò chơi.
+  - lemma: email
+    cefr: A1
+    ipaUs: /ˈiː.meɪl/
+    senses:
+      - pos: NOUN
+        definitionEn: Messages distributed by electronic means from one computer user to another.
+        definitionVi: Thư điện tử
+        examples:
+          - en: Send an email to the technical support team regarding the broken software.
+            vi: Gửi một thư điện tử tới đội ngũ hỗ trợ kỹ thuật về phần mềm bị hỏng.
+          - en: I check my email every morning to read important professional messages.
+            vi: Tôi kiểm tra thư điện tử của mình mỗi sáng để đọc các tin nhắn công việc quan trọng.
+  - lemma: message
+    cefr: A1
+    ipaUs: /ˈmɛs.ɪdʒ/
+    senses:
+      - pos: NOUN
+        definitionEn: A digital communication sent from one person or system to another.
+        definitionVi: Tin nhắn
+        examples:
+          - en: The system sent an automated message confirming your successful software purchase.
+            vi: Hệ thống đã gửi một tin nhắn tự động xác nhận việc mua phần mềm thành công của bạn.
+          - en: She received a text message containing the two-factor authentication code.
+            vi: Cô ấy đã nhận được một tin nhắn văn bản chứa mã xác thực hai yếu tố.
+  - lemma: inbox
+    cefr: A2
+    ipaUs: /ˈɪn.bɑːk/
+    senses:
+      - pos: NOUN
+        definitionEn: The primary folder where incoming electronic messages or emails are received.
+        definitionVi: Hộp thư đến
+        examples:
+          - en: Check your inbox for the confirmation link sent by the web service.
+            vi: Kiểm tra hộp thư đến của bạn để tìm liên kết xác nhận do dịch vụ web gửi.
+          - en: Unread emails in his inbox accumulated quickly while he was on vacation.
+            vi: Các email chưa đọc trong hộp thư đến của anh ấy tích tụ nhanh chóng khi anh ấy đi nghỉ.
+  - lemma: file
+    cefr: A2
+    ipaUs: /faɪl/
+    senses:
+      - pos: NOUN
+        definitionEn: A collection of data stored under one name on a computer.
+        definitionVi: tệp tin
+        examples:
+          - en: Please save the report as a PDF file.
+            vi: Vui lòng lưu báo cáo dưới dạng tệp PDF.
+          - en: I cannot open this corrupted file on my desktop.
+            vi: Tôi không thể mở tệp bị hỏng này trên máy tính.
+  - lemma: folder
+    cefr: A2
+    ipaUs: /ˈfoʊldər/
+    senses:
+      - pos: NOUN
+        definitionEn: A directory used to organize documents and files on a computer.
+        definitionVi: thư mục
+        examples:
+          - en: Create a new folder for your project photos.
+            vi: Tạo một thư mục mới cho các bức ảnh dự án của bạn.
+          - en: All my tax documents are in that folder.
+            vi: Tất cả tài liệu thuế của tôi đều ở trong thư mục đó.
+  - lemma: document
+    cefr: A2
+    ipaUs: /ˈdɑːkjumənt/
+    senses:
+      - pos: NOUN
+        definitionEn: A piece of written text saved electronically for work or study.
+        definitionVi: tài liệu
+        examples:
+          - en: She typed the important document before the meeting.
+            vi: Cô ấy đã đánh máy tài liệu quan trọng trước cuộc họp.
+          - en: Send the signed document back via email today.
+            vi: Hãy gửi lại tài liệu đã ký qua email hôm nay.
+  - lemma: image
+    cefr: A2
+    ipaUs: /ˈɪmɪdʒ/
+    senses:
+      - pos: NOUN
+        definitionEn: A visual representation of something stored in a digital format.
+        definitionVi: hình ảnh
+        examples:
+          - en: Upload a high-resolution image to the website banner.
+            vi: Tải lên một hình ảnh có độ phân giải cao cho biểu ngữ trang web.
+          - en: This image file is too large to send.
+            vi: Tệp hình ảnh này quá lớn để gửi đi.
+  - lemma: video
+    cefr: A1
+    ipaUs: /ˈvɪdioʊ/
+    senses:
+      - pos: NOUN
+        definitionEn: A recording of moving visual images with sound.
+        definitionVi: video
+        examples:
+          - en: He recorded a short video for his channel.
+            vi: Anh ấy đã quay một video ngắn cho kênh của mình.
+          - en: The tutorial video explains the software clearly.
+            vi: Video hướng dẫn giải thích phần mềm rất rõ ràng.
+  - lemma: audio
+    cefr: B1
+    ipaUs: /ˈɔdiˌoʊ/
+    senses:
+      - pos: NOUN
+        definitionEn: Sound recorded, transmitted, or reproduced digitally.
+        definitionVi: âm thanh
+        examples:
+          - en: The podcast audio quality was remarkably clear today.
+            vi: Chất lượng âm thanh của podcast hôm nay rất rõ ràng.
+          - en: Adjust the audio settings on your media player.
+            vi: Điều chỉnh cài đặt âm thanh trên trình phát phương tiện của bạn.
+  - lemma: format
+    cefr: B1
+    ipaUs: /ˈfɔrmæt/
+    senses:
+      - pos: NOUN
+        definitionEn: The way in which digital data is arranged or stored.
+        definitionVi: định dạng
+        examples:
+          - en: Convert the document into a universal text format.
+            vi: Chuyển đổi tài liệu sang định dạng văn bản phổ quát.
+          - en: What video format does this smart TV support?
+            vi: TV thông minh này hỗ trợ định dạng video nào?
+  - lemma: pixel
+    cefr: B2
+    ipaUs: /ˈpɪksəl/
+    senses:
+      - pos: NOUN
+        definitionEn: The smallest unit of a digital image on a screen.
+        definitionVi: điểm ảnh
+        examples:
+          - en: Each pixel on the display emits colored light.
+            vi: Mỗi điểm ảnh trên màn hình phát ra ánh sáng có màu.
+          - en: Zooming in too close reveals individual square pixels.
+            vi: Phóng to quá gần sẽ làm lộ rõ từng điểm ảnh vuông.
+  - lemma: resolution
+    cefr: B2
+    ipaUs: /ˌrɛzəˈluʃən/
+    senses:
+      - pos: NOUN
+        definitionEn: The level of detail in an image expressed in pixels.
+        definitionVi: độ phân giải
+        examples:
+          - en: Change the screen resolution for a sharper view.
+            vi: Thay đổi độ phân giải màn hình để có góc nhìn sắc nét hơn.
+          - en: High resolution cameras capture incredible skin details.
+            vi: Máy ảnh độ phân giải cao bắt trọn chi tiết da tuyệt vời.
+  - lemma: cable
+    cefr: A2
+    ipaUs: /ˈkeɪbəl/
+    senses:
+      - pos: NOUN
+        definitionEn: A thick wire covered in plastic used to connect devices.
+        definitionVi: cáp
+        examples:
+          - en: Plug the charging cable into the wall outlet.
+            vi: Cắm cáp sạc vào ổ cắm trên tường.
+          - en: Connect your monitor using an HDMI display cable.
+            vi: Kết nối màn hình của bạn bằng cáp hiển thị HDMI.
+  - lemma: adapter
+    cefr: B1
+    ipaUs: /əˈdæptər/
+    senses:
+      - pos: NOUN
+        definitionEn: A device used to connect different types of plugs.
+        definitionVi: bộ chuyển đổi
+        examples:
+          - en: I need a travel adapter for European sockets.
+            vi: Tôi cần một bộ chuyển đổi du lịch cho ổ cắm châu Âu.
+          - en: Use the USB adapter to connect your mouse.
+            vi: Sử dụng bộ chuyển đổi USB để kết nối con chuột của bạn.
+  - lemma: battery
+    cefr: A2
+    ipaUs: /ˈbætəri/
+    senses:
+      - pos: NOUN
+        definitionEn: A device that stores electrical energy for portable equipment.
+        definitionVi: pin
+        examples:
+          - en: My smartphone battery drains very quickly today.
+            vi: Pin điện thoại thông minh của tôi cạn rất nhanh hôm nay.
+          - en: Replace the old laptop battery with a new one.
+            vi: Thay thế pin máy tính xách tay cũ bằng một cái mới.
+  - lemma: plug
+    cefr: A2
+    ipaUs: /plʌɡ/
+    senses:
+      - pos: NOUN
+        definitionEn: A device with metal pins that inserts into a socket.
+        definitionVi: phích cắm
+        examples:
+          - en: Insert the electrical plug firmly into the wall.
+            vi: Cắm chặt phích cắm điện vào tường.
+          - en: Pull the power plug before repairing the lamp.
+            vi: Rút phích cắm điện trước khi sửa chữa chiếc đèn.
+  - lemma: socket
+    cefr: A2
+    ipaUs: /ˈsɑːkɪt/
+    senses:
+      - pos: NOUN
+        definitionEn: A hollow place on a wall where electrical equipment can be connected.
+        definitionVi: ổ cắm điện
+        examples:
+          - en: She plugged her phone charger into the wall socket.
+            vi: Cô ấy đã cắm sạc điện thoại vào ổ cắm điện trên tường.
+          - en: Please turn off the switch before plugging into the socket.
+            vi: Hãy tắt công tắc trước khi cắm vào ổ cắm điện nhé.
+  - lemma: online
+    cefr: A1
+    ipaUs: /ˈɑnˌlaɪn/
+    senses:
+      - pos: ADJECTIVE
+        definitionEn: Connected to the internet or available on a network.
+        definitionVi: trực tuyến
+        examples:
+          - en: Most university students prefer taking online classes now.
+            vi: Hầu hết sinh viên đại học thích học lớp trực tuyến bây giờ.
+          - en: You must stay online to finish this test.
+            vi: Bạn phải giữ kết nối trực tuyến để hoàn thành bài kiểm tra này.
+  - lemma: offline
+    cefr: A2
+    ipaUs: /ˈɔˌflaɪn/
+    senses:
+      - pos: ADJECTIVE
+        definitionEn: Not connected to the internet or a computer network.
+        definitionVi: ngoại tuyến
+        examples:
+          - en: Download this movie to watch it while offline.
+            vi: Tải xuống bộ phim này để xem nó khi ngoại tuyến.
+          - en: The printer status is currently shown as offline.
+            vi: Trạng thái máy in hiện đang được hiển thị là ngoại tuyến.
+  - lemma: bluetooth
+    cefr: B1
+    ipaUs: /ˈbluˌtuθ/
+    senses:
+      - pos: NOUN
+        definitionEn: A wireless technology for connecting devices over short distances.
+        definitionVi: bluetooth
+        examples:
+          - en: Turn on bluetooth to pair your wireless headphones.
+            vi: Bật bluetooth để ghép nối tai nghe không dây của bạn.
+          - en: My phone connects via bluetooth to the car.
+            vi: Điện thoại của tôi kết nối qua bluetooth với ô tô.
+  - lemma: application
+    cefr: B1
+    ipaUs: /ˌæpləˈkeɪʃən/
+    senses:
+      - pos: NOUN
+        definitionEn: A computer program designed for a specific purpose.
+        definitionVi: ứng dụng
+        examples:
+          - en: Open the banking application to check your balance.
+            vi: Mở ứng dụng ngân hàng để kiểm tra số dư của bạn.
+          - en: This software application runs smoothly on Windows.
+            vi: Ứng dụng phần mềm này chạy mượt mà trên Windows.
+  - lemma: app
+    cefr: A1
+    ipaUs: /æp/
+    senses:
+      - pos: NOUN
+        definitionEn: A self-contained program downloaded to a mobile device.
+        definitionVi: ứng dụng
+        examples:
+          - en: Download this fitness app to track daily steps.
+            vi: Tải xuống ứng dụng thể dục này để theo dõi các bước đi hàng ngày.
+          - en: Which messaging app do you use most often?
+            vi: Bạn sử dụng ứng dụng nhắn tin nào thường xuyên nhất?
+  - lemma: code
+    cefr: B1
+    ipaUs: /koʊd/
+    senses:
+      - pos: NOUN
+        definitionEn: Instructions written by a programmer for a computer.
+        definitionVi: mã nguồn
+        examples:
+          - en: He wrote clean computer code for the project.
+            vi: Anh ấy đã viết mã nguồn máy tính sạch sẽ cho dự án.
+          - en: Check the source code for any potential bugs.
+            vi: Kiểm tra mã nguồn để tìm bất kỳ lỗi tiềm ẩn nào.
+  - lemma: program
+    cefr: A2
+    ipaUs: /ˈproʊɡræm/
+    senses:
+      - pos: NOUN
+        definitionEn: A set of instructions that a computer follows to perform a task.
+        definitionVi: Chương trình máy tính
+        examples:
+          - en: She wrote a small program to calculate monthly expenses automatically.
+            vi: Cô ấy đã viết một chương trình nhỏ để tự động tính toán chi phí hàng tháng.
+          - en: This security program protects your computer from malicious online threats.
+            vi: Chương trình bảo mật này bảo vệ máy tính của bạn khỏi các mối đe dọa trực tuyến độc hại.
+  - lemma: programming
+    cefr: B1
+    ipaUs: /ˈproʊɡræmɪŋ/
+    senses:
+      - pos: NOUN
+        definitionEn: The process of writing instructions for a computer to execute.
+        definitionVi: Lập trình
+        examples:
+          - en: He is studying computer science to learn advanced web programming techniques.
+            vi: Anh ấy đang học khoa học máy tính để tìm hiểu các kỹ thuật lập trình web nâng cao.
+          - en: Python is a popular language for programming artificial intelligence applications today.
+            vi: Python là một ngôn ngữ phổ biến để lập trình các ứng dụng trí tuệ nhân tạo ngày nay.
+  - lemma: syntax
+    cefr: B2
+    ipaUs: /ˈsɪntæks/
+    senses:
+      - pos: NOUN
+        definitionEn: The grammatical rules for writing code in a programming language.
+        definitionVi: Cú pháp
+        examples:
+          - en: A single missing semicolon in the syntax will cause compilation errors.
+            vi: Một dấu chấm phẩy bị thiếu trong cú pháp sẽ gây ra lỗi biên dịch.
+          - en: Beginners often struggle to memorize the strict syntax of C++.
+            vi: Người mới bắt đầu thường gặp khó khăn khi ghi nhớ cú pháp nghiêm ngặt của C++.
+  - lemma: compiler
+    cefr: C1
+    ipaUs: /ˈkɑːmpɪlər/
+    senses:
+      - pos: NOUN
+        definitionEn: Software that translates human-readable source code into machine code.
+        definitionVi: Trình biên dịch
+        examples:
+          - en: The compiler checks your code for errors before generating executable files.
+            vi: Trình biên dịch kiểm tra mã nguồn của bạn để tìm lỗi trước khi tạo ra các tệp thực thi.
+          - en: Modern developers rely heavily on a fast compiler to test software quickly.
+            vi: Các nhà phát triển hiện đại phụ thuộc nhiều vào trình biên dịch nhanh để kiểm tra phần mềm.
+  - lemma: framework
+    cefr: B2
+    ipaUs: /ˈfreɪmwɜːrk/
+    senses:
+      - pos: NOUN
+        definitionEn: A pre-built platform providing a foundation for developing software applications.
+        definitionVi: Khung phần mềm
+        examples:
+          - en: They used a popular JavaScript framework to build the user interface.
+            vi: Họ đã sử dụng một khung phần mềm JavaScript phổ biến để xây dựng giao diện người dùng.
+          - en: Choosing the right framework speeds up mobile application development significantly.
+            vi: Việc lựa chọn khung phần mềm phù hợp giúp tăng tốc đáng kể việc phát triển ứng dụng di động.

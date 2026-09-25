@@ -1,0 +1,307 @@
+[
+  {
+    "id": "listening-part4-t6",
+    "skill": "listening",
+    "title": "Part 4 — Talk 6: guided tour of a restored mill",
+    "format": "TOEIC Listening — Part 4 · Talk 6 (câu 86–88)",
+    "instructionsVi": "Bài thuyết minh du lịch mức 900 chứa mệnh đề quan hệ dài và một chi tiết lịch sử dễ nghe nhầm thành sự việc hiện tại.",
+    "promptEn": "Listen to the tour guide and answer questions 86 through 88.",
+    "accent": "uk",
+    "transcript": [
+      { "speaker": "Speaker", "text": "If you'd gather round the railing, please — and do keep behind the yellow line, the floor beyond it isn't load-tested." },
+      { "speaker": "Speaker", "text": "What you're looking at is the only surviving spinning floor of its kind in the county. When the mill closed in 1961 the machinery was sold for scrap, and what you see today was recovered from three separate sites and reassembled here over eleven years by volunteers." },
+      { "speaker": "Speaker", "text": "That reassembly is why we describe the room as representative rather than original. Every individual machine is genuine; the arrangement is our best reconstruction from photographs." },
+      { "speaker": "Speaker", "text": "We run the line on steam for fifteen minutes at the top of each hour. It is loud — genuinely loud — so if anyone would rather step out, the corridor behind you leads to the tea room and I'll collect you there at twenty past." },
+      { "speaker": "Speaker", "text": "One request before we start. Photographs are fine, but no flash while the machinery is running: it makes the moving parts appear to stand still, and people lean in." }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p4-86",
+        "kind": "mcq",
+        "prompt": "86. Why does the guide call the room \"representative rather than original\"?",
+        "options": [
+          { "id": "a", "text": "Some of the machines are modern replicas." },
+          { "id": "b", "text": "The machines are genuine but their layout was reconstructed." },
+          { "id": "c", "text": "The room was rebuilt on a different site." },
+          { "id": "d", "text": "The mill closed before the machines were installed." }
+        ],
+        "answer": "b",
+        "explanationVi": "'Every individual machine is genuine; the arrangement is our best reconstruction'. (A) trái hẳn với câu đó — phải nghe được vế sau dấu chấm phẩy.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p4-87",
+        "kind": "mcq",
+        "prompt": "87. What does the guide offer to visitors who dislike noise?",
+        "options": [
+          { "id": "a", "text": "Ear protection at the railing." },
+          { "id": "b", "text": "A shorter demonstration." },
+          { "id": "c", "text": "To rejoin the group later in the tea room." },
+          { "id": "d", "text": "A refund of the ticket price." }
+        ],
+        "answer": "c",
+        "explanationVi": "'the corridor behind you leads to the tea room and I'll collect you there at twenty past'. Người hướng dẫn đi đón, tức nhóm gặp lại nhau ở đó.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p4-88",
+        "kind": "mcq",
+        "prompt": "88. Why is flash photography prohibited during the demonstration?",
+        "options": [
+          { "id": "a", "text": "It can damage the historic machinery." },
+          { "id": "b", "text": "It disturbs other visitors." },
+          { "id": "c", "text": "It makes moving parts look stationary, so people get too close." },
+          { "id": "d", "text": "The room is too dark for it to work." }
+        ],
+        "answer": "c",
+        "explanationVi": "Lý do là an toàn, không phải bảo tồn: 'it makes the moving parts appear to stand still, and people lean in'. (A) là lý do nghe hợp lý nhưng không hề được nói.",
+        "difficulty": "hard"
+      }
+    ]
+  },
+  {
+    "id": "listening-part4-t7",
+    "skill": "listening",
+    "title": "Part 4 — Talk 7: new escalation policy",
+    "format": "TOEIC Listening — Part 4 · Talk 7 (câu 89–91)",
+    "instructionsVi": "Trích đoạn họp trình bày quy trình mới: chú ý các mốc thời gian và ai là người chịu trách nhiệm ở mỗi mốc.",
+    "promptEn": "Listen to the excerpt from a meeting and answer questions 89 through 91.",
+    "accent": "us",
+    "transcript": [
+      { "speaker": "Speaker", "text": "The revised escalation policy takes effect on the first, and it changes one thing that I want to be very clear about." },
+      { "speaker": "Speaker", "text": "Until now, escalation has depended on the engineer on duty deciding that a problem is serious enough. From the first, escalation is triggered by elapsed time, full stop. Ninety minutes without a fix and it goes to the duty manager whether or not anyone thinks it is serious." },
+      { "speaker": "Speaker", "text": "I know the objection: we will escalate things that turn out to be trivial. Yes, we will, and that is the intended cost. Last quarter every single incident that hurt a customer was one somebody had classified as minor." },
+      { "speaker": "Speaker", "text": "The duty manager's job at ninety minutes is not to fix anything. It is to decide whether to bring in a second engineer, notify the customer, or stand the incident down. Three options, one decision, recorded in the ticket." },
+      { "speaker": "Speaker", "text": "New starters will be paired for their first month, so nobody is making that call alone in week one. Alina is rewriting the runbook with worked examples and it goes out on Thursday for comment — please actually read it." }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p4-89",
+        "kind": "mcq",
+        "prompt": "89. What is the main change to the policy?",
+        "options": [
+          { "id": "a", "text": "Escalation now depends on elapsed time rather than judgement." },
+          { "id": "b", "text": "Engineers must now consult a manager before logging an incident." },
+          { "id": "c", "text": "The severity scale has been extended." },
+          { "id": "d", "text": "Customers will be notified of every incident." }
+        ],
+        "answer": "a",
+        "explanationVi": "'escalation is triggered by elapsed time, full stop'. 'Full stop' ở đây nghĩa là không có ngoại lệ.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p4-90",
+        "kind": "mcq",
+        "prompt": "90. How does the speaker respond to the expected objection?",
+        "options": [
+          { "id": "a", "text": "By denying that it will happen." },
+          { "id": "b", "text": "By accepting it as a price worth paying." },
+          { "id": "c", "text": "By promising to review the policy in a quarter." },
+          { "id": "d", "text": "By blaming the engineers for past mistakes." }
+        ],
+        "answer": "b",
+        "explanationVi": "'Yes, we will, and that is the intended cost'. Người nói thừa nhận nhược điểm rồi biện minh — dạng lập luận rất hay bị hỏi ở mức 900.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p4-91",
+        "kind": "mcq",
+        "prompt": "91. What is the duty manager expected to do at ninety minutes?",
+        "options": [
+          { "id": "a", "text": "Resolve the incident personally." },
+          { "id": "b", "text": "Rewrite the runbook entry." },
+          { "id": "c", "text": "Choose between three defined courses of action." },
+          { "id": "d", "text": "Contact the on-call engineer's supervisor." }
+        ],
+        "answer": "c",
+        "explanationVi": "'not to fix anything… Three options, one decision'. (A) là đúng cái bị phủ định ngay trước đó.",
+        "difficulty": "hard"
+      }
+    ]
+  },
+  {
+    "id": "listening-part4-t8",
+    "skill": "listening",
+    "title": "Part 4 — Talk 8: relocation notice (có sơ đồ tầng)",
+    "format": "TOEIC Listening — Part 4 · Talk 8 (câu 92–94), có sơ đồ tầng",
+    "instructionsVi": "Sơ đồ tầng: người nói không đọc tên tầng cần tìm mà mô tả nó bằng một đặc điểm — phải tự tra ra.",
+    "promptEn": "Listen to the announcement, look at the building directory, and answer questions 92 through 94.\n\nHARLAND HOUSE — DIRECTORY\n\nFloor 1 | Reception, post room\nFloor 2 | Finance\nFloor 3 | Legal and Compliance\nFloor 4 | Engineering (open plan, no meeting rooms)\nFloor 5 | Client suites and boardroom",
+    "accent": "us",
+    "transcript": [
+      { "speaker": "Speaker", "text": "A short notice about the move, which happens over the weekend of the fourteenth." },
+      { "speaker": "Speaker", "text": "Compliance is separating from Legal and taking the whole of the floor that currently has no meeting rooms — we're partitioning off four along the north wall. Engineering moves up one floor to share with the client suites, which does mean the boardroom will be in use for stand-ups first thing; the client team have agreed to that until March." },
+      { "speaker": "Speaker", "text": "Legal stays where it is and gains the space Compliance vacates." },
+      { "speaker": "Speaker", "text": "Nothing changes on the first two floors. Post will continue to be sorted at reception and delivered twice daily." },
+      { "speaker": "Speaker", "text": "Please label every crate with your name and your new floor number, not your team name. Half of last year's crates came back to us marked 'Ops', and there is no team called Ops any more." }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p4-92",
+        "kind": "mcq",
+        "prompt": "92. Look at the directory. Which floor will Compliance occupy?",
+        "options": [
+          { "id": "a", "text": "Floor 2" },
+          { "id": "b", "text": "Floor 3" },
+          { "id": "c", "text": "Floor 4" },
+          { "id": "d", "text": "Floor 5" }
+        ],
+        "answer": "c",
+        "explanationVi": "'the floor that currently has no meeting rooms' — chỉ tầng 4 được ghi 'no meeting rooms'. Tên tầng không hề được đọc ra.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p4-93",
+        "kind": "mcq",
+        "prompt": "93. What is the consequence of the Engineering move?",
+        "options": [
+          { "id": "a", "text": "Client meetings will be moved off site." },
+          { "id": "b", "text": "The boardroom will be used for morning meetings until March." },
+          { "id": "c", "text": "Engineering will lose its open-plan layout." },
+          { "id": "d", "text": "The client suites will be closed for refurbishment." }
+        ],
+        "answer": "b",
+        "explanationVi": "'the boardroom will be in use for stand-ups first thing… until March'. 'Stand-up' là cuộc họp ngắn đầu ngày.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p4-94",
+        "kind": "mcq",
+        "prompt": "94. Why must crates be labelled with a floor number?",
+        "options": [
+          { "id": "a", "text": "The removal firm charges by floor." },
+          { "id": "b", "text": "Team names have changed and are unreliable." },
+          { "id": "c", "text": "Crates are delivered in floor order." },
+          { "id": "d", "text": "Names alone are not permitted on labels." }
+        ],
+        "answer": "b",
+        "explanationVi": "'there is no team called Ops any more' — ví dụ cụ thể cho thấy tên nhóm không còn dùng được. Người nói yêu cầu ghi CẢ tên người lẫn số tầng, nên (D) sai.",
+        "difficulty": "hard"
+      }
+    ]
+  },
+  {
+    "id": "listening-part4-t9",
+    "skill": "listening",
+    "title": "Part 4 — Talk 9: training on month-end reconciliation",
+    "format": "TOEIC Listening — Part 4 · Talk 9 (câu 95–97)",
+    "instructionsVi": "Bài đào tạo nêu quy trình theo bước; câu hỏi hay hỏi bước nào KHÔNG được làm.",
+    "promptEn": "Listen to the training session and answer questions 95 through 97.",
+    "accent": "us",
+    "transcript": [
+      { "speaker": "Speaker", "text": "Right — month-end reconciliation. Most of you have done this before, so I'll spend the time on the two places people go wrong." },
+      { "speaker": "Speaker", "text": "The first is direction of travel. You reconcile the ledger to the statement, not the statement to the ledger. The bank is not wrong. In eleven years I have seen the bank be wrong twice, and both times it was a fee reversal, not a payment." },
+      { "speaker": "Speaker", "text": "The second is what you do with an unexplained difference at the end of the day. You do not post a balancing entry to make it disappear. You leave it open, name it, and carry it forward. An open item of ninety pounds that somebody looks at next month is worth more than a clean set of books that hides it." },
+      { "speaker": "Speaker", "text": "Practically: match by amount first, then by date, then by reference. Matching by reference first feels efficient and it is how people end up matching two different invoices that happen to share a purchase order number." },
+      { "speaker": "Speaker", "text": "The template is on the shared drive. Do not save your own copy to your desktop — every year somebody reconciles against a version from two Julys ago." }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p4-95",
+        "kind": "mcq",
+        "prompt": "95. What does the speaker say about the bank statement?",
+        "options": [
+          { "id": "a", "text": "It should be corrected to match the ledger." },
+          { "id": "b", "text": "It is almost always the reliable side of the comparison." },
+          { "id": "c", "text": "It arrives too late to be useful." },
+          { "id": "d", "text": "It contains errors about twice a year." }
+        ],
+        "answer": "b",
+        "explanationVi": "'The bank is not wrong… twice in eleven years'. (D) đọc 'twice' thành hai lần mỗi năm — bẫy đơn vị thời gian.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p4-96",
+        "kind": "mcq",
+        "prompt": "96. What should be done with an unexplained difference?",
+        "options": [
+          { "id": "a", "text": "Post a balancing entry to clear it." },
+          { "id": "b", "text": "Write it off if it is under a hundred pounds." },
+          { "id": "c", "text": "Leave it open and carry it forward." },
+          { "id": "d", "text": "Report it to the bank immediately." }
+        ],
+        "answer": "c",
+        "explanationVi": "'You do not post a balancing entry… leave it open, name it, and carry it forward'. Con số 90 bảng chỉ là ví dụ, không phải ngưỡng xoá sổ.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p4-97",
+        "kind": "mcq",
+        "prompt": "97. Why does the speaker warn against matching by reference first?",
+        "options": [
+          { "id": "a", "text": "References are often missing from the statement." },
+          { "id": "b", "text": "Different invoices can share the same reference number." },
+          { "id": "c", "text": "The template does not include a reference column." },
+          { "id": "d", "text": "It takes longer than matching by amount." }
+        ],
+        "answer": "b",
+        "explanationVi": "'two different invoices that happen to share a purchase order number'. Người nói thừa nhận cách đó NHANH hơn ('feels efficient'), nên (D) sai.",
+        "difficulty": "hard"
+      }
+    ]
+  },
+  {
+    "id": "listening-part4-t10",
+    "skill": "listening",
+    "title": "Part 4 — Talk 10: station announcement during disruption",
+    "format": "TOEIC Listening — Part 4 · Talk 10 (câu 98–100)",
+    "instructionsVi": "Thông báo nhà ga nói nhanh, có tên địa danh lạ. Bám vào động từ chỉ dẫn: cái nào 'phải làm', cái nào 'có thể làm'.",
+    "promptEn": "Listen to the station announcement and answer questions 98 through 100.",
+    "accent": "uk",
+    "transcript": [
+      { "speaker": "Speaker", "text": "Ladies and gentlemen, may I have your attention for a service update." },
+      { "speaker": "Speaker", "text": "Because of a signalling fault at Dunmore Junction, all northbound services are currently terminating at Aylescroft. Engineers are on site and we expect to reopen the line this evening, but I am not going to give you a time, because the last three times we did that we were wrong." },
+      { "speaker": "Speaker", "text": "Replacement buses are running from stand F outside the west entrance to Kilbrannon, calling at all intermediate stations. The journey is about fifty minutes longer than the train." },
+      { "speaker": "Speaker", "text": "If your ticket was for a northbound service today you may travel on the buses at no extra charge, and you may also use the coastal line via Marden without altering your ticket — that route is slower but it is running normally, and I would take it if I were carrying luggage, because the buses have very little space." },
+      { "speaker": "Speaker", "text": "If you choose not to travel, your ticket can be refunded in full at any staffed ticket office within twenty-eight days. Please do not queue at the ticket office now to ask about the fault; the staff there know exactly what I know." }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p4-98",
+        "kind": "mcq",
+        "prompt": "98. Why does the speaker refuse to give a reopening time?",
+        "options": [
+          { "id": "a", "text": "The engineers have not yet arrived." },
+          { "id": "b", "text": "Previous estimates have proved wrong." },
+          { "id": "c", "text": "The line will not reopen today." },
+          { "id": "d", "text": "The information is restricted to staff." }
+        ],
+        "answer": "b",
+        "explanationVi": "'the last three times we did that we were wrong'. Người nói vẫn kỳ vọng thông tuyến trong tối nay, nên (C) sai.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p4-99",
+        "kind": "mcq",
+        "prompt": "99. What does the speaker advise passengers with luggage to do?",
+        "options": [
+          { "id": "a", "text": "Take the replacement bus from stand F." },
+          { "id": "b", "text": "Claim a refund and travel tomorrow." },
+          { "id": "c", "text": "Use the coastal line via Marden." },
+          { "id": "d", "text": "Wait at Aylescroft for the line to reopen." }
+        ],
+        "answer": "c",
+        "explanationVi": "'I would take it if I were carrying luggage, because the buses have very little space' — 'it' trỏ tuyến ven biển. Đây là lời khuyên có điều kiện, không phải chỉ dẫn chung.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p4-100",
+        "kind": "mcq",
+        "prompt": "100. What are passengers asked NOT to do?",
+        "options": [
+          { "id": "a", "text": "Board the replacement buses with luggage." },
+          { "id": "b", "text": "Apply for a refund at a ticket office." },
+          { "id": "c", "text": "Queue at the ticket office for news about the fault." },
+          { "id": "d", "text": "Travel on the coastal line without a new ticket." }
+        ],
+        "answer": "c",
+        "explanationVi": "'Please do not queue at the ticket office now to ask about the fault'. Quầy vé VẪN dùng để hoàn tiền, nên (B) sai — bẫy nằm ở mục đích, không ở địa điểm.",
+        "difficulty": "hard"
+      }
+    ]
+  }
+]

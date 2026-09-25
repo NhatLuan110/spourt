@@ -1,0 +1,547 @@
+[
+  {
+    "id": "listening-part4-t6",
+    "skill": "listening",
+    "title": "Part 4 — Talk 6: shift briefing",
+    "format": "TOEIC Listening — Part 4 · Talk 6 (câu 86–88)",
+    "instructionsVi": "Phổ biến đầu ca. Có một hướng dẫn phủ định — nghe hụt chữ 'don't' là chọn ngược hoàn toàn.",
+    "promptEn": "Listen to the briefing and answer questions 86 through 88.",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "Supervisor",
+        "text": "Morning all. Three points before you start."
+      },
+      {
+        "speaker": "Supervisor",
+        "text": "One: the barcode scanners were updated overnight. If a code won't read, don't key the number in manually — that's what created the duplicate entries last month. Bring the item to me instead."
+      },
+      {
+        "speaker": "Supervisor",
+        "text": "Two: we're two people short on the afternoon shift. If anyone can stay on until six, let me know before eleven and I'll sort the overtime."
+      },
+      {
+        "speaker": "Supervisor",
+        "text": "Three: the fire exit by bay four is blocked by pallets again. Nothing goes within a metre of that door, whatever the pressure on space."
+      },
+      {
+        "speaker": "Supervisor",
+        "text": "That's it. I'm on the floor all morning if you need me."
+      }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p4-86",
+        "kind": "mcq",
+        "prompt": "86. What should staff do if a barcode will not scan?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Type the number in manually"
+          },
+          {
+            "id": "b",
+            "text": "Bring the item to the supervisor"
+          },
+          {
+            "id": "c",
+            "text": "Set the item aside until tomorrow"
+          },
+          {
+            "id": "d",
+            "text": "Use a different scanner"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'don't key the number in manually… Bring the item to me instead'. Câu phủ định loại thẳng (A)."
+      },
+      {
+        "id": "p4-87",
+        "kind": "mcq",
+        "prompt": "87. By when should staff volunteer for overtime?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Before eleven"
+          },
+          {
+            "id": "b",
+            "text": "By six o'clock"
+          },
+          {
+            "id": "c",
+            "text": "By the end of the shift"
+          },
+          {
+            "id": "d",
+            "text": "Tomorrow morning"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'let me know before eleven and I'll sort the overtime'. Sáu giờ là giờ kết thúc ca chiều."
+      },
+      {
+        "id": "p4-88",
+        "kind": "mcq",
+        "prompt": "88. What rule is given about the fire exit?",
+        "options": [
+          {
+            "id": "a",
+            "text": "It must be locked at all times."
+          },
+          {
+            "id": "b",
+            "text": "Pallets may be stored there overnight."
+          },
+          {
+            "id": "c",
+            "text": "Nothing may be placed within a metre of it."
+          },
+          {
+            "id": "d",
+            "text": "It is being permanently closed."
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'Nothing goes within a metre of that door, whatever the pressure on space'."
+      }
+    ]
+  },
+  {
+    "id": "listening-part4-t7",
+    "skill": "listening",
+    "title": "Part 4 — Talk 7: guided walk introduction",
+    "format": "TOEIC Listening — Part 4 · Talk 7 (câu 89–91)",
+    "instructionsVi": "Bài mở đầu chuyến tham quan. Phân biệt điều được phép và điều bị cấm, vì chúng nằm sát nhau.",
+    "promptEn": "Listen to the introduction and answer questions 89 through 91.",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "Guide",
+        "text": "Good morning and welcome to the Kirby Harbour heritage walk. I'm Elena and we'll be out for about ninety minutes."
+      },
+      {
+        "speaker": "Guide",
+        "text": "We start here at the old customs house, then follow the quayside to the lighthouse, and finish at the fish market where there's a café."
+      },
+      {
+        "speaker": "Guide",
+        "text": "The quayside is uneven and there's no handrail for part of it, so please keep to the inside and take your time. If anyone would prefer to skip that section, there's a level path that rejoins us at the lighthouse."
+      },
+      {
+        "speaker": "Guide",
+        "text": "You're welcome to take photographs anywhere on the walk. Inside the lighthouse, though, please don't use the handrail as a camera support — it's original ironwork and it's fragile."
+      },
+      {
+        "speaker": "Guide",
+        "text": "The walk runs whatever the weather, so I hope you've brought a coat. Let's make a start."
+      }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p4-89",
+        "kind": "mcq",
+        "prompt": "89. Where does the walk finish?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The customs house"
+          },
+          {
+            "id": "b",
+            "text": "The fish market"
+          },
+          {
+            "id": "c",
+            "text": "The lighthouse"
+          },
+          {
+            "id": "d",
+            "text": "The quayside"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'finish at the fish market where there's a café'."
+      },
+      {
+        "id": "p4-90",
+        "kind": "mcq",
+        "prompt": "90. What option is offered to those who find the quayside difficult?",
+        "options": [
+          {
+            "id": "a",
+            "text": "A level path that rejoins at the lighthouse"
+          },
+          {
+            "id": "b",
+            "text": "A refund"
+          },
+          {
+            "id": "c",
+            "text": "A shorter walk finishing early"
+          },
+          {
+            "id": "d",
+            "text": "A seat on a minibus"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'there's a level path that rejoins us at the lighthouse'."
+      },
+      {
+        "id": "p4-91",
+        "kind": "mcq",
+        "prompt": "91. What restriction applies inside the lighthouse?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Photography is not allowed."
+          },
+          {
+            "id": "b",
+            "text": "Visitors must stay with the guide."
+          },
+          {
+            "id": "c",
+            "text": "The handrail must not be used to support a camera."
+          },
+          {
+            "id": "d",
+            "text": "Bags must be left outside."
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "Chụp ảnh được phép ở mọi nơi; chỉ cấm tì máy lên tay vịn vì đó là sắt nguyên bản, dễ hỏng."
+      }
+    ]
+  },
+  {
+    "id": "listening-part4-t8",
+    "skill": "listening",
+    "title": "Part 4 — Talk 8: radio advertisement",
+    "format": "TOEIC Listening — Part 4 · Talk 8 (câu 92–94)",
+    "instructionsVi": "Quảng cáo. Điều kiện đi kèm ưu đãi luôn nằm ở cuối và nói rất nhanh.",
+    "promptEn": "Listen to the advertisement and answer questions 92 through 94.",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "Voice",
+        "text": "Still driving across town to do your weekly shop? Meadowbank Grocers now delivers."
+      },
+      {
+        "speaker": "Voice",
+        "text": "Order online before two in the afternoon and we'll deliver the same day, anywhere within eight miles of the store."
+      },
+      {
+        "speaker": "Voice",
+        "text": "Delivery is four pounds ninety, or free on orders over sixty pounds."
+      },
+      {
+        "speaker": "Voice",
+        "text": "New customers get ten pounds off their first order with the code FRESH10. That code applies to groceries only — it can't be used against alcohol, gift cards or the delivery charge itself."
+      },
+      {
+        "speaker": "Voice",
+        "text": "Visit meadowbankgrocers dot example to set up an account. Same-day delivery is not available on Sundays."
+      }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p4-92",
+        "kind": "mcq",
+        "prompt": "92. What is required for same-day delivery?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Spending over sixty pounds"
+          },
+          {
+            "id": "b",
+            "text": "Ordering before two in the afternoon"
+          },
+          {
+            "id": "c",
+            "text": "Being a new customer"
+          },
+          {
+            "id": "d",
+            "text": "Living within two miles of the store"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'Order online before two in the afternoon and we'll deliver the same day'. Sáu mươi bảng là ngưỡng miễn phí giao hàng, không phải điều kiện giao trong ngày."
+      },
+      {
+        "id": "p4-93",
+        "kind": "mcq",
+        "prompt": "93. What can the discount code NOT be used for?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Alcohol, gift cards or the delivery charge"
+          },
+          {
+            "id": "b",
+            "text": "Groceries"
+          },
+          {
+            "id": "c",
+            "text": "Orders over sixty pounds"
+          },
+          {
+            "id": "d",
+            "text": "Weekend orders"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'it can't be used against alcohol, gift cards or the delivery charge itself'."
+      },
+      {
+        "id": "p4-94",
+        "kind": "mcq",
+        "prompt": "94. On which day is same-day delivery unavailable?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Monday"
+          },
+          {
+            "id": "b",
+            "text": "Saturday"
+          },
+          {
+            "id": "c",
+            "text": "It is available every day."
+          },
+          {
+            "id": "d",
+            "text": "Sunday"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'Same-day delivery is not available on Sundays'. Chi tiết cuối cùng, nói rất nhanh."
+      }
+    ]
+  },
+  {
+    "id": "listening-part4-t9",
+    "skill": "listening",
+    "title": "Part 4 — Talk 9: with a floor plan on the test paper",
+    "format": "TOEIC Listening — Part 4 · Talk 9, kèm sơ đồ trên đề (câu 95–97)",
+    "instructionsVi": "Dạng 'Look at the graphic'. Người nói mô tả bằng vị trí tương đối, bạn phải tự tra sơ đồ. Đọc sơ đồ TRƯỚC khi băng chạy.",
+    "promptEn": "Listen to the talk and answer questions 95 through 97. Refer to the floor plan below where indicated.\n\nSECOND FLOOR — Meridian House\nRoom 201 — Finance\nRoom 202 — Meeting room\nRoom 203 — Human Resources\nRoom 204 — Stationery store\nRoom 205 — IT support",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "Speaker",
+        "text": "Welcome to Meridian House. A quick orientation before I hand you your passes."
+      },
+      {
+        "speaker": "Speaker",
+        "text": "You'll be based on the second floor. Your desks are in the room next to the meeting room, on the side away from Finance."
+      },
+      {
+        "speaker": "Speaker",
+        "text": "If you need paper, pens or anything similar, that's two doors further along from you."
+      },
+      {
+        "speaker": "Speaker",
+        "text": "For any computer problem, go to the room at the far end of the corridor rather than emailing — they respond much faster in person."
+      },
+      {
+        "speaker": "Speaker",
+        "text": "The meeting room has to be booked, even for ten minutes. There's a tablet on the door; if it's green it's free."
+      }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p4-95",
+        "kind": "mcq",
+        "prompt": "95. Look at the graphic. In which room will the new staff be based?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Room 201"
+          },
+          {
+            "id": "b",
+            "text": "Room 202"
+          },
+          {
+            "id": "c",
+            "text": "Room 205"
+          },
+          {
+            "id": "d",
+            "text": "Room 203"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "Cạnh phòng họp (202) và ở phía ĐỐI DIỆN với Finance (201) — tức phòng 203. Phải suy từ vị trí tương đối."
+      },
+      {
+        "id": "p4-96",
+        "kind": "mcq",
+        "prompt": "96. Look at the graphic. Where should they go for stationery?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Room 201"
+          },
+          {
+            "id": "b",
+            "text": "Room 204"
+          },
+          {
+            "id": "c",
+            "text": "Room 202"
+          },
+          {
+            "id": "d",
+            "text": "Room 205"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "Kho văn phòng phẩm là phòng 204. Người nói mô tả 'two doors further along' nhưng thực chất là một cửa; đáp án bám vào chức năng phòng trên sơ đồ."
+      },
+      {
+        "id": "p4-97",
+        "kind": "mcq",
+        "prompt": "97. What are staff told about IT problems?",
+        "options": [
+          {
+            "id": "a",
+            "text": "To go in person, as it is faster"
+          },
+          {
+            "id": "b",
+            "text": "To send an email"
+          },
+          {
+            "id": "c",
+            "text": "To report them to the meeting room tablet"
+          },
+          {
+            "id": "d",
+            "text": "To wait for the weekly visit"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'go to the room at the far end of the corridor rather than emailing — they respond much faster in person'."
+      }
+    ]
+  },
+  {
+    "id": "listening-part4-t10",
+    "skill": "listening",
+    "title": "Part 4 — Talk 10: excerpt from a company meeting",
+    "format": "TOEIC Listening — Part 4 · Talk 10 (câu 98–100)",
+    "instructionsVi": "Bài cuối của Listening. Có một câu hỏi về hàm ý — người nói không nói thẳng kết luận.",
+    "promptEn": "Listen to the excerpt from a meeting and answer questions 98 through 100.",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "Speaker",
+        "text": "Let's look at the customer survey. Two hundred and forty responses, which is our best return yet."
+      },
+      {
+        "speaker": "Speaker",
+        "text": "Satisfaction with the product is up. Satisfaction with support is down, and it's down most sharply among customers who have been with us longest."
+      },
+      {
+        "speaker": "Speaker",
+        "text": "Now, we did move support to the new ticketing system in March, and long-standing customers are the ones who used to phone a named person. I'll leave you to join those two facts up."
+      },
+      {
+        "speaker": "Speaker",
+        "text": "What I want from this meeting is a decision on whether we restore a direct line for accounts over a certain size, or whether we invest in making the ticket system faster for everyone."
+      },
+      {
+        "speaker": "Speaker",
+        "text": "Both cost money. Doing neither also costs money, just later and to someone else's budget."
+      }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p4-98",
+        "kind": "mcq",
+        "prompt": "98. Which group is least satisfied with support?",
+        "options": [
+          {
+            "id": "a",
+            "text": "New customers"
+          },
+          {
+            "id": "b",
+            "text": "The longest-standing customers"
+          },
+          {
+            "id": "c",
+            "text": "Customers with small accounts"
+          },
+          {
+            "id": "d",
+            "text": "Customers who did not respond"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'down most sharply among customers who have been with us longest'."
+      },
+      {
+        "id": "p4-99",
+        "kind": "mcq",
+        "prompt": "99. What does the speaker imply by saying, 'I'll leave you to join those two facts up'?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The survey data may be unreliable."
+          },
+          {
+            "id": "b",
+            "text": "More research is needed before any conclusion."
+          },
+          {
+            "id": "c",
+            "text": "Long-standing customers are hard to please."
+          },
+          {
+            "id": "d",
+            "text": "The new ticketing system is likely behind the drop."
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "Ông ta nêu hai sự việc cạnh nhau — đổi hệ thống hỗ trợ vào tháng Ba, và nhóm khách cũ vốn quen gọi thẳng một người — rồi để người nghe tự nối."
+      },
+      {
+        "id": "p4-100",
+        "kind": "mcq",
+        "prompt": "100. What decision does the speaker want?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Whether to run another survey"
+          },
+          {
+            "id": "b",
+            "text": "Whether to reduce the support team"
+          },
+          {
+            "id": "c",
+            "text": "Whether to restore a direct line or improve the ticket system"
+          },
+          {
+            "id": "d",
+            "text": "Whether to raise prices"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'a decision on whether we restore a direct line for accounts over a certain size, or whether we invest in making the ticket system faster'."
+      }
+    ]
+  }
+]

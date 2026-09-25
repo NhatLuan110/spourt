@@ -1,0 +1,989 @@
+{
+  "examId": "toeic",
+  "levelId": "4",
+  "vocabulary": [
+    {
+      "id": "indemnify",
+      "term": "indemnify",
+      "ipa": "/ɪnˈdemnɪfaɪ/",
+      "meaningVi": "bồi thường, bảo đảm không chịu thiệt hại",
+      "definitionEn": "To agree to pay for any loss or damage another party suffers.",
+      "example": "The supplier shall indemnify the client against third-party claims.",
+      "exampleVi": "Bên cung cấp phải bồi thường cho khách hàng đối với khiếu nại của bên thứ ba.",
+      "collocations": [
+        "indemnify against",
+        "indemnity clause",
+        "hold harmless and indemnify"
+      ]
+    },
+    {
+      "id": "notwithstanding",
+      "term": "notwithstanding",
+      "ipa": "/ˌnɒtwɪθˈstændɪŋ/",
+      "meaningVi": "mặc dù, bất kể",
+      "definitionEn": "Despite something; used to introduce an exception to what precedes.",
+      "example": "Notwithstanding clause 4, the client may terminate with thirty days' notice.",
+      "exampleVi": "Bất kể điều 4, khách hàng có thể chấm dứt hợp đồng với thông báo trước ba mươi ngày.",
+      "collocations": [
+        "notwithstanding the above",
+        "notwithstanding any provision",
+        "notwithstanding that"
+      ]
+    },
+    {
+      "id": "prorate",
+      "term": "prorate",
+      "ipa": "/ˌprəʊˈreɪt/",
+      "meaningVi": "tính theo tỉ lệ thời gian sử dụng",
+      "definitionEn": "To divide or calculate an amount in proportion to a period of time.",
+      "example": "Fees are prorated if the service starts mid-month.",
+      "exampleVi": "Phí được tính theo tỉ lệ nếu dịch vụ bắt đầu giữa tháng.",
+      "collocations": [
+        "prorated refund",
+        "on a prorated basis",
+        "prorate the fee"
+      ]
+    },
+    {
+      "id": "escalate",
+      "term": "escalate",
+      "ipa": "/ˈeskəleɪt/",
+      "meaningVi": "chuyển lên cấp cao hơn; leo thang",
+      "definitionEn": "To pass a problem to a more senior person, or to become more serious.",
+      "example": "Unresolved tickets are escalated to the account manager after 48 hours.",
+      "exampleVi": "Yêu cầu chưa xử lý sẽ được chuyển lên quản lý khách hàng sau 48 giờ.",
+      "collocations": [
+        "escalate an issue",
+        "escalation procedure",
+        "escalate to management"
+      ]
+    },
+    {
+      "id": "attrition",
+      "term": "attrition",
+      "ipa": "/əˈtrɪʃn/",
+      "meaningVi": "hao hụt nhân sự tự nhiên",
+      "definitionEn": "A gradual reduction in staff numbers as people leave and are not replaced.",
+      "example": "Headcount fell by natural attrition rather than redundancy.",
+      "exampleVi": "Số nhân sự giảm do hao hụt tự nhiên chứ không phải cắt giảm.",
+      "collocations": [
+        "natural attrition",
+        "attrition rate",
+        "reduce by attrition"
+      ]
+    },
+    {
+      "id": "forfeit",
+      "term": "forfeit",
+      "ipa": "/ˈfɔːfɪt/",
+      "meaningVi": "mất quyền, bị tước",
+      "definitionEn": "To lose a right or possession as a penalty for breaking a rule.",
+      "example": "Bookings cancelled after the deadline forfeit the deposit.",
+      "exampleVi": "Đặt chỗ huỷ sau hạn sẽ mất tiền cọc.",
+      "collocations": [
+        "forfeit a deposit",
+        "forfeit the right to",
+        "automatically forfeited"
+      ]
+    },
+    {
+      "id": "contingent",
+      "term": "contingent",
+      "ipa": "/kənˈtɪndʒənt/",
+      "meaningVi": "phụ thuộc vào điều kiện",
+      "definitionEn": "Depending on something else happening first.",
+      "example": "The bonus is contingent on meeting the annual target.",
+      "exampleVi": "Khoản thưởng phụ thuộc vào việc đạt chỉ tiêu năm.",
+      "collocations": [
+        "contingent on",
+        "contingent liability",
+        "contingent upon approval"
+      ]
+    },
+    {
+      "id": "waiver",
+      "term": "waiver",
+      "ipa": "/ˈweɪvə(r)/",
+      "meaningVi": "văn bản từ bỏ quyền, giấy miễn trừ",
+      "definitionEn": "A document or act by which a right or requirement is given up.",
+      "example": "A signed waiver is required before entering the test area.",
+      "exampleVi": "Cần có giấy miễn trừ đã ký trước khi vào khu vực thử nghiệm.",
+      "collocations": [
+        "sign a waiver",
+        "waiver of liability",
+        "grant a waiver"
+      ]
+    },
+    {
+      "id": "reconcile",
+      "term": "reconcile",
+      "ipa": "/ˈrekənsaɪl/",
+      "meaningVi": "đối chiếu cho khớp",
+      "definitionEn": "To make two sets of figures agree, or to explain why they differ.",
+      "example": "Accounts are reconciled against bank statements every month.",
+      "exampleVi": "Sổ sách được đối chiếu với sao kê ngân hàng hằng tháng.",
+      "collocations": [
+        "reconcile the accounts",
+        "bank reconciliation",
+        "reconcile discrepancies"
+      ]
+    },
+    {
+      "id": "onerous",
+      "term": "onerous",
+      "ipa": "/ˈəʊnərəs/",
+      "meaningVi": "nặng nề, gây gánh nặng",
+      "definitionEn": "Involving a lot of effort or difficulty; burdensome.",
+      "example": "The reporting requirements proved onerous for smaller suppliers.",
+      "exampleVi": "Yêu cầu báo cáo tỏ ra nặng nề với các nhà cung cấp nhỏ.",
+      "collocations": [
+        "onerous obligation",
+        "unduly onerous",
+        "onerous terms"
+      ]
+    },
+    {
+      "id": "supersede",
+      "term": "supersede",
+      "ipa": "/ˌsuːpəˈsiːd/",
+      "meaningVi": "thay thế, làm mất hiệu lực cái cũ",
+      "definitionEn": "To take the place of something older and make it no longer valid.",
+      "example": "This agreement supersedes all previous arrangements between the parties.",
+      "exampleVi": "Thoả thuận này thay thế mọi thoả thuận trước đó giữa các bên.",
+      "collocations": [
+        "supersede the previous version",
+        "superseded by",
+        "shall supersede"
+      ]
+    },
+    {
+      "id": "remit",
+      "term": "remit",
+      "ipa": "/ˈriːmɪt/",
+      "meaningVi": "phạm vi trách nhiệm",
+      "definitionEn": "The area of activity a person or body is responsible for.",
+      "example": "Pricing decisions fall outside this committee's remit.",
+      "exampleVi": "Quyết định về giá nằm ngoài phạm vi trách nhiệm của uỷ ban này.",
+      "collocations": [
+        "within our remit",
+        "outside the remit",
+        "broaden the remit"
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "id": "reading-part5-legal",
+      "skill": "reading",
+      "title": "Part 5 — Incomplete Sentences",
+      "format": "TOEIC Reading — Part 5 · Incomplete Sentences, chọn từ điền vào chỗ trống",
+      "instructionsVi": "Ở mục tiêu 900, Part 5 dùng từ vựng hợp đồng và cấu trúc đảo ngữ. Vẫn 18 giây một câu — ở mức này tốc độ quan trọng ngang độ chính xác vì Part 7 rất dài.",
+      "promptEn": "Select the best word or phrase to complete each sentence.",
+      "passage": "1. ______ clause 12, either party may terminate this agreement immediately in the event of insolvency.\n2. Deposits are non-refundable, and bookings cancelled after 1 June will ______ the full amount paid.\n3. Rarely ______ the committee overturned a recommendation from the technical panel.\n4. The service fee will be ______ if the contract begins part way through a billing period.\n5. Matters relating to staff discipline fall outside the ______ of this working group.",
+      "timeLimitSec": 90,
+      "questions": [
+        {
+          "id": "p5-1",
+          "kind": "mcq",
+          "prompt": "Question 1: ______ clause 12, either party may terminate this agreement immediately in the event of insolvency.",
+          "options": [
+            {
+              "id": "a",
+              "text": "Nevertheless"
+            },
+            {
+              "id": "b",
+              "text": "Whereas"
+            },
+            {
+              "id": "c",
+              "text": "Moreover"
+            },
+            {
+              "id": "d",
+              "text": "Notwithstanding"
+            }
+          ],
+          "answer": "d",
+          "explanationVi": "'Notwithstanding' là giới từ, đi thẳng với cụm danh từ 'clause 12', nghĩa là bất kể điều khoản đó. 'Nevertheless' và 'Moreover' là trạng từ nối câu, không đi trực tiếp với danh từ."
+        },
+        {
+          "id": "p5-2",
+          "kind": "mcq",
+          "prompt": "Question 2: Deposits are non-refundable, and bookings cancelled after 1 June will ______ the full amount paid.",
+          "options": [
+            {
+              "id": "a",
+              "text": "forgo"
+            },
+            {
+              "id": "b",
+              "text": "forbid"
+            },
+            {
+              "id": "c",
+              "text": "forfeit"
+            },
+            {
+              "id": "d",
+              "text": "forsake"
+            }
+          ],
+          "answer": "c",
+          "explanationVi": "'forfeit' = mất do vi phạm quy định, đúng ngữ cảnh phạt huỷ. 'forgo' là tự nguyện từ bỏ, khác về sắc thái bắt buộc."
+        },
+        {
+          "id": "p5-3",
+          "kind": "mcq",
+          "prompt": "Question 3: Rarely ______ the committee overturned a recommendation from the technical panel.",
+          "options": [
+            {
+              "id": "a",
+              "text": "has"
+            },
+            {
+              "id": "b",
+              "text": "have"
+            },
+            {
+              "id": "c",
+              "text": "did"
+            },
+            {
+              "id": "d",
+              "text": "was"
+            }
+          ],
+          "answer": "a",
+          "explanationVi": "Trạng từ phủ định 'Rarely' đứng đầu câu gây đảo ngữ. 'overturned' là quá khứ phân từ nên cần trợ động từ 'has' cho chủ ngữ số ít 'the committee'."
+        },
+        {
+          "id": "p5-4",
+          "kind": "mcq",
+          "prompt": "Question 4: The service fee will be ______ if the contract begins part way through a billing period.",
+          "options": [
+            {
+              "id": "a",
+              "text": "prolonged"
+            },
+            {
+              "id": "b",
+              "text": "prorated"
+            },
+            {
+              "id": "c",
+              "text": "promoted"
+            },
+            {
+              "id": "d",
+              "text": "projected"
+            }
+          ],
+          "answer": "b",
+          "explanationVi": "'prorated' = tính theo tỉ lệ thời gian thực dùng, khớp với việc bắt đầu giữa kỳ thanh toán."
+        },
+        {
+          "id": "p5-5",
+          "kind": "mcq",
+          "prompt": "Question 5: Matters relating to staff discipline fall outside the ______ of this working group.",
+          "options": [
+            {
+              "id": "a",
+              "text": "remittance"
+            },
+            {
+              "id": "b",
+              "text": "remission"
+            },
+            {
+              "id": "c",
+              "text": "remainder"
+            },
+            {
+              "id": "d",
+              "text": "remit"
+            }
+          ],
+          "answer": "d",
+          "explanationVi": "'remit' = phạm vi trách nhiệm. 'remittance' là khoản tiền chuyển, 'remission' là sự giảm nhẹ — bẫy cùng gốc từ."
+        }
+      ]
+    },
+    {
+      "id": "reading-part6-terms",
+      "skill": "reading",
+      "title": "Part 6 — Text Completion: notice of revised terms",
+      "format": "TOEIC Reading — Part 6 · Text Completion, có một câu hỏi chèn câu",
+      "instructionsVi": "Văn bản pháp lý ngắn nhưng dày. Câu chèn ở mức này thường có hai phương án đều hợp ngữ cảnh; chọn câu nối được ý của cả câu trước lẫn câu sau.",
+      "promptEn": "Read the notice and choose the best option for each numbered blank.",
+      "passage": "NOTICE TO ACCOUNT HOLDERS — Revised Service Terms\n\nWe are writing to inform you of changes to our terms of service, effective 1 September. These terms (1) ______ the version issued in March 2023.\n\nThe principal change concerns the escalation procedure. Support requests that remain unresolved after 48 hours will now be referred automatically to a named account manager. (2) ______\n\nWe are also clarifying the position on planned maintenance. Scheduled downtime notified at least seven days in advance will not count towards the availability guarantee. Unplanned downtime will continue to count in full, and credits will be applied on a (3) ______ basis according to the hours affected.\n\nIf you do not wish to accept the revised terms, you may terminate your agreement without penalty by writing to us before 31 August. (4) ______ that date, continued use of the service will be taken as acceptance.",
+      "timeLimitSec": 240,
+      "questions": [
+        {
+          "id": "p6-1",
+          "kind": "mcq",
+          "prompt": "Blank (1)",
+          "options": [
+            {
+              "id": "a",
+              "text": "supersede"
+            },
+            {
+              "id": "b",
+              "text": "surpass"
+            },
+            {
+              "id": "c",
+              "text": "suspend"
+            },
+            {
+              "id": "d",
+              "text": "supplement"
+            }
+          ],
+          "answer": "a",
+          "explanationVi": "Điều khoản mới THAY THẾ bản cũ và làm bản cũ hết hiệu lực. 'supplement' là bổ sung thêm mà bản cũ vẫn còn hiệu lực — nghĩa khác hẳn, đây là bẫy chính."
+        },
+        {
+          "id": "p6-2",
+          "kind": "mcq",
+          "prompt": "Blank (2) — chọn câu phù hợp nhất để chèn vào",
+          "options": [
+            {
+              "id": "a",
+              "text": "Support requests should be submitted by telephone only."
+            },
+            {
+              "id": "b",
+              "text": "Previously, escalation depended on the customer requesting it."
+            },
+            {
+              "id": "c",
+              "text": "Account managers will no longer be assigned to customers."
+            },
+            {
+              "id": "d",
+              "text": "The 48-hour target has been removed entirely."
+            }
+          ],
+          "answer": "b",
+          "explanationVi": "Câu trước nhấn mạnh từ 'automatically'. Câu chèn hợp lý nhất là nêu tình trạng cũ để làm rõ thay đổi. (C) và (D) mâu thuẫn trực tiếp với câu vừa nêu."
+        },
+        {
+          "id": "p6-3",
+          "kind": "mcq",
+          "prompt": "Blank (3)",
+          "options": [
+            {
+              "id": "a",
+              "text": "prorate"
+            },
+            {
+              "id": "b",
+              "text": "prorating"
+            },
+            {
+              "id": "c",
+              "text": "proration"
+            },
+            {
+              "id": "d",
+              "text": "prorated"
+            }
+          ],
+          "answer": "d",
+          "explanationVi": "Cần tính từ đứng trước danh từ 'basis'. Dạng phân từ quá khứ 'prorated' làm chức năng tính từ."
+        },
+        {
+          "id": "p6-4",
+          "kind": "mcq",
+          "prompt": "Blank (4)",
+          "options": [
+            {
+              "id": "a",
+              "text": "Among"
+            },
+            {
+              "id": "b",
+              "text": "Within"
+            },
+            {
+              "id": "c",
+              "text": "Beyond"
+            },
+            {
+              "id": "d",
+              "text": "Toward"
+            }
+          ],
+          "answer": "c",
+          "explanationVi": "'Beyond that date' = sau mốc thời gian đó. 'Within' nghĩa ngược lại (trong thời hạn), làm hỏng logic của câu."
+        }
+      ]
+    },
+    {
+      "id": "reading-part7-triple-claim",
+      "skill": "reading",
+      "title": "Part 7 — Triple passage: policy, claim form and reply",
+      "format": "TOEIC Reading — Part 7 · Triple passages, câu hỏi suy luận và NOT",
+      "instructionsVi": "Dạng khó nhất của TOEIC. Có câu hỏi buộc áp dụng một quy định trong văn bản 1 vào tình huống ở văn bản 2 để suy ra kết quả — đọc lướt là chắc chắn sai.",
+      "promptEn": "Refer to the following policy extract, claim form and email, then answer the questions.",
+      "passage": "POLICY EXTRACT — Meridian Equipment Warranty\n\n1. Standard cover lasts 24 months from the date of delivery.\n2. Cover is extended to 36 months where the customer has purchased an annual service plan and all scheduled services have been completed.\n3. Damage caused by operation outside the stated temperature range (5°C to 40°C) is excluded from all cover.\n4. Claims must be submitted within 30 days of the fault being discovered.\n5. Notwithstanding clause 3, cover applies where the customer can show that the temperature excursion resulted from a failure of equipment supplied by Meridian.\n\n---\n\nCLAIM FORM — submitted 14 April\n\nCustomer: Halloway Cold Storage\nUnit: Meridian CX-40 compressor\nDate of delivery: 3 March, two years and one month ago\nAnnual service plan: Yes — services completed March (year 1) and March (year 2)\nFault discovered: 2 April\nDescription: Compressor failed after the unit's own thermostat, also supplied by Meridian, stopped regulating and allowed the chamber to reach 46°C overnight.\n\n---\n\nEMAIL\nFrom: claims@meridianequip.example\nTo: j.halloway@hallowaycold.example\nDate: 21 April\nSubject: Claim MC-2214\n\nDear Ms Halloway,\n\nThank you for your claim, which we have now assessed. I can confirm that we will repair the compressor at no charge and replace the thermostat unit at the same visit.\n\nOur engineer is available on 28 or 29 April. Please confirm which you prefer.\n\nRegards,\nClaims Team",
+      "timeLimitSec": 375,
+      "questions": [
+        {
+          "id": "p7-1",
+          "kind": "mcq",
+          "prompt": "Why is the unit still covered despite being more than 24 months old?",
+          "options": [
+            {
+              "id": "a",
+              "text": "Because the fault was discovered within 30 days"
+            },
+            {
+              "id": "b",
+              "text": "Because an annual service plan was held and all services were completed"
+            },
+            {
+              "id": "c",
+              "text": "Because the customer is a long-standing client"
+            },
+            {
+              "id": "d",
+              "text": "Because compressors have a separate warranty period"
+            }
+          ],
+          "answer": "b",
+          "explanationVi": "Điều 2: có gói bảo dưỡng năm và hoàn thành đủ các lần bảo dưỡng thì cover kéo dài 36 tháng. Đơn hàng mới 25 tháng nên vẫn trong hạn."
+        },
+        {
+          "id": "p7-2",
+          "kind": "mcq",
+          "prompt": "Why does the temperature exclusion not apply here?",
+          "options": [
+            {
+              "id": "a",
+              "text": "Because 46°C is within the stated range"
+            },
+            {
+              "id": "b",
+              "text": "Because the fault occurred overnight"
+            },
+            {
+              "id": "c",
+              "text": "Because clause 3 was removed from the policy"
+            },
+            {
+              "id": "d",
+              "text": "Because the excursion was caused by Meridian's own thermostat failing"
+            }
+          ],
+          "answer": "d",
+          "explanationVi": "Điều 5 là ngoại lệ của điều 3: nếu vượt nhiệt do thiết bị của chính Meridian hỏng thì vẫn được bảo hành. Phải nối điều 5 với mô tả sự cố ở đơn."
+        },
+        {
+          "id": "p7-3",
+          "kind": "mcq",
+          "prompt": "Was the claim submitted in time?",
+          "options": [
+            {
+              "id": "a",
+              "text": "No — it was submitted after 30 days"
+            },
+            {
+              "id": "b",
+              "text": "Yes — but only because the deadline was waived"
+            },
+            {
+              "id": "c",
+              "text": "Yes — 12 days after the fault was discovered"
+            },
+            {
+              "id": "d",
+              "text": "The policy does not set a deadline."
+            }
+          ],
+          "answer": "c",
+          "explanationVi": "Phát hiện lỗi ngày 2/4, nộp ngày 14/4 — cách nhau 12 ngày, trong hạn 30 ngày của điều 4."
+        },
+        {
+          "id": "p7-4",
+          "kind": "mcq",
+          "prompt": "What is NOT mentioned in the email?",
+          "options": [
+            {
+              "id": "a",
+              "text": "The warranty will be extended by a further year."
+            },
+            {
+              "id": "b",
+              "text": "The compressor will be repaired free of charge."
+            },
+            {
+              "id": "c",
+              "text": "The thermostat will be replaced."
+            },
+            {
+              "id": "d",
+              "text": "Two possible visit dates are offered."
+            }
+          ],
+          "answer": "a",
+          "explanationVi": "Email nêu ba việc đầu, hoàn toàn không nhắc tới gia hạn bảo hành. Dạng NOT buộc đối chiếu từng phương án với văn bản."
+        }
+      ]
+    },
+    {
+      "id": "listening-part2-nuance",
+      "skill": "listening",
+      "title": "Part 2 — Question–Response",
+      "format": "TOEIC Listening — Part 2 · Question–Response, ba lựa chọn, không có sẵn trên đề",
+      "instructionsVi": "Ở mục tiêu 900, đáp án đúng gần như luôn gián tiếp và đôi khi mang sắc thái mỉa mai hoặc dè dặt. Đừng loại một phương án chỉ vì nó không trả lời thẳng.",
+      "promptEn": "You will hear a question or statement followed by three responses. Choose the most appropriate response.",
+      "accent": "us",
+      "transcript": [
+        {
+          "speaker": "Question 1",
+          "text": "You've seen the revised figures, haven't you?"
+        },
+        {
+          "speaker": "Options",
+          "text": "(A) Only the summary page. (B) Yes, I revised them. (C) The figure is on page four."
+        },
+        {
+          "speaker": "Question 2",
+          "text": "I assume the Hartwell contract is signed by now."
+        },
+        {
+          "speaker": "Options",
+          "text": "(A) Their legal team is still reading it. (B) I signed in at reception. (C) It's a five-year contract."
+        },
+        {
+          "speaker": "Question 3",
+          "text": "Do you want me to book the earlier flight or the later one?"
+        },
+        {
+          "speaker": "Options",
+          "text": "(A) The flight was delayed. (B) How late does the meeting run? (C) I booked it last week."
+        },
+        {
+          "speaker": "Question 4",
+          "text": "That's the third time the system has gone down this month."
+        },
+        {
+          "speaker": "Options",
+          "text": "(A) I know, IT are meeting about it tomorrow. (B) The system is on the third floor. (C) Three of us use it."
+        }
+      ],
+      "timeLimitSec": 240,
+      "questions": [
+        {
+          "id": "p2-1",
+          "kind": "mcq",
+          "prompt": "Question 1: You've seen the revised figures, haven't you?",
+          "options": [
+            {
+              "id": "a",
+              "text": "Yes, I revised them."
+            },
+            {
+              "id": "b",
+              "text": "Only the summary page."
+            },
+            {
+              "id": "c",
+              "text": "The figure is on page four."
+            }
+          ],
+          "answer": "b",
+          "explanationVi": "Trả lời một phần ('chỉ mới xem trang tóm tắt') là dạng đáp án đúng rất hay gặp ở mức 900. (A) đổi vai người thực hiện, (C) lặp từ 'figure'."
+        },
+        {
+          "id": "p2-2",
+          "kind": "mcq",
+          "prompt": "Question 2: I assume the Hartwell contract is signed by now.",
+          "options": [
+            {
+              "id": "a",
+              "text": "Their legal team is still reading it."
+            },
+            {
+              "id": "b",
+              "text": "I signed in at reception."
+            },
+            {
+              "id": "c",
+              "text": "It's a five-year contract."
+            }
+          ],
+          "answer": "a",
+          "explanationVi": "Câu trần thuật nêu giả định, phản hồi đúng là đính chính giả định đó một cách gián tiếp. (B) lặp âm 'signed/signed in'."
+        },
+        {
+          "id": "p2-3",
+          "kind": "mcq",
+          "prompt": "Question 3: Do you want me to book the earlier flight or the later one?",
+          "options": [
+            {
+              "id": "a",
+              "text": "The flight was delayed."
+            },
+            {
+              "id": "b",
+              "text": "I booked it last week."
+            },
+            {
+              "id": "c",
+              "text": "How late does the meeting run?"
+            }
+          ],
+          "answer": "c",
+          "explanationVi": "Hỏi ngược để lấy thêm thông tin trước khi quyết định — hoàn toàn hợp lý trong hội thoại thật, và là dạng đáp án mà thí sinh mức trung hay bỏ qua."
+        },
+        {
+          "id": "p2-4",
+          "kind": "mcq",
+          "prompt": "Question 4: That's the third time the system has gone down this month.",
+          "options": [
+            {
+              "id": "a",
+              "text": "The system is on the third floor."
+            },
+            {
+              "id": "b",
+              "text": "I know, IT are meeting about it tomorrow."
+            },
+            {
+              "id": "c",
+              "text": "Three of us use it."
+            }
+          ],
+          "answer": "b",
+          "explanationVi": "Câu than phiền cần phản hồi đồng cảm kèm thông tin. (A) và (C) đều bám vào từ 'third/three' — bẫy lặp số."
+        }
+      ]
+    },
+    {
+      "id": "listening-part3-implication",
+      "skill": "listening",
+      "title": "Part 3 — Conversation: an audit finding",
+      "format": "TOEIC Listening — Part 3 · Conversation, ba người, câu hỏi hàm ý",
+      "instructionsVi": "Hội thoại ba người kèm câu hỏi hàm ý. Ở mức này người nói dùng cách nói giảm nhẹ và mỉa nhẹ; nghĩa thật thường ngược với nghĩa đen của câu chữ.",
+      "promptEn": "Listen to the conversation among three speakers and answer the three questions.",
+      "accent": "us",
+      "transcript": [
+        {
+          "speaker": "Woman A",
+          "text": "So the auditors have flagged the approvals process. Fourteen purchases over the threshold went through without a second signature."
+        },
+        {
+          "speaker": "Man",
+          "text": "Fourteen out of how many, though? If it's fourteen out of nine hundred, that's a different conversation from fourteen out of twenty."
+        },
+        {
+          "speaker": "Woman A",
+          "text": "Fourteen out of thirty-one."
+        },
+        {
+          "speaker": "Man",
+          "text": "Ah. Well, that's certainly a number."
+        },
+        {
+          "speaker": "Woman B",
+          "text": "In fairness, the second-signature rule only came in during March and nobody was told. I found out because I read the intranet, which I don't think anyone else does."
+        },
+        {
+          "speaker": "Woman A",
+          "text": "That's a reasonable point, and it changes what we recommend. If the rule wasn't communicated, the finding is about our rollout, not about people ignoring controls."
+        },
+        {
+          "speaker": "Man",
+          "text": "I'd still want the fourteen reviewed individually before we conclude that. If any of them look irregular for other reasons, we need to know now rather than from the auditors."
+        },
+        {
+          "speaker": "Woman A",
+          "text": "Agreed. Priya, can you pull the fourteen and check them against the supplier list by Thursday?"
+        }
+      ],
+      "timeLimitSec": 210,
+      "questions": [
+        {
+          "id": "p3-1",
+          "kind": "mcq",
+          "prompt": "What does the man mean when he says, 'Well, that's certainly a number'?",
+          "options": [
+            {
+              "id": "a",
+              "text": "He needs the figure repeated."
+            },
+            {
+              "id": "b",
+              "text": "He thinks the proportion is alarmingly high."
+            },
+            {
+              "id": "c",
+              "text": "He believes the audit was inaccurate."
+            },
+            {
+              "id": "d",
+              "text": "He considers the problem minor."
+            }
+          ],
+          "answer": "b",
+          "explanationVi": "Câu này là nói giảm mang tính mỉa. Ông ta vừa lập luận rằng tỉ lệ mới quan trọng; 14 trên 31 là gần một nửa, nên câu đó ngụ ý con số rất đáng ngại."
+        },
+        {
+          "id": "p3-2",
+          "kind": "mcq",
+          "prompt": "What point does Woman B make?",
+          "options": [
+            {
+              "id": "a",
+              "text": "The rule was never actually approved."
+            },
+            {
+              "id": "b",
+              "text": "The auditors reviewed the wrong period."
+            },
+            {
+              "id": "c",
+              "text": "Staff were not informed when the rule changed."
+            },
+            {
+              "id": "d",
+              "text": "The threshold is set too low."
+            }
+          ],
+          "answer": "c",
+          "explanationVi": "'the second-signature rule only came in during March and nobody was told'."
+        },
+        {
+          "id": "p3-3",
+          "kind": "mcq",
+          "prompt": "Why does the man still want the fourteen cases reviewed?",
+          "options": [
+            {
+              "id": "a",
+              "text": "In case any are irregular for reasons unrelated to the rule change"
+            },
+            {
+              "id": "b",
+              "text": "To confirm the auditors' arithmetic"
+            },
+            {
+              "id": "c",
+              "text": "Because the suppliers have complained"
+            },
+            {
+              "id": "d",
+              "text": "To prepare a report for the intranet"
+            }
+          ],
+          "answer": "a",
+          "explanationVi": "'If any of them look irregular for other reasons, we need to know now rather than from the auditors'."
+        }
+      ]
+    },
+    {
+      "id": "listening-part4-graphic",
+      "skill": "listening",
+      "title": "Part 4 — Talk: quarterly results presentation",
+      "format": "TOEIC Listening — Part 4 · Talk kèm biểu đồ trên đề",
+      "instructionsVi": "Dạng 'Look at the graphic' ở mức khó: người nói KHÔNG đọc ra con số cần tìm, mà mô tả gián tiếp để bạn tự đối chiếu với bảng.",
+      "promptEn": "Listen to the presentation and answer the three questions. Refer to the table below where indicated.\n\nREGIONAL SALES, Q3 (millions)\nNorth — 12.4\nSouth — 8.9\nEast — 15.1\nWest — 9.7",
+      "accent": "us",
+      "transcript": [
+        {
+          "speaker": "Speaker",
+          "text": "Thanks. I'll keep this to the headlines and we can go into detail in the breakout sessions."
+        },
+        {
+          "speaker": "Speaker",
+          "text": "Overall the quarter came in slightly ahead of plan, but the regional picture is uneven and that's what I want to focus on."
+        },
+        {
+          "speaker": "Speaker",
+          "text": "Our strongest region is performing well, but I'm not going to spend time on it today because nothing there needs a decision from this group."
+        },
+        {
+          "speaker": "Speaker",
+          "text": "The region I do want to discuss is the one that came in lowest. Its result is not a surprise — we closed two depots there in June — but the recovery has been slower than the model predicted, and we now think the second half of next year is realistic rather than the first."
+        },
+        {
+          "speaker": "Speaker",
+          "text": "One more thing before questions. The figures you have in front of you exclude the Meridian acquisition, which completed in August. Including it would add roughly two million to the eastern total, so please don't quote these numbers externally without that caveat."
+        }
+      ],
+      "timeLimitSec": 210,
+      "questions": [
+        {
+          "id": "p4-1",
+          "kind": "mcq",
+          "prompt": "Look at the table. Which region does the speaker want to discuss?",
+          "options": [
+            {
+              "id": "a",
+              "text": "South"
+            },
+            {
+              "id": "b",
+              "text": "North"
+            },
+            {
+              "id": "c",
+              "text": "East"
+            },
+            {
+              "id": "d",
+              "text": "West"
+            }
+          ],
+          "answer": "a",
+          "explanationVi": "Người nói muốn bàn về vùng có kết quả THẤP NHẤT. Trong bảng, South là 8,9 — thấp nhất. Con số không được đọc ra, phải tự đối chiếu."
+        },
+        {
+          "id": "p4-2",
+          "kind": "mcq",
+          "prompt": "Why does the speaker skip the strongest region?",
+          "options": [
+            {
+              "id": "a",
+              "text": "Its figures are not yet final."
+            },
+            {
+              "id": "b",
+              "text": "It will be covered by another speaker."
+            },
+            {
+              "id": "c",
+              "text": "Its performance was disappointing."
+            },
+            {
+              "id": "d",
+              "text": "No decision is required from this group about it."
+            }
+          ],
+          "answer": "d",
+          "explanationVi": "'nothing there needs a decision from this group'."
+        },
+        {
+          "id": "p4-3",
+          "kind": "mcq",
+          "prompt": "What caveat does the speaker give about the figures?",
+          "options": [
+            {
+              "id": "a",
+              "text": "They include an acquisition completed in August."
+            },
+            {
+              "id": "b",
+              "text": "They are provisional and will be restated."
+            },
+            {
+              "id": "c",
+              "text": "They exclude an acquisition worth about two million in the East."
+            },
+            {
+              "id": "d",
+              "text": "They cover only two of the four regions."
+            }
+          ],
+          "answer": "c",
+          "explanationVi": "'The figures... exclude the Meridian acquisition... Including it would add roughly two million to the eastern total'. Chú ý từ 'exclude', dễ nghe nhầm thành 'include'."
+        }
+      ]
+    },
+    {
+      "id": "writing-respond-escalation",
+      "skill": "writing",
+      "title": "Writing Q6–7 — Respond to a written request",
+      "format": "TOEIC Writing — Respond to a Written Request · 10 phút, email xử lý leo thang",
+      "instructionsVi": "Viết 80–150 từ. Tình huống nhạy cảm: khách đe doạ chấm dứt hợp đồng. Phải làm đủ ba việc, giữ được khách, mà không hứa điều nằm ngoài thẩm quyền.",
+      "promptEn": "Read the email below and respond.\n\nFrom: Beatriz Lund, Operations Director, Calderon Foods\nTo: Account Management, Vellmar Logistics\nSubject: Third late delivery — escalation\n\nThis is the third late delivery this quarter. Each time we are told it was exceptional. Our production line stopped for four hours yesterday as a result, at significant cost.\n\nI need a written explanation, a concrete commitment on what changes, and an answer on compensation. If I do not receive all three by Friday, I will begin the process of retendering the contract.\n\n---\n\nDIRECTIONS: Respond as the account manager. In your reply, give ONE explanation, state ONE concrete change you will make, and address the compensation point.",
+      "timeLimitSec": 600,
+      "minWords": 80,
+      "maxWords": 150,
+      "sampleAnswer": "Dear Ms Lund,\n\nThank you for setting this out so clearly. Three late deliveries in one quarter is not acceptable, and I am not going to describe this one as exceptional.\n\nThe cause was a change to our overnight routing in July, which added a transfer at the Kirby depot for shipments to your site. That transfer has failed to meet its cut-off on each of the three occasions.\n\nThe concrete change is that your shipments will be removed from the Kirby transfer with effect from Monday and routed directly, as they were before July. I have confirmed this with our network manager today.\n\nOn compensation, I do not have authority to agree a figure myself, but I have referred your claim for yesterday's four-hour stoppage to our commercial director and will give you a decision by Thursday, ahead of your Friday deadline.\n\nRegards,\nTomas Adeyemi\nAccount Manager, Vellmar Logistics",
+      "rubricVi": [
+        "Làm đủ ba việc đề nêu: giải thích, cam kết thay đổi cụ thể, trả lời về bồi thường. Né một trong ba là mất điểm nặng.",
+        "Trả lời trung thực về thẩm quyền thay vì hứa liều. Nói rõ đã chuyển lên cấp trên kèm mốc thời gian là cách xử lý được đánh giá cao.",
+        "Không lặp lại từ 'exceptional' theo kiểu bào chữa — khách đã chỉ đích danh cách nói đó. Đáp lại đúng điểm khách bức xúc là tiêu chí nội dung.",
+        "Cam kết phải cụ thể, có mốc thời gian và người chịu trách nhiệm, không nói 'chúng tôi sẽ cải thiện'.",
+        "Đưa mốc trả lời SỚM hơn hạn khách đặt. Chi tiết nhỏ này cho thấy nắm được tính cấp bách."
+      ]
+    },
+    {
+      "id": "writing-opinion-automation",
+      "skill": "writing",
+      "title": "Writing Q8 — Write an opinion essay",
+      "format": "TOEIC Writing — Opinion Essay · 30 phút, tối thiểu 300 từ",
+      "instructionsVi": "Viết 300–380 từ. Đề ở mức 900 có tiền đề gài sẵn; bài giỏi sẽ chất vấn tiền đề đó trước khi trả lời, nhưng vẫn phải giữ cấu trúc rõ ràng kiểu TOEIC.",
+      "promptEn": "Do you agree or disagree with the following statement?\n\n'A manager who is liked by their team will always be more effective than one who is not.'\n\nUse specific reasons and examples to support your answer.",
+      "timeLimitSec": 1800,
+      "minWords": 300,
+      "maxWords": 380,
+      "sampleAnswer": "I disagree with this statement as it is written, mainly because of the word 'always'. Being liked helps a manager, but it is neither sufficient on its own nor the quality that matters most. I would argue that being trusted is the decisive factor, and that trust and popularity are not the same thing.\n\nFirst, a manager who is liked but not respected cannot make unpopular decisions, and every manager eventually has to. At a company where I worked, our department head was genuinely well liked and avoided conflict at all costs. When two team members consistently missed deadlines, he said nothing for almost a year. The rest of us absorbed the extra work, and three people left. His popularity was preserved and the team was damaged.\n\nSecond, being liked can be achieved in ways that harm the organisation. A manager who approves every leave request, accepts every excuse and passes every appraisal will be popular in the short term. The cost appears later, in missed targets and in staff who were never told what they needed to improve.\n\nThird, and most importantly, effectiveness depends on whether people believe what the manager says. I have worked for a manager who was blunt and not especially warm, and who very few people would have described as likeable. But when she said a deadline was genuinely fixed, everyone believed her, because she had never inflated one. That reliability produced far better results than the friendlier approach did.\n\nI would accept that, all else being equal, a manager who is liked has an advantage. People share problems earlier and cooperate more readily, and those effects are real.\n\nHowever, the statement claims that being liked is always decisive, and I do not accept that. Trust, consistency and the willingness to say uncomfortable things matter more, and a manager who has those will be effective whether or not the team finds them personally likeable.",
+      "rubricVi": [
+        "Chất vấn từ 'always' trong đề. Ở mức 900, nhận ra tiền đề tuyệt đối rồi phản bác chính xác chỗ đó là kỹ thuật ăn điểm cao nhất.",
+        "Phân tách hai khái niệm bị gộp (được yêu quý và được tin tưởng) và giữ sự phân tách đó suốt bài.",
+        "Ba lý do, mỗi lý do một đoạn, ví dụ có chi tiết và có hậu quả đo được (ba người nghỉ việc).",
+        "Nhượng bộ một đoạn ngắn cho phía đối lập rồi quay lại lập trường. Bài một chiều bị đánh giá thấp ở mức này.",
+        "Đủ 300 từ, cấu trúc vẫn phải rõ ràng kiểu TOEIC — chất vấn tiền đề không có nghĩa là viết lan man."
+      ]
+    },
+    {
+      "id": "speaking-describe-picture-station",
+      "skill": "speaking",
+      "title": "Speaking Q3 — Describe a picture",
+      "format": "TOEIC Speaking — Describe a Picture · 45 giây chuẩn bị, 45 giây nói",
+      "instructionsVi": "Cảnh nhiều lớp, nhiều hoạt động song song và một chi tiết gợi tình huống. Ở mức 900, người chấm mong bạn vừa mô tả chính xác vừa suy ra được bối cảnh.",
+      "promptEn": "Describe the scene below in as much detail as you can. You have 45 seconds to prepare and 45 seconds to speak.\n\nSCENE: A crowded railway station concourse. In the centre, a large departure board shows several rows of text; a group of about ten people stand looking up at it, most holding phones. On the right, a queue of roughly fifteen people waits at a ticket window where a single member of staff is serving. On the left, a cleaner pushes a trolley past a row of closed shop shutters. In the foreground, a man in a suit sits on a suitcase, reading a newspaper. A handwritten sign on an easel near the board reads 'Reduced service today'.",
+      "timeLimitSec": 45,
+      "preparationSec": 45,
+      "sampleAnswer": "This picture shows a crowded railway station concourse, and something appears to be disrupting the normal service.\n\nIn the centre, there is a large departure board with several rows of text. About ten people are standing underneath it, looking up, and most of them are holding phones, so they are probably checking for updates about their trains.\n\nOn the right, roughly fifteen people are queuing at a ticket window, but only one member of staff is serving them, which explains why the queue is so long.\n\nOn the left, a cleaner is pushing a trolley past a row of shops, and all of the shutters are closed.\n\nIn the foreground, a man in a suit is sitting on his suitcase and reading a newspaper. He looks as though he has been waiting for some time.\n\nThe detail that ties it together is a handwritten sign on an easel which says 'Reduced service today'. That suggests the delays are known about and probably significant.",
+      "rubricVi": [
+        "Nêu giả thuyết bối cảnh ngay câu đầu ('something appears to be disrupting...') rồi dùng các chi tiết để chống đỡ. Đây là cách mở của bài mức 900.",
+        "Nối các chi tiết với nhau bằng quan hệ nhân quả: một nhân viên nên hàng dài, biển báo nên hành khách nhìn bảng. Mô tả rời rạc không được điểm cao.",
+        "Ngôn ngữ phỏng đoán chính xác: probably, appears to, looks as though, suggests.",
+        "Giữ trật tự không gian rõ và kết bằng chi tiết then chốt (tấm biển) thay vì kết cụt.",
+        "Dùng trọn 45 giây, phát âm rõ, không tăng tốc để nhồi thêm chi tiết."
+      ]
+    },
+    {
+      "id": "speaking-respond-information-training",
+      "skill": "speaking",
+      "title": "Speaking Q7–9 — Respond using information provided",
+      "format": "TOEIC Speaking — Respond Using Information Provided · 30 giây đọc bảng",
+      "instructionsVi": "Bảng có ghi chú và ngoại lệ ở cuối. Ở mức 900, ít nhất một câu hỏi chỉ trả lời đúng nếu bạn đọc cả phần ghi chú, không chỉ các dòng chính.",
+      "promptEn": "You have 30 seconds to read the schedule below. Then answer the three questions using the information given.\n\nVELLMAR LOGISTICS — Compliance Training, week of 9 June\nAll sessions in the Boardroom unless stated.\n\nMon 9 Jun · 09:00–10:30 · Data protection refresher · Ines Duarte\nTue 10 Jun · 14:00–16:00 · Dangerous goods handling · Karl Weber (Training Annexe)\nWed 11 Jun · 09:00–11:00 · Anti-bribery policy · Ines Duarte\nThu 12 Jun · 13:00–15:30 · Dangerous goods handling (repeat) · Karl Weber (Training Annexe)\nFri 13 Jun · 10:00–11:00 · Q&A drop-in · Compliance team\n\nNotes: Dangerous goods handling is mandatory for warehouse staff only. All other sessions are mandatory for all employees. The Friday drop-in is optional.\n\nQuestions:\n1. When and where is the anti-bribery session?\n2. I work in finance — I've been told I have to attend the dangerous goods course. Is that right?\n3. Could you tell me everything Karl Weber is running, and anything I should know about it?",
+      "timeLimitSec": 60,
+      "preparationSec": 30,
+      "sampleAnswer": "1. The anti-bribery policy session is on Wednesday the eleventh of June, from nine o'clock until eleven, and it takes place in the Boardroom.\n\n2. Actually, that's not correct. The dangerous goods handling course is mandatory for warehouse staff only, so as someone in finance you are not required to attend it. The sessions that are mandatory for all employees are the data protection refresher on Monday and the anti-bribery policy session on Wednesday.\n\n3. Certainly. Karl Weber is running the dangerous goods handling course, and he runs it twice. The first is on Tuesday the tenth, from two until four in the afternoon, and the second is a repeat on Thursday the twelfth, from one until half past three. Both of those take place in the Training Annexe rather than the Boardroom, and as I mentioned, they are only required for warehouse staff.",
+      "rubricVi": [
+        "Câu 2 chỉ trả lời đúng nếu đọc phần ghi chú cuối bảng. Bỏ qua ghi chú là sai hoàn toàn — đây là bẫy chính.",
+        "Đính chính thông tin sai rồi BỔ SUNG thông tin đúng mà người hỏi thực sự cần (những buổi họ phải dự).",
+        "Câu 3 phải nêu đủ cả hai buổi, kèm giờ, VÀ hai điểm đáng lưu ý: địa điểm khác thường và đối tượng bắt buộc.",
+        "Đọc ngày giờ tự nhiên, không đọc như đọc bảng biểu.",
+        "Chỉ dùng thông tin trong bảng. Ở phần này, thêm thông tin ngoài bảng bị tính là sai."
+      ]
+    },
+    {
+      "id": "speaking-propose-solution-quality",
+      "skill": "speaking",
+      "title": "Speaking Q10 — Propose a solution",
+      "format": "TOEIC Speaking — Propose a Solution · 30 giây chuẩn bị, 60 giây nói",
+      "instructionsVi": "Vấn đề có ba mặt và có yếu tố xung đột giữa hai bộ phận. Giải pháp phải xử lý được cả vấn đề trước mắt lẫn nguyên nhân, mà không đổ lỗi cho bên nào.",
+      "promptEn": "Listen to the voicemail describing a problem, then leave a message proposing a solution.\n\nVOICEMAIL: 'Hi, this is Rowan Beck, quality manager at the Northgate plant. We've got a situation. The last four batches from line two failed inspection on the same measurement, so I've held them — that's about eleven thousand units. Production says the line is within tolerance and wants them released, and they're pointing at the shipping deadline on Friday. I've checked our gauge and it was calibrated last month, so I don't think the problem is on my side. I need someone to make a call here, because production and quality are not going to agree on this one. Call me on 0191 552 3016.'",
+      "timeLimitSec": 60,
+      "preparationSec": 30,
+      "sampleAnswer": "Hello Rowan, this is Amira Haddad from operations, returning your call.\n\nLet me confirm what I've understood. Four consecutive batches from line two, around eleven thousand units, have failed inspection on the same measurement and you've placed them on hold. Production believes the line is within tolerance and wants a release because of Friday's shipping deadline, and your gauge was calibrated last month.\n\nHere's what I propose. First, for today: we send a sample of thirty units from the held batches to the external lab for independent measurement. That removes the argument about whose instrument is right, and we should have a result tomorrow morning, which still leaves time before Friday.\n\nSecond, whichever way that comes back, I want line two's own gauge calibrated this week as well, because right now neither side can prove its position.\n\nThe hold stays in place until the lab result arrives — that's my decision, not yours, so please pass that to production. I'll call them myself this afternoon. Can you arrange the sample dispatch today?",
+      "rubricVi": [
+        "Nhắc lại đủ CẢ BA yếu tố: bốn lô bị giữ, xung đột với sản xuất, và việc thiết bị đo đã hiệu chuẩn. Thiếu một yếu tố là chưa hoàn thành nhiệm vụ.",
+        "Giải pháp phải phá được thế bế tắc bằng bên thứ ba khách quan, thay vì phân xử ai đúng ai sai.",
+        "Nhận trách nhiệm quyết định thay cho người gọi ('that's my decision, not yours'). Đây là chi tiết cho thấy hiểu đúng vai trò được nhờ cậy.",
+        "Tôn trọng ràng buộc thời gian đã nêu (thứ Sáu) và chứng minh phương án vẫn kịp.",
+        "Kết bằng một yêu cầu hành động cụ thể cho người nhận. Dùng trọn 60 giây."
+      ]
+    }
+  ]
+}

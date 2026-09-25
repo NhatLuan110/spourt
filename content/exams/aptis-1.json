@@ -1,0 +1,971 @@
+{
+  "examId": "aptis",
+  "levelId": "1",
+  "vocabulary": [
+    {
+      "id": "join",
+      "term": "join",
+      "ipa": "/dʒɔɪn/",
+      "meaningVi": "tham gia, gia nhập",
+      "definitionEn": "To become a member of a group or club.",
+      "example": "I joined the running club in March.",
+      "exampleVi": "Tôi tham gia câu lạc bộ chạy bộ hồi tháng Ba.",
+      "collocations": [
+        "join a club",
+        "join in",
+        "join us for"
+      ]
+    },
+    {
+      "id": "borrow",
+      "term": "borrow",
+      "ipa": "/ˈbɒrəʊ/",
+      "meaningVi": "mượn",
+      "definitionEn": "To take something from someone and return it later.",
+      "example": "Can I borrow your bicycle on Saturday?",
+      "exampleVi": "Thứ Bảy tôi mượn xe đạp của bạn được không?",
+      "collocations": [
+        "borrow money",
+        "borrow from",
+        "borrow a book"
+      ]
+    },
+    {
+      "id": "arrange",
+      "term": "arrange",
+      "ipa": "/əˈreɪndʒ/",
+      "meaningVi": "sắp xếp, thu xếp",
+      "definitionEn": "To plan or organise something in advance.",
+      "example": "We arranged to meet outside the library at six.",
+      "exampleVi": "Chúng tôi hẹn gặp ở ngoài thư viện lúc sáu giờ.",
+      "collocations": [
+        "arrange a meeting",
+        "arrange to meet",
+        "make arrangements"
+      ]
+    },
+    {
+      "id": "neighbour",
+      "term": "neighbour",
+      "ipa": "/ˈneɪbə(r)/",
+      "meaningVi": "hàng xóm",
+      "definitionEn": "A person who lives next to or near you.",
+      "example": "My neighbour looks after my cat when I travel.",
+      "exampleVi": "Hàng xóm trông mèo giúp tôi khi tôi đi vắng.",
+      "collocations": [
+        "next-door neighbour",
+        "friendly neighbour",
+        "neighbourhood"
+      ]
+    },
+    {
+      "id": "volunteer",
+      "term": "volunteer",
+      "ipa": "/ˌvɒlənˈtɪə(r)/",
+      "meaningVi": "tình nguyện viên; tình nguyện làm",
+      "definitionEn": "Someone who works without being paid, or to offer to do something.",
+      "example": "Six volunteers helped clear the park on Sunday.",
+      "exampleVi": "Sáu tình nguyện viên đã giúp dọn công viên hôm Chủ nhật.",
+      "collocations": [
+        "volunteer work",
+        "volunteer for",
+        "a group of volunteers"
+      ]
+    },
+    {
+      "id": "afford",
+      "term": "afford",
+      "ipa": "/əˈfɔːd/",
+      "meaningVi": "đủ tiền để mua, kham được",
+      "definitionEn": "To have enough money or time for something.",
+      "example": "I can't afford a new laptop this year.",
+      "exampleVi": "Năm nay tôi không đủ tiền mua máy tính mới.",
+      "collocations": [
+        "can't afford",
+        "afford to buy",
+        "affordable price"
+      ]
+    },
+    {
+      "id": "improve",
+      "term": "improve",
+      "ipa": "/ɪmˈpruːv/",
+      "meaningVi": "cải thiện",
+      "definitionEn": "To become better, or to make something better.",
+      "example": "My listening improved after I started watching films without subtitles.",
+      "exampleVi": "Kỹ năng nghe của tôi khá lên sau khi tôi bắt đầu xem phim không phụ đề.",
+      "collocations": [
+        "improve quickly",
+        "improve a service",
+        "a big improvement"
+      ]
+    },
+    {
+      "id": "recommend",
+      "term": "recommend",
+      "ipa": "/ˌrekəˈmend/",
+      "meaningVi": "giới thiệu, khuyên dùng",
+      "definitionEn": "To suggest that something or someone is good.",
+      "example": "She recommended a café near the station.",
+      "exampleVi": "Cô ấy giới thiệu một quán cà phê gần ga.",
+      "collocations": [
+        "highly recommend",
+        "recommend that",
+        "a recommendation"
+      ]
+    },
+    {
+      "id": "notice",
+      "term": "notice",
+      "ipa": "/ˈnəʊtɪs/",
+      "meaningVi": "để ý thấy; thông báo dán",
+      "definitionEn": "To see or become aware of something; or a written announcement.",
+      "example": "I noticed a notice on the door about the closure.",
+      "exampleVi": "Tôi để ý thấy tờ thông báo trên cửa về việc đóng cửa.",
+      "collocations": [
+        "notice board",
+        "give notice",
+        "at short notice"
+      ]
+    },
+    {
+      "id": "local",
+      "term": "local",
+      "ipa": "/ˈləʊkl/",
+      "meaningVi": "địa phương, gần nơi ở",
+      "definitionEn": "Relating to the area where you live.",
+      "example": "The local swimming pool opens at seven.",
+      "exampleVi": "Bể bơi ở khu tôi mở cửa từ bảy giờ.",
+      "collocations": [
+        "local area",
+        "local shop",
+        "local residents"
+      ]
+    },
+    {
+      "id": "spare",
+      "term": "spare",
+      "ipa": "/speə(r)/",
+      "meaningVi": "dư ra, rảnh rỗi",
+      "definitionEn": "Extra, or not being used at the moment.",
+      "example": "I have a spare ticket if you want to come.",
+      "exampleVi": "Tôi có dư một vé nếu bạn muốn đi cùng.",
+      "collocations": [
+        "spare time",
+        "a spare key",
+        "spare room"
+      ]
+    },
+    {
+      "id": "collect",
+      "term": "collect",
+      "ipa": "/kəˈlekt/",
+      "meaningVi": "đến lấy, thu gom",
+      "definitionEn": "To go and get something from a place.",
+      "example": "You can collect the parcel from the desk after four.",
+      "exampleVi": "Bạn có thể đến lấy bưu kiện ở quầy sau bốn giờ.",
+      "collocations": [
+        "collect a parcel",
+        "collect from",
+        "collection point"
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "id": "reading-part1-gapfill",
+      "skill": "reading",
+      "title": "Part 1 — Sentence comprehension",
+      "format": "Aptis Reading — Part 1 · Điền từ vào một đoạn văn ngắn",
+      "instructionsVi": "Đọc đoạn văn ngắn và chọn từ đúng cho mỗi chỗ trống. Part 1 của Aptis kiểm tra từ vựng hằng ngày ở mức câu; đọc cả câu trước khi chọn vì có phương án đúng ngữ pháp nhưng sai nghĩa.",
+      "promptEn": "Read the text and choose the best word for each gap.",
+      "passage": "Hi Sam,\n\nI hope you're well. I'm writing because I've decided to (1) ______ the photography club that meets at the community centre.\n\nThey meet every Tuesday evening and the first session is free, so I thought I'd try it. The problem is that I don't have a proper camera and I can't (2) ______ one at the moment.\n\nYour brother has one, doesn't he? Would he let me (3) ______ it just for the first evening? I'd look after it very carefully.\n\nLet me know. If it's difficult, I can use my phone instead — the club leader said that's fine to (4) ______ with.\n\nThanks,\nRosa",
+      "timeLimitSec": 200,
+      "questions": [
+        {
+          "id": "a1",
+          "kind": "mcq",
+          "prompt": "Gap (1)",
+          "options": [
+            {
+              "id": "a",
+              "text": "enter"
+            },
+            {
+              "id": "b",
+              "text": "join"
+            },
+            {
+              "id": "c",
+              "text": "attend"
+            },
+            {
+              "id": "d",
+              "text": "arrive"
+            }
+          ],
+          "answer": "b",
+          "explanationVi": "'join a club' là cụm cố định nghĩa trở thành thành viên. 'enter' là đi vào một nơi, 'attend' là dự một buổi cụ thể chứ không phải gia nhập."
+        },
+        {
+          "id": "a2",
+          "kind": "mcq",
+          "prompt": "Gap (2)",
+          "options": [
+            {
+              "id": "a",
+              "text": "spend"
+            },
+            {
+              "id": "b",
+              "text": "cost"
+            },
+            {
+              "id": "c",
+              "text": "pay"
+            },
+            {
+              "id": "d",
+              "text": "afford"
+            }
+          ],
+          "answer": "d",
+          "explanationVi": "'can't afford one' = không đủ tiền mua. 'cost' có chủ ngữ là vật chứ không phải người; 'pay' cần thêm 'for'."
+        },
+        {
+          "id": "a3",
+          "kind": "mcq",
+          "prompt": "Gap (3)",
+          "options": [
+            {
+              "id": "a",
+              "text": "borrow"
+            },
+            {
+              "id": "b",
+              "text": "lend"
+            },
+            {
+              "id": "c",
+              "text": "rent"
+            },
+            {
+              "id": "d",
+              "text": "hire"
+            }
+          ],
+          "answer": "a",
+          "explanationVi": "Rosa là người MƯỢN nên dùng 'borrow'. 'lend' là cho mượn, dùng cho anh trai của Sam — đây là cặp từ người Việt hay lẫn nhất."
+        },
+        {
+          "id": "a4",
+          "kind": "mcq",
+          "prompt": "Gap (4)",
+          "options": [
+            {
+              "id": "a",
+              "text": "begin"
+            },
+            {
+              "id": "b",
+              "text": "open"
+            },
+            {
+              "id": "c",
+              "text": "start"
+            },
+            {
+              "id": "d",
+              "text": "found"
+            }
+          ],
+          "answer": "c",
+          "explanationVi": "'to start with' là cụm cố định nghĩa 'lúc đầu'. 'begin with' không dùng ở cuối câu theo cách này."
+        }
+      ]
+    },
+    {
+      "id": "reading-part3-opinions",
+      "skill": "reading",
+      "title": "Part 3 — Opinion matching",
+      "format": "Aptis Reading — Part 3 · Nối ý kiến với người nói",
+      "instructionsVi": "Bốn người nói về cùng một chủ đề. Với mỗi ý, chọn người đã nêu ý đó. Bẫy của dạng này là hai người thường nói điều gần giống nhau nhưng khác một chi tiết quyết định.",
+      "promptEn": "Four people talk about their local library. Decide who says each of the following.",
+      "passage": "ANNA: I go there almost every week, but honestly not for the books. I use the computers. I don't have internet at home, and the staff helped me fill in a form online when I had no idea what I was doing.\n\nBEN: I take my daughter to the story session on Saturday mornings. She's four and she loves it. I do borrow books myself, but if the story session stopped I probably wouldn't go at all.\n\nCLARA: I borrow six or seven books a month, so for me it's still mainly about reading. What I would change is the opening hours — it closes at five, which is no use if you work in the city.\n\nDAN: I went a lot as a student and I haven't been back for years. I keep meaning to. My sister says it's much better than it was, with a café now, but I've never actually seen it.",
+      "timeLimitSec": 240,
+      "questions": [
+        {
+          "id": "o1",
+          "kind": "mcq",
+          "prompt": "Who visits mainly for a child's activity?",
+          "options": [
+            {
+              "id": "a",
+              "text": "Anna"
+            },
+            {
+              "id": "b",
+              "text": "Clara"
+            },
+            {
+              "id": "c",
+              "text": "Dan"
+            },
+            {
+              "id": "d",
+              "text": "Ben"
+            }
+          ],
+          "answer": "d",
+          "explanationVi": "Ben đưa con gái tới buổi kể chuyện và nói nếu buổi đó dừng thì anh ấy 'probably wouldn't go at all'."
+        },
+        {
+          "id": "o2",
+          "kind": "mcq",
+          "prompt": "Who has not been to the library recently?",
+          "options": [
+            {
+              "id": "a",
+              "text": "Anna"
+            },
+            {
+              "id": "b",
+              "text": "Ben"
+            },
+            {
+              "id": "c",
+              "text": "Dan"
+            },
+            {
+              "id": "d",
+              "text": "Clara"
+            }
+          ],
+          "answer": "c",
+          "explanationVi": "Dan: 'I haven't been back for years... I've never actually seen it'. Anh ta chỉ nghe em gái kể lại."
+        },
+        {
+          "id": "o3",
+          "kind": "mcq",
+          "prompt": "Who wants the library to be open longer?",
+          "options": [
+            {
+              "id": "a",
+              "text": "Anna"
+            },
+            {
+              "id": "b",
+              "text": "Clara"
+            },
+            {
+              "id": "c",
+              "text": "Ben"
+            },
+            {
+              "id": "d",
+              "text": "Dan"
+            }
+          ],
+          "answer": "b",
+          "explanationVi": "Clara: 'What I would change is the opening hours — it closes at five, which is no use if you work in the city'."
+        },
+        {
+          "id": "o4",
+          "kind": "mcq",
+          "prompt": "Who received help from a member of staff?",
+          "options": [
+            {
+              "id": "a",
+              "text": "Anna"
+            },
+            {
+              "id": "b",
+              "text": "Ben"
+            },
+            {
+              "id": "c",
+              "text": "Clara"
+            },
+            {
+              "id": "d",
+              "text": "Dan"
+            }
+          ],
+          "answer": "a",
+          "explanationVi": "Anna: 'the staff helped me fill in a form online'. Cả Anna và Ben đều đi thường xuyên, nhưng chỉ Anna nhắc tới việc được nhân viên giúp."
+        }
+      ]
+    },
+    {
+      "id": "reading-part4-headings",
+      "skill": "reading",
+      "title": "Part 4 — Long text heading matching",
+      "format": "Aptis Reading — Part 4 · Nối tiêu đề với đoạn trong bài dài",
+      "instructionsVi": "Bài dài chia thành nhiều đoạn, mỗi đoạn chọn một tiêu đề. Số tiêu đề nhiều hơn số đoạn. Đọc câu đầu và câu cuối mỗi đoạn trước, đó thường là nơi chứa ý chính.",
+      "promptEn": "The text has four paragraphs, A–D. Choose the most suitable heading for each paragraph.",
+      "passage": "A. The Meadow Street community garden began in 2019 on a piece of land that had been empty for eleven years. It had been the site of a car repair workshop, and after the business closed the plot filled up with rubbish. Two residents wrote to the council asking whether anything could be done, and were surprised to be offered a five-year lease for a nominal rent.\n\nB. The first year was harder than anyone expected. The soil was poor and had to be tested for contamination before anything could be planted, which took four months and cost more than the group had raised. Volunteers who had signed up in the spring drifted away over the summer while nothing visible was happening.\n\nC. What turned it around was a change of approach. Instead of trying to plant the whole site, the group concentrated on one corner and built six raised beds there. Within a season that corner looked like a garden, and photographs of it brought in twenty new volunteers and a small grant from a local company.\n\nD. The garden now has thirty-two beds, a tool shed and a water tank. It supplies vegetables to a community kitchen twice a week. The group's advice to others starting out is simple: make one small part of the site look finished as early as you can, because people join things that appear to be working.",
+      "timeLimitSec": 240,
+      "questions": [
+        {
+          "id": "h1",
+          "kind": "mcq",
+          "prompt": "Paragraph A",
+          "options": [
+            {
+              "id": "a",
+              "text": "Problems with the soil"
+            },
+            {
+              "id": "b",
+              "text": "Advice for other groups"
+            },
+            {
+              "id": "c",
+              "text": "How the project began"
+            },
+            {
+              "id": "d",
+              "text": "The garden today"
+            }
+          ],
+          "answer": "c",
+          "explanationVi": "Đoạn A kể nguồn gốc: đất bỏ hoang, hai người viết thư, được thuê giá tượng trưng."
+        },
+        {
+          "id": "h2",
+          "kind": "mcq",
+          "prompt": "Paragraph B",
+          "options": [
+            {
+              "id": "a",
+              "text": "A difficult first year"
+            },
+            {
+              "id": "b",
+              "text": "How the project began"
+            },
+            {
+              "id": "c",
+              "text": "New volunteers arrive"
+            },
+            {
+              "id": "d",
+              "text": "Selling vegetables locally"
+            }
+          ],
+          "answer": "a",
+          "explanationVi": "Đoạn B nói về khó khăn năm đầu: đất xấu, phải kiểm tra ô nhiễm, tình nguyện viên bỏ đi."
+        },
+        {
+          "id": "h3",
+          "kind": "mcq",
+          "prompt": "Paragraph C",
+          "options": [
+            {
+              "id": "a",
+              "text": "Applying for a grant"
+            },
+            {
+              "id": "b",
+              "text": "A change that made the difference"
+            },
+            {
+              "id": "c",
+              "text": "Building a tool shed"
+            },
+            {
+              "id": "d",
+              "text": "Testing the soil"
+            }
+          ],
+          "answer": "b",
+          "explanationVi": "Đoạn C: 'What turned it around was a change of approach' — tập trung một góc thay vì cả khu. Việc xin tài trợ chỉ là kết quả đi kèm."
+        },
+        {
+          "id": "h4",
+          "kind": "mcq",
+          "prompt": "Paragraph D",
+          "options": [
+            {
+              "id": "a",
+              "text": "Plans for the next five years"
+            },
+            {
+              "id": "b",
+              "text": "Where the money came from"
+            },
+            {
+              "id": "c",
+              "text": "Why the workshop closed"
+            },
+            {
+              "id": "d",
+              "text": "The garden now, and what the group learned"
+            }
+          ],
+          "answer": "d",
+          "explanationVi": "Đoạn D vừa mô tả hiện trạng (32 luống, kho, bồn nước) vừa nêu bài học rút ra ở câu cuối."
+        }
+      ]
+    },
+    {
+      "id": "listening-part1-messages",
+      "skill": "listening",
+      "title": "Listening — Short messages (1)",
+      "format": "Aptis Listening — Đoạn ghi âm ngắn, nghe hai lần, chọn một trong ba",
+      "instructionsVi": "Mỗi đoạn ghi âm rất ngắn và chỉ có MỘT câu hỏi. Trong đề thi thật băng được phát HAI lần, nên lần đầu nghe lấy ý chính, lần hai xác nhận chi tiết.",
+      "promptEn": "Listen to each short recording and answer the question.",
+      "accent": "uk",
+      "transcript": [
+        {
+          "speaker": "Message 1",
+          "text": "Hi, it's Dara. Just to say I'll be a bit late tomorrow — my train's been cancelled so I'm getting the one after, which arrives at ten past nine instead of half eight. Sorry about that. See you at the office."
+        },
+        {
+          "speaker": "Message 2",
+          "text": "Good afternoon. This is a message from Fairview Dental. We're confirming your appointment on Thursday at three fifteen. Please bring your insurance card. If you need to change the time, call us before Wednesday lunchtime."
+        },
+        {
+          "speaker": "Message 3",
+          "text": "Hello, this is the parcel depot. We tried to deliver a package to your address this morning but nobody was in. You can collect it from the depot on Wharf Road any day between eight and six, or we can redeliver on Saturday if you call and let us know."
+        },
+        {
+          "speaker": "Message 4",
+          "text": "Hi Rosa, it's Sam. About the camera — my brother says yes, that's fine, but he needs it back by Wednesday because he's going away. So Tuesday evening works, just not longer than that. Give me a ring."
+        }
+      ],
+      "timeLimitSec": 280,
+      "questions": [
+        {
+          "id": "m1",
+          "kind": "mcq",
+          "prompt": "Message 1: What time will Dara now arrive?",
+          "options": [
+            {
+              "id": "a",
+              "text": "9:10"
+            },
+            {
+              "id": "b",
+              "text": "8:30"
+            },
+            {
+              "id": "c",
+              "text": "9:30"
+            }
+          ],
+          "answer": "a",
+          "explanationVi": "'arrives at ten past nine instead of half eight'. 8:30 là giờ dự kiến ban đầu, không còn đúng nữa."
+        },
+        {
+          "id": "m2",
+          "kind": "mcq",
+          "prompt": "Message 2: What should the listener bring?",
+          "options": [
+            {
+              "id": "a",
+              "text": "A payment"
+            },
+            {
+              "id": "b",
+              "text": "An insurance card"
+            },
+            {
+              "id": "c",
+              "text": "A previous X-ray"
+            }
+          ],
+          "answer": "b",
+          "explanationVi": "'Please bring your insurance card'."
+        },
+        {
+          "id": "m3",
+          "kind": "mcq",
+          "prompt": "Message 3: What are the two options for the parcel?",
+          "options": [
+            {
+              "id": "a",
+              "text": "Collect it, or have it returned to the sender"
+            },
+            {
+              "id": "b",
+              "text": "Wait at home, or pay a fee"
+            },
+            {
+              "id": "c",
+              "text": "Collect it, or arrange redelivery on Saturday"
+            }
+          ],
+          "answer": "c",
+          "explanationVi": "'You can collect it from the depot... or we can redeliver on Saturday if you call'."
+        },
+        {
+          "id": "m4",
+          "kind": "mcq",
+          "prompt": "Message 4: When must the camera be returned?",
+          "options": [
+            {
+              "id": "a",
+              "text": "By Wednesday"
+            },
+            {
+              "id": "b",
+              "text": "By Tuesday evening"
+            },
+            {
+              "id": "c",
+              "text": "By Saturday"
+            }
+          ],
+          "answer": "a",
+          "explanationVi": "'he needs it back by Wednesday'. Tối thứ Ba là lúc Rosa dùng máy, không phải hạn trả."
+        }
+      ]
+    },
+    {
+      "id": "listening-part2-conversations",
+      "skill": "listening",
+      "title": "Listening — Short conversations",
+      "format": "Aptis Listening — Hội thoại ngắn, nghe hai lần, chọn một trong ba",
+      "instructionsVi": "Hội thoại hai người, mỗi đoạn một câu hỏi. Câu hỏi thường hỏi về QUYẾT ĐỊNH cuối cùng, mà quyết định đó luôn nằm ở lượt nói cuối — đừng chọn theo ý được nêu đầu tiên.",
+      "promptEn": "Listen to each conversation and answer the question.",
+      "accent": "uk",
+      "transcript": [
+        {
+          "speaker": "Conversation 1 — Woman",
+          "text": "Shall we meet at the cinema or somewhere first?"
+        },
+        {
+          "speaker": "Conversation 1 — Man",
+          "text": "The cinema's fine. Actually, no — there's nowhere to sit if you're early. Let's say the café next door, quarter past seven."
+        },
+        {
+          "speaker": "Conversation 2 — Man",
+          "text": "Do you want the blue one or the grey one?"
+        },
+        {
+          "speaker": "Conversation 2 — Woman",
+          "text": "I liked the blue, but it's only in small. So the grey, I suppose, even though it's a bit dull."
+        },
+        {
+          "speaker": "Conversation 3 — Woman",
+          "text": "Are you coming to the class on Thursday?"
+        },
+        {
+          "speaker": "Conversation 3 — Man",
+          "text": "I want to, but I've got my sister's thing. I'll come on Saturday instead if there's space."
+        },
+        {
+          "speaker": "Conversation 4 — Man",
+          "text": "Should I book a table for six?"
+        },
+        {
+          "speaker": "Conversation 4 — Woman",
+          "text": "Better make it eight — Priya's bringing two friends and Tom might come after work."
+        }
+      ],
+      "timeLimitSec": 280,
+      "questions": [
+        {
+          "id": "c1",
+          "kind": "mcq",
+          "prompt": "Conversation 1: Where will they meet?",
+          "options": [
+            {
+              "id": "a",
+              "text": "At the cinema"
+            },
+            {
+              "id": "b",
+              "text": "At the café next door"
+            },
+            {
+              "id": "c",
+              "text": "At the man's house"
+            }
+          ],
+          "answer": "b",
+          "explanationVi": "Người đàn ông đồng ý rạp chiếu phim rồi tự sửa: 'Actually, no... Let's say the café next door'."
+        },
+        {
+          "id": "c2",
+          "kind": "mcq",
+          "prompt": "Conversation 2: Which item will she take?",
+          "options": [
+            {
+              "id": "a",
+              "text": "The grey one"
+            },
+            {
+              "id": "b",
+              "text": "The blue one"
+            },
+            {
+              "id": "c",
+              "text": "Neither"
+            }
+          ],
+          "answer": "a",
+          "explanationVi": "Cô ấy THÍCH màu xanh nhưng chỉ còn cỡ nhỏ, nên lấy màu xám. Phân biệt điều thích với điều thực sự chọn."
+        },
+        {
+          "id": "c3",
+          "kind": "mcq",
+          "prompt": "Conversation 3: When will the man attend?",
+          "options": [
+            {
+              "id": "a",
+              "text": "Thursday"
+            },
+            {
+              "id": "b",
+              "text": "He will not attend."
+            },
+            {
+              "id": "c",
+              "text": "Saturday"
+            }
+          ],
+          "answer": "c",
+          "explanationVi": "'I'll come on Saturday instead if there's space'. Anh ta muốn đi thứ Năm nhưng bận."
+        },
+        {
+          "id": "c4",
+          "kind": "mcq",
+          "prompt": "Conversation 4: How many people will the table be for?",
+          "options": [
+            {
+              "id": "a",
+              "text": "Eight"
+            },
+            {
+              "id": "b",
+              "text": "Six"
+            },
+            {
+              "id": "c",
+              "text": "Nine"
+            }
+          ],
+          "answer": "a",
+          "explanationVi": "'Better make it eight'. Sáu là con số người đàn ông đề xuất ban đầu."
+        }
+      ]
+    },
+    {
+      "id": "listening-part3-longer",
+      "skill": "listening",
+      "title": "Listening — Longer recording: a course enquiry",
+      "format": "Aptis Listening — Đoạn ghi âm dài hơn, nghe hai lần",
+      "instructionsVi": "Đoạn dài hơn với bốn câu hỏi. Ghi nhanh các con số và ngày tháng ngay lần nghe đầu, vì lần hai sẽ chạy hết nếu bạn còn phải nhớ lại.",
+      "promptEn": "Listen to the conversation and answer the four questions.",
+      "accent": "uk",
+      "transcript": [
+        {
+          "speaker": "Assistant",
+          "text": "Riverside Adult Learning, good morning."
+        },
+        {
+          "speaker": "Caller",
+          "text": "Hello. I'd like to ask about the Spanish evening class."
+        },
+        {
+          "speaker": "Assistant",
+          "text": "Certainly. We run two — beginners on Mondays and improvers on Wednesdays. Both start at half six."
+        },
+        {
+          "speaker": "Caller",
+          "text": "I did a year at school, a long time ago. Which would you suggest?"
+        },
+        {
+          "speaker": "Assistant",
+          "text": "If it's been a long time, beginners. People often overestimate what they remember and then find improvers too fast."
+        },
+        {
+          "speaker": "Caller",
+          "text": "Fair enough. How long does the course run?"
+        },
+        {
+          "speaker": "Assistant",
+          "text": "Ten weeks, starting the twenty-second of September. There's no class in the half-term week, so it finishes at the start of December."
+        },
+        {
+          "speaker": "Caller",
+          "text": "And the cost?"
+        },
+        {
+          "speaker": "Assistant",
+          "text": "It's a hundred and forty pounds for the ten weeks. That includes the book. If you're over sixty or receiving benefits it's ninety."
+        },
+        {
+          "speaker": "Caller",
+          "text": "I'll pay the full amount. Do I need to bring anything to the first class?"
+        },
+        {
+          "speaker": "Assistant",
+          "text": "Just something to write with. And come five minutes early the first week — the tutor does a short chat with everyone to check the level is right."
+        }
+      ],
+      "timeLimitSec": 280,
+      "questions": [
+        {
+          "id": "l1",
+          "kind": "mcq",
+          "prompt": "Which class does the assistant recommend?",
+          "options": [
+            {
+              "id": "a",
+              "text": "Beginners, on Mondays"
+            },
+            {
+              "id": "b",
+              "text": "Improvers, on Wednesdays"
+            },
+            {
+              "id": "c",
+              "text": "Either would be suitable"
+            }
+          ],
+          "answer": "a",
+          "explanationVi": "'If it's been a long time, beginners' — lớp cơ bản họp thứ Hai."
+        },
+        {
+          "id": "l2",
+          "kind": "short-answer",
+          "prompt": "How many weeks does the course run? (A NUMBER)",
+          "answer": "10",
+          "accepted": [
+            "ten",
+            "10 weeks"
+          ],
+          "explanationVi": "'Ten weeks, starting the twenty-second of September'."
+        },
+        {
+          "id": "l3",
+          "kind": "short-answer",
+          "prompt": "How much will this caller pay, in pounds? (A NUMBER)",
+          "answer": "140",
+          "accepted": [
+            "£140",
+            "140 pounds",
+            "a hundred and forty"
+          ],
+          "explanationVi": "Giá đầy đủ là 140; 90 là mức giảm cho người trên 60 tuổi hoặc hưởng trợ cấp, còn người gọi nói sẽ trả đủ."
+        },
+        {
+          "id": "l4",
+          "kind": "mcq",
+          "prompt": "Why should the caller arrive early to the first class?",
+          "options": [
+            {
+              "id": "a",
+              "text": "To pay the fee"
+            },
+            {
+              "id": "b",
+              "text": "To have a short chat with the tutor about their level"
+            },
+            {
+              "id": "c",
+              "text": "To collect the book"
+            }
+          ],
+          "answer": "b",
+          "explanationVi": "'the tutor does a short chat with everyone to check the level is right'. Sách đã bao gồm trong học phí nên không cần đến lấy."
+        }
+      ]
+    },
+    {
+      "id": "writing-part3-chat",
+      "skill": "writing",
+      "title": "Part 3 — Three responses in a chat",
+      "format": "Aptis Writing — Part 3 · Trả lời ba câu hỏi trong khung chat, mỗi câu 30–40 từ",
+      "instructionsVi": "Bạn là thành viên mới của một câu lạc bộ và có người hỏi trong khung chat. Trả lời CẢ BA câu, mỗi câu 30–40 từ, giọng thân mật. Trả lời quá ngắn là lỗi bị trừ nhiều nhất ở phần này.",
+      "promptEn": "You have joined a community sports club. A club member is asking you some questions in the club's online chat. Reply to all three questions. Write 30–40 words for each answer.\n\n1. Welcome! What made you decide to join the club?\n2. Which day suits you best for training, and why?\n3. Is there anything we could do to help new members settle in?",
+      "timeLimitSec": 900,
+      "minWords": 90,
+      "maxWords": 130,
+      "sampleAnswer": "1. Thanks! I moved to this area three months ago and I didn't really know anyone. I used to play regularly at my old university, so joining a club seemed like the easiest way to get back into it and meet people.\n\n2. Thursday works best for me. I finish work at five on Thursdays, so I can get here without rushing. Mondays would be difficult because I often stay late at the office and I'd probably arrive halfway through.\n\n3. Maybe a short introduction at the start of the first session? On my first evening I didn't know anyone's name, so I mostly stood at the side. Even five minutes of introductions would make a big difference.",
+      "rubricVi": [
+        "Trả lời ĐỦ ba câu. Bỏ một câu là mất một phần ba điểm ngay lập tức.",
+        "Mỗi câu 30–40 từ. Trả lời một dòng cụt bị chấm là không đạt yêu cầu độ dài; đây là lỗi phổ biến nhất của Part 3.",
+        "Giọng thân mật, đúng bối cảnh chat với thành viên câu lạc bộ: được dùng 'Thanks!', câu ngắn, không cần thể thức thư từ.",
+        "Câu 2 và 3 phải có LÝ DO, không chỉ nêu đáp án. 'Thursday' mà không giải thích là chưa đủ nội dung.",
+        "Câu 3 nên đưa gợi ý cụ thể dựa trên trải nghiệm bản thân, vì đề hỏi ý kiến chứ không hỏi sự thật."
+      ]
+    },
+    {
+      "id": "writing-part4-email",
+      "skill": "writing",
+      "title": "Part 4 — Two emails: informal and formal",
+      "format": "Aptis Writing — Part 4 · Thư thân mật ~50 từ và thư trang trọng 120–150 từ",
+      "instructionsVi": "Phần khó nhất của Aptis Writing. Cùng một tình huống nhưng viết hai thư với hai văn phong khác hẳn nhau. Điểm chấm chính là bạn có ĐỔI được giọng văn hay không.",
+      "promptEn": "You are a member of a community sports club. You have received this notice:\n\n'From next month, the club will move all training sessions from the town sports hall to the school gym on the edge of town. The change will reduce our costs by 30%. The school gym has no parking and is a 20-minute walk from the nearest bus stop.'\n\nTASK 1: Write an email to a friend in the club. Tell them how you feel about the change. Write about 50 words.\n\nTASK 2: Write an email to the club committee. Explain your concerns about the change and suggest what could be done. Write 120–150 words.",
+      "timeLimitSec": 1500,
+      "minWords": 170,
+      "maxWords": 210,
+      "sampleAnswer": "TASK 1 — to a friend\n\nHi Mei,\n\nDid you see the notice about moving to the school gym? I'm not happy about it, to be honest. Twenty minutes from the bus stop is a lot in winter, and I don't drive. I might have to drop the Thursday session. What do you think — are you still going to go?\n\nSee you Thursday,\nRosa\n\n---\n\nTASK 2 — to the committee\n\nDear Committee members,\n\nI am writing regarding the notice about relocating training sessions to the school gym from next month.\n\nI understand that the move will reduce the club's costs significantly, and I appreciate that keeping fees affordable is important for everyone. However, I would like to raise a concern about access. The school gym is a twenty-minute walk from the nearest bus stop and has no parking, which will make attendance difficult for members who do not drive, particularly during the winter evenings.\n\nI would like to suggest two possible solutions. First, the club could organise a shared lift scheme, matching members who drive with those who do not. Second, it may be worth asking the school whether an earlier finish would allow members to catch the last convenient bus.\n\nI would be grateful if the committee could consider these points at the next meeting.\n\nYours faithfully,\nRosa Alvarez",
+      "rubricVi": [
+        "Hai thư phải khác nhau RÕ RỆT về văn phong. Đây là tiêu chí chấm chính: thư thân mật dùng câu ngắn, viết tắt, cảm xúc trực tiếp; thư trang trọng dùng câu đầy đủ và cách nói giảm nhẹ.",
+        "Thư trang trọng phải ghi nhận mặt hợp lý của quyết định trước khi nêu lo ngại. Phàn nàn thẳng bị chấm là sai đăng ký ngôn ngữ.",
+        "Phải có ĐỀ XUẤT cụ thể ở thư số hai, không chỉ nêu vấn đề. Đề yêu cầu 'suggest what could be done'.",
+        "Đúng độ dài: khoảng 50 từ cho thư một, 120–150 từ cho thư hai. Viết thư thân mật dài bằng thư trang trọng là mất điểm.",
+        "Dùng đúng công thức mở và kết cho từng loại: 'Hi… / See you…' với bạn, 'Dear… / Yours faithfully' với ban chấp hành."
+      ]
+    },
+    {
+      "id": "speaking-part1-personal",
+      "skill": "speaking",
+      "title": "Part 1 — Personal information",
+      "format": "Aptis Speaking — Part 1 · Ba câu hỏi về bản thân, mỗi câu 30 giây",
+      "instructionsVi": "Ba câu hỏi ngắn về bản thân, mỗi câu trả lời 30 giây. Đừng trả lời một câu rồi im — hãy nói đủ 30 giây bằng cách thêm lý do hoặc ví dụ.",
+      "promptEn": "Answer each question. You have 30 seconds for each answer.\n1. Tell me about the area where you live.\n2. What do you usually do in your free time?\n3. Tell me about a person you enjoy spending time with.",
+      "timeLimitSec": 90,
+      "preparationSec": 0,
+      "sampleAnswer": "1. I live in a fairly quiet part of the city, about twenty minutes from the centre by bus. There's a small market on Saturdays and a park at the end of my street. It's not exciting, but it's easy to live in and my rent is reasonable, which matters.\n\n2. In my free time I mostly cook and go for long walks. I started cooking properly during the pandemic and I've kept it up. At weekends I try to walk somewhere new — usually along the river, because it's flat and I can go for hours without thinking about it.\n\n3. That would be my cousin Linh. We're the same age and we grew up in the same neighbourhood, so we've known each other our whole lives. She's very direct, which I like — if I'm making a bad decision she tells me straight away, and not many people do that.",
+      "rubricVi": [
+        "Nói đủ 30 giây mỗi câu. Trả lời một câu rồi dừng là lỗi mất điểm lớn nhất ở Part 1.",
+        "Cách kéo dài đúng: nêu sự việc → thêm lý do → thêm một chi tiết cụ thể. Đừng lặp lại cùng một ý bằng từ khác.",
+        "Trả lời thật và đơn giản. Part 1 kiểm tra khả năng nói về bản thân, không đòi ý tưởng sâu sắc.",
+        "Dùng thì hiện tại đơn cho thói quen và hiện tại hoàn thành khi nói về việc bắt đầu từ trước tới nay.",
+        "Không im lặng lâu ở đầu câu trả lời. Bắt đầu bằng một cụm dẫn ngắn để lấy đà."
+      ]
+    },
+    {
+      "id": "speaking-part2-picture",
+      "skill": "speaking",
+      "title": "Part 2 — Describe a picture and answer questions",
+      "format": "Aptis Speaking — Part 2 · Tả tranh rồi trả lời hai câu, mỗi phần 45 giây",
+      "instructionsVi": "Ba phần liên tiếp, mỗi phần 45 giây: tả bức tranh, rồi hai câu hỏi liên quan tới trải nghiệm của bạn. Phải chuyển được từ MÔ TẢ sang KỂ CHUYỆN bản thân.",
+      "promptEn": "Look at the scene, then answer the three parts. You have 45 seconds for each.\n\nSCENE: An outdoor market on a sunny morning. In the middle, a stall sells fruit and vegetables; a woman is weighing tomatoes for a customer. On the left, an older man sells flowers from buckets on the ground. On the right, two children stand at a stall selling bread, pointing at something. Several people carry cloth shopping bags. A dog waits patiently beside one of the stalls.\n\n1. Describe what you can see in the picture.\n2. Tell me about a market you have visited.\n3. Do you prefer shopping at markets or in supermarkets? Why?",
+      "timeLimitSec": 135,
+      "preparationSec": 60,
+      "sampleAnswer": "1. This picture shows an outdoor market on what looks like a sunny morning. In the middle there's a stall selling fruit and vegetables, and a woman is weighing some tomatoes for a customer. On the left, an older man is selling flowers from buckets on the ground. On the right, two children are standing at a bread stall and pointing at something. Several people are carrying cloth bags, and there's a dog waiting beside one of the stalls.\n\n2. There's a market near my grandmother's house that I've been going to since I was small. It's on Sunday mornings and it's mostly food — vegetables, fish, and one stall that only sells herbs. My grandmother knows all the sellers by name, and it takes us an hour to buy twenty minutes of shopping because she stops to talk to everyone.\n\n3. I prefer markets, although supermarkets are more practical. At a market the food is usually fresher and I can buy small amounts, which suits me because I live alone and I waste less. Supermarkets are better when I'm in a hurry or when I need something unusual, so honestly I use both, but I enjoy the market more.",
+      "rubricVi": [
+        "Phần 1 chỉ MÔ TẢ, không kể chuyện riêng. Phần 2 và 3 mới nói về bản thân. Lẫn lộn ba phần là lỗi cấu trúc.",
+        "Mỗi phần nói đủ 45 giây. Đây là phần thí sinh hay dừng sớm nhất vì tưởng đã tả hết tranh.",
+        "Phần 2 phải kể một trải nghiệm CỤ THỂ có chi tiết, không nói chung chung về chợ nói chung.",
+        "Phần 3 phải chọn một bên và giải thích. Được phép nói dùng cả hai, nhưng vẫn phải nêu bên mình thích hơn.",
+        "Dùng hiện tại tiếp diễn ở phần 1, quá khứ và hiện tại hoàn thành ở phần 2, hiện tại đơn ở phần 3."
+      ]
+    },
+    {
+      "id": "speaking-part4-abstract",
+      "skill": "speaking",
+      "title": "Part 4 — Speak about an abstract topic",
+      "format": "Aptis Speaking — Part 4 · 1 phút chuẩn bị, 2 phút nói, ba câu hỏi trong một lượt",
+      "instructionsVi": "Phần khó nhất của Aptis Speaking. Bạn nhận BA câu hỏi cùng lúc, có 1 phút chuẩn bị và phải trả lời cả ba trong 2 phút liên tục. Chia thời gian khoảng 40 giây cho mỗi câu.",
+      "promptEn": "You have one minute to prepare, then two minutes to answer all three questions.\n\nLook at this photograph: a group of neighbours planting trees together on a small piece of land between apartment buildings.\n\n1. Describe a time when you helped with something in your local area.\n2. Why do you think some people take part in community activities and others do not?\n3. How could a neighbourhood encourage more people to get involved?",
+      "timeLimitSec": 120,
+      "preparationSec": 60,
+      "sampleAnswer": "1. A couple of years ago the residents in my building organised a clean-up of the shared courtyard. It had become a place where people left broken furniture. About fifteen of us spent a Saturday clearing it and painting the railings. It took one day and it changed how the space felt completely.\n\n2. I think time is the most obvious reason, but I don't think it's the main one. People with young children or two jobs genuinely can't spare a Saturday. But a lot of people who could take part still don't, and I think that's usually because nobody asked them directly. It's much easier to ignore a poster than a neighbour who knocks on your door.\n\n3. Following from that, I'd say the most effective thing is personal invitation rather than advertising. Beyond that, making the task small and finite helps a great deal — people will give three hours to something with a clear end, but they won't commit to an ongoing responsibility. And it's important that something visible changes, because that's what convinces people it was worth doing and brings them back the next time.",
+      "rubricVi": [
+        "Trả lời CẢ BA câu trong 2 phút. Nói quá lâu ở câu 1 rồi hết giờ cho câu 3 là lỗi hay gặp nhất — hãy canh khoảng 40 giây mỗi câu.",
+        "Dùng 1 phút chuẩn bị để ghi ba từ khoá, mỗi câu một từ. Đừng viết cả câu, sẽ không kịp.",
+        "Câu 1 kể trải nghiệm cụ thể, câu 2 và 3 chuyển sang bàn luận chung. Đây là bước chuyển mà Part 4 chấm.",
+        "Nối các câu trả lời với nhau ('Following from that…') để bài nghe liền mạch chứ không phải ba đoạn rời.",
+        "Nói liên tục hết 2 phút. Dừng sớm bị trừ điểm ngay cả khi nội dung đã đủ ba câu."
+      ]
+    }
+  ]
+}

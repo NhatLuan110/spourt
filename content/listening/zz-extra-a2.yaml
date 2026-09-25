@@ -1,0 +1,402 @@
+cefr: A2
+tracks:
+  - slug: collecting-a-repaired-watch
+    title: Collecting a Repaired Watch
+    titleVi: Nhận lại đồng hồ đã sửa
+    topic: daily-life
+    accent: US
+    format: dialogue
+    speakerCount: 2
+    glossary:
+      - term: repair ticket
+        definitionVi: phiếu sửa chữa
+      - term: leather strap
+        definitionVi: dây đeo bằng da
+      - term: technician
+        definitionVi: thợ kỹ thuật
+    segments:
+      - speaker: David
+        text: Hello, I am here at the service counter to pick up my repaired silver watch.
+        vi: Xin chào, tôi ở quầy dịch vụ để nhận lại chiếc đồng hồ bạc đã được sửa của mình.
+      - speaker: Linh
+        text: Good afternoon! Let me quickly check the repair system and ticket for you.
+        vi: Chào buổi chiều! Để tôi kiểm tra nhanh hệ thống sửa chữa và phiếu cho anh nhé.
+      - speaker: David
+        text: My name is David Miller, and my ticket number is exactly four hundred and five.
+        vi: Tên tôi là David Miller, và số phiếu của tôi chính xác là bốn trăm linh năm.
+      - speaker: Linh
+        text: Thank you, Mr. Miller. Your watch was completely fixed by our head technician yesterday
+          afternoon.
+        vi: Cảm ơn anh Miller. Đồng hồ của anh đã được thợ chính sửa xong hoàn toàn vào chiều hôm qua.
+      - speaker: David
+        text: That is great news. Is the broken leather strap replaced with a new black one?
+        vi: Đó là tin tuyệt vời. Dây da bị hỏng đã được thay bằng dây màu đen mới chưa?
+      - speaker: Linh
+        text: Yes, we installed a genuine black leather strap just as you requested on the form.
+        vi: Vâng, chúng tôi đã lắp dây da màu đen chính hãng đúng như anh đã yêu cầu trên phiếu.
+      - speaker: David
+        text: Excellent. Also, the text message I received said I could collect it at 5 PM today.
+        vi: Tuyệt vời. Ngoài ra, tin nhắn tôi nhận được nói rằng tôi có thể lấy nó lúc 5 giờ chiều nay.
+      - speaker: Linh
+        text: Actually, our closing schedule changed this week, so we now close early at 4 PM on weekdays.
+        vi: Thực ra, lịch đóng cửa của chúng tôi đã thay đổi trong tuần này, nên chúng tôi đóng sớm lúc 4
+          giờ chiều các ngày trong tuần.
+      - speaker: David
+        text: Oh, I see. Luckily I arrived at 3:30 PM today, so I am safely on time before closing.
+        vi: Ồ, tôi hiểu rồi. May mắn là tôi đã đến lúc 3:30 chiều nay, nên tôi đến kịp giờ trước khi đóng
+          cửa.
+      - speaker: Linh
+        text: That is correct. Please check the glass for scratches and make sure the hands are moving
+          properly.
+        vi: Đúng vậy. Anh hãy kiểm tra xem mặt kính có bị xước không và các kim đồng hồ có chạy bình thường
+          không.
+      - speaker: David
+        text: The second hand is moving smoothly, and the clean glass has no scratches at all.
+        vi: Kim giây đang chuyển động mượt mà và mặt kính sạch sẽ hoàn toàn không có vết xước nào.
+      - speaker: Linh
+        text: Wonderful. That will be twenty-five dollars in total for the repair service today.
+        vi: Tuyệt vời. Tổng cộng chi phí dịch vụ sửa chữa hôm nay là hai mươi lăm đô la.
+    dictation:
+      - 3
+      - 6
+      - 8
+      - 11
+    questions:
+      - type: MCQ
+        prompt: What item is David collecting from the counter?
+        promptVi: David đang nhận vật phẩm gì từ quầy?
+        options:
+          - A silver watch
+          - A gold ring
+          - A leather jacket
+          - A broken phone
+        answer: A silver watch
+        explanationVi: David nói ở lượt đầu tiên rằng anh ấy đến để nhận chiếc đồng hồ bạc ('silver watch')
+          đã sửa.
+      - type: MCQ
+        prompt: What is David's ticket number?
+        promptVi: Số phiếu của David là bao nhiêu?
+        options:
+          - Ticket 305
+          - Ticket 405
+          - Ticket 505
+          - Ticket 450
+        answer: Ticket 405
+        explanationVi: David cho biết số phiếu của anh ấy là bốn trăm linh năm ('four hundred and five', tức
+          405) ở lượt 3.
+      - type: MCQ
+        prompt: What new part was added to the watch?
+        promptVi: Bộ phận mới nào được thêm vào đồng hồ?
+        options:
+          - A black metal band
+          - A brown leather strap
+          - A black leather strap
+          - A silver bracelet
+        answer: A black leather strap
+        explanationVi: Nhân viên xác nhận ở lượt 6 rằng họ đã lắp dây da màu đen chính hãng ('genuine black
+          leather strap').
+      - type: MCQ
+        prompt: Why did David arrive on time despite the schedule change?
+        promptVi: Tại sao David vẫn đến kịp giờ dù lịch trình thay đổi?
+        options:
+          - He arrived at 3:30 PM before the 4 PM closing time.
+          - He arrived at 2 PM before the 3 PM closing time.
+          - He arrived at 4 PM before the 5 PM closing time.
+          - He arrived at 1 PM before the 2 PM closing time.
+        answer: He arrived at 3:30 PM before the 4 PM closing time.
+        explanationVi: David cho biết anh đến lúc 3:30 chiều trước giờ đóng cửa mới là 4 giờ chiều ở lượt 9.
+      - type: TRUE_FALSE
+        statement: The watch was repaired by the head technician yesterday afternoon.
+        prompt: The watch was repaired by the head technician yesterday afternoon.
+        promptVi: Đồng hồ đã được sửa bởi thợ chính vào chiều ngày hôm qua.
+        answer: true
+        explanationVi: Linh khẳng định ở lượt 4 rằng đồng hồ đã được sửa hoàn toàn bởi thợ chính vào chiều
+          hôm qua.
+      - type: TRUE_FALSE
+        statement: The original text message stated that collection time was 4 PM.
+        prompt: The original text message stated that collection time was 4 PM.
+        promptVi: Tin nhắn ban đầu cho biết thời gian nhận là 4 giờ chiều.
+        answer: false
+        explanationVi: Ở lượt 7, David nói tin nhắn báo giờ nhận đồng hồ là 5 giờ chiều, không phải 4 giờ.
+      - type: SHORT_ANSWER
+        prompt: What is the customer's last name? (Give 1 word)
+        promptVi: Họ của khách hàng là gì? (Nêu 1 từ)
+        accept:
+          - Miller
+          - miller
+        explanationVi: David giới thiệu họ của mình là Miller ở lượt 3 ('David Miller').
+      - type: SHORT_ANSWER
+        prompt: How much does the repair service cost in dollars? (Give a number or word)
+        promptVi: Dịch vụ sửa chữa có giá bao nhiêu đô la? (Nêu số hoặc chữ)
+        accept:
+          - "25"
+          - twenty-five
+          - twenty five
+          - 25 dollars
+          - twenty-five dollars
+          - twenty five dollars
+          - $25
+        explanationVi: Nhân viên thông báo chi phí là 25 đô la ('twenty-five dollars') ở lượt cuối cùng.
+  - slug: meeting-for-a-drawing-walk
+    title: Meeting for a Drawing Walk
+    titleVi: Hẹn gặp đi vẽ ngoài trời
+    topic: daily-life
+    accent: US
+    format: dialogue
+    speakerCount: 2
+    glossary:
+      - term: drawing walk
+        definitionVi: buổi đi dạo vẽ tranh
+      - term: fountain
+        definitionVi: đài phun nước
+      - term: watercolor set
+        definitionVi: bộ màu nước
+    segments:
+      - speaker: Mai
+        text: Hi Nam, are we still meeting for our outdoor drawing walk this Saturday morning?
+        vi: Chào Nam, chúng ta vẫn gặp nhau cho buổi đi vẽ ngoài trời vào sáng thứ Bảy này chứ?
+      - speaker: Nam
+        text: Yes, absolutely! We will meet at the main park entrance near the old stone fountain.
+        vi: Chắc chắn rồi! Chúng ta sẽ gặp nhau ở cổng chính công viên gần đài phun nước bằng đá cũ.
+      - speaker: Mai
+        text: Perfect. What exact time should we arrive so we can catch the best morning light?
+        vi: Hoàn hảo. Chúng ta nên đến lúc mấy giờ chính xác để bắt kịp ánh sáng buổi sáng đẹp nhất?
+      - speaker: Nam
+        text: Let us meet at 8:30 AM sharp by the large wooden bench next to it.
+        vi: Hãy gặp nhau lúc 8:30 sáng đúng giờ bên chiếc ghế gỗ lớn ở cạnh đó.
+      - speaker: Mai
+        text: Sounds good. Should I take public bus number twelve or bus number twenty-four there?
+        vi: Nghe được đấy. Tôi nên đi xe buýt công cộng số mười hai hay số hai mươi tư tới đó?
+      - speaker: Nam
+        text: Take bus number twelve because it stops directly outside the main park gates today.
+        vi: Hãy đi xe buýt số mười hai vì nó dừng ngay bên ngoài cổng chính công viên hôm nay.
+      - speaker: Mai
+        text: Got it. What happens if it starts raining heavily during our outdoor sketching session?
+        vi: Hiểu rồi. Chuyện gì xảy ra nếu trời bắt đầu mưa lớn trong buổi ký họa ngoài trời của chúng ta?
+      - speaker: Nam
+        text: If it rains, we will move quickly indoors to the quiet coffee shop across the street.
+        vi: Nếu trời mưa, chúng ta sẽ di chuyển nhanh vào trong nhà tới quán cà phê yên tĩnh bên kia đường.
+      - speaker: Mai
+        text: Great idea. Should I bring my colored pencils or just my usual black ink pens?
+        vi: Ý tưởng hay. Tôi nên mang bút chì màu hay chỉ mang bút mực đen thường dùng?
+      - speaker: Nam
+        text: Bring your black ink pens and a small watercolor set for painting scenery outside.
+        vi: Hãy mang bút mực đen và một bộ màu nước nhỏ để vẽ phong cảnh bên ngoài.
+      - speaker: Mai
+        text: I will pack those art items carefully in my canvas bag tonight before sleeping.
+        vi: Tôi sẽ gói ghém cẩn thận các món đồ nghệ thuật đó vào túi vải canvas tối nay trước khi đi ngủ.
+      - speaker: Nam
+        text: Awesome. I will see you on Saturday morning with my sketchbook ready to draw.
+        vi: Tuyệt vời. Hẹn gặp lại bạn vào sáng thứ Bảy với cuốn sổ phác thảo đã sẵn sàng vẽ.
+    dictation:
+      - 2
+      - 4
+      - 8
+      - 10
+    questions:
+      - type: MCQ
+        prompt: Where are the friends meeting on Saturday morning?
+        promptVi: Hai người bạn hẹn gặp ở đâu vào sáng thứ Bảy?
+        options:
+          - Near the old stone fountain
+          - At the bus station
+          - Inside the coffee shop
+          - By the eastern gate
+        answer: Near the old stone fountain
+        explanationVi: Nam nói ở lượt 2 rằng họ sẽ gặp nhau ở cổng chính công viên gần đài phun nước bằng đá
+          cổ ('near the old stone fountain').
+      - type: MCQ
+        prompt: What time are they meeting?
+        promptVi: Họ hẹn gặp lúc mấy giờ?
+        options:
+          - 8:00 AM
+          - 8:30 AM
+          - 9:00 AM
+          - 9:30 AM
+        answer: 8:30 AM
+        explanationVi: Nam nêu thời gian cụ thể ở lượt 4 là 8:30 sáng ('8:30 AM sharp').
+      - type: MCQ
+        prompt: Which bus should Mai take to the park?
+        promptVi: Mai nên đi tuyến xe buýt nào để đến công viên?
+        options:
+          - Bus number twelve
+          - Bus number twenty-four
+          - Bus number ten
+          - Bus number fifteen
+        answer: Bus number twelve
+        explanationVi: Nam khuyên ở lượt 6 nên đi xe buýt số mười hai ('bus number twelve') vì nó dừng ngay
+          bên ngoài cổng.
+      - type: MCQ
+        prompt: Where will they go if it rains heavily?
+        promptVi: Họ sẽ đi đâu nếu trời mưa lớn?
+        options:
+          - To a museum downtown
+          - To a quiet coffee shop across the street
+          - To Nam's house nearby
+          - To the library main hall
+        answer: To a quiet coffee shop across the street
+        explanationVi: Nam trả lời ở lượt 8 rằng họ sẽ di chuyển vào quán cà phê yên tĩnh bên kia đường nếu
+          trời mưa.
+      - type: TRUE_FALSE
+        statement: Nam suggests bringing black ink pens and a small watercolor set.
+        prompt: Nam suggests bringing black ink pens and a small watercolor set.
+        promptVi: Nam đề nghị mang theo bút mực đen và bộ màu nước nhỏ.
+        answer: true
+        explanationVi: "Nam nói ở lượt 10: 'Bring your black ink pens and a small watercolor set'."
+      - type: TRUE_FALSE
+        statement: Bus number twelve stops far away from the park gates.
+        prompt: Bus number twelve stops far away from the park gates.
+        promptVi: Xe buýt số mười hai dừng ở rất xa cổng công viên.
+        answer: false
+        explanationVi: Nam nói ở lượt 6 rằng xe buýt số mười hai dừng ngay bên ngoài cổng ('stops directly
+          outside'), chứ không phải ở xa.
+      - type: SHORT_ANSWER
+        prompt: What object is Nam bringing to draw in? (Give 1-2 words)
+        promptVi: Nam mang theo vật gì để vẽ vào? (Nêu 1-2 từ)
+        accept:
+          - sketchbook
+          - a sketchbook
+        explanationVi: Nam nhắc đến việc mang theo 'sketchbook' ở lượt cuối cùng (lượt 12).
+      - type: SHORT_ANSWER
+        prompt: What material is the bench made of? Give ONE adjective from the dialogue.
+        promptVi: Chiếc ghế băng được làm bằng vật liệu gì? Viết MỘT tính từ trong hội thoại.
+        accept:
+          - wooden
+        explanationVi: Nam miêu tả chiếc ghế ở lượt 4 là chiếc ghế gỗ lớn ('large wooden bench').
+  - slug: ordering-cakes-for-a-school-sale
+    title: Ordering Cakes for a School Sale
+    titleVi: Đặt bánh cho buổi bán hàng của trường
+    topic: education
+    accent: US
+    format: dialogue
+    speakerCount: 2
+    glossary:
+      - term: bake sale
+        definition: an event where people sell baked goods to raise money
+      - term: fundraiser
+        definition: an event or campaign to collect money for a cause
+    segments:
+      - speaker: Linh
+        text: Hello, I would like to order some small cakes for our annual school bake sale happening this
+          Friday.
+        vi: Xin chào, tôi muốn đặt một số bánh nhỏ cho buổi bán bánh gây quỹ của trường diễn ra vào thứ Sáu
+          này.
+      - speaker: Mr. Baker
+        text: Hello there! We always love helping out local schools. What kind of sweet treats are you
+          looking for?
+        vi: Chào bạn! Chúng tôi luôn thích giúp đỡ các trường học địa phương. Bạn đang tìm loại bánh ngọt
+          nào?
+      - speaker: Linh
+        text: We need chocolate cupcakes and strawberry mini muffins for the students, please.
+        vi: Chúng tôi cần bánh cupcake sô-cô-la và bánh muffin dâu tây nhỏ cho học sinh.
+      - speaker: Mr. Baker
+        text: Certainly. How many of each flavor would you like to order today?
+        vi: Chắc chắn rồi. Bạn muốn đặt bao nhiêu cái cho mỗi vị ngày hôm nay?
+      - speaker: Linh
+        text: Let us check... my classmate originally wrote down forty chocolate cupcakes, but we changed
+          our minds. We actually need fifty chocolate ones and thirty strawberry mini muffins.
+        vi: Để xem nào... bạn cùng lớp của tôi ban đầu đã ghi bốn mươi chiếc bánh cupcake sô-cô-la, nhưng
+          chúng tôi đã đổi ý. Chúng tôi thực sự cần năm mươi cái sô-cô-la và ba mươi bánh muffin dâu
+          tây.
+      - speaker: Mr. Baker
+        text: Got it. Fifty chocolate cupcakes and thirty strawberry mini muffins. That makes a total of
+          eighty cakes.
+        vi: Hiểu rồi. Năm mươi bánh cupcake sô-cô-la và ba mươi bánh muffin dâu tây. Tổng cộng là tám mươi
+          chiếc bánh.
+      - speaker: Linh
+        text: That is right. Is there any special discount for school charity events?
+        vi: Đúng vậy. Có giảm giá đặc biệt nào cho các sự kiện từ thiện của trường không?
+      - speaker: Mr. Baker
+        text: Yes, we offer a ten percent discount for all student fundraisers, so the final price comes to
+          forty-five dollars.
+        vi: Có, chúng tôi giảm giá mười phần trăm cho các buổi gây quỹ của học sinh, nên giá cuối cùng là
+          bốn mươi lăm đô la.
+      - speaker: Linh
+        text: Excellent. When should our team come to pick them up on Friday afternoon?
+        vi: Tuyệt vời. Khi nào nhóm chúng tôi nên đến lấy bánh vào chiều thứ Sáu?
+      - speaker: Mr. Baker
+        text: You can collect them anytime after two o'clock when the morning rush finishes.
+        vi: Bạn có thể đến lấy bất cứ lúc nào sau hai giờ khi đợt đông khách buổi sáng kết thúc.
+      - speaker: Linh
+        text: Perfect. I will personally come at two-thirty PM to pay cash and collect the boxes.
+        vi: Hoàn hảo. Tôi sẽ trực tiếp đến lúc hai giờ rưỡi chiều để trả tiền mặt và nhận các hộp bánh.
+      - speaker: Mr. Baker
+        text: Sounds good. We will have everything ready. See you on Friday, Linh!
+        vi: Nghe được đấy. Chúng tôi sẽ chuẩn bị mọi thứ sẵn sàng. Hẹn gặp lại bạn vào thứ Sáu, Linh!
+    dictation:
+      - 3
+      - 6
+      - 9
+      - 11
+    questions:
+      - type: MCQ
+        prompt: What event is the order for?
+        promptVi: Đơn hàng này dùng cho sự kiện nào?
+        options:
+          - A school science fair
+          - A school bake sale
+          - A birthday party
+          - A graduation ceremony
+        answer: A school bake sale
+        explanationVi: Linh nói ở lượt đầu tiên rằng cô ấy đặt bánh cho 'our annual school bake sale'.
+      - type: MCQ
+        prompt: How many chocolate cupcakes do they want in the end?
+        promptVi: Cuối cùng họ muốn bao nhiêu chiếc bánh cupcake sô-cô-la?
+        options:
+          - "30"
+          - "40"
+          - "50"
+          - "80"
+        answer: "50"
+        explanationVi: Linh sửa lại số lượng ở lượt 5, xác nhận cần 'fifty chocolate ones'.
+      - type: MCQ
+        prompt: What is the final price after the discount?
+        promptVi: Giá cuối cùng sau khi được giảm giá là bao nhiêu?
+        options:
+          - thirty dollars
+          - forty dollars
+          - forty-five dollars
+          - fifty dollars
+        answer: forty-five dollars
+        explanationVi: Mr. Baker xác nhận ở lượt 8 rằng giá cuối cùng là 'forty-five dollars' sau khi áp
+          dụng giảm giá 10%.
+      - type: MCQ
+        prompt: What time will Linh collect the cakes?
+        promptVi: Linh sẽ đến lấy bánh vào lúc mấy giờ?
+        options:
+          - 1:00 PM
+          - 2:00 PM
+          - 2:30 PM
+          - 3:00 PM
+        answer: 2:30 PM
+        explanationVi: Linh cho biết ở lượt 11 rằng cô ấy sẽ đến lúc 'two-thirty PM'.
+      - type: TRUE_FALSE
+        statement: The bakery offers a ten percent discount for student fundraisers.
+        prompt: The bakery offers a ten percent discount for student fundraisers.
+        promptVi: Tiệm bánh giảm giá mười phần trăm cho các buổi gây quỹ của học sinh.
+        answer: true
+        explanationVi: "Mr. Baker xác nhận ở lượt 8: 'we offer a ten percent discount for all student
+          fundraisers'."
+      - type: TRUE_FALSE
+        statement: Linh is going to pay for the order using a credit card.
+        prompt: Linh is going to pay for the order using a credit card.
+        promptVi: Linh sẽ thanh toán đơn hàng bằng thẻ tín dụng.
+        answer: false
+        explanationVi: Linh nói ở lượt 11 rằng cô ấy sẽ trả bằng tiền mặt ('to pay cash'), không phải thẻ
+          tín dụng.
+      - type: SHORT_ANSWER
+        prompt: What kind of mini muffins does Linh order? State a 1-4 word phrase.
+        promptVi: Linh đặt loại bánh muffin nhỏ nào? Nêu một cụm từ từ 1 đến 4 từ.
+        accept:
+          - strawberry
+          - strawberry muffins
+          - strawberry mini muffins
+          - strawberry mini muffin
+        explanationVi: Linh đề cập ở lượt 3 và 5 rằng cô ấy đặt 'strawberry mini muffins'.
+      - type: SHORT_ANSWER
+        prompt: On which day of the week will Linh collect the cakes? Give ONE word.
+        promptVi: Linh sẽ đến nhận bánh vào thứ mấy? Viết MỘT từ.
+        accept:
+          - Friday
+          - friday
+        explanationVi: Linh và Mr. Baker nhắc đến việc nhận bánh vào 'Friday' ở các lượt 1, 9 và 12.

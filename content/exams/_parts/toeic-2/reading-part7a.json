@@ -1,0 +1,561 @@
+[
+  {
+    "id": "reading-part7-s1",
+    "skill": "reading",
+    "title": "Part 7 — Single passage 1: text message chain",
+    "format": "TOEIC Reading — Part 7 · Single passage (câu 147–148)",
+    "instructionsVi": "Chuỗi tin nhắn. Dạng này luôn có một câu hỏi về hàm ý của một câu nói cụ thể.",
+    "promptEn": "Refer to the following text message chain and answer the questions.",
+    "passage": "Ines Duarte (7:52 a.m.)\nMorning. I'm at the depot but the shutter code isn't working.\n\nRob Beck (7:55 a.m.)\nIt changed on Monday. 4408, then the hash key.\n\nInes Duarte (7:56 a.m.)\nThat's done it. Nobody told the weekend crew, by the way — Tomas was locked out on Saturday too.\n\nRob Beck (7:58 a.m.)\nSeriously? I sent it to the staff list.\n\nInes Duarte (7:59 a.m.)\nThe weekend crew aren't on the staff list. They're on a separate rota group.\n\nRob Beck (8:01 a.m.)\nAh. That would explain a few things. I'll send it to both groups now and add them to the main list properly this afternoon.",
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p7-147",
+        "kind": "mcq",
+        "prompt": "147. What was Ms Duarte's problem?",
+        "options": [
+          {
+            "id": "a",
+            "text": "She arrived at the wrong depot."
+          },
+          {
+            "id": "b",
+            "text": "She could not open the shutter."
+          },
+          {
+            "id": "c",
+            "text": "She was not on the staff list."
+          },
+          {
+            "id": "d",
+            "text": "Her shift had been changed."
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'the shutter code isn't working'."
+      },
+      {
+        "id": "p7-148",
+        "kind": "mcq",
+        "prompt": "148. At 8:01 a.m., what does Mr Beck most likely mean by 'That would explain a few things'?",
+        "options": [
+          {
+            "id": "a",
+            "text": "He thinks the code was changed twice."
+          },
+          {
+            "id": "b",
+            "text": "He believes Ms Duarte is mistaken."
+          },
+          {
+            "id": "c",
+            "text": "He now understands why some staff missed his message."
+          },
+          {
+            "id": "d",
+            "text": "He had already been told about the rota group."
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "Ông ta vừa biết đội cuối tuần không nằm trong danh sách nhận thư — điều đó lý giải vì sao có người không nhận được mã."
+      }
+    ]
+  },
+  {
+    "id": "reading-part7-s2",
+    "skill": "reading",
+    "title": "Part 7 — Single passage 2: notice",
+    "format": "TOEIC Reading — Part 7 · Single passage (câu 149–150)",
+    "instructionsVi": "Thông báo. Câu hỏi thường hỏi đối tượng áp dụng và ngoại lệ.",
+    "promptEn": "Refer to the following notice and answer the questions.",
+    "passage": "NOTICE — Staff Car Park, Meridian House\n\nParking permits are issued annually and must be displayed in the windscreen at all times. Permits are valid for the holder's registered vehicle only and cannot be transferred between staff.\n\nThe eight bays nearest the entrance are reserved for blue badge holders and for staff who are pregnant. These bays do not require a separate permit, but you must inform Facilities so the space is not reallocated.\n\nVisitors may not use the staff car park. Hosts expecting visitors should book a bay on Colville Street through the online system at least twenty-four hours in advance.\n\nVehicles parked without a valid permit will be issued with a warning notice on the first occasion. Repeat cases are referred to the site manager.",
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p7-149",
+        "kind": "mcq",
+        "prompt": "149. What must staff do to use the reserved bays?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Apply for a separate permit"
+          },
+          {
+            "id": "b",
+            "text": "Book twenty-four hours in advance"
+          },
+          {
+            "id": "c",
+            "text": "Inform the Facilities team"
+          },
+          {
+            "id": "d",
+            "text": "Display a blue badge only"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'These bays do not require a separate permit, but you must inform Facilities'. Câu phủ định loại thẳng (A)."
+      },
+      {
+        "id": "p7-150",
+        "kind": "mcq",
+        "prompt": "150. What happens on a first parking violation?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The vehicle is removed."
+          },
+          {
+            "id": "b",
+            "text": "A fine is issued."
+          },
+          {
+            "id": "c",
+            "text": "The case goes to the site manager."
+          },
+          {
+            "id": "d",
+            "text": "A warning notice is issued."
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'will be issued with a warning notice on the first occasion'. Quản lý cơ sở chỉ xử lý các trường hợp TÁI PHẠM."
+      }
+    ]
+  },
+  {
+    "id": "reading-part7-s3",
+    "skill": "reading",
+    "title": "Part 7 — Single passage 3: email",
+    "format": "TOEIC Reading — Part 7 · Single passage (câu 151–152)",
+    "instructionsVi": "Email công việc. Câu hỏi mục đích ở đoạn đầu, câu hỏi hành động kế tiếp ở đoạn cuối.",
+    "promptEn": "Refer to the following email and answer the questions.",
+    "passage": "From: r.okonkwo@westgateskills.example\nTo: t.okoye@lambertco.example\nDate: 11 September\nSubject: Your booking — Project Scheduling\n\nDear Ms Okoye,\n\nThank you for booking four places on the Project Scheduling course.\n\nI am writing about one detail. Our records show your booking was made on 8 September, which is within the early-bird window, so the fifteen per cent discount has been applied. However, our system did not apply the group discount for bookings of three or more. That has now been corrected and a revised invoice is attached.\n\nThe difference is in your favour, so no further payment is required. If you have already paid the original amount, the balance will be refunded within five working days.\n\nCould you confirm the names of the four attendees by 25 September? We print name badges the week before.\n\nKind regards,\nRosalind Okonkwo",
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p7-151",
+        "kind": "mcq",
+        "prompt": "151. Why is Ms Okonkwo writing?",
+        "options": [
+          {
+            "id": "a",
+            "text": "To confirm a course has been cancelled"
+          },
+          {
+            "id": "b",
+            "text": "To request an additional payment"
+          },
+          {
+            "id": "c",
+            "text": "To change the course date"
+          },
+          {
+            "id": "d",
+            "text": "To correct an error on an invoice"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'our system did not apply the group discount… That has now been corrected and a revised invoice is attached'."
+      },
+      {
+        "id": "p7-152",
+        "kind": "mcq",
+        "prompt": "152. What is Ms Okoye asked to do?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Pay the outstanding balance"
+          },
+          {
+            "id": "b",
+            "text": "Return the original invoice"
+          },
+          {
+            "id": "c",
+            "text": "Confirm attendee names by 25 September"
+          },
+          {
+            "id": "d",
+            "text": "Rebook the course for a later date"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'Could you confirm the names of the four attendees by 25 September?'. Không phải trả thêm tiền — chênh lệch nghiêng về phía khách."
+      }
+    ]
+  },
+  {
+    "id": "reading-part7-s4",
+    "skill": "reading",
+    "title": "Part 7 — Single passage 4: online review",
+    "format": "TOEIC Reading — Part 7 · Single passage (câu 153–155)",
+    "instructionsVi": "Bài đánh giá, có câu hỏi chèn câu vào vị trí đánh dấu. Phải đọc câu trước và câu sau mỗi vị trí.",
+    "promptEn": "Refer to the following review and answer the questions.",
+    "passage": "Review of Kestrel Office Furniture — posted by S. Mensah\n\nWe ordered fourteen desks and twenty chairs from Kestrel for our new floor. On balance I would use them again, though not without reservations.\n\n— [1] — The furniture itself is excellent. The desks are solid, the height adjustment is smooth, and after four months of daily use nothing has loosened or squeaked. For the price, I have not seen better.\n\nDelivery was the weak point. — [2] — We were given a four-hour window that became an eight-hour wait, and the driver arrived without the trolley he needed, which meant our own staff carried fourteen desks up a flight of stairs.\n\n— [3] — When I complained, the response was quick and genuinely apologetic, and they credited us the full delivery charge without my having to ask twice.\n\n— [4] — I would order from them again, but I would take a day off rather than trying to work around the delivery.",
+    "timeLimitSec": 200,
+    "questions": [
+      {
+        "id": "p7-153",
+        "kind": "mcq",
+        "prompt": "153. What does the reviewer praise?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The delivery service"
+          },
+          {
+            "id": "b",
+            "text": "The build quality of the furniture"
+          },
+          {
+            "id": "c",
+            "text": "The speed of assembly"
+          },
+          {
+            "id": "d",
+            "text": "The range of colours"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'The desks are solid… nothing has loosened or squeaked. For the price, I have not seen better'."
+      },
+      {
+        "id": "p7-154",
+        "kind": "mcq",
+        "prompt": "154. What is implied about the company's customer service?",
+        "options": [
+          {
+            "id": "a",
+            "text": "It was slow to respond."
+          },
+          {
+            "id": "b",
+            "text": "It required repeated complaints."
+          },
+          {
+            "id": "c",
+            "text": "It refused to offer compensation."
+          },
+          {
+            "id": "d",
+            "text": "It handled the complaint well."
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'the response was quick and genuinely apologetic, and they credited us the full delivery charge without my having to ask twice'."
+      },
+      {
+        "id": "p7-155",
+        "kind": "mcq",
+        "prompt": "155. In which of the positions marked [1], [2], [3] and [4] does the following sentence best belong?\n\n'To their credit, they did not try to argue about it.'",
+        "options": [
+          {
+            "id": "a",
+            "text": "[3]"
+          },
+          {
+            "id": "b",
+            "text": "[1]"
+          },
+          {
+            "id": "c",
+            "text": "[2]"
+          },
+          {
+            "id": "d",
+            "text": "[4]"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'To their credit' báo hiệu chuyển sang mặt tích cực sau đoạn phàn nàn về giao hàng, và dẫn vào câu nói về cách công ty xử lý khiếu nại. Chỉ vị trí [3] nằm đúng chỗ đó."
+      }
+    ]
+  },
+  {
+    "id": "reading-part7-s5",
+    "skill": "reading",
+    "title": "Part 7 — Single passage 5: article",
+    "format": "TOEIC Reading — Part 7 · Single passage (câu 156–158)",
+    "instructionsVi": "Bài báo. Có một câu hỏi NOT — buộc kiểm tra cả bốn phương án.",
+    "promptEn": "Refer to the following article and answer the questions.",
+    "passage": "KIRBY — The town's weekly market will move from the High Street to Harbour Square from October, ending an arrangement that has stood for more than sixty years.\n\nThe council said the move was needed because the High Street site can no longer accommodate emergency vehicle access alongside the stalls. Traders were consulted over the summer, and a majority supported the change once it became clear that stall fees would be frozen for two years.\n\nHarbour Square has space for thirty-eight stalls, six more than the current site, and there is parking within a two-minute walk. However, it is further from the bus interchange, and several traders have said they expect a fall in passing trade in the first season.\n\nThe council has agreed to review the arrangement after twelve months. It has not ruled out returning to the High Street if the move proves unpopular, though officials described that as unlikely.",
+    "timeLimitSec": 200,
+    "questions": [
+      {
+        "id": "p7-156",
+        "kind": "mcq",
+        "prompt": "156. Why is the market moving?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The High Street is being redeveloped."
+          },
+          {
+            "id": "b",
+            "text": "Traders requested a larger site."
+          },
+          {
+            "id": "c",
+            "text": "Emergency vehicles cannot get past the stalls."
+          },
+          {
+            "id": "d",
+            "text": "Stall fees needed to be increased."
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'the High Street site can no longer accommodate emergency vehicle access alongside the stalls'."
+      },
+      {
+        "id": "p7-157",
+        "kind": "mcq",
+        "prompt": "157. What persuaded most traders to support the move?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The extra parking"
+          },
+          {
+            "id": "b",
+            "text": "The six additional stalls"
+          },
+          {
+            "id": "c",
+            "text": "Closer access to the bus interchange"
+          },
+          {
+            "id": "d",
+            "text": "A two-year freeze on stall fees"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'a majority supported the change once it became clear that stall fees would be frozen for two years'. (C) sai vì chỗ mới XA bến xe hơn."
+      },
+      {
+        "id": "p7-158",
+        "kind": "mcq",
+        "prompt": "158. What is NOT stated about Harbour Square?",
+        "options": [
+          {
+            "id": "a",
+            "text": "It has been used for markets before."
+          },
+          {
+            "id": "b",
+            "text": "It has room for thirty-eight stalls."
+          },
+          {
+            "id": "c",
+            "text": "There is parking within a two-minute walk."
+          },
+          {
+            "id": "d",
+            "text": "It is further from the bus interchange."
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "Ba ý kia đều có ở đoạn 3. Bài không hề nói Harbour Square từng họp chợ — dạng NOT buộc đối chiếu từng phương án."
+      }
+    ]
+  },
+  {
+    "id": "reading-part7-s6",
+    "skill": "reading",
+    "title": "Part 7 — Single passage 6: instructions",
+    "format": "TOEIC Reading — Part 7 · Single passage (câu 159–161)",
+    "instructionsVi": "Hướng dẫn. Câu hỏi nhắm vào thứ tự các bước và điều bị cấm.",
+    "promptEn": "Refer to the following instructions and answer the questions.",
+    "passage": "SETTING UP YOUR STAFF ACCOUNT\n\nBefore you begin, you will need your employee number and the temporary password sent to your personal email. If you have not received it, contact HR rather than IT — the account is created by HR, not by the helpdesk.\n\n1. Go to portal.meridianhouse.example and select 'First-time sign in'.\n2. Enter your employee number and temporary password. Do not use the 'Forgotten password' link at this stage; it will not recognise an account that has never been activated.\n3. Set a permanent password of at least twelve characters. It cannot repeat any of your previous four passwords.\n4. Register a mobile number for two-factor codes. A landline cannot be used.\n5. Sign out fully and sign back in with the new password to confirm the setup.\n\nIf the portal rejects your employee number three times, the account locks for thirty minutes. Waiting is quicker than calling.",
+    "timeLimitSec": 200,
+    "questions": [
+      {
+        "id": "p7-159",
+        "kind": "mcq",
+        "prompt": "159. Who should be contacted if the temporary password has not arrived?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The IT helpdesk"
+          },
+          {
+            "id": "b",
+            "text": "The site manager"
+          },
+          {
+            "id": "c",
+            "text": "The portal administrator"
+          },
+          {
+            "id": "d",
+            "text": "HR"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'contact HR rather than IT — the account is created by HR, not by the helpdesk'."
+      },
+      {
+        "id": "p7-160",
+        "kind": "mcq",
+        "prompt": "160. What must NOT be done during first-time sign in?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Using the 'Forgotten password' link"
+          },
+          {
+            "id": "b",
+            "text": "Entering the employee number"
+          },
+          {
+            "id": "c",
+            "text": "Setting a twelve-character password"
+          },
+          {
+            "id": "d",
+            "text": "Registering a mobile number"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'Do not use the Forgotten password link at this stage; it will not recognise an account that has never been activated'."
+      },
+      {
+        "id": "p7-161",
+        "kind": "mcq",
+        "prompt": "161. What happens after three failed attempts?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The account is deleted."
+          },
+          {
+            "id": "b",
+            "text": "HR is notified automatically."
+          },
+          {
+            "id": "c",
+            "text": "The account locks for thirty minutes."
+          },
+          {
+            "id": "d",
+            "text": "A new temporary password is sent."
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'the account locks for thirty minutes. Waiting is quicker than calling'."
+      }
+    ]
+  },
+  {
+    "id": "reading-part7-s7",
+    "skill": "reading",
+    "title": "Part 7 — Single passage 7: online chat, four writers",
+    "format": "TOEIC Reading — Part 7 · Single passage (câu 162–165)",
+    "instructionsVi": "Hội thoại nhóm trực tuyến. Phải theo dõi ai nói gì; câu hỏi hàm ý nhắm vào một câu cụ thể.",
+    "promptEn": "Refer to the following online chat discussion and answer the questions.",
+    "passage": "Nadia Haddad (9:14 a.m.)\nThe conference venue has come back. They can do 12 March but not 5 March.\n\nTom Fenwick (9:16 a.m.)\n12 March clashes with the trade fair. Half our target audience will be in Birmingham.\n\nPriya Nair (9:18 a.m.)\nDoes it have to be March at all? April was always an option.\n\nNadia Haddad (9:19 a.m.)\nApril pushes it past the end of the financial year, so it comes out of next year's budget.\n\nTom Fenwick (9:21 a.m.)\nWhich might not be a bad thing, given where we are on this year's.\n\nPriya Nair (9:23 a.m.)\nThat's true. And an April date gives us six more weeks to sell tickets.\n\nNadia Haddad (9:25 a.m.)\nI'll ask them for April dates then. Tom, can you check the trade fair calendar for April before I commit to anything?\n\nTom Fenwick (9:26 a.m.)\nWill do. Give me an hour.",
+    "timeLimitSec": 240,
+    "questions": [
+      {
+        "id": "p7-162",
+        "kind": "mcq",
+        "prompt": "162. What is the main topic of the discussion?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Selecting a new venue"
+          },
+          {
+            "id": "b",
+            "text": "Setting ticket prices"
+          },
+          {
+            "id": "c",
+            "text": "Attending a trade fair"
+          },
+          {
+            "id": "d",
+            "text": "Choosing a date for a conference"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "Cả đoạn bàn nên tổ chức hội nghị vào ngày nào."
+      },
+      {
+        "id": "p7-163",
+        "kind": "mcq",
+        "prompt": "163. What is the problem with 12 March?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The venue is unavailable."
+          },
+          {
+            "id": "b",
+            "text": "It is after the financial year end."
+          },
+          {
+            "id": "c",
+            "text": "It clashes with a trade fair."
+          },
+          {
+            "id": "d",
+            "text": "There would be too little time to sell tickets."
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'12 March clashes with the trade fair. Half our target audience will be in Birmingham'. Ngày 5/3 mới là ngày địa điểm không nhận."
+      },
+      {
+        "id": "p7-164",
+        "kind": "mcq",
+        "prompt": "164. At 9:21 a.m., what does Mr Fenwick imply?",
+        "options": [
+          {
+            "id": "a",
+            "text": "This year's budget is under pressure."
+          },
+          {
+            "id": "b",
+            "text": "The event should be cancelled."
+          },
+          {
+            "id": "c",
+            "text": "The financial year should be changed."
+          },
+          {
+            "id": "d",
+            "text": "April is too late for the audience."
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'Which might not be a bad thing, given where we are on this year's' — hàm ý ngân sách năm nay đã căng, nên đẩy chi phí sang năm sau lại có lợi."
+      },
+      {
+        "id": "p7-165",
+        "kind": "mcq",
+        "prompt": "165. What will Mr Fenwick do next?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Contact the venue"
+          },
+          {
+            "id": "b",
+            "text": "Check the trade fair calendar for April"
+          },
+          {
+            "id": "c",
+            "text": "Begin selling tickets"
+          },
+          {
+            "id": "d",
+            "text": "Prepare next year's budget"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'can you check the trade fair calendar for April' — 'Will do. Give me an hour'."
+      }
+    ]
+  }
+]

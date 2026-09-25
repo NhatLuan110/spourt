@@ -1,0 +1,850 @@
+# Ngữ pháp A1 — ba điểm khó đầu tiên với người Việt.
+cefr: A1
+lessons:
+  - slug: present-simple
+    title: Present Simple
+    titleVi: Thì hiện tại đơn
+    summary: Diễn tả thói quen, sự thật và lịch trình — và cái đuôi -s mà tiếng Việt không có.
+    estimatedMinutes: 12
+    xpReward: 25
+    order: 1
+    prerequisites: []
+    sections:
+      - kind: theory
+        title: Cách dùng và cách chia
+        body: |
+          Hiện tại đơn dùng cho **thói quen**, **sự thật hiển nhiên** và **lịch trình cố định**.
+
+          | Chủ ngữ | Động từ | Ví dụ |
+          |---|---|---|
+          | I / you / we / they | nguyên thể | I **work** in Hanoi. |
+          | he / she / it | + **-s** | She **works** in Hanoi. |
+
+          Câu phủ định và câu hỏi mượn trợ động từ **do / does**, và khi đó động từ
+          chính quay về nguyên thể:
+
+          - She **does not work** on Sunday. (không phải *does not works*)
+          - **Does** she **work** on Sunday?
+
+          Quy tắc thêm **-s**:
+
+          - Phần lớn: `work → works`, `read → reads`
+          - Tận cùng `-s, -sh, -ch, -x, -o`: thêm **-es** — `watch → watches`, `go → goes`
+          - Phụ âm + `-y`: đổi thành **-ies** — `study → studies` (nhưng `play → plays`)
+      - kind: examples
+        title: Ví dụ trong ngữ cảnh
+        body: |
+          - My brother **teaches** English at a secondary school.
+            *Anh trai tôi dạy tiếng Anh ở một trường cấp hai.*
+          - Water **boils** at 100 degrees.
+            *Nước sôi ở 100 độ.*
+          - The train **leaves** at 6.30 every morning.
+            *Tàu chạy lúc 6 giờ 30 mỗi sáng.*
+          - I **don't drink** coffee after lunch.
+            *Tôi không uống cà phê sau bữa trưa.*
+      - kind: tips
+        title: Mẹo nhớ
+        body: |
+          **"He, she, it — đừng quên -s."** Đây là câu thần chú đáng thuộc lòng, vì
+          tiếng Việt không chia động từ theo chủ ngữ nên tai bạn không tự thấy thiếu.
+
+          Trạng từ tần suất đứng **trước** động từ thường nhưng **sau** động từ `to be`:
+
+          - She **always** arrives early.
+          - She **is always** early.
+      - kind: common-mistakes
+        title: Lỗi người Việt hay mắc
+        body: |
+          | Sai | Đúng | Vì sao |
+          |---|---|---|
+          | She go to school. | She **goes** to school. | Chủ ngữ ngôi ba số ít cần -s |
+          | He doesn't likes tea. | He doesn't **like** tea. | Sau `does` là động từ nguyên thể |
+          | I am work in a bank. | I **work** in a bank. | Không dùng `to be` cùng động từ thường |
+          | Do she live here? | **Does** she live here? | Ngôi ba số ít dùng `does` |
+    exercises:
+      - type: MCQ
+        prompt: "My sister ____ in a hospital in Da Nang."
+        promptVi: Chọn dạng đúng của động từ.
+        options: [work, works, working, is work]
+        answer: works
+        explanationVi: "\"My sister\" là ngôi thứ ba số ít nên động từ thêm -s: works."
+      - type: MCQ
+        prompt: "____ your parents live in Hue?"
+        promptVi: Chọn trợ động từ đúng.
+        options: [Do, Does, Are, Is]
+        answer: Do
+        explanationVi: "\"Your parents\" là số nhiều nên dùng Do, không dùng Does."
+      - type: GAP_FILL
+        prompt: "He ____ (not / watch) television in the morning."
+        promptVi: Điền dạng phủ định.
+        answer: does not watch
+        accept: ["does not watch", "doesn't watch"]
+        explanationVi: "Phủ định ngôi ba số ít là does not + động từ nguyên thể. Chữ -es
+          đã nằm ở does rồi nên watch giữ nguyên."
+      - type: GAP_FILL
+        prompt: "Lan ____ (study) English every evening."
+        promptVi: Điền dạng đúng.
+        answer: studies
+        accept: [studies]
+        explanationVi: "Phụ âm + -y đổi thành -ies: study → studies."
+      - type: TRUE_FALSE
+        prompt: Câu sau đúng ngữ pháp hay sai?
+        statement: The shop opens at eight and close at ten.
+        answer: false
+        explanationVi: "Sai. Hai động từ cùng chủ ngữ \"the shop\" nên cả hai phải thêm
+          -s: opens ... and closes."
+      - type: REORDER
+        prompt: Sắp xếp thành một câu đúng.
+        chunks: ["My father", "never", "drinks", "coffee", "at night"]
+        explanationVi: "Trạng từ tần suất never đứng ngay trước động từ thường: My father
+          never drinks coffee at night."
+      - type: SHORT_ANSWER
+        prompt: "Viết câu hỏi cho câu trả lời: \"Yes, she works on Saturday.\" Bắt đầu bằng Does."
+        accept: ["Does she work on Saturday", "Does she work on Saturday?"]
+        explanationVi: "Sau Does, động từ trở về nguyên thể: Does she work on Saturday?"
+      - type: MCQ
+        prompt: My dog always ____ when the mailman arrives.
+        promptVi: Chọn dạng đúng của động từ.
+        options:
+          - bark
+          - barks
+          - barking
+          - is bark
+        answer: barks
+        explanationVi: '"My dog" là danh từ số ít (ngôi thứ ba số ít), do đó động từ "bark" cần thêm "-s"
+          thành "barks".'
+      - type: MCQ
+        prompt: What time ____ the English class start?
+        promptVi: Chọn trợ động từ thích hợp.
+        options:
+          - does
+          - is
+          - are
+          - do
+        answer: does
+        explanationVi: '"The English class" là danh từ số ít, nên ta dùng trợ động từ "does" cho câu hỏi ở
+          thì hiện tại đơn.'
+      - type: MCQ
+        prompt: We ____ have lunch at home on weekdays.
+        promptVi: Chọn từ phủ định thích hợp.
+        options:
+          - not
+          - aren't
+          - doesn't
+          - don't
+        answer: don't
+        explanationVi: Với chủ ngữ "We", ta dùng trợ động từ phủ định "don't" (do not) trước động từ nguyên thể "have".
+      - type: MCQ
+        prompt: She ____ very happy today.
+        promptVi: Chọn động từ to be thích hợp.
+        options:
+          - am
+          - is
+          - are
+          - be
+        answer: is
+        explanationVi: Động từ "to be" chia ở thì hiện tại đơn đi với chủ ngữ ngôi thứ ba số ít "She" là "is".
+      - type: MCQ
+        prompt: My cousins ____ to the gym every morning.
+        promptVi: Chọn dạng đúng của động từ.
+        options:
+          - go
+          - goes
+          - going
+          - goes to
+        answer: go
+        explanationVi: '"My cousins" là danh từ số nhiều (ngôi thứ ba số nhiều), nên động từ "go" giữ nguyên thể.'
+      - type: MCQ
+        prompt: He ____ his teeth three times a day.
+        promptVi: Chọn dạng đúng của động từ.
+        options:
+          - brushs
+          - brushes
+          - brushing
+          - brush
+        answer: brushes
+        explanationVi: Động từ tận cùng bằng "-sh" (brush) khi đi với chủ ngữ ngôi thứ ba số ít "He" phải
+          thêm "-es" thành "brushes".
+      - type: MCQ
+        prompt: ____ you like chocolate ice cream?
+        promptVi: Chọn trợ động từ thích hợp.
+        options:
+          - Are
+          - Is
+          - Does
+          - Do
+        answer: Do
+        explanationVi: Với chủ ngữ "you", ta dùng trợ động từ "Do" để hỏi ở thì hiện tại đơn.
+      - type: MCQ
+        prompt: They ____ always on time for meetings.
+        promptVi: Chọn từ thích hợp điền vào chỗ trống.
+        options:
+          - do
+          - are
+          - is
+          - be
+        answer: are
+        explanationVi: Trạng từ tần suất "always" đứng sau động từ "to be". Với chủ ngữ "They", động từ "to
+          be" chia là "are".
+      - type: MCQ
+        prompt: My mother ____ a new car, but she doesn't drive it.
+        promptVi: Chọn dạng đúng của động từ.
+        options:
+          - have
+          - has
+          - haves
+          - having
+        answer: has
+        explanationVi: Động từ bất quy tắc "have" chuyển thành "has" khi đi với chủ ngữ ngôi thứ ba số ít "My mother".
+      - type: MCQ
+        prompt: Where ____ your uncle work?
+        promptVi: Chọn trợ động từ thích hợp.
+        options:
+          - do
+          - is
+          - are
+          - does
+        answer: does
+        explanationVi: '"Your uncle" là ngôi thứ ba số ít, vì vậy ta dùng trợ động từ "does" trong câu hỏi Wh-.'
+      - type: GAP_FILL
+        prompt: My friend ____ (not / play) video games on weekdays.
+        promptVi: Điền dạng phủ định thích hợp của động từ trong ngoặc.
+        answer: does not play
+        accept:
+          - does not play
+          - doesn't play
+        explanationVi: Phủ định của ngôi thứ ba số ít "My friend" là "does not" (hoặc "doesn't") đi kèm động
+          từ nguyên thể "play".
+      - type: GAP_FILL
+        prompt: The flight to London ____ (take off) at 9:00 PM tonight.
+        promptVi: Điền dạng đúng của động từ trong ngoặc để chỉ lịch trình.
+        answer: takes off
+        accept:
+          - takes off
+        explanationVi: Lịch trình cố định dùng hiện tại đơn. "The flight" là số ít nên động từ "take" thêm
+          "-s" thành "takes".
+      - type: GAP_FILL
+        prompt: I ____ (usually / get up) at 6 AM.
+        promptVi: Điền trạng từ và động từ đúng vị trí.
+        answer: usually get up
+        accept:
+          - usually get up
+        explanationVi: Trạng từ tần suất "usually" đứng trước động từ thường "get up". Chủ ngữ "I" nên động
+          từ giữ nguyên thể.
+      - type: GAP_FILL
+        prompt: My baby brother ____ (cry) when he is hungry.
+        promptVi: Điền dạng đúng của động từ trong ngoặc.
+        answer: cries
+        accept:
+          - cries
+        explanationVi: Động từ "cry" có tận cùng là phụ âm + "y", ta đổi "y" thành "i" rồi thêm "es" thành
+          "cries" khi đi với chủ ngữ số ít.
+      - type: GAP_FILL
+        prompt: We ____ (not / live) in a big city.
+        promptVi: Điền dạng phủ định thích hợp của động từ trong ngoặc.
+        answer: do not live
+        accept:
+          - do not live
+          - don't live
+        explanationVi: Phủ định của chủ ngữ "We" là "do not" (hoặc "don't") kết hợp động từ nguyên thể "live".
+      - type: GAP_FILL
+        prompt: Why ____ (you / want) to learn English?
+        promptVi: Điền dạng câu hỏi thích hợp cho phần trong ngoặc.
+        answer: do you want
+        accept:
+          - do you want
+        explanationVi: 'Cấu trúc câu hỏi Wh- với chủ ngữ "you" là: Wh-word + do + chủ ngữ + động từ nguyên thể.'
+      - type: TRUE_FALSE
+        prompt: Câu sau có đúng ngữ pháp không?
+        statement: She doesn't likes to drink cold water.
+        answer: false
+        explanationVi: "Sai. Sau trợ động từ phủ định \"doesn't\", động từ chính phải ở dạng nguyên thể
+          không chia: \"She doesn't like...\"."
+        promptVi: Câu sau có đúng ngữ pháp không?
+      - type: TRUE_FALSE
+        prompt: Câu sau có đúng ngữ pháp không?
+        statement: My father flies to Tokyo twice a year.
+        answer: true
+        explanationVi: Đúng. Động từ "fly" tận cùng là phụ âm + "y" được đổi thành "flies" khi đi với chủ
+          ngữ số ít "My father".
+        promptVi: Câu sau có đúng ngữ pháp không?
+      - type: REORDER
+        prompt: Sắp xếp thành câu bắt đầu bằng "My sister" và kết thúc bằng "for school".
+        promptVi: Sắp xếp các từ để tạo thành câu hoàn chỉnh.
+        chunks:
+          - My sister
+          - is often
+          - late
+          - for school
+        explanationVi: Trạng từ tần suất "often" đứng sau động từ "to be" (is) và trước tính từ (late).
+      - type: REORDER
+        prompt: Sắp xếp thành câu bắt đầu bằng "They" và kết thúc bằng "in winter".
+        promptVi: Sắp xếp các từ để tạo thành câu hoàn chỉnh.
+        chunks:
+          - They
+          - do not
+          - go
+          - to the beach
+          - in winter
+        explanationVi: "Cấu trúc phủ định hiện tại đơn: Chủ ngữ + do not + động từ nguyên thể + trạng ngữ
+          chỉ nơi chốn + trạng ngữ chỉ thời gian."
+
+  - slug: articles-a-an-the
+    title: Articles - a, an, the
+    titleVi: Mạo từ a, an, the
+    summary: Điểm khó nhất với người Việt, vì tiếng Việt không có mạo từ.
+    estimatedMinutes: 15
+    xpReward: 30
+    order: 2
+    prerequisites: []
+    sections:
+      - kind: theory
+        title: Ba lựa chọn, không phải hai
+        body: |
+          Mỗi lần đặt một danh từ vào câu, bạn chọn một trong **ba** khả năng:
+          `a/an`, `the`, hoặc **không mạo từ**.
+
+          **a / an — một cái nào đó, người nghe chưa biết là cái nào**
+
+          - I bought **a** book yesterday. (người nghe chưa biết cuốn nào)
+          - `a` trước **âm** phụ âm, `an` trước **âm** nguyên âm. Nghe âm, đừng nhìn chữ:
+            **an** hour (h câm), **a** university (đọc là /juː/), **an** MBA (đọc /em/).
+
+          **the — cả người nói và người nghe đều biết là cái nào**
+
+          - I bought a book. **The** book is about Hanoi. (đã nhắc đến ở câu trước)
+          - **The** sun, **the** moon — chỉ có một
+          - **the** first, **the** best — thứ tự và so sánh nhất
+
+          **Không mạo từ — danh từ số nhiều hoặc không đếm được, nói chung chung**
+
+          - **Books** are expensive. (sách nói chung)
+          - **Water** is free here.
+      - kind: examples
+        title: So sánh ba khả năng
+        body: |
+          - I want to buy **a** car. *(một cái xe nào đó)*
+          - I want to buy **the** car we saw yesterday. *(chiếc cụ thể)*
+          - I want to buy **cars** and sell them. *(xe nói chung)*
+
+          Cùng một danh từ, ba nghĩa khác nhau. Đây là lý do không thể bỏ qua mạo từ.
+      - kind: tips
+        title: Hai câu hỏi tự đặt
+        body: |
+          1. **Danh từ này đếm được và số ít không?** Nếu có, bắt buộc phải có mạo từ
+             hoặc từ hạn định (`my`, `this`, `each`...). Không bao giờ để trần.
+          2. **Người nghe có biết mình đang nói cái nào không?** Có thì `the`,
+             chưa thì `a/an`.
+
+          Với tên riêng: nói chung **không** có `the` (Vietnam, Hanoi, Mr Nam), nhưng
+          có `the` với sông, biển, dãy núi và tên nước số nhiều — **the** Mekong,
+          **the** Philippines, **the** United States.
+      - kind: common-mistakes
+        title: Lỗi người Việt hay mắc
+        body: |
+          | Sai | Đúng | Vì sao |
+          |---|---|---|
+          | I am student. | I am **a** student. | Danh từ đếm được số ít phải có mạo từ |
+          | I like the music. | I like music. | Nói chung chung thì không dùng the |
+          | She plays the football. | She plays football. | Môn thể thao không có the |
+          | He is an university student. | He is **a** university student. | university đọc /juːnɪ/, âm phụ âm |
+          | I go to the school every day. | I go to school every day. | Đi học để học thì không có the |
+    exercises:
+      - type: MCQ
+        prompt: "My uncle is ____ engineer at a construction company."
+        promptVi: Chọn mạo từ đúng.
+        options: [an, a, the, "(không mạo từ)"]
+        answer: an
+        explanationVi: "engineer bắt đầu bằng âm nguyên âm /e/ nên dùng an, và đây là
+          lần đầu nhắc tới nên chưa dùng the."
+      - type: MCQ
+        prompt: "She is ____ best student in the class."
+        promptVi: Chọn mạo từ đúng.
+        options: [the, a, an, "(không mạo từ)"]
+        answer: the
+        explanationVi: "So sánh nhất luôn đi với the, vì chỉ có một người giỏi nhất."
+      - type: MCQ
+        prompt: "I don't drink ____ coffee in the evening."
+        promptVi: Chọn phương án đúng.
+        options: ["(không mạo từ)", a, an, the]
+        answer: "(không mạo từ)"
+        explanationVi: "coffee ở đây là danh từ không đếm được, nói chung chung, nên
+          không cần mạo từ."
+      - type: GAP_FILL
+        prompt: "I saw ____ cat in the garden. ____ cat was black."
+        promptVi: "Điền hai mạo từ, cách nhau bằng dấu cách."
+        answer: a The
+        accept: ["a The"]
+        explanationVi: "Lần đầu nhắc tới dùng a; câu sau người nghe đã biết là con nào
+          nên chuyển sang The."
+      - type: TRUE_FALSE
+        prompt: Câu sau đúng ngữ pháp hay sai?
+        statement: My brother wants to be a doctor in the future.
+        answer: true
+        explanationVi: "Đúng. doctor là danh từ đếm được số ít nên cần a, và in the
+          future là cụm cố định luôn có the."
+      - type: TRUE_FALSE
+        prompt: Câu sau đúng ngữ pháp hay sai?
+        statement: He listens to the music every morning.
+        answer: false
+        explanationVi: "Sai. music ở đây là âm nhạc nói chung nên bỏ the. Chỉ dùng
+          the music khi nói về một bản nhạc cụ thể."
+      - type: SHORT_ANSWER
+        prompt: "Sửa câu sai: \"She is teacher at a primary school.\""
+        accept: ["She is a teacher at a primary school"]
+        explanationVi: "teacher là danh từ đếm được số ít nên phải có a."
+      - type: MCQ
+        prompt: We need to buy ____ new refrigerator for the kitchen.
+        promptVi: Chọn mạo từ bất định khi chưa nói đến chiếc tủ lạnh cụ thể nào.
+        options:
+          - a
+          - an
+          - the
+          - (không mạo từ)
+        answer: a
+        explanationVi: Cụm new refrigerator chỉ một chiếc tủ lạnh chưa xác định. New bắt đầu bằng âm phụ âm
+          /n/ nên dùng a.
+      - type: MCQ
+        prompt: Look at ____ moon! It is so bright tonight.
+        promptVi: Chọn mạo từ đúng.
+        options:
+          - a
+          - an
+          - (không mạo từ)
+          - the
+        answer: the
+        explanationVi: Người nói và người nghe cùng chỉ Mặt Trăng trên bầu trời của Trái Đất nên dùng the moon.
+      - type: MCQ
+        prompt: She has to wait for ____ hour before the meeting starts.
+        promptVi: Chọn mạo từ đúng.
+        options:
+          - the
+          - (không mạo từ)
+          - an
+          - a
+        answer: an
+        explanationVi: Chữ h trong hour không được phát âm, nên hour bắt đầu bằng âm nguyên âm và đi với an.
+      - type: MCQ
+        prompt: I love eating ____ apples. They are very healthy.
+        promptVi: Chọn mạo từ đúng.
+        options:
+          - the
+          - (không mạo từ)
+          - a
+          - an
+        answer: (không mạo từ)
+        explanationVi: apples là danh từ số nhiều chỉ chung chung (tôi thích ăn táo nói chung) nên không dùng mạo từ.
+      - type: MCQ
+        prompt: This is ____ first time I have visited Hanoi.
+        promptVi: Chọn mạo từ đúng.
+        options:
+          - the
+          - a
+          - an
+          - (không mạo từ)
+        answer: the
+        explanationVi: Trong this is the first time, dùng the trước first để chỉ lần đầu tiên. Không dùng a
+          hoặc an trong cấu trúc này.
+      - type: MCQ
+        prompt: My cousin studies at ____ university in London, but I don't know which one.
+        promptVi: Chọn mạo từ để chỉ một trường đại học chưa xác định.
+        options:
+          - an
+          - the
+          - (không mạo từ)
+          - a
+        answer: a
+        explanationVi: Chưa xác định trường nào nên dùng mạo từ bất định. University bắt đầu bằng âm phụ âm
+          /j/ nên chọn a, dù chữ đầu tiên là u.
+      - type: MCQ
+        prompt: Can you pass me ____ salt, please? It's next to you.
+        promptVi: Chọn mạo từ đúng.
+        options:
+          - an
+          - (không mạo từ)
+          - the
+          - a
+        answer: the
+        explanationVi: Người nói và người nghe đều biết rõ lọ muối cụ thể đang ở trên bàn ăn, nên dùng 'the'.
+      - type: MCQ
+        prompt: ____ Mekong River flows through several countries in Asia.
+        promptVi: Chọn mạo từ đúng.
+        options:
+          - (không mạo từ)
+          - The
+          - A
+          - An
+        answer: The
+        explanationVi: Tên các con sông (Mekong River) luôn đi kèm với mạo từ xác định 'The'.
+      - type: MCQ
+        prompt: He is ____ honest man. You can trust him.
+        promptVi: Chọn mạo từ đúng.
+        options:
+          - an
+          - a
+          - the
+          - (không mạo từ)
+        answer: an
+        explanationVi: Chữ h trong honest không được phát âm; từ bắt đầu bằng âm nguyên âm nên dùng an honest man.
+      - type: MCQ
+        prompt: I usually play ____ badminton with my friends on Sundays.
+        promptVi: Chọn mạo từ đúng.
+        options:
+          - a
+          - an
+          - the
+          - (không mạo từ)
+        answer: (không mạo từ)
+        explanationVi: Trước tên các môn thể thao (badminton, football, tennis...) chúng ta không dùng mạo từ.
+      - type: GAP_FILL
+        prompt: My father is ____ doctor.
+        promptVi: Điền mạo từ thích hợp vào chỗ trống.
+        answer: a
+        accept:
+          - a
+        explanationVi: doctor là danh từ đếm được số ít chỉ nghề nghiệp, bắt đầu bằng phụ âm nên dùng 'a'.
+      - type: GAP_FILL
+        prompt: We live in ____ United States.
+        promptVi: Điền mạo từ thích hợp vào chỗ trống (viết hoa chữ cái đầu nếu cần).
+        answer: the
+        accept:
+          - the
+          - The
+        explanationVi: Tên quốc gia có dạng số nhiều hoặc chứa các từ như 'States', 'Kingdom', 'Republic'
+          phải đi với 'the'.
+      - type: GAP_FILL
+        prompt: She wants to buy ____ orange and two bananas.
+        promptVi: Điền mạo từ thích hợp vào chỗ trống.
+        answer: an
+        accept:
+          - an
+        explanationVi: orange bắt đầu bằng nguyên âm /ɒ/ nên ta dùng mạo từ 'an'.
+      - type: GAP_FILL
+        prompt: ____ sun rises in the east.
+        promptVi: Điền mạo từ thích hợp vào chỗ trống (lưu ý viết hoa chữ cái đầu).
+        answer: The
+        accept:
+          - The
+        explanationVi: sun (mặt trời) là duy nhất, đứng đầu câu nên ta điền 'The' viết hoa.
+      - type: GAP_FILL
+        prompt: I have a dog and a cat. ____ dog is very friendly.
+        promptVi: Điền mạo từ thích hợp vào chỗ trống (viết hoa chữ cái đầu nếu cần).
+        answer: The
+        accept:
+          - The
+          - the
+        explanationVi: dog đã được nhắc đến ở câu trước, người nghe đã biết là con chó nào nên dùng 'The'.
+      - type: GAP_FILL
+        prompt: We need to buy ____ umbrella because it is raining.
+        promptVi: Điền mạo từ thích hợp vào chỗ trống.
+        answer: an
+        accept:
+          - an
+        explanationVi: umbrella bắt đầu bằng nguyên âm /ʌ/ nên ta dùng mạo từ 'an'.
+      - type: TRUE_FALSE
+        prompt: Câu sau có đúng ngữ pháp không?
+        statement: I want to travel to the Japan next summer.
+        answer: false
+        explanationVi: Sai. Tên hầu hết các quốc gia số ít thông thường (như Japan, Vietnam) không đi kèm mạo từ 'the'.
+        promptVi: Câu sau có đúng ngữ pháp không?
+      - type: TRUE_FALSE
+        prompt: Câu sau có đúng ngữ pháp không?
+        statement: She is an honest person.
+        answer: true
+        explanationVi: Đúng. Chữ h trong honest không được phát âm nên từ này bắt đầu bằng âm nguyên âm;
+          dùng an honest person.
+        promptVi: Câu sau có đúng ngữ pháp không?
+      - type: REORDER
+        prompt: Sắp xếp thành câu bắt đầu bằng "He" và kết thúc bằng "teacher.".
+        promptVi: Kéo thả các từ để xếp thành câu đúng.
+        chunks:
+          - He
+          - is
+          - an
+          - English
+          - teacher.
+        explanationVi: "English bắt đầu bằng nguyên âm nên dùng 'an'. Cấu trúc: S + be + a/an + adj + N."
+      - type: REORDER
+        prompt: Sắp xếp thành câu bắt đầu bằng "The" và kết thúc bằng "sun.".
+        promptVi: Kéo thả các từ để xếp thành câu đúng.
+        chunks:
+          - The
+          - earth
+          - goes
+          - around
+          - the
+          - sun.
+        explanationVi: Trong câu này, the earth và the sun chỉ Trái Đất và Mặt Trời mà người nói và người
+          nghe cùng biết. Trật tự câu là chủ ngữ + goes around + tân ngữ.
+
+  - slug: there-is-there-are
+    title: There is / There are
+    titleVi: Cấu trúc there is / there are
+    summary: Cách nói "có" trong tiếng Anh, và vì sao dịch thẳng từ tiếng Việt lại sai.
+    estimatedMinutes: 10
+    xpReward: 20
+    order: 3
+    prerequisites: [present-simple]
+    sections:
+      - kind: theory
+        title: Cấu trúc
+        body: |
+          Tiếng Việt nói "Có một quyển sách trên bàn" — chủ ngữ ẩn. Tiếng Anh bắt buộc
+          phải có chủ ngữ hình thức **there**:
+
+          - **There is** a book on the table. *(số ít / không đếm được)*
+          - **There are** three books on the table. *(số nhiều)*
+
+          Động từ chia theo danh từ **đứng ngay sau nó**, không theo `there`:
+
+          - There **is** a chair and two tables. *(chair đứng trước → is)*
+          - There **are** two tables and a chair. *(tables đứng trước → are)*
+
+          Phủ định và nghi vấn:
+
+          - There **isn't** any milk in the fridge.
+          - **Is there** a bank near here?
+      - kind: examples
+        title: Ví dụ
+        body: |
+          - **There are** many motorbikes in Ho Chi Minh City.
+            *Ở Thành phố Hồ Chí Minh có rất nhiều xe máy.*
+          - **There is** a lot of traffic in the morning.
+            *Buổi sáng có rất nhiều xe cộ.*
+          - **Is there** a pharmacy on this street?
+            *Trên phố này có hiệu thuốc không?*
+      - kind: tips
+        title: Mẹo nhớ
+        body: |
+          `there is/are` giới thiệu cái **mới**. Khi đã biết cái đó rồi thì dùng
+          `it is` hoặc `they are`:
+
+          - **There is** a new cafe on Ba Trieu street. **It is** very quiet.
+
+          Với danh từ không đếm được luôn dùng **is**: there **is** some water,
+          there **is** a lot of noise.
+      - kind: common-mistakes
+        title: Lỗi người Việt hay mắc
+        body: |
+          | Sai | Đúng | Vì sao |
+          |---|---|---|
+          | Have a book on the table. | **There is** a book on the table. | Đừng dịch thẳng "có" thành have |
+          | There are a lot of traffic. | There **is** a lot of traffic. | traffic không đếm được |
+          | There is many people here. | There **are** many people here. | people là số nhiều |
+          | In my city has three parks. | **There are** three parks in my city. | Câu tiếng Anh cần chủ ngữ thật |
+    exercises:
+      - type: MCQ
+        prompt: "____ a lot of noise in this street at night."
+        promptVi: Chọn phương án đúng.
+        options: [There is, There are, Have, It has]
+        answer: There is
+        explanationVi: "noise là danh từ không đếm được nên dùng There is."
+      - type: MCQ
+        prompt: "____ any eggs in the fridge?"
+        promptVi: Chọn phương án đúng.
+        options: [Are there, Is there, Do there, Have there]
+        answer: Are there
+        explanationVi: "eggs số nhiều nên dùng Are there; câu hỏi đảo there ra sau động từ."
+      - type: GAP_FILL
+        prompt: "____ ____ two hospitals and one school in my village."
+        promptVi: "Điền hai từ."
+        answer: There are
+        accept: ["There are"]
+        explanationVi: "Danh từ đứng ngay sau là two hospitals — số nhiều — nên dùng
+          There are."
+      - type: TRUE_FALSE
+        prompt: Câu sau đúng ngữ pháp hay sai?
+        statement: There is a chair and two tables in the room.
+        answer: true
+        explanationVi: "Đúng. Động từ chia theo danh từ đứng ngay sau nó là a chair,
+          số ít, nên dùng is."
+      - type: REORDER
+        prompt: Sắp xếp thành một câu đúng.
+        chunks: ["There aren't", "any good restaurants", "near", "my office"]
+        explanationVi: "Phủ định số nhiều là There aren't, sau đó là cụm danh từ rồi
+          giới từ chỉ nơi chốn."
+      - type: SHORT_ANSWER
+        prompt: "Sửa câu sai: \"In my house has four rooms.\""
+        accept: ["There are four rooms in my house", "My house has four rooms"]
+        explanationVi: "Câu tiếng Anh cần chủ ngữ thật. Hai cách đúng: There are four
+          rooms in my house, hoặc My house has four rooms."
+      - type: MCQ
+        prompt: ____ some water in the bottle on the table.
+        promptVi: Chọn phương án đúng.
+        options:
+          - There is
+          - There are
+          - It has
+          - There isn't any
+        answer: There is
+        explanationVi: Water (nước) là danh từ không đếm được nên chúng ta dùng cấu trúc số ít 'There is'.
+      - type: MCQ
+        prompt: ____ many people at the bus stop right now.
+        promptVi: Chọn phương án đúng.
+        options:
+          - There are
+          - Has
+          - There are not any
+          - There is
+        answer: There are
+        explanationVi: People (mọi người) là danh từ số nhiều nên ta dùng 'There are'.
+      - type: MCQ
+        prompt: ____ a computer and three tablets in the classroom?
+        promptVi: Chọn phương án đúng.
+        options:
+          - Do there have
+          - Have there
+          - Is there
+          - Are there
+        answer: Is there
+        explanationVi: Trong câu hỏi, động từ chia theo danh từ đứng ngay sau nó. 'A computer' là số ít nên
+          ta dùng 'Is there'.
+      - type: MCQ
+        prompt: ____ three tablets and a computer in the classroom?
+        promptVi: Chọn phương án đúng.
+        options:
+          - Have there
+          - Is there
+          - Are there
+          - Do there have
+        answer: Are there
+        explanationVi: Danh từ đứng ngay sau động từ là 'three tablets' (số nhiều) nên ta dùng 'Are there'.
+      - type: MCQ
+        prompt: ____ any sugar left in the kitchen. We need to buy some.
+        promptVi: Chọn phương án đúng.
+        options:
+          - There isn't
+          - There aren't
+          - There is
+          - There are
+        answer: There isn't
+        explanationVi: Sugar (đường) là danh từ không đếm được. Câu mang nghĩa phủ định (không còn đường)
+          nên dùng 'There isn't'.
+      - type: MCQ
+        prompt: ____ a new park near my house. ____ is very clean.
+        promptVi: Chọn phương án đúng.
+        options:
+          - There are / They
+          - It is / There
+          - There is / There
+          - There is / It
+        answer: There is / It
+        explanationVi: Dùng 'There is' để giới thiệu công viên mới, sau đó dùng đại từ 'It' để thay thế cho
+          danh từ đã biết ở câu sau.
+      - type: MCQ
+        prompt: ____ any cheap hotels in this town?
+        promptVi: Chọn phương án đúng.
+        options:
+          - Do there
+          - Have there
+          - Are there
+          - Is there
+        answer: Are there
+        explanationVi: Hotels là danh từ số nhiều nên câu hỏi dùng cấu trúc 'Are there'.
+      - type: MCQ
+        prompt: ____ a lot of traffic on the highway today.
+        promptVi: Chọn phương án đúng.
+        options:
+          - It has
+          - There is
+          - There are
+          - In there is
+        answer: There is
+        explanationVi: Traffic (giao thông) là danh từ không đếm được nên ta dùng 'There is'.
+      - type: MCQ
+        prompt: ____ five apples in the basket.
+        promptVi: Chọn phương án đúng.
+        options:
+          - There are
+          - There is
+          - Have
+          - It is
+        answer: There are
+        explanationVi: Five apples là danh từ số nhiều nên ta dùng 'There are'.
+      - type: MCQ
+        prompt: ____ any milk in the fridge? - Yes, there is.
+        promptVi: Chọn phương án đúng.
+        options:
+          - Are there
+          - Do there
+          - Have there
+          - Is there
+        answer: Is there
+        explanationVi: Milk (sữa) là danh từ không đếm được nên câu hỏi dùng 'Is there'.
+      - type: GAP_FILL
+        prompt: ____ ____ any students in the library at the moment.
+        promptVi: Điền dạng phủ định hiện tại của there is/are; chấp nhận viết tắt hoặc đầy đủ.
+        answer: There aren't
+        accept:
+          - There aren't
+          - There are not
+        explanationVi: Students là danh từ số nhiều, đi với 'any' trong câu phủ định nên dùng 'There aren't'.
+      - type: GAP_FILL
+        prompt: ____ ____ a post office near here?
+        promptVi: Điền hai từ để tạo thành câu hỏi.
+        answer: Is there
+        accept:
+          - Is there
+        explanationVi: A post office là danh từ số ít nên câu hỏi bắt đầu bằng 'Is there'.
+      - type: GAP_FILL
+        prompt: ____ ____ a lot of salt in this soup.
+        promptVi: Điền hai từ (thể khẳng định).
+        answer: There is
+        accept:
+          - There is
+          - There's
+        explanationVi: Salt (muối) là danh từ không đếm được nên dùng 'There is' hoặc viết tắt là 'There's'.
+      - type: GAP_FILL
+        prompt: ____ ____ many cars in the parking lot today.
+        promptVi: Điền hai từ (thể khẳng định).
+        answer: There are
+        accept:
+          - There are
+        explanationVi: Many cars là danh từ số nhiều nên ta dùng 'There are'.
+      - type: GAP_FILL
+        prompt: ____ ____ any clean glasses in the cupboard?
+        promptVi: Điền hai từ để tạo thành câu hỏi.
+        answer: Are there
+        accept:
+          - Are there
+        explanationVi: Clean glasses là danh từ số nhiều nên câu hỏi dùng 'Are there'.
+      - type: GAP_FILL
+        prompt: ____ ____ no information about the flight on the screen.
+        promptVi: Điền hai từ (thể khẳng định đi với no).
+        answer: There is
+        accept:
+          - There is
+          - There's
+        explanationVi: Information là danh từ không đếm được nên ta dùng 'There is'.
+      - type: TRUE_FALSE
+        prompt: Câu sau có đúng ngữ pháp không?
+        statement: There is many tourists in the city center today.
+        answer: false
+        explanationVi: Sai. 'Many tourists' là danh từ số nhiều, vì vậy phải dùng 'There are' thay vì 'There is'.
+        promptVi: Câu sau có đúng ngữ pháp không?
+      - type: TRUE_FALSE
+        prompt: Câu sau có đúng ngữ pháp không?
+        statement: There is a big window and two small doors in this room.
+        answer: true
+        explanationVi: Đúng. Động từ chia theo danh từ đứng ngay sau nó là 'a big window' (số ít) nên dùng
+          'There is' là chính xác.
+        promptVi: Câu sau có đúng ngữ pháp không?
+      - type: REORDER
+        prompt: Sắp xếp thành câu bắt đầu bằng "There is" và kết thúc bằng "fridge".
+        chunks:
+          - There is
+          - some cheese
+          - in the
+          - fridge
+        explanationVi: Cheese là danh từ không đếm được nên đi với 'There is', theo sau là cụm danh từ và
+          cụm giới từ chỉ nơi chốn.
+      - type: REORDER
+        prompt: Sắp xếp thành câu bắt đầu bằng "Are there" và kết thúc bằng "today?".
+        chunks:
+          - Are there
+          - any letters
+          - for me
+          - today?
+        explanationVi: "Đây là câu hỏi số nhiều: 'Are there' đứng đầu, theo sau là 'any + danh từ số nhiều'
+          và trạng ngữ."
+

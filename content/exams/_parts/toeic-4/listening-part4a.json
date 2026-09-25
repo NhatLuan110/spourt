@@ -1,0 +1,308 @@
+[
+  {
+    "id": "listening-part4-t1",
+    "skill": "listening",
+    "title": "Part 4 — Talk 1: voicemail from outside counsel",
+    "format": "TOEIC Listening — Part 4 · Talk 1 (câu 71–73)",
+    "instructionsVi": "Ở mục tiêu 900, bài nói một người dùng từ chuyên ngành và nêu hai lựa chọn; câu hỏi hỏi lựa chọn nào được KHUYẾN NGHỊ, không phải lựa chọn nào được nhắc trước.",
+    "promptEn": "Listen to the voicemail message and answer questions 71 through 73.",
+    "accent": "uk",
+    "transcript": [
+      { "speaker": "Speaker", "text": "Marta, it's Colin Rhys at Farrow Legal, half past four on Tuesday." },
+      { "speaker": "Speaker", "text": "I've been through the amended distribution agreement. Two things worth your attention." },
+      { "speaker": "Speaker", "text": "First, clause fourteen now says this agreement supersedes all prior arrangements. That would extinguish the side letter your predecessor signed in 2021 — the one that gives you the exclusive territory in the north-east. If that exclusivity matters to you, it has to be written into the body of the new agreement, not left in a document the new agreement cancels." },
+      { "speaker": "Speaker", "text": "Second, the indemnity has been made mutual, which reads as fair, but their cap is expressed as a percentage of fees paid and yours as a fixed sum. In year one those are similar. By year four theirs is roughly double yours." },
+      { "speaker": "Speaker", "text": "You could ask for both caps expressed the same way, or you could accept the drafting and price the difference into your margin. My advice is the first — the second only works if nothing ever goes wrong, and it costs you nothing to ask." },
+      { "speaker": "Speaker", "text": "I'm in court tomorrow morning but reachable after two. Don't sign before we speak." }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p4-71",
+        "kind": "mcq",
+        "prompt": "71. What is the risk in clause fourteen?",
+        "options": [
+          { "id": "a", "text": "It cancels an earlier letter granting exclusive territory." },
+          { "id": "b", "text": "It shortens the term of the agreement." },
+          { "id": "c", "text": "It removes the right to appoint sub-distributors." },
+          { "id": "d", "text": "It was signed by the wrong person in 2021." }
+        ],
+        "answer": "a",
+        "explanationVi": "'supersedes all prior arrangements… would extinguish the side letter'. 'Extinguish' ở nghĩa pháp lý là làm mất hiệu lực.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p4-72",
+        "kind": "mcq",
+        "prompt": "72. What is wrong with the mutual indemnity?",
+        "options": [
+          { "id": "a", "text": "Only one party is protected." },
+          { "id": "b", "text": "The two caps are calculated on different bases and diverge over time." },
+          { "id": "c", "text": "The cap is too low for both parties." },
+          { "id": "d", "text": "It expires after year one." }
+        ],
+        "answer": "b",
+        "explanationVi": "Một bên tính theo phần trăm phí, bên kia là số tiền cố định: 'In year one those are similar. By year four theirs is roughly double yours.' Bề ngoài có vẻ công bằng — 'reads as fair' là tín hiệu cảnh báo.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p4-73",
+        "kind": "mcq",
+        "prompt": "73. What does the speaker recommend?",
+        "options": [
+          { "id": "a", "text": "Accepting the drafting and adjusting the margin." },
+          { "id": "b", "text": "Signing before the end of the week." },
+          { "id": "c", "text": "Requesting that both caps use the same basis." },
+          { "id": "d", "text": "Withdrawing from the agreement." }
+        ],
+        "answer": "c",
+        "explanationVi": "'My advice is the first' — phải nhớ 'the first' trỏ về phương án nào. (A) chính là phương án thứ hai mà ông ta bác bỏ.",
+        "difficulty": "hard"
+      }
+    ]
+  },
+  {
+    "id": "listening-part4-t2",
+    "skill": "listening",
+    "title": "Part 4 — Talk 2: shift-pattern announcement",
+    "format": "TOEIC Listening — Part 4 · Talk 2 (câu 74–76)",
+    "instructionsVi": "Thông báo nội bộ có yếu tố nhạy cảm: người nói dùng cách nói giảm, và câu hỏi hàm ý nhắm đúng vào chỗ đó.",
+    "promptEn": "Listen to the announcement and answer questions 74 through 76.",
+    "accent": "us",
+    "transcript": [
+      { "speaker": "Speaker", "text": "Good morning, everyone. Thanks for staying behind at the end of the shift." },
+      { "speaker": "Speaker", "text": "From the second of next month the plant moves from three eight-hour shifts to two twelve-hour shifts, four days on, four days off." },
+      { "speaker": "Speaker", "text": "Let me deal with the question I know is in the room. No one is being made redundant. The headcount we need under the new pattern is thirty-one; we currently have thirty-eight. That gap will close through natural attrition over about eighteen months, and until it closes we will be overstaffed and that is fine." },
+      { "speaker": "Speaker", "text": "Base pay is unchanged. The unsocial-hours supplement is being folded into the shift allowance, which for most of you is worth between forty and sixty pounds a month more, not less. Payroll will send individual figures on Friday — please check yours against your last payslip and tell your supervisor if it doesn't look right." },
+      { "speaker": "Speaker", "text": "Anyone with a caring responsibility that makes twelve-hour shifts impossible should speak to HR this week. We have four part-time patterns available and they will be allocated on need, not on length of service." }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p4-74",
+        "kind": "mcq",
+        "prompt": "74. What does the speaker mean by \"the question I know is in the room\"?",
+        "options": [
+          { "id": "a", "text": "Whether anyone will lose their job." },
+          { "id": "b", "text": "Whether the plant will close." },
+          { "id": "c", "text": "When the payslips will arrive." },
+          { "id": "d", "text": "Who will supervise the new shifts." }
+        ],
+        "answer": "a",
+        "explanationVi": "Câu ngay sau đó trả lời chính nó: 'No one is being made redundant.' Câu hỏi hàm ý luôn được giải bằng câu liền kề, trước hoặc sau.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p4-75",
+        "kind": "mcq",
+        "prompt": "75. How will the workforce reach the required size?",
+        "options": [
+          { "id": "a", "text": "Through redundancies over eighteen months." },
+          { "id": "b", "text": "By transferring staff to another plant." },
+          { "id": "c", "text": "By not replacing people who leave." },
+          { "id": "d", "text": "By converting seven roles to part time." }
+        ],
+        "answer": "c",
+        "explanationVi": "'natural attrition' nghĩa là chờ người tự nghỉ mà không tuyển bù. Đây là từ khoá của cả bài nói.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p4-76",
+        "kind": "mcq",
+        "prompt": "76. How will the part-time patterns be allocated?",
+        "options": [
+          { "id": "a", "text": "By length of service." },
+          { "id": "b", "text": "According to individual need." },
+          { "id": "c", "text": "By ballot." },
+          { "id": "d", "text": "On a first-come, first-served basis." }
+        ],
+        "answer": "b",
+        "explanationVi": "'on need, not on length of service' — (A) là đúng cái bị loại. Mẫu 'X, not Y' xuất hiện dày đặc ở Part 4 mức 900.",
+        "difficulty": "hard"
+      }
+    ]
+  },
+  {
+    "id": "listening-part4-t3",
+    "skill": "listening",
+    "title": "Part 4 — Talk 3: business news bulletin",
+    "format": "TOEIC Listening — Part 4 · Talk 3 (câu 77–79)",
+    "instructionsVi": "Bản tin đọc nhanh, nhiều số và tên riêng. Nghe lấy quan hệ nhân quả, đừng cố ghi hết số.",
+    "promptEn": "Listen to the news bulletin and answer questions 77 through 79.",
+    "accent": "us",
+    "transcript": [
+      { "speaker": "Speaker", "text": "And now the business summary." },
+      { "speaker": "Speaker", "text": "Shares in Kelbrook Logistics fell eleven per cent this morning after the company restated its results for the last two financial years. The restatement follows a review of how the group recognised revenue on multi-year haulage contracts; roughly forty million pounds of income has been moved into later periods." },
+      { "speaker": "Speaker", "text": "The company was at pains to stress that no cash has been lost and no customer is affected. Analysts broadly accept that, and several noted that the underlying business is unchanged. What unsettled the market was the disclosure that the audit committee was told about the issue in March and did not report it until August." },
+      { "speaker": "Speaker", "text": "The chief financial officer will step down at the end of the quarter. The chief executive, Priya Nandra, keeps her position but faces a shareholder vote at the annual meeting in November." },
+      { "speaker": "Speaker", "text": "Elsewhere, the retail sales figures due on Thursday are expected to show a third consecutive monthly decline." }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p4-77",
+        "kind": "mcq",
+        "prompt": "77. Why did the share price fall?",
+        "options": [
+          { "id": "a", "text": "The company lost forty million pounds in cash." },
+          { "id": "b", "text": "A major customer cancelled its contracts." },
+          { "id": "c", "text": "Past results were restated and a reporting delay was disclosed." },
+          { "id": "d", "text": "Retail sales declined for a third month." }
+        ],
+        "answer": "c",
+        "explanationVi": "Bản tin nói rõ 'no cash has been lost', nên (A) sai. Doanh số bán lẻ là mẩu tin RIÊNG ở cuối, không liên quan tới Kelbrook.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p4-78",
+        "kind": "mcq",
+        "prompt": "78. What most unsettled the market?",
+        "options": [
+          { "id": "a", "text": "The five-month gap between discovery and disclosure." },
+          { "id": "b", "text": "The size of the restatement." },
+          { "id": "c", "text": "The resignation of the chief executive." },
+          { "id": "d", "text": "The change of auditor." }
+        ],
+        "answer": "a",
+        "explanationVi": "'told about the issue in March and did not report it until August' — từ tháng Ba tới tháng Tám là năm tháng. Phải tự tính khoảng cách, bản tin không nói ra con số.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p4-79",
+        "kind": "mcq",
+        "prompt": "79. What will happen to the chief executive?",
+        "options": [
+          { "id": "a", "text": "She will step down at the end of the quarter." },
+          { "id": "b", "text": "She will remain in post but face a vote in November." },
+          { "id": "c", "text": "She will move to the audit committee." },
+          { "id": "d", "text": "She will take over as chief financial officer." }
+        ],
+        "answer": "b",
+        "explanationVi": "(A) là chuyện của giám đốc tài chính. Bản tin nêu hai người liền nhau — bẫy tráo chức danh là dạng phổ biến nhất ở bài tin tức.",
+        "difficulty": "hard"
+      }
+    ]
+  },
+  {
+    "id": "listening-part4-t4",
+    "skill": "listening",
+    "title": "Part 4 — Talk 4: revised agenda (có bảng chương trình)",
+    "format": "TOEIC Listening — Part 4 · Talk 4 (câu 80–82), có bảng chương trình",
+    "instructionsVi": "Bài nói sửa lại lịch trình in sẵn: đáp án nằm ở chỗ lịch nói KHÁC lịch in.",
+    "promptEn": "Listen to the announcement, look at the agenda, and answer questions 80 through 82.\n\nSUPPLIER DAY — PRINTED AGENDA\n\n09:30 | Welcome and safety notice | Atrium\n10:00 | Quality standards update | Room A\n11:15 | Contract terms for 2027 | Room A\n13:00 | Lunch and factory tour | Meet at reception\n15:00 | Open questions | Room B",
+    "accent": "uk",
+    "transcript": [
+      { "speaker": "Speaker", "text": "Before we begin, three changes to the printed agenda, so please mark them now." },
+      { "speaker": "Speaker", "text": "The quality standards update runs as advertised, but our head of quality has to leave at midday, so we have swapped her session with the contract terms session. Quality now starts at eleven fifteen; contract terms at ten." },
+      { "speaker": "Speaker", "text": "Sorry — I have that the wrong way round. Quality is the session that has to happen early, because she is the one leaving. Quality at ten, contract terms at eleven fifteen, exactly as printed. The change is that both move from Room A to Room C, because Room A has no working projector." },
+      { "speaker": "Speaker", "text": "The factory tour is unaffected, but you will need closed-toe shoes; anyone without them can watch the tour on the monitors in reception." },
+      { "speaker": "Speaker", "text": "Finally, open questions moves an hour earlier, to two o'clock, so that those of you catching the four-ten train can stay to the end." }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p4-80",
+        "kind": "mcq",
+        "prompt": "80. Look at the agenda. What time will the session on contract terms begin?",
+        "options": [
+          { "id": "a", "text": "10:00" },
+          { "id": "b", "text": "11:15" },
+          { "id": "c", "text": "13:00" },
+          { "id": "d", "text": "15:00" }
+        ],
+        "answer": "b",
+        "explanationVi": "Người nói tự sửa lỗi: 'exactly as printed', tức 11:15 như lịch in. Ai bám vào câu đầu tiên sẽ chọn 10:00 — đây chính là bẫy.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p4-81",
+        "kind": "mcq",
+        "prompt": "81. What is the actual change to the two morning sessions?",
+        "options": [
+          { "id": "a", "text": "Their order has been reversed." },
+          { "id": "b", "text": "They have been merged into one session." },
+          { "id": "c", "text": "They have moved to a different room." },
+          { "id": "d", "text": "They have been cancelled." }
+        ],
+        "answer": "c",
+        "explanationVi": "'The change is that both move from Room A to Room C'. Sau khi sửa lỗi, thay đổi duy nhất còn lại là phòng họp.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p4-82",
+        "kind": "mcq",
+        "prompt": "82. Why has the final session been brought forward?",
+        "options": [
+          { "id": "a", "text": "Room B is needed at three o'clock." },
+          { "id": "b", "text": "So that people catching a train can attend all of it." },
+          { "id": "c", "text": "The factory tour will finish early." },
+          { "id": "d", "text": "Fewer questions are expected than last year." }
+        ],
+        "answer": "b",
+        "explanationVi": "'so that those of you catching the four-ten train can stay to the end'. Chuyến tàu 16:10 là lý do, không phải mốc kết thúc.",
+        "difficulty": "hard"
+      }
+    ]
+  },
+  {
+    "id": "listening-part4-t5",
+    "skill": "listening",
+    "title": "Part 4 — Talk 5: supplier call about a delayed shipment",
+    "format": "TOEIC Listening — Part 4 · Talk 5 (câu 83–85)",
+    "instructionsVi": "Người nói đưa ra một đề nghị bồi thường kèm điều kiện; câu hỏi cuối luôn hỏi hành động người nghe phải làm.",
+    "promptEn": "Listen to the telephone message and answer questions 83 through 85.",
+    "accent": "us",
+    "transcript": [
+      { "speaker": "Speaker", "text": "Hello, this is Dorian Abbey calling from Sentro Components for Ms Okafor." },
+      { "speaker": "Speaker", "text": "I'm calling about order 7742, the connector housings. They cleared customs on Monday but the carrier has them held at the inland depot because our paperwork listed the wrong consignee address — that is our error, not yours." },
+      { "speaker": "Speaker", "text": "Corrected documents went over this morning. Realistically you will have the goods on Thursday rather than the promised Monday, so three working days late." },
+      { "speaker": "Speaker", "text": "Under our terms a delay of more than two working days entitles you to a credit prorated against the value of the delayed line. On this order that is about four hundred and ten dollars. I've asked our accounts team to raise it without waiting for you to claim it." },
+      { "speaker": "Speaker", "text": "One thing I do need from you: confirm whether Thursday delivery still works for your line, or whether you would rather we split the shipment and air-freight two hundred units for Wednesday. Air freight would be at our cost, but it only makes sense if a day matters to you. Call me back either way before four today, because the cut-off for booking air freight is five." }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p4-83",
+        "kind": "mcq",
+        "prompt": "83. What caused the delay?",
+        "options": [
+          { "id": "a", "text": "A customs inspection of the goods." },
+          { "id": "b", "text": "An incorrect address on the supplier's paperwork." },
+          { "id": "c", "text": "A shortage of connector housings." },
+          { "id": "d", "text": "The carrier's vehicles were unavailable." }
+        ],
+        "answer": "b",
+        "explanationVi": "Hàng ĐÃ thông quan hôm thứ Hai, nên (A) sai. Người nói nhận lỗi rõ ràng: 'that is our error'.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p4-84",
+        "kind": "mcq",
+        "prompt": "84. What has the speaker already arranged?",
+        "options": [
+          { "id": "a", "text": "An air-freight booking for Wednesday." },
+          { "id": "b", "text": "A full refund of the order." },
+          { "id": "c", "text": "A credit, issued without the customer having to claim it." },
+          { "id": "d", "text": "A replacement shipment from another depot." }
+        ],
+        "answer": "c",
+        "explanationVi": "'raise it without waiting for you to claim it'. Vận chuyển hàng không mới chỉ là ĐỀ NGHỊ, chưa đặt — (A) là bẫy về trạng thái.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p4-85",
+        "kind": "mcq",
+        "prompt": "85. What must the listener do before four o'clock?",
+        "options": [
+          { "id": "a", "text": "Send corrected paperwork to the carrier." },
+          { "id": "b", "text": "Say whether Thursday is acceptable or air freight is wanted." },
+          { "id": "c", "text": "Approve the credit in writing." },
+          { "id": "d", "text": "Contact the depot directly." }
+        ],
+        "answer": "b",
+        "explanationVi": "'Call me back either way before four today' — 'either way' nghĩa là chọn gì cũng phải gọi lại. Mốc 5 giờ là hạn đặt chuyến bay, không phải hạn của người nghe.",
+        "difficulty": "hard"
+      }
+    ]
+  }
+]

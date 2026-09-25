@@ -1,0 +1,968 @@
+{
+  "examId": "aptis",
+  "levelId": "3",
+  "vocabulary": [
+    {
+      "id": "consider",
+      "term": "consider",
+      "ipa": "/kənˈsɪdə(r)/",
+      "meaningVi": "cân nhắc, xem xét",
+      "definitionEn": "To think about something carefully before deciding.",
+      "example": "The committee is considering three different proposals.",
+      "exampleVi": "Uỷ ban đang cân nhắc ba đề xuất khác nhau.",
+      "collocations": [
+        "consider carefully",
+        "worth considering",
+        "under consideration"
+      ]
+    },
+    {
+      "id": "assume",
+      "term": "assume",
+      "ipa": "/əˈsjuːm/",
+      "meaningVi": "cho rằng, mặc định là",
+      "definitionEn": "To believe something is true without checking it.",
+      "example": "I assumed the meeting was cancelled because nobody replied.",
+      "exampleVi": "Tôi cho rằng cuộc họp đã huỷ vì không ai trả lời.",
+      "collocations": [
+        "assume that",
+        "a fair assumption",
+        "wrongly assume"
+      ]
+    },
+    {
+      "id": "reluctant",
+      "term": "reluctant",
+      "ipa": "/rɪˈlʌktənt/",
+      "meaningVi": "miễn cưỡng, ngại",
+      "definitionEn": "Unwilling to do something, and therefore slow to do it.",
+      "example": "Staff were reluctant to use the new system at first.",
+      "exampleVi": "Ban đầu nhân viên ngại dùng hệ thống mới.",
+      "collocations": [
+        "reluctant to do",
+        "understandably reluctant",
+        "reluctantly agreed"
+      ]
+    },
+    {
+      "id": "significant",
+      "term": "significant",
+      "ipa": "/sɪɡˈnɪfɪkənt/",
+      "meaningVi": "đáng kể",
+      "definitionEn": "Large or important enough to be noticed or to matter.",
+      "example": "There has been a significant fall in complaints since June.",
+      "exampleVi": "Số lượt khiếu nại đã giảm đáng kể từ tháng Sáu.",
+      "collocations": [
+        "a significant change",
+        "significantly better",
+        "of no significance"
+      ]
+    },
+    {
+      "id": "flexible",
+      "term": "flexible",
+      "ipa": "/ˈfleksəbl/",
+      "meaningVi": "linh hoạt",
+      "definitionEn": "Able to change or be changed easily to suit a situation.",
+      "example": "The hours are flexible as long as the work is finished.",
+      "exampleVi": "Giờ giấc linh hoạt miễn là hoàn thành công việc.",
+      "collocations": [
+        "flexible hours",
+        "remain flexible",
+        "flexibility"
+      ]
+    },
+    {
+      "id": "consequence",
+      "term": "consequence",
+      "ipa": "/ˈkɒnsɪkwəns/",
+      "meaningVi": "hệ quả",
+      "definitionEn": "A result of a particular action or situation, often an unwanted one.",
+      "example": "One consequence of the closure was longer waiting times elsewhere.",
+      "exampleVi": "Một hệ quả của việc đóng cửa là thời gian chờ ở nơi khác dài hơn.",
+      "collocations": [
+        "as a consequence",
+        "serious consequences",
+        "unintended consequence"
+      ]
+    },
+    {
+      "id": "priority",
+      "term": "priority",
+      "ipa": "/praɪˈɒrəti/",
+      "meaningVi": "ưu tiên",
+      "definitionEn": "Something that must be dealt with before other things.",
+      "example": "Safety has to be the first priority on site.",
+      "exampleVi": "An toàn phải là ưu tiên hàng đầu trên công trường.",
+      "collocations": [
+        "top priority",
+        "set priorities",
+        "take priority over"
+      ]
+    },
+    {
+      "id": "adapt",
+      "term": "adapt",
+      "ipa": "/əˈdæpt/",
+      "meaningVi": "thích nghi, điều chỉnh cho phù hợp",
+      "definitionEn": "To change your behaviour or something's design to fit a new situation.",
+      "example": "The course was adapted for students studying part time.",
+      "exampleVi": "Khoá học được điều chỉnh cho sinh viên học bán thời gian.",
+      "collocations": [
+        "adapt to",
+        "adapt a plan",
+        "adaptable"
+      ]
+    },
+    {
+      "id": "acknowledge",
+      "term": "acknowledge",
+      "ipa": "/əkˈnɒlɪdʒ/",
+      "meaningVi": "thừa nhận; xác nhận đã nhận",
+      "definitionEn": "To accept that something is true, or to confirm you received something.",
+      "example": "The manager acknowledged that the deadline had been unrealistic.",
+      "exampleVi": "Quản lý thừa nhận rằng hạn chót đã đặt ra không thực tế.",
+      "collocations": [
+        "acknowledge a mistake",
+        "acknowledge receipt",
+        "widely acknowledged"
+      ]
+    },
+    {
+      "id": "trade-off",
+      "term": "trade-off",
+      "ipa": "/ˈtreɪd ɒf/",
+      "meaningVi": "sự đánh đổi",
+      "definitionEn": "A situation where you accept something worse in one area to gain in another.",
+      "example": "There is always a trade-off between speed and accuracy.",
+      "exampleVi": "Luôn có sự đánh đổi giữa tốc độ và độ chính xác.",
+      "collocations": [
+        "a trade-off between",
+        "accept the trade-off",
+        "inevitable trade-off"
+      ]
+    },
+    {
+      "id": "outcome",
+      "term": "outcome",
+      "ipa": "/ˈaʊtkʌm/",
+      "meaningVi": "kết quả cuối cùng",
+      "definitionEn": "The final result of a process or a series of events.",
+      "example": "Nobody expected that outcome when the trial began.",
+      "exampleVi": "Không ai lường được kết quả đó khi thử nghiệm bắt đầu.",
+      "collocations": [
+        "a positive outcome",
+        "the likely outcome",
+        "outcome of"
+      ]
+    },
+    {
+      "id": "justify",
+      "term": "justify",
+      "ipa": "/ˈdʒʌstɪfaɪ/",
+      "meaningVi": "biện minh, chứng minh là hợp lý",
+      "definitionEn": "To give a good reason for something that others may question.",
+      "example": "It is hard to justify the cost given how rarely the room is used.",
+      "exampleVi": "Khó biện minh cho chi phí đó khi phòng rất ít khi được dùng.",
+      "collocations": [
+        "justify a decision",
+        "hard to justify",
+        "justification for"
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "id": "reading-part1-community",
+      "skill": "reading",
+      "title": "Part 1 — Sentence comprehension",
+      "format": "Aptis Reading — Part 1 · Điền từ vào một đoạn văn ngắn",
+      "instructionsVi": "Ở mức B2, phương án sai thường đúng cả ngữ pháp lẫn nghĩa chung, chỉ sai ở sắc thái hoặc cụm đi kèm. Đọc kỹ cả đoạn trước khi chọn.",
+      "promptEn": "Read the text and choose the best word for each gap.",
+      "passage": "Dear residents,\n\nThank you to everyone who came to the meeting about the proposed changes to the recycling collection.\n\nWe have to (1) ______ that the current fortnightly system is not working well in the flats, where bins overflow before collection day. However, several of you were (2) ______ to support weekly collection because of the increase in the service charge it would require.\n\nThe committee has therefore looked for a (3) ______ that avoids raising the charge. Our proposal is to add a second bin store rather than a second collection, which addresses the capacity problem at a much lower cost.\n\nWe recognise this is a (4) ______ : it is less convenient than weekly collection, but it keeps the charge unchanged. We would welcome your views before the vote on 3 May.\n\nThe Residents' Committee",
+      "timeLimitSec": 200,
+      "questions": [
+        {
+          "id": "c1",
+          "kind": "mcq",
+          "prompt": "Gap (1)",
+          "options": [
+            {
+              "id": "a",
+              "text": "announce"
+            },
+            {
+              "id": "b",
+              "text": "assume"
+            },
+            {
+              "id": "c",
+              "text": "apply"
+            },
+            {
+              "id": "d",
+              "text": "acknowledge"
+            }
+          ],
+          "answer": "d",
+          "explanationVi": "'acknowledge' = thừa nhận một điều không thuận lợi, đúng sắc thái ở đây. 'announce' chỉ là công bố, không mang nghĩa thừa nhận điểm yếu."
+        },
+        {
+          "id": "c2",
+          "kind": "mcq",
+          "prompt": "Gap (2)",
+          "options": [
+            {
+              "id": "a",
+              "text": "reluctant"
+            },
+            {
+              "id": "b",
+              "text": "flexible"
+            },
+            {
+              "id": "c",
+              "text": "responsible"
+            },
+            {
+              "id": "d",
+              "text": "significant"
+            }
+          ],
+          "answer": "a",
+          "explanationVi": "'reluctant to support' = ngại ủng hộ, khớp với lý do phí tăng. Đây là cụm 'reluctant to + động từ'."
+        },
+        {
+          "id": "c3",
+          "kind": "mcq",
+          "prompt": "Gap (3)",
+          "options": [
+            {
+              "id": "a",
+              "text": "consequence"
+            },
+            {
+              "id": "b",
+              "text": "solution"
+            },
+            {
+              "id": "c",
+              "text": "priority"
+            },
+            {
+              "id": "d",
+              "text": "outcome"
+            }
+          ],
+          "answer": "b",
+          "explanationVi": "Câu sau nêu 'Our proposal is…' nên chỗ trống phải là 'solution'. 'outcome' là kết quả đã xảy ra, không phải thứ người ta đi tìm."
+        },
+        {
+          "id": "c4",
+          "kind": "mcq",
+          "prompt": "Gap (4)",
+          "options": [
+            {
+              "id": "a",
+              "text": "priority"
+            },
+            {
+              "id": "b",
+              "text": "justification"
+            },
+            {
+              "id": "c",
+              "text": "trade-off"
+            },
+            {
+              "id": "d",
+              "text": "consequence"
+            }
+          ],
+          "answer": "c",
+          "explanationVi": "Câu ngay sau mô tả đúng cấu trúc đánh đổi: kém tiện hơn nhưng giữ nguyên phí. Đây là chỗ phải đọc câu tiếp theo mới chọn đúng."
+        }
+      ]
+    },
+    {
+      "id": "reading-part3-opinions-work",
+      "skill": "reading",
+      "title": "Part 3 — Opinion matching",
+      "format": "Aptis Reading — Part 3 · Nối ý kiến với người nói",
+      "instructionsVi": "Ở mức B2 các ý kiến chồng lấn nhiều hơn: hai người có thể cùng đồng ý một điều nhưng vì lý do khác nhau. Câu hỏi luôn nhắm vào chỗ khác biệt đó.",
+      "promptEn": "Four people talk about working from home. Decide who says each of the following.",
+      "passage": "IRINA: I've worked from home for four years and I'd never go back full time. What people miss, though, is that it only works because I have a separate room. When I lived in a one-bedroom flat I was miserable, and I don't think the arrangement itself was the problem.\n\nPAULO: My productivity is definitely higher at home — no interruptions, no commute. But I've noticed I'm slower to hear about things. Decisions get made in conversations I'm not part of, and by the time I find out, the useful moment to object has passed.\n\nNADIA: I go into the office three days a week and I'd keep it that way. Not because I get more done there — I don't — but because the newer people on my team clearly learn faster when they can watch how things are handled. That's hard to replace.\n\nOMAR: Honestly the biggest change for me is financial. I've saved a substantial amount on travel and lunches, and that matters more to me than any of the debates about culture or productivity. If my employer ended it, I'd look for another job.",
+      "timeLimitSec": 240,
+      "questions": [
+        {
+          "id": "o1",
+          "kind": "mcq",
+          "prompt": "Who says the benefit depends on their housing situation?",
+          "options": [
+            {
+              "id": "a",
+              "text": "Paulo"
+            },
+            {
+              "id": "b",
+              "text": "Nadia"
+            },
+            {
+              "id": "c",
+              "text": "Omar"
+            },
+            {
+              "id": "d",
+              "text": "Irina"
+            }
+          ],
+          "answer": "d",
+          "explanationVi": "Irina: 'it only works because I have a separate room. When I lived in a one-bedroom flat I was miserable'."
+        },
+        {
+          "id": "o2",
+          "kind": "mcq",
+          "prompt": "Who mentions being left out of decisions?",
+          "options": [
+            {
+              "id": "a",
+              "text": "Irina"
+            },
+            {
+              "id": "b",
+              "text": "Paulo"
+            },
+            {
+              "id": "c",
+              "text": "Nadia"
+            },
+            {
+              "id": "d",
+              "text": "Omar"
+            }
+          ],
+          "answer": "b",
+          "explanationVi": "Paulo: 'Decisions get made in conversations I'm not part of'."
+        },
+        {
+          "id": "o3",
+          "kind": "mcq",
+          "prompt": "Who goes to the office for reasons other than their own productivity?",
+          "options": [
+            {
+              "id": "a",
+              "text": "Irina"
+            },
+            {
+              "id": "b",
+              "text": "Paulo"
+            },
+            {
+              "id": "c",
+              "text": "Nadia"
+            },
+            {
+              "id": "d",
+              "text": "Omar"
+            }
+          ],
+          "answer": "c",
+          "explanationVi": "Nadia nói rõ 'Not because I get more done there — I don't' mà vì người mới học nhanh hơn khi quan sát trực tiếp."
+        },
+        {
+          "id": "o4",
+          "kind": "mcq",
+          "prompt": "Who would change employer if the arrangement ended?",
+          "options": [
+            {
+              "id": "a",
+              "text": "Omar"
+            },
+            {
+              "id": "b",
+              "text": "Irina"
+            },
+            {
+              "id": "c",
+              "text": "Paulo"
+            },
+            {
+              "id": "d",
+              "text": "Nadia"
+            }
+          ],
+          "answer": "a",
+          "explanationVi": "Omar: 'If my employer ended it, I'd look for another job'. Irina nói sẽ không quay lại toàn thời gian nhưng không nói tới việc đổi việc."
+        }
+      ]
+    },
+    {
+      "id": "reading-part4-headings-repair",
+      "skill": "reading",
+      "title": "Part 4 — Long text heading matching",
+      "format": "Aptis Reading — Part 4 · Nối tiêu đề với đoạn trong bài dài",
+      "instructionsVi": "Ở mức B2, tiêu đề đúng thường diễn đạt lại ý chính bằng từ hoàn toàn khác với bài. Tiêu đề nào dùng lại nguyên từ trong đoạn thường là bẫy.",
+      "promptEn": "The text has four paragraphs, A–D. Choose the most suitable heading for each paragraph.",
+      "passage": "A. The first repair café in the town opened in a church hall with four volunteers, two soldering irons and a sewing machine. The idea was borrowed from a Dutch model: people bring broken items, and volunteers help them repair the items themselves rather than doing it for them. The distinction mattered more than the founders expected.\n\nB. In the first year, 61 per cent of items brought in were successfully repaired. That figure sounds impressive until you look at what failed. Almost everything that could not be fixed had been designed in a way that made repair impractical — glued casings, non-standard screws, batteries sealed into the body. The volunteers began keeping a record of which manufacturers appeared most often in that category.\n\nC. That record turned out to be the project's most useful output. It was shared with a national campaign group and eventually cited in a consultation response on product design regulation. None of the founders had set out to influence policy; they had simply been irritated enough to write things down.\n\nD. The café now runs monthly and has trained eleven volunteers. Its organisers are careful about how they describe their impact. The number of items repaired is small compared with what the town throws away, and they say the honest measure of success is not the repairs but the number of people who now attempt a repair before buying a replacement.",
+      "timeLimitSec": 240,
+      "questions": [
+        {
+          "id": "h1",
+          "kind": "mcq",
+          "prompt": "Paragraph A",
+          "options": [
+            {
+              "id": "a",
+              "text": "Equipment needed to start a repair café"
+            },
+            {
+              "id": "b",
+              "text": "How the Dutch model spread across Europe"
+            },
+            {
+              "id": "c",
+              "text": "Recruiting the first volunteers"
+            },
+            {
+              "id": "d",
+              "text": "Modest beginnings and a key principle"
+            }
+          ],
+          "answer": "d",
+          "explanationVi": "Đoạn A nêu khởi đầu nhỏ và nguyên tắc cốt lõi: giúp người ta TỰ sửa chứ không sửa hộ. Đáp án A chỉ nhặt chi tiết dụng cụ."
+        },
+        {
+          "id": "h2",
+          "kind": "mcq",
+          "prompt": "Paragraph B",
+          "options": [
+            {
+              "id": "a",
+              "text": "What the failures revealed"
+            },
+            {
+              "id": "b",
+              "text": "A high success rate"
+            },
+            {
+              "id": "c",
+              "text": "How to remove a sealed battery"
+            },
+            {
+              "id": "d",
+              "text": "Comparing manufacturers' prices"
+            }
+          ],
+          "answer": "a",
+          "explanationVi": "Đoạn B dùng con số 61% làm bàn đạp để nói về phần THẤT BẠI và nguyên nhân thiết kế. Đáp án B dùng lại ý bề mặt và bỏ mất trọng tâm."
+        },
+        {
+          "id": "h3",
+          "kind": "mcq",
+          "prompt": "Paragraph C",
+          "options": [
+            {
+              "id": "a",
+              "text": "Joining a national organisation"
+            },
+            {
+              "id": "b",
+              "text": "An unplanned influence beyond the town"
+            },
+            {
+              "id": "c",
+              "text": "How regulations are written"
+            },
+            {
+              "id": "d",
+              "text": "Disagreements among the founders"
+            }
+          ],
+          "answer": "b",
+          "explanationVi": "Đoạn C: hồ sơ ghi chép được dẫn trong phản hồi tham vấn chính sách, dù 'None of the founders had set out to influence policy'."
+        },
+        {
+          "id": "h4",
+          "kind": "mcq",
+          "prompt": "Paragraph D",
+          "options": [
+            {
+              "id": "a",
+              "text": "Plans to open more cafés"
+            },
+            {
+              "id": "b",
+              "text": "Training volunteers to a national standard"
+            },
+            {
+              "id": "c",
+              "text": "How the organisers judge their own success"
+            },
+            {
+              "id": "d",
+              "text": "The amount of waste produced by the town"
+            }
+          ],
+          "answer": "c",
+          "explanationVi": "Đoạn D: họ thận trọng khi mô tả tác động và cho rằng thước đo thật là số người chịu thử sửa trước khi mua mới."
+        }
+      ]
+    },
+    {
+      "id": "listening-part1-messages-b2",
+      "skill": "listening",
+      "title": "Listening — Short messages (3)",
+      "format": "Aptis Listening — Đoạn ghi âm ngắn, nghe hai lần, chọn một trong ba",
+      "instructionsVi": "Ở mức B2, thông tin quan trọng thường nằm trong mệnh đề phụ hoặc được nói dưới dạng phủ định kép. Lần nghe thứ hai dùng để bắt sắc thái, không chỉ bắt số liệu.",
+      "promptEn": "Listen to each short recording and answer the question.",
+      "accent": "uk",
+      "transcript": [
+        {
+          "speaker": "Message 1",
+          "text": "Hi, it's Nadia. About the venue for Friday — I've booked the Hall rather than the Annexe. It's not that the Annexe was unavailable, it's that it doesn't have a hearing loop, and two people had asked. Slightly more expensive but I think it's the right call."
+        },
+        {
+          "speaker": "Message 2",
+          "text": "This is a message from Riverside Garage. Your car is ready, but I'd rather you didn't collect it today — the brake fluid needs twenty-four hours to settle properly after the work we did. Any time from tomorrow morning is fine."
+        },
+        {
+          "speaker": "Message 3",
+          "text": "Hello, calling about your application. The panel would like to interview you, but not for the role you applied for. They think you'd be a stronger fit for the coordinator position, which is a slightly lower grade but permanent rather than fixed-term. Give me a ring to discuss."
+        },
+        {
+          "speaker": "Message 4",
+          "text": "Hi, it's Omar from the residents' committee. The vote on the bin store has been postponed — not cancelled, postponed. We didn't have enough people at the meeting to make it binding. It'll be rearranged for early June and I'll send the date round."
+        }
+      ],
+      "timeLimitSec": 280,
+      "questions": [
+        {
+          "id": "d1",
+          "kind": "mcq",
+          "prompt": "Message 1: Why did Nadia choose the Hall?",
+          "options": [
+            {
+              "id": "a",
+              "text": "The Annexe has no hearing loop."
+            },
+            {
+              "id": "b",
+              "text": "The Annexe was already booked."
+            },
+            {
+              "id": "c",
+              "text": "The Hall was cheaper."
+            }
+          ],
+          "answer": "a",
+          "explanationVi": "'It's not that the Annexe was unavailable, it's that it doesn't have a hearing loop'. Câu phủ định kép loại bỏ chính đáp án (B)."
+        },
+        {
+          "id": "d2",
+          "kind": "mcq",
+          "prompt": "Message 2: When should the car be collected?",
+          "options": [
+            {
+              "id": "a",
+              "text": "Today"
+            },
+            {
+              "id": "b",
+              "text": "From tomorrow morning"
+            },
+            {
+              "id": "c",
+              "text": "In twenty-four hours' time, exactly"
+            }
+          ],
+          "answer": "b",
+          "explanationVi": "'Any time from tomorrow morning is fine'. Xe đã sửa xong nhưng không nên lấy hôm nay."
+        },
+        {
+          "id": "d3",
+          "kind": "mcq",
+          "prompt": "Message 3: What is the panel proposing?",
+          "options": [
+            {
+              "id": "a",
+              "text": "An interview for the role applied for"
+            },
+            {
+              "id": "b",
+              "text": "Rejecting the application"
+            },
+            {
+              "id": "c",
+              "text": "An interview for a different, permanent role"
+            }
+          ],
+          "answer": "c",
+          "explanationVi": "'they'd like to interview you, but not for the role you applied for... permanent rather than fixed-term'."
+        },
+        {
+          "id": "d4",
+          "kind": "mcq",
+          "prompt": "Message 4: What has happened to the vote?",
+          "options": [
+            {
+              "id": "a",
+              "text": "It has been delayed to June."
+            },
+            {
+              "id": "b",
+              "text": "It has been cancelled."
+            },
+            {
+              "id": "c",
+              "text": "It went ahead and passed."
+            }
+          ],
+          "answer": "a",
+          "explanationVi": "'postponed — not cancelled, postponed... rearranged for early June'. Người nói nhấn mạnh sự khác biệt này ngay trong câu."
+        }
+      ]
+    },
+    {
+      "id": "listening-part2-conversations-b2",
+      "skill": "listening",
+      "title": "Listening — Short conversations",
+      "format": "Aptis Listening — Hội thoại ngắn, nghe hai lần, chọn một trong ba",
+      "instructionsVi": "Ở mức B2, câu hỏi hỏi về THÁI ĐỘ hoặc hàm ý chứ không chỉ hỏi sự việc. Chú ý cách nói giảm nhẹ và những câu bỏ lửng.",
+      "promptEn": "Listen to each conversation and answer the question.",
+      "accent": "uk",
+      "transcript": [
+        {
+          "speaker": "Conversation 1 — Woman",
+          "text": "What did you think of the new supplier's quote?"
+        },
+        {
+          "speaker": "Conversation 1 — Man",
+          "text": "Well. It's certainly cheaper. Whether they can actually deliver in three weeks is another matter entirely."
+        },
+        {
+          "speaker": "Conversation 2 — Man",
+          "text": "Are you going to apply for the team leader post?"
+        },
+        {
+          "speaker": "Conversation 2 — Woman",
+          "text": "I keep going back and forth. The money's better, obviously. I'm just not sure I want to spend my week in meetings."
+        },
+        {
+          "speaker": "Conversation 3 — Woman",
+          "text": "How did the training session go?"
+        },
+        {
+          "speaker": "Conversation 3 — Man",
+          "text": "The content was good. It's a shame only six people came — we'd booked a room for thirty and sent it round twice."
+        },
+        {
+          "speaker": "Conversation 4 — Man",
+          "text": "Should we tell the client about the delay now or wait until we have a new date?"
+        },
+        {
+          "speaker": "Conversation 4 — Woman",
+          "text": "Now. They'll be less annoyed about a delay than about finding out we sat on it for a week."
+        }
+      ],
+      "timeLimitSec": 280,
+      "questions": [
+        {
+          "id": "t1",
+          "kind": "mcq",
+          "prompt": "Conversation 1: What is the man's attitude to the quote?",
+          "options": [
+            {
+              "id": "a",
+              "text": "He is enthusiastic about it."
+            },
+            {
+              "id": "b",
+              "text": "He thinks it is too expensive."
+            },
+            {
+              "id": "c",
+              "text": "He doubts the supplier can meet the timescale."
+            }
+          ],
+          "answer": "c",
+          "explanationVi": "'Whether they can actually deliver in three weeks is another matter entirely' — cách nói giảm nhẹ thể hiện nghi ngờ rõ ràng."
+        },
+        {
+          "id": "t2",
+          "kind": "mcq",
+          "prompt": "Conversation 2: How does the woman feel about applying?",
+          "options": [
+            {
+              "id": "a",
+              "text": "She has decided not to apply."
+            },
+            {
+              "id": "b",
+              "text": "She is undecided, mainly about the nature of the work."
+            },
+            {
+              "id": "c",
+              "text": "She will apply because of the salary."
+            }
+          ],
+          "answer": "b",
+          "explanationVi": "'I keep going back and forth… I'm just not sure I want to spend my week in meetings'. Chưa quyết, và lý do là tính chất công việc chứ không phải tiền."
+        },
+        {
+          "id": "t3",
+          "kind": "mcq",
+          "prompt": "Conversation 3: What was the problem with the session?",
+          "options": [
+            {
+              "id": "a",
+              "text": "Attendance was much lower than expected."
+            },
+            {
+              "id": "b",
+              "text": "The content was poor."
+            },
+            {
+              "id": "c",
+              "text": "The room was too small."
+            }
+          ],
+          "answer": "a",
+          "explanationVi": "'only six people came — we'd booked a room for thirty'. Nội dung được khen, phòng thì quá rộng chứ không nhỏ."
+        },
+        {
+          "id": "t4",
+          "kind": "mcq",
+          "prompt": "Conversation 4: Why does the woman want to tell the client now?",
+          "options": [
+            {
+              "id": "a",
+              "text": "Because the new date is already known"
+            },
+            {
+              "id": "b",
+              "text": "Because concealing the delay would anger them more"
+            },
+            {
+              "id": "c",
+              "text": "Because the client has already asked"
+            }
+          ],
+          "answer": "b",
+          "explanationVi": "'less annoyed about a delay than about finding out we sat on it for a week'."
+        }
+      ]
+    },
+    {
+      "id": "listening-part3-longer-b2",
+      "skill": "listening",
+      "title": "Listening — Longer recording: a project debrief",
+      "format": "Aptis Listening — Đoạn ghi âm dài hơn, nghe hai lần",
+      "instructionsVi": "Bốn câu hỏi, trong đó ít nhất một câu hỏi về nguyên nhân hoặc thái độ chứ không hỏi sự việc. Ghi nhanh ai nói gì trong lần nghe đầu.",
+      "promptEn": "Listen to the conversation and answer the four questions.",
+      "accent": "uk",
+      "transcript": [
+        {
+          "speaker": "Manager",
+          "text": "So, the volunteer recruitment drive. It brought in forty-two people, against a target of thirty. On paper that's a clear success."
+        },
+        {
+          "speaker": "Coordinator",
+          "text": "It is, but I want to be careful about that number. Twenty-eight of the forty-two have not attended a single session since signing up."
+        },
+        {
+          "speaker": "Manager",
+          "text": "Twenty-eight? That's two thirds."
+        },
+        {
+          "speaker": "Coordinator",
+          "text": "Yes. And I don't think they were never serious. I think we lost them in the gap. There were five weeks between the sign-up event and the first session, because that's when the training room was free."
+        },
+        {
+          "speaker": "Manager",
+          "text": "So the recommendation would be to shorten that gap."
+        },
+        {
+          "speaker": "Coordinator",
+          "text": "Shorten it, or fill it. Even an email in week two would probably help — something that makes them feel the thing is real. The five weeks is not always avoidable, but the silence is."
+        },
+        {
+          "speaker": "Manager",
+          "text": "That's a fair distinction. What about the fourteen who did come?"
+        },
+        {
+          "speaker": "Coordinator",
+          "text": "Almost all still active, and three have already taken on extra responsibility. So the ones we kept, we kept well. It's genuinely a retention problem, not a recruitment one, and I'd rather we fixed the right thing."
+        }
+      ],
+      "timeLimitSec": 280,
+      "questions": [
+        {
+          "id": "v1",
+          "kind": "short-answer",
+          "prompt": "How many people signed up in total? (A NUMBER)",
+          "answer": "42",
+          "accepted": [
+            "forty-two",
+            "forty two"
+          ],
+          "explanationVi": "'It brought in forty-two people, against a target of thirty'. 30 là chỉ tiêu, không phải kết quả."
+        },
+        {
+          "id": "v2",
+          "kind": "mcq",
+          "prompt": "What does the coordinator believe caused the drop-off?",
+          "options": [
+            {
+              "id": "a",
+              "text": "The volunteers were never genuinely interested."
+            },
+            {
+              "id": "b",
+              "text": "The long silence between signing up and the first session"
+            },
+            {
+              "id": "c",
+              "text": "The training itself was poor."
+            }
+          ],
+          "answer": "b",
+          "explanationVi": "'I don't think they were never serious. I think we lost them in the gap' — cô ấy chủ động bác bỏ đáp án (A)."
+        },
+        {
+          "id": "v3",
+          "kind": "mcq",
+          "prompt": "What distinction does the coordinator make about the five-week gap?",
+          "options": [
+            {
+              "id": "a",
+              "text": "The gap may be unavoidable, but the silence is not."
+            },
+            {
+              "id": "b",
+              "text": "The gap can always be avoided."
+            },
+            {
+              "id": "c",
+              "text": "The gap is too short to matter."
+            }
+          ],
+          "answer": "a",
+          "explanationVi": "'The five weeks is not always avoidable, but the silence is'. Đây là câu quyết định, dễ bỏ qua nếu chỉ nghe lấy ý chính."
+        },
+        {
+          "id": "v4",
+          "kind": "mcq",
+          "prompt": "How does the coordinator characterise the problem?",
+          "options": [
+            {
+              "id": "a",
+              "text": "As a recruitment problem"
+            },
+            {
+              "id": "b",
+              "text": "As a training problem"
+            },
+            {
+              "id": "c",
+              "text": "As a retention problem"
+            }
+          ],
+          "answer": "c",
+          "explanationVi": "'It's genuinely a retention problem, not a recruitment one'. Con số tuyển được vượt chỉ tiêu nên khâu tuyển không phải vấn đề."
+        }
+      ]
+    },
+    {
+      "id": "writing-part3-chat-b2",
+      "skill": "writing",
+      "title": "Part 3 — Three responses in a chat",
+      "format": "Aptis Writing — Part 3 · Trả lời ba câu hỏi trong khung chat, mỗi câu 30–40 từ",
+      "instructionsVi": "Ở mức B2, ít nhất một câu hỏi mời bạn nêu ý kiến hoặc bất đồng nhẹ. Trả lời phải có lập trường, không chỉ nêu sự việc.",
+      "promptEn": "You are a member of a local environmental group. Another member is asking you some questions in the group's online chat. Reply to all three questions. Write 30–40 words for each answer.\n\n1. Good to have you with us. What made you want to join?\n2. We're deciding between a monthly litter pick and a one-off tree-planting day. Which would you go for?\n3. Some members think we should focus on lobbying the council instead of practical activities. What do you think?",
+      "timeLimitSec": 900,
+      "minWords": 90,
+      "maxWords": 130,
+      "sampleAnswer": "1. Mostly frustration, honestly. I walk along the canal every morning and the amount of rubbish there has got noticeably worse over two years. Complaining about it on my own clearly wasn't achieving anything, so here I am.\n\n2. The monthly litter pick, I'd say. A tree-planting day is more satisfying, but it happens once and then it's over. Something regular gives people a habit to attach themselves to, and it's easier for new members to join partway through.\n\n3. I'd push back on the idea that it has to be one or the other. Practical work is what gets people through the door, and it also gives us something concrete to point at when we do lobby. Without it, we're just another group with opinions.",
+      "rubricVi": [
+        "Trả lời đủ ba câu, mỗi câu 30–40 từ. Đây vẫn là tiêu chí bị trừ nhiều nhất.",
+        "Câu 2 và 3 phải nêu LẬP TRƯỜNG rõ kèm lý do, không trả lời nước đôi. Ở B2 đây là điểm phân biệt chính.",
+        "Câu 3 có thể phản bác tiền đề của câu hỏi ('I'd push back on the idea that it has to be one or the other') — cách trả lời này được đánh giá cao.",
+        "Giọng chat thân mật nhưng lập luận rõ. Được dùng câu ngắn và cách nói đời thường như 'honestly'.",
+        "Dùng cấu trúc so sánh và nhượng bộ: 'more satisfying, but…', 'without it, we're just…'."
+      ]
+    },
+    {
+      "id": "writing-part4-email-b2",
+      "skill": "writing",
+      "title": "Part 4 — Two emails: informal and formal",
+      "format": "Aptis Writing — Part 4 · Thư thân mật ~50 từ và thư trang trọng 120–150 từ",
+      "instructionsVi": "Ở mức B2, thư trang trọng phải vừa nêu lo ngại vừa đề xuất giải pháp khả thi, và phải thừa nhận được ràng buộc của bên kia. Khác biệt văn phong vẫn là tiêu chí số một.",
+      "promptEn": "You are a member of a local environmental group. You have received this notice:\n\n'The council has decided to close the recycling centre on Sundays from next month, to reduce staffing costs. It will remain open Monday to Saturday, 8 a.m. to 4 p.m.'\n\nTASK 1: Write an email to a friend in the group. Tell them how you feel about the change. Write about 50 words.\n\nTASK 2: Write an email to the council. Explain your concerns and suggest what could be done. Write 120–150 words.",
+      "timeLimitSec": 1500,
+      "minWords": 170,
+      "maxWords": 210,
+      "sampleAnswer": "TASK 1 — to a friend\n\nHi Nadia,\n\nHave you seen this? They're closing the recycling centre on Sundays. Weekdays finish at four, which is useless for anyone with a job. I can already picture the fly-tipping on the lane behind the estate. Are we saying something as a group, or shall I write on my own?\n\nSpeak soon,\nIrina\n\n---\n\nTASK 2 — to the council\n\nDear Sir or Madam,\n\nI am writing regarding the decision to close the recycling centre on Sundays from next month.\n\nI recognise that the council is under real financial pressure and that staffing costs have to be controlled. However, I am concerned about the practical effect of this particular change. With weekday opening ending at four o'clock, Sunday is currently the only realistic opportunity for residents in full-time employment to use the site. Removing it may simply move the material elsewhere: the lane behind the Meadow estate already attracts fly-tipping, and clearing that is itself a cost to the council.\n\nWould it be possible to consider a shorter Sunday opening, perhaps four hours rather than eight? Alternatively, extending one weekday until seven o'clock would achieve a similar result.\n\nI would be grateful to know whether either option has been assessed.\n\nYours faithfully,\nIrina Petrova",
+      "rubricVi": [
+        "Hai thư khác nhau rõ về văn phong. Thư bạn bè dùng câu hỏi tu từ, viết tắt, cảm xúc; thư hội đồng dùng câu đầy đủ và giọng điềm tĩnh.",
+        "Thư trang trọng phải THỪA NHẬN ràng buộc của bên kia (áp lực tài chính) trước khi phản biện. Đây là dấu hiệu B2 rõ nhất.",
+        "Lập luận nên chỉ ra hệ quả ngược mà bên kia chưa tính tới (đổ trộm rác cũng tốn tiền dọn) — mạnh hơn nhiều so với chỉ nói bất tiện.",
+        "Đưa HAI phương án thay thế khả thi, có con số cụ thể, thay vì chỉ yêu cầu giữ nguyên hiện trạng.",
+        "Đúng độ dài từng thư và đúng cặp mở/kết theo văn phong."
+      ]
+    },
+    {
+      "id": "speaking-part1-personal-b2",
+      "skill": "speaking",
+      "title": "Part 1 — Personal information",
+      "format": "Aptis Speaking — Part 1 · Ba câu hỏi về bản thân, mỗi câu 30 giây",
+      "instructionsVi": "Ba câu hỏi ngắn, mỗi câu 30 giây. Ở B2, câu trả lời nên có một chi tiết bất ngờ hoặc một nhận xét tự đánh giá — đó là thứ tách khỏi mức B1.",
+      "promptEn": "Answer each question. You have 30 seconds for each answer.\n1. Tell me about how you usually spend your weekends.\n2. What is something you have changed your mind about?\n3. Tell me about a skill you would like to develop.",
+      "timeLimitSec": 90,
+      "preparationSec": 0,
+      "sampleAnswer": "1. Saturdays are usually errands and cooking, and Sundays I try to keep completely unplanned. I used to fill weekends with arrangements and then arrive at Monday more tired than I started. Leaving one day genuinely empty was the single most useful change I've made to my week.\n\n2. Working from home, actually. I argued against it fairly loudly at first because I thought the informal conversations were where the useful things happened. I still think that's true, but I'd been generalising from my own situation — I had a spare room and a short commute, and most of my colleagues had neither.\n\n3. I'd like to get properly comfortable presenting to a room. I can do it, but I over-prepare enormously — I'll write out every sentence, which makes it sound stiff. What I actually want is to be able to work from notes and stay flexible when people interrupt.",
+      "rubricVi": [
+        "Nói đủ 30 giây và có một chi tiết tự đánh giá ('I'd been generalising from my own situation'). Đây là dấu hiệu B2.",
+        "Câu 2 phải nêu rõ trước nghĩ gì, giờ nghĩ gì, và VÌ SAO đổi. Thiếu vế nguyên nhân là chưa đạt yêu cầu.",
+        "Dùng cấu trúc phức: quá khứ hoàn thành tiếp diễn, mệnh đề nhượng bộ, so sánh giữa hai thời điểm.",
+        "Câu 3 nên nêu điểm yếu cụ thể chứ không nói chung 'tôi muốn giỏi hơn'. Cụ thể là thứ ghi điểm.",
+        "Trả lời ngay, không dừng lâu đầu câu. Ngừng ngắn giữa câu để chọn từ thì bình thường."
+      ]
+    },
+    {
+      "id": "speaking-part2-picture-b2",
+      "skill": "speaking",
+      "title": "Part 2 — Describe a picture and answer questions",
+      "format": "Aptis Speaking — Part 2 · Tả tranh rồi trả lời hai câu, mỗi phần 45 giây",
+      "instructionsVi": "Ba phần 45 giây. Ở B2, phần 3 hỏi ý kiến có tính đánh đổi — câu trả lời phải cân nhắc hai mặt rồi mới chọn, không trả lời một chiều.",
+      "promptEn": "Look at the scene, then answer the three parts. You have 45 seconds for each.\n\nSCENE: A community repair event in a hall. At one table, an older woman shows a young man how to re-wire a lamp; he is holding the screwdriver, not her. At another table, two people examine a broken bicycle wheel. Along the wall, a queue of six people wait with items in bags and boxes. A handwritten sign reads 'We help you fix it — we don't fix it for you'. Tools are laid out on a cloth, and a box of spare parts sits underneath.\n\n1. Describe what you can see in the picture.\n2. Tell me about something you have repaired or tried to repair.\n3. Some people say it is not worth repairing things because replacements are cheap. What do you think?",
+      "timeLimitSec": 135,
+      "preparationSec": 60,
+      "sampleAnswer": "1. This picture shows a community repair event taking place in a hall. At the table in the foreground, an older woman is showing a young man how to re-wire a lamp, and what's notable is that he is holding the screwdriver, not her. At another table, two people are examining a broken bicycle wheel. Along the wall, six people are queuing with items in bags and boxes. There's a handwritten sign that reads 'We help you fix it — we don't fix it for you', which seems to explain the whole approach.\n\n2. I tried to repair a washing machine about a year ago. The drum was making a grinding noise and I found a video that suggested it was the bearings. I got as far as removing the back panel, realised the repair needed a tool I didn't have and wasn't going to buy, and stopped. I did learn that the noise was harmless, which saved me replacing the machine.\n\n3. There's something in the argument — for small electronics, the replacement often genuinely costs less than a repair, and pretending otherwise doesn't help anyone. But I think it treats price as the only measure. The reason replacements are cheap is partly that the environmental cost isn't in the price, and once you factor that in the calculation changes. I'd also say that repairing something teaches you how it works, and that has a value which never appears on a receipt.",
+      "rubricVi": [
+        "Phần 1 nên nêu được chi tiết CÓ Ý NGHĨA (ai cầm tuốc nơ vít, tấm biển) chứ không chỉ liệt kê người và vật.",
+        "Phần 2 kể trải nghiệm có kết cục thật, kể cả khi thất bại. Câu chuyện thất bại thường tự nhiên hơn câu chuyện thành công bịa ra.",
+        "Phần 3 phải THỪA NHẬN phần đúng của ý kiến đối lập trước khi phản biện. Đây là điểm phân biệt B2 với B1.",
+        "Nói đủ 45 giây mỗi phần và chuyển thì đúng theo từng phần.",
+        "Dùng ngôn ngữ đánh giá: what's notable is…, there's something in the argument, I'd also say. Đây là dải ngôn ngữ mức B2."
+      ]
+    },
+    {
+      "id": "speaking-part4-abstract-b2",
+      "skill": "speaking",
+      "title": "Part 4 — Speak about an abstract topic",
+      "format": "Aptis Speaking — Part 4 · 1 phút chuẩn bị, 2 phút nói, ba câu hỏi trong một lượt",
+      "instructionsVi": "Ba câu hỏi cùng lúc, 2 phút nói liên tục. Ở B2, câu 2 và 3 đòi hỏi phân tích nguyên nhân và đề xuất có điều kiện, không chỉ nêu ý kiến.",
+      "promptEn": "You have one minute to prepare, then two minutes to answer all three questions.\n\nLook at this photograph: an empty high street with several shops boarded up and one small independent shop still open.\n\n1. Describe a shop or business in your area that has closed, and what it meant locally.\n2. Why do you think small independent shops find it difficult to survive?\n3. Should local authorities do more to support them, or should the market decide?",
+      "timeLimitSec": 120,
+      "preparationSec": 60,
+      "sampleAnswer": "1. The hardware shop on our high street closed about three years ago after being there for four decades. It wasn't just the shop that went. The owner knew what every building in the street was made of, so if your tap was leaking you went to him rather than to the internet, and that kind of knowledge doesn't reopen somewhere else.\n\n2. Rent is the obvious answer, but I think the deeper problem is that the economics are unforgiving in a way they weren't. A small shop needs enough passing customers to cover a fixed cost, and once a few units close, the footfall drops for everyone who's left. So the decline accelerates itself — each closure makes the next one more likely, which is why a street can look fine for years and then empty in eighteen months.\n\n3. I'd argue for intervention, but a specific kind. Simply subsidising rent tends to keep businesses alive that would fail anyway, and the money runs out. What seems to work better is reducing the fixed costs that don't depend on trading — business rates on empty units, for instance, so landlords have a reason to lower rents rather than leave a shop closed. I'd stop short of the council choosing which shops deserve to exist, because I don't think anyone is good at that.",
+      "rubricVi": [
+        "Trả lời cả ba câu trong 2 phút, khoảng 40 giây mỗi câu. Đây vẫn là lỗi phân bổ thời gian phổ biến nhất.",
+        "Câu 2 ở mức B2 phải giải thích CƠ CHẾ ('the decline accelerates itself'), không chỉ liệt kê nguyên nhân.",
+        "Câu 3 phải nêu lập trường CÓ ĐIỀU KIỆN: ủng hộ can thiệp nhưng loại bỏ hình thức can thiệp kém hiệu quả. Trả lời có/không đơn thuần bị giới hạn điểm.",
+        "Nối ba phần với nhau bằng cách tham chiếu ngược ('Rent is the obvious answer, but…').",
+        "Nói liên tục hết 2 phút, dùng 1 phút chuẩn bị chỉ để ghi ba từ khoá."
+      ]
+    }
+  ]
+}

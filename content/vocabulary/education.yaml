@@ -1,0 +1,1382 @@
+# Chủ đề Giáo dục (§12.1). Nguồn: Wiktionary (CC BY-SA), WordNet, Tatoeba (CC BY).
+topic: education
+words:
+  - lemma: assignment
+    cefr: B1
+    frequencyRank: 4800
+    ipaUs: /əˈsaɪnmənt/
+    ipaUk: /əˈsaɪnmənt/
+    syllables: as·sign·ment
+    stressPattern: '010'
+    subtopics: [school-subjects, university]
+    senses:
+      - pos: NOUN
+        definitionEn: A piece of work given to a student to do.
+        definitionVi: Bài tập được giao; phần việc thầy cô giao cho học sinh làm.
+        examples:
+          - en: The assignment is due on Monday morning.
+            vi: Bài tập phải nộp vào sáng thứ Hai.
+          - en: I finished the history assignment on the bus.
+            vi: Tôi làm xong bài tập môn sử ở trên xe buýt.
+        synonyms: [homework]
+
+  - lemma: revise
+    cefr: B1
+    frequencyRank: 8700
+    ipaUs: /rɪˈvaɪz/
+    ipaUk: /rɪˈvaɪz/
+    syllables: re·vise
+    stressPattern: '01'
+    subtopics: [exams]
+    senses:
+      - pos: VERB
+        definitionEn: To study again what you have learned, especially before a test.
+        definitionVi: Ôn tập; học lại những gì đã học, nhất là trước kỳ thi.
+        examples:
+          - en: She revises for an hour every evening.
+            vi: Cô ấy ôn bài một tiếng mỗi tối.
+          - en: We revised the whole book in three days.
+            vi: Chúng tôi ôn hết cả quyển sách trong ba ngày.
+
+  - lemma: lecture
+    cefr: B1
+    frequencyRank: 5300
+    ipaUs: /ˈlektʃər/
+    ipaUk: /ˈlektʃə/
+    syllables: lec·ture
+    stressPattern: '10'
+    subtopics: [university]
+    senses:
+      - pos: NOUN
+        definitionEn: A formal talk given to a class or an audience.
+        definitionVi: Bài giảng; buổi nói chuyện chính thức trước lớp hoặc khán giả.
+        examples:
+          - en: The lecture on climate law lasted two hours.
+            vi: Bài giảng về luật khí hậu kéo dài hai tiếng.
+          - en: He records every lecture and listens again at home.
+            vi: Anh ấy ghi âm mọi bài giảng và nghe lại ở nhà.
+
+  - lemma: scholarship
+    cefr: B2
+    frequencyRank: 10100
+    ipaUs: /ˈskɑːlərʃɪp/
+    ipaUk: /ˈskɒləʃɪp/
+    syllables: schol·ar·ship
+    stressPattern: '100'
+    subtopics: [university]
+    senses:
+      - pos: NOUN
+        definitionEn: Money given to a student to help pay for their studies.
+        definitionVi: Học bổng; khoản tiền cấp cho sinh viên để trang trải việc học.
+        examples:
+          - en: She won a scholarship to study in Singapore.
+            vi: Cô ấy giành được học bổng đi học ở Singapore.
+          - en: The scholarship covers tuition but not living costs.
+            vi: Học bổng chi trả học phí nhưng không gồm chi phí sinh hoạt.
+
+  - lemma: curriculum
+    cefr: B2
+    frequencyRank: 9400
+    ipaUs: /kəˈrɪkjələm/
+    ipaUk: /kəˈrɪkjələm/
+    syllables: cur·ric·u·lum
+    stressPattern: '0100'
+    subtopics: [school-subjects]
+    senses:
+      - pos: NOUN
+        definitionEn: The subjects that are taught in a school or on a course.
+        definitionVi: Chương trình học; các môn được dạy trong trường hoặc khoá học.
+        examples:
+          - en: Coding was added to the school curriculum last year.
+            vi: Lập trình được đưa vào chương trình học của trường từ năm ngoái.
+          - en: The curriculum leaves little time for art.
+            vi: Chương trình học dành rất ít thời gian cho môn nghệ thuật.
+
+  - lemma: tuition
+    cefr: B2
+    frequencyRank: 11700
+    ipaUs: /tuˈɪʃn̩/
+    ipaUk: /tjuˈɪʃn̩/
+    syllables: tu·i·tion
+    stressPattern: '010'
+    subtopics: [university]
+    senses:
+      - pos: NOUN
+        definitionEn: The money paid for teaching, or the teaching itself.
+        definitionVi: Học phí; hoặc việc dạy kèm.
+        examples:
+          - en: Tuition rose again this September.
+            vi: Học phí lại tăng vào tháng Chín này.
+          - en: He gives private tuition in maths at weekends.
+            vi: Anh ấy dạy kèm môn toán vào cuối tuần.
+
+  - lemma: deadline
+    cefr: B1
+    frequencyRank: 6100
+    ipaUs: /ˈdedlaɪn/
+    ipaUk: /ˈdedlaɪn/
+    syllables: dead·line
+    stressPattern: '10'
+    subtopics: [school-subjects, research]
+    senses:
+      - pos: NOUN
+        definitionEn: The time by which something must be finished.
+        definitionVi: Hạn chót; thời điểm phải hoàn thành việc gì đó.
+        examples:
+          - en: The deadline for the essay is Friday at noon.
+            vi: Hạn chót nộp bài luận là trưa thứ Sáu.
+          - en: We asked for one more week after missing the deadline.
+            vi: Chúng tôi xin thêm một tuần sau khi lỡ hạn chót.
+
+  - lemma: plagiarism
+    cefr: C1
+    frequencyRank: 23100
+    ipaUs: /ˈpleɪdʒərɪzəm/
+    ipaUk: /ˈpleɪdʒərɪzəm/
+    syllables: pla·gia·rism
+    stressPattern: '1000'
+    subtopics: [research, university]
+    senses:
+      - pos: NOUN
+        definitionEn: Using someone else's words or ideas as if they were your own.
+        definitionVi: Đạo văn; dùng lời hoặc ý của người khác như thể của mình.
+        examples:
+          - en: Plagiarism can get a student expelled.
+            vi: Đạo văn có thể khiến sinh viên bị đuổi học.
+          - en: The software checks every essay for plagiarism.
+            vi: Phần mềm kiểm tra đạo văn cho từng bài luận.
+
+  - lemma: graduate
+    cefr: B1
+    frequencyRank: 5700
+    ipaUs: /ˈɡrædʒueɪt/
+    ipaUk: /ˈɡrædʒueɪt/
+    syllables: grad·u·ate
+    stressPattern: '100'
+    subtopics: [university]
+    senses:
+      - pos: VERB
+        definitionEn: To finish a course of study and receive a degree.
+        definitionVi: Tốt nghiệp; học xong một khoá và nhận bằng.
+        examples:
+          - en: She will graduate from medical school in June.
+            vi: Cô ấy sẽ tốt nghiệp trường y vào tháng Sáu.
+          - en: He graduated with the highest marks in his year.
+            vi: Anh ấy tốt nghiệp với điểm cao nhất khoá.
+
+  - lemma: graduation
+    cefr: B1
+    frequencyRank: 12600
+    ipaUs: /ˌɡrædʒuˈeɪʃn̩/
+    ipaUk: /ˌɡrædʒuˈeɪʃn̩/
+    syllables: grad·u·a·tion
+    stressPattern: '0010'
+    subtopics: [university]
+    senses:
+      - pos: NOUN
+        definitionEn: The act of finishing your studies, or the ceremony for it.
+        definitionVi: Sự tốt nghiệp; hoặc lễ tốt nghiệp.
+        examples:
+          - en: My parents flew in for my graduation.
+            vi: Bố mẹ tôi bay về dự lễ tốt nghiệp của tôi.
+          - en: After graduation she worked for a small studio.
+            vi: Sau khi tốt nghiệp cô ấy làm cho một studio nhỏ.
+
+  - lemma: enrol
+    cefr: B2
+    frequencyRank: 14300
+    ipaUs: /ɪnˈroʊl/
+    ipaUk: /ɪnˈrəʊl/
+    syllables: en·rol
+    stressPattern: '01'
+    subtopics: [online-learning, university]
+    senses:
+      - pos: VERB
+        definitionEn: To officially join a course or a school.
+        definitionVi: Ghi danh, nhập học; chính thức đăng ký vào khoá học hay trường.
+        examples:
+          - en: Two hundred students enrolled in the online course.
+            vi: Hai trăm học viên đã ghi danh khoá học trực tuyến.
+          - en: You can enrol until the end of the month.
+            vi: Bạn có thể ghi danh đến hết tháng này.
+
+  - lemma: certificate
+    cefr: B1
+    frequencyRank: 7900
+    ipaUs: /sərˈtɪfɪkət/
+    ipaUk: /səˈtɪfɪkət/
+    syllables: cer·tif·i·cate
+    stressPattern: '0100'
+    subtopics: [online-learning, exams]
+    senses:
+      - pos: NOUN
+        definitionEn: An official paper showing that you passed or completed something.
+        definitionVi: Chứng chỉ; giấy chính thức xác nhận bạn đã đạt hoặc hoàn thành điều gì.
+        examples:
+          - en: You get a certificate when you finish the course.
+            vi: Bạn nhận chứng chỉ khi học xong khoá này.
+          - en: The certificate is valid for two years.
+            vi: Chứng chỉ có giá trị trong hai năm.
+
+  - lemma: highlighter
+    cefr: A2
+    frequencyRank: 26800
+    ipaUs: /ˈhaɪlaɪtər/
+    ipaUk: /ˈhaɪlaɪtə/
+    syllables: high·light·er
+    stressPattern: '100'
+    subtopics: [stationery]
+    senses:
+      - pos: NOUN
+        definitionEn: A bright pen used to mark important words in a text.
+        definitionVi: Bút dạ quang; bút màu sáng dùng đánh dấu chữ quan trọng.
+        examples:
+          - en: She marked the key dates with a yellow highlighter.
+            vi: Cô ấy đánh dấu các mốc thời gian bằng bút dạ quang vàng.
+          - en: Do not use a highlighter on library books.
+            vi: Đừng dùng bút dạ quang lên sách thư viện.
+
+  - lemma: notebook
+    cefr: A1
+    frequencyRank: 8400
+    ipaUs: /ˈnoʊtbʊk/
+    ipaUk: /ˈnəʊtbʊk/
+    syllables: note·book
+    stressPattern: '10'
+    subtopics: [stationery]
+    senses:
+      - pos: NOUN
+        definitionEn: A book of empty pages for writing notes in.
+        definitionVi: Vở, sổ tay; quyển giấy trắng để ghi chép.
+        examples:
+          - en: I keep new words in a small notebook.
+            vi: Tôi ghi từ mới vào một cuốn sổ nhỏ.
+          - en: My notebook is full after only one term.
+            vi: Cuốn vở của tôi đã kín chỉ sau một học kỳ.
+
+  - lemma: research
+    cefr: B1
+    frequencyRank: 1100
+    ipaUs: /ˈriːsɜːrtʃ/
+    ipaUk: /rɪˈsɜːtʃ/
+    syllables: re·search
+    stressPattern: '10'
+    subtopics: [research]
+    senses:
+      - pos: NOUN
+        definitionEn: Careful study done to find out new facts.
+        definitionVi: Nghiên cứu; việc tìm hiểu kỹ lưỡng để khám phá điều mới.
+        examples:
+          - en: Her research on river fish took four years.
+            vi: Nghiên cứu của cô về cá sông kéo dài bốn năm.
+          - en: More research is needed before we can be sure.
+            vi: Cần nghiên cứu thêm trước khi có thể chắc chắn.
+
+  - lemma: analyse
+    cefr: B2
+    frequencyRank: 3500
+    ipaUs: /ˈænəlaɪz/
+    ipaUk: /ˈænəlaɪz/
+    syllables: an·a·lyse
+    stressPattern: '100'
+    subtopics: [research]
+    senses:
+      - pos: VERB
+        definitionEn: To examine something in detail in order to understand it.
+        definitionVi: Phân tích; xem xét kỹ để hiểu rõ điều gì đó.
+        examples:
+          - en: We analysed the answers of five hundred students.
+            vi: Chúng tôi phân tích câu trả lời của năm trăm học sinh.
+          - en: The software analyses your mistakes and finds a pattern.
+            vi: Phần mềm phân tích lỗi của bạn và tìm ra quy luật.
+
+  - lemma: analysis
+    cefr: B2
+    frequencyRank: 1300
+    ipaUs: /əˈnæləsɪs/
+    ipaUk: /əˈnæləsɪs/
+    syllables: a·nal·y·sis
+    stressPattern: '0100'
+    subtopics: [research]
+    senses:
+      - pos: NOUN
+        definitionEn: The careful examination of something to understand it.
+        definitionVi: Sự phân tích; việc xem xét kỹ lưỡng để hiểu điều gì đó.
+        examples:
+          - en: Her analysis of the data changed the plan.
+            vi: Phân tích dữ liệu của cô ấy đã làm thay đổi kế hoạch.
+          - en: The report begins with an analysis of the market.
+            vi: Bản báo cáo mở đầu bằng phân tích thị trường.
+
+  - lemma: syllabus
+    cefr: B2
+    frequencyRank: 20900
+    ipaUs: /ˈsɪləbəs/
+    ipaUk: /ˈsɪləbəs/
+    syllables: syl·la·bus
+    stressPattern: '100'
+    subtopics: [school-subjects]
+    senses:
+      - pos: NOUN
+        definitionEn: A list of what will be taught on one course.
+        definitionVi: Đề cương môn học; danh sách nội dung sẽ dạy trong một khoá.
+        examples:
+          - en: The syllabus lists every book we must read.
+            vi: Đề cương liệt kê mọi cuốn sách chúng tôi phải đọc.
+          - en: Grammar takes up half of the syllabus.
+            vi: Ngữ pháp chiếm một nửa đề cương.
+
+  - lemma: exam
+    cefr: A2
+    frequencyRank: 5900
+    ipaUs: /ɪɡˈzæm/
+    ipaUk: /ɪɡˈzæm/
+    syllables: ex·am
+    stressPattern: '01'
+    subtopics: [exams]
+    senses:
+      - pos: NOUN
+        definitionEn: An official test of what someone knows or can do.
+        definitionVi: Kỳ thi; bài kiểm tra chính thức về kiến thức hay kỹ năng.
+        examples:
+          - en: The listening exam starts at eight sharp.
+            vi: Bài thi nghe bắt đầu đúng tám giờ.
+          - en: He passed the exam on his second try.
+            vi: Anh ấy đỗ kỳ thi ở lần thi thứ hai.
+
+  - lemma: tutor
+    cefr: B1
+    frequencyRank: 10600
+    ipaUs: /ˈtuːtər/
+    ipaUk: /ˈtjuːtə/
+    syllables: tu·tor
+    stressPattern: '10'
+    subtopics: [online-learning]
+    senses:
+      - pos: NOUN
+        definitionEn: A teacher who works with one student or a small group.
+        definitionVi: Gia sư; giáo viên dạy một học sinh hoặc nhóm nhỏ.
+        examples:
+          - en: My tutor corrects my pronunciation every week.
+            vi: Gia sư của tôi sửa phát âm cho tôi mỗi tuần.
+          - en: An online tutor is cheaper than a language centre.
+            vi: Gia sư trực tuyến rẻ hơn trung tâm ngoại ngữ.
+
+  - lemma: semester
+    cefr: B1
+    frequencyRank: 8900
+    ipaUs: /sɪˈmestər/
+    ipaUk: /sɪˈmestə/
+    syllables: se·mes·ter
+    stressPattern: '010'
+    subtopics: [university]
+    senses:
+      - pos: NOUN
+        definitionEn: One of the two main periods a school year is divided into.
+        definitionVi: Học kỳ; một trong hai phần chính của năm học.
+        examples:
+          - en: The second semester starts in February.
+            vi: Học kỳ hai bắt đầu vào tháng Hai.
+          - en: I take five subjects this semester.
+            vi: Học kỳ này tôi học năm môn.
+
+  - lemma: attendance
+    cefr: B1
+    frequencyRank: 7600
+    ipaUs: /əˈtendəns/
+    ipaUk: /əˈtendəns/
+    syllables: at·tend·ance
+    stressPattern: '010'
+    subtopics: [school-subjects]
+    senses:
+      - pos: NOUN
+        definitionEn: Being present at classes, or the record of it.
+        definitionVi: Điểm danh, sự có mặt; hoặc bản ghi về việc đi học.
+        examples:
+          - en: Attendance counts for ten percent of the grade.
+            vi: Điểm chuyên cần chiếm mười phần trăm tổng điểm.
+          - en: Her attendance dropped after she started working.
+            vi: Cô ấy đi học thưa dần sau khi bắt đầu đi làm.
+
+  - lemma: cite
+    cefr: B2
+    frequencyRank: 9400
+    ipaUs: /saɪt/
+    ipaUk: /saɪt/
+    syllables: cite
+    stressPattern: '1'
+    subtopics: [research]
+    senses:
+      - pos: VERB
+        definitionEn: To name a source you have used in your work.
+        definitionVi: Trích dẫn; nêu nguồn mà bạn đã dùng trong bài.
+        examples:
+          - en: Cite every source, even a website.
+            vi: Trích dẫn mọi nguồn, kể cả trang web.
+          - en: He cited three papers to support the claim.
+            vi: Anh ấy trích dẫn ba bài báo để bảo vệ luận điểm.
+
+  - lemma: draft
+    cefr: B1
+    frequencyRank: 5300
+    ipaUs: /dræft/
+    ipaUk: /drɑːft/
+    syllables: draft
+    stressPattern: '1'
+    subtopics: [research]
+    senses:
+      - pos: NOUN
+        definitionEn: An early version of a piece of writing.
+        definitionVi: Bản nháp; bản viết đầu chưa hoàn chỉnh.
+        examples:
+          - en: Send me the first draft by Friday.
+            vi: Gửi tôi bản nháp đầu tiên trước thứ Sáu.
+          - en: The third draft was much clearer.
+            vi: Bản nháp thứ ba rõ ràng hơn hẳn.
+
+  - lemma: dormitory
+    cefr: B1
+    frequencyRank: 13100
+    ipaUs: /ˈdɔːrmətɔːri/
+    ipaUk: /ˈdɔːmɪtri/
+    syllables: dor·mi·to·ry
+    stressPattern: '1000'
+    subtopics: [university]
+    senses:
+      - pos: NOUN
+        definitionEn: A building where students live at a school or university.
+        definitionVi: Ký túc xá; nơi sinh viên ở trong trường.
+        examples:
+          - en: The dormitory closes its gate at eleven.
+            vi: Ký túc xá đóng cổng lúc mười một giờ.
+          - en: Living in the dormitory saved me a lot of rent.
+            vi: Ở ký túc xá giúp tôi tiết kiệm nhiều tiền thuê nhà.
+
+  - lemma: memorise
+    cefr: B1
+    frequencyRank: 12200
+    ipaUs: /ˈmeməraɪz/
+    ipaUk: /ˈmeməraɪz/
+    syllables: mem·o·rise
+    stressPattern: '100'
+    subtopics: [exams]
+    senses:
+      - pos: VERB
+        definitionEn: To learn something so you can recall it exactly.
+        definitionVi: Học thuộc lòng; ghi nhớ để nhớ lại đúng nguyên văn.
+        examples:
+          - en: Do not just memorise the rule; use it in a sentence.
+            vi: Đừng chỉ học thuộc quy tắc, hãy dùng nó trong câu.
+          - en: She memorised forty words before the test.
+            vi: Cô ấy học thuộc bốn mươi từ trước khi thi.
+
+  - lemma: feedback
+    cefr: B1
+    frequencyRank: 4600
+    ipaUs: /ˈfiːdbæk/
+    ipaUk: /ˈfiːdbæk/
+    syllables: feed·back
+    stressPattern: '10'
+    subtopics: [online-learning]
+    senses:
+      - pos: NOUN
+        definitionEn: Comments telling you what was good and what to improve.
+        definitionVi: Phản hồi; nhận xét về chỗ được và chỗ cần sửa.
+        examples:
+          - en: Her feedback on my essay was very specific.
+            vi: Nhận xét của cô ấy về bài luận của tôi rất cụ thể.
+          - en: Ask for feedback before you submit the final version.
+            vi: Xin nhận xét trước khi nộp bản cuối.
+
+  - lemma: revision
+    cefr: B1
+    frequencyRank: 9700
+    ipaUs: /rɪˈvɪʒn̩/
+    ipaUk: /rɪˈvɪʒn̩/
+    syllables: re·vi·sion
+    stressPattern: '010'
+    subtopics: [exams]
+    senses:
+      - pos: NOUN
+        definitionEn: Studying again what you have already learned, before a test.
+        definitionVi: Ôn tập; học lại phần đã học trước khi thi.
+        examples:
+          - en: I start revision two weeks before the exam.
+            vi: Tôi bắt đầu ôn tập hai tuần trước kỳ thi.
+          - en: Her revision notes fill a whole notebook.
+            vi: Ghi chú ôn tập của cô ấy đầy cả một quyển vở.
+
+  - lemma: transcript
+    cefr: B2
+    frequencyRank: 12500
+    ipaUs: /ˈtrænskrɪpt/
+    ipaUk: /ˈtrænskrɪpt/
+    syllables: tran·script
+    stressPattern: '10'
+    subtopics: [university]
+    senses:
+      - pos: NOUN
+        definitionEn: An official record of the subjects you took and the marks you got.
+        definitionVi: Bảng điểm; giấy tờ chính thức ghi các môn đã học và điểm số.
+        examples:
+          - en: The university asked for a certified transcript.
+            vi: Trường đại học yêu cầu bảng điểm có công chứng.
+          - en: My transcript arrives by post in two weeks.
+            vi: Bảng điểm của tôi được gửi bưu điện trong hai tuần.
+
+  - lemma: education
+    cefr: B1
+    ipaUs: /ˌɛdʒuˈkeɪʃən/
+    senses:
+      - pos: NOUN
+        definitionEn: The process of receiving or giving systematic instruction, especially at a school or
+          university.
+        definitionVi: sự giáo dục
+        examples:
+          - en: Access to good education changes many young lives.
+            vi: Tiếp cận giáo dục tốt thay đổi nhiều cuộc đời trẻ.
+          - en: Her parents value higher education very much.
+            vi: Bố mẹ cô ấy rất coi trọng giáo dục đại học.
+  - lemma: student
+    cefr: A1
+    ipaUs: /ˈstudənt/
+    senses:
+      - pos: NOUN
+        definitionEn: A person who is studying at a school or university.
+        definitionVi: học sinh, sinh viên
+        examples:
+          - en: Every student must submit the assignment on Friday.
+            vi: Mỗi học sinh phải nộp bài tập vào thứ Sáu.
+          - en: The new student asked the teacher for help.
+            vi: Học sinh mới đã nhờ giáo viên giúp đỡ.
+  - lemma: teacher
+    cefr: A1
+    ipaUs: /ˈtiʧər/
+    senses:
+      - pos: NOUN
+        definitionEn: A person whose job is to teach others, especially in a school.
+        definitionVi: giáo viên
+        examples:
+          - en: Our math teacher explains difficult equations very clearly.
+            vi: Giáo viên toán của chúng tôi giải thích các phương trình khó rất rõ ràng.
+          - en: A good teacher inspires students to love learning.
+            vi: Một giáo viên giỏi truyền cảm hứng cho học sinh yêu việc học.
+  - lemma: school
+    cefr: A1
+    ipaUs: /skul/
+    senses:
+      - pos: NOUN
+        definitionEn: An institution for educating children.
+        definitionVi: trường học
+        examples:
+          - en: Children walk to the local primary school together.
+            vi: Trẻ em đi bộ đến trường tiểu học địa phương cùng nhau.
+          - en: He started a new school in September.
+            vi: Cậu ấy bắt đầu học một trường mới vào tháng Chín.
+  - lemma: classroom
+    cefr: A1
+    ipaUs: /ˈklæsˌrum/
+    senses:
+      - pos: NOUN
+        definitionEn: A room in a school where lessons take place.
+        definitionVi: phòng học
+        examples:
+          - en: The bright classroom has twenty desks and chairs.
+            vi: Phòng học sáng sủa có hai mươi bàn và ghế.
+          - en: Students entered the quiet classroom before the bell.
+            vi: Học sinh bước vào phòng học yên tĩnh trước tiếng chuông.
+  - lemma: textbook
+    cefr: A2
+    ipaUs: /ˈtɛkstˌbʊk/
+    senses:
+      - pos: NOUN
+        definitionEn: A book used for the study of a subject by students.
+        definitionVi: sách giáo khoa
+        examples:
+          - en: Open your history textbook to page forty five.
+            vi: Hãy mở sách giáo khoa lịch sử của bạn ở trang bốn mươi lăm.
+          - en: She bought a used science textbook online.
+            vi: Cô ấy đã mua một cuốn sách giáo khoa khoa học cũ trên mạng.
+  - lemma: faculty
+    cefr: B2
+    ipaUs: /ˈfækəlti/
+    senses:
+      - pos: NOUN
+        definitionEn: A department or group of departments in a university.
+        definitionVi: khoa (đại học)
+        examples:
+          - en: The medical faculty admitted fifty new researchers today.
+            vi: Khoa y đã tiếp nhận năm mươi nhà nghiên cứu mới hôm nay.
+          - en: All faculty members will attend the urgent meeting.
+            vi: Tất cả các thành viên giảng viên sẽ tham dự cuộc họp khẩn cấp.
+  - lemma: university
+    cefr: A2
+    ipaUs: /ˌjunəˈvərsəti/
+    senses:
+      - pos: NOUN
+        definitionEn: An institution of higher education and research granting academic degrees.
+        definitionVi: trường đại học
+        examples:
+          - en: He wants to study architecture at a top university.
+            vi: Anh ấy muốn học kiến trúc tại một trường đại học hàng đầu.
+          - en: The large university campus has a huge library.
+            vi: Khuôn viên trường đại học lớn có một thư viện khổng lồ.
+  - lemma: kindergarten
+    cefr: A2
+    ipaUs: /ˈkɪndərˌgɑrtən/
+    senses:
+      - pos: NOUN
+        definitionEn: A school or class for young children aged four to six.
+        definitionVi: trường mẫu giáo
+        examples:
+          - en: My little sister loves playing games in kindergarten.
+            vi: Em gái tôi rất thích chơi trò chơi ở trường mẫu giáo.
+          - en: The kindergarten teacher read a fun story book.
+            vi: Cô giáo mẫu giáo đã đọc một cuốn truyện tranh vui nhộn.
+  - lemma: homework
+    cefr: A1
+    ipaUs: /ˈhoʊmˌwɜrk/
+    senses:
+      - pos: NOUN
+        definitionEn: Schoolwork given to students to be done at home.
+        definitionVi: bài tập về nhà
+        examples:
+          - en: She finished all her math homework before dinner.
+            vi: Cô ấy đã làm xong tất cả bài tập về nhà môn toán trước bữa tối.
+          - en: Do not leave your English homework until midnight.
+            vi: Đừng để bài tập tiếng Anh của bạn đến nửa đêm mới làm.
+  - lemma: assessment
+    cefr: B1
+    ipaUs: /əˈsɛsmənt/
+    senses:
+      - pos: NOUN
+        definitionEn: The evaluation or estimation of the nature or quality of something.
+        definitionVi: sự đánh giá
+        examples:
+          - en: Continuous assessment helps teachers track student progress.
+            vi: Đánh giá liên tục giúp giáo viên theo dõi tiến độ của học sinh.
+          - en: The final assessment includes a written essay test.
+            vi: Đánh giá cuối kỳ bao gồm một bài kiểm tra luận viết.
+  - lemma: grade
+    cefr: A2
+    ipaUs: /greɪd/
+    senses:
+      - pos: NOUN
+        definitionEn: A mark indicating a student's performance.
+        definitionVi: điểm số
+        examples:
+          - en: She received a high grade on her science test.
+            vi: Cô ấy nhận được điểm cao trong bài kiểm tra khoa học.
+          - en: My younger brother is in the fourth grade.
+            vi: Em trai tôi đang học lớp bốn.
+  - lemma: literacy
+    cefr: B2
+    ipaUs: /ˈlɪtərəsi/
+    senses:
+      - pos: NOUN
+        definitionEn: The ability to read and write.
+        definitionVi: khả năng đọc viết
+        examples:
+          - en: Adult literacy programs help many people find jobs.
+            vi: Các chương trình xóa mù chữ cho người lớn giúp nhiều người tìm được việc làm.
+          - en: Early childhood literacy is crucial for later success.
+            vi: Khả năng đọc viết thời thơ ấu rất quan trọng cho thành công sau này.
+  - lemma: numeracy
+    cefr: C1
+    ipaUs: /ˈnumərəsi/
+    senses:
+      - pos: NOUN
+        definitionEn: The ability to understand and work with numbers.
+        definitionVi: kỹ năng tính toán
+        examples:
+          - en: Basic numeracy skills are essential for managing personal money.
+            vi: Các kỹ năng tính toán cơ bản rất cần thiết để quản lý tiền bạc cá nhân.
+          - en: Schools must focus on both literacy and numeracy.
+            vi: Các trường học phải tập trung vào cả khả năng đọc viết và kỹ năng tính toán.
+  - lemma: discipline
+    cefr: B2
+    ipaUs: /ˈdɪsəplən/
+    senses:
+      - pos: NOUN
+        definitionEn: The practice of training people to obey rules or a code of behavior.
+        definitionVi: kỷ luật
+        examples:
+          - en: Classroom discipline creates a peaceful learning environment.
+            vi: Kỷ luật trong lớp học tạo ra một môi trường học tập yên bình.
+          - en: Strict discipline helped the sports team win championships.
+            vi: Kỷ luật nghiêm ngặt đã giúp đội thể thao giành chiến thắng các giải vô địch.
+  - lemma: principal
+    cefr: B1
+    ipaUs: /ˈprɪnsəpəl/
+    senses:
+      - pos: NOUN
+        definitionEn: The head of a school.
+        definitionVi: hiệu trưởng
+        examples:
+          - en: The school principal gave a speech at assembly.
+            vi: Hiệu trưởng nhà trường đã có bài phát biểu trong buổi tập trung.
+          - en: Parents met the new principal during open house.
+            vi: Phụ huynh đã gặp hiệu trưởng mới trong buổi mở cửa đón khách.
+  - lemma: professor
+    cefr: B1
+    ipaUs: /prəˈfɛsər/
+    senses:
+      - pos: NOUN
+        definitionEn: A university teacher of the highest rank.
+        definitionVi: giáo sư
+        examples:
+          - en: The history professor published a new research book.
+            vi: Giáo sư lịch sử đã xuất bản một cuốn sách nghiên cứu mới.
+          - en: Students waited outside the office of the professor.
+            vi: Học sinh đã đợi bên ngoài văn phòng của giáo sư.
+  - lemma: pupil
+    cefr: A2
+    ipaUs: /ˈpjupəl/
+    senses:
+      - pos: NOUN
+        definitionEn: A young person who is learning at school.
+        definitionVi: học sinh tiểu học
+        examples:
+          - en: Every pupil wore a clean uniform to school.
+            vi: Mỗi học sinh đều mặc đồng phục sạch sẽ đến trường.
+          - en: The teacher asked each pupil a simple question.
+            vi: Giáo viên đã hỏi mỗi học sinh một câu hỏi đơn giản.
+  - lemma: undergraduate
+    cefr: B2
+    ipaUs: /ˌʌndərˈgrædʒuət/
+    senses:
+      - pos: NOUN
+        definitionEn: A university student who has not yet taken a first degree.
+        definitionVi: sinh viên chưa tốt nghiệp
+        examples:
+          - en: Undergraduate students can use the main research library.
+            vi: Sinh viên đại học chưa tốt nghiệp có thể sử dụng thư viện nghiên cứu chính.
+          - en: She is an undergraduate studying computer science now.
+            vi: Cô ấy là một sinh viên đại học đang học khoa học máy tính bây giờ.
+  - lemma: postgraduate
+    cefr: C1
+    ipaUs: /ˌpoʊstˈgrædʒuət/
+    senses:
+      - pos: NOUN
+        definitionEn: A student taking a university degree after a first degree.
+        definitionVi: học viên sau đại học
+        examples:
+          - en: Postgraduate researchers share a large office downtown.
+            vi: Các nhà nghiên cứu sau đại học dùng chung một văn phòng lớn ở trung tâm thành phố.
+          - en: He applied for a postgraduate degree in economics.
+            vi: Anh ấy đã nộp đơn xin học một tấm bằng sau đại học về kinh tế.
+  - lemma: doctorate
+    cefr: C1
+    ipaUs: /ˈdɑːktərɪt/
+    senses:
+      - pos: NOUN
+        definitionEn: The highest degree awarded by a university.
+        definitionVi: Học vị tiến sĩ
+        examples:
+          - en: She spent five years working hard to earn her doctorate in history.
+            vi: Cô ấy đã dành năm năm làm việc chăm chỉ để đạt học vị tiến sĩ lịch sử.
+          - en: He is pursuing a doctorate because he wants to teach at university.
+            vi: Anh ấy đang theo học tiến sĩ vì muốn giảng dạy ở trường đại học.
+  - lemma: dissertation
+    cefr: C1
+    ipaUs: /ˌdɪsərˈteɪʃn/
+    senses:
+      - pos: NOUN
+        definitionEn: A long piece of writing done for a doctor's degree.
+        definitionVi: Luận án tiến sĩ
+        examples:
+          - en: Her doctoral dissertation focuses on modern economic development in Southeast Asia.
+            vi: Luận án tiến sĩ của cô ấy tập trung vào phát triển kinh tế hiện đại ở Đông Nam Á.
+          - en: Students must defend their dissertation before graduating with a PhD.
+            vi: Sinh viên phải bảo vệ luận án trước khi tốt nghiệp bằng tiến sĩ.
+  - lemma: thesis
+    cefr: B2
+    ipaUs: /ˈθiːsɪs/
+    senses:
+      - pos: NOUN
+        definitionEn: A long essay written by a candidate for a university degree.
+        definitionVi: Luận văn
+        examples:
+          - en: He is currently writing his master thesis on renewable energy technologies.
+            vi: Anh ấy hiện đang viết luận văn thạc sĩ về công nghệ năng lượng tái tạo.
+          - en: She submitted her final thesis two weeks before the official deadline.
+            vi: Cô ấy đã nộp luận văn tốt nghiệp hai tuần trước hạn chót chính thức.
+  - lemma: major
+    cefr: B1
+    ipaUs: /ˈmeɪdʒər/
+    senses:
+      - pos: NOUN
+        definitionEn: The main subject studied by a college or university student.
+        definitionVi: Chuyên ngành chính
+        examples:
+          - en: My younger brother chose computer science as his major at university.
+            vi: Em trai tôi đã chọn khoa học máy tính làm chuyên ngành chính ở đại học.
+          - en: What is your major and why did you decide to study it?
+            vi: Chuyên ngành của bạn là gì và tại sao bạn quyết định học nó?
+  - lemma: minor
+    cefr: B1
+    ipaUs: /ˈmaɪnər/
+    senses:
+      - pos: NOUN
+        definitionEn: A secondary subject studied alongside a primary major.
+        definitionVi: Chuyên ngành phụ
+        examples:
+          - en: She decided to take a minor in Spanish to improve her language skills.
+            vi: Cô ấy quyết định học một chuyên ngành phụ tiếng Tây Ban Nha để cải thiện kỹ năng ngôn ngữ.
+          - en: Having a business minor helped him find a good corporate job easily.
+            vi: Có chuyên ngành phụ kinh doanh giúp anh ấy tìm việc làm công ty tốt dễ dàng.
+  - lemma: elective
+    cefr: B2
+    ipaUs: /ɪˈlektɪv/
+    senses:
+      - pos: NOUN
+        definitionEn: An optional course chosen by a student from a range of subjects.
+        definitionVi: Môn học tự chọn
+        examples:
+          - en: Photography is a popular elective that many students choose in spring.
+            vi: Nhiếp ảnh là một môn học tự chọn phổ biến mà nhiều sinh viên chọn vào mùa xuân.
+          - en: You need three more elective credits to complete your graduation requirements successfully.
+            vi: Bạn cần thêm ba tín chỉ tự chọn để hoàn thành thành công các yêu cầu tốt nghiệp.
+  - lemma: prerequisite
+    cefr: C1
+    ipaUs: /priːˈrkwɪzɪt/
+    senses:
+      - pos: NOUN
+        definitionEn: Something that must exist or happen before something else can happen.
+        definitionVi: Điều kiện tiên quyết
+        examples:
+          - en: Basic mathematics is a prerequisite for taking advanced physics classes this semester.
+            vi: Toán học cơ bản là điều kiện tiên quyết để tham gia các lớp vật lý nâng cao học kỳ này.
+          - en: Passing the language test is a strict prerequisite for studying abroad.
+            vi: Vượt qua bài kiểm tra ngôn ngữ là điều kiện tiên quyết nghiêm ngặt để đi du học.
+  - lemma: seminar
+    cefr: B2
+    ipaUs: /ˈsemɪnɑːr/
+    senses:
+      - pos: NOUN
+        definitionEn: A small class at a university for discussion and research.
+        definitionVi: Buổi hội thảo chuyên đề
+        examples:
+          - en: Professors led an interesting seminar about modern political trends yesterday afternoon.
+            vi: Các giáo sư đã dẫn dắt một buổi hội thảo thú vị về xu hướng chính trị hiện đại chiều qua.
+          - en: All students must attend the mandatory seminar on academic writing skills.
+            vi: Tất cả học sinh phải tham gia buổi hội thảo bắt buộc về kỹ năng viết học thuật.
+  - lemma: workshop
+    cefr: B1
+    ipaUs: /ˈwɜːrkʃɑːp/
+    senses:
+      - pos: NOUN
+        definitionEn: A meeting for discussion and practical work on a subject.
+        definitionVi: Buổi thực hành
+        examples:
+          - en: The school organized a creative writing workshop for aspiring young authors.
+            vi: Nhà trường đã tổ chức một buổi hội thảo viết sáng tạo cho các tác giả trẻ đầy tham vọng.
+          - en: She learned basic pottery skills during a weekend workshop in town.
+            vi: Cô ấy đã học các kỹ năng làm gốm cơ bản trong một buổi hội thảo cuối tuần ở thị trấn.
+  - lemma: tutorial
+    cefr: B2
+    ipaUs: /tuːˈtɔːriəl/
+    senses:
+      - pos: NOUN
+        definitionEn: A period of tuition given by a tutor to an individual or small group.
+        definitionVi: Buổi hướng dẫn riêng
+        examples:
+          - en: He booked an online tutorial to get help with difficult chemistry problems.
+            vi: Anh ấy đã đặt một buổi hướng dẫn trực tuyến để nhận sự giúp đỡ với các bài toán hóa học khó.
+          - en: The professor offered a helpful tutorial before the final exams started.
+            vi: Giáo sư đã cung cấp một buổi hướng dẫn hữu ích trước khi kỳ thi cuối kỳ bắt đầu.
+  - lemma: campus
+    cefr: A2
+    ipaUs: /ˈkæmpəs/
+    senses:
+      - pos: NOUN
+        definitionEn: The grounds and buildings of a university or college.
+        definitionVi: Khuôn viên trường
+        examples:
+          - en: The university campus is covered with green trees and beautiful flower gardens.
+            vi: Khuôn viên trường đại học được bao phủ bởi những hàng cây xanh và vườn hoa đẹp.
+          - en: Many students prefer living in dormitories located directly on the campus.
+            vi: Nhiều sinh viên thích sống trong các ký túc xá nằm ngay trong khuôn viên trường.
+  - lemma: auditorium
+    cefr: B2
+    ipaUs: /ˌɔːdɪˈtɔːriəm/
+    senses:
+      - pos: NOUN
+        definitionEn: A large building or room where people gather for a speech or performance.
+        definitionVi: Hội trường lớn
+        examples:
+          - en: The school orchestra played beautiful music inside the packed university auditorium.
+            vi: Dàn nhạc của trường đã chơi thứ âm nhạc tuyệt đẹp bên trong hội trường đại học chật kín người.
+          - en: Hundreds of students gathered in the main auditorium for the welcome speech.
+            vi: Hàng trăm sinh viên tập trung tại hội trường chính để nghe bài phát biểu chào mừng.
+  - lemma: laboratory
+    cefr: B2
+    ipaUs: /ˈlæbrəˌtɔːri/
+    senses:
+      - pos: NOUN
+        definitionEn: A room or building used for scientific research and experiments.
+        definitionVi: Phòng thí nghiệm
+        examples:
+          - en: Science students wore safety goggles while conducting chemical experiments in the laboratory.
+            vi: Sinh viên khoa học đeo kính bảo hộ khi thực hiện các thí nghiệm hóa học trong phòng thí nghiệm.
+          - en: The new research laboratory is equipped with modern computers and advanced instruments.
+            vi: Phòng thí nghiệm nghiên cứu mới được trang bị máy tính hiện đại và các dụng cụ tiên tiến.
+  - lemma: blackboard
+    cefr: A2
+    ipaUs: /ˈblækbɔːrd/
+    senses:
+      - pos: NOUN
+        definitionEn: A dark surface on a wall where teachers write with chalk.
+        definitionVi: Bảng đen
+        examples:
+          - en: The teacher wrote difficult grammar rules clearly on the old classroom blackboard.
+            vi: Giáo viên viết rõ các quy tắc ngữ pháp khó lên chiếc bảng đen cũ của lớp học.
+          - en: He stood up to clean the dusty blackboard before the lesson began.
+            vi: Anh ấy đứng dậy lau sạch chiếc bảng đen đầy bụi trước khi bài học bắt đầu.
+  - lemma: whiteboard
+    cefr: A2
+    ipaUs: /ˈwaɪtbɔːrd/
+    senses:
+      - pos: NOUN
+        definitionEn: A white smooth surface that teachers write on using special markers.
+        definitionVi: Bảng trắng
+        examples:
+          - en: She used colorful dry-erase markers to draw diagrams on the clean whiteboard.
+            vi: Cô ấy dùng bút lông xóa khô đầy màu sắc để vẽ sơ đồ lên bảng trắng sạch sẽ.
+          - en: The instructor wiped the whiteboard clean after finishing the math problem explanation.
+            vi: Giảng viên đã lau sạch bảng trắng sau khi giải thích xong bài toán.
+  - lemma: projector
+    cefr: B1
+    ipaUs: /prəˈdʒektər/
+    senses:
+      - pos: NOUN
+        definitionEn: A device that projects light to display images on a screen or wall.
+        definitionVi: Máy chiếu
+        examples:
+          - en: The teacher connected her laptop to the digital projector to show slides.
+            vi: Giáo viên đã kết nối máy tính xách tay của cô ấy với máy chiếu kỹ thuật số để trình chiếu slide.
+          - en: Please turn on the ceiling projector so everyone can see the presentation.
+            vi: Vui lòng bật máy chiếu trên trần nhà lên để mọi người có thể nhìn thấy bài thuyết trình.
+  - lemma: stationery
+    cefr: B1
+    ipaUs: /ˈsteɪʃəneri/
+    senses:
+      - pos: NOUN
+        definitionEn: Writing and office materials like paper, pens, and envelopes.
+        definitionVi: Văn phòng phẩm
+        examples:
+          - en: She bought new notebooks and pens at the local school stationery store.
+            vi: Cô ấy đã mua vở và bút mới tại cửa hàng văn phòng phẩm địa phương của trường.
+          - en: The office manager ordered high-quality paper and other essential stationery items yesterday.
+            vi: Quản lý văn phòng đã đặt mua giấy chất lượng cao và các mặt hàng văn phòng phẩm thiết yếu khác
+              hôm qua.
+  - lemma: eraser
+    cefr: A1
+    ipaUs: /ɪˈreɪsər/
+    senses:
+      - pos: NOUN
+        definitionEn: An object used to rub out marks made by pencil or chalk.
+        definitionVi: Cục tẩy
+        examples:
+          - en: He used a rubber eraser to correct mistakes in his math notebook.
+            vi: Anh ấy đã dùng cục tẩy cao su để sửa những lỗi sai trong vở toán của mình.
+          - en: Can you please pass me the blackboard eraser sitting on the desk?
+            vi: Bạn có thể làm ơn đưa cho tôi cục tẩy bảng đen đang đặt trên bàn không?
+  - lemma: backpack
+    cefr: A1
+    ipaUs: /ˈbækpæk/
+    senses:
+      - pos: NOUN
+        definitionEn: A bag carried on the back using two straps.
+        definitionVi: Ba lô
+        examples:
+          - en: Students carry heavy books inside a sturdy canvas backpack to school.
+            vi: Học sinh mang sách nặng bên trong một chiếc ba lô vải bền đến trường.
+          - en: He packed his laptop and clothes into a travel backpack for camping.
+            vi: Anh ấy xếp máy tính xách tay và quần áo vào ba lô du lịch để cắm trại.
+  - lemma: preschool
+    cefr: A2
+    ipaUs: /ˈpriːskuːl/
+    senses:
+      - pos: NOUN
+        definitionEn: A school for children too young for elementary school.
+        definitionVi: Trường mầm non
+        examples:
+          - en: My little daughter loves playing games with friends at her local preschool.
+            vi: Con gái nhỏ của tôi rất thích chơi trò chơi với các bạn ở trường mầm non địa phương.
+          - en: Teachers at the preschool focus on basic social skills and creative play.
+            vi: Các giáo viên ở trường mầm non tập trung vào kỹ năng xã hội cơ bản và trò chơi sáng tạo.
+  - lemma: academy
+    cefr: B1
+    ipaUs: /əˈkædəmi/
+    senses:
+      - pos: NOUN
+        definitionEn: A school or college for special training or education.
+        definitionVi: học viện
+        examples:
+          - en: She enrolled in a prestigious military academy last autumn.
+            vi: Cô ấy đã ghi danh vào một học viện quân sự uy tín vào mùa thu năm ngoái.
+          - en: The local art academy offers evening classes for adults.
+            vi: Học viện nghệ thuật địa phương cung cấp các lớp học buổi tối cho người lớn.
+  - lemma: institution
+    cefr: B2
+    ipaUs: /ˌɪnstɪˈtuʃən/
+    senses:
+      - pos: NOUN
+        definitionEn: An established organization or foundation dedicated to education or public service.
+        definitionVi: cơ quan / tổ chức giáo dục
+        examples:
+          - en: Higher education is a major financial institution in this city.
+            vi: Giáo dục đại học là một cơ quan tài chính lớn ở thành phố này.
+          - en: Every research institution must follow strict ethical guidelines.
+            vi: Mọi tổ chức nghiên cứu phải tuân theo các hướng dẫn đạo đức nghiêm ngặt.
+  - lemma: vocational
+    cefr: B2
+    ipaUs: /voʊˈkeɪʃənəl/
+    senses:
+      - pos: ADJECTIVE
+        definitionEn: Providing skills and training needed for a particular job or occupation.
+        definitionVi: thuộc về dạy nghề
+        examples:
+          - en: Students can choose vocational training instead of university degrees.
+            vi: Học sinh có thể chọn đào tạo nghề thay vì bằng đại học.
+          - en: The vocational school provides practical skills for young mechanics.
+            vi: Trường dạy nghề cung cấp các kỹ năng thực tế cho những thợ máy trẻ.
+  - lemma: rubric
+    cefr: C1
+    ipaUs: /ˈrubrɪk/
+    senses:
+      - pos: NOUN
+        definitionEn: A guide listing specific criteria and scoring rules for grading student work.
+        definitionVi: bảng tiêu chí chấm điểm
+        examples:
+          - en: Teachers use a detailed grading rubric to evaluate student essays.
+            vi: Giáo viên sử dụng bảng tiêu chí chấm điểm chi tiết để đánh giá bài luận của học sinh.
+          - en: Read the assignment rubric carefully before starting your project.
+            vi: Hãy đọc kỹ bảng tiêu chí của bài tập trước khi bắt đầu dự án của bạn.
+  - lemma: term
+    cefr: A2
+    ipaUs: /tɜrm/
+    senses:
+      - pos: NOUN
+        definitionEn: A fixed period of time during which an educational institution holds classes.
+        definitionVi: học kỳ
+        examples:
+          - en: Our school term ends just before the Christmas holidays.
+            vi: Học kỳ ở trường của chúng tôi kết thúc ngay trước kỳ nghỉ Giáng sinh.
+          - en: She plans to study abroad during the spring term.
+            vi: Cô ấy dự định đi du học trong học kỳ mùa xuân.
+  - lemma: recess
+    cefr: A2
+    ipaUs: /ˈrisɛs/
+    senses:
+      - pos: NOUN
+        definitionEn: A short period of time between classes when children can play outside.
+        definitionVi: giờ giải lao
+        examples:
+          - en: Children run and play games outside during school recess.
+            vi: Trẻ em chạy nhảy và chơi trò chơi bên ngoài trong giờ giải lao ở trường.
+          - en: The teacher called the students inside after morning recess.
+            vi: Giáo viên gọi học sinh vào trong nhà sau giờ giải lao buổi sáng.
+  - lemma: bullying
+    cefr: B1
+    ipaUs: /ˈbʊliɪŋ/
+    senses:
+      - pos: NOUN
+        definitionEn: The behavior of someone who hurts or frightens weaker students repeatedly.
+        definitionVi: nạn bắt nạt học đường
+        examples:
+          - en: Schools must implement strict policies to stop campus bullying.
+            vi: Các trường học phải thực hiện các chính sách nghiêm ngặt để ngăn chặn nạn bắt nạt học đường.
+          - en: Psychological bullying can severely harm a student's mental health.
+            vi: Nạn bắt nạt tâm lý có thể làm tổn hại nghiêm trọng đến sức khỏe tinh thần của học sinh.
+  - lemma: detention
+    cefr: B2
+    ipaUs: /dɪˈtɛnʃən/
+    senses:
+      - pos: NOUN
+        definitionEn: A punishment where students must stay at school after normal hours.
+        definitionVi: hình phạt ở lại trường
+        examples:
+          - en: He received an after-school detention for disrupting the math class.
+            vi: Cậu ấy nhận hình phạt ở lại trường vì làm mất trật tự trong lớp toán.
+          - en: Several students served detention on Friday afternoon for talking.
+            vi: Một số học sinh phải chịu phạt ở lại trường vào chiều thứ Sáu vì nói chuyện.
+  - lemma: suspension
+    cefr: B2
+    ipaUs: /səˈspɛnʃən/
+    senses:
+      - pos: NOUN
+        definitionEn: A temporary exclusion of a student from school as a disciplinary punishment.
+        definitionVi: quyết định đình chỉ học
+        examples:
+          - en: Fighting on campus often results in a temporary student suspension.
+            vi: Đánh nhau trong khuôn viên trường thường dẫn đến việc đình chỉ học tạm thời.
+          - en: The school board reviewed the policy regarding student suspension.
+            vi: Hội đồng trường đã xem xét chính sách liên quan đến việc đình chỉ học của học sinh.
+  - lemma: chalkboard
+    cefr: A2
+    ipaUs: /ˈtʃɔkˌbɔrd/
+    senses:
+      - pos: NOUN
+        definitionEn: A dark vertical board mounted on a wall for writing on with chalk.
+        definitionVi: bảng đen
+        examples:
+          - en: The teacher wrote important grammar rules on the chalkboard.
+            vi: Giáo viên đã viết các quy tắc ngữ pháp quan trọng lên bảng đen.
+          - en: Please clean the dusty chalkboard before the next lesson starts.
+            vi: Hãy lau sạch chiếc bảng đen đầy bụi trước khi bài học tiếp theo bắt đầu.
+  - lemma: dean
+    cefr: C1
+    ipaUs: /din/
+    senses:
+      - pos: NOUN
+        definitionEn: An official in charge of a department or faculty in a university.
+        definitionVi: trưởng khoa / chủ nhiệm khoa
+        examples:
+          - en: The faculty dean signed approval for my thesis proposal.
+            vi: Trưởng khoa đã ký phê duyệt đề xuất luận văn của tôi.
+          - en: Students can schedule a meeting with the dean on Tuesdays.
+            vi: Sinh viên có thể sắp xếp một cuộc họp với trưởng khoa vào các ngày thứ Ba.
+  - lemma: instruction
+    cefr: B1
+    ipaUs: /ɪnˈstrʌkʃən/
+    senses:
+      - pos: NOUN
+        definitionEn: The act of teaching or providing knowledge and educational guidance.
+        definitionVi: sự giảng dạy / hướng dẫn
+        examples:
+          - en: Clear classroom instruction helps students understand difficult concepts easily.
+            vi: Sự hướng dẫn rõ ràng trên lớp giúp học sinh hiểu các khái niệm khó một cách dễ dàng.
+          - en: Music instruction is an important part of primary education.
+            vi: Sự hướng dẫn âm nhạc là một phần quan trọng trong giáo dục tiểu học.
+  - lemma: educator
+    cefr: B2
+    ipaUs: /ˈɛdʒəˌkeɪtər/
+    senses:
+      - pos: NOUN
+        definitionEn: A person who provides instruction or works professionally in education.
+        definitionVi: nhà giáo dục
+        examples:
+          - en: Every dedicated educator strives to inspire their young students.
+            vi: Mỗi nhà giáo dục tận tâm đều phấn đấu để truyền cảm hứng cho học sinh trẻ tuổi.
+          - en: The conference gathered every prominent educator from the nation.
+            vi: Hội nghị đã quy tụ mọi nhà giáo dục nổi tiếng từ khắp cả nước.
+  - lemma: schooling
+    cefr: B1
+    ipaUs: /ˈskulɪŋ/
+    senses:
+      - pos: NOUN
+        definitionEn: The education received at a school.
+        definitionVi: việc học tập ở trường
+        examples:
+          - en: Compulsory schooling begins at age six in this country.
+            vi: Việc học tập bắt buộc bắt đầu từ sáu tuổi ở đất nước này.
+          - en: Her parents paid for private schooling throughout her childhood.
+            vi: Cha mẹ cô ấy đã trả tiền cho việc học trường tư trong suốt thời thơ ấu của cô.
+  - lemma: placement
+    cefr: B2
+    ipaUs: /ˈpleɪsmənt/
+    senses:
+      - pos: NOUN
+        definitionEn: An arrangement for a student to gain practical work experience.
+        definitionVi: việc bố trí thực tập / xếp lớp
+        examples:
+          - en: University career services helped him secure a summer job placement.
+            vi: Dịch vụ hướng nghiệp của trường đại học đã giúp anh ấy đảm bảo một vị trí thực tập mùa hè.
+          - en: Proper student placement ensures classes match their academic levels.
+            vi: Việc xếp lớp học sinh phù hợp đảm bảo các lớp học khớp với trình độ học tập của họ.
+  - lemma: internship
+    cefr: B1
+    ipaUs: /ˈɪntərnˌʃɪp/
+    senses:
+      - pos: NOUN
+        definitionEn: A period of work experience offered by an organization for students.
+        definitionVi: kỳ thực tập
+        examples:
+          - en: She completed a valuable digital marketing internship last summer.
+            vi: Cô ấy đã hoàn thành một kỳ thực tập tiếp thị kỹ thuật số quý giá vào mùa hè năm ngoái.
+          - en: Securing a good corporate internship boosts your graduate employment prospects.
+            vi: Việc giành được một kỳ thực tập doanh nghiệp tốt sẽ thúc đẩy triển vọng việc làm sau tốt nghiệp.
+  - lemma: nursery
+    cefr: A2
+    ipaUs: /ˈnɜrsəri/
+    senses:
+      - pos: NOUN
+        definitionEn: A school for children who are too young for kindergarten.
+        definitionVi: nhà trẻ
+        examples:
+          - en: Working parents send their toddlers to a local nursery daily.
+            vi: Các bậc cha mẹ đi làm gửi trẻ em tập đi của họ đến nhà trẻ địa phương hàng ngày.
+          - en: The bright nursery features many toys and colorful wall paintings.
+            vi: Nhà trẻ sáng sủa có nhiều đồ chơi và các bức tranh tường đầy màu sắc.
+  - lemma: homeschooling
+    cefr: B2
+    ipaUs: /ˈhoʊmˌskulɪŋ/
+    senses:
+      - pos: NOUN
+        definitionEn: Educating children at home instead of sending them to a formal school.
+        definitionVi: việc dạy học tại nhà
+        examples:
+          - en: More families are choosing homeschooling for greater curriculum flexibility.
+            vi: Nhiều gia đình đang chọn việc dạy học tại nhà để có sự linh hoạt lớn hơn về chương trình học.
+          - en: Successful homeschooling requires careful daily planning and parent dedication.
+            vi: Việc dạy học tại nhà thành công đòi hỏi sự lên kế hoạch hàng ngày cẩn thận và sự tận tụy của phụ
+              huynh.
+  - lemma: portfolio
+    cefr: B2
+    ipaUs: /pɔrˈfoʊliˌoʊ/
+    senses:
+      - pos: NOUN
+        definitionEn: A collection of a student's work representing their skills and achievements.
+        definitionVi: hồ sơ năng lực
+        examples:
+          - en: Art students must present a creative portfolio during university interviews.
+            vi: Sinh viên mỹ thuật phải trình bày một hồ sơ năng lực sáng tạo trong các cuộc phỏng vấn đại học.
+          - en: Keep your professional teaching portfolio updated for future job applications.
+            vi: Hãy giữ cho hồ sơ năng lực giảng dạy chuyên nghiệp của bạn được cập nhật cho các đơn xin việc
+              tương lai.
+  - lemma: credential
+    cefr: C1
+    ipaUs: /krɪˈdɛnʃəl/
+    senses:
+      - pos: NOUN
+        definitionEn: A qualification or document proving someone is suitable for a job.
+        definitionVi: chứng chỉ / văn bằng
+        examples:
+          - en: Teachers need a valid state credential to work legally.
+            vi: Giáo viên cần có một chứng chỉ tiểu bang hợp lệ để làm việc hợp pháp.
+          - en: A valid state credential is required to teach here.
+            vi: Một chứng chỉ tiểu bang hợp lệ là bắt buộc để giảng dạy ở đây.
+  - lemma: degree
+    cefr: B1
+    ipaUs: /dɪˈɡriː/
+    senses:
+      - pos: NOUN
+        definitionEn: An official qualification awarded by a university after completing a course of study.
+        definitionVi: Bằng cấp
+        examples:
+          - en: She is studying hard to earn a degree in computer science.
+            vi: Cô ấy đang học tập chăm chỉ để lấy bằng cấp về khoa học máy tính.
+          - en: He proudly displayed his university degree on the office wall.
+            vi: Anh ấy tự hào trưng bày bằng cấp đại học trên tường văn phòng.
+  - lemma: diploma
+    cefr: B1
+    ipaUs: /dɪˈploʊ.mə/
+    senses:
+      - pos: NOUN
+        definitionEn: A certificate awarded by an educational institution for completing a specific course.
+        definitionVi: Chứng chỉ
+        examples:
+          - en: She received a diploma in graphic design after one year.
+            vi: Cô ấy nhận được chứng chỉ thiết kế đồ họa sau một năm.
+          - en: He earned a nursing diploma from the local community college.
+            vi: Anh ấy đã đạt được chứng chỉ điều dưỡng từ trường cao đẳng cộng đồng địa phương.
+  - lemma: bachelor
+    cefr: B2
+    ipaUs: /ˈbætʃ.əl.ɚ/
+    senses:
+      - pos: NOUN
+        definitionEn: Someone who has a first university degree.
+        definitionVi: Cử nhân
+        examples:
+          - en: A bachelor degree takes usually four years at this university.
+            vi: Bằng cử nhân thường mất bốn năm tại trường đại học này.
+          - en: She worked hard to become a qualified bachelor of arts.
+            vi: Cô ấy đã làm việc chăm chỉ để trở thành một cử nhân nghệ thuật đủ tiêu chuẩn.
+  - lemma: master
+    cefr: B2
+    ipaUs: /ˈmæs.tɚ/
+    senses:
+      - pos: NOUN
+        definitionEn: An advanced university degree or a person holding it.
+        definitionVi: Thạc sĩ
+        examples:
+          - en: He plans to pursue a master degree in business administration.
+            vi: Anh ấy dự định theo đuổi bằng thạc sĩ quản trị kinh doanh.
+          - en: She achieved her master degree in linguistics last summer.
+            vi: Cô ấy đã đạt được bằng thạc sĩ ngôn ngữ học vào mùa hè năm ngoái.
+  - lemma: learning
+    cefr: A2
+    ipaUs: /ˈlɝː.nɪŋ/
+    senses:
+      - pos: NOUN
+        definitionEn: The activity of obtaining knowledge or skills.
+        definitionVi: Sự học tập
+        examples:
+          - en: Online learning provides flexibility for students with busy working schedules.
+            vi: Việc học trực tuyến mang lại sự linh hoạt cho học sinh có lịch làm việc bận rộn.
+          - en: Continuous learning is essential for career growth in modern society.
+            vi: Việc học tập liên tục là rất cần thiết cho sự phát triển nghề nghiệp trong xã hội hiện đại.
+  - lemma: pedagogy
+    cefr: C1
+    ipaUs: /ˈped.ə.ɡɑː.dʒi/
+    senses:
+      - pos: NOUN
+        definitionEn: The method and practice of teaching.
+        definitionVi: Sư phạm
+        examples:
+          - en: Modern pedagogy emphasizes student participation rather than just passive listening.
+            vi: Sư phạm hiện đại nhấn mạnh sự tham gia của học sinh thay vì chỉ nghe thụ động.
+          - en: The university offers an advanced course in language teaching pedagogy.
+            vi: Trường đại học cung cấp một khóa học nâng cao về sư phạm dạy ngôn ngữ.
+  - lemma: evaluation
+    cefr: B2
+    ipaUs: /ɪˌvæl.juˈeɪ.ʃən/
+    senses:
+      - pos: NOUN
+        definitionEn: The act of judging or calculating the quality or importance of something.
+        definitionVi: Sự đánh giá
+        examples:
+          - en: Teacher evaluation helps improve the quality of classroom instruction.
+            vi: Sự đánh giá của giáo viên giúp cải thiện chất lượng giảng dạy trên lớp.
+          - en: The final course evaluation showed high satisfaction rates among students.
+            vi: Đánh giá khóa học cuối cùng cho thấy tỷ lệ hài lòng cao ở học sinh.
+  - lemma: training
+    cefr: A2
+    ipaUs: /ˈtreɪ.nɪŋ/
+    senses:
+      - pos: NOUN
+        definitionEn: The process of learning the skills you need for a particular job.
+        definitionVi: Sự đào tạo
+        examples:
+          - en: The company provides professional training for all newly hired employees.
+            vi: Công ty cung cấp đào tạo chuyên nghiệp cho tất cả nhân viên mới được tuyển dụng.
+          - en: Technical training is a crucial requirement for this engineering position.
+            vi: Đào tạo kỹ thuật là một yêu cầu quan trọng đối với vị trí kỹ sư này.
+  - lemma: question
+    cefr: A1
+    ipaUs: /ˈkwes.tʃən/
+    senses:
+      - pos: NOUN
+        definitionEn: A sentence or phrase used to find out information.
+        definitionVi: Câu hỏi
+        examples:
+          - en: The teacher asked a difficult question about American history.
+            vi: Giáo viên đã đặt ra một câu hỏi khó về lịch sử nước Mỹ.
+          - en: Please raise your hand if you have a question.
+            vi: Vui lòng giơ tay lên nếu bạn có câu hỏi.
+  - lemma: answer
+    cefr: A1
+    ipaUs: /ˈæn.sɚ/
+    senses:
+      - pos: NOUN
+        definitionEn: A reaction to a question, letter, or phone call.
+        definitionVi: Câu trả lời
+        examples:
+          - en: She gave a brilliant answer during the final oral examination.
+            vi: Cô ấy đã đưa ra một câu trả lời xuất sắc trong kỳ thi vấn đáp cuối kỳ.
+          - en: He could not find the right answer to the math problem.
+            vi: Anh ấy không thể tìm thấy câu trả lời đúng cho bài toán.
+  - lemma: skill
+    cefr: A2
+    ipaUs: /skɪl/
+    senses:
+      - pos: NOUN
+        definitionEn: An ability to do something well, usually gained through training or experience.
+        definitionVi: Kỹ năng
+        examples:
+          - en: Communication skill is crucial for success in any modern workplace.
+            vi: Kỹ năng giao tiếp rất quan trọng để thành công trong bất kỳ nơi làm việc hiện đại nào.
+          - en: Every single skill requires patience and consistent practice to master.
+            vi: Mỗi kỹ năng đều đòi hỏi sự kiên nhẫn và luyện tập kiên trì để làm chủ.

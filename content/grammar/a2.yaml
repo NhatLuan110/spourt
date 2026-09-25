@@ -1,0 +1,1160 @@
+# Ngữ pháp A2 — thì quá khứ, so sánh, và danh từ đếm được.
+cefr: A2
+lessons:
+  - slug: past-simple
+    title: Past Simple
+    titleVi: Thì quá khứ đơn
+    summary: Kể một việc đã xong. Tiếng Việt dùng "đã", tiếng Anh đổi hình động từ.
+    estimatedMinutes: 14
+    xpReward: 25
+    order: 1
+    prerequisites: [present-simple]
+    sections:
+      - kind: theory
+        title: Động từ đổi hình, không thêm từ
+        body: |
+          Tiếng Việt đánh dấu quá khứ bằng một từ rời: "tôi **đã** ăn". Tiếng Anh đổi
+          chính động từ: `eat → ate`. Không có từ "đã" nào để thêm vào.
+
+          **Động từ có quy tắc** thêm **-ed**:
+
+          - `work → worked`, `play → played`
+          - tận cùng `-e`: chỉ thêm `-d` — `live → lived`
+          - phụ âm + `-y`: đổi thành `-ied` — `study → studied`
+          - một âm tiết, nguyên âm ngắn + một phụ âm: gấp đôi phụ âm — `stop → stopped`
+
+          **Động từ bất quy tắc** phải học thuộc: `go → went`, `see → saw`,
+          `buy → bought`, `take → took`, `come → came`, `have → had`.
+
+          Phủ định và nghi vấn mượn **did**, và động từ chính **quay về nguyên thể**:
+
+          - I **did not go** to work yesterday. *(không phải did not went)*
+          - **Did** you **see** her?
+      - kind: examples
+        title: Ví dụ
+        body: |
+          - We **visited** Ha Long Bay last summer.
+            *Chúng tôi đã đi vịnh Hạ Long hè năm ngoái.*
+          - She **didn't finish** her homework.
+            *Cô ấy chưa làm xong bài tập.*
+          - **Did** they **arrive** on time?
+            *Họ có đến đúng giờ không?*
+          - The film **started** at eight and **ended** at ten.
+            *Bộ phim bắt đầu lúc tám giờ và kết thúc lúc mười giờ.*
+      - kind: tips
+        title: Cách phát âm đuôi -ed
+        body: |
+          Đuôi `-ed` có **ba** cách đọc, và đọc sai là dấu hiệu rõ nhất của người mới học:
+
+          | Âm cuối của động từ | Đọc -ed là | Ví dụ |
+          |---|---|---|
+          | /t/ hoặc /d/ | **/ɪd/** — thêm một âm tiết | wanted, needed |
+          | âm vô thanh (p, k, f, s, ʃ, tʃ) | **/t/** | stopped, worked, watched |
+          | còn lại (hữu thanh và nguyên âm) | **/d/** | played, lived, opened |
+
+          `worked` là **một** âm tiết, đọc /wɜːkt/ — không phải "wor-ked".
+      - kind: common-mistakes
+        title: Lỗi người Việt hay mắc
+        body: |
+          | Sai | Đúng | Vì sao |
+          |---|---|---|
+          | Yesterday I go to school. | Yesterday I **went** to school. | Trạng từ quá khứ không thay được việc chia động từ |
+          | I didn't went there. | I didn't **go** there. | Sau did là động từ nguyên thể |
+          | Did you saw him? | Did you **see** him? | Câu hỏi cũng vậy |
+          | She was work all day. | She **worked** all day. | Không ghép was với động từ thường |
+    exercises:
+      - type: MCQ
+        prompt: "We ____ to Da Lat by bus last weekend."
+        promptVi: Chọn dạng đúng.
+        options: [went, goed, did go, was go]
+        answer: went
+        explanationVi: "go là động từ bất quy tắc, quá khứ là went. Không có dạng goed."
+      - type: MCQ
+        prompt: "She ____ her keys at the office."
+        promptVi: Chọn dạng đúng.
+        options: [left, leaved, leave, was leave]
+        answer: left
+        explanationVi: "leave là động từ bất quy tắc: leave - left - left."
+      - type: GAP_FILL
+        prompt: "I ____ (not / know) the answer, so I asked my teacher."
+        promptVi: Điền dạng phủ định quá khứ.
+        answer: did not know
+        accept: ["did not know", "didn't know"]
+        explanationVi: "Phủ định quá khứ là did not + nguyên thể. Chữ quá khứ nằm ở did
+          nên know giữ nguyên."
+      - type: GAP_FILL
+        prompt: "They ____ (study) all night before the exam."
+        promptVi: Điền dạng đúng.
+        answer: studied
+        accept: [studied]
+        explanationVi: "Phụ âm + -y đổi thành -ied: study → studied."
+      - type: TRUE_FALSE
+        prompt: Câu sau đúng ngữ pháp hay sai?
+        statement: Did she called you yesterday?
+        answer: false
+        explanationVi: "Sai. Sau Did, động từ phải ở nguyên thể: Did she call you
+          yesterday?"
+      - type: REORDER
+        prompt: Sắp xếp thành một câu đúng.
+        chunks: ["My parents", "bought", "a new house", "two years ago"]
+        explanationVi: "Trật tự chuẩn là chủ ngữ - động từ - tân ngữ - trạng ngữ thời
+          gian: My parents bought a new house two years ago."
+      - type: SHORT_ANSWER
+        prompt: "Chuyển sang phủ định: \"He watched the match last night.\""
+        accept: ["He did not watch the match last night", "He didn't watch the match last night"]
+        explanationVi: "Bỏ -ed ở watched và thêm did not: He didn't watch the match
+          last night."
+      - type: MCQ
+        prompt: My sister ______ a delicious cake for my birthday last Sunday.
+        promptVi: Chọn dạng đúng của động từ.
+        options:
+          - made
+          - make
+          - maked
+          - was make
+        answer: made
+        explanationVi: '"make" là động từ bất quy tắc, dạng quá khứ của nó là "made".'
+      - type: MCQ
+        prompt: Where ______ you go on holiday last summer?
+        promptVi: Chọn từ thích hợp để hoàn thành câu hỏi.
+        options:
+          - do
+          - were
+          - was
+          - did
+        answer: did
+        explanationVi: Trong câu hỏi quá khứ đơn với động từ thường (go), ta mượn trợ động từ "did" đặt trước chủ ngữ.
+      - type: MCQ
+        prompt: The train ______ at 9 PM yesterday.
+        promptVi: Chọn dạng đúng của động từ.
+        options:
+          - stops
+          - was stop
+          - stopped
+          - stoped
+        answer: stopped
+        explanationVi: Động từ "stop" kết thúc bằng một nguyên âm ngắn và một phụ âm, ta gấp đôi phụ âm cuối
+          trước khi thêm "-ed" thành "stopped".
+      - type: MCQ
+        prompt: I ______ my homework before going to bed last night.
+        promptVi: Chọn dạng đúng của động từ.
+        options:
+          - was finish
+          - finished
+          - finish
+          - finishing
+        answer: finished
+        explanationVi: '"finish" là động từ có quy tắc, ta thêm đuôi "-ed" để chuyển sang thì quá khứ đơn.'
+      - type: MCQ
+        prompt: They ______ any milk at the supermarket yesterday morning.
+        promptVi: Chọn dạng phủ định đúng.
+        options:
+          - didn't buy
+          - didn't bought
+          - not bought
+          - don't buy
+        answer: didn't buy
+        explanationVi: Trong câu phủ định quá khứ đơn, ta dùng "didn't" + động từ nguyên thể (buy).
+      - type: MCQ
+        prompt: He ______ to the radio while cleaning his room.
+        promptVi: Chọn dạng đúng của động từ.
+        options:
+          - listen
+          - listeneds
+          - was listen
+          - listened
+        answer: listened
+        explanationVi: '"listen" là động từ có quy tắc, ta thêm "-ed" thành "listened" để diễn tả hành động
+          đã xảy ra trong quá khứ.'
+      - type: MCQ
+        prompt: Why ______ you late for the meeting yesterday morning?
+        promptVi: Chọn từ thích hợp điền vào chỗ trống.
+        options:
+          - was
+          - are
+          - were
+          - did
+        answer: were
+        explanationVi: Với chủ ngữ "you" và tính từ "late", ta dùng động từ to be ở quá khứ là "were". Không
+          dùng "did" vì không có động từ thường.
+      - type: MCQ
+        prompt: We ______ a loud noise outside our house last night.
+        promptVi: Chọn dạng đúng của động từ.
+        options:
+          - did heard
+          - heard
+          - heared
+          - hear
+        answer: heard
+        explanationVi: '"hear" là động từ bất quy tắc, dạng quá khứ của nó là "heard".'
+      - type: MCQ
+        prompt: She ______ her dog for a walk in the park two hours ago.
+        promptVi: Chọn dạng đúng của động từ.
+        options:
+          - took
+          - take
+          - taked
+          - was take
+        answer: took
+        explanationVi: '"take" là động từ bất quy tắc, quá khứ của nó là "took".'
+      - type: MCQ
+        prompt: Did you ______ the email I sent you yesterday?
+        promptVi: Chọn dạng đúng của động từ.
+        options:
+          - received
+          - receives
+          - receiving
+          - receive
+        answer: receive
+        explanationVi: Trong câu hỏi quá khứ đơn đã có trợ động từ "Did", động từ chính phải ở dạng nguyên
+          thể không chia (receive).
+      - type: GAP_FILL
+        prompt: We ______ (try) to open the window, but it was stuck.
+        promptVi: Chia động từ "try" ở thì quá khứ đơn.
+        answer: tried
+        accept:
+          - tried
+        explanationVi: Động từ "try" kết thúc bằng phụ âm + "y", ta đổi "y" thành "i" rồi thêm "ed" thành "tried".
+      - type: GAP_FILL
+        prompt: He ______ (not / write) any letters to his family last month.
+        promptVi: Điền dạng phủ định quá khứ đơn của động từ "write".
+        answer: did not write
+        accept:
+          - did not write
+          - didn't write
+        explanationVi: Phủ định quá khứ đơn của động từ thường là "did not" (hoặc "didn't") cộng động từ nguyên thể.
+      - type: GAP_FILL
+        prompt: They ______ (sell) their old car last week.
+        promptVi: Chia động từ "sell" ở thì quá khứ đơn.
+        answer: sold
+        accept:
+          - sold
+        explanationVi: '"sell" là động từ bất quy tắc, quá khứ của nó là "sold".'
+      - type: GAP_FILL
+        prompt: ______ (you / see) the beautiful sunset yesterday evening?
+        promptVi: Điền dạng câu hỏi quá khứ đơn cho chủ ngữ "you" và động từ "see".
+        answer: Did you see
+        accept:
+          - Did you see
+        explanationVi: Câu hỏi quá khứ đơn mượn trợ động từ "Did" đặt trước chủ ngữ, động từ chính "see" giữ nguyên thể.
+      - type: GAP_FILL
+        prompt: She ______ (cry) when she heard the sad news.
+        promptVi: Chia động từ "cry" ở thì quá khứ đơn.
+        answer: cried
+        accept:
+          - cried
+        explanationVi: Động từ "cry" kết thúc bằng phụ âm + "y", ta đổi "y" thành "i" rồi thêm "ed" thành "cried".
+      - type: GAP_FILL
+        prompt: I ______ (lose) my wallet on the bus this morning.
+        promptVi: Chia động từ "lose" ở thì quá khứ đơn.
+        answer: lost
+        accept:
+          - lost
+        explanationVi: '"lose" là động từ bất quy tắc, dạng quá khứ của nó là "lost".'
+      - type: TRUE_FALSE
+        prompt: Câu sau có đúng ngữ pháp không?
+        statement: I didn't liked the movie we watched yesterday.
+        answer: false
+        explanationVi: Sai. Sau "didn't" phải dùng động từ nguyên thể "like", không dùng dạng quá khứ "liked".
+        promptVi: Câu sau có đúng ngữ pháp không?
+      - type: TRUE_FALSE
+        prompt: Câu sau có đúng ngữ pháp không?
+        statement: They visited their grandparents last weekend.
+        answer: true
+        explanationVi: Đúng. "visit" là động từ có quy tắc, thêm "-ed" thành "visited" để diễn tả hành động
+          trong quá khứ.
+        promptVi: Câu sau có đúng ngữ pháp không?
+      - type: REORDER
+        prompt: Sắp xếp thành câu bắt đầu bằng "She" và kết thúc bằng "yesterday morning".
+        chunks:
+          - She
+          - did not
+          - go to school
+          - yesterday morning
+        explanationVi: "Trật tự câu phủ định quá khứ đơn: Chủ ngữ (She) + trợ động từ phủ định (did not) +
+          động từ nguyên thể (go to school) + trạng ngữ thời gian (yesterday morning)."
+      - type: REORDER
+        prompt: Sắp xếp thành câu bắt đầu bằng "Did" và kết thúc bằng "in the kitchen?".
+        chunks:
+          - Did
+          - you
+          - find
+          - your keys
+          - in the kitchen?
+        explanationVi: "Cấu trúc câu hỏi Yes/No ở quá khứ đơn: Did + chủ ngữ (you) + động từ nguyên thể
+          (find) + tân ngữ (your keys) + trạng ngữ chỉ nơi chốn (in the kitchen?)."
+
+  - slug: comparatives-superlatives
+    title: Comparatives and Superlatives
+    titleVi: So sánh hơn và so sánh nhất
+    summary: -er hay more? Và vì sao "more better" luôn sai.
+    estimatedMinutes: 12
+    xpReward: 25
+    order: 2
+    prerequisites: []
+    sections:
+      - kind: theory
+        title: Đếm âm tiết trước, rồi chọn
+        body: |
+          | Số âm tiết | So sánh hơn | So sánh nhất |
+          |---|---|---|
+          | 1 âm tiết | + **-er** — cheaper | **the** + **-est** — the cheapest |
+          | 2 âm tiết, tận cùng -y | -y → **-ier** — happier | the happiest |
+          | 2 âm tiết khác, và 3+ | **more** + tính từ — more careful | **the most** + tính từ |
+
+          Sau so sánh hơn dùng **than**; so sánh nhất luôn có **the**:
+
+          - Hanoi is **cheaper than** Singapore.
+          - This is **the most expensive** phone in the shop.
+
+          **Bất quy tắc** — phải thuộc:
+
+          | | hơn | nhất |
+          |---|---|---|
+          | good | better | the best |
+          | bad | worse | the worst |
+          | far | further / farther | the furthest |
+          | little | less | the least |
+          | many / much | more | the most |
+      - kind: examples
+        title: Ví dụ
+        body: |
+          - My new laptop is **lighter than** the old one.
+            *Máy tính mới của tôi nhẹ hơn cái cũ.*
+          - Traffic is **worse** in the evening.
+            *Giao thông buổi tối tệ hơn.*
+          - She is **the most hard-working** student in her class.
+            *Cô ấy là học sinh chăm chỉ nhất lớp.*
+          - This road is **not as busy as** Le Duan street.
+            *Con đường này không đông bằng phố Lê Duẩn.*
+      - kind: tips
+        title: So sánh bằng và cách nhấn mạnh
+        body: |
+          - Bằng nhau: **as** + tính từ + **as** — It is **as hot as** yesterday.
+          - Không bằng: **not as** + tính từ + **as**
+          - Nhấn mạnh mức chênh: **much / far / a lot** + so sánh hơn —
+            It is **much cheaper**. Đừng dùng `very` với so sánh hơn.
+      - kind: common-mistakes
+        title: Lỗi người Việt hay mắc
+        body: |
+          | Sai | Đúng | Vì sao |
+          |---|---|---|
+          | more better | **better** | better đã là so sánh hơn, không chồng more |
+          | more cheaper | **cheaper** | Một âm tiết chỉ dùng -er |
+          | She is taller than me is. | She is taller than **me**. | Sau than không lặp lại động từ |
+          | the most tallest | **the tallest** | Không chồng most lên -est |
+          | very cheaper | **much cheaper** | very không đi với so sánh hơn |
+    exercises:
+      - type: MCQ
+        prompt: "This bag is ____ than that one."
+        promptVi: Chọn dạng đúng.
+        options: [more expensive, expensiver, most expensive, more expensiver]
+        answer: more expensive
+        explanationVi: "expensive có ba âm tiết nên dùng more, không thêm -er."
+      - type: MCQ
+        prompt: "Today is ____ day of the year."
+        promptVi: Chọn dạng đúng.
+        options: [the hottest, the most hot, hotter, the hotter]
+        answer: the hottest
+        explanationVi: "hot một âm tiết, nguyên âm ngắn nên gấp đôi t: the hottest."
+      - type: GAP_FILL
+        prompt: "My English is ____ (good) than it was last year."
+        promptVi: Điền dạng so sánh hơn.
+        answer: better
+        accept: [better]
+        explanationVi: "good là bất quy tắc: good - better - the best. Không viết
+          more good hay gooder."
+      - type: GAP_FILL
+        prompt: "She speaks English ____ ____ ____ her brother. (bằng nhau)"
+        promptVi: "Điền ba từ để diễn tả sự bằng nhau."
+        answer: as well as
+        accept: ["as well as"]
+        explanationVi: "So sánh bằng với trạng từ: as well as. Dùng well vì bổ nghĩa
+          cho động từ speaks, không phải good."
+      - type: TRUE_FALSE
+        prompt: Câu sau đúng ngữ pháp hay sai?
+        statement: This test was more easier than the last one.
+        answer: false
+        explanationVi: "Sai. easy có hai âm tiết tận cùng -y nên chỉ dùng easier,
+          không kèm more."
+      - type: REORDER
+        prompt: Sắp xếp thành một câu đúng.
+        chunks: ["Living in the countryside", "is", "much cheaper", "than", "living in the city"]
+        explanationVi: "much đứng trước so sánh hơn để nhấn mạnh mức chênh lệch."
+      - type: SHORT_ANSWER
+        prompt: "Sửa câu sai: \"He is the most tallest boy in the class.\""
+        accept: ["He is the tallest boy in the class"]
+        explanationVi: "tall một âm tiết nên so sánh nhất là the tallest, không thêm most."
+      - type: MCQ
+        prompt: My new office is ________ than my old one.
+        promptVi: Chọn dạng đúng để hoàn thành câu.
+        options:
+          - far noisier
+          - far noisy
+          - far more noisier
+          - very noisier
+        answer: far noisier
+        explanationVi: Noisy kết thúc bằng -y nên chuyển thành noisier. Ta dùng 'far' để nhấn mạnh so sánh
+          hơn, không dùng 'very' hay 'more noisier'.
+      - type: MCQ
+        prompt: This is ________ film I have ever watched.
+        promptVi: Chọn dạng đúng để hoàn thành câu.
+        options:
+          - the worst
+          - the worse
+          - most bad
+          - the baddest
+        answer: the worst
+        explanationVi: Tính từ 'bad' có dạng so sánh nhất bất quy tắc là 'the worst'.
+      - type: MCQ
+        prompt: The climate in Spain is ________ than the climate in Northern Europe.
+        promptVi: Chọn dạng đúng để hoàn thành câu.
+        options:
+          - very warmer
+          - warmest
+          - much warmer
+          - more warmer
+        answer: much warmer
+        explanationVi: Warm là tính từ ngắn nên dùng 'warmer'. Để nhấn mạnh mức độ chênh lệch, ta dùng
+          'much' trước so sánh hơn.
+      - type: MCQ
+        prompt: Planes are ________ than trains, but they are also more expensive.
+        promptVi: Chọn dạng đúng để hoàn thành câu.
+        options:
+          - more faster
+          - fastest
+          - faster
+          - more fast
+        answer: faster
+        explanationVi: Fast là tính từ một âm tiết, dạng so sánh hơn của nó là 'faster' và không đi kèm 'more'.
+      - type: MCQ
+        prompt: Which of these three options is ________ expensive?
+        promptVi: Chọn dạng đúng để hoàn thành câu.
+        options:
+          - the least
+          - less
+          - the lesser
+          - the leastest
+        answer: the least
+        explanationVi: Khi so sánh giữa ba lựa chọn (three options), ta phải dùng so sánh nhất. 'The least'
+          nghĩa là ít nhất.
+      - type: MCQ
+        prompt: Her voice is ________ than her sister's.
+        promptVi: Chọn dạng đúng để hoàn thành câu.
+        options:
+          - more beautiful
+          - most beautiful
+          - as beautiful
+          - beautifuler
+        answer: more beautiful
+        explanationVi: Beautiful là tính từ dài (3 âm tiết) nên ta dùng cấu trúc 'more + tính từ + than'.
+      - type: MCQ
+        prompt: The library is ________ than the noisy cafeteria.
+        promptVi: Chọn dạng đúng để hoàn thành câu.
+        options:
+          - quieter
+          - more quieter
+          - quiet
+          - quietest
+        answer: quieter
+        explanationVi: Quiet là tính từ hai âm tiết nhưng thường dùng đuôi -er thành 'quieter' trong so sánh
+          hơn. Không dùng 'more quieter'.
+      - type: MCQ
+        prompt: This is ________ route to the city center.
+        promptVi: Chọn dạng đúng để hoàn thành câu.
+        options:
+          - the simplier
+          - the simplest
+          - the most simplest
+          - simplest
+        answer: the simplest
+        explanationVi: Simple tận cùng bằng -le nên dạng so sánh nhất là 'the simplest'. Không kết hợp cả
+          'most' và đuôi '-est'.
+      - type: MCQ
+        prompt: My brother is not ________ tall ________ my father yet.
+        promptVi: Chọn dạng đúng để hoàn thành câu.
+        options:
+          - as / as
+          - more / than
+          - so / than
+          - as / than
+        answer: as / as
+        explanationVi: Cấu trúc so sánh bằng (hoặc không bằng ở thể phủ định) là 'not as + tính từ + as'.
+      - type: MCQ
+        prompt: The new public park is ________ than the old one.
+        promptVi: Chọn dạng đúng để hoàn thành câu.
+        options:
+          - a lot largest
+          - very larger
+          - largestly
+          - a lot larger
+        answer: a lot larger
+        explanationVi: Large là tính từ ngắn nên dùng 'larger'. Ta có thể dùng cụm 'a lot' trước so sánh hơn
+          để nhấn mạnh.
+      - type: GAP_FILL
+        prompt: The supermarket is much ________ (far) than the local convenience store.
+        promptVi: Điền dạng so sánh hơn của tính từ trong ngoặc.
+        answer: further
+        accept:
+          - further
+          - farther
+        explanationVi: Far có hai dạng so sánh hơn bất quy tắc là 'further' hoặc 'farther'.
+      - type: GAP_FILL
+        prompt: This is the ________ (heavy) suitcase of all.
+        promptVi: Điền dạng so sánh nhất của tính từ trong ngoặc.
+        answer: heaviest
+        accept:
+          - heaviest
+        explanationVi: Heavy kết thúc bằng -y, ta đổi -y thành -i rồi thêm -est để tạo thành 'heaviest'.
+      - type: GAP_FILL
+        prompt: The gold ring costs $200 and the silver one costs $100. The gold ring is ________ expensive
+          than the silver one.
+        promptVi: Điền một từ thích hợp vào chỗ trống để hoàn thành câu so sánh hơn.
+        answer: more
+        accept:
+          - more
+        explanationVi: Expensive là tính từ dài nên ta dùng 'more' phía trước trong câu so sánh hơn.
+      - type: GAP_FILL
+        prompt: He is not as ________ (strong) as his teammate.
+        promptVi: Điền dạng đúng của tính từ trong ngoặc để hoàn thành câu so sánh bằng.
+        answer: strong
+        accept:
+          - strong
+        explanationVi: Trong cấu trúc so sánh bằng 'as... as', ta giữ nguyên tính từ gốc 'strong'.
+      - type: GAP_FILL
+        prompt: This is the ________ (good) coffee I have ever tasted.
+        promptVi: Điền dạng so sánh nhất của tính từ trong ngoặc.
+        answer: best
+        accept:
+          - best
+        explanationVi: Good là tính từ bất quy tắc, dạng so sánh nhất của nó là 'the best'.
+      - type: GAP_FILL
+        prompt: A laptop is usually ________ (expensive) than a tablet.
+        promptVi: Điền dạng so sánh hơn của tính từ trong ngoặc.
+        answer: more expensive
+        accept:
+          - more expensive
+        explanationVi: Expensive là tính từ dài (3 âm tiết) nên dạng so sánh hơn là 'more expensive'.
+      - type: TRUE_FALSE
+        prompt: Câu sau có đúng ngữ pháp không?
+        statement: This smartphone is much better than the cheap one.
+        answer: true
+        explanationVi: Câu này đúng ngữ pháp. 'Better' là dạng so sánh hơn của 'good', và 'much' được dùng
+          đúng cách để nhấn mạnh.
+        promptVi: Câu sau có đúng ngữ pháp không?
+      - type: TRUE_FALSE
+        prompt: Câu sau có đúng ngữ pháp không?
+        statement: She is the most happiest person in our family.
+        answer: false
+        explanationVi: Sai vì 'happy' đổi thành 'happiest' ở dạng so sánh nhất, không được dùng thêm 'most' phía trước.
+        promptVi: Câu sau có đúng ngữ pháp không?
+      - type: REORDER
+        prompt: Sắp xếp thành câu bắt đầu bằng "The red dress" và kết thúc bằng "the blue one".
+        promptVi: Sắp xếp các từ sau thành câu hoàn chỉnh.
+        chunks:
+          - The red dress
+          - is
+          - much more expensive
+          - than
+          - the blue one
+        explanationVi: "Cấu trúc so sánh hơn nhấn mạnh: S + be + much + more + adj dài + than + N."
+      - type: REORDER
+        prompt: Sắp xếp thành câu bắt đầu bằng "This is" và kết thúc bằng "the library".
+        promptVi: Sắp xếp các từ sau thành câu hoàn chỉnh.
+        chunks:
+          - This is
+          - the most interesting
+          - book
+          - in
+          - the library
+        explanationVi: "Cấu trúc so sánh nhất với tính từ dài: the most + tính từ + danh từ + cụm giới từ chỉ nơi chốn."
+
+  - slug: countable-uncountable
+    title: Countable and Uncountable Nouns
+    titleVi: Danh từ đếm được và không đếm được
+    summary: Vì sao "informations" và "many money" luôn sai.
+    estimatedMinutes: 12
+    xpReward: 25
+    order: 3
+    prerequisites: [articles-a-an-the]
+    sections:
+      - kind: theory
+        title: Hai loại danh từ, hai bộ từ định lượng
+        body: |
+          Tiếng Việt dùng loại từ ("một **cái** bàn", "một **tờ** giấy") nên mọi danh từ
+          đều "đếm được". Tiếng Anh chia danh từ làm hai nhóm và dùng từ định lượng
+          khác nhau:
+
+          | | Đếm được | Không đếm được |
+          |---|---|---|
+          | Số nhiều | a book → books | không có dạng số nhiều |
+          | Mạo từ a/an | có | không |
+          | Nhiều | **many** books | **much** money |
+          | Ít | **a few** books | **a little** water |
+          | Bao nhiêu | **How many** books? | **How much** water? |
+          | Dùng chung | **a lot of** / **some** / **any** cho cả hai | |
+
+          Nhóm không đếm được hay gặp: `information`, `advice`, `furniture`, `money`,
+          `luggage`, `homework`, `news`, `traffic`, `equipment`, `research`, `progress`.
+
+          Muốn đếm chúng thì mượn một đơn vị:
+          **a piece of** advice, **two pieces of** furniture, **a bottle of** water.
+      - kind: examples
+        title: Ví dụ
+        body: |
+          - She gave me some useful **advice**. *(không phải advices)*
+            *Cô ấy cho tôi vài lời khuyên hữu ích.*
+          - I need **two pieces of** information before I decide.
+            *Tôi cần hai thông tin nữa trước khi quyết định.*
+          - **How much** luggage can I take?
+            *Tôi được mang bao nhiêu hành lý?*
+          - There isn't **much** traffic on Sunday morning.
+            *Sáng chủ nhật không có nhiều xe cộ.*
+      - kind: tips
+        title: Mẹo nhớ
+        body: |
+          Thử đặt số **hai** trước danh từ. Nói được "two books" thì đếm được; nói
+          "two informations" thấy sai tai thì không đếm được — phải mượn đơn vị.
+
+          `news` tận cùng bằng **s** nhưng là danh từ **không đếm được số ít**:
+          The news **is** good, không phải *are*.
+
+          Vài danh từ đổi nghĩa khi đổi nhóm: `hair` (tóc, không đếm được) và
+          `a hair` (một sợi tóc); `paper` (giấy) và `a paper` (một bài báo).
+      - kind: common-mistakes
+        title: Lỗi người Việt hay mắc
+        body: |
+          | Sai | Đúng | Vì sao |
+          |---|---|---|
+          | many informations | **much information** | information không đếm được |
+          | I have many homeworks. | I have **a lot of homework**. | homework không đếm được |
+          | She gave me two advices. | She gave me two **pieces of** advice. | Mượn đơn vị để đếm |
+          | How many money do you need? | **How much** money...? | money không đếm được |
+          | The news are good. | The news **is** good. | news là số ít |
+    exercises:
+      - type: MCQ
+        prompt: "I need ____ information about the course."
+        promptVi: Chọn phương án đúng.
+        options: [more, many, a few, several]
+        answer: more
+        explanationVi: "information không đếm được nên không dùng many, a few hay
+          several. more dùng được cho cả hai loại."
+      - type: MCQ
+        prompt: "____ people came to the meeting?"
+        promptVi: Chọn phương án đúng.
+        options: [How many, How much, How long, How far]
+        answer: How many
+        explanationVi: "people là danh từ số nhiều đếm được nên dùng How many."
+      - type: GAP_FILL
+        prompt: "There isn't ____ milk left in the fridge."
+        promptVi: "Điền một từ chỉ lượng."
+        answer: much
+        accept: [much]
+        explanationVi: "milk không đếm được, và câu phủ định thường dùng much."
+      - type: GAP_FILL
+        prompt: "Can you give me a ____ of advice?"
+        promptVi: "Điền đơn vị đếm."
+        answer: piece
+        accept: [piece]
+        explanationVi: "advice không đếm được nên mượn đơn vị: a piece of advice."
+      - type: TRUE_FALSE
+        prompt: Câu sau đúng ngữ pháp hay sai?
+        statement: We bought some new furnitures for the living room.
+        answer: false
+        explanationVi: "Sai. furniture không đếm được nên không có dạng số nhiều:
+          some new furniture."
+      - type: TRUE_FALSE
+        prompt: Câu sau đúng ngữ pháp hay sai?
+        statement: The news about the storm is worrying.
+        answer: true
+        explanationVi: "Đúng. news tuy có -s nhưng là danh từ không đếm được số ít
+          nên đi với is."
+      - type: SHORT_ANSWER
+        prompt: "Sửa câu sai: \"How many money did you spend?\""
+        accept: ["How much money did you spend", "How much money did you spend?"]
+        explanationVi: "money không đếm được nên dùng How much."
+      - type: MCQ
+        prompt: We don't have ____ luggage, just these two small bags.
+        promptVi: Chọn phương án đúng để hoàn thành câu.
+        options:
+          - many
+          - much
+          - a few
+          - several
+        answer: much
+        explanationVi: Luggage (hành lý) là danh từ không đếm được, do đó ta dùng 'much' trong câu phủ định.
+      - type: MCQ
+        prompt: Could you buy two ____ of bread from the bakery?
+        promptVi: Chọn từ chỉ đơn vị đo lường phù hợp.
+        options:
+          - loaf
+          - loaves
+          - loafes
+          - loafs
+        answer: loaves
+        explanationVi: Bread (bánh mì) là danh từ không đếm được. Để đếm các ổ bánh mì, ta dùng đơn vị
+          'loaves' (số nhiều của loaf).
+      - type: MCQ
+        prompt: The traffic ____ very bad during rush hour yesterday.
+        promptVi: Chọn động từ phù hợp chia ở thì quá khứ đơn.
+        options:
+          - are
+          - is
+          - were
+          - was
+        answer: was
+        explanationVi: Traffic (giao thông) là danh từ không đếm được, đóng vai trò như danh từ số ít, nên
+          đi với động từ 'was' ở thì quá khứ đơn.
+      - type: MCQ
+        prompt: I only have ____ minutes before my train leaves.
+        promptVi: Chọn từ định lượng phù hợp.
+        options:
+          - less
+          - a little
+          - a few
+          - much
+        answer: a few
+        explanationVi: Minutes (phút) là danh từ đếm được số nhiều, nên ta dùng 'a few' (một vài).
+      - type: MCQ
+        prompt: They need to buy some new ____ for their office.
+        promptVi: Chọn từ đúng ngữ pháp.
+        options:
+          - furnitures
+          - pieces of furnitures
+          - furniture
+          - furnitures of piece
+        answer: furniture
+        explanationVi: Furniture (đồ nội thất) là danh từ không đếm được và không bao giờ thêm 's'. Ta dùng
+          'some new furniture'.
+      - type: MCQ
+        prompt: How ____ progress have you made on your project?
+        promptVi: Chọn từ hỏi phù hợp.
+        options:
+          - much
+          - long
+          - often
+          - many
+        answer: much
+        explanationVi: Progress (sự tiến bộ, tiến trình) là danh từ không đếm được, vì vậy ta dùng 'How much'.
+      - type: MCQ
+        prompt: She has done a lot of ____ this week.
+        promptVi: Chọn từ đúng ngữ pháp.
+        options:
+          - researchs
+          - a research
+          - research
+          - researches of
+        answer: research
+        explanationVi: Research (nghiên cứu) là danh từ không đếm được trong tiếng Anh, không dùng ở dạng số
+          nhiều hay đi với mạo từ 'a'.
+      - type: MCQ
+        prompt: I have ____ homework to finish tonight, so I can't go out.
+        promptVi: Chọn từ định lượng phù hợp.
+        options:
+          - several
+          - many
+          - a few
+          - a lot of
+        answer: a lot of
+        explanationVi: Homework là danh từ không đếm được. Ta không dùng 'many', 'a few', hay 'several' với
+          nó. 'A lot of' dùng được cho cả danh từ đếm được và không đếm được.
+      - type: MCQ
+        prompt: The science equipment ____ delivered to the lab this morning.
+        promptVi: Chọn động từ phù hợp chia ở thể bị động.
+        options:
+          - was
+          - were
+          - are
+          - have been
+        answer: was
+        explanationVi: Equipment (thiết bị) là danh từ không đếm được, luôn đi với động từ số ít 'was'.
+      - type: MCQ
+        prompt: Would you like a ____ of chocolate?
+        promptVi: Chọn từ chỉ một thanh sô-cô-la.
+        options:
+          - bar
+          - loaf
+          - sheet
+          - slice
+        answer: bar
+        explanationVi: Chocolate thường được đếm bằng thanh/thỏi, tiếng Anh dùng cụm từ 'a bar of chocolate'.
+      - type: GAP_FILL
+        prompt: How ____ cups of coffee do you drink every day?
+        promptVi: Điền từ định lượng phù hợp vào chỗ trống.
+        answer: many
+        accept:
+          - many
+        explanationVi: Mặc dù coffee không đếm được, nhưng 'cups' (tách/ly) là danh từ đếm được số nhiều nên
+          ta dùng 'How many'.
+      - type: GAP_FILL
+        prompt: I need to buy a new ____ of soap because this one is almost gone.
+        promptVi: Điền danh từ chỉ đơn vị của xà phòng dạng bánh/thanh.
+        answer: bar
+        accept:
+          - bar
+        explanationVi: Soap (xà phòng) là danh từ không đếm được, đơn vị của nó là 'bar' (bánh/bánh xà phòng).
+      - type: GAP_FILL
+        prompt: There is only a ____ water left in the bottle.
+        promptVi: Điền từ định lượng phù hợp để chỉ một lượng nhỏ nước.
+        answer: little
+        accept:
+          - little
+        explanationVi: Water là danh từ không đếm được, cụm từ chỉ một lượng ít là 'a little'.
+      - type: GAP_FILL
+        prompt: Could you pass me two ____ of paper? I need to write some notes.
+        promptVi: Điền từ chỉ đơn vị đếm cho giấy (số nhiều).
+        answer: sheets
+        accept:
+          - sheets
+          - pieces
+        explanationVi: Paper là danh từ không đếm được, ta dùng 'sheets' hoặc 'pieces' để đếm các tờ giấy.
+      - type: GAP_FILL
+        prompt: The news ____ not very encouraging today.
+        promptVi: Điền động từ to be ở thì hiện tại đơn phù hợp với chủ ngữ.
+        answer: is
+        accept:
+          - is
+        explanationVi: News (tin tức) tuy có tận cùng là 's' nhưng là danh từ không đếm được số ít, đi với động từ 'is'.
+      - type: GAP_FILL
+        prompt: We don't have ____ money to buy a new car right now.
+        promptVi: Điền much hoặc many phù hợp với danh từ money.
+        answer: much
+        accept:
+          - much
+        explanationVi: Money là danh từ không đếm được nên chọn much. Many chỉ đi với danh từ đếm được số nhiều.
+      - type: TRUE_FALSE
+        prompt: Câu sau có đúng ngữ pháp không?
+        statement: She gave me some very useful advices for my job interview.
+        answer: false
+        explanationVi: Sai. Advice là danh từ không đếm được, không bao giờ thêm 's' để tạo dạng số nhiều.
+          Đúng phải là 'some very useful advice' hoặc 'pieces of advice'.
+        promptVi: Câu sau có đúng ngữ pháp không?
+      - type: TRUE_FALSE
+        prompt: Câu sau có đúng ngữ pháp không?
+        statement: There are only a few bottles of milk in the fridge.
+        answer: true
+        explanationVi: Đúng. Mặc dù milk không đếm được, nhưng 'bottles' (chai) là danh từ đếm được số nhiều
+          nên đi với 'a few' và 'are' là hoàn toàn chính xác.
+        promptVi: Câu sau có đúng ngữ pháp không?
+      - type: REORDER
+        prompt: Sắp xếp thành câu bắt đầu bằng "How much" và kết thúc bằng "bring?".
+        chunks:
+          - How much
+          - luggage
+          - are you
+          - planning to
+          - bring?
+        promptVi: Sắp xếp các từ sau thành câu hoàn chỉnh.
+        explanationVi: "Luggage là danh từ không đếm được nên đi sau 'How much'. Cấu trúc câu hỏi: How much
+          + danh từ không đếm được + trợ động từ/động từ to be + chủ ngữ + động từ chính?"
+      - type: REORDER
+        prompt: Sắp xếp thành câu bắt đầu bằng "The new" và kết thúc bằng "today.".
+        chunks:
+          - The new
+          - equipment
+          - for the gym
+          - has arrived
+          - today.
+        promptVi: Sắp xếp các từ sau thành câu hoàn chỉnh.
+        explanationVi: Equipment là danh từ không đếm được số ít, đóng vai trò chủ ngữ và đi với động từ số
+          ít 'has arrived'.
+
+  - slug: present-continuous
+    title: Present Continuous
+    titleVi: Thì hiện tại tiếp diễn
+    summary: Việc đang diễn ra ngay lúc nói, và những động từ không bao giờ chia tiếp diễn.
+    estimatedMinutes: 13
+    xpReward: 25
+    order: 4
+    prerequisites: [present-simple]
+    sections:
+      - kind: theory
+        title: Cấu trúc và cách dùng
+        body: |
+          **am / is / are + V-ing**
+
+          Ba trường hợp dùng:
+
+          1. **Đang xảy ra ngay lúc nói** — She **is reading** now.
+          2. **Đang diễn ra trong giai đoạn này**, không nhất thiết lúc này —
+             I **am learning** to drive this month.
+          3. **Kế hoạch đã sắp xếp** cho tương lai gần —
+             We **are meeting** them at seven tonight.
+
+          Quy tắc thêm **-ing**:
+
+          - Phần lớn: `work → working`
+          - Tận cùng `-e` câm: bỏ e — `write → writing`, `make → making`
+          - Một âm tiết, nguyên âm ngắn + một phụ âm: gấp đôi — `run → running`
+          - Tận cùng `-ie`: đổi thành `-ying` — `lie → lying`
+      - kind: examples
+        title: Ví dụ
+        body: |
+          - Listen! Someone **is knocking** at the door.
+            *Nghe kìa! Có ai đang gõ cửa.*
+          - I **am staying** with my aunt this week.
+            *Tuần này tôi đang ở nhà cô tôi.*
+          - What **are** you **doing** tomorrow evening?
+            *Tối mai bạn định làm gì?*
+      - kind: tips
+        title: Động từ không dùng ở tiếp diễn
+        body: |
+          Một số động từ chỉ **trạng thái** chứ không phải hành động, nên không
+          chia tiếp diễn:
+
+          | Nhóm | Ví dụ |
+          |---|---|
+          | Cảm nhận | see, hear, smell, taste |
+          | Suy nghĩ | know, believe, understand, remember |
+          | Cảm xúc | like, love, hate, want, need |
+          | Sở hữu | have (sở hữu), own, belong |
+
+          Nói *I am knowing* là sai — phải là **I know**.
+
+          Riêng `have` khi mang nghĩa khác thì chia tiếp diễn được:
+          I **am having** lunch. *(đang ăn trưa, không phải sở hữu)*
+      - kind: common-mistakes
+        title: Lỗi người Việt hay mắc
+        body: |
+          | Sai | Đúng | Vì sao |
+          |---|---|---|
+          | She reading a book. | She **is** reading a book. | Thiếu động từ to be |
+          | I am knowing the answer. | I **know** the answer. | know là động từ trạng thái |
+          | He is go to school now. | He **is going** to school now. | Sau to be phải là V-ing |
+          | I am work every day. | I **work** every day. | every day là thói quen, dùng hiện tại đơn |
+    exercises:
+      - type: MCQ
+        prompt: "Be quiet! The baby ____."
+        promptVi: Chọn dạng đúng.
+        options: [is sleeping, sleeps, sleep, is sleep]
+        answer: is sleeping
+        explanationVi: "Be quiet cho biết việc đang xảy ra ngay lúc này nên dùng
+          hiện tại tiếp diễn."
+      - type: MCQ
+        prompt: "I ____ what you mean."
+        promptVi: Chọn dạng đúng.
+        options: [understand, am understanding, understanding, am understand]
+        answer: understand
+        explanationVi: "understand là động từ chỉ trạng thái, không chia tiếp diễn."
+      - type: GAP_FILL
+        prompt: "They ____ (build) a new bridge near my house."
+        promptVi: Điền dạng tiếp diễn.
+        answer: are building
+        accept: ["are building"]
+        explanationVi: "Việc đang diễn ra trong giai đoạn này: are + building."
+      - type: GAP_FILL
+        prompt: "She ____ (write) a letter at the moment."
+        promptVi: Điền dạng đúng.
+        answer: is writing
+        accept: ["is writing"]
+        explanationVi: "write bỏ e câm rồi thêm -ing: writing."
+      - type: TRUE_FALSE
+        prompt: Câu sau đúng ngữ pháp hay sai?
+        statement: I am wanting a cup of tea.
+        answer: false
+        explanationVi: "Sai. want là động từ trạng thái nên phải nói I want a cup of tea."
+      - type: REORDER
+        prompt: Sắp xếp thành một câu đúng.
+        chunks: ["My parents", "are travelling", "to Da Nang", "this weekend"]
+        explanationVi: "Kế hoạch đã sắp xếp cho tương lai gần dùng hiện tại tiếp diễn."
+      - type: SHORT_ANSWER
+        prompt: "Sửa câu sai: \"He is knowing my brother.\""
+        accept: ["He knows my brother"]
+        explanationVi: "know không chia tiếp diễn, và ngôi ba số ít thêm -s: He knows."
+      - type: MCQ
+        prompt: Look! The bus ____.
+        promptVi: Chọn dạng hiện tại tiếp diễn phù hợp với chủ ngữ.
+        options:
+          - is coming
+          - comes
+          - is come
+          - coming
+        answer: is coming
+        explanationVi: "\"Look!\" (Nhìn kìa!) báo hiệu hành động đang xảy ra ngay lúc nói. Ta dùng thì hiện
+          tại tiếp diễn: is coming (bỏ 'e' câm trước khi thêm -ing)."
+      - type: MCQ
+        prompt: I can't talk right now. I ____ dinner.
+        promptVi: Chọn dạng hiện tại tiếp diễn phù hợp với chủ ngữ.
+        options:
+          - am having
+          - having
+          - am have
+          - have
+        answer: am having
+        explanationVi: Trong ngữ cảnh này, "have" mang nghĩa là "ăn" (hành động) chứ không phải sở hữu, nên
+          có thể chia ở thì hiện tại tiếp diễn.
+      - type: MCQ
+        prompt: Why ____ you ____ at me like that?
+        promptVi: Chọn dạng hiện tại tiếp diễn phù hợp với chủ ngữ.
+        options:
+          - is / looking
+          - are / look
+          - are / looking
+          - do / look
+        answer: are / looking
+        explanationVi: Câu hỏi ở thì hiện tại tiếp diễn với chủ ngữ "you" cần trợ động từ "are" và động từ
+          thêm -ing "looking".
+      - type: MCQ
+        prompt: This delicious soup ____ so good.
+        promptVi: Chọn dạng đúng của động từ để hoàn thành câu.
+        options:
+          - are tasting
+          - is tasting
+          - tastes
+          - taste
+        answer: tastes
+        explanationVi: "\"Taste\" ở đây là động từ trạng thái chỉ cảm nhận (có vị), không chia ở thì tiếp
+          diễn. Chủ ngữ \"This delicious soup\" là số ít nên thêm 's'."
+      - type: MCQ
+        prompt: We ____ a party next Saturday. Would you like to come?
+        promptVi: Chọn dạng hiện tại tiếp diễn phù hợp với chủ ngữ.
+        options:
+          - are having
+          - have
+          - is having
+          - having
+        answer: are having
+        explanationVi: Thì hiện tại tiếp diễn "are having" được dùng để diễn tả một kế hoạch, lịch trình đã
+          được sắp xếp chắc chắn trong tương lai gần.
+      - type: MCQ
+        prompt: I ____ a very interesting book these days.
+        promptVi: Chọn dạng hiện tại tiếp diễn phù hợp với chủ ngữ.
+        options:
+          - read
+          - reading
+          - is reading
+          - am reading
+        answer: am reading
+        explanationVi: '"These days" (dạo này) chỉ một hành động mang tính tạm thời, đang diễn ra trong giai
+          đoạn này nên dùng hiện tại tiếp diễn.'
+      - type: MCQ
+        prompt: Who ____ that guitar upstairs? It is so loud!
+        promptVi: Chọn dạng hiện tại tiếp diễn phù hợp với chủ ngữ.
+        options:
+          - playing
+          - are playing
+          - plays
+          - is playing
+        answer: is playing
+        explanationVi: Hành động chơi guitar đang diễn ra ngay lúc nói gây ra tiếng ồn lớn, chủ ngữ "Who"
+          được chia như ngôi thứ ba số ít.
+      - type: MCQ
+        prompt: He ____ any help at the moment.
+        promptVi: Chọn dạng phủ định đúng của động từ.
+        options:
+          - doesn't needing
+          - isn't needing
+          - doesn't need
+          - not need
+        answer: doesn't need
+        explanationVi: '"Need" (cần) là động từ trạng thái chỉ nhu cầu, không chia ở thì tiếp diễn dù có cụm
+          từ "at the moment".'
+      - type: MCQ
+        prompt: They ____ for their exams this week.
+        promptVi: Chọn dạng hiện tại tiếp diễn phù hợp với chủ ngữ.
+        options:
+          - are studying
+          - is studying
+          - study
+          - are study
+        answer: are studying
+        explanationVi: '"This week" chỉ một hành động tạm thời đang diễn ra trong giai đoạn này, chủ ngữ
+          "They" đi với "are studying".'
+      - type: MCQ
+        prompt: I ____ you are right about this decision.
+        promptVi: Chọn dạng đúng của động từ để hoàn thành câu.
+        options:
+          - believe
+          - believes
+          - believing
+          - am believing
+        answer: believe
+        explanationVi: '"Believe" (tin tưởng) là động từ trạng thái chỉ suy nghĩ, không chia ở thì tiếp diễn.'
+      - type: GAP_FILL
+        prompt: Listen! The birds ____ (sing) in the garden.
+        promptVi: Chia động từ trong ngoặc ở thì hiện tại tiếp diễn.
+        answer: are singing
+        accept:
+          - are singing
+        explanationVi: '"Listen!" cho biết hành động đang xảy ra ngay lúc nói. Chủ ngữ "The birds" là số
+          nhiều nên dùng "are singing".'
+      - type: GAP_FILL
+        prompt: She ____ (not work) today because she is sick.
+        promptVi: Chia động từ trong ngoặc ở dạng phủ định của thì hiện tại tiếp diễn.
+        answer: is not working
+        accept:
+          - is not working
+          - isn't working
+        explanationVi: "Hành động tạm thời không diễn ra trong ngày hôm nay dùng hiện tại tiếp diễn dạng phủ
+          định: is not working / isn't working."
+      - type: GAP_FILL
+        prompt: Where ____ (you / go) for your holiday next week?
+        promptVi: Điền cụm từ hoàn chỉnh gồm động từ và chủ ngữ để tạo câu hỏi hiện tại tiếp diễn.
+        answer: are you going
+        accept:
+          - are you going
+        explanationVi: 'Câu hỏi về kế hoạch tương lai gần với chủ ngữ "you" có cấu trúc: Where + are + you + going...?'
+      - type: GAP_FILL
+        prompt: The prices of houses ____ (get) higher and higher these days.
+        promptVi: Chia động từ trong ngoặc ở thì hiện tại tiếp diễn.
+        answer: are getting
+        accept:
+          - are getting
+        explanationVi: 'Dùng hiện tại tiếp diễn để tả một xu hướng đang thay đổi. Động từ "get" có một
+          nguyên âm ngắn giữa hai phụ âm nên phải gấp đôi phụ âm cuối: "getting".'
+      - type: GAP_FILL
+        prompt: Look! The cat ____ (lie) on your new sofa.
+        promptVi: Chia động từ trong ngoặc ở thì hiện tại tiếp diễn.
+        answer: is lying
+        accept:
+          - is lying
+        explanationVi: Động từ "lie" tận cùng là "ie", ta đổi "ie" thành "y" rồi thêm "ing" thành "lying".
+      - type: GAP_FILL
+        prompt: Why ____ (he / run) so fast down the street?
+        promptVi: Điền cụm từ hoàn chỉnh gồm động từ và chủ ngữ để tạo câu hỏi hiện tại tiếp diễn.
+        answer: is he running
+        accept:
+          - is he running
+        explanationVi: Động từ "run" có một âm tiết, kết thúc bằng một nguyên âm ngắn và một phụ âm nên ta
+          gấp đôi phụ âm cuối thành "running".
+      - type: TRUE_FALSE
+        prompt: Câu sau có đúng ngữ pháp không?
+        promptVi: Câu sau có đúng ngữ pháp không?
+        statement: I am owning three dogs and a cat.
+        answer: false
+        explanationVi: 'Sai. "Own" (sở hữu) là động từ trạng thái chỉ sở hữu, không được chia ở thì tiếp
+          diễn. Câu đúng phải là: "I own three dogs and a cat."'
+      - type: TRUE_FALSE
+        prompt: Câu sau có đúng ngữ pháp không?
+        promptVi: Câu sau có đúng ngữ pháp không?
+        statement: We are meeting the manager at 10 AM tomorrow.
+        answer: true
+        explanationVi: Đúng. Thì hiện tại tiếp diễn được dùng để diễn tả một cuộc hẹn hoặc kế hoạch đã được
+          sắp xếp trước trong tương lai.
+      - type: REORDER
+        prompt: Sắp xếp thành câu bắt đầu bằng "She" và kết thúc bằng "now".
+        promptVi: Sắp xếp các từ để tạo thành câu đúng.
+        chunks:
+          - She
+          - is
+          - having
+          - lunch
+          - with
+          - her
+          - client
+          - now
+        explanationVi: 'Cấu trúc câu khẳng định thì hiện tại tiếp diễn: Subject + am/is/are + V-ing. "Having
+          lunch" ở đây chỉ hành động ăn trưa nên dùng tiếp diễn bình thường.'
+      - type: REORDER
+        prompt: Sắp xếp thành câu bắt đầu bằng "What" và kết thúc bằng "table".
+        promptVi: Sắp xếp các từ để tạo thành câu hỏi đúng.
+        chunks:
+          - What
+          - are
+          - you
+          - doing
+          - under
+          - the
+          - table
+        explanationVi: "Cấu trúc câu hỏi Wh-word ở thì hiện tại tiếp diễn: Wh-word + am/is/are + subject + V-ing?"
+

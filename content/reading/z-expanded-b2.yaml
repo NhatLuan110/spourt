@@ -1,0 +1,1281 @@
+cefr: B2
+passages:
+  - slug: neighbourhood-delivery-hub-tradeoffs
+    title: "The Rise of the Corner Depot: Convenience Versus Community"
+    titleVi: "Sự Trỗi Dậy của Trạm Giao Hàng Góc Phố: Sự Tiện Lợi Đổi Lại Cộng Đồng"
+    topic: daily-life
+    estimatedMinutes: 4
+    source: Sprout original
+    glossary: []
+    body: >-
+      When the Apex Parcel Point opened its doors in the quiet Maplewood residential district last
+      autumn, it promised to solve a modern urban headache. Converting a long-vacant corner grocery
+      store into a centralized neighbourhood delivery hub seemed like a stroke of genius. Instead of
+      delivery vans idling for hours while drivers searched for absent homeowners, couriers could
+      drop hundreds of parcels in one secure location. Residents could then retrieve their online
+      shopping at their convenience, whether early in the morning or late at night. For the first
+      few months, the system operated smoothly, praised by busy commuters who no longer had to chase
+      missing packages across town.
+
+
+      However, the honeymoon phase quickly faded as the true operational tradeoffs became apparent.
+      The primary advantage of the hub remained undeniable: logistical efficiency. Delivery
+      companies reported a significant drop in failed drop-offs, and streets farther from the depot
+      experienced a noticeable reduction in the daily parade of heavy transit vans blocking
+      driveways. For working professionals, the extended collection hours between seven in the
+      morning and ten at night offered unmatched flexibility. Yet, these gains were accompanied by
+      mounting friction for immediate neighbours.
+
+
+      The physical reality of a high-volume parcel hub brought severe disruptions to the
+      once-tranquil streetscape. Every morning, delivery trucks swarmed the narrow intersection,
+      double-parking on yellow lines and obstructing residential access. The relentless beep of
+      reversing vehicles and the mechanical clatter of automated security shutters shattered the
+      morning quiet long before sunrise. Furthermore, the pavement outside the depot became heavily
+      congested with pedestrians queuing during peak evening hours, leaving litter behind and
+      occasionally trespassing on private lawns. Local property owners voiced deep frustration over
+      plunging rental appeal and the loss of the peaceful atmosphere that initially drew them to the
+      neighbourhood.
+
+
+      Ultimately, the Apex experiment highlights a complex urban dilemma. Modern consumer habits
+      demand instant fulfillment and seamless logistics, but these conveniences impose heavy
+      external costs on local communities. Municipal planners must carefully evaluate whether
+      transforming neighbourhood spaces into logistics nodes is sustainable, or if the price paid in
+      noise, traffic, and fractured community well-being is simply too high. True urban progress
+      requires balancing e-commerce efficiency with the fundamental right of residents to live in
+      peace.
+    questions:
+      - type: MCQ
+        prompt: What is the main theme of the passage?
+        promptVi: Chủ đề chính của bài đọc là gì?
+        explanationVi: Bài viết thảo luận về cả lợi ích lẫn bất lợi của một trạm giao hàng tại khu dân cư
+          (The tradeoffs and disruptions caused by a neighbourhood delivery hub).
+        options:
+          - A) The financial success of e-commerce delivery companies
+          - B) The tradeoffs and disruptions caused by a neighbourhood delivery hub
+          - C) The history of corner grocery stores in Maplewood
+          - D) The technical mechanics of automated parcel lockers
+        answer: B) The tradeoffs and disruptions caused by a neighbourhood delivery hub
+      - type: MCQ
+        prompt: According to the passage, what operating hours did the hub offer for parcel collection?
+        promptVi: Theo bài đọc, trạm giao hàng cung cấp thời gian nhận bưu phẩm trong khung giờ nào?
+        explanationVi: "Đoạn 2 nêu rõ: 'collection hours between seven in the morning and ten at night' (7
+          giờ sáng đến 10 giờ tối)."
+        options:
+          - A) 6 AM to 9 PM
+          - B) 7 AM to 10 PM
+          - C) 8 AM to 8 PM
+          - D) 24 hours a day
+        answer: B) 7 AM to 10 PM
+      - type: MCQ
+        prompt: 'The phrase "honeymoon phase" in paragraph 2 most closely implies:'
+        promptVi: Cụm từ "honeymoon phase" ở đoạn 2 ngụ ý điều gì nhất?
+        explanationVi: Cụm từ này chỉ giai đoạn đầu đầy hứng khởi và suôn sẻ trước khi các rắc rối thực tế
+          xuất hiện (An initial stage of enthusiasm before problems emerge).
+        options:
+          - A) A period of official marriage celebration
+          - B) An initial stage of enthusiasm before problems emerge
+          - C) A seasonal holiday shutdown
+          - D) A temporary financial discount
+        answer: B) An initial stage of enthusiasm before problems emerge
+      - type: TRUE_FALSE
+        prompt: The hub successfully reduced the number of failed parcel drop-offs reported by delivery
+          companies.
+        promptVi: Trạm giao hàng đã thành công trong việc giảm số lượng bưu phẩm giao không thành công do
+          các công ty vận chuyển báo cáo.
+        explanationVi: "Đoạn 2 xác nhận: 'Delivery companies reported a significant drop in failed
+          drop-offs'. Do đó câu này là đúng."
+        statement: The hub successfully reduced the number of failed parcel drop-offs reported by delivery
+          companies.
+        answer: true
+      - type: TRUE_FALSE
+        prompt: Immediate neighbours reported that the street became noticeably quieter after the hub
+          opened.
+        promptVi: Những người hàng xóm sống sát vách báo cáo rằng con phố trở nên yên tĩnh hơn thấy rõ sau
+          khi trạm mở cửa.
+        explanationVi: Đoạn 3 chỉ ra rằng tiếng động cơ, tiếng bíp và cửa cuốn đã phá vỡ sự yên tĩnh buổi
+          sáng chứ không làm phố yên tĩnh hơn. Do đó câu này là sai.
+        statement: Immediate neighbours reported that the street became noticeably quieter after the hub
+          opened.
+        answer: false
+      - type: SHORT_ANSWER
+        prompt: Name the residential district where the Apex Parcel Point opened.
+        promptVi: Hãy nêu tên khu dân cư nơi trạm Apex Parcel Point mở cửa.
+        explanationVi: Đoạn 1 nêu rõ khu dân cư là 'Maplewood'.
+        accept:
+          - Maplewood
+          - Maplewood residential district
+      - type: SHORT_ANSWER
+        prompt: What makes a mechanical clatter in the morning? Copy the three-word phrase naming the
+          equipment.
+        promptVi: Thiết bị nào tạo ra tiếng lạch cạch vào buổi sáng? Chép cụm ba từ gọi tên thiết bị.
+        explanationVi: Đoạn 3 đề cập đến 'mechanical clatter of automated security shutters'.
+        accept:
+          - automated security shutters
+      - type: SHORT_ANSWER
+        prompt: What does the final paragraph call the logistics facilities that neighbourhood spaces are
+          being turned into? Copy two words.
+        promptVi: Đoạn cuối gọi các cơ sở hậu cần được chuyển đổi từ không gian khu dân cư là gì? Chép hai
+          từ.
+        explanationVi: Đoạn cuối nhắc đến việc biến không gian khu dân cư thành các nút logistics
+          ('neighbourhood spaces into logistics nodes').
+        accept:
+          - logistics nodes
+  - slug: volunteer-translation-project-governance
+    title: "Translating Horizons: Governance of a Global Language Initiative"
+    titleVi: "Dịch Thuật Chân Trời: Quản Trị Dự Án Ngôn Ngữ Toàn Cầu"
+    topic: education
+    estimatedMinutes: 4
+    source: Sprout original
+    glossary: []
+    body: >-
+      The launch of Linguify Commons, a large-scale volunteer initiative dedicated to translating
+      open-source educational textbooks into minority and indigenous languages, sparked an intense
+      debate regarding project governance. As the platform rapidly expanded to encompass forty-four
+      distinct linguistic communities, the central steering committee faced a critical question: who
+      should ultimately maintain and oversee the initiative to ensure both quality and
+      sustainability?
+
+
+      Proponents of a centralized, professionalized model argue that strict oversight from academic
+      linguists and experienced educators is indispensable. Without rigorous editorial boards to
+      review submissions, specialized scientific and historical terminology risks severe distortion.
+      Grammatical inconsistencies could multiply across different regional dialects, rendering the
+      translated textbooks unreliable for formal classroom instruction. Furthermore, institutional
+      donors and university partners require standardized quality assurance metrics before funding
+      or endorsing educational materials. In this view, centralized control safeguards the long-term
+      credibility and academic integrity of the project.
+
+
+      Conversely, advocates for decentralized, community-driven governance contend that top-down
+      management suffocates grassroots enthusiasm. Language is inherently organic and fluid; rural
+      volunteers possess invaluable insights into idiomatic expressions and cultural nuances that
+      university professors often overlook. When distant administrators impose rigid style guides
+      and slow approval bottlenecks, passionate contributors grow demoralized and abandon the
+      platform. Decentralization fosters a sense of ownership, empowering local speakers to steer
+      the project according to their community's immediate educational priorities rather than
+      bureaucratic timelines.
+
+
+      One proposed safeguard is a public revision record that explains why disputed terms were
+      accepted or rejected. Regional editors would record alternative expressions without treating
+      local differences as mistakes. A small rotating panel could review unresolved technical
+      questions, while classroom teachers tested draft chapters with learners. Such arrangements
+      would not eliminate disagreement, but they would make decisions easier to challenge and
+      correct. Crucially, responsibility would be shared openly instead of depending on the
+      continued availability of one experienced volunteer.
+
+
+      Resolving this governance dilemma requires navigating a delicate balancing act. A purely
+      bureaucratic structure alienates volunteers, while an unmoderated crowdsourced model
+      compromises academic reliability. To survive, Linguify Commons must pioneer a hybrid
+      framework: maintaining central publishing standards while delegating editorial autonomy to
+      trusted regional chapters. Only by bridging professional rigor with grassroots passion can
+      such ambitious linguistic projects achieve enduring success.
+    questions:
+      - type: MCQ
+        prompt: What is the central dilemma discussed regarding Linguify Commons?
+        promptVi: Vấn đề cốt lõi được thảo luận liên quan đến Linguify Commons là gì?
+        explanationVi: Bài viết xoay quanh câu hỏi ai nên quản lý và duy trì dự án dịch thuật tình nguyện
+          này (Who should govern and maintain the volunteer translation project).
+        options:
+          - A) Whether to translate books into minority languages
+          - B) How to secure institutional donors
+          - C) Who should govern and maintain the volunteer translation project
+          - D) Why university professors dislike textbooks
+        answer: C) Who should govern and maintain the volunteer translation project
+      - type: MCQ
+        prompt: How many distinct linguistic communities had the platform expanded to encompass?
+        promptVi: Nền tảng này đã mở rộng để bao trùm bao nhiêu cộng đồng ngôn ngữ riêng biệt?
+        explanationVi: Đoạn đầu nêu rõ dự án đã mở rộng đến forty-four distinct linguistic communities, tức
+          44 cộng đồng ngôn ngữ.
+        options:
+          - A) Twenty-four
+          - B) Thirty-four
+          - C) Forty-four
+          - D) Fifty-four
+        answer: C) Forty-four
+      - type: MCQ
+        prompt: 'The word "demoralized" in paragraph 3 most closely means:'
+        promptVi: Từ "demoralized" ở đoạn 3 có nghĩa gần nhất là gì?
+        explanationVi: Từ này chỉ trạng thái nản lòng, mất tinh thần hoặc sự nhiệt huyết (Lacking confidence
+          or enthusiasm).
+        options:
+          - A) Lacking confidence or enthusiasm
+          - B) Physically exhausted
+          - C) Financially ruined
+          - D) Highly motivated
+        answer: A) Lacking confidence or enthusiasm
+      - type: TRUE_FALSE
+        prompt: Advocates of centralized management argue that academic oversight prevents the distortion of
+          specialized terminology.
+        promptVi: Những người ủng hộ quản lý tập trung lập luận rằng sự giám sát học thuật giúp ngăn chặn sự
+          bóp méo thuật ngữ chuyên môn.
+        explanationVi: "Đoạn 2 xác nhận: 'Without rigorous editorial boards... specialized scientific and
+          historical terminology risks severe distortion.' Do đó câu này là đúng."
+        statement: Advocates of centralized management argue that academic oversight prevents the distortion
+          of specialized terminology.
+        answer: true
+      - type: TRUE_FALSE
+        prompt: Decentralization advocates believe that top-down management successfully boosts grassroots
+          enthusiasm.
+        promptVi: Những người ủng hộ phi tập trung hóa tin rằng quản lý từ trên xuống giúp thúc đẩy thành
+          công sự nhiệt tình từ cơ sở.
+        explanationVi: Đoạn 3 nêu ngược lại rằng 'top-down management suffocates grassroots enthusiasm'
+          (quản lý từ trên xuống bóp nghẹt nhiệt huyết cơ sở). Do đó câu này là sai.
+        statement: Decentralization advocates believe that top-down management successfully boosts
+          grassroots enthusiasm.
+        answer: false
+      - type: SHORT_ANSWER
+        prompt: Name the volunteer initiative dedicated to translating open-source educational textbooks.
+        promptVi: Hãy nêu tên sáng kiến tình nguyện chuyên dịch sách giáo khoa giáo dục mã nguồn mở.
+        explanationVi: Đoạn 1 nêu tên sáng kiến là 'Linguify Commons'.
+        accept:
+          - Linguify Commons
+      - type: SHORT_ANSWER
+        prompt: Which two kinds of language knowledge do rural volunteers contribute, according to paragraph
+          3? Copy the five-word phrase.
+        promptVi: Theo đoạn 3, tình nguyện viên ở nông thôn đóng góp hiểu biết về hai khía cạnh ngôn ngữ
+          nào? Chép cụm năm từ.
+        explanationVi: Đoạn 3 đề cập đến 'idiomatic expressions and cultural nuances'.
+        accept:
+          - idiomatic expressions and cultural nuances
+      - type: SHORT_ANSWER
+        prompt: What kind of framework must the project pioneer to survive according to the final paragraph?
+        promptVi: Theo đoạn cuối, dự án phải tiên phong xây dựng loại khung nào để sinh tồn?
+        explanationVi: Đoạn cuối nhắc đến việc tiên phong xây dựng khung kết hợp ('hybrid framework').
+        accept:
+          - hybrid framework
+          - a hybrid framework
+  - slug: college-group-assessment-reform
+    title: Rethinking Team Projects at Meridian College
+    titleVi: Tư duy lại các dự án nhóm tại Trường Cao đẳng Meridian
+    topic: education
+    estimatedMinutes: 4
+    source: Sprout original
+    glossary: []
+    body: >-
+      Meridian College has traditionally relied heavily on collaborative group assignments across
+      its undergraduate business and arts programs to prepare students for modern workplaces.
+      However, recent student feedback revealed widespread dissatisfaction with traditional grading
+      models, where a single group mark was applied uniformly to all members regardless of
+      individual effort. This outdated practice frequently resulted in bitter resentment, social
+      loafing, and deeply uneven learning outcomes that frustrated high-achieving students. In
+      response to these persistent complaints, the faculty senate formed a special investigative
+      committee led by Professor Clara Vance to thoroughly overhaul the campus evaluation framework.
+
+
+      After six months of rigorous research, surveying student attitudes, and analyzing historical
+      grading distributions, the committee released a comprehensive proposal. The new model,
+      tentatively named the Contribution-Weighted Assessment System, introduces a multi-tiered
+      grading structure designed to capture individual contributions accurately. While a baseline
+      grade continues to reflect the overall quality of the submitted team project, individual
+      student scores are now adjusted through a balanced combination of peer evaluations, milestone
+      check-ins, and individual reflective portfolios. Furthermore, students must document their
+      specific daily contributions using digital project management logs throughout the term,
+      creating a transparent trail of accountability.
+
+
+      Implementation has not been entirely without its challenges during the initial trial period.
+      During the pilot phase involving four distinct academic departments, some faculty members
+      expressed legitimate concern about the administrative burden of tracking individual
+      contributions and managing complex peer review disputes. Additionally, a vocal minority of
+      students argued that the new system paradoxically increases academic anxiety by constantly
+      measuring micro-interactions rather than fostering genuine, organic teamwork. To address these
+      concerns proactively, the committee organized mandatory workshops for instructors and
+      introduced a streamlined digital arbitration tool to handle grading conflicts efficiently
+      without overwhelming professors.
+
+
+      Despite these initial hurdles and teething problems, the preliminary data gathered from the
+      pilot semester is remarkably encouraging. Student engagement levels have noticeably risen
+      across all participating classes, and instances of free-riding have dropped significantly
+      compared to previous academic years. Students report feeling considerably more accountable for
+      their personal learning paths while still gaining valuable collaborative skills essential for
+      their future careers. The faculty senate is scheduled to vote on whether to adopt the system
+      permanently across all university departments next month. If approved, Meridian College will
+      become a true pioneer in equitable assessment practices, setting an impressive new benchmark
+      for higher education institutions nationwide.
+    questions:
+      - type: MCQ
+        prompt: What is the primary focus of the passage?
+        promptVi: Trọng tâm chính của đoạn văn là gì?
+        options:
+          - Meridian College is replacing all group projects with individual exams.
+          - A committee at Meridian College proposed a new grading system to address unfairness in
+            group assignments.
+          - Students refused to participate in the pilot phase of the new assessment model.
+          - Professor Clara Vance cancelled all undergraduate business and arts programs.
+        answer: A committee at Meridian College proposed a new grading system to address unfairness in group
+          assignments.
+        explanationVi: Đoạn văn mô tả việc hội đồng giảng viên thành lập một ủy ban để cải tổ khung đánh giá
+          nhằm giải quyết sự bất mãn với mô hình chấm điểm nhóm truyền thống ('the faculty senate
+          formed a special investigative committee... to thoroughly overhaul the campus evaluation
+          framework').
+      - type: MCQ
+        prompt: What must students use to document their specific daily contributions throughout the term?
+        promptVi: Sinh viên phải sử dụng gì để ghi lại những đóng góp cụ thể hàng ngày của họ trong suốt học
+          kỳ?
+        options:
+          - Printed paper journals
+          - Digital project management logs
+          - Audio recording devices
+          - Weekly handwritten letters
+        answer: Digital project management logs
+        explanationVi: Đoạn 2 nêu rõ sinh viên phải ghi chép lại các đóng góp cụ thể bằng cách sử dụng nhật
+          ký quản lý dự án kỹ thuật số ('document their specific daily contributions using digital
+          project management logs').
+      - type: MCQ
+        prompt: Based on the context, what does the term 'social loafing' most likely mean?
+        promptVi: Dựa vào ngữ cảnh, thuật ngữ 'social loafing' có nghĩa là gì?
+        options:
+          - Enjoying social gatherings with classmates after class
+          - Relying on others to do the work while contributing little effort
+          - Working overtime to finish projects ahead of schedule
+          - Socializing too much during lectures instead of studying
+        answer: Relying on others to do the work while contributing little effort
+        explanationVi: Đoạn 1 liên kết thuật ngữ này với việc một điểm số nhóm chung áp dụng cho tất cả các
+          thành viên bất kể nỗ lực cá nhân, dẫn đến sự bất mãn, kết quả không đều và hiện tượng
+          'social loafing' (ỷ lại, dựa dẫm vào người khác).
+      - type: TRUE_FALSE
+        prompt: Some faculty members and students expressed concerns regarding administrative burdens and
+          increased anxiety.
+        promptVi: Một số giảng viên và sinh viên bày tỏ lo ngại về gánh nặng hành chính và sự lo lắng gia
+          tăng.
+        statement: Some faculty members and students expressed concerns regarding administrative burdens and
+          increased anxiety.
+        answer: true
+        explanationVi: Đoạn 3 xác nhận rằng một số giảng viên lo ngại về gánh nặng hành chính và một số sinh
+          viên cảm thấy lo lắng hơn ('some faculty members expressed legitimate concern... a vocal
+          minority of students argued that the new system... increases academic anxiety').
+      - type: TRUE_FALSE
+        prompt: The pilot phase of the new system involved all academic departments at Meridian College.
+        statement: The pilot phase of the new system involved all academic departments at Meridian College.
+        answer: false
+        explanationVi: Đoạn 3 nêu rõ giai đoạn thí điểm chỉ liên quan đến bốn khoa học thuật khác nhau chứ
+          không phải toàn bộ trường ('During the pilot phase involving four distinct academic
+          departments').
+        promptVi: Xác định phát biểu tiếng Anh trên đúng hay sai theo bài đọc.
+      - type: SHORT_ANSWER
+        prompt: Write the exact name of the committee's newly proposed grading model as stated in the text.
+        promptVi: Viết tên chính xác của mô hình chấm điểm mới do ủy ban đề xuất như trong văn bản.
+        accept:
+          - Contribution-Weighted Assessment System
+        explanationVi: "Đoạn 2 nêu tên hệ thống mới: 'The new model, tentatively named the
+          Contribution-Weighted Assessment System...'."
+      - type: SHORT_ANSWER
+        prompt: Write the exact number of months the committee spent on research before releasing their
+          proposal.
+        promptVi: Viết số tháng chính xác mà ủy ban đã dành cho việc nghiên cứu trước khi công bố đề xuất
+          của họ.
+        accept:
+          - six
+          - "6"
+          - six months
+          - 6 months
+        explanationVi: "Đoạn 2 nêu rõ thời gian nghiên cứu: 'After six months of rigorous research...'."
+      - type: SHORT_ANSWER
+        prompt: Write the full name of the professor who led the special investigative committee.
+        promptVi: Viết họ tên đầy đủ của giáo sư dẫn đầu ủy ban điều tra đặc biệt.
+        accept:
+          - Professor Clara Vance
+          - Clara Vance
+        explanationVi: "Đoạn 1 nêu tên người lãnh đạo ủy ban: 'led by Professor Clara Vance to thoroughly
+          overhaul...'."
+  - slug: unused-railway-building-proposals
+    title: Transforming the Historic Kingston Railway Depot
+    titleVi: Cải tạo Nhà ga Đường sắt Lịch sử Kingston
+    topic: work
+    estimatedMinutes: 4
+    source: Sprout original
+    glossary: []
+    body: >-
+      The historic Kingston Railway Depot, an imposing brick structure that has sat vacant for over
+      two decades near the city center, is finally poised for a dramatic transformation. The
+      municipal government recently invited public and private consortiums to submit viable
+      redevelopment proposals, sparking intense debate among local residents, historians, and
+      business owners. With three distinct plans currently shortlisted by the urban planning board,
+      city council members face a difficult decision regarding the future identity of this landmark
+      property.
+
+
+      The first proposal, championed by a coalition of independent artists and cultural
+      entrepreneurs, envisions converting the cavernous main hall into a vibrant creative hub. Named
+      'The Depot Arts Collective,' this plan emphasizes community-driven workshops, affordable
+      artist studios, local artisan markets, and a small performance theater. Proponents argue that
+      Kingston desperately needs accessible cultural spaces to retain young creative talent and
+      stimulate foot traffic for nearby independent shops. However, critics point out that the
+      arts-focused model might struggle to generate sufficient revenue for long-term structural
+      maintenance, potentially requiring ongoing municipal subsidies.
+
+
+      In stark contrast, the second proposal focuses on economic revitalization through technology
+      and enterprise. Put forward by a major regional real estate developer, 'Kingston Tech Hub'
+      proposes gutting the interior to create a modern co-working space, startup incubator offices,
+      and a rooftop café. This plan promises substantial private investment, guaranteed tax
+      revenues, and hundreds of high-paying technology jobs. While business leaders strongly favor
+      this lucrative option, neighborhood activists express deep concern over potential
+      gentrification, soaring local housing costs, and the displacement of longtime residents who
+      feel alienated by corporate-oriented developments.
+
+
+      A third, compromise proposal has recently emerged from a coalition of environmentalists and
+      community organizers. Entitled 'The Green Corridor,' this initiative aims to balance
+      ecological sustainability with civic utility by transforming the depot into an indoor
+      botanical pavilion, public library annex, and zero-waste culinary market featuring local
+      agriculture. This option appeals broadly to citizens seeking sustainable urban amenities, yet
+      skeptics question its financial feasibility and parking capacity. As the city council prepares
+      to hold public hearings next week, community members remain deeply divided over which vision
+      best honors the historic site's legacy while meeting modern economic demands.
+    questions:
+      - type: MCQ
+        prompt: What is the primary subject of the passage?
+        promptVi: Chủ đề chính của đoạn văn là gì?
+        options:
+          - The history of railway transportation in Kingston
+          - Three competing redevelopment proposals for an abandoned railway depot
+          - The economic crisis caused by real estate developers in the city center
+          - Plans to demolish the Kingston Railway Depot for a parking lot
+        answer: Three competing redevelopment proposals for an abandoned railway depot
+        explanationVi: Đoạn văn thảo luận về ba kế hoạch tái phát triển khác nhau cho nhà ga xe lửa lịch sử
+          đang bỏ trống ('With three distinct plans currently shortlisted...').
+      - type: MCQ
+        prompt: Which proposal is supported by a coalition of independent artists and cultural
+          entrepreneurs?
+        promptVi: Đề xuất nào được một liên minh các nghệ sĩ độc lập và doanh nhân văn hóa ủng hộ?
+        options:
+          - The Green Corridor
+          - Kingston Tech Hub
+          - The Depot Arts Collective
+          - The Municipal Railway Project
+        answer: The Depot Arts Collective
+        explanationVi: Đoạn 2 nêu rõ đề xuất của các nghệ sĩ độc lập có tên là 'The Depot Arts Collective'
+          ('championed by a coalition of independent artists... Named 'The Depot Arts Collective'').
+      - type: MCQ
+        prompt: What is a major concern expressed by neighborhood activists regarding the Kingston Tech Hub
+          proposal?
+        promptVi: Mối lo ngại chính được bày tỏ bởi các nhà hoạt động khu phố liên quan đến đề xuất Kingston
+          Tech Hub là gì?
+        options:
+          - A lack of parking spaces for visitors
+          - Gentrification and the displacement of longtime residents
+          - High maintenance costs requiring municipal subsidies
+          - The destruction of the indoor botanical pavilion
+        answer: Gentrification and the displacement of longtime residents
+        explanationVi: Đoạn 3 nêu rõ các nhà hoạt động lo ngại về tình trạng gentrification, giá nhà tăng
+          cao và sự dịch chuyển của cư dân lâu năm ('neighborhood activists express deep concern
+          over potential gentrification, soaring local housing costs, and the displacement of
+          longtime residents').
+      - type: TRUE_FALSE
+        prompt: The historic Kingston Railway Depot has sat vacant for over two decades.
+        promptVi: Nhà ga xe lửa Kingston đã không có người ở trong hơn hai mươi năm phải không?
+        statement: The historic Kingston Railway Depot has sat vacant for over two decades.
+        answer: true
+        explanationVi: Đoạn 1 xác nhận nhà ga đã bỏ trống hơn hai mươi năm ('has sat vacant for over two
+          decades').
+      - type: TRUE_FALSE
+        prompt: The Green Corridor proposal was put forward by a major regional real estate developer.
+        statement: The Green Corridor proposal was put forward by a major regional real estate developer.
+        answer: false
+        explanationVi: Đoạn 4 nêu rõ đề xuất này đến từ một liên minh các nhà hoạt động môi trường và tổ
+          chức cộng đồng chứ không phải nhà phát triển bất động sản ('emerged from a coalition of
+          environmentalists and community organizers').
+        promptVi: Xác định phát biểu tiếng Anh trên đúng hay sai theo bài đọc.
+      - type: SHORT_ANSWER
+        prompt: Write the exact name of the proposal put forward by independent artists and cultural
+          entrepreneurs.
+        promptVi: Viết tên chính xác của đề xuất do các nghệ sĩ độc lập và doanh nhân văn hóa đưa ra.
+        accept:
+          - The Depot Arts Collective
+        explanationVi: "Đoạn 2 ghi rõ tên đề xuất: 'Named 'The Depot Arts Collective', this plan emphasizes...'."
+      - type: SHORT_ANSWER
+        prompt: Write the exact phrase describing the type of culinary market featured in The Green Corridor
+          proposal.
+        promptVi: Viết cụm từ chính xác mô tả loại chợ ẩm thực có trong đề xuất Hành lang Xanh (The Green
+          Corridor).
+        accept:
+          - zero-waste culinary market
+        explanationVi: Đoạn 4 nhắc đến 'zero-waste culinary market featuring local agriculture'.
+      - type: SHORT_ANSWER
+        prompt: Write the exact two-word feature planned for the roof in the Kingston Tech Hub proposal.
+        promptVi: Viết chính xác tính năng gồm hai từ được lên kế hoạch cho phần mái trong đề xuất Kingston
+          Tech Hub.
+        accept:
+          - rooftop café
+          - rooftop cafe
+        explanationVi: Đoạn 3 đề cập đến việc tạo ra không gian làm việc chung, văn phòng vườn ươm khởi
+          nghiệp và 'a rooftop café'.
+  - slug: newsroom-chart-correction
+    title: Fixing a Flawed Visualization in the Beacon Newsroom
+    titleVi: Sửa chữa một biểu diễn trực quan sai lệch trong phòng tin tức Beacon
+    topic: work
+    estimatedMinutes: 3
+    source: Sprout original
+    glossary: []
+    body: >-
+      The newsroom at the Beacon was usually quiet on a Tuesday morning, but today an unusual hum of
+      focused anxiety filled the open-plan office. Elena Vance, the lead data analyst, stood by the
+      main wall monitor, staring at the recently published economic report regarding regional
+      employment rates. The infographic accompanying the digital article, which had gone live just
+      an hour earlier, featured a bar chart comparing job creation across three neighboring counties
+      over the past decade. However, a sharp-eyed subscriber had just emailed a pointed critique,
+      noting that the vertical axis did not start at zero, exaggerating the growth curve of the
+      smallest county by nearly four hundred percent.
+
+
+      Elena immediately pulled up the raw dataset in her spreadsheet software to verify the reader’s
+      claim. Her heart sank as she realized the oversight. In their rush to meet the morning
+      publishing deadline, the graphics team had applied an automated scaling template that clipped
+      the baseline, visually distorting the actual economic trajectory. While the numbers printed in
+      the accompanying text were technically accurate, the visual representation painted a
+      profoundly misleading picture of regional prosperity.
+
+
+      Marcus Thorne, the editor-in-chief, gathered the department leads around his desk to decide
+      the protocol for rectification. Some junior editors suggested simply swapping out the image
+      file quietly and appending a tiny update note at the bottom of the page. Elena and the senior
+      investigative reporters, however, argued strongly against this stealth approach. They insisted
+      that journalistic integrity demanded complete transparency, especially when the mistake
+      distorted public perception of economic inequality.
+
+
+      Within thirty minutes, the team reached a consensus. They would publish a prominent editor's
+      note directly above the main headline, explaining precisely how the scaling error occurred and
+      why the original graphic was flawed. Elena quickly generated a new, properly scaled chart
+      using a linear baseline starting at zero, which flattened the exaggerated curve and reflected
+      the modest, stable growth that actually occurred. Furthermore, they decided to issue a brief
+      correction on their social media channels, linking directly to the updated article.
+
+
+      As the revised piece went live, the initial wave of reader criticism shifted into cautious
+      praise for the publication's accountability. The incident served as a humbling reminder to the
+      entire staff that speed should never compromise visual accuracy in modern data journalism.
+    questions:
+      - type: MCQ
+        prompt: What is the primary focus of the passage?
+        promptVi: Trọng tâm chính của đoạn văn là gì?
+        options:
+          - A) How a newsroom corrected a misleading economic chart and chose transparency over
+            secrecy.
+          - B) Why digital graphics software is unreliable for modern journalism businesses.
+          - C) How a subscriber uncovered a financial fraud scheme in a regional report.
+          - D) The process of hiring data analysts for a major national newspaper.
+        answer: A) How a newsroom corrected a misleading economic chart and chose transparency over secrecy.
+        explanationVi: Đoạn văn kể về cách phòng tin tức xử lý lỗi biểu đồ kinh tế bị sai lệch bằng cách
+          minh bạch thông tin thay vì che giấu.
+      - type: MCQ
+        prompt: What specific error did the subscriber point out in the original infographic?
+        promptVi: Độc giả đã chỉ ra lỗi cụ thể nào trong biểu đồ thông tin ban đầu?
+        options:
+          - A) The vertical axis did not start at zero, exaggerating the smallest county's growth.
+          - B) The wrong color scheme was used to represent regional employment rates.
+          - C) The data was taken from a decade ago rather than the current year.
+          - D) The names of the three neighboring counties were completely misspelled.
+        answer: A) The vertical axis did not start at zero, exaggerating the smallest county's growth.
+        explanationVi: Người đọc đã chỉ ra rằng trục tung không bắt đầu từ số 0, làm phóng đại mức tăng
+          trưởng của quận nhỏ nhất.
+      - type: MCQ
+        prompt: In context, what does the term 'stealth approach' refer to?
+        promptVi: Trong ngữ cảnh, thuật ngữ 'stealth approach' ám chỉ điều gì?
+        options:
+          - A) A thorough investigation into financial inequality
+          - B) Quietly swapping the image file without proper notice
+          - C) Publishing an editor's note directly above the headline
+          - D) Promoting articles through social media channels
+        answer: B) Quietly swapping the image file without proper notice
+        explanationVi: "'Stealth approach' trong ngữ cảnh này ám chỉ việc thay thế tệp hình ảnh một cách âm
+          thầm mà không thông báo rõ ràng cho độc giả."
+      - type: TRUE_FALSE
+        statement: Some junior editors initially proposed replacing the flawed image file quietly without
+          drawing much attention.
+        answer: true
+        explanationVi: Bài viết đề cập rằng một số biên tập viên trẻ đề xuất thay thế tệp hình ảnh một cách
+          lặng lẽ và thêm ghi chú nhỏ.
+        prompt: Some junior editors initially proposed replacing the flawed image file quietly without
+          drawing much attention.
+        promptVi: Xác định phát biểu tiếng Anh trên đúng hay sai theo bài đọc.
+      - type: TRUE_FALSE
+        statement: Elena Vance insisted that the publication should hide the mistake to protect the
+          newsroom's reputation.
+        answer: false
+        explanationVi: Elena và các phóng viên điều tra phản đối cách làm âm thầm và đòi hỏi sự minh bạch
+          hoàn toàn thay vì che giấu lỗi lầm.
+        prompt: Elena Vance insisted that the publication should hide the mistake to protect the newsroom's
+          reputation.
+        promptVi: Xác định phát biểu tiếng Anh trên đúng hay sai theo bài đọc.
+      - type: SHORT_ANSWER
+        prompt: According to the text, what exact title held by Marcus Thorne is mentioned? Give an exact
+          short phrase.
+        promptVi: Theo văn bản, chức danh chính xác nào của Marcus Thorne được nhắc đến? Hãy đưa ra một cụm
+          từ ngắn chính xác.
+        accept:
+          - editor-in-chief
+          - Editor-in-Chief
+        explanationVi: Bài viết nhắc đến Marcus Thorne với chức danh là 'editor-in-chief'.
+      - type: SHORT_ANSWER
+        prompt: What specific two-word term does the text use to describe the dataset that Elena opened in
+          her spreadsheet software?
+        promptVi: Thuật ngữ hai từ cụ thể nào được văn bản sử dụng để mô tả tập dữ liệu mà Elena đã mở trong
+          phần mềm bảng tính?
+        accept:
+          - raw dataset
+        explanationVi: Văn bản sử dụng cụm từ 'raw dataset' để chỉ tập dữ liệu thô mà Elena mở trên phần mềm
+          bảng tính.
+      - type: SHORT_ANSWER
+        prompt: According to the passage, what specific type of chart was used in the infographic to compare
+          job creation?
+        promptVi: Theo đoạn văn, loại biểu đồ cụ thể nào đã được sử dụng trong biểu đồ thông tin để so sánh
+          việc tạo việc làm?
+        accept:
+          - bar chart
+          - a bar chart
+        explanationVi: Đồ họa thông tin sử dụng biểu đồ thanh ('bar chart') để so sánh việc tạo việc làm.
+  - slug: residents-panel-tourism-proposal
+    title: Evaluating the Coastal Tourism Expansion Proposal
+    titleVi: Đánh giá đề xuất mở rộng du lịch ven biển
+    topic: travel
+    estimatedMinutes: 3
+    source: Sprout original
+    glossary: []
+    body: >-
+      The community center hall was packed to capacity as the seven-member municipal residents panel
+      convened to evaluate the controversial coastal tourism expansion project. Proposed by a major
+      commercial developer, the multi-million-dollar initiative promised to transform the quiet
+      fishing village of Oakhaven into a vibrant resort destination, complete with a luxury marina,
+      beachfront hotels, and an expansive boardwalk. While municipal leaders championed the project
+      as a vital catalyst for local employment and municipal tax revenue, numerous longtime
+      residents harbored deep anxieties regarding the long-term impact on their peaceful community
+      and delicate marine ecosystem.
+
+
+      During the three-hour hearing, panel chairperson Clara Higgins meticulously guided the
+      proceedings, allowing representatives from both sides to present their arguments. The
+      developer’s lead representative, Arthur Vance, emphasized that the resort would inject
+      millions into the regional economy, creating over two hundred full-time jobs for local
+      residents and upgrading outdated municipal infrastructure. He highlighted plans for a
+      state-of-the-art wastewater treatment facility that would supposedly benefit the entire
+      township, not just the newly constructed resort properties.
+
+
+      However, the local environmental coalition presented contrasting findings. Dr. Maya Lin, a
+      marine biologist and Oakhaven resident, argued that the proposed marina dredging would
+      permanently disrupt local fish spawning grounds and increase shoreline erosion. Furthermore,
+      local business owners voiced concerns over skyrocketing property taxes and seasonal housing
+      shortages, which could eventually force working-class families out of the area entirely. Many
+      participants expressed frustration over the lack of community consultation during the initial
+      planning phases, viewing the project as a top-down imposition rather than a collaborative
+      development.
+
+
+      As the public comment period drew to a close, the panel faced a challenging deliberation. They
+      were tasked with submitting a formal recommendation to the city council by the end of the
+      week. Instead of outright rejecting or rubber-stamping the proposal, the panel ultimately
+      drafted a conditional approval framework. This compromise required the developer to downscale
+      the marina footprint by thirty percent, fund a permanent independent environmental monitoring
+      committee, and guarantee affordable housing allotments for local hospitality workers.
+
+
+      The panel's measured response demonstrated the power of active civic engagement in shaping
+      local policy. While the debate over Oakhaven's future was far from settled, the residents
+      panel successfully ensured that community voices remained central to the commercial planning
+      process.
+    questions:
+      - type: MCQ
+        prompt: What is the main theme of the passage?
+        promptVi: Chủ đề chính của đoạn văn là gì?
+        options:
+          - A) A residents panel reviewing a coastal tourism expansion and establishing a
+            conditional approval framework.
+          - B) The complete rejection of a commercial resort project by an environmental coalition.
+          - C) How a fishing village successfully transformed into a luxury marina destination.
+          - D) The financial benefits of upgrading municipal wastewater treatment facilities.
+        answer: A) A residents panel reviewing a coastal tourism expansion and establishing a conditional
+          approval framework.
+        explanationVi: Nội dung chính xoay quanh việc hội đồng cư dân xem xét đề xuất mở rộng du lịch và đưa
+          ra khung phê duyệt có điều kiện.
+      - type: MCQ
+        prompt: Which specific concern did Dr. Maya Lin raise regarding the proposed project?
+        promptVi: Tiến sĩ Maya Lin đã nêu ra mối lo ngại cụ thể nào về dự án được đề xuất?
+        options:
+          - A) Skyrocketing property taxes for local business owners
+          - B) Marina dredging permanently disrupting local fish spawning grounds and increasing
+            erosion
+          - C) A severe shortage of seasonal housing for hospitality workers
+          - D) The lack of community consultation during initial planning phases
+        answer: B) Marina dredging permanently disrupting local fish spawning grounds and increasing erosion
+        explanationVi: Tiến sĩ Maya Lin lo ngại việc nạo vét bến du thuyền sẽ phá hủy vĩnh viễn bãi đẻ của
+          cá và làm tăng xói lở bờ biển.
+      - type: MCQ
+        prompt: In context, what does the term 'rubber-stamping' mean?
+        promptVi: Trong ngữ cảnh, thuật ngữ 'rubber-stamping' có nghĩa là gì?
+        options:
+          - A) Approving a proposal officially without thorough or critical review
+          - B) Rejecting a project based on strict environmental guidelines
+          - C) Negotiating a compromise with commercial developers
+          - D) Stamping physical documents with official government seals
+        answer: A) Approving a proposal officially without thorough or critical review
+        explanationVi: "'Rubber-stamping' nghĩa là phê duyệt một đề xuất một cách hình thức mà không xem xét
+          kỹ lưỡng hoặc phản biện."
+      - type: TRUE_FALSE
+        statement: Arthur Vance represented the local environmental coalition during the public hearing.
+        answer: false
+        explanationVi: Arthur Vance là đại diện chính của nhà phát triển thương mại, chứ không đại diện cho
+          liên minh môi trường địa phương.
+        prompt: Arthur Vance represented the local environmental coalition during the public hearing.
+        promptVi: Xác định phát biểu tiếng Anh trên đúng hay sai theo bài đọc.
+      - type: TRUE_FALSE
+        statement: The final conditional framework required the developer to downscale the marina footprint
+          by thirty percent.
+        answer: true
+        explanationVi: Khung điều kiện cuối cùng yêu cầu giảm diện tích bến du thuyền đi 30%, tức giữ lại
+          70% diện tích đề xuất ban đầu.
+        prompt: The final conditional framework required the developer to downscale the marina footprint by
+          thirty percent.
+        promptVi: Xác định phát biểu tiếng Anh trên đúng hay sai theo bài đọc.
+      - type: SHORT_ANSWER
+        prompt: What is the name of the quiet fishing village where the tourism project was proposed?
+          Provide the exact name.
+        promptVi: Tên của ngôi làng chài yên tĩnh nơi dự án du lịch được đề xuất là gì? Hãy cung cấp tên
+          chính xác.
+        accept:
+          - Oakhaven
+        explanationVi: Ngôi làng chài yên tĩnh được nhắc đến trong bài có tên là Oakhaven.
+      - type: SHORT_ANSWER
+        prompt: According to the passage, what specific title does Clara Higgins hold?
+        promptVi: Theo đoạn văn, Clara Higgins giữ chức vụ cụ thể nào?
+        accept:
+          - panel chairperson
+          - chairperson
+        explanationVi: Clara Higgins giữ chức vụ là chủ tịch hội đồng ('panel chairperson').
+      - type: SHORT_ANSWER
+        prompt: How many members served on the municipal residents panel? Give the number or word.
+        promptVi: Có bao nhiêu thành viên phục vụ trong hội đồng cư dân đô thị? Hãy cung cấp số hoặc từ.
+        accept:
+          - seven
+          - "7"
+        explanationVi: Hội đồng cư dân đô thị có bảy thành viên ('seven-member').
+  - slug: community-theatre-backstage
+    title: The Unseen Symphony of the Stage
+    titleVi: Sự giao hưởng ẩn giấu của sân khấu
+    topic: daily-life
+    estimatedMinutes: 3
+    source: Sprout original
+    glossary: []
+    body: >-
+      When the curtain finally rises on opening night, the audience sees a world of effortless
+      magic. Actors deliver their lines with polished precision, bathed in warm amber light against
+      a meticulously crafted Victorian backdrop. Yet, this seamless illusion is built upon months of
+      relentless, unglamorous labor orchestrated by a dedicated community of volunteers. Long before
+      the first ticket is sold, the basement of the old town hall transforms into a bustling
+      workshop where the true spirit of community theatre comes alive.
+
+      Take, for instance, the set construction team, led this season by retired carpenter Arthur
+      Vance. Working entirely on weekends, Arthur and a crew of enthusiastic novices salvage old
+      wooden pallets and discarded furniture, transforming them into ornate bookshelves and heavy
+      manor doors. Every nail driven and coat of paint applied requires immense ingenuity because
+      the budget is virtually nonexistent. They must create items that look heavy and antique while
+      remaining lightweight and modular enough to be shifted in seconds during scene changes.
+
+      Meanwhile, upstairs in the costume department, Clara Mendez manages an overwhelming sea of
+      fabric. Unlike professional productions with dedicated tailors, community theatre relies on
+      thrift store finds, generous donations, and endless alterations. Clara spends countless
+      evenings hemming skirts, reinforcing seams, and sewing buttons onto waistcoats to fit actors
+      of vastly differing shapes and sizes. A single costume quick-change requires rigorous
+      rehearsal; sometimes an actor has less than forty seconds to shed a Victorian gown and slip
+      into a servant's apron backstage, requiring hidden magnetic clasps and clever layering.
+
+      Lighting and sound present an entirely different set of hurdles. Technicians like Maya Lin
+      spend weeks synchronizing every audio cue and dimmer level with the actors' movements. A
+      missed cue can ruin a dramatic realization or leave a performer in total darkness. They run
+      technical rehearsals repeatedly, tweaking sound effects—from distant thunder to creaking
+      floorboards—until the auditory landscape feels utterly authentic.
+
+      None of this intricate machinery functions without tireless stage managers who coordinate
+      every moving part. They track prop placements, manage actor entrances, and maintain morale
+      when fatigue sets in. When the applause finally echoes through the auditorium, the actors take
+      center stage, but the true triumph belongs to the invisible network of creators who poured
+      their weekends, patience, and passion into the shadows.
+    questions:
+      - type: MCQ
+        prompt: What is the primary focus of the passage?
+        promptVi: Trọng tâm chính của đoạn văn là gì?
+        options:
+          - A. The importance of professional training in theatre.
+          - B. The invisible hard work and dedication behind community theatre productions.
+          - C. The financial challenges faced by modern playwrights.
+          - D. The history of stage design in local town halls.
+        answer: B. The invisible hard work and dedication behind community theatre productions.
+        explanationVi: Đoạn văn thảo luận về công việc hậu trường không ngừng nghỉ và sự tận tâm của các
+          tình nguyện viên để tạo nên một vở kịch.
+      - type: MCQ
+        prompt: How does Arthur Vance create items for the set?
+        promptVi: Arthur Vance tạo ra các đạo cụ cho sân khấu bằng cách nào?
+        options:
+          - A. By purchasing expensive antique furniture from specialty shops.
+          - B. By utilizing salvaged wooden pallets and discarded materials.
+          - C. By importing custom-made props from professional studios.
+          - D. By renting heavy manor doors from local businesses.
+        answer: B. By utilizing salvaged wooden pallets and discarded materials.
+        explanationVi: "Bài đọc nêu rõ: 'Arthur and a crew of enthusiastic novices salvage old wooden
+          pallets and discarded furniture'."
+      - type: MCQ
+        prompt: What does the phrase 'unglamorous labor' imply about the backstage work?
+        promptVi: Cụm từ 'unglamorous labor' ngụ ý điều gì về công việc hậu trường?
+        options:
+          - A. It is dangerous and poorly managed.
+          - B. It involves repetitive tasks that lack public recognition.
+          - C. It is performed exclusively by professional actors.
+          - D. It requires advanced academic degrees in architecture.
+        answer: B. It involves repetitive tasks that lack public recognition.
+        explanationVi: Công việc hậu trường vất vả, thầm lặng và không hào nhoáng, thiếu sự công nhận trực
+          tiếp từ công chúng dù đóng vai trò cốt lõi.
+      - type: TRUE_FALSE
+        statement: Clara Mendez uses thrift store finds and donations to manage the costume department.
+        statementVi: Clara Mendez sử dụng đồ tìm thấy ở cửa hàng đồ cũ và các khoản quyên góp để quản lý bộ
+          phận trang phục.
+        answer: true
+        explanationVi: "Đoạn 3 đề cập: 'community theatre relies on thrift store finds, generous donations,
+          and endless alterations'."
+        prompt: Clara Mendez uses thrift store finds and donations to manage the costume department.
+        promptVi: Xác định phát biểu tiếng Anh trên đúng hay sai theo bài đọc.
+      - type: TRUE_FALSE
+        statement: Actors never experience quick-changes that require specialized magnetic clasps.
+        statementVi: Diễn viên không bao giờ trải qua việc thay trang phục nhanh đòi hỏi các khóa nam châm
+          chuyên dụng.
+        answer: false
+        explanationVi: "Đoạn 3 nêu rõ: 'sometimes an actor has less than forty seconds... requiring hidden
+          magnetic clasps'."
+        prompt: Actors never experience quick-changes that require specialized magnetic clasps.
+        promptVi: Xác định phát biểu tiếng Anh trên đúng hay sai theo bài đọc.
+      - type: SHORT_ANSWER
+        prompt: According to the text, who led the set construction team this season? Provide the exact
+          name.
+        promptVi: Theo văn bản, ai là người lãnh đạo đội xây dựng bối cảnh mùa này? Cung cấp tên chính xác.
+        accept:
+          - Arthur Vance
+        explanationVi: "Đoạn 2 ghi nhận: 'led this season by retired carpenter Arthur Vance'."
+      - type: SHORT_ANSWER
+        prompt: What specific clothing item does Clara Mendez sew buttons onto for actors? Provide a single
+          word.
+        promptVi: Clara Mendez khâu cúc áo lên trang phục cụ thể nào cho các diễn viên? Cung cấp một từ duy
+          nhất.
+        accept:
+          - waistcoats
+        explanationVi: "Đoạn 3 cho biết: 'sewing buttons onto waistcoats to fit actors'."
+      - type: SHORT_ANSWER
+        prompt: What specific level do technicians synchronize with actor movements alongside audio cues?
+          Provide a short noun phrase.
+        promptVi: Kỹ thuật viên đồng bộ hóa mức độ cụ thể nào với chuyển động của diễn viên bên cạnh tín
+          hiệu âm thanh? Cung cấp một cụm danh từ ngắn.
+        accept:
+          - dimmer level
+          - dimmer levels
+        explanationVi: "Đoạn 4 nêu rõ: 'synchronizing every audio cue and dimmer level with the actors'
+          movements'."
+  - slug: open-source-privacy-balance
+    title: Balancing Convenience and Privacy in Open-Source Software
+    titleVi: Cân bằng sự tiện lợi và quyền riêng tư trong phần mềm mã nguồn mở
+    topic: technology
+    estimatedMinutes: 3
+    source: Sprout original
+    glossary: []
+    body: >-
+      In an era dominated by tech giants harvesting personal data for targeted advertising, a
+      growing collective of developers is charting a different course. Their project, known as
+      'AegisSync,' aims to provide the seamless file synchronization and cloud convenience that
+      modern users expect, without compromising digital privacy. Developing such a tool presents a
+      formidable paradox: how to deliver an effortless, plug-and-play user experience while
+      implementing rigorous, zero-knowledge encryption that keeps data entirely under the user's
+      control.
+
+      For years, mainstream cloud services have traded privacy for convenience, automatically
+      indexing files, analyzing photos, and tracking user habits behind closed doors. AegisSync
+      approaches the challenge through decentralized architecture. Instead of routing all traffic
+      through a centralized corporate server, the software allows users to sync files directly
+      across their own personal devices, or optionally via trusted independent nodes. However, this
+      architectural choice initially created significant friction. Early testers complained about
+      complex setup procedures, confusing cryptographic key management, and frequent synchronization
+      failures when devices connected across different network firewalls.
+
+      To bridge this usability gap, the core development team embarked on a massive interface
+      redesign. They introduced an automated peer discovery protocol that operates quietly in the
+      background, allowing laptops and smartphones to find each other on local networks without
+      manual IP address entry. Furthermore, they replaced complicated hexadecimal recovery keys with
+      human-readable passphrase generators, drastically lowering the technical barrier for
+      non-technical users. Security audits were integrated into every development sprint, ensuring
+      that simplifying the user interface did not introduce hidden vulnerabilities.
+
+      Crucially, AegisSync remains entirely open-source, inviting independent security researchers
+      worldwide to inspect its codebase for flaws or backdoors. This transparency builds a
+      foundation of trust that proprietary software simply cannot match. While commercial
+      alternatives still hold an advantage in raw speed and out-of-the-box polish, projects like
+      AegisSync prove that users no longer need to sacrifice their fundamental right to privacy for
+      the sake of modern digital convenience. The delicate equilibrium between accessibility and
+      security is difficult to maintain, but this grassroots digital movement demonstrates that a
+      more private technological future is entirely achievable for everyone.
+
+
+      A decision log would also let new contributors understand the reasoning behind earlier
+      choices, reducing the risk that the same privacy concerns would be overlooked when
+      responsibility changed hands.
+    questions:
+      - type: MCQ
+        prompt: What is the main theme of the passage?
+        promptVi: Chủ đề chính của đoạn văn là gì?
+        options:
+          - A. The inevitable dominance of proprietary tech giants over the internet.
+          - B. How an open-source project successfully balances digital convenience with privacy.
+          - C. The dangers of connecting personal devices across different network firewalls.
+          - D. Why corporate cloud services are superior to decentralized networks.
+        answer: B. How an open-source project successfully balances digital convenience with privacy.
+        explanationVi: Đoạn văn xoay quanh dự án AegisSync cân bằng giữa tính tiện lợi khi đồng bộ file và
+          bảo mật quyền riêng tư.
+      - type: MCQ
+        prompt: What did the development team introduce to replace complicated recovery keys?
+        promptVi: Nhóm phát triển đã giới thiệu điều gì để thay thế các khóa khôi phục phức tạp?
+        options:
+          - A. Automated peer discovery protocols
+          - B. Human-readable passphrase generators
+          - C. Centralized corporate servers
+          - D. Zero-knowledge encryption algorithms
+        answer: B. Human-readable passphrase generators
+        explanationVi: "Đoạn 3 chỉ rõ: 'they replaced complicated hexadecimal recovery keys with
+          human-readable passphrase generators'."
+      - type: MCQ
+        prompt: What can be inferred about open-source codebases like AegisSync?
+        promptVi: Có thể suy luận điều gì về mã nguồn mở như AegisSync?
+        options:
+          - A. They prevent independent researchers from viewing their security flaws.
+          - B. They rely heavily on hidden corporate backdoors to function.
+          - C. They allow external experts to inspect the code and verify its security.
+          - D. They are completely immune to any software vulnerabilities.
+        answer: C. They allow external experts to inspect the code and verify its security.
+        explanationVi: Đoạn 4 nêu rõ tính năng mã nguồn mở mời gọi các nhà nghiên cứu bảo mật độc lập kiểm
+          tra mã nguồn để tìm lỗ hổng.
+      - type: TRUE_FALSE
+        statement: AegisSync allows users to sync files directly across their personal devices without
+          relying entirely on a centralized corporate server.
+        statementVi: AegisSync cho phép người dùng đồng bộ hóa tệp trực tiếp trên các thiết bị cá nhân mà
+          không phụ thuộc hoàn toàn vào máy chủ tập trung của công ty.
+        answer: true
+        explanationVi: "Đoạn 2 xác nhận: 'allows users to sync files directly across their own personal
+          devices, or optionally via trusted independent nodes'."
+        prompt: AegisSync allows users to sync files directly across their personal devices without relying
+          entirely on a centralized corporate server.
+        promptVi: Xác định phát biểu tiếng Anh trên đúng hay sai theo bài đọc.
+      - type: TRUE_FALSE
+        statement: Early testers found that setting up AegisSync was completely free of friction and
+          technical difficulties.
+        statementVi: Những người thử nghiệm ban đầu thấy rằng việc thiết lập AegisSync hoàn toàn không gặp
+          trở ngại và khó khăn kỹ thuật nào.
+        answer: false
+        explanationVi: "Đoạn 2 phản bác điều này: 'this architectural choice initially created significant
+          friction. Early testers complained about complex setup procedures...'."
+        prompt: Early testers found that setting up AegisSync was completely free of friction and technical
+          difficulties.
+        promptVi: Xác định phát biểu tiếng Anh trên đúng hay sai theo bài đọc.
+      - type: SHORT_ANSWER
+        prompt: What is the name of the open-source project featured in the passage? Provide the exact name.
+        promptVi: Tên của dự án mã nguồn mở được giới thiệu trong bài đọc là gì? Cung cấp tên chính xác.
+        accept:
+          - AegisSync
+        explanationVi: "Đoạn 1 nêu rõ tên dự án: 'Their project, known as 'AegisSync'...'."
+      - type: SHORT_ANSWER
+        prompt: What specific type of encryption does the project implement to keep data under the user's
+          control? Provide a two-word phrase.
+        promptVi: Dự án áp dụng loại mã hóa cụ thể nào để giữ dữ liệu hoàn toàn trong tầm kiểm soát của
+          người dùng? Cung cấp cụm từ hai từ.
+        accept:
+          - zero-knowledge encryption
+        explanationVi: "Đoạn 1 chỉ ra: 'implementing rigorous, zero-knowledge encryption'."
+      - type: SHORT_ANSWER
+        prompt: What protocol was introduced to allow devices to find each other on local networks without
+          manual IP entry? Provide a short noun phrase.
+        promptVi: Giao thức nào được giới thiệu để cho phép các thiết bị tìm thấy nhau trên mạng cục bộ mà
+          không cần nhập IP thủ công? Cung cấp một cụm danh từ ngắn.
+        accept:
+          - automated peer discovery protocol
+          - peer discovery protocol
+        explanationVi: "Đoạn 3 đề cập: 'They introduced an automated peer discovery protocol that operates
+          quietly in the background'."
+  - slug: council-flexible-hours-evaluation
+    title: Evaluating Flexible Opening Hours
+    titleVi: Đánh giá giờ mở cửa linh hoạt
+    topic: work
+    estimatedMinutes: 4
+    source: Sprout original
+    glossary: []
+    body: >-
+      The Oakridge Municipal Council recently convened to review the comprehensive data gathered
+      from a six-month pilot program regarding flexible opening hours across local public service
+      offices. Initiated in January, the trial permitted community centers and civil registration
+      desks to adjust their daily schedules, remaining open until seven o'clock in the evening on
+      Thursdays and opening at seven-thirty in the morning on Mondays. The primary objective was to
+      accommodate working residents who struggled to access administrative assistance during
+      traditional nine-to-five working hours.
+
+
+      During the evaluation meeting, department heads presented detailed analytical reports
+      measuring citizen satisfaction, foot traffic volumes, and operational costs. According to the
+      statistics, overall service usage increased by eighteen percent during the trial period.
+      Evening slots on Thursdays proved exceptionally popular among young professionals and parents,
+      who praised the unprecedented convenience. Furthermore, the morning slots on Mondays
+      experienced a moderate surge in visitors seeking expedited document processing before the
+      start of their busy workweeks.
+
+
+      However, the transition was not without notable challenges. Several operational supervisors
+      voiced serious concerns regarding staff well-being and logistical overhead. Employees assigned
+      to late shifts reported heightened fatigue and difficulties arranging reliable public
+      transportation late at night. Additionally, maintaining adequate supervisory coverage required
+      costly overtime payments, which strained the department's allocated budget. Some
+      administrative workers argued that the extended schedule disrupted their own work-life
+      balance, leading to a slight dip in morale during mid-week shifts.
+
+
+      To address these conflicting outcomes, the council debated several modifications for the
+      upcoming quarter. A compromise proposal suggested rotating late-shift duties among a larger
+      pool of volunteers rather than imposing mandatory rosters on all personnel. Moreover, digital
+      self-service kiosks might be installed to handle routine inquiries, thereby reducing the
+      reliance on physical staffing during extended hours. The council ultimately voted to extend
+      the trial by another three months under these revised conditions, allowing administrators
+      sufficient time to gauge whether the adjustments successfully mitigate staff burnout while
+      sustaining public accessibility. A final verdict on permanent implementation is scheduled for
+      November.
+
+
+      The evaluation also needs to distinguish between additional visits and visits merely moved
+      from one day to another. Without that distinction, a busy late session could look like
+      increased demand even when weekly attendance remained unchanged.
+    questions:
+      - type: MCQ
+        prompt: What is the primary focus of the Oakridge Municipal Council meeting described in the
+          passage?
+        promptVi: Trọng tâm chính của cuộc họp Hội đồng Thành phố Oakridge được mô tả trong đoạn văn là gì?
+        options:
+          - A. Reviewing the results of a trial on flexible opening hours.
+          - B. Cutting municipal budgets due to declining public service usage.
+          - C. Eliminating administrative positions to improve employee morale.
+          - D. Voting on the permanent closure of community centers on weekends.
+        answer: A. Reviewing the results of a trial on flexible opening hours.
+        explanationVi: Đoạn văn nêu rõ hội đồng họp để xem xét dữ liệu từ chương trình thí điểm về giờ mở
+          cửa linh hoạt ("review the comprehensive data gathered from a six-month pilot program
+          regarding flexible opening hours").
+      - type: MCQ
+        prompt: Which specific time slot proved exceptionally popular among young professionals and parents
+          during the trial?
+        promptVi: Khung giờ cụ thể nào tỏ ra cực kỳ phổ biến đối với các chuyên gia trẻ và các bậc cha mẹ
+          trong thời gian thí điểm?
+        options:
+          - A. Monday mornings at seven-thirty.
+          - B. Thursday evenings.
+          - C. Wednesday afternoons.
+          - D. Friday midday shifts.
+        answer: B. Thursday evenings.
+        explanationVi: 'Đoạn 2 cho biết: "Evening slots on Thursdays proved exceptionally popular among
+          young professionals and parents..."'
+      - type: MCQ
+        prompt: What can be inferred about the impact of the extended schedule on the department's budget?
+        promptVi: Có thể suy ra điều gì về tác động của lịch trình kéo dài đối với ngân sách của ban ngành?
+        options:
+          - A. It resulted in financial savings from reduced staffing.
+          - B. It increased expenses because of necessary overtime payments.
+          - C. It had no noticeable effect on operational expenditures.
+          - D. It caused the council to completely abandon the project immediately.
+        answer: B. It increased expenses because of necessary overtime payments.
+        explanationVi: Đoạn 3 giải thích việc duy trì nhân sự đòi hỏi chi phí làm ngoài giờ tốn kém, gây áp
+          lực lên ngân sách ("maintaining adequate supervisory coverage required costly overtime
+          payments, which strained the department's allocated budget").
+      - type: TRUE_FALSE
+        statement: Overall service usage decreased by eighteen percent during the six-month trial period.
+        answer: false
+        explanationVi: Đoạn 2 ghi nhận mức sử dụng dịch vụ chung thực tế đã tăng 18%, chứ không giảm
+          ("overall service usage increased by eighteen percent").
+        prompt: Overall service usage decreased by eighteen percent during the six-month trial period.
+        promptVi: Xác định phát biểu tiếng Anh trên đúng hay sai theo bài đọc.
+      - type: TRUE_FALSE
+        statement: The council ultimately voted to extend the trial by another three months under revised
+          conditions.
+        answer: true
+        explanationVi: Đoạn cuối xác nhận hội đồng đã bỏ phiếu gia hạn thí điểm thêm ba tháng với các điều
+          kiện đã sửa đổi ("voted to extend the trial by another three months under these revised
+          conditions").
+        prompt: The council ultimately voted to extend the trial by another three months under revised
+          conditions.
+        promptVi: Xác định phát biểu tiếng Anh trên đúng hay sai theo bài đọc.
+      - type: SHORT_ANSWER
+        prompt: In what month was the flexible hours pilot program initiated in Oakridge? (State an exact
+          month)
+        promptVi: Chương trình thí điểm giờ linh hoạt tại Oakridge được khởi động vào tháng nào? (Nêu rõ một
+          tháng chính xác)
+        accept:
+          - January
+        explanationVi: Đoạn 1 nêu rõ chương trình được bắt đầu vào tháng Giêng ("Initiated in January").
+      - type: SHORT_ANSWER
+        prompt: What type of digital equipment might be installed to handle routine inquiries and reduce
+          physical staffing needs? (State a short phrase)
+        promptVi: Loại thiết bị kỹ thuật số nào có thể được lắp đặt để xử lý các yêu cầu thông thường và
+          giảm nhu cầu nhân sự trực tiếp? (Nêu một cụm từ ngắn)
+        accept:
+          - digital self-service kiosks
+          - self-service kiosks
+          - kiosks
+        explanationVi: Đoạn 4 đề cập đến việc lắp đặt các ki-ốt tự phục vụ kỹ thuật số ("digital
+          self-service kiosks").
+      - type: SHORT_ANSWER
+        prompt: When is the final verdict on the permanent implementation of flexible hours scheduled to
+          take place? (State an exact month)
+        promptVi: Quyết định cuối cùng về việc thực hiện vĩnh viễn giờ linh hoạt dự kiến diễn ra vào thời
+          gian nào? (Nêu một tháng chính xác)
+        accept:
+          - November
+        explanationVi: Đoạn cuối cho biết phán quyết cuối cùng được lên lịch vào tháng 11 ("scheduled for
+          November").
+  - slug: cooperative-membership-rules-revision
+    title: Revising Cooperative Membership Rules
+    titleVi: Sửa đổi quy định thành viên hợp tác xã
+    topic: work
+    estimatedMinutes: 4
+    source: Sprout original
+    glossary: []
+    body: >-
+      The GreenValley Agricultural Cooperative recently convened its annual general assembly to
+      debate a series of sweeping amendments to its foundational membership bylaws. Established over
+      three decades ago, the cooperative had long operated under strict eligibility criteria
+      designed to protect large-scale crop producers. Historically, prospective members were
+      required to own a minimum of five hectares of contiguous arable land and commit at least
+      eighty percent of their annual harvest exclusively to the cooperative's centralized
+      distribution network. While these traditional stipulations ensured a steady and predictable
+      supply of staple grains, aging demographics among the membership prompted the board of
+      directors to reconsider the current framework.
+
+
+      Opening the debate, the cooperative's executive director presented a sobering demographic
+      analysis. The average age of current members had risen to sixty-two, and very few young,
+      next-generation farmers were meeting the rigid land ownership thresholds. Consequently, total
+      cooperative output had declined steadily over the past four consecutive years. To reverse this
+      concerning trend, the board proposed lowering the mandatory land threshold from five hectares
+      to two hectares. Additionally, the revised rules would permit members to allocate up to thirty
+      percent of their produce to alternative local markets, acknowledging the growing demand for
+      diversified organic crops and direct-to-consumer sales.
+
+
+      Predictably, the proposed changes sparked a passionate debate among the assembly.
+      Traditionalist members expressed strong reservations, arguing that relaxing land requirements
+      would dilute the cooperative's collective bargaining power and introduce quality control
+      inconsistencies. They feared that smaller producers might lack the storage infrastructure
+      necessary to maintain high standards. Conversely, younger provisional participants and
+      progressive growers strongly championed the reform, asserting that survival in a modern
+      agricultural economy required adaptability, technological investment, and lower barriers to
+      entry for smaller farm holders.
+
+
+      Following hours of deliberate discussion and a minor amendment regarding quality assurance
+      audits, the assembly proceeded to a formal vote. The motion to revise the membership rules
+      passed with a sixty-eight percent majority. Implementation will begin next month, accompanied
+      by a targeted outreach campaign to recruit younger agricultural entrepreneurs in the region.
+      The board hopes these modernized policies will breathe new life into the cooperative and
+      secure its financial viability for decades to come.
+    questions:
+      - type: MCQ
+        prompt: What was the main purpose of the GreenValley Agricultural Cooperative's annual general
+          assembly?
+        promptVi: Mục đích chính của đại hội đồng thường niên của Hợp tác xã Nông nghiệp GreenValley là gì?
+        options:
+          - A. To debate and vote on sweeping amendments to membership bylaws.
+          - B. To dissolve the cooperative due to permanent financial bankruptcy.
+          - C. To elect a completely new board of directors from outside the region.
+          - D. To transition the organization into a fully digital software firm.
+        answer: A. To debate and vote on sweeping amendments to membership bylaws.
+        explanationVi: Đoạn 1 nêu rõ đại hội họp để tranh luận về một loạt sửa đổi toàn diện đối với điều lệ
+          thành viên cơ bản ("debate a series of sweeping amendments to its foundational membership
+          bylaws").
+      - type: MCQ
+        prompt: What was the average age of current cooperative members according to the executive
+          director's analysis?
+        promptVi: Độ tuổi trung bình của các thành viên hợp tác xã hiện tại theo phân tích của giám đốc điều
+          hành là bao nhiêu?
+        options:
+          - A. Forty-five.
+          - B. Fifty-two.
+          - C. Sixty-two.
+          - D. Seventy-five.
+        answer: C. Sixty-two.
+        explanationVi: Đoạn 2 cho biết độ tuổi trung bình của các thành viên hiện tại đã tăng lên sáu mươi
+          hai ("The average age of current members had risen to sixty-two").
+      - type: MCQ
+        prompt: What can be inferred about the traditionalist members' reaction to the proposed reforms?
+        promptVi: Có thể suy ra điều gì về phản ứng của các thành viên theo chủ nghĩa truyền thống đối với
+          các cải cách được đề xuất?
+        options:
+          - A. They enthusiastically supported immediate implementation without changes.
+          - B. They had strong reservations and worried about diluted bargaining power.
+          - C. They proposed even more radical land reductions than the board.
+          - D. They immediately resigned from the cooperative in protest.
+        answer: B. They had strong reservations and worried about diluted bargaining power.
+        explanationVi: Đoạn 3 nêu rõ các thành viên theo chủ nghĩa truyền thống bày tỏ sự hoài nghi mạnh mẽ
+          và lo ngại làm loãng sức mạnh đàm phán tập thể ("expressed strong reservations, arguing
+          that relaxing land requirements would dilute the cooperative's collective bargaining
+          power").
+      - type: TRUE_FALSE
+        statement: Previously, prospective members were required to own a minimum of five hectares of
+          contiguous arable land.
+        answer: true
+        explanationVi: Đoạn 1 xác nhận các thành viên trước đây phải sở hữu tối thiểu 5 ha đất canh tác liền
+          kề ("required to own a minimum of five hectares of contiguous arable land").
+        prompt: Previously, prospective members were required to own a minimum of five hectares of
+          contiguous arable land.
+        promptVi: Xác định phát biểu tiếng Anh trên đúng hay sai theo bài đọc.
+      - type: TRUE_FALSE
+        statement: The motion to revise the membership rules was ultimately rejected by a sixty-eight
+          percent majority.
+        answer: false
+        explanationVi: Đoạn cuối ghi rõ kiến nghị sửa đổi quy định thành viên đã được thông qua với 68% đa
+          số, chứ không bị bác bỏ ("passed with a sixty-eight percent majority").
+        prompt: The motion to revise the membership rules was ultimately rejected by a sixty-eight percent
+          majority.
+        promptVi: Xác định phát biểu tiếng Anh trên đúng hay sai theo bài đọc.
+      - type: SHORT_ANSWER
+        prompt: What minimum percentage of their harvest did members previously have to supply to the
+          cooperative? Give a number or percentage.
+        promptVi: Trước đây thành viên phải cung cấp tối thiểu bao nhiêu phần trăm sản lượng cho hợp tác xã?
+          Viết số hoặc tỷ lệ phần trăm.
+        accept:
+          - "80"
+          - eighty
+          - 80%
+          - eighty percent
+          - 80 percent
+          - 80 per cent
+          - eighty per cent
+        explanationVi: Đoạn 1 nêu rõ phải cam kết ít nhất 80% sản lượng thu hoạch hàng năm ("commit at least
+          eighty percent of their annual harvest").
+      - type: SHORT_ANSWER
+        prompt: To what new lower hectare threshold did the board propose reducing the mandatory land
+          ownership requirement? (State an exact number)
+        promptVi: Ban quản trị đề xuất giảm yêu cầu sở hữu đất bắt buộc xuống ngưỡng diện tích mới thấp hơn
+          là bao nhiêu ha? (Nêu một con số chính xác)
+        accept:
+          - "2"
+          - two
+          - 2 hectares
+          - two hectares
+        explanationVi: Đoạn 2 cho biết ban quản trị đề xuất hạ mức đất bắt buộc từ 5 hécta xuống 2 hécta
+          ("lowering the mandatory land threshold from five hectares to two hectares").
+      - type: SHORT_ANSWER
+        prompt: What maximum percentage of their produce may members sell through alternative local markets
+          under the revised rules? Give a number or percentage.
+        promptVi: Theo quy định mới, thành viên được bán tối đa bao nhiêu phần trăm sản lượng qua các thị
+          trường địa phương khác? Viết số hoặc tỷ lệ phần trăm.
+        accept:
+          - "30"
+          - thirty
+          - 30%
+          - thirty percent
+          - 30 percent
+          - 30 per cent
+          - thirty per cent
+        explanationVi: Đoạn 2 cho biết quy định mới cho phép phân bổ tới 30% sản lượng cho các thị trường
+          địa phương thay thế ("permit members to allocate up to thirty percent of their produce to
+          alternative local markets").

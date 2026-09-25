@@ -1,0 +1,764 @@
+[
+  {
+    "id": "reading-part5-incomplete-sentences",
+    "skill": "reading",
+    "title": "Part 5 — Incomplete Sentences",
+    "format": "TOEIC Reading — Part 5 · Incomplete Sentences, 30 câu (101–130)",
+    "instructionsVi": "Ba mươi câu độc lập. Ở mục tiêu 650, trọng tâm chuyển từ ngữ pháp cơ bản sang phân biệt từ gần nghĩa và giới từ đi kèm. Giữ 18 giây một câu.",
+    "promptEn": "Select the best word or phrase to complete each sentence.",
+    "passage": "101. The contract renews automatically ______ either party gives ninety days' notice.\n102. Ms Adeyemi was asked to ______ the department's budget before the board meeting.\n103. All contractors must comply ______ the revised safety standards by June.\n104. ______ the delay in shipping, the client agreed to keep the original order.\n105. The report was ______ detailed that the committee needed an extra week.\n106. Applicants are ______ for the role if they hold a valid licence.\n107. The manager took ______ of the situation and reassigned the shift.\n108. Sales have risen ______ since the new branch opened.\n109. The equipment must be inspected ______ to the start of each shift.\n110. We are writing to ______ receipt of your application.\n111. The two proposals differ ______ in their estimated cost.\n112. Please refer ______ the attached guidelines before submitting.\n113. The launch has been postponed ______ further notice.\n114. Staff are encouraged to make ______ of the online training library.\n115. The supplier failed to meet the agreed ______ for delivery.\n116. Only employees with a valid pass are ______ to enter the laboratory.\n117. The committee will meet ______ to review progress.\n118. ______ receiving your payment, we will dispatch the goods.\n119. The figures in the summary are ______ with those in the full report.\n120. She has ______ responsibility for the northern region since March.\n121. The machine broke down ______ the busiest week of the year.\n122. Our records ______ that the invoice was paid on 3 May.\n123. The candidate's experience is highly ______ to this position.\n124. The manager asked for the report to be ______ by Friday at the latest.\n125. Access to the archive is ______ to authorised staff.\n126. The training will be delivered ______ by video link.\n127. Neither the supplier ______ the courier accepted responsibility.\n128. The proposal was rejected on the ______ that it exceeded the budget.\n129. We had ______ arrived when the fire alarm sounded.\n130. The new system is expected to ______ processing times by half.",
+    "timeLimitSec": 540,
+    "questions": [
+      {
+        "id": "p5-101",
+        "kind": "mcq",
+        "prompt": "101. The contract renews automatically ______ either party gives ninety days' notice.",
+        "options": [
+          {
+            "id": "a",
+            "text": "whereas"
+          },
+          {
+            "id": "b",
+            "text": "in case of"
+          },
+          {
+            "id": "c",
+            "text": "provided"
+          },
+          {
+            "id": "d",
+            "text": "unless"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'unless' = trừ khi. 'provided' nghĩa ngược lại; 'in case of' đi với danh từ chứ không đi với mệnh đề."
+      },
+      {
+        "id": "p5-102",
+        "kind": "mcq",
+        "prompt": "102. Ms Adeyemi was asked to ______ the department's budget before the board meeting.",
+        "options": [
+          {
+            "id": "a",
+            "text": "revise"
+          },
+          {
+            "id": "b",
+            "text": "revive"
+          },
+          {
+            "id": "c",
+            "text": "reverse"
+          },
+          {
+            "id": "d",
+            "text": "revolve"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'revise' = sửa đổi cho phù hợp. Ba phương án kia gần giống hình thức nhưng khác hẳn nghĩa."
+      },
+      {
+        "id": "p5-103",
+        "kind": "mcq",
+        "prompt": "103. All contractors must comply ______ the revised safety standards by June.",
+        "options": [
+          {
+            "id": "a",
+            "text": "to"
+          },
+          {
+            "id": "b",
+            "text": "with"
+          },
+          {
+            "id": "c",
+            "text": "for"
+          },
+          {
+            "id": "d",
+            "text": "on"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'comply WITH' là giới từ cố định, phải học theo cụm."
+      },
+      {
+        "id": "p5-104",
+        "kind": "mcq",
+        "prompt": "104. ______ the delay in shipping, the client agreed to keep the original order.",
+        "options": [
+          {
+            "id": "a",
+            "text": "Although"
+          },
+          {
+            "id": "b",
+            "text": "However"
+          },
+          {
+            "id": "c",
+            "text": "Despite"
+          },
+          {
+            "id": "d",
+            "text": "Even though"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "Sau chỗ trống là cụm danh từ nên cần giới từ 'Despite'. 'Although' cần mệnh đề có động từ."
+      },
+      {
+        "id": "p5-105",
+        "kind": "mcq",
+        "prompt": "105. The report was ______ detailed that the committee needed an extra week.",
+        "options": [
+          {
+            "id": "a",
+            "text": "such"
+          },
+          {
+            "id": "b",
+            "text": "too"
+          },
+          {
+            "id": "c",
+            "text": "so"
+          },
+          {
+            "id": "d",
+            "text": "very"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "Cấu trúc 'so + tính từ + that'. 'such' đi với danh từ."
+      },
+      {
+        "id": "p5-106",
+        "kind": "mcq",
+        "prompt": "106. Applicants are ______ for the role if they hold a valid licence.",
+        "options": [
+          {
+            "id": "a",
+            "text": "eligible"
+          },
+          {
+            "id": "b",
+            "text": "legible"
+          },
+          {
+            "id": "c",
+            "text": "available"
+          },
+          {
+            "id": "d",
+            "text": "capable"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'eligible for' = đủ điều kiện. 'legible' là đọc được (chữ viết) — bẫy cặp từ gần giống."
+      },
+      {
+        "id": "p5-107",
+        "kind": "mcq",
+        "prompt": "107. The manager took ______ of the situation and reassigned the shift.",
+        "options": [
+          {
+            "id": "a",
+            "text": "place"
+          },
+          {
+            "id": "b",
+            "text": "part"
+          },
+          {
+            "id": "c",
+            "text": "care"
+          },
+          {
+            "id": "d",
+            "text": "charge"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'take charge of' = đứng ra xử lý. 'take part in' và 'take care of' là cụm khác nghĩa."
+      },
+      {
+        "id": "p5-108",
+        "kind": "mcq",
+        "prompt": "108. Sales have risen ______ since the new branch opened.",
+        "options": [
+          {
+            "id": "a",
+            "text": "steady"
+          },
+          {
+            "id": "b",
+            "text": "steadily"
+          },
+          {
+            "id": "c",
+            "text": "steadiness"
+          },
+          {
+            "id": "d",
+            "text": "steadier"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "Bổ nghĩa cho động từ 'have risen' nên cần trạng từ."
+      },
+      {
+        "id": "p5-109",
+        "kind": "mcq",
+        "prompt": "109. The equipment must be inspected ______ to the start of each shift.",
+        "options": [
+          {
+            "id": "a",
+            "text": "prior"
+          },
+          {
+            "id": "b",
+            "text": "before"
+          },
+          {
+            "id": "c",
+            "text": "earlier"
+          },
+          {
+            "id": "d",
+            "text": "ahead"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'prior TO' là cụm cố định. 'before' không đi với 'to'; 'ahead' cần 'of'."
+      },
+      {
+        "id": "p5-110",
+        "kind": "mcq",
+        "prompt": "110. We are writing to ______ receipt of your application.",
+        "options": [
+          {
+            "id": "a",
+            "text": "accept"
+          },
+          {
+            "id": "b",
+            "text": "admit"
+          },
+          {
+            "id": "c",
+            "text": "approve"
+          },
+          {
+            "id": "d",
+            "text": "acknowledge"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'acknowledge receipt' = xác nhận đã nhận được, cụm cố định trong thư thương mại."
+      },
+      {
+        "id": "p5-111",
+        "kind": "mcq",
+        "prompt": "111. The two proposals differ ______ in their estimated cost.",
+        "options": [
+          {
+            "id": "a",
+            "text": "consider"
+          },
+          {
+            "id": "b",
+            "text": "considerate"
+          },
+          {
+            "id": "c",
+            "text": "considerably"
+          },
+          {
+            "id": "d",
+            "text": "considerable"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "Bổ nghĩa cho động từ 'differ' nên cần trạng từ. 'considerate' nghĩa là chu đáo, khác hẳn."
+      },
+      {
+        "id": "p5-112",
+        "kind": "mcq",
+        "prompt": "112. Please refer ______ the attached guidelines before submitting.",
+        "options": [
+          {
+            "id": "a",
+            "text": "at"
+          },
+          {
+            "id": "b",
+            "text": "to"
+          },
+          {
+            "id": "c",
+            "text": "on"
+          },
+          {
+            "id": "d",
+            "text": "with"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'refer TO' là giới từ cố định."
+      },
+      {
+        "id": "p5-113",
+        "kind": "mcq",
+        "prompt": "113. The launch has been postponed ______ further notice.",
+        "options": [
+          {
+            "id": "a",
+            "text": "by"
+          },
+          {
+            "id": "b",
+            "text": "for"
+          },
+          {
+            "id": "c",
+            "text": "since"
+          },
+          {
+            "id": "d",
+            "text": "until"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'until further notice' = cho tới khi có thông báo mới, cụm cố định."
+      },
+      {
+        "id": "p5-114",
+        "kind": "mcq",
+        "prompt": "114. Staff are encouraged to make ______ of the online training library.",
+        "options": [
+          {
+            "id": "a",
+            "text": "used"
+          },
+          {
+            "id": "b",
+            "text": "use"
+          },
+          {
+            "id": "c",
+            "text": "using"
+          },
+          {
+            "id": "d",
+            "text": "useful"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'make use of' = tận dụng, cụm cố định dùng danh từ 'use'."
+      },
+      {
+        "id": "p5-115",
+        "kind": "mcq",
+        "prompt": "115. The supplier failed to meet the agreed ______ for delivery.",
+        "options": [
+          {
+            "id": "a",
+            "text": "timetable"
+          },
+          {
+            "id": "b",
+            "text": "timely"
+          },
+          {
+            "id": "c",
+            "text": "timing"
+          },
+          {
+            "id": "d",
+            "text": "timed"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "Sau 'the agreed' cần danh từ cụ thể. 'timing' là thời điểm chung, không phải lịch đã thoả thuận."
+      },
+      {
+        "id": "p5-116",
+        "kind": "mcq",
+        "prompt": "116. Only employees with a valid pass are ______ to enter the laboratory.",
+        "options": [
+          {
+            "id": "a",
+            "text": "permitting"
+          },
+          {
+            "id": "b",
+            "text": "permission"
+          },
+          {
+            "id": "c",
+            "text": "permitted"
+          },
+          {
+            "id": "d",
+            "text": "permit"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'are permitted to' — bị động. Nhân viên là người ĐƯỢC cho phép."
+      },
+      {
+        "id": "p5-117",
+        "kind": "mcq",
+        "prompt": "117. The committee will meet ______ to review progress.",
+        "options": [
+          {
+            "id": "a",
+            "text": "quarter"
+          },
+          {
+            "id": "b",
+            "text": "quarters"
+          },
+          {
+            "id": "c",
+            "text": "quarterly"
+          },
+          {
+            "id": "d",
+            "text": "quartered"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "Cần trạng từ chỉ tần suất bổ nghĩa cho 'will meet'."
+      },
+      {
+        "id": "p5-118",
+        "kind": "mcq",
+        "prompt": "118. ______ receiving your payment, we will dispatch the goods.",
+        "options": [
+          {
+            "id": "a",
+            "text": "Until"
+          },
+          {
+            "id": "b",
+            "text": "Upon"
+          },
+          {
+            "id": "c",
+            "text": "Unless"
+          },
+          {
+            "id": "d",
+            "text": "While"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'Upon + V-ing' = ngay khi. 'Until' và 'Unless' đảo ngược logic của câu."
+      },
+      {
+        "id": "p5-119",
+        "kind": "mcq",
+        "prompt": "119. The figures in the summary are ______ with those in the full report.",
+        "options": [
+          {
+            "id": "a",
+            "text": "consistent"
+          },
+          {
+            "id": "b",
+            "text": "consist"
+          },
+          {
+            "id": "c",
+            "text": "consistently"
+          },
+          {
+            "id": "d",
+            "text": "consistency"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "Sau 'are' cần tính từ. 'be consistent with' = khớp với, cụm cố định."
+      },
+      {
+        "id": "p5-120",
+        "kind": "mcq",
+        "prompt": "120. She has ______ responsibility for the northern region since March.",
+        "options": [
+          {
+            "id": "a",
+            "text": "hold"
+          },
+          {
+            "id": "b",
+            "text": "holding"
+          },
+          {
+            "id": "c",
+            "text": "holds"
+          },
+          {
+            "id": "d",
+            "text": "held"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'has held' — hiện tại hoàn thành, đi với 'since March'."
+      },
+      {
+        "id": "p5-121",
+        "kind": "mcq",
+        "prompt": "121. The machine broke down ______ the busiest week of the year.",
+        "options": [
+          {
+            "id": "a",
+            "text": "while"
+          },
+          {
+            "id": "b",
+            "text": "since"
+          },
+          {
+            "id": "c",
+            "text": "during"
+          },
+          {
+            "id": "d",
+            "text": "when"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "Sau chỗ trống là cụm danh từ nên cần giới từ 'during'. 'while' và 'when' cần mệnh đề có động từ."
+      },
+      {
+        "id": "p5-122",
+        "kind": "mcq",
+        "prompt": "122. Our records ______ that the invoice was paid on 3 May.",
+        "options": [
+          {
+            "id": "a",
+            "text": "indicate"
+          },
+          {
+            "id": "b",
+            "text": "indicates"
+          },
+          {
+            "id": "c",
+            "text": "indicating"
+          },
+          {
+            "id": "d",
+            "text": "indication"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'records' số nhiều nên động từ không thêm -s. Bẫy hoà hợp chủ ngữ - động từ."
+      },
+      {
+        "id": "p5-123",
+        "kind": "mcq",
+        "prompt": "123. The candidate's experience is highly ______ to this position.",
+        "options": [
+          {
+            "id": "a",
+            "text": "reliable"
+          },
+          {
+            "id": "b",
+            "text": "reluctant"
+          },
+          {
+            "id": "c",
+            "text": "reasonable"
+          },
+          {
+            "id": "d",
+            "text": "relevant"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'relevant to' = liên quan tới, phù hợp với. Ba phương án kia đều là tính từ hợp lệ nhưng sai nghĩa."
+      },
+      {
+        "id": "p5-124",
+        "kind": "mcq",
+        "prompt": "124. The manager asked for the report to be ______ by Friday at the latest.",
+        "options": [
+          {
+            "id": "a",
+            "text": "submit"
+          },
+          {
+            "id": "b",
+            "text": "submitted"
+          },
+          {
+            "id": "c",
+            "text": "submitting"
+          },
+          {
+            "id": "d",
+            "text": "submission"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'to be + quá khứ phân từ' — bị động. Báo cáo là thứ ĐƯỢC nộp."
+      },
+      {
+        "id": "p5-125",
+        "kind": "mcq",
+        "prompt": "125. Access to the archive is ______ to authorised staff.",
+        "options": [
+          {
+            "id": "a",
+            "text": "restricting"
+          },
+          {
+            "id": "b",
+            "text": "restriction"
+          },
+          {
+            "id": "c",
+            "text": "restricted"
+          },
+          {
+            "id": "d",
+            "text": "restrict"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'is restricted to' — bị động, cụm cố định nghĩa là chỉ dành cho."
+      },
+      {
+        "id": "p5-126",
+        "kind": "mcq",
+        "prompt": "126. The training will be delivered ______ by video link.",
+        "options": [
+          {
+            "id": "a",
+            "text": "entirely"
+          },
+          {
+            "id": "b",
+            "text": "entire"
+          },
+          {
+            "id": "c",
+            "text": "entirety"
+          },
+          {
+            "id": "d",
+            "text": "entirety of"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "Bổ nghĩa cho cụm động từ nên cần trạng từ."
+      },
+      {
+        "id": "p5-127",
+        "kind": "mcq",
+        "prompt": "127. Neither the supplier ______ the courier accepted responsibility.",
+        "options": [
+          {
+            "id": "a",
+            "text": "or"
+          },
+          {
+            "id": "b",
+            "text": "nor"
+          },
+          {
+            "id": "c",
+            "text": "and"
+          },
+          {
+            "id": "d",
+            "text": "but"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'Neither… nor…' là cặp cố định. 'either… or…' mới đi với 'or'."
+      },
+      {
+        "id": "p5-128",
+        "kind": "mcq",
+        "prompt": "128. The proposal was rejected on the ______ that it exceeded the budget.",
+        "options": [
+          {
+            "id": "a",
+            "text": "ground"
+          },
+          {
+            "id": "b",
+            "text": "basis of"
+          },
+          {
+            "id": "c",
+            "text": "reason"
+          },
+          {
+            "id": "d",
+            "text": "grounds"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'on the grounds that' là cụm cố định, luôn ở số nhiều. 'on the basis of' đi với danh từ chứ không đi với 'that'."
+      },
+      {
+        "id": "p5-129",
+        "kind": "mcq",
+        "prompt": "129. We had ______ arrived when the fire alarm sounded.",
+        "options": [
+          {
+            "id": "a",
+            "text": "hard"
+          },
+          {
+            "id": "b",
+            "text": "hardest"
+          },
+          {
+            "id": "c",
+            "text": "harder"
+          },
+          {
+            "id": "d",
+            "text": "hardly"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'had hardly… when…' = vừa mới… thì… 'hard' là tính từ hoặc trạng từ nghĩa 'vất vả', khác hẳn."
+      },
+      {
+        "id": "p5-130",
+        "kind": "mcq",
+        "prompt": "130. The new system is expected to ______ processing times by half.",
+        "options": [
+          {
+            "id": "a",
+            "text": "reduction"
+          },
+          {
+            "id": "b",
+            "text": "reduced"
+          },
+          {
+            "id": "c",
+            "text": "reduce"
+          },
+          {
+            "id": "d",
+            "text": "reducing"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "Sau 'to' trong 'is expected to' cần động từ nguyên mẫu."
+      }
+    ]
+  }
+]

@@ -1,0 +1,680 @@
+[
+  {
+    "id": "listening-part3-c8",
+    "skill": "listening",
+    "title": "Part 3 — Conversation 8: a disputed invoice",
+    "format": "TOEIC Listening — Part 3 · Conversation 8 (câu 53–55)",
+    "instructionsVi": "Nghe rồi trả lời 3 câu. Có một phép tính hai bước và một phân biệt về thời điểm bắt đầu tính hạn thanh toán.",
+    "promptEn": "Listen to the conversation and answer questions 53 through 55.",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "M",
+        "text": "Invoice 8812. Two problems: you've charged express carriage we didn't order, and the volume discount hasn't been applied."
+      },
+      {
+        "speaker": "W",
+        "text": "Let me look. Carriage eighty-five pounds — you're right, your order specified standard. I'll credit that in full."
+      },
+      {
+        "speaker": "M",
+        "text": "And the five per cent on orders above six hundred units. We ordered seven hundred."
+      },
+      {
+        "speaker": "W",
+        "text": "Also correct. I should say the discount applies to the bracket lines only, not carriage — though since the carriage is coming off entirely, that makes no difference here."
+      },
+      {
+        "speaker": "M",
+        "text": "And the payment clock?"
+      },
+      {
+        "speaker": "W",
+        "text": "Thirty days from the corrected invoice, not the original. I'll issue it today."
+      }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p3-53",
+        "kind": "mcq",
+        "prompt": "53. What was wrong with the carriage charge?",
+        "options": [
+          {
+            "id": "a",
+            "text": "It was charged twice."
+          },
+          {
+            "id": "b",
+            "text": "The goods arrived late."
+          },
+          {
+            "id": "c",
+            "text": "Carriage should always be free."
+          },
+          {
+            "id": "d",
+            "text": "Express service was not ordered."
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'you've charged express carriage we didn't order… your order specified standard'."
+      },
+      {
+        "id": "p3-54",
+        "kind": "mcq",
+        "prompt": "54. Why does the woman say the discount clarification makes no difference?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The carriage charge is being removed anyway."
+          },
+          {
+            "id": "b",
+            "text": "The discount has been withdrawn."
+          },
+          {
+            "id": "c",
+            "text": "The order does not qualify."
+          },
+          {
+            "id": "d",
+            "text": "The customer has already paid."
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "Giảm giá không áp cho cước, nhưng cước đã bị xoá hoàn toàn nên phân biệt đó không đổi kết quả."
+      },
+      {
+        "id": "p3-55",
+        "kind": "mcq",
+        "prompt": "55. When does the thirty-day period begin?",
+        "options": [
+          {
+            "id": "a",
+            "text": "From the original invoice date"
+          },
+          {
+            "id": "b",
+            "text": "From the date of delivery"
+          },
+          {
+            "id": "c",
+            "text": "From the corrected invoice date"
+          },
+          {
+            "id": "d",
+            "text": "From the date the dispute was raised"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'Thirty days from the corrected invoice, not the original'."
+      }
+    ]
+  },
+  {
+    "id": "listening-part3-c9",
+    "skill": "listening",
+    "title": "Part 3 — Conversation 9: a policy exception",
+    "format": "TOEIC Listening — Part 3 · Conversation 9 (câu 56–58)",
+    "instructionsVi": "Nghe rồi trả lời 3 câu. Quy định có ngoại lệ, và ngoại lệ lại có điều kiện riêng.",
+    "promptEn": "Listen to the conversation and answer questions 56 through 58.",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "W",
+        "text": "A delegate wants to transfer to the next course. It's four days away."
+      },
+      {
+        "speaker": "M",
+        "text": "Inside fourteen days, so that's the thirty-five pound admin fee."
+      },
+      {
+        "speaker": "W",
+        "text": "She's asking whether we'd waive it. Her original course was the one we cancelled in March."
+      },
+      {
+        "speaker": "M",
+        "text": "Ah — that changes it. Where we cancelled, the free transfer allowance isn't used up, so this counts as her first transfer, not her second."
+      },
+      {
+        "speaker": "W",
+        "text": "So no fee?"
+      },
+      {
+        "speaker": "M",
+        "text": "The free transfer still requires fourteen days' notice. She has four. So the allowance survives, but the late fee applies. I'd charge it and explain why — otherwise nobody understands the rule next time."
+      }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p3-56",
+        "kind": "mcq",
+        "prompt": "56. Why does the delegate think the fee should be waived?",
+        "options": [
+          {
+            "id": "a",
+            "text": "She gave more than fourteen days' notice."
+          },
+          {
+            "id": "b",
+            "text": "She has never transferred before."
+          },
+          {
+            "id": "c",
+            "text": "Her original course was cancelled by the provider."
+          },
+          {
+            "id": "d",
+            "text": "She is unwell."
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'Her original course was the one we cancelled in March'."
+      },
+      {
+        "id": "p3-57",
+        "kind": "mcq",
+        "prompt": "57. What effect does the earlier cancellation have?",
+        "options": [
+          {
+            "id": "a",
+            "text": "It removes all charges."
+          },
+          {
+            "id": "b",
+            "text": "It means her free transfer allowance is still available."
+          },
+          {
+            "id": "c",
+            "text": "It extends the notice period to four days."
+          },
+          {
+            "id": "d",
+            "text": "It entitles her to a refund."
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'Where we cancelled, the free transfer allowance isn't used up'."
+      },
+      {
+        "id": "p3-58",
+        "kind": "mcq",
+        "prompt": "58. What does the man decide?",
+        "options": [
+          {
+            "id": "a",
+            "text": "To charge the late fee and explain the reason"
+          },
+          {
+            "id": "b",
+            "text": "To waive the fee entirely"
+          },
+          {
+            "id": "c",
+            "text": "To refuse the transfer"
+          },
+          {
+            "id": "d",
+            "text": "To offer a refund instead"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'the allowance survives, but the late fee applies. I'd charge it and explain why'. Hai quy tắc độc lập nhau."
+      }
+    ]
+  },
+  {
+    "id": "listening-part3-c10",
+    "skill": "listening",
+    "title": "Part 3 — Conversation 10: assessing a supplier risk",
+    "format": "TOEIC Listening — Part 3 · Conversation 10 (câu 59–61)",
+    "instructionsVi": "Nghe rồi trả lời 3 câu. Người nói bác bỏ một cách hiểu phổ biến trước khi đưa ra cách hiểu đúng.",
+    "promptEn": "Listen to the conversation and answer questions 59 through 61.",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "M",
+        "text": "Northline supply eighty per cent of our brackets. Everyone says that's too concentrated."
+      },
+      {
+        "speaker": "W",
+        "text": "Concentration isn't the risk, though. Substitutability is."
+      },
+      {
+        "speaker": "M",
+        "text": "Meaning?"
+      },
+      {
+        "speaker": "W",
+        "text": "If Northline stopped tomorrow, how long to qualify another supplier for the same part? If it's two weeks, eighty per cent is fine. If it's nine months, then even forty per cent would worry me."
+      },
+      {
+        "speaker": "M",
+        "text": "It's about five months, realistically. Tooling and approval."
+      },
+      {
+        "speaker": "W",
+        "text": "Then the answer isn't to split the volume — that just costs us the discount. It's to qualify a second supplier now and keep them warm with a small order each quarter."
+      }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p3-59",
+        "kind": "mcq",
+        "prompt": "59. What does the woman say the real risk is?",
+        "options": [
+          {
+            "id": "a",
+            "text": "How much of the volume one supplier holds"
+          },
+          {
+            "id": "b",
+            "text": "The price of the brackets"
+          },
+          {
+            "id": "c",
+            "text": "The supplier's financial position"
+          },
+          {
+            "id": "d",
+            "text": "How long it would take to qualify a replacement"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'Concentration isn't the risk… Substitutability is', rồi bà ấy giải thích bằng thời gian phê duyệt nhà cung cấp mới."
+      },
+      {
+        "id": "p3-60",
+        "kind": "mcq",
+        "prompt": "60. How long would it take to qualify another supplier?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Two weeks"
+          },
+          {
+            "id": "b",
+            "text": "Two months"
+          },
+          {
+            "id": "c",
+            "text": "About five months"
+          },
+          {
+            "id": "d",
+            "text": "Nine months"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'It's about five months, realistically. Tooling and approval'. Hai tuần và chín tháng là con số giả định trong ví dụ của bà ấy."
+      },
+      {
+        "id": "p3-61",
+        "kind": "mcq",
+        "prompt": "61. What does she recommend?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Qualifying a second supplier and placing small regular orders"
+          },
+          {
+            "id": "b",
+            "text": "Splitting the volume between two suppliers"
+          },
+          {
+            "id": "c",
+            "text": "Renegotiating the discount with Northline"
+          },
+          {
+            "id": "d",
+            "text": "Bringing production in-house"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'the answer isn't to split the volume — that just costs us the discount. It's to qualify a second supplier now and keep them warm'."
+      }
+    ]
+  },
+  {
+    "id": "listening-part3-c11",
+    "skill": "listening",
+    "title": "Part 3 — Conversation 11: with a cost table",
+    "format": "TOEIC Listening — Part 3 · Conversation 11, kèm bảng trên đề (câu 62–64)",
+    "instructionsVi": "Dạng 'Look at the graphic' ở mức khó: đáp án đòi hỏi một phép tính, không chỉ tra bảng.",
+    "promptEn": "Listen to the conversation and answer questions 62 through 64. Refer to the price list below where indicated.\n\nEXTERNAL TESTING — Meridian Labs\nStandard turnaround (5 days) — £320\nPriority (48 hours) — £540\nExpress (24 hours) — £780\nOn-site sampling, per visit — £160",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "W",
+        "text": "We need the lab result before Friday. Today is Tuesday."
+      },
+      {
+        "speaker": "M",
+        "text": "Standard won't make it — five days takes us past the deadline."
+      },
+      {
+        "speaker": "W",
+        "text": "What about the forty-eight hour option? That gives us Thursday."
+      },
+      {
+        "speaker": "M",
+        "text": "It does, and it's the cheaper of the two fast options. Do we need them to collect the samples?"
+      },
+      {
+        "speaker": "W",
+        "text": "No, I'll drive them over this afternoon. That saves the visit charge."
+      },
+      {
+        "speaker": "M",
+        "text": "Good. Book that one and I'll code it to the quality budget."
+      }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p3-62",
+        "kind": "mcq",
+        "prompt": "62. Look at the graphic. Which service will they book?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Standard turnaround"
+          },
+          {
+            "id": "b",
+            "text": "Express"
+          },
+          {
+            "id": "c",
+            "text": "On-site sampling"
+          },
+          {
+            "id": "d",
+            "text": "Priority"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "Cần kết quả trước thứ Sáu, hôm nay thứ Ba — gói 48 giờ cho kết quả thứ Năm và rẻ hơn gói 24 giờ."
+      },
+      {
+        "id": "p3-63",
+        "kind": "mcq",
+        "prompt": "63. Look at the graphic. What will the total cost be?",
+        "options": [
+          {
+            "id": "a",
+            "text": "£540"
+          },
+          {
+            "id": "b",
+            "text": "£320"
+          },
+          {
+            "id": "c",
+            "text": "£700"
+          },
+          {
+            "id": "d",
+            "text": "£780"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "Chỉ £540 cho gói Priority. Người phụ nữ tự chở mẫu tới nên không mất £160 phí lấy mẫu tại chỗ — bẫy là cộng thêm khoản đó thành £700."
+      },
+      {
+        "id": "p3-64",
+        "kind": "mcq",
+        "prompt": "64. Why is on-site sampling not required?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The lab does not offer it."
+          },
+          {
+            "id": "b",
+            "text": "The samples have already been collected."
+          },
+          {
+            "id": "c",
+            "text": "The woman will deliver the samples herself."
+          },
+          {
+            "id": "d",
+            "text": "It is included in the priority price."
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'I'll drive them over this afternoon. That saves the visit charge'."
+      }
+    ]
+  },
+  {
+    "id": "listening-part3-c12",
+    "skill": "listening",
+    "title": "Part 3 — Conversation 12: a difficult conversation about workload",
+    "format": "TOEIC Listening — Part 3 · Conversation 12 (câu 65–67)",
+    "instructionsVi": "Nghe rồi trả lời 3 câu. Người nói dùng cách nói giảm nhẹ để nêu vấn đề nghiêm túc — nghe lướt sẽ tưởng là chuyện nhỏ.",
+    "promptEn": "Listen to the conversation and answer questions 65 through 67.",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "W",
+        "text": "Have you got a minute? It's about the reporting workload."
+      },
+      {
+        "speaker": "M",
+        "text": "Of course."
+      },
+      {
+        "speaker": "W",
+        "text": "I've been doing the weekly pack alone since Tomas left. It's fine, in the sense that it gets done. It's just that it now takes two days out of five."
+      },
+      {
+        "speaker": "M",
+        "text": "Two days. I hadn't realised it was that much."
+      },
+      {
+        "speaker": "W",
+        "text": "Nobody has, because it always arrives on time. That's rather the problem — there's no signal that anything is wrong until something slips."
+      },
+      {
+        "speaker": "M",
+        "text": "That's a fair point, and I'd rather hear it now than in an exit interview. Let me look at whether the pack needs to be weekly at all. Half of it nobody reads."
+      }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p3-65",
+        "kind": "mcq",
+        "prompt": "65. What is the woman raising?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The amount of time the weekly report takes"
+          },
+          {
+            "id": "b",
+            "text": "A request for a pay rise"
+          },
+          {
+            "id": "c",
+            "text": "Errors in the reporting pack"
+          },
+          {
+            "id": "d",
+            "text": "A complaint about a colleague"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'it now takes two days out of five'."
+      },
+      {
+        "id": "p3-66",
+        "kind": "mcq",
+        "prompt": "66. What does she mean by 'That's rather the problem'?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The report is often late."
+          },
+          {
+            "id": "b",
+            "text": "The report is too long."
+          },
+          {
+            "id": "c",
+            "text": "Delivering on time hides the workload issue."
+          },
+          {
+            "id": "d",
+            "text": "She wants to stop producing it."
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'it always arrives on time… there's no signal that anything is wrong until something slips'."
+      },
+      {
+        "id": "p3-67",
+        "kind": "mcq",
+        "prompt": "67. What will the man look into?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Recruiting a replacement for Tomas"
+          },
+          {
+            "id": "b",
+            "text": "Moving the report to another team"
+          },
+          {
+            "id": "c",
+            "text": "Adding a second reviewer"
+          },
+          {
+            "id": "d",
+            "text": "Whether the pack needs to be produced weekly"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'Let me look at whether the pack needs to be weekly at all. Half of it nobody reads'."
+      }
+    ]
+  },
+  {
+    "id": "listening-part3-c13",
+    "skill": "listening",
+    "title": "Part 3 — Conversation 13: three speakers, a pricing decision",
+    "format": "TOEIC Listening — Part 3 · Conversation 13, ba người nói (câu 68–70)",
+    "instructionsVi": "Hội thoại cuối của Part 3. Ba người, một người chất vấn tiền đề của cuộc thảo luận.",
+    "promptEn": "Listen to the conversation among three speakers and answer questions 68 through 70.",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "M1",
+        "text": "Costs are up nine per cent. The question is whether we pass it on."
+      },
+      {
+        "speaker": "W",
+        "text": "If we raise prices nine per cent we lose the mid-market customers. They're the ones who compare every quarter."
+      },
+      {
+        "speaker": "M2",
+        "text": "Can I question the framing? We're treating this as one price for everybody. Our top twenty accounts have never once queried a price increase, and they're forty per cent of revenue."
+      },
+      {
+        "speaker": "M1",
+        "text": "So a differentiated increase."
+      },
+      {
+        "speaker": "M2",
+        "text": "Yes. Full increase on contracts over a certain size, hold prices on the mid-market for another two quarters."
+      },
+      {
+        "speaker": "W",
+        "text": "That I could support. Though we'd need it written so it doesn't look arbitrary if the two ever compare notes."
+      }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p3-68",
+        "kind": "mcq",
+        "prompt": "68. What is the woman's objection to a general increase?",
+        "options": [
+          {
+            "id": "a",
+            "text": "It would not cover the cost rise."
+          },
+          {
+            "id": "b",
+            "text": "Mid-market customers would be lost."
+          },
+          {
+            "id": "c",
+            "text": "Contracts forbid price changes."
+          },
+          {
+            "id": "d",
+            "text": "Costs may fall again."
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'If we raise prices nine per cent we lose the mid-market customers'."
+      },
+      {
+        "id": "p3-69",
+        "kind": "mcq",
+        "prompt": "69. What does the second man challenge?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The assumption that one price must apply to all customers"
+          },
+          {
+            "id": "b",
+            "text": "The accuracy of the cost figures"
+          },
+          {
+            "id": "c",
+            "text": "The size of the top twenty accounts"
+          },
+          {
+            "id": "d",
+            "text": "The timing of the decision"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'Can I question the framing? We're treating this as one price for everybody'."
+      },
+      {
+        "id": "p3-70",
+        "kind": "mcq",
+        "prompt": "70. What condition does the woman attach to her support?",
+        "options": [
+          {
+            "id": "a",
+            "text": "A review after one quarter"
+          },
+          {
+            "id": "b",
+            "text": "That prices rise for everyone eventually"
+          },
+          {
+            "id": "c",
+            "text": "That the policy be documented so it does not appear arbitrary"
+          },
+          {
+            "id": "d",
+            "text": "That the top accounts be consulted first"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'we'd need it written so it doesn't look arbitrary if the two ever compare notes'."
+      }
+    ]
+  }
+]

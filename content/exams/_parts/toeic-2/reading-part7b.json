@@ -1,0 +1,562 @@
+[
+  {
+    "id": "reading-part7-s8",
+    "skill": "reading",
+    "title": "Part 7 — Single passage 8: press release",
+    "format": "TOEIC Reading — Part 7 · Single passage (câu 166–169)",
+    "instructionsVi": "Thông cáo báo chí, bốn câu hỏi gồm một câu chèn câu và một câu hỏi từ vựng theo ngữ cảnh.",
+    "promptEn": "Refer to the following press release and answer the questions.",
+    "passage": "FOR IMMEDIATE RELEASE\nHarbourside Storage opens second site\n\nKIRBY, 14 June — Harbourside Self-Storage will open a second facility at Meadow Road in September, doubling the company's capacity in the region.\n\n— [1] — The new site will hold 420 units across four size categories, and will be the first Harbourside location with drive-up access to ground-floor units. Managing Director Rowan Beck said this had been the single most common request from customers over the past three years.\n\n— [2] — Twelve staff will be recruited locally, and four existing employees have asked to transfer from the Fairport site.\n\n'We looked at eight locations before choosing this one,' Mr Beck said. — [3] — 'What decided it was the access. A storage unit you can only reach by lift is a different product, whatever the floor plan says.'\n\nThe Fairport site will remain open and is currently at 94 per cent occupancy. — [4] —",
+    "timeLimitSec": 260,
+    "questions": [
+      {
+        "id": "p7-166",
+        "kind": "mcq",
+        "prompt": "166. What is the purpose of the press release?",
+        "options": [
+          {
+            "id": "a",
+            "text": "To announce the opening of a new facility"
+          },
+          {
+            "id": "b",
+            "text": "To advertise a discount on storage"
+          },
+          {
+            "id": "c",
+            "text": "To announce the closure of the Fairport site"
+          },
+          {
+            "id": "d",
+            "text": "To report a change of management"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'will open a second facility at Meadow Road in September'. (C) bị bác bỏ trực tiếp ở đoạn cuối."
+      },
+      {
+        "id": "p7-167",
+        "kind": "mcq",
+        "prompt": "167. What feature is new for the company?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Four size categories"
+          },
+          {
+            "id": "b",
+            "text": "Twenty-four-hour opening"
+          },
+          {
+            "id": "c",
+            "text": "On-site staff"
+          },
+          {
+            "id": "d",
+            "text": "Drive-up access to ground-floor units"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'will be the first Harbourside location with drive-up access to ground-floor units'."
+      },
+      {
+        "id": "p7-168",
+        "kind": "mcq",
+        "prompt": "168. The word 'access' in paragraph 4 is closest in meaning to",
+        "options": [
+          {
+            "id": "a",
+            "text": "permission to enter"
+          },
+          {
+            "id": "b",
+            "text": "the ease of reaching the units"
+          },
+          {
+            "id": "c",
+            "text": "the cost of renting"
+          },
+          {
+            "id": "d",
+            "text": "the opening hours"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "Câu tiếp theo giải thích: 'A storage unit you can only reach by lift is a different product' — nói về việc tiếp cận dễ hay khó, không phải quyền vào."
+      },
+      {
+        "id": "p7-169",
+        "kind": "mcq",
+        "prompt": "169. In which of the positions marked [1], [2], [3] and [4] does the following sentence best belong?\n\n'Recruitment for those roles will begin in July.'",
+        "options": [
+          {
+            "id": "a",
+            "text": "[1]"
+          },
+          {
+            "id": "b",
+            "text": "[3]"
+          },
+          {
+            "id": "c",
+            "text": "[2]"
+          },
+          {
+            "id": "d",
+            "text": "[4]"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "Cụm 'those roles' phải trỏ về các vị trí vừa được nhắc. Đoạn bắt đầu ở [2] nói về việc tuyển mười hai nhân viên, nên câu chèn phải nằm trong mạch đó; ba vị trí kia chưa có vị trí tuyển dụng nào để 'those roles' trỏ tới."
+      }
+    ]
+  },
+  {
+    "id": "reading-part7-s9",
+    "skill": "reading",
+    "title": "Part 7 — Single passage 9: memo with a table",
+    "format": "TOEIC Reading — Part 7 · Single passage (câu 170–172)",
+    "instructionsVi": "Bản ghi nhớ kèm bảng. Câu hỏi buộc đối chiếu phần chữ với phần bảng.",
+    "promptEn": "Refer to the following memo and answer the questions.",
+    "passage": "MEMORANDUM\nTo: All department heads\nFrom: Facilities\nSubject: Room booking charges from 1 October\n\nInternal room bookings have until now been free. From 1 October, an internal recharge will apply, shown below. The purpose is not to raise revenue but to reduce the number of rooms booked and then left empty, which last quarter ran at 31 per cent.\n\nRoom · Capacity · Half day · Full day\nBoardroom · 18 · £40 · £70\nTraining Room A · 30 · £55 · £95\nTraining Room B · 12 · £25 · £45\nAtrium space · 80 · £120 · £200\n\nBookings cancelled more than 48 hours in advance are not charged. Cancellations inside 48 hours are charged at half the rate. A booking that is simply not used is charged in full.\n\nDepartments will be invoiced quarterly. The Atrium remains free for all-staff events.",
+    "timeLimitSec": 200,
+    "questions": [
+      {
+        "id": "p7-170",
+        "kind": "mcq",
+        "prompt": "170. What is the stated purpose of the charges?",
+        "options": [
+          {
+            "id": "a",
+            "text": "To raise revenue for Facilities"
+          },
+          {
+            "id": "b",
+            "text": "To reduce unused bookings"
+          },
+          {
+            "id": "c",
+            "text": "To pay for new furniture"
+          },
+          {
+            "id": "d",
+            "text": "To limit the number of meetings"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'The purpose is not to raise revenue but to reduce the number of rooms booked and then left empty'. Câu phủ định loại thẳng (A)."
+      },
+      {
+        "id": "p7-171",
+        "kind": "mcq",
+        "prompt": "171. A department books Training Room A for a full day and cancels 24 hours beforehand. What is charged?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Nothing"
+          },
+          {
+            "id": "b",
+            "text": "£27.50"
+          },
+          {
+            "id": "c",
+            "text": "£95.00"
+          },
+          {
+            "id": "d",
+            "text": "£47.50"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "Cả ngày Training Room A là £95; huỷ trong vòng 48 giờ chịu một nửa = £47,50. Phải ghép quy tắc với bảng giá."
+      },
+      {
+        "id": "p7-172",
+        "kind": "mcq",
+        "prompt": "172. Which booking is not charged?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The Boardroom for a half day"
+          },
+          {
+            "id": "b",
+            "text": "A room booked but not used"
+          },
+          {
+            "id": "c",
+            "text": "The Atrium for an all-staff event"
+          },
+          {
+            "id": "d",
+            "text": "Training Room B for a full day"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'The Atrium remains free for all-staff events'. (B) bị tính đủ giá."
+      }
+    ]
+  },
+  {
+    "id": "reading-part7-s10",
+    "skill": "reading",
+    "title": "Part 7 — Single passage 10: terms and conditions",
+    "format": "TOEIC Reading — Part 7 · Single passage (câu 173–175)",
+    "instructionsVi": "Trích điều khoản. Câu hỏi buộc ÁP DỤNG quy định vào một tình huống cụ thể.",
+    "promptEn": "Refer to the following terms and answer the questions.",
+    "passage": "MEADOWBANK GROCERS — Delivery terms\n\n1. Same-day delivery is available on orders placed before 2 p.m., Monday to Saturday.\n2. Delivery is charged at £4.90, or free on orders over £60 before any discount is applied.\n3. Substitutions will be made where an item is unavailable, unless the customer has selected 'no substitutions' at checkout.\n4. Chilled and frozen items must be signed for by an adult. If nobody is available, the whole order is returned to the store, not only the chilled items.\n5. Refunds for missing items are credited to the account within three working days. Refunds to a card take up to ten.",
+    "timeLimitSec": 200,
+    "questions": [
+      {
+        "id": "p7-173",
+        "kind": "mcq",
+        "prompt": "173. A customer spends £64 and applies a £10 discount code. Is delivery free?",
+        "options": [
+          {
+            "id": "a",
+            "text": "No — the final total is below £60."
+          },
+          {
+            "id": "b",
+            "text": "Yes — the threshold is based on the amount before discount."
+          },
+          {
+            "id": "c",
+            "text": "Only if the order is placed before 2 p.m."
+          },
+          {
+            "id": "d",
+            "text": "Only on orders over £70."
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "Điều 2: 'free on orders over £60 before any discount is applied'. Phải đọc kỹ cụm 'before any discount'."
+      },
+      {
+        "id": "p7-174",
+        "kind": "mcq",
+        "prompt": "174. What happens if nobody is home to sign for chilled items?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Only the chilled items are returned."
+          },
+          {
+            "id": "b",
+            "text": "The order is left with a neighbour."
+          },
+          {
+            "id": "c",
+            "text": "The whole order is returned to the store."
+          },
+          {
+            "id": "d",
+            "text": "The order is redelivered the next day."
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "Điều 4: 'the whole order is returned to the store, not only the chilled items'."
+      },
+      {
+        "id": "p7-175",
+        "kind": "mcq",
+        "prompt": "175. How long does a card refund take?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Up to ten working days"
+          },
+          {
+            "id": "b",
+            "text": "Same day"
+          },
+          {
+            "id": "c",
+            "text": "Up to three working days"
+          },
+          {
+            "id": "d",
+            "text": "Refunds are only credited to the account."
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "Điều 5: hoàn vào tài khoản mất ba ngày, hoàn về thẻ mất tới mười ngày. Bẫy là lấy nhầm con số của phương thức kia."
+      }
+    ]
+  },
+  {
+    "id": "reading-part7-d1",
+    "skill": "reading",
+    "title": "Part 7 — Double passage 1: advertisement and email",
+    "format": "TOEIC Reading — Part 7 · Double passage (câu 176–180)",
+    "instructionsVi": "Bộ hai văn bản, 5 câu. Ít nhất hai câu chỉ trả lời được khi ghép thông tin từ cả hai.",
+    "promptEn": "Refer to the following advertisement and email, then answer the questions.",
+    "passage": "ADVERTISEMENT\nMERIDIAN PRINT — Business printing, Fairport\n\nBusiness cards (500) ......... £45\nLeaflets A5 (1,000) .......... £110\nRoller banner (850mm) ........ £95\nExhibition backdrop (3m) ..... £340\n\n· Next-day delivery on orders placed before 3 p.m.\n· Design service available at £60 per item.\n· New business customers: 20% off printing on a first order. Discount does not apply to design work or delivery.\n· Free delivery on orders over £200 after discount.\n\n---\n\nEMAIL\nFrom: s.mensah@lambertco.example\nTo: sales@meridianprint.example\nDate: 2 August\nSubject: First order — trade fair materials\n\nHello,\n\nWe are exhibiting for the first time in September and need materials. This is our first order with you.\n\nWe would like 500 business cards, one roller banner and one exhibition backdrop. We have print-ready artwork for the business cards, but we will need your design service for the banner and the backdrop.\n\nCould you confirm the total, and whether delivery would be free at that level? We would need everything by 5 September.\n\nRegards,\nSelina Mensah",
+    "timeLimitSec": 320,
+    "questions": [
+      {
+        "id": "p7-176",
+        "kind": "mcq",
+        "prompt": "176. What is the purpose of the email?",
+        "options": [
+          {
+            "id": "a",
+            "text": "To complain about a previous order"
+          },
+          {
+            "id": "b",
+            "text": "To cancel a booking"
+          },
+          {
+            "id": "c",
+            "text": "To request a quotation for a first order"
+          },
+          {
+            "id": "d",
+            "text": "To apply for a design job"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'Could you confirm the total, and whether delivery would be free at that level?'"
+      },
+      {
+        "id": "p7-177",
+        "kind": "mcq",
+        "prompt": "177. What is the printing cost before discount?",
+        "options": [
+          {
+            "id": "a",
+            "text": "£140"
+          },
+          {
+            "id": "b",
+            "text": "£435"
+          },
+          {
+            "id": "c",
+            "text": "£555"
+          },
+          {
+            "id": "d",
+            "text": "£480"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "Danh thiếp £45 + roller banner £95 + backdrop £340 = £480. Phần thiết kế tính riêng."
+      },
+      {
+        "id": "p7-178",
+        "kind": "mcq",
+        "prompt": "178. How much is the design work?",
+        "options": [
+          {
+            "id": "a",
+            "text": "£120"
+          },
+          {
+            "id": "b",
+            "text": "£60"
+          },
+          {
+            "id": "c",
+            "text": "£180"
+          },
+          {
+            "id": "d",
+            "text": "Nothing — it is included."
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "Cần thiết kế cho HAI hạng mục (banner và backdrop) ở mức £60 mỗi hạng mục = £120. Danh thiếp đã có sẵn bản in."
+      },
+      {
+        "id": "p7-179",
+        "kind": "mcq",
+        "prompt": "179. Will delivery be free?",
+        "options": [
+          {
+            "id": "a",
+            "text": "No — the discount brings the total below £200."
+          },
+          {
+            "id": "b",
+            "text": "Yes — printing after discount is £384, which is over £200."
+          },
+          {
+            "id": "c",
+            "text": "Only if the order is placed before 3 p.m."
+          },
+          {
+            "id": "d",
+            "text": "Only for repeat customers."
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "£480 giảm 20% còn £384, vượt ngưỡng £200 sau giảm giá. Phải ghép quy tắc giảm giá với quy tắc miễn phí giao hàng."
+      },
+      {
+        "id": "p7-180",
+        "kind": "mcq",
+        "prompt": "180. What is suggested about the deadline?",
+        "options": [
+          {
+            "id": "a",
+            "text": "It cannot be met."
+          },
+          {
+            "id": "b",
+            "text": "The order must be placed in September."
+          },
+          {
+            "id": "c",
+            "text": "Next-day delivery makes it achievable."
+          },
+          {
+            "id": "d",
+            "text": "Design work cannot be completed in time."
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "Email gửi ngày 2/8, cần hàng trước 5/9, và quảng cáo nêu giao hàng ngày hôm sau — thừa thời gian."
+      }
+    ]
+  },
+  {
+    "id": "reading-part7-d2",
+    "skill": "reading",
+    "title": "Part 7 — Double passage 2: policy and complaint",
+    "format": "TOEIC Reading — Part 7 · Double passage (câu 181–185)",
+    "instructionsVi": "Bộ hai văn bản. Câu hỏi buộc áp dụng điều khoản ở văn bản 1 vào tình huống ở văn bản 2.",
+    "promptEn": "Refer to the following policy and email, then answer the questions.",
+    "passage": "POLICY — Westgate Business Skills, course transfers and refunds\n\n1. A delegate may transfer to a later date once, free of charge, provided notice is given at least fourteen days before the course.\n2. Transfers requested inside fourteen days incur an administration fee of £35.\n3. A delegate may send a substitute at any time, including on the day, at no charge.\n4. Refunds are available only where Westgate cancels the course.\n5. Where a course is cancelled by Westgate, delegates may choose a full refund or a transfer to any future date, and the transfer allowance in clause 1 is not used up.\n\n---\n\nEMAIL\nFrom: t.okoye@lambertco.example\nTo: bookings@westgateskills.example\nDate: 20 October\nSubject: Project Scheduling, 24 October\n\nHello,\n\nTwo of my four delegates can no longer attend the course on 24 October. One has a client meeting that cannot be moved; the other is unwell and unlikely to be fit by Thursday.\n\nFor the first, a colleague from the same team could attend instead. For the second, we would prefer to move her to the next available date.\n\nCould you tell me what each of those would cost?\n\nRegards,\nTemi Okoye",
+    "timeLimitSec": 320,
+    "questions": [
+      {
+        "id": "p7-181",
+        "kind": "mcq",
+        "prompt": "181. What will the substitution cost?",
+        "options": [
+          {
+            "id": "a",
+            "text": "£35"
+          },
+          {
+            "id": "b",
+            "text": "The full course fee"
+          },
+          {
+            "id": "c",
+            "text": "Nothing"
+          },
+          {
+            "id": "d",
+            "text": "Half the course fee"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "Điều 3: 'may send a substitute at any time, including on the day, at no charge'."
+      },
+      {
+        "id": "p7-182",
+        "kind": "mcq",
+        "prompt": "182. What will the transfer cost?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Nothing"
+          },
+          {
+            "id": "b",
+            "text": "The full course fee"
+          },
+          {
+            "id": "c",
+            "text": "It is not permitted."
+          },
+          {
+            "id": "d",
+            "text": "£35"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "Email gửi ngày 20/10 cho khoá ngày 24/10 — chỉ còn 4 ngày, dưới ngưỡng 14 ngày, nên chịu phí £35 theo điều 2."
+      },
+      {
+        "id": "p7-183",
+        "kind": "mcq",
+        "prompt": "183. Could Ms Okoye obtain a refund for the unwell delegate?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Yes, with a medical certificate"
+          },
+          {
+            "id": "b",
+            "text": "No — refunds apply only if Westgate cancels"
+          },
+          {
+            "id": "c",
+            "text": "Yes, minus an administration fee"
+          },
+          {
+            "id": "d",
+            "text": "Yes, if requested within fourteen days"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "Điều 4: 'Refunds are available only where Westgate cancels the course'. Lý do cá nhân không đủ điều kiện."
+      },
+      {
+        "id": "p7-184",
+        "kind": "mcq",
+        "prompt": "184. If Westgate cancelled the course, what would delegates be entitled to?",
+        "options": [
+          {
+            "id": "a",
+            "text": "A choice of refund or transfer, without using the free transfer"
+          },
+          {
+            "id": "b",
+            "text": "A refund only"
+          },
+          {
+            "id": "c",
+            "text": "A transfer only"
+          },
+          {
+            "id": "d",
+            "text": "A credit note valid for one year"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "Điều 5 nêu cả hai lựa chọn và nói rõ 'the transfer allowance in clause 1 is not used up'."
+      },
+      {
+        "id": "p7-185",
+        "kind": "mcq",
+        "prompt": "185. How many of Ms Okoye's delegates will attend on 24 October as originally booked?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Two"
+          },
+          {
+            "id": "b",
+            "text": "One"
+          },
+          {
+            "id": "c",
+            "text": "Three"
+          },
+          {
+            "id": "d",
+            "text": "Four"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "Bốn người đăng ký, hai người không dự được. Một trong hai được thay bằng đồng nghiệp, nhưng câu hỏi hỏi số người dự ĐÚNG NHƯ đăng ký ban đầu — tức hai."
+      }
+    ]
+  }
+]

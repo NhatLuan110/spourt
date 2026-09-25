@@ -1,0 +1,207 @@
+# Bài đọc B2 — lập luận nhiều tầng, từ vựng học thuật.
+cefr: B2
+passages:
+  - slug: what-the-webb-telescope-actually-does
+    title: What the Webb Telescope Actually Does
+    titleVi: Kính viễn vọng Webb thực sự làm gì
+    topic: space
+    estimatedMinutes: 7
+    source: Sprout original
+    glossary: [telescope, orbit, galaxy, atmosphere, astronomer, universe, launch, spacecraft]
+    body: |
+      Press coverage of the James Webb Space Telescope has settled on a single phrase:
+      it looks back in time. The phrase is true, and it is repeated so often that it
+      has stopped explaining anything. It is worth being more precise, because the
+      precision is where the interesting part lives.
+
+      Light travels at a fixed speed, so anything you see, you see late. The Sun you
+      look at is eight minutes old. A galaxy a billion light years away is a billion
+      years old by the time its light reaches a detector. In that sense every
+      telescope ever built has looked back in time, including the one in your
+      neighbour's garden. Webb's advantage is not that it looks backwards. It is that
+      it looks backwards in infrared.
+
+      This matters because the universe is expanding. As light crosses expanding
+      space, its wavelength is stretched. Visible light emitted by the earliest
+      galaxies arrives here shifted into the infrared, where the Hubble telescope
+      could barely see and where the human eye cannot see at all. To catch that light
+      you need an instrument designed for heat, which creates an awkward engineering
+      problem: your own telescope is warm, and it glows in exactly the band you are
+      trying to observe.
+
+      Almost every strange feature of the spacecraft follows from that one constraint.
+      The five-layer sunshield, the size of a tennis court, exists to keep the mirrors
+      near minus 230 degrees. The orbit is not around the Earth at all but around a
+      balance point one and a half million kilometres away, so that the Sun, the Earth
+      and the Moon stay on the same side and can all be blocked at once. The gold
+      coating on the mirrors reflects infrared efficiently. Even the decision to fold
+      the whole observatory into a rocket and unfold it in space, a sequence with
+      hundreds of steps that could not be tested as a whole on the ground, followed
+      from needing a mirror far larger than any launch vehicle.
+
+      What astronomers do with it is more varied than the deep-field images suggest.
+      Webb can take the spectrum of a planet's atmosphere as that planet passes in
+      front of its star, reading which molecules absorb which wavelengths. That is a
+      chemistry experiment conducted at a distance of several hundred light years, and
+      it is probably the instrument's most consequential capability, even though it
+      produces graphs rather than pictures.
+
+      The graphs will outlast the pictures. That is usually how it goes.
+    questions:
+      - type: MCQ
+        prompt: What does the author say is Webb's real advantage over earlier telescopes?
+        options:
+          - It observes in infrared rather than visible light
+          - It is the first telescope to look back in time
+          - It orbits closer to the Earth than Hubble
+          - It uses a single large mirror instead of segments
+        answer: It observes in infrared rather than visible light
+        explanationVi: "Cuối đoạn hai: \"It is that it looks backwards in infrared\" —
+          lợi thế nằm ở dải hồng ngoại, không phải ở việc nhìn về quá khứ."
+      - type: MCQ
+        prompt: Why is the telescope's own warmth an engineering problem?
+        options:
+          - It glows in the same infrared band the instrument is trying to observe
+          - It expands the mirrors and blurs the image
+          - It drains the spacecraft's solar power
+          - It makes the gold coating peel away
+        answer: It glows in the same infrared band the instrument is trying to observe
+        explanationVi: "Cuối đoạn ba: kính tự nóng và phát sáng đúng ở dải mà nó đang
+          cố quan sát."
+      - type: MCQ
+        prompt: Why does Webb orbit a balance point rather than the Earth?
+        options:
+          - So the Sun, Earth and Moon stay on one side and can be blocked together
+          - So it can be reached quickly by repair missions
+          - So its solar panels always face away from the Sun
+          - So it can photograph the far side of the Moon
+        answer: So the Sun, Earth and Moon stay on one side and can be blocked together
+        explanationVi: "Đoạn bốn giải thích quỹ đạo quanh điểm cân bằng giữ ba nguồn
+          nhiệt về cùng một phía để tấm chắn che được cả ba."
+      - type: TRUE_FALSE
+        prompt: Đúng hay sai theo bài đọc?
+        statement: The author thinks the phrase "it looks back in time" is factually wrong.
+        answer: false
+        explanationVi: "Sai. Tác giả nói câu đó đúng (\"The phrase is true\") nhưng bị
+          lặp nhiều đến mức không còn giải thích được gì."
+      - type: TRUE_FALSE
+        prompt: Đúng hay sai theo bài đọc?
+        statement: The unfolding sequence in space could not be fully tested on the ground.
+        answer: true
+        explanationVi: "Đúng. Đoạn bốn: chuỗi hàng trăm bước triển khai \"could not be
+          tested as a whole on the ground\"."
+      - type: SHORT_ANSWER
+        prompt: "How large is the sunshield, according to the passage?"
+        accept: ["the size of a tennis court", "a tennis court", "tennis court"]
+        explanationVi: "\"The five-layer sunshield, the size of a tennis court\"."
+      - type: SHORT_ANSWER
+        prompt: "Tác giả cho rằng khả năng quan trọng nhất của Webb là gì? Trả lời ngắn bằng tiếng Anh."
+        accept:
+          - taking the spectrum of a planet's atmosphere
+          - reading the atmosphere of a planet
+          - spectrum of a planet's atmosphere
+          - measuring which molecules absorb which wavelengths
+        explanationVi: "Đoạn năm: chụp quang phổ khí quyển của một hành tinh khi nó đi
+          qua trước ngôi sao — một thí nghiệm hoá học từ xa."
+      - type: SHORT_ANSWER
+        prompt: "Nhiệt độ mà tấm chắn giữ cho gương là bao nhiêu? Trả lời bằng tiếng Anh."
+        accept: ["minus 230 degrees", "-230", "minus 230", "230 degrees below zero"]
+        explanationVi: "\"to keep the mirrors near minus 230 degrees\"."
+
+  - slug: the-cost-of-a-cheap-t-shirt
+    title: The Cost of a Cheap T-Shirt
+    titleVi: Cái giá của một chiếc áo phông rẻ
+    topic: environment
+    estimatedMinutes: 6
+    source: Sprout original
+    glossary: [waste, dispose, landfill]
+    body: |
+      A cotton T-shirt sold for four dollars is one of the more remarkable
+      objects of the last thirty years. Someone grew the cotton, someone spun
+      it, someone dyed it, someone sewed it, someone shipped it eight thousand
+      kilometres, and someone put it on a shelf — and the whole chain still
+      turned a profit at four dollars.
+
+      The obvious explanation is cheap labour, and it is part of the answer. But
+      it is not most of it. Wages account for a small fraction of the retail
+      price of a garment; a large rise in the sewing wage would move the shelf
+      price by cents, not dollars.
+
+      The larger part of the answer is volume. A factory that makes ten thousand
+      shirts pays for its machines once and then divides that cost by ten
+      thousand. Push it to a million and the per-shirt cost of everything except
+      the cotton itself collapses. Cheapness is not primarily extracted from
+      workers. It is manufactured by scale.
+
+      Which is why the environmental argument is harder than it first appears.
+      Scale is what makes the shirt cheap, and cheapness is what makes people
+      buy four of them instead of one. The average garment is now worn seven to
+      ten times before it is thrown away. Landfills in several countries receive
+      more textile waste by weight than they did food waste twenty years ago.
+
+      The usual response is to tell shoppers to buy less, and there is nothing
+      wrong with the advice except that it has been given for two decades
+      without measurable effect. Habits formed by price are not easily undone by
+      argument.
+
+      A more promising line is duller and less satisfying: change what the price
+      includes. If disposing of a garment cost the company that made it, rather
+      than the city that collects it, the arithmetic that produced the
+      four-dollar shirt would produce something else instead. Several countries
+      have begun writing exactly that into law.
+
+      It is not a moral argument, and it does not ask anyone to feel guilty in a
+      shop. That is probably its main advantage.
+    questions:
+      - type: MCQ
+        prompt: According to the passage, what is the main reason a T-shirt can be sold so cheaply?
+        options:
+          - The scale of production
+          - Low wages alone
+          - Cheap cotton
+          - Short shipping distances
+        answer: The scale of production
+        explanationVi: "Bài viết nói rõ \"Cheapness is not primarily extracted from
+          workers. It is manufactured by scale.\""
+      - type: MCQ
+        prompt: Why does the writer say the environmental argument is harder than it looks?
+        options:
+          - The thing that makes shirts cheap is also what makes people buy more
+          - Cotton cannot be recycled
+          - Factories are in other countries
+          - Consumers do not care about the environment
+        answer: The thing that makes shirts cheap is also what makes people buy more
+        explanationVi: "\"Scale is what makes the shirt cheap, and cheapness is what
+          makes people buy four of them instead of one.\""
+      - type: TRUE_FALSE
+        prompt: Đúng hay sai theo bài đọc?
+        statement: The writer thinks telling shoppers to buy less has worked well.
+        answer: false
+        explanationVi: "Sai. Tác giả nói lời khuyên đó đã được đưa ra suốt hai thập kỷ
+          mà không có hiệu quả đo được."
+      - type: TRUE_FALSE
+        prompt: Đúng hay sai theo bài đọc?
+        statement: A large rise in sewing wages would raise the shelf price by several dollars.
+        answer: false
+        explanationVi: "Sai — bài viết nói mức tăng đó chỉ dịch giá vài xu, không phải
+          vài đô la."
+      - type: SHORT_ANSWER
+        prompt: How many times is the average garment worn before being thrown away?
+        accept: ["seven to ten times", "seven to ten", "7 to 10", "7-10 times"]
+        explanationVi: "\"worn seven to ten times before it is thrown away\"."
+      - type: SHORT_ANSWER
+        prompt: "Giải pháp tác giả cho là hứa hẹn hơn là gì? Trả lời ngắn bằng tiếng Anh."
+        accept:
+          - "change what the price includes"
+          - "changing what the price includes"
+          - "make the maker pay for disposal"
+        explanationVi: "\"A more promising line ... change what the price includes\" —
+          buộc chi phí thải bỏ vào giá thành."
+      - type: SHORT_ANSWER
+        prompt: "Theo câu cuối, ưu điểm chính của cách tiếp cận đó là gì? Trả lời bằng tiếng Anh."
+        accept:
+          - "it does not ask anyone to feel guilty"
+          - "it is not a moral argument"
+          - "it does not make people feel guilty"
+        explanationVi: "\"it does not ask anyone to feel guilty in a shop. That is
+          probably its main advantage.\""

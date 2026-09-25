@@ -1,0 +1,56 @@
+[
+  {
+    "id": "speaking-describe-picture",
+    "skill": "speaking",
+    "title": "Speaking Q3 — Describe a picture",
+    "format": "TOEIC Speaking — Describe a Picture · 45 giây chuẩn bị, 45 giây nói",
+    "instructionsVi": "Tả cảnh trong 45 giây. Đề thi cho ảnh; ở đây ảnh được mô tả bằng chữ để bạn luyện cấu trúc câu. Trình tự chuẩn: nơi chốn → người và hành động chính → chi tiết phụ → phỏng đoán.",
+    "promptEn": "Describe the scene below in as much detail as you can. You have 45 seconds to prepare and 45 seconds to speak.\n\nSCENE: A busy hotel reception area. Behind a long wooden counter, two staff members in dark uniforms are working — one is typing at a computer, the other is handing a key card to a guest. In front of the counter, a woman in a grey coat stands with a suitcase, looking at her phone. To the left, three armchairs surround a low table with a vase of flowers; an older man is seated reading a newspaper. Large windows at the back show rain outside. A sign on the counter reads 'Check-in from 3 p.m.'",
+    "timeLimitSec": 45,
+    "preparationSec": 45,
+    "sampleAnswer": "This picture shows the reception area of a hotel, and it looks quite busy. In the middle of the picture, there is a long wooden counter. Behind it, two members of staff are working. Both of them are wearing dark uniforms. One of them is typing at a computer, while the other is handing a key card to a guest.\n\nIn front of the counter, a woman in a grey coat is standing with a suitcase next to her. She is looking at her phone, so she is probably waiting to check in.\n\nOn the left side of the picture, there are three armchairs around a low table with a vase of flowers on it. An older man is sitting in one of the chairs and reading a newspaper.\n\nIn the background, I can see large windows, and it appears to be raining outside. There is also a sign on the counter which says check-in starts at three o'clock.",
+    "rubricVi": [
+      "Bắt đầu bằng câu tổng quát về nơi chốn ('This picture shows...'), rồi mới đi vào chi tiết. Giám khảo chấm bố cục của phần mô tả.",
+      "Dùng hiện tại tiếp diễn cho hành động đang diễn ra: is typing, is handing, is standing. Đây là điểm ngữ pháp mà dạng bài này luôn kiểm tra.",
+      "Dùng ngôn ngữ vị trí: in the middle, behind, in front of, on the left, in the background. Thiếu mảng từ này là mất điểm mạch lạc.",
+      "Nói hết 45 giây. Dừng ở giây 25 là mất điểm dù những gì nói ra đều đúng.",
+      "Được phép phỏng đoán ở cuối ('she is probably waiting to check in'), nhưng phải dùng từ chỉ khả năng, không khẳng định chắc chắn."
+    ]
+  },
+  {
+    "id": "speaking-respond-questions",
+    "skill": "speaking",
+    "title": "Speaking Q4–6 — Respond to questions",
+    "format": "TOEIC Speaking — Respond to Questions · không chuẩn bị, 15/15/30 giây",
+    "instructionsVi": "Ba câu hỏi liên tiếp về một chủ đề, KHÔNG có thời gian chuẩn bị. Hai câu đầu trả lời 15 giây, câu cuối 30 giây. Trả lời ngay khi có tín hiệu — im lặng suy nghĩ là mất điểm.",
+    "promptEn": "Imagine that a market research company is conducting a survey about commuting in your area. Answer the three questions.\n\n1. How do you usually travel to work or school, and how long does it take? (15 seconds)\n2. Have you ever changed the way you commute? Why or why not? (15 seconds)\n3. What would encourage more people in your city to use public transport? (30 seconds)",
+    "timeLimitSec": 60,
+    "preparationSec": 0,
+    "sampleAnswer": "1. I usually travel to work by motorbike. It takes me about twenty-five minutes each way, although it can be closer to forty minutes if I leave during the busiest part of the morning.\n\n2. Yes, I have. I used to take the bus, but I changed to a motorbike about two years ago because the bus route was cancelled and the replacement took much longer.\n\n3. I think two things would make the biggest difference. First, the buses need to come more often. At the moment people wait fifteen or twenty minutes, and if you are going to work, that uncertainty is worse than the waiting itself. Second, the stops need shelter and clear timetables, because standing in the sun or the rain with no information makes people give up very quickly. If those two things improved, I believe many people would switch, because the cost is already lower than driving.",
+    "rubricVi": [
+      "Trả lời NGAY khi nghe tín hiệu, không im lặng nghĩ. Không có thời gian chuẩn bị là đặc trưng của phần này.",
+      "Câu 1 và 2 trả lời gọn trong 15 giây: một câu chính cộng một câu chi tiết là đủ.",
+      "Câu 3 dài 30 giây nên cần cấu trúc: nêu số lượng ý trước ('two things'), rồi lần lượt trình bày. Nói lan man sẽ hết giờ giữa chừng.",
+      "Trả lời thật, không cần ý tưởng cao siêu. TOEIC Speaking chấm sự trôi chảy và tính liên quan, không chấm chiều sâu tư tưởng.",
+      "Nếu lỡ nói sai, sửa nhanh rồi đi tiếp. Dừng lại xin lỗi tốn thời gian quý hơn nhiều so với lỗi ban đầu."
+    ]
+  },
+  {
+    "id": "speaking-express-opinion",
+    "skill": "speaking",
+    "title": "Speaking Q11 — Express an opinion",
+    "format": "TOEIC Speaking — Express an Opinion · 45 giây chuẩn bị, 60 giây nói",
+    "instructionsVi": "Nêu quan điểm và bảo vệ trong 60 giây. Cấu trúc an toàn nhất: nêu lập trường → hai lý do có ví dụ → nhắc lại lập trường. Đừng cố bàn cả hai mặt, không đủ thời gian.",
+    "promptEn": "Do you agree or disagree with the following statement?\n\n'Companies should pay for their employees to take training courses that are not directly related to their current job.'\n\nGive reasons or examples to support your opinion. You have 45 seconds to prepare and 60 seconds to speak.",
+    "timeLimitSec": 60,
+    "preparationSec": 45,
+    "sampleAnswer": "I agree with this statement, for two main reasons.\n\nFirst, skills that seem unrelated often turn out to be useful. A colleague of mine took a company-funded course in basic graphic design, even though she worked in customer service. Six months later she was redesigning our help documents, which had been badly laid out for years, and nobody had to be hired to do it.\n\nSecond, paying for this kind of training keeps good staff. When a company invests in someone beyond their immediate role, it signals that they are expected to stay and grow. In my experience, employees who receive that kind of support are much less likely to look for another job, and replacing an experienced worker costs far more than a training course.\n\nFor these reasons, I believe companies should fund training that is not directly job-related.",
+    "rubricVi": [
+      "Nêu lập trường ngay câu đầu, không vòng vo. Sáu mươi giây rất ngắn.",
+      "Đúng hai lý do, mỗi lý do một ví dụ cụ thể. Ba lý do thường không kịp nói hết và bị cắt giữa chừng.",
+      "Kết bằng một câu nhắc lại lập trường. Bài bị cắt lúc chưa kết nghe như chưa hoàn thành.",
+      "Dùng ví dụ cá nhân hoặc từ nơi làm việc — TOEIC khuyến khích, không đòi hỏi ví dụ mang tính học thuật.",
+      "Nói với tốc độ đều, phát âm rõ. Nói nhanh để nhồi thêm ý làm giảm điểm phát âm nhiều hơn là được lợi về nội dung."
+    ]
+  }
+]

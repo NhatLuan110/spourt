@@ -1,0 +1,801 @@
+[
+  {
+    "id": "listening-part3-c1",
+    "skill": "listening",
+    "title": "Part 3 — Conversation 1: a budget disagreement",
+    "format": "TOEIC Listening — Part 3 · Conversation 1 (câu 32–34)",
+    "instructionsVi": "Nghe rồi trả lời 3 câu. Ở mục tiêu 650, câu hỏi bắt đầu hỏi về lý do và ý kiến, không chỉ hỏi sự việc.",
+    "promptEn": "Listen to the conversation and answer questions 32 through 34.",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "W",
+        "text": "Have you seen the quote for the new shelving? Nineteen thousand."
+      },
+      {
+        "speaker": "M",
+        "text": "That's well over what we set aside. What did we budget, twelve?"
+      },
+      {
+        "speaker": "W",
+        "text": "Twelve. The difference is the installation — they won't sell the units without fitting them."
+      },
+      {
+        "speaker": "M",
+        "text": "Could we buy from someone else and fit them ourselves?"
+      },
+      {
+        "speaker": "W",
+        "text": "We could, but our insurance won't cover racking that hasn't been professionally installed. I checked this morning."
+      },
+      {
+        "speaker": "M",
+        "text": "Then the extra seven thousand isn't really optional. Let's put it to the finance committee rather than trying to cut corners."
+      }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p3-32",
+        "kind": "mcq",
+        "prompt": "32. What is the problem?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The shelving arrived damaged."
+          },
+          {
+            "id": "b",
+            "text": "A quote exceeds the budget."
+          },
+          {
+            "id": "c",
+            "text": "The supplier has gone out of business."
+          },
+          {
+            "id": "d",
+            "text": "The insurance policy has expired."
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "Báo giá 19.000 so với ngân sách 12.000. Bảo hiểm là chi tiết phụ, không phải vấn đề chính."
+      },
+      {
+        "id": "p3-33",
+        "kind": "mcq",
+        "prompt": "33. Why can't they install the shelving themselves?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Nobody on the team is qualified."
+          },
+          {
+            "id": "b",
+            "text": "The supplier forbids it."
+          },
+          {
+            "id": "c",
+            "text": "Their insurance would not cover it."
+          },
+          {
+            "id": "d",
+            "text": "It would take too long."
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'our insurance won't cover racking that hasn't been professionally installed'."
+      },
+      {
+        "id": "p3-34",
+        "kind": "mcq",
+        "prompt": "34. What do they decide to do?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Find a cheaper supplier"
+          },
+          {
+            "id": "b",
+            "text": "Postpone the purchase"
+          },
+          {
+            "id": "c",
+            "text": "Install the units without insurance"
+          },
+          {
+            "id": "d",
+            "text": "Refer the extra cost to the finance committee"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'Let's put it to the finance committee rather than trying to cut corners'."
+      }
+    ]
+  },
+  {
+    "id": "listening-part3-c2",
+    "skill": "listening",
+    "title": "Part 3 — Conversation 2: rescheduling an inspection",
+    "format": "TOEIC Listening — Part 3 · Conversation 2 (câu 35–37)",
+    "instructionsVi": "Nghe rồi trả lời 3 câu. Có hai mốc thời gian và một trong hai bị thay đổi — bám vào lượt nói cuối.",
+    "promptEn": "Listen to the conversation and answer questions 35 through 37.",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "M",
+        "text": "The health and safety inspection is booked for the tenth, isn't it?"
+      },
+      {
+        "speaker": "W",
+        "text": "It was. The inspector emailed yesterday — she's moved it to the seventeenth because of a clash."
+      },
+      {
+        "speaker": "M",
+        "text": "That's actually better. The new extraction system won't be commissioned until the fourteenth."
+      },
+      {
+        "speaker": "W",
+        "text": "That's what I thought. It would have been awkward to have her here while it was half installed."
+      },
+      {
+        "speaker": "M",
+        "text": "Do we need to prepare anything?"
+      },
+      {
+        "speaker": "W",
+        "text": "The risk assessments and the training log. I'll pull those together, but I'll need the fire drill record from you — that's held on your side."
+      }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p3-35",
+        "kind": "mcq",
+        "prompt": "35. When will the inspection now take place?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The tenth"
+          },
+          {
+            "id": "b",
+            "text": "The fourteenth"
+          },
+          {
+            "id": "c",
+            "text": "It has been cancelled."
+          },
+          {
+            "id": "d",
+            "text": "The seventeenth"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'she's moved it to the seventeenth'. Ngày 10 là lịch cũ, ngày 14 là mốc lắp xong hệ thống hút."
+      },
+      {
+        "id": "p3-36",
+        "kind": "mcq",
+        "prompt": "36. Why does the man consider the change an improvement?",
+        "options": [
+          {
+            "id": "a",
+            "text": "He will be away on the tenth."
+          },
+          {
+            "id": "b",
+            "text": "The inspector charges less later in the month."
+          },
+          {
+            "id": "c",
+            "text": "The new system will be finished by then."
+          },
+          {
+            "id": "d",
+            "text": "More staff will be available."
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'The new extraction system won't be commissioned until the fourteenth' — lùi sang ngày 17 thì hệ thống đã xong."
+      },
+      {
+        "id": "p3-37",
+        "kind": "mcq",
+        "prompt": "37. What does the woman ask the man to provide?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The risk assessments"
+          },
+          {
+            "id": "b",
+            "text": "The fire drill record"
+          },
+          {
+            "id": "c",
+            "text": "The training log"
+          },
+          {
+            "id": "d",
+            "text": "The installation certificate"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'I'll need the fire drill record from you'. Hai thứ kia bà ấy tự lo."
+      }
+    ]
+  },
+  {
+    "id": "listening-part3-c3",
+    "skill": "listening",
+    "title": "Part 3 — Conversation 3: a returning customer",
+    "format": "TOEIC Listening — Part 3 · Conversation 3 (câu 38–40)",
+    "instructionsVi": "Nghe rồi trả lời 3 câu. Phân biệt điều khách YÊU CẦU với điều nhân viên thực sự làm được.",
+    "promptEn": "Listen to the conversation and answer questions 38 through 40.",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "W",
+        "text": "I ordered a desk lamp online last week and it arrived with a cracked base. I'd like to exchange it."
+      },
+      {
+        "speaker": "M",
+        "text": "I'm sorry about that. Do you have the order number?"
+      },
+      {
+        "speaker": "W",
+        "text": "It's on my phone — here."
+      },
+      {
+        "speaker": "M",
+        "text": "Thank you. I can see it. Unfortunately that model is out of stock and the next delivery isn't until the end of the month."
+      },
+      {
+        "speaker": "W",
+        "text": "I need it before then, really."
+      },
+      {
+        "speaker": "M",
+        "text": "Then I'd suggest a refund rather than waiting. Or, if you like the design, there's a very similar model in the same range — it's eight pounds more, but I'll waive the difference given what happened."
+      }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p3-38",
+        "kind": "mcq",
+        "prompt": "38. Why has the woman come to the shop?",
+        "options": [
+          {
+            "id": "a",
+            "text": "To collect an online order"
+          },
+          {
+            "id": "b",
+            "text": "To ask about a delivery date"
+          },
+          {
+            "id": "c",
+            "text": "To complain about a price"
+          },
+          {
+            "id": "d",
+            "text": "To exchange a damaged item"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'it arrived with a cracked base. I'd like to exchange it'."
+      },
+      {
+        "id": "p3-39",
+        "kind": "mcq",
+        "prompt": "39. What is the problem with a direct exchange?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The order number is invalid."
+          },
+          {
+            "id": "b",
+            "text": "The return period has ended."
+          },
+          {
+            "id": "c",
+            "text": "That model is out of stock."
+          },
+          {
+            "id": "d",
+            "text": "The item was bought online, not in store."
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'that model is out of stock and the next delivery isn't until the end of the month'."
+      },
+      {
+        "id": "p3-40",
+        "kind": "mcq",
+        "prompt": "40. What does the man offer?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Free delivery at the end of the month"
+          },
+          {
+            "id": "b",
+            "text": "A similar model at no extra cost"
+          },
+          {
+            "id": "c",
+            "text": "A discount on a future purchase"
+          },
+          {
+            "id": "d",
+            "text": "Repair of the cracked base"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'it's eight pounds more, but I'll waive the difference given what happened'."
+      }
+    ]
+  },
+  {
+    "id": "listening-part3-c4",
+    "skill": "listening",
+    "title": "Part 3 — Conversation 4: three speakers, a recruitment decision",
+    "format": "TOEIC Listening — Part 3 · Conversation 4, ba người nói (câu 41–43)",
+    "instructionsVi": "Hội thoại BA người. Câu hỏi hỏi ý kiến của từng người, nên phải theo dõi ai nói gì.",
+    "promptEn": "Listen to the conversation among three speakers and answer questions 41 through 43.",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "W1",
+        "text": "So, two candidates left. Do we go with Okafor or Vasquez?"
+      },
+      {
+        "speaker": "M",
+        "text": "Okafor, for me. Six years in the sector and she's managed a team this size before."
+      },
+      {
+        "speaker": "W2",
+        "text": "I'd lean the other way, actually. Vasquez has less experience, but the way she handled the scenario question was the best I've seen in this round."
+      },
+      {
+        "speaker": "M",
+        "text": "That's a fair point. Though a scenario is one afternoon; six years is six years."
+      },
+      {
+        "speaker": "W2",
+        "text": "Agreed. What tips it for me is that Vasquez asked what our biggest problem was, and nobody else did."
+      },
+      {
+        "speaker": "W1",
+        "text": "Let's not decide today. I'd like to take up references for both before we commit — we've been caught out before."
+      }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p3-41",
+        "kind": "mcq",
+        "prompt": "41. Why does the man prefer Ms Okafor?",
+        "options": [
+          {
+            "id": "a",
+            "text": "She answered the scenario question best."
+          },
+          {
+            "id": "b",
+            "text": "She asked the most questions."
+          },
+          {
+            "id": "c",
+            "text": "She is available sooner."
+          },
+          {
+            "id": "d",
+            "text": "She has more relevant experience."
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'Six years in the sector and she's managed a team this size before'. (A) là lý do của người phụ nữ thứ hai."
+      },
+      {
+        "id": "p3-42",
+        "kind": "mcq",
+        "prompt": "42. What finally decides it for the second woman?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Vasquez's years of experience"
+          },
+          {
+            "id": "b",
+            "text": "Vasquez asking about the company's biggest problem"
+          },
+          {
+            "id": "c",
+            "text": "Vasquez's references"
+          },
+          {
+            "id": "d",
+            "text": "Vasquez's salary expectations"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'What tips it for me is that Vasquez asked what our biggest problem was, and nobody else did'."
+      },
+      {
+        "id": "p3-43",
+        "kind": "mcq",
+        "prompt": "43. What does the first woman propose?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Making an offer today"
+          },
+          {
+            "id": "b",
+            "text": "Interviewing both again"
+          },
+          {
+            "id": "c",
+            "text": "Taking up references before deciding"
+          },
+          {
+            "id": "d",
+            "text": "Reopening the advertisement"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'I'd like to take up references for both before we commit'."
+      }
+    ]
+  },
+  {
+    "id": "listening-part3-c5",
+    "skill": "listening",
+    "title": "Part 3 — Conversation 5: a software problem",
+    "format": "TOEIC Listening — Part 3 · Conversation 5 (câu 44–46)",
+    "instructionsVi": "Nghe rồi trả lời 3 câu. Có một chi tiết nêu dưới dạng điều kiện — bỏ qua điều kiện là chọn sai.",
+    "promptEn": "Listen to the conversation and answer questions 44 through 46.",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "M",
+        "text": "IT helpdesk, Sanjay speaking."
+      },
+      {
+        "speaker": "W",
+        "text": "Hi. I can't open any of the shared spreadsheets this morning. It says I don't have permission."
+      },
+      {
+        "speaker": "M",
+        "text": "Which folder are they in?"
+      },
+      {
+        "speaker": "W",
+        "text": "Finance, then Monthly."
+      },
+      {
+        "speaker": "M",
+        "text": "Ah. That folder was moved to the new server last night and permissions have to be reassigned individually. You're not the first to call."
+      },
+      {
+        "speaker": "W",
+        "text": "How long will that take? I've got a deadline at noon."
+      },
+      {
+        "speaker": "M",
+        "text": "I can do yours now, about ten minutes. But you'll need to sign out completely and back in — closing the window isn't enough, and that's what catches people out."
+      }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p3-44",
+        "kind": "mcq",
+        "prompt": "44. What is the woman's problem?",
+        "options": [
+          {
+            "id": "a",
+            "text": "She cannot access shared files."
+          },
+          {
+            "id": "b",
+            "text": "She has forgotten her password."
+          },
+          {
+            "id": "c",
+            "text": "Her computer will not start."
+          },
+          {
+            "id": "d",
+            "text": "A spreadsheet has been deleted."
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'I can't open any of the shared spreadsheets… It says I don't have permission'."
+      },
+      {
+        "id": "p3-45",
+        "kind": "mcq",
+        "prompt": "45. What caused the problem?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Her account has expired."
+          },
+          {
+            "id": "b",
+            "text": "The files were renamed."
+          },
+          {
+            "id": "c",
+            "text": "The network is down."
+          },
+          {
+            "id": "d",
+            "text": "The folder was moved to a new server."
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'That folder was moved to the new server last night and permissions have to be reassigned individually'."
+      },
+      {
+        "id": "p3-46",
+        "kind": "mcq",
+        "prompt": "46. What must the woman do after the fix?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Restart her computer"
+          },
+          {
+            "id": "b",
+            "text": "Close the spreadsheet window"
+          },
+          {
+            "id": "c",
+            "text": "Sign out completely and sign back in"
+          },
+          {
+            "id": "d",
+            "text": "Call the helpdesk again"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'you'll need to sign out completely and back in — closing the window isn't enough'. Câu phủ định loại thẳng (B)."
+      }
+    ]
+  },
+  {
+    "id": "listening-part3-c6",
+    "skill": "listening",
+    "title": "Part 3 — Conversation 6: planning an office move",
+    "format": "TOEIC Listening — Part 3 · Conversation 6 (câu 47–49)",
+    "instructionsVi": "Nghe rồi trả lời 3 câu. Câu thứ hai hỏi HÀM Ý của một câu nói, không hỏi nghĩa đen.",
+    "promptEn": "Listen to the conversation and answer questions 47 through 49.",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "W",
+        "text": "The removal company says they can do the whole move in one weekend."
+      },
+      {
+        "speaker": "M",
+        "text": "One weekend. For four floors."
+      },
+      {
+        "speaker": "W",
+        "text": "You don't think so?"
+      },
+      {
+        "speaker": "M",
+        "text": "Not with the server room. That alone took two days last time, and we had twice the staff then."
+      },
+      {
+        "speaker": "W",
+        "text": "So what would you suggest?"
+      },
+      {
+        "speaker": "M",
+        "text": "Move the server room the weekend before, on its own. Then the offices can go in one weekend and nobody's waiting on IT to finish."
+      }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p3-47",
+        "kind": "mcq",
+        "prompt": "47. What are the speakers discussing?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The timetable for an office move"
+          },
+          {
+            "id": "b",
+            "text": "Hiring a removal company"
+          },
+          {
+            "id": "c",
+            "text": "Buying new servers"
+          },
+          {
+            "id": "d",
+            "text": "Recruiting more IT staff"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "Cả đoạn bàn việc chuyển văn phòng mất bao lâu và chia thành mấy đợt."
+      },
+      {
+        "id": "p3-48",
+        "kind": "mcq",
+        "prompt": "48. What does the man mean when he says, 'One weekend. For four floors.'?",
+        "options": [
+          {
+            "id": "a",
+            "text": "He is impressed by the speed."
+          },
+          {
+            "id": "b",
+            "text": "He doubts it is realistic."
+          },
+          {
+            "id": "c",
+            "text": "He wants to know the cost."
+          },
+          {
+            "id": "d",
+            "text": "He thinks four floors is too few."
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "Câu lặp lại đầy hoài nghi, và người phụ nữ hiểu ngay nên hỏi 'You don't think so?'. Sau đó ông ta nêu lý do phòng máy chủ."
+      },
+      {
+        "id": "p3-49",
+        "kind": "mcq",
+        "prompt": "49. What does the man suggest?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Hiring a second removal company"
+          },
+          {
+            "id": "b",
+            "text": "Moving one floor per weekend"
+          },
+          {
+            "id": "c",
+            "text": "Postponing the whole move"
+          },
+          {
+            "id": "d",
+            "text": "Moving the server room a week earlier"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'Move the server room the weekend before, on its own'."
+      }
+    ]
+  },
+  {
+    "id": "listening-part3-c7",
+    "skill": "listening",
+    "title": "Part 3 — Conversation 7: a supplier visit",
+    "format": "TOEIC Listening — Part 3 · Conversation 7 (câu 50–52)",
+    "instructionsVi": "Nghe rồi trả lời 3 câu. Có một thông tin bị sửa lại giữa chừng và một yêu cầu chuẩn bị.",
+    "promptEn": "Listen to the conversation and answer questions 50 through 52.",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "M",
+        "text": "The team from Northline are visiting on Wednesday. Four of them, I think."
+      },
+      {
+        "speaker": "W",
+        "text": "Five, actually — they've added their quality manager since the last email."
+      },
+      {
+        "speaker": "M",
+        "text": "Five. I'll update the visitor list. What time do they land?"
+      },
+      {
+        "speaker": "W",
+        "text": "Half nine, so they'll be here around eleven allowing for traffic."
+      },
+      {
+        "speaker": "M",
+        "text": "Should I arrange lunch?"
+      },
+      {
+        "speaker": "W",
+        "text": "Please. And two of them are vegetarian — I'll forward the email so you have it in writing."
+      },
+      {
+        "speaker": "M",
+        "text": "Right. I'll book the boardroom from eleven and order in rather than going out; it saves an hour."
+      }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p3-50",
+        "kind": "mcq",
+        "prompt": "50. How many visitors are expected?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Five"
+          },
+          {
+            "id": "b",
+            "text": "Two"
+          },
+          {
+            "id": "c",
+            "text": "Four"
+          },
+          {
+            "id": "d",
+            "text": "Eleven"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "Người đàn ông nói bốn, người phụ nữ sửa: 'Five, actually'. Hai là số người ăn chay, mười một là giờ tới."
+      },
+      {
+        "id": "p3-51",
+        "kind": "mcq",
+        "prompt": "51. What will the woman send?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The flight details"
+          },
+          {
+            "id": "b",
+            "text": "The visitor list"
+          },
+          {
+            "id": "c",
+            "text": "An email about dietary requirements"
+          },
+          {
+            "id": "d",
+            "text": "A lunch menu"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'two of them are vegetarian — I'll forward the email so you have it in writing'."
+      },
+      {
+        "id": "p3-52",
+        "kind": "mcq",
+        "prompt": "52. Why will the man order food in?",
+        "options": [
+          {
+            "id": "a",
+            "text": "It is cheaper than a restaurant."
+          },
+          {
+            "id": "b",
+            "text": "It saves about an hour."
+          },
+          {
+            "id": "c",
+            "text": "The boardroom has no kitchen."
+          },
+          {
+            "id": "d",
+            "text": "The visitors requested it."
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'order in rather than going out; it saves an hour'."
+      }
+    ]
+  }
+]

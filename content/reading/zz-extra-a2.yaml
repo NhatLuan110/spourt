@@ -1,0 +1,488 @@
+cefr: A2
+passages:
+  - slug: an-art-workshop-first-morning
+    title: The First Morning at the Pottery Studio
+    titleVi: Buổi sáng đầu tiên tại xưởng gốm
+    topic: education
+    estimatedMinutes: 3
+    source: Sprout original
+    glossary: []
+    body: >-
+      Saturday morning arrived with a cool breeze, and Maya walked down Maple Street to find the
+      small pottery studio. She felt both excited and nervous because she had never touched wet clay
+      before. Inside the bright room, four other students sat near wooden tables, and an instructor
+      named Linh smiled warmly at the door. Linh gave everyone a gray lump of clay and a round metal
+      wheel. Maya sat down and watched Linh show the class how to push the center down gently.
+
+
+      Following the steps, Maya placed her hands on the gray material and started to turn the wheel
+      with her foot. At first, the shape looked neat and steady. However, she pressed her left thumb
+      too hard when trying to make the sides higher. Suddenly, the soft clay folded to one side like
+      a tired hat. A small piece broke off completely, landing on her apron. Maya panicked and
+      stopped the wheel immediately.
+
+
+      She looked around and saw Linh walking over with a reassuring smile. "Do not worry at all,"
+      Linh said softly, touching the ruined shape. "This happens to almost everyone on their first
+      morning." Linh added a few drops of water and helped Maya press the material back into a
+      smooth ball. Together, they started over, and Maya finally felt ready to try again.
+    questions:
+      - type: MCQ
+        prompt: What did Maya feel before entering the pottery studio?
+        promptVi: Maya cảm thấy thế nào trước khi bước vào xưởng gốm?
+        options:
+          - Excited and nervous
+          - Angry and tired
+          - Bored and sleepy
+          - Confident and happy
+        answer: Excited and nervous
+        explanationVi: Văn bản cho biết cô ấy cảm thấy vừa hào hứng vừa lo lắng ('She felt both excited and
+          nervous').
+      - type: MCQ
+        prompt: How many other students were in the bright room?
+        promptVi: Có bao nhiêu học viên khác trong căn phòng sáng sủa?
+        options:
+          - Two other students
+          - Four other students
+          - Six other students
+          - Ten other students
+        answer: Four other students
+        explanationVi: Đoạn văn nêu rõ có bốn học viên khác ngồi gần bàn gỗ ('four other students sat near
+          wooden tables').
+      - type: MCQ
+        prompt: What happened when Maya pressed her left thumb too hard?
+        promptVi: Điều gì đã xảy ra khi Maya ấn ngón tay cái bên trái quá mạnh?
+        options:
+          - The water spilled on the floor
+          - The metal wheel broke
+          - The clay folded to one side
+          - The table fell apart
+        answer: The clay folded to one side
+        explanationVi: Khi cô ấy ấn ngón tay quá mạnh, đất sét mềm đã gập sang một bên ('the soft clay
+          folded to one side').
+      - type: MCQ
+        prompt: What did Linh do first to fix the ruined shape?
+        promptVi: Linh đã làm gì đầu tiên để sửa hình dạng bị hỏng?
+        options:
+          - Asked another student for help
+          - Threw the clay into the bin
+          - Gave Maya a new metal wheel
+          - Added a few drops of water
+        answer: Added a few drops of water
+        explanationVi: Linh đã thêm vài giọt nước trước khi giúp Maya ép lại khối đất sét ('Linh added a few
+          drops of water').
+      - type: TRUE_FALSE
+        statement: Maya had worked with wet clay many times before.
+        prompt: Maya had worked with wet clay many times before.
+        promptVi: Maya đã làm việc với đất sét ướt nhiều lần trước đây.
+        answer: false
+        explanationVi: Văn bản khẳng định cô ấy chưa từng chạm vào đất sét ướt trước đó ('she had never
+          touched wet clay before').
+      - type: TRUE_FALSE
+        statement: Linh told Maya that mistakes happen to almost everyone on their first morning.
+        prompt: Linh told Maya that mistakes happen to almost everyone on their first morning.
+        promptVi: Linh nói với Maya rằng những sai lầm xảy ra với hầu hết mọi người vào buổi sáng đầu tiên
+          của họ.
+        answer: true
+        explanationVi: Linh đã an ủi rằng điều này xảy ra với hầu hết mọi người vào buổi sáng đầu tiên
+          ('This happens to almost everyone on their first morning').
+      - type: SHORT_ANSWER
+        prompt: What did the broken piece of clay land on? Copy two words from the text.
+        promptVi: Mảnh đất sét bị vỡ rơi lên đâu? Chép hai từ trong bài.
+        accept:
+          - her apron
+        explanationVi: "Bài đọc nói mảnh đất sét rơi lên tạp dề của Maya: landing on her apron."
+      - type: SHORT_ANSWER
+        prompt: What is the name of the instructor who helped Maya?
+        promptVi: Tên của người hướng dẫn đã giúp Maya là gì?
+        accept:
+          - Linh
+        explanationVi: Văn bản nêu rõ tên của người hướng dẫn là Linh ('an instructor named Linh').
+  - slug: a-bicycle-for-the-weekend
+    title: Sharing a Bicycle for the Weekend
+    titleVi: Chia sẻ một chiếc xe đạp cho cuối tuần
+    topic: daily-life
+    estimatedMinutes: 3
+    source: Sprout original
+    glossary: []
+    body: >-
+      Nam and David lived in the same apartment building and often chatted in the hallway. Last
+      Thursday, they realized both needed a reliable bicycle for the upcoming weekend. Nam wanted to
+      visit his uncle who lived three miles outside the city, while David planned to ride to the
+      green park on Sunday afternoon to take photographs. Since buying a brand new bicycle was too
+      expensive, they decided to share Nam's old blue bike.
+
+
+      To make it fair, they created a simple schedule. Nam would take the bicycle on Saturday
+      morning from eight o'clock until one o'clock in the afternoon. David would use it on Sunday
+      from two o'clock until six o'clock in the evening. On Friday night, David checked the tires,
+      pumped some fresh air into them, and cleaned the chain with a damp cloth so it was ready for
+      use.
+
+
+      The plan worked wonderfully. Nam returned the bicycle on Saturday afternoon right on time,
+      parking it securely near the front entrance and leaving the key in David's letterbox. David
+      picked it up the next day and enjoyed a peaceful ride among the tall green trees. Sharing the
+      vehicle saved them money, reduced their travel stress, and taught them a great lesson about
+      good neighborhood teamwork.
+    questions:
+      - type: MCQ
+        prompt: Where did Nam plan to go on his weekend trip?
+        promptVi: Nam dự định đi đâu trong chuyến đi cuối tuần của mình?
+        options:
+          - To take photographs
+          - To visit his uncle
+          - To buy a new bicycle
+          - To clean the hallway
+        answer: To visit his uncle
+        explanationVi: Nam muốn đến thăm người chú sống ở ngoại ô thành phố ('Nam wanted to visit his uncle').
+      - type: MCQ
+        prompt: When did David plan to ride the bicycle?
+        promptVi: David dự định đi xe đạp vào thời gian nào?
+        options:
+          - On Friday night
+          - On Saturday morning
+          - On Sunday afternoon
+          - On Thursday evening
+        answer: On Sunday afternoon
+        explanationVi: David dự định đạp xe đến công viên xanh vào chiều chủ nhật ('David planned to ride to
+          the green park on Sunday afternoon').
+      - type: MCQ
+        prompt: What did David do to the bicycle on Friday night?
+        promptVi: David đã làm gì với chiếc xe đạp vào tối thứ Sáu?
+        options:
+          - Fixed the broken seat
+          - Painted the frame blue
+          - Bought a new basket
+          - Cleaned the chain and pumped air
+        answer: Cleaned the chain and pumped air
+        explanationVi: David kiểm tra lốp, bơm hơi và làm sạch xích xe ('pumped some fresh air into them,
+          and cleaned the chain').
+      - type: MCQ
+        prompt: Where did Nam leave the bicycle when he returned it?
+        promptVi: Nam đã để chiếc xe đạp ở đâu khi trả lại?
+        options:
+          - Near the front entrance
+          - In the backyard garden
+          - Inside the apartment hallway
+          - At his uncle's house
+        answer: Near the front entrance
+        explanationVi: Nam đỗ xe an toàn gần lối ra vào phía trước ('parking it securely near the front
+          entrance').
+      - type: TRUE_FALSE
+        statement: Nam and David bought a brand new bicycle together.
+        prompt: Nam and David bought a brand new bicycle together.
+        promptVi: Nam và David đã cùng nhau mua một chiếc xe đạp hoàn toàn mới.
+        answer: false
+        explanationVi: Họ thấy xe mới quá đắt và quyết định dùng chung chiếc xe đạp xanh cũ của Nam.
+      - type: TRUE_FALSE
+        statement: David used the bicycle on Sunday from two o'clock until six o'clock.
+        prompt: David used the bicycle on Sunday from two o'clock until six o'clock.
+        promptVi: David đã sử dụng xe đạp vào chủ nhật từ hai giờ đến sáu giờ.
+        answer: true
+        explanationVi: Văn bản xác nhận David dùng xe vào chủ nhật từ hai giờ đến sáu giờ chiều ('David
+          would use it on Sunday from two o'clock until six o'clock').
+      - type: SHORT_ANSWER
+        prompt: How many miles outside the city did Nam's uncle live? Write a number.
+        promptVi: Chú của Nam sống cách thành phố bao nhiêu dặm? Viết số.
+        accept:
+          - three
+          - "3"
+        explanationVi: "Chú của Nam sống cách thành phố ba dặm: three miles outside the city."
+      - type: SHORT_ANSWER
+        prompt: What day did Nam return the bicycle?
+        promptVi: Nam đã trả lại chiếc xe đạp vào ngày nào?
+        accept:
+          - Saturday
+          - Saturday afternoon
+        explanationVi: Nam trả xe vào chiều thứ Bảy ('Nam returned the bicycle on Saturday afternoon').
+  - slug: the-school-costume-box
+    title: The School Costume Box
+    titleVi: Hộp trang phục của trường
+    topic: education
+    estimatedMinutes: 5
+    source: Sprout original
+    glossary: []
+    body: >-
+      Mrs. Lan's art class is preparing a short play about local forest animals for the spring
+      festival. Last Tuesday, four students met after class to check the school costume box. The
+      heavy wooden box was stored in the dark corner behind the old stage curtain. When Mai opened
+      the lid, she found a pile of old clothes, shiny green fabric, and some brown cardboard boxes.
+
+
+      Linh wanted to make a monkey costume because her character climbed trees in the second scene.
+      She picked up a brown sweater and some soft yarn to create a long tail. Meanwhile, Nam
+      searched for something bright for the clever fox mask. He discovered a roll of gold wrapping
+      paper inside a small paper bag at the bottom. Minh decided to use blue plastic sheets to make
+      a moving river backdrop.
+
+
+      They worked together for over an hour, carefully cutting and gluing the pieces on the large
+      wooden table. Mrs. Lan came in at five o'clock and smiled when she saw their clever designs.
+      She told the students that their creative work saved money and made the animals look very
+      special. The children felt proud of their handmade costumes and agreed to practice their lines
+      the following afternoon.
+    questions:
+      - type: MCQ
+        prompt: Where was the costume box stored?
+        promptVi: Hộp trang phục được cất ở đâu?
+        options:
+          - under the large wooden table
+          - in the bright middle of the art room
+          - in the dark corner behind the old stage curtain
+          - inside Mrs. Lan's private office
+        answer: in the dark corner behind the old stage curtain
+        explanationVi: Văn bản nêu rõ rằng hộp gỗ nặng được cất ở góc tối phía sau tấm rèm sân khấu cũ.
+      - type: MCQ
+        prompt: Why did Linh want to make a monkey costume?
+        promptVi: Tại sao Linh muốn làm trang phục khỉ?
+        options:
+          - because she found a gold wrapping paper
+          - because she loved the color brown
+          - because the teacher asked her to do it
+          - because her character climbed trees in the second scene
+        answer: because her character climbed trees in the second scene
+        explanationVi: Văn bản giải thích rằng nhân vật của cô ấy trèo cây trong cảnh thứ hai.
+      - type: MCQ
+        prompt: What did Nam find for the fox mask?
+        promptVi: Nam đã tìm thấy gì cho chiếc mặt nạ cáo?
+        options:
+          - a roll of gold wrapping paper
+          - some shiny green fabric
+          - a pair of blue plastic sheets
+          - some soft yarn for a tail
+        answer: a roll of gold wrapping paper
+        explanationVi: Nam đã tìm thấy một cuộn giấy gói quà màu vàng bên trong một chiếc túi giấy nhỏ.
+      - type: MCQ
+        prompt: What time did Mrs. Lan come into the room?
+        promptVi: Mấy giờ cô Lan đi vào phòng?
+        options:
+          - at four o'clock
+          - at five o'clock
+          - at six o'clock
+          - at three o'clock
+        answer: at five o'clock
+        explanationVi: Văn bản cho biết cô Lan bước vào lúc năm giờ và mỉm cười.
+      - type: TRUE_FALSE
+        statement: Minh used blue plastic sheets to make a river backdrop.
+        prompt: Minh used blue plastic sheets to make a river backdrop.
+        promptVi: Minh đã dùng các tấm nhựa màu xanh để làm phông nền dòng sông.
+        answer: true
+        explanationVi: Văn bản xác nhận Minh quyết định dùng tấm nhựa xanh để làm phông nền sông.
+      - type: TRUE_FALSE
+        statement: The students met on a Thursday afternoon.
+        prompt: The students met on a Thursday afternoon.
+        promptVi: Các học sinh đã gặp nhau vào một buổi chiều thứ Năm.
+        answer: false
+        explanationVi: Văn bản ghi rõ các học sinh gặp nhau vào thứ Ba tuần trước ('Last Tuesday').
+      - type: SHORT_ANSWER
+        prompt: What color sweater did Linh pick up? (Type the exact color)
+        promptVi: Linh đã chọn chiếc áo len màu gì? (Nhập màu chính xác)
+        accept:
+          - brown
+          - a brown sweater
+        explanationVi: Văn bản nêu rõ Linh đã nhặt một chiếc áo len màu nâu ('brown sweater').
+      - type: SHORT_ANSWER
+        prompt: How long did the students work together? (State the phrase from the text)
+        promptVi: Các học sinh đã làm việc cùng nhau trong bao lâu? (Nêu cụm từ từ văn bản)
+        accept:
+          - over an hour
+          - more than an hour
+        explanationVi: Văn bản đề cập họ đã làm việc cùng nhau trong hơn một giờ ('over an hour').
+  - slug: a-map-for-a-visiting-grandfather
+    title: A Map for a Visiting Grandfather
+    titleVi: Bản đồ cho người ông đến thăm
+    topic: travel
+    estimatedMinutes: 5
+    source: Sprout original
+    glossary: []
+    body: >-
+      Last weekend, fifteen-year-old Tuan wanted to help his grandfather navigate the neighborhood
+      safely. His grandfather was visiting from the countryside and wanted to walk to the local
+      market alone. Tuan sat at his wooden desk with a blank sheet of paper and a black pen. He drew
+      a simple map showing the route from their front door to the fruit market on Tran Hung Dao
+      Street. He included important landmarks like the green pharmacy and the small coffee shop on
+      the corner.
+
+
+      After finishing the drawing, Tuan decided to test the map himself by walking the route at a
+      slow pace. When he reached the old brick bakery, he realized his instruction was quite
+      confusing. He had written "turn left past the bakery," but the path actually required a right
+      turn down a quiet alleyway.
+
+
+      Tuan walked back home quickly and corrected the mistake with a red pen, changing the words to
+      "turn right at the brick bakery." The next morning, his grandfather used the updated map and
+      successfully reached the market without any trouble. Grandfather praised Tuan for being so
+      thoughtful and clear. Tuan felt happy that his practical drawing guided his family member
+      through the busy neighborhood.
+    questions:
+      - type: MCQ
+        prompt: Why did Tuan draw a map?
+        promptVi: Tại sao Tuấn vẽ bản đồ?
+        options:
+          - to practice drawing buildings and streets
+          - to finish his school art homework
+          - to show his friends the way to the bakery
+          - to help his grandfather navigate the neighborhood safely
+        answer: to help his grandfather navigate the neighborhood safely
+        explanationVi: Văn bản nêu rõ Tuấn muốn giúp ông của mình đi lại trong khu phố một cách an toàn.
+      - type: MCQ
+        prompt: What street was the fruit market on?
+        promptVi: Chợ trái cây nằm ở đường nào?
+        options:
+          - Tran Hung Dao Street
+          - Le Loi Street
+          - Nguyen Hue Street
+          - Tran Phu Street
+        answer: Tran Hung Dao Street
+        explanationVi: Văn bản chỉ ra chợ trái cây nằm trên đường Trần Hưng Đạo.
+      - type: MCQ
+        prompt: What did Tuan use to correct the mistake on the map?
+        promptVi: Tuấn đã dùng gì để sửa lỗi trên bản đồ?
+        options:
+          - a black pen
+          - a red pen
+          - a pencil
+          - a blue marker
+        answer: a red pen
+        explanationVi: Tuấn đã sửa lỗi bằng bút đỏ ('red pen').
+      - type: MCQ
+        prompt: When did Tuan's grandfather use the updated map?
+        promptVi: Ông của Tuấn đã sử dụng bản đồ được cập nhật vào lúc nào?
+        options:
+          - two days later
+          - that same afternoon
+          - the next morning
+          - before Tuan tested the route
+        answer: the next morning
+        explanationVi: Văn bản cho biết người ông đã dùng bản đồ vào sáng hôm sau ('the next morning').
+      - type: TRUE_FALSE
+        statement: Tuan tested the map by walking the route himself.
+        prompt: Tuan tested the map by walking the route himself.
+        promptVi: Tuấn đã kiểm tra bản đồ bằng cách tự mình đi bộ theo tuyến đường đó.
+        answer: true
+        explanationVi: Tuấn đã quyết định tự mình kiểm tra bản đồ bằng cách đi bộ theo tuyến đường với tốc
+          độ chậm.
+      - type: TRUE_FALSE
+        statement: The grandfather needed help to find the market after using the corrected map.
+        prompt: The grandfather needed help to find the market after using the corrected map.
+        promptVi: Người ông cần người khác giúp tìm đường đến chợ sau khi dùng bản đồ đã sửa.
+        answer: false
+        explanationVi: Ông dùng bản đồ đã sửa và tự đến chợ mà không gặp khó khăn, không cần người khác chỉ đường.
+      - type: SHORT_ANSWER
+        prompt: What color was the pharmacy included on the map? (State the exact color)
+        promptVi: Nhà thuốc có trên bản đồ có màu gì? (Nêu màu chính xác)
+        accept:
+          - green
+          - the green pharmacy
+        explanationVi: Văn bản nhắc đến nhà thuốc màu xanh ('green pharmacy').
+      - type: SHORT_ANSWER
+        prompt: What age is Tuan according to the text? (State the number or age)
+        promptVi: Tuấn bao nhiêu tuổi theo văn bản? (Nêu số hoặc độ tuổi)
+        accept:
+          - "15"
+          - fifteen
+          - 15 years old
+          - fifteen years old
+        explanationVi: Văn bản giới thiệu Tuấn là thiếu niên 15 tuổi ('fifteen-year-old Tuan').
+  - slug: the-balcony-tomato-plant
+    title: The Balcony Tomato Plant
+    titleVi: Cây Cà Chua Trên Ban Công
+    topic: environment
+    estimatedMinutes: 4
+    source: Sprout original
+    glossary:
+      - term: rota
+        definitionVi: lịch phân công phiên làm việc
+      - term: soil
+        definitionVi: đất trồng
+    body: >-
+      Last spring, Linh and her father stood on their small apartment balcony to look at a small
+      tomato plant. Green leaves stretched toward the warm morning sun, and three tiny yellow
+      flowers were opening. Linh’s mother was packing her suitcase because she had to travel to Da
+      Nang for work the following week.
+
+      "Who will give water to our plant when I am away?" mother asked, smiling gently at them.
+
+      Linh wanted to help. "I can do it on Tuesday and Thursday," she said proudly.
+
+      Her father adjusted his glasses. "I will check the soil on Monday, Wednesday, and Friday. If
+      the earth feels dry, I will add water."
+
+      "On Saturday and Sunday, we can check it together," her father added.
+
+      They made a clear weekly plan on a small paper note and put it right on the kitchen fridge.
+      Mother looked at the schedule and nodded happily. She hoped the routine would help the plant
+      stay healthy.
+
+      Before leaving on Sunday morning, mother gently touched the green leaves. Linh promised to
+      follow the rota carefully every single week. Her father smiled and reminded her that plants
+      need love and regular care to survive in the city. Now, the balcony felt like a wonderful mini
+      garden.
+    questions:
+      - type: MCQ
+        prompt: Where did the family put the weekly plan note?
+        promptVi: Gia đình đã dán tờ ghi chú kế hoạch hàng tuần ở đâu?
+        options:
+          - On the kitchen fridge
+          - On the balcony table
+          - Inside mother's suitcase
+          - In the living room drawer
+        answer: On the kitchen fridge
+        explanationVi: "Đoạn văn nêu rõ: 'They made a clear weekly plan on a small paper note and put it
+          right on the kitchen fridge.'"
+      - type: MCQ
+        prompt: Why was mother packing her suitcase?
+        promptVi: Tại sao mẹ đang thu xếp vali?
+        options:
+          - She was going on a long holiday
+          - She had to travel to Da Nang for work
+          - She wanted to visit her parents
+          - She was moving to a new house
+        answer: She had to travel to Da Nang for work
+        explanationVi: Mẹ đang xếp vali để chuẩn bị đi công tác ở Đà Nẵng vào tuần sau đó.
+      - type: MCQ
+        prompt: Which days did Linh promise to water the plant?
+        promptVi: Linh đã hứa tưới cây vào những ngày nào?
+        options:
+          - Saturday and Sunday
+          - Monday, Wednesday, and Friday
+          - Tuesday and Thursday
+          - Every single day
+        answer: Tuesday and Thursday
+        explanationVi: "Linh đã nói: 'I can do it on Tuesday and Thursday.'"
+      - type: MCQ
+        prompt: How many tiny yellow flowers were opening on the plant?
+        promptVi: Có bao nhiêu bông hoa vàng nhỏ đang nở trên cây?
+        options:
+          - Five
+          - Two
+          - Four
+          - Three
+        answer: Three
+        explanationVi: "Câu đầu tiên đề cập: 'and three tiny yellow flowers were opening.'"
+      - type: TRUE_FALSE
+        prompt: Father will check the soil on Monday, Wednesday, and Friday.
+        promptVi: Bố sẽ kiểm tra đất vào thứ Hai, thứ Tư và thứ Sáu.
+        answer: true
+        explanationVi: "Bố đã nói trong văn bản: 'I will check the soil on Monday, Wednesday, and Friday.'"
+        statement: Father will check the soil on Monday, Wednesday, and Friday.
+      - type: TRUE_FALSE
+        prompt: Linh’s mother was traveling to Ho Chi Minh City for work.
+        promptVi: Mẹ của Linh đang đi công tác tại thành phố Hồ Chí Minh.
+        answer: false
+        explanationVi: Văn bản cho biết mẹ đi công tác ở Đà Nẵng chứ không phải thành phố Hồ Chí Minh.
+        statement: Linh’s mother was traveling to Ho Chi Minh City for work.
+      - type: SHORT_ANSWER
+        prompt: Write the city where mother has to travel for work (1-3 words from the text).
+        promptVi: Viết tên thành phố nơi mẹ phải đi công tác (1-3 từ từ văn bản).
+        accept:
+          - Da Nang
+        explanationVi: Văn bản nêu rõ mẹ phải đi công tác đến 'Da Nang'.
+      - type: SHORT_ANSWER
+        prompt: Write the day of the week when mother was leaving (1 word from the text).
+        promptVi: Viết ngày trong tuần khi mẹ rời đi (1 từ từ văn bản).
+        accept:
+          - Sunday
+        explanationVi: "Văn bản ghi rõ: 'Before leaving on Sunday morning...'"

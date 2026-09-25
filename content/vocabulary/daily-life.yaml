@@ -1,0 +1,1375 @@
+# Chủ đề Đời sống hằng ngày (§12.1). Nguồn: Wiktionary (CC BY-SA), WordNet, Tatoeba (CC BY).
+topic: daily-life
+words:
+  - lemma: neighbour
+    cefr: A2
+    frequencyRank: 3200
+    ipaUs: /ˈneɪbər/
+    ipaUk: /ˈneɪbə/
+    syllables: neigh·bour
+    stressPattern: '10'
+    subtopics: [family, home]
+    senses:
+      - pos: NOUN
+        definitionEn: A person who lives next to you or very near.
+        definitionVi: Hàng xóm; người sống cạnh hoặc rất gần nhà bạn.
+        examples:
+          - en: Our neighbour keeps three noisy dogs.
+            vi: Hàng xóm nhà tôi nuôi ba con chó ồn ào.
+          - en: The new neighbour brought us fruit.
+            vi: Người hàng xóm mới mang trái cây sang cho chúng tôi.
+
+  - lemma: laundry
+    cefr: A2
+    frequencyRank: 12800
+    ipaUs: /ˈlɔːndri/
+    ipaUk: /ˈlɔːndri/
+    syllables: laun·dry
+    stressPattern: '10'
+    subtopics: [home, clothes]
+    senses:
+      - pos: NOUN
+        definitionEn: Clothes that need washing, or the act of washing them.
+        definitionVi: Đồ giặt; quần áo cần giặt hoặc việc giặt giũ.
+        examples:
+          - en: I do the laundry on Sunday morning.
+            vi: Tôi giặt đồ vào sáng Chủ nhật.
+          - en: The laundry is still wet because of the rain.
+            vi: Đồ giặt vẫn còn ướt vì trời mưa.
+
+  - lemma: grocery
+    cefr: A2
+    frequencyRank: 11800
+    ipaUs: /ˈɡroʊsəri/
+    ipaUk: /ˈɡrəʊsəri/
+    syllables: gro·cer·y
+    stressPattern: '100'
+    subtopics: [shopping, food-drink]
+    senses:
+      - pos: NOUN
+        definitionEn: Food and small household goods, or the shop that sells them.
+        definitionVi: Hàng tạp hoá, thực phẩm; hoặc cửa hàng bán những thứ đó.
+        examples:
+          - en: The grocery on the corner opens at six.
+            vi: Cửa hàng tạp hoá ở góc phố mở lúc sáu giờ.
+          - en: We split the grocery bill every week.
+            vi: Chúng tôi chia hoá đơn thực phẩm mỗi tuần.
+
+  - lemma: forecast
+    cefr: B1
+    frequencyRank: 8000
+    ipaUs: /ˈfɔːrkæst/
+    ipaUk: /ˈfɔːkɑːst/
+    syllables: fore·cast
+    stressPattern: '10'
+    subtopics: [weather]
+    senses:
+      - pos: NOUN
+        definitionEn: A statement about what the weather will be like.
+        definitionVi: Dự báo; thông tin về thời tiết sắp tới.
+        examples:
+          - en: The forecast says rain until Thursday.
+            vi: Dự báo nói trời mưa đến thứ Năm.
+          - en: I never trust the forecast in April.
+            vi: Tôi chẳng bao giờ tin dự báo vào tháng Tư.
+
+  - lemma: humid
+    cefr: B1
+    frequencyRank: 16400
+    ipaUs: /ˈhjuːmɪd/
+    ipaUk: /ˈhjuːmɪd/
+    syllables: hu·mid
+    stressPattern: '10'
+    subtopics: [weather]
+    senses:
+      - pos: ADJECTIVE
+        definitionEn: Having a lot of water in the air, so it feels wet and heavy.
+        definitionVi: Ẩm ướt; không khí nhiều hơi nước nên cảm giác nặng nề.
+        examples:
+          - en: Hanoi is humid in March and the walls sweat.
+            vi: Hà Nội ẩm vào tháng Ba và tường đổ mồ hôi.
+          - en: It was too humid to dry the clothes outside.
+            vi: Trời ẩm quá nên không phơi khô quần áo bên ngoài được.
+
+  - lemma: bargain
+    cefr: B1
+    frequencyRank: 10200
+    ipaUs: /ˈbɑːrɡɪn/
+    ipaUk: /ˈbɑːɡɪn/
+    syllables: bar·gain
+    stressPattern: '10'
+    subtopics: [shopping]
+    senses:
+      - pos: VERB
+        definitionEn: To discuss a price until both sides agree.
+        definitionVi: Mặc cả; thương lượng giá cho tới khi hai bên đồng ý.
+        examples:
+          - en: You can bargain at the market but not in the mall.
+            vi: Bạn có thể mặc cả ở chợ nhưng không mặc cả trong trung tâm thương mại.
+          - en: She bargained the price down by half.
+            vi: Cô ấy mặc cả giảm giá xuống một nửa.
+
+  - lemma: recipe
+    cefr: A2
+    frequencyRank: 9700
+    ipaUs: /ˈresəpi/
+    ipaUk: /ˈresəpi/
+    syllables: rec·i·pe
+    stressPattern: '100'
+    subtopics: [food-drink]
+    senses:
+      - pos: NOUN
+        definitionEn: A set of instructions for cooking a dish.
+        definitionVi: Công thức nấu ăn; hướng dẫn cách làm một món.
+        examples:
+          - en: This recipe needs only five ingredients.
+            vi: Công thức này chỉ cần năm nguyên liệu.
+          - en: My grandmother never wrote her recipe down.
+            vi: Bà tôi chưa bao giờ viết lại công thức của mình.
+
+  - lemma: furniture
+    cefr: A2
+    frequencyRank: 6500
+    ipaUs: /ˈfɜːrnɪtʃər/
+    ipaUk: /ˈfɜːnɪtʃə/
+    syllables: fur·ni·ture
+    stressPattern: '100'
+    subtopics: [home]
+    senses:
+      - pos: NOUN
+        definitionEn: Large objects such as tables and beds used in a room.
+        definitionVi: Đồ nội thất; các vật lớn như bàn, giường dùng trong phòng.
+        examples:
+          - en: We bought second hand furniture for the flat.
+            vi: Chúng tôi mua đồ nội thất cũ cho căn hộ.
+          - en: There is no room for more furniture here.
+            vi: Ở đây không còn chỗ cho thêm đồ đạc.
+
+  - lemma: relative
+    cefr: B1
+    frequencyRank: 2800
+    ipaUs: /ˈrelətɪv/
+    ipaUk: /ˈrelətɪv/
+    syllables: rel·a·tive
+    stressPattern: '100'
+    subtopics: [family]
+    senses:
+      - pos: NOUN
+        definitionEn: A member of your family.
+        definitionVi: Người họ hàng; thành viên trong gia đình mở rộng.
+        examples:
+          - en: All our relatives come at Tet.
+            vi: Tất cả họ hàng nhà tôi về vào dịp Tết.
+          - en: She is a distant relative on my mother's side.
+            vi: Cô ấy là họ hàng xa bên nhà mẹ tôi.
+
+  - lemma: chore
+    cefr: B1
+    frequencyRank: 21500
+    ipaUs: /tʃɔːr/
+    ipaUk: /tʃɔː/
+    syllables: chore
+    stressPattern: '1'
+    subtopics: [home]
+    senses:
+      - pos: NOUN
+        definitionEn: A small job you must do regularly around the house.
+        definitionVi: Việc vặt trong nhà; công việc nhỏ phải làm thường xuyên.
+        examples:
+          - en: Washing up is my least favourite chore.
+            vi: Rửa bát là việc nhà tôi ghét nhất.
+          - en: The children share the chores at the weekend.
+            vi: Bọn trẻ chia nhau việc nhà vào cuối tuần.
+
+  - lemma: hobby
+    cefr: A1
+    frequencyRank: 13100
+    ipaUs: /ˈhɑːbi/
+    ipaUk: /ˈhɒbi/
+    syllables: hob·by
+    stressPattern: '10'
+    subtopics: [hobbies]
+    senses:
+      - pos: NOUN
+        definitionEn: An activity you enjoy doing in your free time.
+        definitionVi: Sở thích; hoạt động bạn thích làm lúc rảnh.
+        examples:
+          - en: Growing herbs is her new hobby.
+            vi: Trồng rau thơm là sở thích mới của cô ấy.
+          - en: My only hobby is reading on the balcony.
+            vi: Sở thích duy nhất của tôi là đọc sách ngoài ban công.
+
+  - lemma: embarrassed
+    cefr: B1
+    frequencyRank: 9500
+    ipaUs: /ɪmˈbærəst/
+    ipaUk: /ɪmˈbærəst/
+    syllables: em·bar·rassed
+    stressPattern: '010'
+    subtopics: [emotions]
+    senses:
+      - pos: ADJECTIVE
+        definitionEn: Feeling shy or uncomfortable because of what happened.
+        definitionVi: Xấu hổ, ngượng; cảm thấy ngại vì điều vừa xảy ra.
+        examples:
+          - en: I was embarrassed when I forgot her name.
+            vi: Tôi ngượng chín người khi quên mất tên cô ấy.
+          - en: He looked embarrassed and said nothing.
+            vi: Anh ấy trông ngượng ngùng và không nói gì.
+
+  - lemma: grateful
+    cefr: B1
+    frequencyRank: 8300
+    ipaUs: /ˈɡreɪtfl̩/
+    ipaUk: /ˈɡreɪtfl̩/
+    syllables: grate·ful
+    stressPattern: '10'
+    subtopics: [emotions]
+    senses:
+      - pos: ADJECTIVE
+        definitionEn: Feeling thankful for something someone has done.
+        definitionVi: Biết ơn; cảm thấy cảm kích vì điều ai đó đã làm.
+        examples:
+          - en: I am grateful for your help with the move.
+            vi: Tôi biết ơn vì bạn đã giúp tôi chuyển nhà.
+          - en: She wrote a grateful note to the driver.
+            vi: Cô ấy viết mấy dòng cảm ơn bác tài.
+
+  - lemma: sleeve
+    cefr: A2
+    frequencyRank: 14800
+    ipaUs: /sliːv/
+    ipaUk: /sliːv/
+    syllables: sleeve
+    stressPattern: '1'
+    subtopics: [clothes]
+    senses:
+      - pos: NOUN
+        definitionEn: The part of a piece of clothing that covers your arm.
+        definitionVi: Tay áo; phần áo che cánh tay.
+        examples:
+          - en: Roll up your sleeves before you wash the dishes.
+            vi: Xắn tay áo lên trước khi rửa bát.
+          - en: The left sleeve is longer than the right one.
+            vi: Tay áo bên trái dài hơn bên phải.
+
+  - lemma: leftover
+    cefr: B1
+    frequencyRank: 20500
+    ipaUs: /ˈleftoʊvər/
+    ipaUk: /ˈleftəʊvə/
+    syllables: left·o·ver
+    stressPattern: '100'
+    subtopics: [food-drink]
+    senses:
+      - pos: NOUN
+        definitionEn: Food that was not eaten and is kept for later.
+        definitionVi: Thức ăn thừa; đồ ăn còn lại để dành ăn sau.
+        examples:
+          - en: We ate the leftovers for lunch.
+            vi: Chúng tôi ăn đồ thừa vào bữa trưa.
+          - en: Put the leftovers in the fridge tonight.
+            vi: Tối nay cất đồ ăn thừa vào tủ lạnh.
+
+  - lemma: rent
+    cefr: A2
+    frequencyRank: 4000
+    ipaUs: /rent/
+    ipaUk: /rent/
+    syllables: rent
+    stressPattern: '1'
+    subtopics: [home]
+    senses:
+      - pos: NOUN
+        definitionEn: Money paid regularly to live in a place you do not own.
+        definitionVi: Tiền thuê nhà; khoản trả định kỳ để ở nơi không thuộc sở hữu của mình.
+        examples:
+          - en: The rent goes up every year.
+            vi: Tiền thuê nhà tăng mỗi năm.
+          - en: Half my salary goes on rent.
+            vi: Một nửa lương của tôi dành cho tiền thuê nhà.
+
+  - lemma: queue
+    cefr: A2
+    frequencyRank: 12000
+    ipaUs: /kjuː/
+    ipaUk: /kjuː/
+    syllables: queue
+    stressPattern: '1'
+    subtopics: [shopping]
+    senses:
+      - pos: NOUN
+        definitionEn: A line of people waiting for their turn.
+        definitionVi: Hàng người xếp chờ; dòng người đợi tới lượt.
+        examples:
+          - en: The queue at the post office moved slowly.
+            vi: Hàng người ở bưu điện nhích rất chậm.
+          - en: There was no queue at seven in the morning.
+            vi: Bảy giờ sáng không có ai xếp hàng.
+
+  - lemma: refund
+    cefr: B1
+    frequencyRank: 15600
+    ipaUs: /ˈriːfʌnd/
+    ipaUk: /ˈriːfʌnd/
+    syllables: re·fund
+    stressPattern: '10'
+    subtopics: [shopping]
+    senses:
+      - pos: NOUN
+        definitionEn: Money given back to you when you return something.
+        definitionVi: Tiền hoàn lại; khoản trả lại khi bạn trả hàng.
+        examples:
+          - en: I asked for a refund on the broken kettle.
+            vi: Tôi yêu cầu hoàn tiền cho chiếc ấm bị hỏng.
+          - en: The refund took a week to arrive.
+            vi: Tiền hoàn về mất một tuần.
+
+  - lemma: appliance
+    cefr: B2
+    frequencyRank: 18900
+    ipaUs: /əˈplaɪəns/
+    ipaUk: /əˈplaɪəns/
+    syllables: ap·pli·ance
+    stressPattern: '010'
+    subtopics: [home]
+    senses:
+      - pos: NOUN
+        definitionEn: A machine used in the home, such as a fridge or washing machine.
+        definitionVi: Thiết bị gia dụng; máy móc trong nhà như tủ lạnh hay máy giặt.
+        examples:
+          - en: Every appliance in the kitchen is second hand.
+            vi: Mọi thiết bị trong bếp đều là đồ cũ.
+          - en: Unplug the appliance before you clean it.
+            vi: Rút phích thiết bị trước khi lau chùi.
+
+  - lemma: commute
+    cefr: B2
+    frequencyRank: 17600
+    ipaUs: /kəˈmjuːt/
+    ipaUk: /kəˈmjuːt/
+    syllables: com·mute
+    stressPattern: '01'
+    subtopics: [home]
+    senses:
+      - pos: VERB
+        definitionEn: To travel regularly between home and work.
+        definitionVi: Đi lại hằng ngày; di chuyển thường xuyên giữa nhà và nơi làm việc.
+        examples:
+          - en: She commutes forty minutes each way.
+            vi: Cô ấy đi làm mất bốn mươi phút mỗi chiều.
+          - en: I commute by motorbike in every kind of weather.
+            vi: Tôi đi làm bằng xe máy trong mọi kiểu thời tiết.
+
+  - lemma: errand
+    cefr: B1
+    frequencyRank: 13700
+    ipaUs: /ˈerənd/
+    ipaUk: /ˈerənd/
+    syllables: er·rand
+    stressPattern: '10'
+    subtopics: [shopping]
+    senses:
+      - pos: NOUN
+        definitionEn: A short trip to do a small job, such as buying something.
+        definitionVi: Việc vặt; chuyến đi ngắn để làm một việc nhỏ.
+        examples:
+          - en: I have two errands to run before lunch.
+            vi: Tôi có hai việc vặt phải làm trước bữa trưa.
+          - en: Running errands takes my whole Saturday morning.
+            vi: Làm việc vặt chiếm cả sáng thứ Bảy của tôi.
+
+  - lemma: tidy
+    cefr: A2
+    frequencyRank: 9200
+    ipaUs: /ˈtaɪdi/
+    ipaUk: /ˈtaɪdi/
+    syllables: ti·dy
+    stressPattern: '10'
+    subtopics: [home]
+    senses:
+      - pos: ADJECTIVE
+        definitionEn: Neat, with everything in its place.
+        definitionVi: Gọn gàng; mọi thứ đâu vào đấy.
+        examples:
+          - en: Her desk is always tidy.
+            vi: Bàn làm việc của cô ấy lúc nào cũng gọn.
+          - en: Keep the kitchen tidy and cooking is faster.
+            vi: Giữ bếp gọn thì nấu ăn nhanh hơn.
+
+  - lemma: utility
+    cefr: B2
+    frequencyRank: 8600
+    ipaUs: /juːˈtɪləti/
+    ipaUk: /juːˈtɪləti/
+    syllables: u·til·i·ty
+    stressPattern: '0100'
+    subtopics: [home]
+    senses:
+      - pos: NOUN
+        definitionEn: A basic service such as water, electricity or gas.
+        definitionVi: Tiện ích; dịch vụ thiết yếu như điện, nước, ga.
+        examples:
+          - en: Rent does not include utilities.
+            vi: Tiền thuê chưa gồm điện nước.
+          - en: Utilities cost about a million dong a month.
+            vi: Điện nước tốn khoảng một triệu đồng mỗi tháng.
+  - lemma: fold
+    cefr: A2
+    frequencyRank: 8300
+    ipaUs: /foʊld/
+    ipaUk: /fəʊld/
+    syllables: fold
+    stressPattern: '1'
+    subtopics: [clothes]
+    senses:
+      - pos: VERB
+        definitionEn: To bend cloth or paper so one part lies on another.
+        definitionVi: Gấp; bẻ vải hoặc giấy cho phần này nằm lên phần kia.
+        examples:
+          - en: Fold the shirts before you put them away.
+            vi: Gấp áo lại trước khi cất đi.
+          - en: She folded the letter twice.
+            vi: Cô ấy gấp lá thư làm đôi hai lần.
+
+  - lemma: spare
+    cefr: B1
+    frequencyRank: 6800
+    ipaUs: /sper/
+    ipaUk: /speə/
+    syllables: spare
+    stressPattern: '1'
+    subtopics: [home]
+    senses:
+      - pos: ADJECTIVE
+        definitionEn: Kept in reserve, or not being used at the moment.
+        definitionVi: Dự phòng; để dành, chưa dùng đến.
+        examples:
+          - en: There is a spare key under the plant.
+            vi: Có chìa khoá dự phòng dưới chậu cây.
+          - en: I read in my spare time.
+            vi: Tôi đọc sách lúc rảnh.
+
+  - lemma: neighbourhood
+    cefr: B1
+    frequencyRank: 5000
+    ipaUs: /ˈneɪbərhʊd/
+    ipaUk: /ˈneɪbəhʊd/
+    syllables: neigh·bour·hood
+    stressPattern: '100'
+    subtopics: [home]
+    senses:
+      - pos: NOUN
+        definitionEn: The area around where you live and the people in it.
+        definitionVi: Khu phố; vùng quanh nơi bạn ở và những người sống ở đó.
+        examples:
+          - en: It is a quiet neighbourhood after nine.
+            vi: Khu này yên tĩnh sau chín giờ.
+          - en: The whole neighbourhood came to the wedding.
+            vi: Cả khu phố tới dự đám cưới.
+
+  - lemma: overslept
+    cefr: A2
+    frequencyRank: 18200
+    ipaUs: /ˌoʊvərˈslept/
+    ipaUk: /ˌəʊvəˈslept/
+    syllables: o·ver·slept
+    stressPattern: '001'
+    subtopics: [hobbies]
+    senses:
+      - pos: VERB
+        definitionEn: Slept longer than intended, past tense of oversleep.
+        definitionVi: Ngủ quên; ngủ quá giờ định dậy — quá khứ của oversleep.
+        examples:
+          - en: I overslept and missed the first bus.
+            vi: Tôi ngủ quên và lỡ chuyến xe buýt đầu.
+          - en: He overslept twice this week.
+            vi: Tuần này anh ấy ngủ quên hai lần.
+  - lemma: receipt
+    cefr: A2
+    frequencyRank: 7500
+    ipaUs: /rɪˈsiːt/
+    ipaUk: /rɪˈsiːt/
+    syllables: re·ceipt
+    stressPattern: '01'
+    subtopics: [shopping]
+    senses:
+      - pos: NOUN
+        definitionEn: A printed note showing what you paid for something.
+        definitionVi: Hoá đơn; giấy ghi số tiền bạn đã trả.
+        examples:
+          - en: Keep the receipt in case you return it.
+            vi: Giữ hoá đơn phòng khi bạn muốn trả lại.
+          - en: The p in receipt is silent.
+            vi: Chữ p trong receipt là âm câm, không đọc.
+
+  - lemma: deposit
+    cefr: B1
+    frequencyRank: 6300
+    ipaUs: /dɪˈpɑːzɪt/
+    ipaUk: /dɪˈpɒzɪt/
+    syllables: de·pos·it
+    stressPattern: '010'
+    subtopics: [home]
+    senses:
+      - pos: NOUN
+        definitionEn: Money paid in advance and returned later if nothing is damaged.
+        definitionVi: Tiền đặt cọc; khoản trả trước, được hoàn lại nếu không hư hỏng gì.
+        examples:
+          - en: The landlord asked for two months' deposit.
+            vi: Chủ nhà đòi đặt cọc hai tháng.
+          - en: You get the deposit back when you move out.
+            vi: Bạn được trả lại tiền cọc khi chuyển đi.
+
+  - lemma: alarm
+    cefr: A2
+    ipaUs: /əˈlɑːrm/
+    senses:
+      - pos: NOUN
+        definitionEn: A device that makes a loud sound to wake someone up.
+        definitionVi: Đồng hồ báo thức
+        examples:
+          - en: I set my morning alarm for six o'clock every single day.
+            vi: Tôi đặt chuông báo thức buổi sáng vào lúc sáu giờ mỗi ngày.
+          - en: The loud alarm woke everyone up in the middle of the night.
+            vi: Tiếng báo thức lớn đã đánh thức mọi người dậy vào giữa đêm.
+  - lemma: pillow
+    cefr: A1
+    ipaUs: /ˈpɪloʊ/
+    senses:
+      - pos: NOUN
+        definitionEn: A soft bag filled with material used to support your head in bed.
+        definitionVi: Cái gối
+        examples:
+          - en: She fluffed her soft pillow before going to sleep at night.
+            vi: Cô ấy phủi cho chiếc gối mềm phồng lên trước khi đi ngủ vào ban đêm.
+          - en: He likes sleeping with an extra pillow under his head.
+            vi: Anh ấy thích ngủ với một chiếc gối phụ kê dưới đầu.
+  - lemma: blanket
+    cefr: A1
+    ipaUs: /ˈblæŋkɪt/
+    senses:
+      - pos: NOUN
+        definitionEn: A large warm piece of cloth used as a cover on a bed.
+        definitionVi: Cái chăn
+        examples:
+          - en: She pulled the warm blanket over her shoulders during the cold night.
+            vi: Cô ấy kéo tấm chăn ấm lên vai trong đêm trời lạnh.
+          - en: We need an extra blanket because the weather is freezing tonight.
+            vi: Chúng ta cần thêm một chiếc chăn vì thời tiết tối nay rất lạnh.
+  - lemma: mattress
+    cefr: A2
+    ipaUs: /ˈmætrəs/
+    senses:
+      - pos: NOUN
+        definitionEn: A large thick pad used as a bed or part of a bed.
+        definitionVi: Cái nệm
+        examples:
+          - en: They bought a new firm mattress to help with back pain.
+            vi: Họ đã mua một chiếc nệm mới cứng cáp để hỗ trợ đau lưng.
+          - en: Jumping on the bed mattress can easily break the wooden frame.
+            vi: Nhảy trên nệm giường có thể dễ dàng làm gãy khung gỗ.
+  - lemma: pajamas
+    cefr: A2
+    ipaUs: /pəˈdʒæməz/
+    senses:
+      - pos: NOUN
+        definitionEn: Soft loose clothing worn in bed.
+        definitionVi: Đồ ngủ
+        examples:
+          - en: He changed into his comfortable striped pajamas after taking a warm bath.
+            vi: Anh ấy thay bộ đồ ngủ kẻ sọc thoải mái sau khi tắm nước ấm.
+          - en: She loves wearing flannel pajamas during the cold winter evenings.
+            vi: Cô ấy thích mặc đồ ngủ vải flannel trong những buổi tối mùa đông lạnh.
+  - lemma: mirror
+    cefr: A1
+    ipaUs: /ˈmɪrər/
+    senses:
+      - pos: NOUN
+        definitionEn: A piece of glass that reflects images.
+        definitionVi: Cái gương
+        examples:
+          - en: She checked her hair in the hallway mirror before leaving home.
+            vi: Cô ấy soi tóc trước gương ở hành lang trước khi rời nhà.
+          - en: He cut his face while shaving in front of the bathroom mirror.
+            vi: Anh ấy đã bị đứt tay khi cạo râu trước gương phòng tắm.
+  - lemma: toothbrush
+    cefr: A1
+    ipaUs: /ˈtuːθbrʌʃ/
+    senses:
+      - pos: NOUN
+        definitionEn: A small brush used for cleaning your teeth.
+        definitionVi: Bàn chải đánh răng
+        examples:
+          - en: Don't forget to pack your electric toothbrush for the weekend trip.
+            vi: Đừng quên mang theo bàn chải đánh răng điện cho chuyến đi cuối tuần.
+          - en: She bought a colorful new toothbrush at the local convenience store.
+            vi: Cô ấy đã mua một chiếc bàn chải đánh răng mới đầy màu sắc ở cửa hàng tiện lợi.
+  - lemma: toothpaste
+    cefr: A1
+    ipaUs: /ˈtuːθpeɪst/
+    senses:
+      - pos: NOUN
+        definitionEn: A paste used with a brush for cleaning teeth.
+        definitionVi: Kem đánh răng
+        examples:
+          - en: Squeeze a small amount of mint toothpaste onto your brush now.
+            vi: Hãy nặn một ít kem đánh răng vị bạc hà lên bàn chải của bạn đi.
+          - en: We ran out of toothpaste so I need to buy some.
+            vi: Chúng ta hết kem đánh răng rồi nên tôi cần đi mua thêm.
+  - lemma: towel
+    cefr: A1
+    ipaUs: /ˈtaʊəl/
+    senses:
+      - pos: NOUN
+        definitionEn: A piece of cloth used for drying things.
+        definitionVi: Khăn tắm
+        examples:
+          - en: Wrap yourself in this warm fluffy towel after you finish showering.
+            vi: Hãy quấn chiếc khăn tắm ấm áp và bông xốp này sau khi tắm xong.
+          - en: He forgot to bring a clean towel to the swimming pool.
+            vi: Anh ấy quên mang theo một chiếc khăn tắm sạch đến hồ bơi.
+  - lemma: shower
+    cefr: A1
+    ipaUs: /ˈʃaʊər/
+    senses:
+      - pos: NOUN
+        definitionEn: A device that produces a spray of water for washing your body.
+        definitionVi: Vòi sen
+        examples:
+          - en: She takes a refreshing hot shower every morning before going to work.
+            vi: Cô ấy tắm vòi sen nước nóng sảng khoái mỗi sáng trước khi đi làm.
+          - en: The hotel bathroom has a modern glass shower instead of a bathtub.
+            vi: Phòng tắm khách sạn có buồng vòi sen kính hiện đại thay vì bồn tắm.
+  - lemma: bathrobe
+    cefr: B1
+    ipaUs: /ˈbæθroʊb/
+    senses:
+      - pos: NOUN
+        definitionEn: A loose garment worn after bathing.
+        definitionVi: Áo choàng tắm
+        examples:
+          - en: He put on his cozy cotton bathrobe right after getting out of bed.
+            vi: Anh ấy mặc chiếc áo choàng tắm bằng vải bông ấm cúng ngay sau khi thức dậy.
+          - en: She wrapped a thick plush bathrobe around herself to stay warm.
+            vi: Cô ấy quấn quanh mình một chiếc áo choàng tắm dày dặn để giữ ấm.
+  - lemma: slippers
+    cefr: A2
+    ipaUs: /ˈslɪpərz/
+    senses:
+      - pos: NOUN
+        definitionEn: Soft comfortable shoes worn indoors.
+        definitionVi: Dép đi trong nhà
+        examples:
+          - en: My feet feel so warm inside these furry house slippers right now.
+            vi: Bàn chân tôi cảm thấy rất ấm áp bên trong đôi dép đi trong nhà có lông này.
+          - en: Please take off your muddy shoes and wear these soft slippers inside.
+            vi: Xin hãy cởi đôi giày dính bùn và đi những chiếc dép mềm này vào trong nhà.
+  - lemma: wallet
+    cefr: A1
+    ipaUs: /ˈwɑːlɪt/
+    senses:
+      - pos: NOUN
+        definitionEn: A small flat case used to carry money and cards.
+        definitionVi: Cái ví
+        examples:
+          - en: He keeps his credit cards and driver license inside his leather wallet.
+            vi: Anh ấy giữ thẻ tín dụng và giấy phép lái xe bên trong chiếc ví da.
+          - en: She accidentally left her money wallet on the table at the restaurant.
+            vi: Cô ấy vô tình để quên chiếc ví tiền trên bàn tại nhà hàng.
+  - lemma: backpack
+    cefr: A1
+    ipaUs: /ˈbækpæk/
+    senses:
+      - pos: NOUN
+        definitionEn: A bag carried on the back using two straps.
+        definitionVi: Ba lô
+        examples:
+          - en: Students carry heavy books inside a sturdy canvas backpack to school.
+            vi: Học sinh mang sách nặng bên trong một chiếc ba lô vải bền đến trường.
+          - en: He packed his laptop and clothes into a travel backpack for camping.
+            vi: Anh ấy xếp máy tính xách tay và quần áo vào ba lô du lịch để cắm trại.
+  - lemma: calendar
+    cefr: A1
+    ipaUs: /ˈkælɪndər/
+    senses:
+      - pos: NOUN
+        definitionEn: A chart showing the days, weeks, and months of a year.
+        definitionVi: Lịch
+        examples:
+          - en: Mark the important meeting date on your office wall calendar today.
+            vi: Hãy đánh dấu ngày họp quan trọng trên lịch treo tường văn phòng hôm nay.
+          - en: She checks the kitchen wall calendar to track family birthdays every month.
+            vi: Cô ấy kiểm tra lịch treo tường nhà bếp để theo dõi sinh nhật gia đình.
+  - lemma: coffee
+    cefr: A1
+    ipaUs: /ˈkɔːfi/
+    senses:
+      - pos: NOUN
+        definitionEn: A hot dark drink made from roasted beans.
+        definitionVi: Cà phê
+        examples:
+          - en: I drink a strong cup of black coffee to start my morning.
+            vi: Tôi uống một tách cà phê đen đậm đặc để bắt đầu buổi sáng.
+          - en: They enjoy sitting at the corner café drinking iced milk coffee together.
+            vi: Họ thích ngồi ở quán cà phê góc phố cùng nhau uống cà phê sữa đá.
+  - lemma: toaster
+    cefr: A2
+    ipaUs: /ˈtoʊstər/
+    senses:
+      - pos: NOUN
+        definitionEn: An electrical device used for making slices of bread brown.
+        definitionVi: Máy nướng bánh mì
+        examples:
+          - en: Put two slices of bread into the electric toaster for breakfast.
+            vi: Cho hai lát bánh mì vào máy nướng bánh mì điện để ăn sáng.
+          - en: The old kitchen toaster stopped working properly after several years of use.
+            vi: Máy nướng bánh mì cũ trong bếp đã ngừng hoạt động bình thường sau nhiều năm.
+  - lemma: microwave
+    cefr: A2
+    ipaUs: /ˈmaɪkroʊweɪv/
+    senses:
+      - pos: NOUN
+        definitionEn: An electrical oven that cooks food very quickly using waves.
+        definitionVi: Lò vi sóng
+        examples:
+          - en: Heat up your leftover pizza inside the kitchen microwave for two minutes.
+            vi: Hâm nóng phần pizza thừa của bạn trong lò vi sóng bếp trong hai phút.
+          - en: We use the digital microwave daily to quickly defrost frozen chicken meat.
+            vi: Chúng tôi sử dụng lò vi sóng điện tử hàng ngày để rã đông thịt gà đông lạnh.
+  - lemma: fridge
+    cefr: A1
+    ipaUs: /frɪdʒ/
+    senses:
+      - pos: NOUN
+        definitionEn: A large electrical appliance used for keeping food cold.
+        definitionVi: Tủ lạnh
+        examples:
+          - en: Put the fresh milk and butter back into the kitchen fridge immediately.
+            vi: Hãy cất sữa tươi và bơ trở lại tủ lạnh trong bếp ngay lập tức.
+          - en: There is practically nothing left to eat inside the empty house fridge.
+            vi: Hầu như không còn gì để ăn bên trong chiếc tủ lạnh trống rỗng của ngôi nhà.
+  - lemma: stove
+    cefr: A1
+    ipaUs: /stoʊv/
+    senses:
+      - pos: NOUN
+        definitionEn: An apparatus used for cooking food by burning fuel or electricity.
+        definitionVi: Bếp nấu
+        examples:
+          - en: Turn off the gas stove safely after cooking dinner for the family.
+            vi: Hãy tắt bếp gas một cách an toàn sau khi nấu bữa tối cho gia đình.
+          - en: She placed a large metal pot filled with soup on the hot stove.
+            vi: Cô ấy đặt một chiếc nồi kim loại lớn chứa đầy súp lên bếp đang nóng.
+  - lemma: sink
+    cefr: A1
+    ipaUs: /sɪŋk/
+    senses:
+      - pos: NOUN
+        definitionEn: A fixed basin in a kitchen or bathroom with a water supply and pipe.
+        definitionVi: bồn rửa
+        examples:
+          - en: Please wash the dirty dishes in the kitchen sink right now.
+            vi: Làm ơn rửa những cái bát đĩa bẩn trong bồn rửa bếp ngay bây giờ.
+          - en: Water is leaking from the pipe under the bathroom sink.
+            vi: Nước đang rò rỉ từ đường ống dưới bồn rửa phòng tắm.
+  - lemma: garbage
+    cefr: A1
+    ipaUs: /ˈɡɑːr.bɪdʒ/
+    senses:
+      - pos: NOUN
+        definitionEn: Waste material or things that are no longer wanted and are thrown away.
+        definitionVi: rác
+        examples:
+          - en: Remember to take out the garbage before you leave home.
+            vi: Hãy nhớ mang rác đi đổ trước khi bạn rời khỏi nhà.
+          - en: He threw the empty plastic bottle into the garbage can.
+            vi: Anh ấy vứt chai nhựa rỗng vào thùng rác.
+  - lemma: trash
+    cefr: A1
+    ipaUs: /træʃ/
+    senses:
+      - pos: NOUN
+        definitionEn: Things that you throw away because you no longer want or need them.
+        definitionVi: rác thải
+        examples:
+          - en: The street was covered with plastic bags and other trash.
+            vi: Đường phố phủ đầy túi nhựa và rác thải khác.
+          - en: Please empty the trash bin in the office this afternoon.
+            vi: Làm ơn đổ thùng rác trong văn phòng vào chiều nay.
+  - lemma: broom
+    cefr: A2
+    ipaUs: /bruːm/
+    senses:
+      - pos: NOUN
+        definitionEn: A brush with a long handle, used for sweeping floors.
+        definitionVi: cái chổi
+        examples:
+          - en: She used a new broom to sweep the dusty kitchen floor.
+            vi: Cô ấy dùng một cái chổi mới để quét sàn bếp đầy bụi.
+          - en: Where did you leave the broom after cleaning the yard?
+            vi: Bạn đã để cái chổi ở đâu sau khi dọn dẹp sân vậy?
+  - lemma: mop
+    cefr: A2
+    ipaUs: /mɑːp/
+    senses:
+      - pos: NOUN
+        definitionEn: A tool for washing floors, made of a sponge or thick strings attached to a handle.
+        definitionVi: cây lau nhà
+        examples:
+          - en: He dipped the mop into the bucket of soapy water.
+            vi: Anh ấy nhúng cây lau nhà vào xô nước xà phòng.
+          - en: The wet floor needs time to dry after using the mop.
+            vi: Sàn ướt cần thời gian khô sau khi dùng cây lau nhà.
+  - lemma: vacuum
+    cefr: A2
+    ipaUs: /ˈvæk.juːm/
+    senses:
+      - pos: NOUN
+        definitionEn: An electrical appliance that cleans floors by sucking up dirt and dust.
+        definitionVi: máy hút bụi
+        examples:
+          - en: I usually run the vacuum across the living room carpet weekly.
+            vi: Tôi thường dùng máy hút bụi trên thảm phòng khách hàng tuần.
+          - en: The old vacuum stopped working in the middle of cleaning.
+            vi: Cái máy hút bụi cũ đã ngừng hoạt động giữa chừng lúc dọn dẹp.
+  - lemma: iron
+    cefr: A2
+    ipaUs: /ˈaɪ.ərn/
+    senses:
+      - pos: NOUN
+        definitionEn: A small electrical appliance with a flat metal base used to smooth clothes.
+        definitionVi: cái bàn là
+        examples:
+          - en: She plugged in the iron to press her wrinkled shirt.
+            vi: Cô ấy cắm điện bàn là để là chiếc áo sơ mi nhăn.
+          - en: Be careful not to touch the hot part of the iron.
+            vi: Hãy cẩn thận đừng chạm vào phần nóng của cái bàn là.
+  - lemma: detergent
+    cefr: B1
+    ipaUs: /dɪˈtɝː.dʒənt/
+    senses:
+      - pos: NOUN
+        definitionEn: A liquid or powder used for washing clothes, dishes, or floors.
+        definitionVi: chất tẩy rửa
+        examples:
+          - en: Pour a small amount of laundry detergent into the machine.
+            vi: Đổ một lượng nhỏ chất tẩy rửa giặt vào máy.
+          - en: This dish detergent removes grease very quickly and safely.
+            vi: Chất tẩy rửa bát này loại bỏ mỡ rất nhanh và an toàn.
+  - lemma: bucket
+    cefr: A2
+    ipaUs: /ˈbʌk.ɪt/
+    senses:
+      - pos: NOUN
+        definitionEn: An open container with a handle used for carrying liquids.
+        definitionVi: cái xô
+        examples:
+          - en: Fill the plastic bucket with warm water for cleaning floors.
+            vi: Đổ đầy nước ấm vào cái xô nhựa để lau sàn nhà.
+          - en: He carried a heavy bucket full of fresh garden water.
+            vi: Anh ấy mang một cái xô nặng đầy nước tưới vườn tươi.
+  - lemma: basket
+    cefr: A2
+    ipaUs: /ˈbæs.kɪt/
+    senses:
+      - pos: NOUN
+        definitionEn: A container made of thin strips of material used for holding things.
+        definitionVi: cái giỏ
+        examples:
+          - en: She put the dirty clothes into a large laundry basket.
+            vi: Cô ấy bỏ quần áo bẩn vào một cái giỏ đựng đồ giặt lớn.
+          - en: He collected fresh apples in a woven bamboo basket today.
+            vi: Hôm nay anh ấy thu lượm táo tươi trong một cái giỏ tre đan.
+  - lemma: shelf
+    cefr: A2
+    ipaUs: /ʃelf/
+    senses:
+      - pos: NOUN
+        definitionEn: A flat board attached to a wall or inside a cupboard for holding objects.
+        definitionVi: cái kệ
+        examples:
+          - en: The heavy dictionary fell from the top wooden shelf down.
+            vi: Từ điển nặng rơi từ cái kệ gỗ phía trên xuống.
+          - en: She placed the family photo frame on a kitchen shelf.
+            vi: Cô ấy đặt khung ảnh gia đình lên một cái kệ bếp.
+  - lemma: drawer
+    cefr: A2
+    ipaUs: /drɔːr/
+    senses:
+      - pos: NOUN
+        definitionEn: A box-shaped container that slides in and out of a piece of furniture.
+        definitionVi: ngăn kéo
+        examples:
+          - en: He keeps his important documents locked inside a wooden drawer.
+            vi: Anh ấy giữ các tài liệu quan trọng khóa trong ngăn kéo gỗ.
+          - en: She opened the bedside drawer to look for her keys.
+            vi: Cô ấy mở ngăn kéo đầu giường để tìm chìa khóa của mình.
+  - lemma: hanger
+    cefr: A2
+    ipaUs: /ˈhæŋ.ər/
+    senses:
+      - pos: NOUN
+        definitionEn: A curved piece of wire or wood used for hanging clothes in a wardrobe.
+        definitionVi: móc treo quần áo
+        examples:
+          - en: Hang your winter coat carefully on a strong wooden hanger.
+            vi: Treo áo khoác mùa đông của bạn cẩn thận lên móc treo quần áo bằng gỗ chắc chắn.
+          - en: She bought a single plastic hanger for her new shirt.
+            vi: Cô ấy mua một móc treo quần áo bằng nhựa đơn cho chiếc áo mới.
+  - lemma: lock
+    cefr: A2
+    ipaUs: /lɑːk/
+    senses:
+      - pos: NOUN
+        definitionEn: A device used to secure a door or gate so that it cannot be opened.
+        definitionVi: ổ khóa
+        examples:
+          - en: Make sure the front door lock is secure before sleeping.
+            vi: Hãy chắc chắn rằng ổ khóa cửa trước đã được khóa an toàn trước khi ngủ.
+          - en: He lost the key to the heavy brass door lock.
+            vi: Anh ấy mất chìa khóa cho ổ khóa cửa bằng đồng nặng.
+  - lemma: gate
+    cefr: A2
+    ipaUs: /ɡeɪt/
+    senses:
+      - pos: NOUN
+        definitionEn: A barrier that opens and closes like a door in a fence or wall.
+        definitionVi: cái cổng
+        examples:
+          - en: Please remember to close the garden gate after you enter.
+            vi: Xin hãy nhớ đóng cái cổng vườn sau khi bạn bước vào.
+          - en: The tall metal gate protects the front yard from strays.
+            vi: Cái cổng kim loại cao bảo vệ sân trước khỏi chó mèo lang thang.
+  - lemma: porch
+    cefr: B1
+    ipaUs: /pɔːrʧ/
+    senses:
+      - pos: NOUN
+        definitionEn: A covered shelter outside the entrance door of a house.
+        definitionVi: hiên nhà
+        examples:
+          - en: They like sitting on the front porch to drink hot tea.
+            vi: Họ thích ngồi trên hiên nhà phía trước để uống trà nóng.
+          - en: Rain was falling heavily on the wooden porch outside.
+            vi: Mưa đang rơi nặng hạt trên cái hiên nhà bằng gỗ bên ngoài.
+  - lemma: balcony
+    cefr: B1
+    ipaUs: /ˈbæl.kə.ni/
+    senses:
+      - pos: NOUN
+        definitionEn: A platform enclosed by a wall or rail outside a window upstairs.
+        definitionVi: ban công
+        examples:
+          - en: She grows colorful flowers in pots on her apartment balcony.
+            vi: Cô ấy trồng những bông hoa đầy màu sắc trong chậu ở ban công căn hộ.
+          - en: We stood on the balcony to watch the evening sunset.
+            vi: Chúng tôi đứng ở ban công để ngắm hoàng hôn buổi chiều.
+  - lemma: mailbox
+    cefr: B1
+    ipaUs: /ˈmeɪl.bɑːks/
+    senses:
+      - pos: NOUN
+        definitionEn: A small box outside a house where mail is delivered.
+        definitionVi: hộp thư
+        examples:
+          - en: The mailman left the daily newspaper inside our front mailbox.
+            vi: Người đưa thư đã để tờ báo hàng ngày bên trong hộp thư trước nhà chúng tôi.
+          - en: Check the mailbox to see if any letters have arrived.
+            vi: Hãy kiểm tra hộp thư xem có bức thư nào đến chưa.
+  - lemma: bulb
+    cefr: A2
+    ipaUs: /bʌlb/
+    senses:
+      - pos: NOUN
+        definitionEn: The glass part of an electric lamp that produces light.
+        definitionVi: bóng đèn
+        examples:
+          - en: The bright ceiling bulb burned out suddenly during dinner.
+            vi: Bóng đèn trần sáng bừng đã cháy hụt đột ngột trong bữa tối.
+          - en: He bought a replacement LED bulb for the desk lamp.
+            vi: Anh ấy mua một bóng đèn LED thay thế cho đèn bàn.
+  - lemma: switch
+    cefr: A2
+    ipaUs: /swɪtʃ/
+    senses:
+      - pos: NOUN
+        definitionEn: A small control for turning an electrical device on or off.
+        definitionVi: công tắc
+        examples:
+          - en: Press the wall switch to turn on the living room lights.
+            vi: Nhấn công tắc tường để bật đèn phòng khách lên.
+          - en: The light switch is located right next to the door.
+            vi: Công tắc đèn nằm ngay bên cạnh cánh cửa phòng.
+  - lemma: socket
+    cefr: A2
+    ipaUs: /ˈsɑːkɪt/
+    senses:
+      - pos: NOUN
+        definitionEn: A hollow place on a wall where electrical equipment can be connected.
+        definitionVi: ổ cắm điện
+        examples:
+          - en: She plugged her phone charger into the wall socket.
+            vi: Cô ấy đã cắm sạc điện thoại vào ổ cắm điện trên tường.
+          - en: Please turn off the switch before plugging into the socket.
+            vi: Hãy tắt công tắc trước khi cắm vào ổ cắm điện nhé.
+  - lemma: headphones
+    cefr: A2
+    ipaUs: /ˈhɛdˌfoʊnz/
+    senses:
+      - pos: NOUN
+        definitionEn: A pair of small speakers worn over the ears to listen to audio.
+        definitionVi: tai nghe
+        examples:
+          - en: He wears his headphones while listening to music during work.
+            vi: Anh ấy đeo tai nghe trong khi nghe nhạc lúc làm việc.
+          - en: She forgot her headphones at home before catching the train.
+            vi: Cô ấy quên tai nghe ở nhà trước khi lên tàu.
+  - lemma: umbrella
+    cefr: A1
+    ipaUs: /ʌmˈbrɛlə/
+    senses:
+      - pos: NOUN
+        definitionEn: A device used to protect yourself from rain or sun.
+        definitionVi: cái ô, cái dù
+        examples:
+          - en: Take an umbrella because it looks like heavy rain outside.
+            vi: Hãy mang theo một cái ô vì bên ngoài trời trông sắp mưa to.
+          - en: She left her red umbrella in the school cafeteria today.
+            vi: Cô ấy đã để quên chiếc ô đỏ ở căng tin trường hôm nay.
+  - lemma: raincoat
+    cefr: A2
+    ipaUs: /ˈreɪnˌkoʊt/
+    senses:
+      - pos: NOUN
+        definitionEn: A waterproof coat worn to keep dry in the rain.
+        definitionVi: áo mưa
+        examples:
+          - en: Children put on their bright yellow raincoat before going outside.
+            vi: Lũ trẻ mặc chiếc áo mưa màu vàng sáng trước khi đi ra ngoài.
+          - en: My heavy raincoat kept me completely dry during the storm.
+            vi: Chiếc áo mưa dày của tôi đã giúp tôi khô ráo trong cơn bão.
+  - lemma: coat
+    cefr: A1
+    ipaUs: /koʊt/
+    senses:
+      - pos: NOUN
+        definitionEn: An outer garment worn outdoors, especially for warmth.
+        definitionVi: áo khoác
+        examples:
+          - en: He hung his winter coat on the hook by the door.
+            vi: Anh ấy treo chiếc áo khoác mùa đông lên móc gần cửa.
+          - en: She bought a warm woolen coat for the cold season.
+            vi: Cô ấy đã mua một chiếc áo khoác len ấm áp cho mùa lạnh.
+  - lemma: scarf
+    cefr: A2
+    ipaUs: /skɑːrf/
+    senses:
+      - pos: NOUN
+        definitionEn: A length of fabric worn around the neck for warmth or style.
+        definitionVi: khăn choàng cổ
+        examples:
+          - en: She wrapped a red woolen scarf around her neck tightly.
+            vi: Cô ấy quấn một chiếc khăn choàng cổ bằng len đỏ thật chặt.
+          - en: He forgot his favorite silk scarf at the coffee shop.
+            vi: Anh ấy đã bỏ quên chiếc khăn choàng cổ bằng lụa yêu thích ở quán cà phê.
+  - lemma: hat
+    cefr: A1
+    ipaUs: /hæt/
+    senses:
+      - pos: NOUN
+        definitionEn: A head covering worn for protection against weather or fashion.
+        definitionVi: cái mũ
+        examples:
+          - en: He wore a straw hat to protect his face from sun.
+            vi: Anh ấy đội một chiếc mũ rơm để bảo vệ khuôn mặt khỏi ánh nắng.
+          - en: She bought a stylish black hat for the outdoor party.
+            vi: Cô ấy đã mua một chiếc mũ đen sành điệu cho bữa tiệc ngoài trời.
+  - lemma: glasses
+    cefr: A1
+    ipaUs: /ˈɡlæsɪz/
+    senses:
+      - pos: NOUN
+        definitionEn: A pair of lenses set in a frame worn to improve vision.
+        definitionVi: kính mắt
+        examples:
+          - en: He cleans his reading glasses every morning after waking up.
+            vi: Anh ấy lau kính đọc sách mỗi sáng sau khi thức dậy.
+          - en: She needs her glasses to see the board clearly today.
+            vi: Cô ấy cần đeo kính để nhìn rõ bảng viết vào ngày hôm nay.
+  - lemma: medicine
+    cefr: A1
+    ipaUs: /ˈmɛdɪsən/
+    senses:
+      - pos: NOUN
+        definitionEn: A substance used for treating illness or relieving pain.
+        definitionVi: thuốc
+        examples:
+          - en: The doctor told him to take this medicine three times daily.
+            vi: Bác sĩ bảo anh ấy uống loại thuốc này ba lần mỗi ngày.
+          - en: She keeps all her family medicine in a secure cabinet.
+            vi: Cô ấy giữ tất cả thuốc gia đình trong một chiếc tủ an toàn.
+  - lemma: vitamin
+    cefr: A2
+    ipaUs: /ˈvaɪtəmɪn/
+    senses:
+      - pos: NOUN
+        definitionEn: An organic compound essential for normal growth and nutrition.
+        definitionVi: vitamin
+        examples:
+          - en: He takes a daily vitamin pill to boost his immune system.
+            vi: Anh ấy uống một viên vitamin mỗi ngày để tăng cường hệ miễn dịch.
+          - en: Fresh fruits and vegetables are rich in essential natural vitamin.
+            vi: Trái cây và rau tươi rất giàu vitamin tự nhiên thiết yếu.
+  - lemma: scale
+    cefr: A2
+    ipaUs: /skeɪl/
+    senses:
+      - pos: NOUN
+        definitionEn: A device used for weighing people or objects.
+        definitionVi: cái cân
+        examples:
+          - en: She stepped on the bathroom scale to check her weight.
+            vi: Cô ấy bước lên cái cân trong phòng tắm để kiểm tra cân nặng.
+          - en: The grocer placed the fresh apples on the digital scale.
+            vi: Người bán hàng đặt những quả táo tươi lên cái cân điện tử.
+  - lemma: thermometer
+    cefr: B1
+    ipaUs: /θərˈmɑːmɪtər/
+    senses:
+      - pos: NOUN
+        definitionEn: An instrument for measuring temperature.
+        definitionVi: nhiệt kế
+        examples:
+          - en: She checked her sick child's temperature using a digital thermometer.
+            vi: Cô ấy kiểm tra nhiệt độ của đứa con ốm bằng một chiếc nhiệt kế điện tử.
+          - en: The outdoor thermometer showed that temperatures dropped very quickly tonight.
+            vi: Chiếc nhiệt kế ngoài trời cho thấy nhiệt độ giảm rất nhanh vào đêm nay.
+  - lemma: bandage
+    cefr: A2
+    ipaUs: /ˈbændɪdʒ/
+    senses:
+      - pos: NOUN
+        definitionEn: A strip of woven material used to bind up a wound.
+        definitionVi: băng y tế
+        examples:
+          - en: He wrapped a clean bandage around his injured bleeding finger.
+            vi: Anh ấy quấn một dải băng y tế sạch quanh ngón tay bị thương đang chảy máu.
+          - en: She applied a sterile bandage to cover the deep cut.
+            vi: Cô ấy dán một miếng băng y tế vô trùng để che vết cắt sâu.
+  - lemma: scissors
+    cefr: A2
+    ipaUs: /ˈsɪzərz/
+    senses:
+      - pos: NOUN
+        definitionEn: An instrument used for cutting cloth, paper, and other materials.
+        definitionVi: cái kéo
+        examples:
+          - en: She used a sharp pair of scissors to cut colorful paper.
+            vi: Cô ấy dùng một cái kéo sắc để cắt giấy nhiều màu sắc.
+          - en: Please put those dangerous scissors away from the young children.
+            vi: Xin hãy cất cái kéo nguy hiểm đó đi xa tầm tay trẻ nhỏ.
+  - lemma: tape
+    cefr: A2
+    ipaUs: /teɪp/
+    senses:
+      - pos: NOUN
+        definitionEn: A narrow strip of material, typically sticky, used for fastening.
+        definitionVi: băng dính
+        examples:
+          - en: He used adhesive tape to seal the heavy cardboard box.
+            vi: Anh ấy dùng băng dính để bịt kín chiếc hộp các tông nặng.
+          - en: She repaired the torn book page with clear transparent tape.
+            vi: Cô ấy vá trang sách bị rách bằng băng dính trong suốt.
+  - lemma: glue
+    cefr: A2
+    ipaUs: /ɡluː/
+    senses:
+      - pos: NOUN
+        definitionEn: A sticky substance used for sticking objects together.
+        definitionVi: keo dán
+        examples:
+          - en: Children used craft glue to attach paper pieces together.
+            vi: Lũ trẻ dùng keo dán thủ công để dán các mảnh giấy lại với nhau.
+          - en: She fixed the broken ceramic mug using strong super glue.
+            vi: Cô ấy sửa chiếc cốc sứ bị vỡ bằng loại keo dán siêu mạnh.
+  - lemma: envelope
+    cefr: A2
+    ipaUs: /ˈɛnvəloʊp/
+    senses:
+      - pos: NOUN
+        definitionEn: A flexible flat paper container used for enclosing a letter.
+        definitionVi: cái phong bì
+        examples:
+          - en: He wrote her address carefully on the front white envelope.
+            vi: Anh ấy viết cẩn thận địa chỉ của cô ấy lên mặt trước chiếc phong bì trắng.
+          - en: She slipped the handwritten birthday letter inside the paper envelope.
+            vi: Cô ấy đút bức thư chúc mừng sinh nhật viết tay vào trong phong bì giấy.
+  - lemma: stamp
+    cefr: A2
+    ipaUs: /stæmp/
+    senses:
+      - pos: NOUN
+        definitionEn: A small piece of paper stuck to a letter to pay postage.
+        definitionVi: tem thư
+        examples:
+          - en: She licked the back of the stamp and stuck it.
+            vi: Cô ấy liếm mặt sau của con tem thư rồi dán nó lên.
+          - en: He collects rare vintage foreign postage stamp as a hobby.
+            vi: Anh ấy sưu tầm tem thư nước ngoài cổ xưa quý hiếm như một sở thích.
+  - lemma: candle
+    cefr: A2
+    ipaUs: /ˈkændl/
+    senses:
+      - pos: NOUN
+        definitionEn: A cylinder of wax with a wick that is burned to give light.
+        definitionVi: cây nến
+        examples:
+          - en: She lit a scented candle to create a relaxing atmosphere.
+            vi: Cô ấy thắp một cây nến thơm để tạo ra bầu không khí thư giãn.
+          - en: During the blackout, they burned a tall white wax candle.
+            vi: Trong lúc mất điện, họ đã đốt một cây nến sáp trắng cao.
+  - lemma: lotion
+    cefr: B1
+    ipaUs: /ˈloʊʃn/
+    senses:
+      - pos: NOUN
+        definitionEn: A thick, smooth liquid applied to skin for medicinal or cosmetic purposes.
+        definitionVi: lotion, kem dưỡng da
+        examples:
+          - en: She applied moisturizing lotion to her dry hands every evening.
+            vi: Cô ấy thoa lotion dưỡng ẩm lên đôi bàn tay khô vào mỗi buổi tối.
+          - en: He rubbed soothing lotion on his sunburned arms after swimming.
+            vi: Anh ấy xoa lotion làm dịu lên đôi tay bị cháy nắng sau khi bơi.
+  - lemma: shampoo
+    cefr: A1
+    ipaUs: /ˈʃæm.puː/
+    senses:
+      - pos: NOUN
+        definitionEn: A liquid soap used for washing your hair.
+        definitionVi: Dầu gội đầu
+        examples:
+          - en: She bought a new bottle of shampoo at the local supermarket.
+            vi: Cô ấy đã mua một chai dầu gội mới ở siêu thị địa phương.
+          - en: My favorite shampoo smells like fresh coconut and leaves hair soft.
+            vi: Dầu gội yêu thích của tôi có mùi dừa tươi và làm tóc mềm mượt.
+  - lemma: soap
+    cefr: A1
+    ipaUs: /soʊp/
+    senses:
+      - pos: NOUN
+        definitionEn: A substance used with water for washing and cleaning the body.
+        definitionVi: Xà phòng
+        examples:
+          - en: Please wash your hands thoroughly with soap before eating dinner.
+            vi: Vui lòng rửa tay thật sạch bằng xà phòng trước khi ăn tối.
+          - en: The hotel provides small bars of soap for every guest bathroom.
+            vi: Khách sạn cung cấp những cục xà phòng nhỏ cho mọi phòng tắm của khách.
+  - lemma: razor
+    cefr: A2
+    ipaUs: /ˈreɪ.zɚ/
+    senses:
+      - pos: NOUN
+        definitionEn: A small tool with a sharp blade used for shaving hair.
+        definitionVi: Dao cạo râu
+        examples:
+          - en: He forgot to pack his electric razor for the business trip.
+            vi: Anh ấy quên mang theo dao cạo râu điện cho chuyến công tác.
+          - en: Be very careful when handling a sharp razor near your skin.
+            vi: Hãy cẩn thận khi cầm dao cạo sắc bén ở gần da của bạn.
+  - lemma: brush
+    cefr: A1
+    ipaUs: /brʌʃ/
+    senses:
+      - pos: NOUN
+        definitionEn: A tool with bristles used for cleaning, painting, or arranging hair.
+        definitionVi: Cái bàn chải
+        examples:
+          - en: She ran a quick brush through her tangled hair before leaving.
+            vi: Cô ấy chải nhanh mái tóc rối của mình trước khi rời đi.
+          - en: You need a hard brush to clean the mud off your shoes.
+            vi: Bạn cần một chiếc bàn chải cứng để làm sạch bùn khỏi giày.
+  - lemma: comb
+    cefr: A2
+    ipaUs: /koʊm/
+    senses:
+      - pos: NOUN
+        definitionEn: A flat piece of plastic or metal with teeth used for styling hair.
+        definitionVi: Cái lược
+        examples:
+          - en: He kept a small plastic comb neatly inside his back pocket.
+            vi: Anh ấy giữ một chiếc lược nhựa nhỏ gọn gàng trong túi quần sau.
+          - en: She used a wide-toothed comb to gently untangle her wet hair.
+            vi: Cô ấy dùng lược thưa để gỡ rối mái tóc ướt một cách nhẹ nhàng.
+  - lemma: perfume
+    cefr: A2
+    ipaUs: /pɚˈfjum/
+    senses:
+      - pos: NOUN
+        definitionEn: A liquid with a pleasant smell that people put on their skin.
+        definitionVi: Nước hoa
+        examples:
+          - en: He bought an expensive bottle of French perfume for his wife.
+            vi: Anh ấy đã mua một chai nước hoa đắt tiền của Pháp cho vợ.
+          - en: She only wears that sweet floral perfume on very special occasions.
+            vi: Cô ấy chỉ dùng loại nước hoa hương hoa ngọt ngào đó vào những dịp rất đặc biệt.
+  - lemma: makeup
+    cefr: A2
+    ipaUs: /ˈmeɪ.kʌp/
+    senses:
+      - pos: NOUN
+        definitionEn: Colored substances put on the face to improve or change its appearance.
+        definitionVi: Đồ trang điểm
+        examples:
+          - en: She spends twenty minutes applying light makeup before going to work.
+            vi: Cô ấy dành hai mươi phút trang điểm nhẹ nhàng trước khi đi làm.
+          - en: Always remember to remove all your makeup before going to sleep.
+            vi: Luôn nhớ tẩy trang sạch sẽ tất cả đồ trang điểm trước khi đi ngủ.
+  - lemma: napkin
+    cefr: A1
+    ipaUs: /ˈnæp.kɪn/
+    senses:
+      - pos: NOUN
+        definitionEn: A small piece of cloth or paper used at meals to wipe hands and mouth.
+        definitionVi: Khăn ăn
+        examples:
+          - en: He wiped his mouth with a paper napkin after eating pizza.
+            vi: Anh ấy lau miệng bằng một chiếc khăn ăn giấy sau khi ăn pizza.
+          - en: The polite waiter placed a clean cloth napkin on my lap.
+            vi: Người phục vụ lịch sự đặt một chiếc khăn ăn bằng vải sạch lên đùi tôi.
+  - lemma: straw
+    cefr: A2
+    ipaUs: /strɔː/
+    senses:
+      - pos: NOUN
+        definitionEn: A thin tube of plastic or paper used for sucking up drinks.
+        definitionVi: Ống hút
+        examples:
+          - en: She used a colorful plastic straw to drink her cold iced tea.
+            vi: Cô ấy dùng một chiếc ống hút nhựa đầy màu sắc để uống trà đá.
+          - en: Many eco-friendly cafes now replace plastic straws with paper alternatives.
+            vi: Nhiều quán cà phê thân thiện với môi trường giờ thay thế ống hút nhựa bằng giấy.
+  - lemma: apron
+    cefr: A2
+    ipaUs: /ˈeɪ.prən/
+    senses:
+      - pos: NOUN
+        definitionEn: A piece of clothing worn over the front to protect clothes while cooking.
+        definitionVi: Tạp dề
+        examples:
+          - en: She tied a clean white apron around her waist before baking.
+            vi: Cô ấy buộc một chiếc tạp dề trắng sạch quanh eo trước khi làm bánh.
+          - en: His favorite cooking apron has funny cartoon characters printed on it.
+            vi: Chiếc tạp dề nấu ăn yêu thích của anh ấy có in các nhân vật hoạt hình ngộ nghĩnh.
+  - lemma: plate
+    cefr: A1
+    ipaUs: /pleɪt/
+    senses:
+      - pos: NOUN
+        definitionEn: A flat dish used for serving or eating food from.
+        definitionVi: Cái đĩa
+        examples:
+          - en: Please put that ceramic plate gently on the dining room table.
+            vi: Làm ơn đặt chiếc đĩa gốm đó một cách nhẹ nhàng lên bàn ăn.
+          - en: She piled her dinner plate high with fresh vegetables and chicken.
+            vi: Cô ấy chất đầy chiếc đĩa ăn tối của mình với rau tươi và thịt gà.

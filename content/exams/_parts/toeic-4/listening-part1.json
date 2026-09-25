@@ -1,0 +1,124 @@
+[
+  {
+    "id": "listening-part1-photographs",
+    "skill": "listening",
+    "title": "Part 1 — Photographs",
+    "format": "TOEIC Listening — Part 1 · Photographs, 6 câu, bốn lựa chọn, chỉ nghe không có chữ",
+    "instructionsVi": "Ở mục tiêu 900, ba phương án sai đều đúng một phần: đúng vật thể nhưng sai thì, đúng hành động nhưng sai chủ thể, hoặc đúng cảnh nhưng thêm một người không có mặt. Phải nghe trọn vẹn cả câu mới loại được.",
+    "promptEn": "Look at each photograph and listen to the four statements. Select the statement that best describes what you see.\n\nPHOTO 1: A dry dock at a shipyard. A vessel's hull rests on wooden blocks. Scaffolding runs the length of one side. Two workers in harnesses stand on the upper platform, one holding a paint roller on an extension pole.\n\nPHOTO 2: An archive reading room. A researcher wearing cotton gloves turns the page of a bound ledger. A weighted cord holds the book open. Behind her, a trolley of grey document boxes has been parked against a shelf.\n\nPHOTO 3: The pass of a commercial kitchen. Plated dishes stand in a line beneath heat lamps. A chef wipes the rim of one plate with a cloth. No waiting staff are at the counter.\n\nPHOTO 4: A railway platform under renovation. Hoarding panels close off half its length. A worker on a step ladder fastens a bracket for a sign. Passengers wait behind the yellow line at the far end.\n\nPHOTO 5: A vineyard on a hillside at dawn. Rows of vines run down the slope. A tractor with a spraying rig is parked at the end of one row. The cab is empty.\n\nPHOTO 6: A textile warehouse. Bolts of fabric are stacked on shelving to the ceiling. A forklift stands in the aisle with its forks lowered. An inspector holds a swatch up towards a window.",
+    "accent": "uk",
+    "transcript": [
+      {
+        "speaker": "Photo 1",
+        "text": "(A) The vessel is being lowered into the water. (B) Scaffolding is being dismantled. (C) A worker is holding a roller on an extension pole. (D) The hull is resting against the dock wall."
+      },
+      {
+        "speaker": "Photo 2",
+        "text": "(A) Boxes are being loaded onto a trolley. (B) The ledger is being weighed. (C) She's removing her gloves. (D) A trolley has been parked against a shelf."
+      },
+      {
+        "speaker": "Photo 3",
+        "text": "(A) Dishes are being carried away from the pass. (B) A chef is wiping the rim of a plate. (C) The heat lamps are being replaced. (D) Plates are being stacked in a cupboard."
+      },
+      {
+        "speaker": "Photo 4",
+        "text": "(A) A sign is being taken down. (B) The hoarding is being painted. (C) Passengers are boarding a train. (D) Part of the platform has been closed off."
+      },
+      {
+        "speaker": "Photo 5",
+        "text": "(A) A tractor has been left at the end of a row. (B) The vines are being sprayed. (C) Grapes are being loaded onto a trailer. (D) Someone is driving between the rows."
+      },
+      {
+        "speaker": "Photo 6",
+        "text": "(A) Fabric is being cut to length. (B) The forklift is lifting a pallet. (C) An inspector is holding a swatch to the light. (D) The shelves are being unloaded."
+      }
+    ],
+    "timeLimitSec": 180,
+    "questions": [
+      {
+        "id": "p1-1",
+        "kind": "mcq",
+        "prompt": "Photo 1",
+        "options": [
+          { "id": "a", "text": "The vessel is being lowered into the water." },
+          { "id": "b", "text": "A worker is holding a roller on an extension pole." },
+          { "id": "c", "text": "Scaffolding is being dismantled." },
+          { "id": "d", "text": "The hull is resting against the dock wall." }
+        ],
+        "answer": "b",
+        "explanationVi": "Thân tàu tựa trên KHỐI GỖ chứ không tựa vào tường ụ — (D) đổi một giới từ là sai cả câu. Giàn giáo đang dựng sẵn, không ai tháo, nên (C) loại.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p1-2",
+        "kind": "mcq",
+        "prompt": "Photo 2",
+        "options": [
+          { "id": "a", "text": "Boxes are being loaded onto a trolley." },
+          { "id": "b", "text": "The ledger is being weighed." },
+          { "id": "c", "text": "A trolley has been parked against a shelf." },
+          { "id": "d", "text": "She's removing her gloves." }
+        ],
+        "answer": "c",
+        "explanationVi": "(B) là bẫy âm: 'weighted cord' (dây chặn có trọng lượng) nghe gần 'being weighed' (đang cân). Xe đẩy đã đỗ sẵn — hoàn thành bị động mới đúng.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p1-3",
+        "kind": "mcq",
+        "prompt": "Photo 3",
+        "options": [
+          { "id": "a", "text": "The heat lamps are being replaced." },
+          { "id": "b", "text": "Dishes are being carried away from the pass." },
+          { "id": "c", "text": "Plates are being stacked in a cupboard." },
+          { "id": "d", "text": "A chef is wiping the rim of a plate." }
+        ],
+        "answer": "d",
+        "explanationVi": "Ảnh nói rõ không có nhân viên phục vụ ở quầy, nên (B) loại. Đèn đang BẬT chứ không ai thay — nhiều bẫy Part 1 mức 900 lấy đúng vật thể rồi gán cho nó một hành động không xảy ra.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p1-4",
+        "kind": "mcq",
+        "prompt": "Photo 4",
+        "options": [
+          { "id": "a", "text": "A sign is being taken down." },
+          { "id": "b", "text": "Part of the platform has been closed off." },
+          { "id": "c", "text": "The hoarding is being painted." },
+          { "id": "d", "text": "Passengers are boarding a train." }
+        ],
+        "answer": "b",
+        "explanationVi": "Người thợ đang LẮP giá đỡ biển, không tháo biển xuống — (A) đảo ngược hành động. Hành khách mới đứng chờ sau vạch, chưa có tàu.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p1-5",
+        "kind": "mcq",
+        "prompt": "Photo 5",
+        "options": [
+          { "id": "a", "text": "The vines are being sprayed." },
+          { "id": "b", "text": "Grapes are being loaded onto a trailer." },
+          { "id": "c", "text": "Someone is driving between the rows." },
+          { "id": "d", "text": "A tractor has been left at the end of a row." }
+        ],
+        "answer": "d",
+        "explanationVi": "Ca-bin trống nên (C) loại ngay. Máy có GIÀN PHUN nhưng không đang phun — (A) suy diễn từ thiết bị ra hành động, đây là bẫy phổ biến nhất ở Part 1 mức cao.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p1-6",
+        "kind": "mcq",
+        "prompt": "Photo 6",
+        "options": [
+          { "id": "a", "text": "An inspector is holding a swatch to the light." },
+          { "id": "b", "text": "Fabric is being cut to length." },
+          { "id": "c", "text": "The forklift is lifting a pallet." },
+          { "id": "d", "text": "The shelves are being unloaded." }
+        ],
+        "answer": "a",
+        "explanationVi": "Càng xe nâng HẠ XUỐNG, tức không nâng gì cả — (C) sai. 'Swatch' là mẫu vải nhỏ; nếu không biết từ này vẫn loại được ba câu kia bằng thì và trạng thái.",
+        "difficulty": "hard"
+      }
+    ]
+  }
+]

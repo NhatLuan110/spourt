@@ -1,0 +1,764 @@
+[
+  {
+    "id": "reading-part5-incomplete-sentences",
+    "skill": "reading",
+    "title": "Part 5 — Incomplete Sentences",
+    "format": "TOEIC Reading — Part 5 · Incomplete Sentences, 30 câu (101–130)",
+    "instructionsVi": "Ở mục tiêu 800, Part 5 dùng từ vựng hợp đồng, tài chính và một số cấu trúc đảo ngữ. Vẫn 18 giây một câu — tốc độ quan trọng ngang độ chính xác vì Part 7 rất dài.",
+    "promptEn": "Select the best word or phrase to complete each sentence.",
+    "passage": "101. The agreement ______ that all changes must be confirmed in writing within five working days.\n102. Cancellations made inside 48 hours will ______ a charge equal to half the fee.\n103. The auditor identified a significant ______ between the stock records and the physical count.\n104. Management has decided to ______ the expansion until the third quarter results are known.\n105. ______ of the two suppliers was able to guarantee delivery before month end.\n106. ______ clause 12, either party may terminate immediately in the event of insolvency.\n107. Deposits are non-refundable; late cancellations ______ the full amount paid.\n108. Rarely ______ the committee overturned a recommendation from the technical panel.\n109. The service fee will be ______ if the contract begins part way through a billing period.\n110. Matters of staff discipline fall outside the ______ of this working group.\n111. The supplier shall ______ the client against any third-party claims arising from the works.\n112. The findings should be treated as ______ until the full audit is complete.\n113. Reporting requirements proved unduly ______ for the smaller contractors.\n114. This agreement ______ all previous arrangements between the parties.\n115. Unresolved tickets are automatically ______ to the account manager after 48 hours.\n116. Headcount fell through natural ______ rather than redundancy.\n117. Payment of the bonus is ______ on meeting the annual target.\n118. Large datasets can produce ______ correlations purely by chance.\n119. The most ______ point is not the cost but who bears it.\n120. The practice is deeply ______ in the profession's training.\n121. It is risky to ______ from a single cohort to the whole population.\n122. The finding comes with an important ______ about sample size.\n123. The paper challenged an ______ that had stood for forty years.\n124. Accounts are ______ against bank statements every month.\n125. The company was unable to ______ speed with thoroughness.\n126. The thirty-day limit is essentially ______ .\n127. Moving to the new site would ______ retraining half the workforce.\n128. The figures do not hold up under close ______ .\n129. Existing operators have a ______ interest in keeping entry difficult.\n130. The cost of retrofitting older buildings is often ______ .",
+    "timeLimitSec": 540,
+    "questions": [
+      {
+        "id": "p5-101",
+        "kind": "mcq",
+        "prompt": "101. The agreement ______ that all changes must be confirmed in writing within five working days.",
+        "options": [
+          {
+            "id": "a",
+            "text": "speculates"
+          },
+          {
+            "id": "b",
+            "text": "simulates"
+          },
+          {
+            "id": "c",
+            "text": "stimulates"
+          },
+          {
+            "id": "d",
+            "text": "stipulates"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'stipulate' = quy định rõ trong văn bản. Ba phương án còn lại gần giống hình thức nhưng khác hẳn nghĩa."
+      },
+      {
+        "id": "p5-102",
+        "kind": "mcq",
+        "prompt": "102. Cancellations made inside 48 hours will ______ a charge equal to half the fee.",
+        "options": [
+          {
+            "id": "a",
+            "text": "incur"
+          },
+          {
+            "id": "b",
+            "text": "occur"
+          },
+          {
+            "id": "c",
+            "text": "recur"
+          },
+          {
+            "id": "d",
+            "text": "concur"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'incur a charge' = phải chịu một khoản phí. 'occur' là nội động từ, không có tân ngữ."
+      },
+      {
+        "id": "p5-103",
+        "kind": "mcq",
+        "prompt": "103. The auditor identified a significant ______ between the stock records and the physical count.",
+        "options": [
+          {
+            "id": "a",
+            "text": "distinction"
+          },
+          {
+            "id": "b",
+            "text": "discrepancy"
+          },
+          {
+            "id": "c",
+            "text": "dispute"
+          },
+          {
+            "id": "d",
+            "text": "diversion"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'discrepancy' là chênh lệch giữa hai thứ LẼ RA phải khớp. 'distinction' là phân biệt có chủ ý."
+      },
+      {
+        "id": "p5-104",
+        "kind": "mcq",
+        "prompt": "104. Management has decided to ______ the expansion until the third quarter results are known.",
+        "options": [
+          {
+            "id": "a",
+            "text": "differ"
+          },
+          {
+            "id": "b",
+            "text": "deter"
+          },
+          {
+            "id": "c",
+            "text": "defer"
+          },
+          {
+            "id": "d",
+            "text": "defeat"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'defer' = hoãn tới thời điểm sau, khớp với 'until'."
+      },
+      {
+        "id": "p5-105",
+        "kind": "mcq",
+        "prompt": "105. ______ of the two suppliers was able to guarantee delivery before month end.",
+        "options": [
+          {
+            "id": "a",
+            "text": "None"
+          },
+          {
+            "id": "b",
+            "text": "Either"
+          },
+          {
+            "id": "c",
+            "text": "Neither"
+          },
+          {
+            "id": "d",
+            "text": "Both"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'Neither' dùng cho HAI đối tượng và đi với động từ số ít 'was'. 'None' dùng cho ba trở lên."
+      },
+      {
+        "id": "p5-106",
+        "kind": "mcq",
+        "prompt": "106. ______ clause 12, either party may terminate immediately in the event of insolvency.",
+        "options": [
+          {
+            "id": "a",
+            "text": "Notwithstanding"
+          },
+          {
+            "id": "b",
+            "text": "Nevertheless"
+          },
+          {
+            "id": "c",
+            "text": "Whereas"
+          },
+          {
+            "id": "d",
+            "text": "Moreover"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'Notwithstanding' là giới từ, đi thẳng với cụm danh từ. 'Nevertheless' và 'Moreover' là trạng từ nối câu."
+      },
+      {
+        "id": "p5-107",
+        "kind": "mcq",
+        "prompt": "107. Deposits are non-refundable; late cancellations ______ the full amount paid.",
+        "options": [
+          {
+            "id": "a",
+            "text": "forgo"
+          },
+          {
+            "id": "b",
+            "text": "forbid"
+          },
+          {
+            "id": "c",
+            "text": "forsake"
+          },
+          {
+            "id": "d",
+            "text": "forfeit"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'forfeit' = mất do vi phạm quy định. 'forgo' là tự nguyện từ bỏ, khác sắc thái bắt buộc."
+      },
+      {
+        "id": "p5-108",
+        "kind": "mcq",
+        "prompt": "108. Rarely ______ the committee overturned a recommendation from the technical panel.",
+        "options": [
+          {
+            "id": "a",
+            "text": "have"
+          },
+          {
+            "id": "b",
+            "text": "has"
+          },
+          {
+            "id": "c",
+            "text": "did"
+          },
+          {
+            "id": "d",
+            "text": "was"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "Trạng từ phủ định đứng đầu câu gây đảo ngữ; 'overturned' là quá khứ phân từ nên cần 'has' cho chủ ngữ số ít."
+      },
+      {
+        "id": "p5-109",
+        "kind": "mcq",
+        "prompt": "109. The service fee will be ______ if the contract begins part way through a billing period.",
+        "options": [
+          {
+            "id": "a",
+            "text": "prorated"
+          },
+          {
+            "id": "b",
+            "text": "prolonged"
+          },
+          {
+            "id": "c",
+            "text": "promoted"
+          },
+          {
+            "id": "d",
+            "text": "projected"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'prorated' = tính theo tỉ lệ thời gian thực dùng."
+      },
+      {
+        "id": "p5-110",
+        "kind": "mcq",
+        "prompt": "110. Matters of staff discipline fall outside the ______ of this working group.",
+        "options": [
+          {
+            "id": "a",
+            "text": "remittance"
+          },
+          {
+            "id": "b",
+            "text": "remission"
+          },
+          {
+            "id": "c",
+            "text": "remainder"
+          },
+          {
+            "id": "d",
+            "text": "remit"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'remit' = phạm vi trách nhiệm. 'remittance' là khoản tiền chuyển — bẫy cùng gốc từ."
+      },
+      {
+        "id": "p5-111",
+        "kind": "mcq",
+        "prompt": "111. The supplier shall ______ the client against any third-party claims arising from the works.",
+        "options": [
+          {
+            "id": "a",
+            "text": "identify"
+          },
+          {
+            "id": "b",
+            "text": "intensify"
+          },
+          {
+            "id": "c",
+            "text": "indemnify"
+          },
+          {
+            "id": "d",
+            "text": "indicate"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'indemnify against' = bồi thường, bảo đảm không chịu thiệt hại. Cụm cố định trong hợp đồng."
+      },
+      {
+        "id": "p5-112",
+        "kind": "mcq",
+        "prompt": "112. The findings should be treated as ______ until the full audit is complete.",
+        "options": [
+          {
+            "id": "a",
+            "text": "provided"
+          },
+          {
+            "id": "b",
+            "text": "provisional"
+          },
+          {
+            "id": "c",
+            "text": "provocative"
+          },
+          {
+            "id": "d",
+            "text": "providential"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'provisional' = tạm thời, chưa chính thức, khớp với 'until… complete'."
+      },
+      {
+        "id": "p5-113",
+        "kind": "mcq",
+        "prompt": "113. Reporting requirements proved unduly ______ for the smaller contractors.",
+        "options": [
+          {
+            "id": "a",
+            "text": "generous"
+          },
+          {
+            "id": "b",
+            "text": "numerous"
+          },
+          {
+            "id": "c",
+            "text": "humorous"
+          },
+          {
+            "id": "d",
+            "text": "onerous"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'onerous' = nặng nề, gây gánh nặng. Ba phương án kia chỉ giống về vần."
+      },
+      {
+        "id": "p5-114",
+        "kind": "mcq",
+        "prompt": "114. This agreement ______ all previous arrangements between the parties.",
+        "options": [
+          {
+            "id": "a",
+            "text": "surpasses"
+          },
+          {
+            "id": "b",
+            "text": "supersedes"
+          },
+          {
+            "id": "c",
+            "text": "suspends"
+          },
+          {
+            "id": "d",
+            "text": "supplements"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'supersede' = thay thế và làm mất hiệu lực cái cũ. 'supplement' là bổ sung mà cái cũ vẫn còn hiệu lực."
+      },
+      {
+        "id": "p5-115",
+        "kind": "mcq",
+        "prompt": "115. Unresolved tickets are automatically ______ to the account manager after 48 hours.",
+        "options": [
+          {
+            "id": "a",
+            "text": "escalated"
+          },
+          {
+            "id": "b",
+            "text": "escaped"
+          },
+          {
+            "id": "c",
+            "text": "estimated"
+          },
+          {
+            "id": "d",
+            "text": "established"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'escalate to' = chuyển lên cấp cao hơn."
+      },
+      {
+        "id": "p5-116",
+        "kind": "mcq",
+        "prompt": "116. Headcount fell through natural ______ rather than redundancy.",
+        "options": [
+          {
+            "id": "a",
+            "text": "attraction"
+          },
+          {
+            "id": "b",
+            "text": "attribution"
+          },
+          {
+            "id": "c",
+            "text": "attrition"
+          },
+          {
+            "id": "d",
+            "text": "attention"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'natural attrition' = hao hụt nhân sự tự nhiên, cụm cố định đối lập với 'redundancy'."
+      },
+      {
+        "id": "p5-117",
+        "kind": "mcq",
+        "prompt": "117. Payment of the bonus is ______ on meeting the annual target.",
+        "options": [
+          {
+            "id": "a",
+            "text": "continuous"
+          },
+          {
+            "id": "b",
+            "text": "contentious"
+          },
+          {
+            "id": "c",
+            "text": "contingent"
+          },
+          {
+            "id": "d",
+            "text": "containing"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'contingent on' = phụ thuộc vào điều kiện."
+      },
+      {
+        "id": "p5-118",
+        "kind": "mcq",
+        "prompt": "118. Large datasets can produce ______ correlations purely by chance.",
+        "options": [
+          {
+            "id": "a",
+            "text": "serious"
+          },
+          {
+            "id": "b",
+            "text": "spurious"
+          },
+          {
+            "id": "c",
+            "text": "spacious"
+          },
+          {
+            "id": "d",
+            "text": "specious"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'spurious correlation' = tương quan giả, cụm chuẩn trong thống kê."
+      },
+      {
+        "id": "p5-119",
+        "kind": "mcq",
+        "prompt": "119. The most ______ point is not the cost but who bears it.",
+        "options": [
+          {
+            "id": "a",
+            "text": "salient"
+          },
+          {
+            "id": "b",
+            "text": "silent"
+          },
+          {
+            "id": "c",
+            "text": "saline"
+          },
+          {
+            "id": "d",
+            "text": "sullen"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'salient' = nổi bật, đáng chú ý nhất."
+      },
+      {
+        "id": "p5-120",
+        "kind": "mcq",
+        "prompt": "120. The practice is deeply ______ in the profession's training.",
+        "options": [
+          {
+            "id": "a",
+            "text": "entranced"
+          },
+          {
+            "id": "b",
+            "text": "entrusted"
+          },
+          {
+            "id": "c",
+            "text": "entered"
+          },
+          {
+            "id": "d",
+            "text": "entrenched"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'deeply entrenched' = ăn sâu, khó thay đổi. Cụm cố định."
+      },
+      {
+        "id": "p5-121",
+        "kind": "mcq",
+        "prompt": "121. It is risky to ______ from a single cohort to the whole population.",
+        "options": [
+          {
+            "id": "a",
+            "text": "extract"
+          },
+          {
+            "id": "b",
+            "text": "exaggerate"
+          },
+          {
+            "id": "c",
+            "text": "extrapolate"
+          },
+          {
+            "id": "d",
+            "text": "expedite"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'extrapolate from X to Y' = ngoại suy từ mẫu nhỏ ra tổng thể."
+      },
+      {
+        "id": "p5-122",
+        "kind": "mcq",
+        "prompt": "122. The finding comes with an important ______ about sample size.",
+        "options": [
+          {
+            "id": "a",
+            "text": "caveat"
+          },
+          {
+            "id": "b",
+            "text": "cavity"
+          },
+          {
+            "id": "c",
+            "text": "caption"
+          },
+          {
+            "id": "d",
+            "text": "capacity"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'caveat' = lưu ý dè dặt, điều kiện cảnh báo kèm theo kết luận."
+      },
+      {
+        "id": "p5-123",
+        "kind": "mcq",
+        "prompt": "123. The paper challenged an ______ that had stood for forty years.",
+        "options": [
+          {
+            "id": "a",
+            "text": "ordinance"
+          },
+          {
+            "id": "b",
+            "text": "orientation"
+          },
+          {
+            "id": "c",
+            "text": "organism"
+          },
+          {
+            "id": "d",
+            "text": "orthodoxy"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'orthodoxy' = quan điểm chính thống được số đông chấp nhận."
+      },
+      {
+        "id": "p5-124",
+        "kind": "mcq",
+        "prompt": "124. Accounts are ______ against bank statements every month.",
+        "options": [
+          {
+            "id": "a",
+            "text": "reconsidered"
+          },
+          {
+            "id": "b",
+            "text": "reconciled"
+          },
+          {
+            "id": "c",
+            "text": "recommended"
+          },
+          {
+            "id": "d",
+            "text": "recovered"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'reconcile against' = đối chiếu cho khớp, thuật ngữ kế toán chuẩn."
+      },
+      {
+        "id": "p5-125",
+        "kind": "mcq",
+        "prompt": "125. The company was unable to ______ speed with thoroughness.",
+        "options": [
+          {
+            "id": "a",
+            "text": "reconvene"
+          },
+          {
+            "id": "b",
+            "text": "reconstruct"
+          },
+          {
+            "id": "c",
+            "text": "reconcile"
+          },
+          {
+            "id": "d",
+            "text": "reconfirm"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'reconcile A with B' cũng có nghĩa dung hoà hai thứ đối lập — cùng động từ nhưng nghĩa khác câu 124."
+      },
+      {
+        "id": "p5-126",
+        "kind": "mcq",
+        "prompt": "126. The thirty-day limit is essentially ______ .",
+        "options": [
+          {
+            "id": "a",
+            "text": "arbitrary"
+          },
+          {
+            "id": "b",
+            "text": "arbitrable"
+          },
+          {
+            "id": "c",
+            "text": "arbitrator"
+          },
+          {
+            "id": "d",
+            "text": "arbitration"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "Sau 'is essentially' cần tính từ. 'arbitrary' = tuỳ tiện, không có căn cứ rõ."
+      },
+      {
+        "id": "p5-127",
+        "kind": "mcq",
+        "prompt": "127. Moving to the new site would ______ retraining half the workforce.",
+        "options": [
+          {
+            "id": "a",
+            "text": "entitle"
+          },
+          {
+            "id": "b",
+            "text": "entail"
+          },
+          {
+            "id": "c",
+            "text": "enable"
+          },
+          {
+            "id": "d",
+            "text": "endure"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'entail' = kéo theo như một phần tất yếu. 'entitle' là trao quyền, đảo ngược sắc thái gánh nặng."
+      },
+      {
+        "id": "p5-128",
+        "kind": "mcq",
+        "prompt": "128. The figures do not hold up under close ______ .",
+        "options": [
+          {
+            "id": "a",
+            "text": "scrutinise"
+          },
+          {
+            "id": "b",
+            "text": "scrupulous"
+          },
+          {
+            "id": "c",
+            "text": "scrutineer"
+          },
+          {
+            "id": "d",
+            "text": "scrutiny"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "Sau giới từ 'under' và tính từ 'close' cần danh từ. 'under close scrutiny' là cụm cố định."
+      },
+      {
+        "id": "p5-129",
+        "kind": "mcq",
+        "prompt": "129. Existing operators have a ______ interest in keeping entry difficult.",
+        "options": [
+          {
+            "id": "a",
+            "text": "invested"
+          },
+          {
+            "id": "b",
+            "text": "divested"
+          },
+          {
+            "id": "c",
+            "text": "vesting"
+          },
+          {
+            "id": "d",
+            "text": "vested"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'vested interest' = lợi ích riêng gắn liền, cụm cố định."
+      },
+      {
+        "id": "p5-130",
+        "kind": "mcq",
+        "prompt": "130. The cost of retrofitting older buildings is often ______ .",
+        "options": [
+          {
+            "id": "a",
+            "text": "prohibited"
+          },
+          {
+            "id": "b",
+            "text": "prohibiting"
+          },
+          {
+            "id": "c",
+            "text": "prohibitive"
+          },
+          {
+            "id": "d",
+            "text": "prohibition"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'prohibitive' = cao tới mức không kham nổi. 'prohibited' nghĩa là bị cấm — khác hẳn dù cùng gốc."
+      }
+    ]
+  }
+]

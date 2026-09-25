@@ -1,0 +1,377 @@
+[
+  {
+    "id": "listening-part3-c8",
+    "skill": "listening",
+    "title": "Part 3 — Conversation 8: reporting requirements a supplier calls onerous",
+    "format": "TOEIC Listening — Part 3 · Conversation 8 (câu 53–55)",
+    "instructionsVi": "Người nói bất đồng nhưng lịch sự: các cụm như 'in fairness', 'to be blunt' báo hiệu quan điểm sắp đổi chiều.",
+    "promptEn": "Listen to the conversation and answer questions 53 through 55.",
+    "accent": "uk",
+    "transcript": [
+      { "speaker": "W", "text": "Three of our smaller suppliers have written in. They say the new monthly reporting pack is onerous." },
+      { "speaker": "M", "text": "It's eleven fields. I wouldn't call eleven fields onerous." },
+      { "speaker": "W", "text": "In fairness, two of those fields require an audited figure. A firm with four employees doesn't have audited monthly numbers lying around." },
+      { "speaker": "M", "text": "Ah. That I hadn't considered. So it's not the volume, it's the assurance level." },
+      { "speaker": "W", "text": "Exactly. Drop the audit requirement below a certain turnover and the complaint disappears." },
+      { "speaker": "M", "text": "Set the threshold at two million and let me see how many suppliers fall under it. If it's most of them, the data is worth less than we think anyway." }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p3-53",
+        "kind": "mcq",
+        "prompt": "53. What is the suppliers' actual objection?",
+        "options": [
+          { "id": "a", "text": "The number of fields to complete." },
+          { "id": "b", "text": "The requirement for audited figures." },
+          { "id": "c", "text": "The monthly submission deadline." },
+          { "id": "d", "text": "The cost of the reporting software." }
+        ],
+        "answer": "b",
+        "explanationVi": "'it's not the volume, it's the assurance level'. Người đàn ông ban đầu tưởng vấn đề là số lượng trường — (A) là hiểu lầm ban đầu, không phải kết luận.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p3-54",
+        "kind": "mcq",
+        "prompt": "54. What does the woman suggest?",
+        "options": [
+          { "id": "a", "text": "Reducing the pack from eleven fields to nine." },
+          { "id": "b", "text": "Making the report quarterly instead of monthly." },
+          { "id": "c", "text": "Exempting smaller firms from the audit requirement." },
+          { "id": "d", "text": "Paying suppliers for the cost of the audit." }
+        ],
+        "answer": "c",
+        "explanationVi": "'Drop the audit requirement below a certain turnover' — 'below a certain turnover' nghĩa là áp dụng cho doanh nghiệp dưới một mức doanh thu.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p3-55",
+        "kind": "mcq",
+        "prompt": "55. What does the man imply at the end?",
+        "options": [
+          { "id": "a", "text": "The threshold should be raised above two million." },
+          { "id": "b", "text": "If most suppliers are exempt, the exercise may not be useful." },
+          { "id": "c", "text": "Suppliers under two million should be dropped." },
+          { "id": "d", "text": "The audit firms are charging too much." }
+        ],
+        "answer": "b",
+        "explanationVi": "'If it's most of them, the data is worth less than we think anyway' — anh ta tự đặt câu hỏi về giá trị của cả việc thu thập dữ liệu này.",
+        "difficulty": "hard"
+      }
+    ]
+  },
+  {
+    "id": "listening-part3-c9",
+    "skill": "listening",
+    "title": "Part 3 — Conversation 9: a bonus contingent on a target (ba người nói)",
+    "format": "TOEIC Listening — Part 3 · Conversation 9 (câu 56–58), ba người nói",
+    "instructionsVi": "Ba người nói, mỗi người giữ một quan điểm khác nhau; câu hỏi cuối hỏi ai đưa ra thoả hiệp.",
+    "promptEn": "Listen to the conversation among three speakers and answer questions 56 through 58.",
+    "accent": "us",
+    "transcript": [
+      { "speaker": "M1", "text": "The sales bonus is contingent on hitting ninety per cent of the annual target. We're going to land at eighty-eight." },
+      { "speaker": "W", "text": "Eighty-eight after we pulled two contracts out of the year for accounting reasons. On the original basis they'd have cleared ninety-one." },
+      { "speaker": "M2", "text": "That's not how the scheme is written. The scheme says recognised revenue in the financial year." },
+      { "speaker": "W", "text": "Then the scheme punishes the team for a decision Finance made in October." },
+      { "speaker": "M2", "text": "I don't disagree. But if we pay outside the rules once, every threshold in the company becomes negotiable." },
+      { "speaker": "M1", "text": "Pay at eighty-eight under a discretionary line, not the scheme — and rewrite the definition for next year so this can't recur." },
+      { "speaker": "W", "text": "That I can defend to the team." }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p3-56",
+        "kind": "mcq",
+        "prompt": "56. Why will the team miss the threshold?",
+        "options": [
+          { "id": "a", "text": "Two contracts were moved out of the financial year." },
+          { "id": "b", "text": "Sales fell in the final quarter." },
+          { "id": "c", "text": "The target was raised in October." },
+          { "id": "d", "text": "Two salespeople left the company." }
+        ],
+        "answer": "a",
+        "explanationVi": "'after we pulled two contracts out of the year for accounting reasons'. Doanh số thực không giảm — (B) là suy diễn sai.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p3-57",
+        "kind": "mcq",
+        "prompt": "57. What is the second man's concern about paying the bonus?",
+        "options": [
+          { "id": "a", "text": "The company cannot afford it." },
+          { "id": "b", "text": "It would set a precedent that weakens every threshold." },
+          { "id": "c", "text": "The team did not deserve it." },
+          { "id": "d", "text": "The auditors would reject the payment." }
+        ],
+        "answer": "b",
+        "explanationVi": "'every threshold in the company becomes negotiable'. Ông ta nói rõ 'I don't disagree' — tức đồng ý về mặt công bằng nhưng lo hệ quả.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p3-58",
+        "kind": "mcq",
+        "prompt": "58. What is the proposed solution?",
+        "options": [
+          { "id": "a", "text": "To restate the two contracts back into the year." },
+          { "id": "b", "text": "To pay half the bonus now and half next year." },
+          { "id": "c", "text": "To pay through a discretionary route and redefine the rule." },
+          { "id": "d", "text": "To lower the threshold to eighty-eight per cent permanently." }
+        ],
+        "answer": "c",
+        "explanationVi": "'under a discretionary line, not the scheme — and rewrite the definition for next year'. (D) sai ở chữ 'permanently': họ sửa ĐỊNH NGHĨA doanh thu, không hạ ngưỡng.",
+        "difficulty": "hard"
+      }
+    ]
+  },
+  {
+    "id": "listening-part3-c10",
+    "skill": "listening",
+    "title": "Part 3 — Conversation 10: choosing a departure (có bảng giờ)",
+    "format": "TOEIC Listening — Part 3 · Conversation 10 (câu 59–61), có bảng giờ tàu",
+    "instructionsVi": "Bảng giờ: đáp án là chuyến duy nhất thoả mãn CẢ HAI ràng buộc được nói ở hai lượt thoại khác nhau.",
+    "promptEn": "Listen to the conversation, look at the timetable, and answer questions 59 through 61.\n\nCENTRAL → LAKEFIELD, weekday services\n\nDeparts | Arrives | Changes | Fare (standard)\n06:40 | 09:05 | 0 | £86\n07:15 | 10:20 | 1 | £54\n08:05 | 10:30 | 0 | £91\n09:30 | 12:40 | 2 | £38",
+    "accent": "uk",
+    "transcript": [
+      { "speaker": "W", "text": "The site induction starts at half past ten, and they won't let anyone in late." },
+      { "speaker": "M", "text": "Then anything arriving after ten fifteen is too tight. It's fifteen minutes from the station on foot." },
+      { "speaker": "W", "text": "That rules out two of them. Of what's left, one is nearly ninety pounds." },
+      { "speaker": "M", "text": "Finance capped rail at seventy-five per journey this quarter. Anything above that needs written approval, and Ade is on leave." },
+      { "speaker": "W", "text": "Then there's exactly one train we can take, and it means changing once." },
+      { "speaker": "M", "text": "I'll live with the change. Book two seats and forward me the confirmation." }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p3-59",
+        "kind": "mcq",
+        "prompt": "59. Look at the timetable. Which train will they take?",
+        "options": [
+          { "id": "a", "text": "The 06:40" },
+          { "id": "b", "text": "The 07:15" },
+          { "id": "c", "text": "The 08:05" },
+          { "id": "d", "text": "The 09:30" }
+        ],
+        "answer": "b",
+        "explanationVi": "Hai ràng buộc: đến trước 10:15 (loại 08:05 và 09:30) và giá dưới £75 (loại 06:40 giá £86). Chỉ còn chuyến 07:15 — đúng với 'changing once' trong bài.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p3-60",
+        "kind": "mcq",
+        "prompt": "60. Why must they arrive before 10:15?",
+        "options": [
+          { "id": "a", "text": "The station closes at that time." },
+          { "id": "b", "text": "They need fifteen minutes to walk to a session that starts at 10:30." },
+          { "id": "c", "text": "The return ticket must be validated by 10:15." },
+          { "id": "d", "text": "Their colleague is meeting them at 10:15." }
+        ],
+        "answer": "b",
+        "explanationVi": "Buổi hướng dẫn bắt đầu 10:30, đi bộ mất 15 phút, và 'they won't let anyone in late'. Câu hỏi yêu cầu cộng hai dữ kiện ở hai lượt thoại.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p3-61",
+        "kind": "mcq",
+        "prompt": "61. Why can't they book the most expensive option?",
+        "options": [
+          { "id": "a", "text": "It is fully booked." },
+          { "id": "b", "text": "It arrives too late." },
+          { "id": "c", "text": "It exceeds a spending cap and the approver is unavailable." },
+          { "id": "d", "text": "It requires two changes of train." }
+        ],
+        "answer": "c",
+        "explanationVi": "'capped rail at seventy-five… needs written approval, and Ade is on leave'. Hai vế phải nghe đủ: vượt trần VÀ không ai duyệt được.",
+        "difficulty": "hard"
+      }
+    ]
+  },
+  {
+    "id": "listening-part3-c11",
+    "skill": "listening",
+    "title": "Part 3 — Conversation 11: an outage that was not escalated",
+    "format": "TOEIC Listening — Part 3 · Conversation 11 (câu 62–64)",
+    "instructionsVi": "Có câu hỏi hàm ý dựa trên một câu nói ngắn mang giọng mỉa mai.",
+    "promptEn": "Listen to the conversation and answer questions 62 through 64.",
+    "accent": "us",
+    "transcript": [
+      { "speaker": "M", "text": "The payment gateway was down for two hours and nobody escalated it." },
+      { "speaker": "W", "text": "The runbook says escalate after ninety minutes of a severity-two incident." },
+      { "speaker": "M", "text": "It was logged as severity three." },
+      { "speaker": "W", "text": "Payments were failing for every customer. What exactly does severity two look like, then?" },
+      { "speaker": "M", "text": "I know. The engineer on duty had been in the job nine days." },
+      { "speaker": "W", "text": "Then that's a training gap, not a discipline matter. Add worked examples to the runbook — 'payments failing' should be printed next to 'severity two' in bold." },
+      { "speaker": "M", "text": "And I'll pair new starters on call for their first month." }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p3-62",
+        "kind": "mcq",
+        "prompt": "62. Why was the incident not escalated?",
+        "options": [
+          { "id": "a", "text": "It lasted less than ninety minutes." },
+          { "id": "b", "text": "It was classified at too low a severity." },
+          { "id": "c", "text": "No engineer was on duty." },
+          { "id": "d", "text": "The runbook had not been written." }
+        ],
+        "answer": "b",
+        "explanationVi": "Ghi nhận severity 3 trong khi quy định chỉ chuyển cấp từ severity 2 trở lên. Sự cố kéo dài hai giờ, tức đã quá 90 phút — (A) trái với bài.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p3-63",
+        "kind": "mcq",
+        "prompt": "63. What does the woman mean when she asks, \"What exactly does severity two look like, then?\"",
+        "options": [
+          { "id": "a", "text": "She wants the definition read out to her." },
+          { "id": "b", "text": "She thinks the incident clearly met the severity-two bar." },
+          { "id": "c", "text": "She believes severity two should be abolished." },
+          { "id": "d", "text": "She has never seen the runbook." }
+        ],
+        "answer": "b",
+        "explanationVi": "Câu hỏi tu từ mang nghĩa phản đối cách phân loại. Người đàn ông đáp 'I know' — dấu hiệu rõ rằng đó là lời phê phán chứ không phải câu hỏi thật.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p3-64",
+        "kind": "mcq",
+        "prompt": "64. How does the woman characterise the problem?",
+        "options": [
+          { "id": "a", "text": "As misconduct requiring disciplinary action." },
+          { "id": "b", "text": "As a failure of the monitoring system." },
+          { "id": "c", "text": "As a gap in training and documentation." },
+          { "id": "d", "text": "As an unavoidable outage." }
+        ],
+        "answer": "c",
+        "explanationVi": "'that's a training gap, not a discipline matter'. Mẫu 'X, not Y' luôn cho biết cả đáp án lẫn phương án nhiễu chính.",
+        "difficulty": "hard"
+      }
+    ]
+  },
+  {
+    "id": "listening-part3-c12",
+    "skill": "listening",
+    "title": "Part 3 — Conversation 12: a break clause in the office lease (ba người nói)",
+    "format": "TOEIC Listening — Part 3 · Conversation 12 (câu 65–67), ba người nói",
+    "instructionsVi": "Ngày tháng và điều kiện chồng lên nhau: ghi nhanh mốc thời gian khi nghe, đừng cố nhớ.",
+    "promptEn": "Listen to the conversation among three speakers and answer questions 65 through 67.",
+    "accent": "us",
+    "transcript": [
+      { "speaker": "W", "text": "The break clause lets us exit on the thirty-first of March, but only with six months' written notice." },
+      { "speaker": "M1", "text": "Six months from March is the end of September. That's three weeks away." },
+      { "speaker": "W", "text": "Two weeks. Notice has to be received, not sent, and the clause counts the day of receipt." },
+      { "speaker": "M2", "text": "Do we even want to leave? The new floor plan gets us to a hundred and ten desks in this building." },
+      { "speaker": "W", "text": "We need a hundred and forty by spring. And there's a rent review in April that nobody has modelled." },
+      { "speaker": "M1", "text": "Serve the notice. It preserves the option — we can always negotiate to stay, and the landlord would rather keep us than re-let in this market." },
+      { "speaker": "M2", "text": "All right. But I want the desk numbers in writing before it goes." }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p3-65",
+        "kind": "mcq",
+        "prompt": "65. How much time is left to give notice?",
+        "options": [
+          { "id": "a", "text": "Six months" },
+          { "id": "b", "text": "Three weeks" },
+          { "id": "c", "text": "Two weeks" },
+          { "id": "d", "text": "Until the thirty-first of March" }
+        ],
+        "answer": "c",
+        "explanationVi": "Người đàn ông nói ba tuần, người phụ nữ sửa lại thành hai tuần vì thông báo tính theo ngày NHẬN. Sửa lỗi giữa chừng là bẫy số cố định của Part 3 mức 900.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p3-66",
+        "kind": "mcq",
+        "prompt": "66. Why does the woman think the building may not be suitable?",
+        "options": [
+          { "id": "a", "text": "The rent is already too high." },
+          { "id": "b", "text": "It cannot hold the number of desks needed by spring." },
+          { "id": "c", "text": "The landlord intends to sell it." },
+          { "id": "d", "text": "The lease expires in April." }
+        ],
+        "answer": "b",
+        "explanationVi": "110 chỗ so với nhu cầu 140. Đợt xem xét lại tiền thuê tháng Tư là mối lo THỨ HAI, và cô ấy chỉ nói chưa ai tính toán — chưa nói là cao.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p3-67",
+        "kind": "mcq",
+        "prompt": "67. Why does the first man want to serve notice?",
+        "options": [
+          { "id": "a", "text": "A new building has already been found." },
+          { "id": "b", "text": "The landlord has asked them to leave." },
+          { "id": "c", "text": "It keeps their options open without committing them." },
+          { "id": "d", "text": "It avoids the April rent review entirely." }
+        ],
+        "answer": "c",
+        "explanationVi": "'It preserves the option — we can always negotiate to stay'. Gửi thông báo không có nghĩa là chắc chắn chuyển đi.",
+        "difficulty": "hard"
+      }
+    ]
+  },
+  {
+    "id": "listening-part3-c13",
+    "skill": "listening",
+    "title": "Part 3 — Conversation 13: a tiered price list (có bảng giá)",
+    "format": "TOEIC Listening — Part 3 · Conversation 13 (câu 68–70), có bảng giá bậc thang",
+    "instructionsVi": "Bảng bậc thang: kiểm tra kỹ ranh giới 'trên'/'từ trở lên' — đáp án thường nằm ngay sát mép một bậc.",
+    "promptEn": "Listen to the conversation, look at the price list, and answer questions 68 through 70.\n\nMERIDIAN PRINT — ANNUAL CONTRACT RATES\n\nMonthly volume | Rate per thousand sheets\nUp to 20,000 | £9.20\n20,001 – 50,000 | £7.80\n50,001 – 100,000 | £6.40\nOver 100,000 | £5.10",
+    "accent": "uk",
+    "transcript": [
+      { "speaker": "M", "text": "Our twelve-month average is forty-nine thousand two hundred sheets a month." },
+      { "speaker": "W", "text": "So we sit in the second band. Just." },
+      { "speaker": "M", "text": "Just is the problem. Two of the last four months were over fifty-one thousand, and the new regional office comes on in January." },
+      { "speaker": "W", "text": "Can we ask them to price us on projected volume rather than historical?" },
+      { "speaker": "M", "text": "We can ask. They'll want a minimum commitment in return, and if we fall short we pay the shortfall at the higher rate." },
+      { "speaker": "W", "text": "Model both. If the saving from dropping a band is less than the exposure on the commitment, we stay where we are." }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p3-68",
+        "kind": "mcq",
+        "prompt": "68. Look at the price list. What rate does the company currently pay?",
+        "options": [
+          { "id": "a", "text": "£9.20" },
+          { "id": "b", "text": "£7.80" },
+          { "id": "c", "text": "£6.40" },
+          { "id": "d", "text": "£5.10" }
+        ],
+        "answer": "b",
+        "explanationVi": "49.200 nằm trong bậc 20.001–50.000 → £7,80. Sát mép trên của bậc, đúng như câu 'So we sit in the second band. Just.'",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p3-69",
+        "kind": "mcq",
+        "prompt": "69. Why does the man think the current band may not last?",
+        "options": [
+          { "id": "a", "text": "Printing costs are expected to rise." },
+          { "id": "b", "text": "Recent months and a new office push volume higher." },
+          { "id": "c", "text": "The contract expires in January." },
+          { "id": "d", "text": "The supplier is withdrawing the second band." }
+        ],
+        "answer": "b",
+        "explanationVi": "Hai lý do cộng lại: hai tháng gần đây vượt 51.000 và có văn phòng mới từ tháng Một. Chỉ nghe được một lý do vẫn có thể chọn nhầm.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p3-70",
+        "kind": "mcq",
+        "prompt": "70. What condition does the woman set?",
+        "options": [
+          { "id": "a", "text": "The saving must outweigh the risk of the minimum commitment." },
+          { "id": "b", "text": "The supplier must guarantee the rate for three years." },
+          { "id": "c", "text": "The regional office must open before January." },
+          { "id": "d", "text": "A second supplier must be invited to quote." }
+        ],
+        "answer": "a",
+        "explanationVi": "'If the saving… is less than the exposure on the commitment, we stay where we are'. 'Exposure' ở đây là mức rủi ro tài chính phải gánh nếu không đạt cam kết.",
+        "difficulty": "hard"
+      }
+    ]
+  }
+]

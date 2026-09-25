@@ -1,0 +1,1114 @@
+cefr: A2
+tracks:
+  - slug: ordering-coffee-to-take-away
+    title: Ordering Coffee to Take Away
+    titleVi: Gọi cà phê mang đi
+    topic: daily-life
+    accent: US
+    format: dialogue
+    speakerCount: 2
+    glossary:
+      - queue
+      - bargain
+      - appliance
+    segments:
+      - speaker: Barista
+        text: Hi there. What can I get for you?
+        vi: Chào bạn. Bạn dùng gì ạ?
+      - speaker: Customer
+        text: Could I have a large iced coffee, please? To take away.
+        vi: Cho tôi một cốc cà phê đá cỡ lớn nhé. Mang đi ạ.
+      - speaker: Barista
+        text: Sure. Would you like milk in that?
+        vi: Vâng. Bạn có thêm sữa không?
+      - speaker: Customer
+        text: Just a little, thanks. And no sugar.
+        vi: Cho ít thôi ạ. Và không đường.
+      - speaker: Barista
+        text: No problem. Anything to eat this morning?
+        vi: Được ạ. Sáng nay bạn có ăn gì không?
+      - speaker: Customer
+        text: No, thank you. How much is that altogether?
+        vi: Không ạ, cảm ơn. Tất cả bao nhiêu tiền ạ?
+      - speaker: Barista
+        text: That comes to fifty-five thousand dong. Are you paying by card?
+        vi: Tổng cộng năm mươi lăm nghìn đồng. Bạn thanh toán bằng thẻ chứ ạ?
+      - speaker: Customer
+        text: Yes, by card. Do I need to sign anything?
+        vi: Vâng, bằng thẻ. Tôi có cần ký gì không ạ?
+      - speaker: Barista
+        text: No, just tap here. It will be ready in about three minutes.
+        vi: Không, bạn chỉ cần chạm vào đây. Khoảng ba phút nữa là xong ạ.
+      - speaker: Customer
+        text: Great. I will wait over there by the window.
+        vi: Tuyệt. Tôi sẽ đợi ở chỗ cửa sổ đằng kia.
+    dictation:
+      - 2
+      - 4
+      - 7
+    questions:
+      - type: MCQ
+        prompt: What size of coffee does the customer order?
+        options:
+          - Large
+          - Small
+          - Medium
+          - Two large
+        answer: Large
+        explanationVi: Khách nói "a large iced coffee" — cỡ lớn.
+      - type: MCQ
+        prompt: How does the customer want the coffee?
+        options:
+          - With a little milk and no sugar
+          - With milk and sugar
+          - Black with sugar
+          - With extra sugar and no milk
+        answer: With a little milk and no sugar
+        explanationVi: '"Just a little, thanks. And no sugar." — chút sữa, không đường.'
+      - type: MCQ
+        prompt: How long will the drink take?
+        options:
+          - About three minutes
+          - About ten minutes
+          - About one minute
+          - It is ready now
+        answer: About three minutes
+        explanationVi: '"It will be ready in about three minutes."'
+      - type: TRUE_FALSE
+        prompt: Đúng hay sai theo đoạn hội thoại?
+        statement: The customer buys something to eat as well.
+        answer: false
+        explanationVi: Sai. Khi được hỏi có ăn gì không, khách trả lời "No, thank you".
+      - type: SHORT_ANSWER
+        prompt: How much does the customer pay?
+        accept:
+          - fifty-five thousand dong
+          - "55000"
+          - fifty five thousand dong
+          - 55,000
+          - fifty-five thousand
+        explanationVi: '"That comes to fifty-five thousand dong."'
+  - slug: checking-in-at-the-airport
+    title: Checking In at the Airport
+    titleVi: Làm thủ tục ở sân bay
+    topic: travel
+    accent: UK
+    format: dialogue
+    speakerCount: 2
+    glossary:
+      - boarding
+      - luggage
+      - departure
+      - passport
+      - delay
+      - check-in
+    segments:
+      - speaker: Agent
+        text: Good afternoon. May I see your passport and booking reference, please?
+        vi: Chào buổi chiều. Cho tôi xem hộ chiếu và mã đặt chỗ ạ?
+      - speaker: Traveller
+        text: Here you are. I am flying to Singapore this evening.
+        vi: Đây ạ. Tôi bay đi Singapore tối nay.
+      - speaker: Agent
+        text: Thank you. Are you checking in any luggage today?
+        vi: Cảm ơn. Hôm nay anh có gửi hành lý không ạ?
+      - speaker: Traveller
+        text: Just one suitcase. Is twenty-three kilos still the limit?
+        vi: Chỉ một vali thôi. Giới hạn vẫn là hai mươi ba cân đúng không ạ?
+      - speaker: Agent
+        text: It is. Please put it on the belt for me. That is twenty-one point four, so you are fine.
+        vi: Đúng vậy ạ. Anh đặt lên băng chuyền giúp tôi. Hai mươi mốt phẩy bốn, anh vẫn ổn.
+      - speaker: Traveller
+        text: Good. Could I have a seat near the front, if there is one?
+        vi: Tốt quá. Cho tôi ghế phía trước được không ạ, nếu còn?
+      - speaker: Agent
+        text: I can offer you seat 8C. It is an aisle seat.
+        vi: Tôi có thể xếp anh ghế 8C. Đó là ghế cạnh lối đi ạ.
+      - speaker: Traveller
+        text: That is perfect. What time does boarding start?
+        vi: Vậy được ạ. Mấy giờ bắt đầu lên máy bay ạ?
+      - speaker: Agent
+        text: Boarding is at six forty from gate twelve, but please check the departure screens. There is a
+          short delay on some flights this evening.
+        vi: Lên máy bay lúc sáu giờ bốn mươi ở cửa số mười hai, nhưng anh nhớ xem bảng khởi hành. Tối nay
+          một số chuyến bị chậm một chút.
+      - speaker: Traveller
+        text: Understood. Thank you very much for your help.
+        vi: Tôi hiểu rồi. Cảm ơn chị nhiều ạ.
+    dictation:
+      - 4
+      - 7
+      - 9
+    questions:
+      - type: MCQ
+        prompt: How heavy is the traveller's suitcase?
+        options:
+          - 21.4 kilos
+          - 23 kilos
+          - 20 kilos
+          - 24.1 kilos
+        answer: 21.4 kilos
+        explanationVi: Nhân viên nói "That is twenty-one point four" — 21,4 cân, dưới giới hạn 23 cân.
+      - type: MCQ
+        prompt: Which seat is the traveller given?
+        options:
+          - 8C
+          - 8A
+          - 12C
+          - 6C
+        answer: 8C
+        explanationVi: '"I can offer you seat 8C. It is an aisle seat."'
+      - type: MCQ
+        prompt: What does the agent tell the traveller to check?
+        options:
+          - The departure screens
+          - The boarding pass
+          - The luggage tag
+          - The passport expiry date
+        answer: The departure screens
+        explanationVi: '"please check the departure screens" vì tối đó vài chuyến bị chậm.'
+      - type: TRUE_FALSE
+        prompt: Đúng hay sai theo đoạn hội thoại?
+        statement: The traveller asked for a window seat.
+        answer: false
+        explanationVi: Sai. Khách xin ghế phía trước, và được xếp ghế cạnh lối đi (aisle).
+      - type: SHORT_ANSWER
+        prompt: What time does boarding start?
+        accept:
+          - six forty
+          - "6.40"
+          - 6:40
+          - six forty pm
+          - 18:40
+        explanationVi: '"Boarding is at six forty from gate twelve."'
+      - type: SHORT_ANSWER
+        prompt: Which gate is the flight boarding from?
+        accept:
+          - twelve
+          - "12"
+          - gate twelve
+          - gate 12
+        explanationVi: '"from gate twelve" — cửa số mười hai.'
+  - slug: asking-for-directions
+    title: Asking for Directions
+    titleVi: Hỏi đường
+    topic: travel
+    accent: UK
+    format: dialogue
+    speakerCount: 2
+    glossary:
+      - direction
+      - landmark
+      - transport
+    segments:
+      - speaker: Tourist
+        text: Excuse me, could you help me? I am looking for the post office.
+        vi: Xin lỗi, bạn giúp tôi được không? Tôi đang tìm bưu điện.
+      - speaker: Local
+        text: Of course. Are you walking or taking a bus?
+        vi: Tất nhiên rồi. Bạn đi bộ hay đi xe buýt?
+      - speaker: Tourist
+        text: Walking. Is it far from here?
+        vi: Đi bộ ạ. Từ đây tới đó có xa không?
+      - speaker: Local
+        text: About ten minutes. Go straight down this road until you reach the traffic lights.
+        vi: Khoảng mười phút. Bạn đi thẳng con đường này tới chỗ đèn giao thông.
+      - speaker: Tourist
+        text: Straight down to the traffic lights. And then?
+        vi: Đi thẳng tới đèn giao thông. Rồi sao nữa ạ?
+      - speaker: Local
+        text: Turn left there. The post office is on your right, next to a bakery.
+        vi: Rẽ trái ở đó. Bưu điện nằm bên tay phải, cạnh một tiệm bánh.
+      - speaker: Tourist
+        text: Left at the lights, then on the right. Is there a sign outside?
+        vi: Rẽ trái ở đèn, rồi bên phải. Ngoài cửa có biển không ạ?
+      - speaker: Local
+        text: Yes, a big yellow one. You cannot miss it.
+        vi: Có, biển vàng to lắm. Không thể nhầm được đâu.
+      - speaker: Tourist
+        text: Thank you so much. One more thing — what time does it close?
+        vi: Cảm ơn bạn nhiều. À còn một điều nữa — mấy giờ thì đóng cửa ạ?
+      - speaker: Local
+        text: Half past five on weekdays. Earlier on Saturdays, I think.
+        vi: Năm giờ rưỡi các ngày trong tuần. Thứ Bảy thì sớm hơn, tôi nghĩ vậy.
+    dictation:
+      - 3
+      - 5
+      - 9
+    questions:
+      - type: MCQ
+        prompt: How is the tourist travelling to the post office?
+        options:
+          - On foot
+          - By bus
+          - By taxi
+          - By bicycle
+        answer: On foot
+        explanationVi: Du khách trả lời "Walking" khi được hỏi đi bộ hay xe buýt.
+      - type: MCQ
+        prompt: Where should the tourist turn left?
+        options:
+          - At the traffic lights
+          - At the bakery
+          - At the post office
+          - At the bus stop
+        answer: At the traffic lights
+        explanationVi: '"Go straight ... until you reach the traffic lights. Turn left there."'
+      - type: MCQ
+        prompt: What is next to the post office?
+        options:
+          - A bakery
+          - A bank
+          - A school
+          - A market
+        answer: A bakery
+        explanationVi: '"The post office is on your right, next to a bakery."'
+      - type: TRUE_FALSE
+        prompt: Đúng hay sai theo bài nghe?
+        statement: The local is completely sure about the Saturday closing time.
+        answer: false
+        explanationVi: Sai. Người dân nói "Earlier on Saturdays, I think" — chữ I think cho thấy họ không chắc.
+      - type: SHORT_ANSWER
+        prompt: What time does the post office close on weekdays?
+        accept:
+          - half past five
+          - "5.30"
+          - 5:30
+          - half five
+          - 17:30
+        explanationVi: '"Half past five on weekdays."'
+      - type: SHORT_ANSWER
+        prompt: What colour is the sign outside the post office?
+        accept:
+          - yellow
+          - a big yellow one
+          - big yellow
+        explanationVi: '"Yes, a big yellow one."'
+  - slug: buying-a-train-ticket
+    title: Buying a Train Ticket
+    titleVi: Mua vé tàu
+    topic: travel
+    accent: UK
+    format: dialogue
+    speakerCount: 2
+    glossary: []
+    segments:
+      - speaker: Passenger
+        text: Good morning. I would like a ticket to Brighton for tomorrow, please.
+        vi: Chào buổi sáng. Tôi muốn mua một vé đến Brighton cho ngày mai.
+      - speaker: Clerk
+        text: Certainly. Would you like a single ticket or a return?
+        vi: Vâng. Bạn muốn vé một chiều hay khứ hồi?
+      - speaker: Passenger
+        text: A return, please. I want to come back on Sunday evening.
+        vi: Vé khứ hồi ạ. Tôi muốn quay về vào tối Chủ Nhật.
+      - speaker: Clerk
+        text: The morning trains leave at nine fifteen and ten thirty.
+        vi: Các chuyến tàu buổi sáng khởi hành lúc chín giờ mười lăm và mười giờ ba mươi.
+      - speaker: Passenger
+        text: The earlier one, please. Is there a train back at six on Sunday?
+        vi: Cho tôi chuyến sớm hơn. Có tàu về lúc sáu giờ vào Chủ Nhật không?
+      - speaker: Clerk
+        text: Yes, at six in the evening. The return ticket costs eighteen pounds.
+        vi: Có, lúc sáu giờ tối. Vé khứ hồi giá mười tám bảng.
+      - speaker: Passenger
+        text: That is fine. Can I pay by card?
+        vi: Được ạ. Tôi trả bằng thẻ được không?
+      - speaker: Clerk
+        text: Of course. Your train tomorrow leaves from platform four.
+        vi: Được chứ. Chuyến tàu của bạn ngày mai khởi hành từ sân ga số bốn.
+      - speaker: Passenger
+        text: Thank you. Where can I buy some water before I get on?
+        vi: Cảm ơn. Tôi có thể mua nước ở đâu trước khi lên tàu?
+      - speaker: Clerk
+        text: There is a small shop next to the ticket office.
+        vi: Có một cửa hàng nhỏ bên cạnh phòng bán vé.
+      - speaker: Passenger
+        text: Great. Do I need to print this ticket at home?
+        vi: Tốt quá. Tôi có cần in vé này ở nhà không?
+      - speaker: Clerk
+        text: No. You can show the ticket on your phone.
+        vi: Không. Bạn có thể đưa vé trên điện thoại cho nhân viên xem.
+    dictation:
+      - 2
+      - 4
+      - 8
+      - 12
+    questions:
+      - type: MCQ
+        prompt: Where is the passenger going?
+        options:
+          - London
+          - Brighton
+          - Oxford
+          - York
+        answer: Brighton
+        explanationVi: Hành khách yêu cầu vé đến Brighton ngay ở đầu hội thoại.
+      - type: MCQ
+        prompt: What type of ticket does the passenger buy?
+        options:
+          - A single ticket
+          - A weekly ticket
+          - A return ticket
+          - A family ticket
+        answer: A return ticket
+        explanationVi: Hành khách chọn vé khứ hồi và nói muốn quay về tối Chủ Nhật.
+      - type: MCQ
+        prompt: Which train will the passenger take tomorrow?
+        options:
+          - The 9:15 train
+          - The 10:30 train
+          - The 18:00 train
+          - The 8:45 train
+        answer: The 9:15 train
+        explanationVi: Trong hai chuyến 9:15 và 10:30, hành khách chọn chuyến sớm hơn, tức 9:15.
+      - type: MCQ
+        prompt: Where can the passenger buy water?
+        options:
+          - On platform two
+          - Outside the station
+          - Opposite the cafe
+          - Next to the ticket office
+        answer: Next to the ticket office
+        explanationVi: Nhân viên chỉ cửa hàng nhỏ bên cạnh phòng bán vé.
+      - type: TRUE_FALSE
+        prompt: Is the statement true or false?
+        promptVi: Nhận định sau đúng hay sai theo bài nghe?
+        statement: The passenger will return on Sunday evening.
+        answer: true
+        explanationVi: Hành khách nói muốn quay về tối Chủ Nhật và đồng ý với chuyến 6 giờ tối.
+      - type: TRUE_FALSE
+        prompt: Is the statement true or false?
+        promptVi: Nhận định sau đúng hay sai theo bài nghe?
+        statement: The passenger must print the ticket at home.
+        answer: false
+        explanationVi: Nhân viên nói có thể đưa vé trên điện thoại cho nhân viên xem.
+      - type: SHORT_ANSWER
+        prompt: How much does the return ticket cost?
+        accept:
+          - eighteen pounds
+          - 18 pounds
+          - £18
+          - "18"
+        explanationVi: Nhân viên báo giá vé khứ hồi là mười tám bảng.
+      - type: SHORT_ANSWER
+        prompt: Which platform does the train leave from tomorrow?
+        accept:
+          - four
+          - "4"
+          - platform four
+          - platform 4
+        explanationVi: Chuyến ngày mai khởi hành từ sân ga số bốn.
+  - slug: joining-the-library
+    title: Joining the Library
+    titleVi: Đăng ký thẻ thư viện
+    topic: education
+    accent: UK
+    format: dialogue
+    speakerCount: 2
+    glossary: []
+    segments:
+      - speaker: Visitor
+        text: Hello. I live nearby, and I would like to join the library.
+        vi: Xin chào. Tôi sống gần đây và muốn đăng ký thẻ thư viện.
+      - speaker: Librarian
+        text: Welcome. Please complete this form with your name and address.
+        vi: Chào bạn. Hãy điền tên và địa chỉ vào mẫu đơn này.
+      - speaker: Visitor
+        text: Sure. Do I need to pay for a library card?
+        vi: Vâng. Tôi có phải trả tiền làm thẻ thư viện không?
+      - speaker: Librarian
+        text: No, it is free. Have you got anything that shows your address?
+        vi: Không, thẻ miễn phí. Bạn có giấy tờ gì ghi địa chỉ của mình không?
+      - speaker: Visitor
+        text: Yes, I have a letter from my college with my address on it.
+        vi: Có, tôi có một lá thư từ trường cao đẳng có ghi địa chỉ của mình.
+      - speaker: Librarian
+        text: That is fine. You can borrow up to six books for three weeks.
+        vi: Như vậy được rồi. Bạn có thể mượn tối đa sáu cuốn sách trong ba tuần.
+      - speaker: Visitor
+        text: Can I borrow magazines as well? I enjoy reading about travel.
+        vi: Tôi có thể mượn cả tạp chí không? Tôi thích đọc về du lịch.
+      - speaker: Librarian
+        text: You can read magazines here, but you cannot take them home.
+        vi: Bạn có thể đọc tạp chí tại đây, nhưng không được mang về nhà.
+      - speaker: Visitor
+        text: I understand. Where can I find books for English learners?
+        vi: Tôi hiểu rồi. Tôi có thể tìm sách cho người học tiếng Anh ở đâu?
+      - speaker: Librarian
+        text: On the first floor, beside the stairs. They have green labels.
+        vi: Ở tầng trên tầng trệt, cạnh cầu thang. Chúng có nhãn màu xanh lá.
+      - speaker: Visitor
+        text: Thank you. What time do you close today?
+        vi: Cảm ơn. Hôm nay thư viện đóng cửa lúc mấy giờ?
+      - speaker: Librarian
+        text: At seven this evening. Here is your new library card.
+        vi: Lúc bảy giờ tối nay. Đây là thẻ thư viện mới của bạn.
+    dictation:
+      - 2
+      - 4
+      - 8
+      - 12
+    questions:
+      - type: MCQ
+        prompt: What must the visitor write on the form?
+        options:
+          - A phone password
+          - A book review
+          - A name and address
+          - A course timetable
+        answer: A name and address
+        explanationVi: Thủ thư yêu cầu điền tên và địa chỉ.
+      - type: MCQ
+        prompt: What does the visitor use to show their address?
+        options:
+          - A college letter
+          - A train ticket
+          - A magazine
+          - A bank card
+        answer: A college letter
+        explanationVi: Người đăng ký có thư từ trường cao đẳng ghi địa chỉ của mình.
+      - type: MCQ
+        prompt: Where may visitors read the magazines?
+        options:
+          - Only at home
+          - Only on a bus
+          - At a nearby cafe
+          - Inside the library
+        answer: Inside the library
+        explanationVi: Tạp chí được đọc tại thư viện và không được mang về.
+      - type: MCQ
+        prompt: Where are the books for English learners?
+        options:
+          - Behind the front desk
+          - Beside the stairs on the first floor
+          - In the garden
+          - Next to the main entrance
+        answer: Beside the stairs on the first floor
+        explanationVi: Thủ thư nói sách ở tầng trên tầng trệt, cạnh cầu thang.
+      - type: TRUE_FALSE
+        prompt: Is the statement true or false?
+        promptVi: Nhận định sau đúng hay sai theo bài nghe?
+        statement: The library card is free.
+        answer: true
+        explanationVi: Khi khách hỏi về phí, thủ thư trả lời thẻ miễn phí.
+      - type: TRUE_FALSE
+        prompt: Is the statement true or false?
+        promptVi: Nhận định sau đúng hay sai theo bài nghe?
+        statement: The books for English learners have red labels.
+        answer: false
+        explanationVi: Sách cho người học tiếng Anh có nhãn xanh lá.
+      - type: SHORT_ANSWER
+        prompt: How many books can a member borrow at one time?
+        accept:
+          - six
+          - "6"
+          - six books
+          - 6 books
+        explanationVi: Mỗi thành viên có thể mượn tối đa sáu cuốn.
+      - type: SHORT_ANSWER
+        prompt: How long can a member keep the books?
+        accept:
+          - three weeks
+          - 3 weeks
+        explanationVi: Thời hạn mượn sách là ba tuần.
+  - slug: changing-a-shirt-at-a-shop
+    title: Changing a Shirt at a Shop
+    titleVi: Đổi áo tại cửa hàng
+    topic: daily-life
+    accent: US
+    format: dialogue
+    speakerCount: 2
+    glossary: []
+    segments:
+      - speaker: Sarah
+        text: Hello! How can I help you today?
+        vi: Xin chào! Tôi có thể giúp gì cho bạn hôm nay?
+      - speaker: Minh
+        text: Hi. I bought this blue shirt yesterday, but it is too small.
+        vi: Chào bạn. Tôi đã mua chiếc áo sơ mi màu xanh dương này hôm qua, nhưng nó quá nhỏ.
+      - speaker: Sarah
+        text: Oh, I see. Do you have the receipt with you?
+        vi: Ồ, tôi hiểu rồi. Bạn có mang theo hóa đơn không?
+      - speaker: Minh
+        text: Yes, here it is. I paid thirty dollars for it.
+        vi: Có, nó đây. Tôi đã trả ba mươi đô la cho nó.
+      - speaker: Sarah
+        text: Perfect. Would you like a larger size in the same color?
+        vi: Tuyệt vời. Bạn có muốn đổi sang cỡ lớn hơn cùng màu không?
+      - speaker: Minh
+        text: Yes, please. Do you have a medium size? This one is small.
+        vi: Vâng, làm ơn. Bạn có cỡ vừa (M) không? Chiếc này là cỡ nhỏ (S).
+      - speaker: Sarah
+        text: Let me check our computer. Yes, we have one medium left.
+        vi: Để tôi kiểm tra máy tính nhé. Vâng, chúng tôi còn lại một chiếc cỡ vừa.
+      - speaker: Minh
+        text: That is great! Can I try it on in the fitting room?
+        vi: Tuyệt quá! Tôi có thể mặc thử nó trong phòng thay đồ không?
+      - speaker: Sarah
+        text: Of course. The fitting rooms are right behind you on the left.
+        vi: Dĩ nhiên rồi. Phòng thay đồ ở ngay phía sau bạn bên tay trái.
+      - speaker: Minh
+        text: Thank you. I will go and try it on now.
+        vi: Cảm ơn bạn. Tôi sẽ đi thử nó ngay bây giờ.
+      - speaker: Sarah
+        text: Take your time. Let me know if you need anything else.
+        vi: Cứ thong thả nhé. Hãy cho tôi biết nếu bạn cần gì khác.
+      - speaker: Minh
+        text: It fits perfectly! I will take this medium blue shirt. Thank you.
+        vi: Nó vừa vặn hoàn hảo luôn! Tôi sẽ lấy chiếc áo xanh dương cỡ vừa này. Cảm ơn bạn.
+    dictation:
+      - 2
+      - 4
+      - 7
+      - 12
+    questions:
+      - type: MCQ
+        prompt: When did Minh buy the blue shirt?
+        promptVi: Minh đã mua chiếc áo sơ mi màu xanh dương khi nào?
+        options:
+          - Today
+          - Yesterday
+          - Two days ago
+          - Last week
+        answer: Yesterday
+        explanationVi: "Trong lượt thoại thứ hai, Minh nói: 'I bought this blue shirt yesterday' (Tôi đã mua
+          chiếc áo sơ mi màu xanh dương này hôm qua)."
+      - type: MCQ
+        prompt: How much did Minh pay for the shirt?
+        promptVi: Minh đã trả bao nhiêu tiền cho chiếc áo?
+        options:
+          - Thirteen dollars
+          - Twenty dollars
+          - Thirty dollars
+          - Forty dollars
+        answer: Thirty dollars
+        explanationVi: "Trong lượt thoại thứ tư, Minh nói: 'I paid thirty dollars for it' (Tôi đã trả ba
+          mươi đô la cho nó)."
+      - type: MCQ
+        prompt: What size does Minh want to get now?
+        promptVi: Minh muốn lấy kích cỡ nào bây giờ?
+        options:
+          - Small
+          - Medium
+          - Large
+          - Extra large
+        answer: Medium
+        explanationVi: "Trong lượt thoại thứ sáu, Minh hỏi: 'Do you have a medium size?' (Bạn có cỡ vừa không?)."
+      - type: MCQ
+        prompt: Where are the fitting rooms located?
+        promptVi: Phòng thay đồ nằm ở đâu?
+        options:
+          - Behind Minh on the left
+          - Next to the entrance
+          - On the second floor
+          - Behind Sarah on the right
+        answer: Behind Minh on the left
+        explanationVi: "Sarah nói: 'The fitting rooms are right behind you on the left' (Phòng thay đồ ở
+          ngay phía sau bạn bên tay trái)."
+      - type: TRUE_FALSE
+        prompt: Is the statement true or false?
+        promptVi: Nhận định sau đúng hay sai theo bài nghe?
+        answer: false
+        explanationVi: "Minh có mang theo hóa đơn và đã đưa cho Sarah ở lượt thoại thứ tư: 'Yes, here it is'
+          (Có, nó đây)."
+        statement: Minh does not have the receipt for the shirt.
+      - type: TRUE_FALSE
+        prompt: Is the statement true or false?
+        promptVi: Nhận định sau đúng hay sai theo bài nghe?
+        answer: true
+        explanationVi: "Sarah kiểm tra máy tính và nói: 'Yes, we have one medium left' (Vâng, chúng tôi còn
+          lại một chiếc cỡ vừa)."
+        statement: The shop has only one medium shirt left in stock.
+      - type: SHORT_ANSWER
+        prompt: What color is the shirt that Minh bought?
+        promptVi: Chiếc áo Minh đã mua có màu gì?
+        accept:
+          - blue
+          - Blue
+        explanationVi: "Minh nói ở lượt thoại thứ hai: 'I bought this blue shirt yesterday' (Tôi đã mua
+          chiếc áo sơ mi màu xanh dương này hôm qua)."
+      - type: SHORT_ANSWER
+        prompt: Does the medium shirt fit Minh well at the end?
+        promptVi: Chiếc áo cỡ vừa có vừa vặn với Minh ở cuối cuộc hội thoại không?
+        accept:
+          - yes
+          - Yes
+          - Yes, it does
+          - It fits perfectly
+        explanationVi: "Ở lượt thoại cuối cùng, Minh nói: 'It fits perfectly!' (Nó vừa vặn hoàn hảo!)."
+  - slug: planning-a-birthday-picnic
+    title: Planning a Birthday Picnic
+    titleVi: Lên kế hoạch cho buổi dã ngoại sinh nhật
+    topic: daily-life
+    accent: UK
+    format: dialogue
+    speakerCount: 2
+    glossary: []
+    segments:
+      - speaker: Jack
+        text: Hey Emma, let's plan a birthday picnic for Lucy this Sunday.
+        vi: Này Emma, chúng ta hãy lên kế hoạch cho một buổi dã ngoại sinh nhật cho Lucy vào Chủ Nhật này
+          đi.
+      - speaker: Emma
+        text: That is a great idea! Where should we have it?
+        vi: Đó là một ý tưởng tuyệt vời! Chúng ta nên tổ chức nó ở đâu?
+      - speaker: Jack
+        text: How about Green Park? It has beautiful trees and a big lake.
+        vi: Công viên Xanh thì sao? Ở đó có những hàng cây đẹp và một cái hồ lớn.
+      - speaker: Emma
+        text: Perfect. I can make some chicken sandwiches and bring fresh orange juice.
+        vi: Hoàn hảo. Mình có thể làm vài chiếc bánh mì kẹp gà và mang theo nước cam tươi.
+      - speaker: Jack
+        text: Delicious! I will buy a chocolate birthday cake from the bakery.
+        vi: Ngon tuyệt! Mình sẽ mua một chiếc bánh sinh nhật sô-cô-la từ tiệm bánh.
+      - speaker: Emma
+        text: Don't forget some paper plates and napkins. We need those too.
+        vi: Đừng quên vài chiếc đĩa giấy và khăn ăn nhé. Chúng ta cũng cần những thứ đó nữa.
+      - speaker: Jack
+        text: Good point. I will write them on my shopping list now.
+        vi: Ý kiến hay. Mình sẽ viết chúng vào danh sách mua sắm của mình ngay bây giờ.
+      - speaker: Emma
+        text: What time should we meet at the park entrance on Sunday?
+        vi: Chúng ta nên gặp nhau ở lối vào công viên lúc mấy giờ vào Chủ Nhật?
+      - speaker: Jack
+        text: Let's meet at eleven o'clock in the morning to find a good spot.
+        vi: Hãy gặp nhau lúc mười một giờ sáng để tìm một chỗ ngồi tốt.
+      - speaker: Emma
+        text: Sounds good. I will call Lucy and invite her today.
+        vi: Nghe hay đấy. Mình sẽ gọi cho Lucy và mời cô ấy hôm nay.
+      - speaker: Jack
+        text: Great. Remember, it is a surprise! Do not tell her the details.
+        vi: Tuyệt vời. Nhớ nhé, đây là một sự bất ngờ! Đừng nói cho cô ấy biết chi tiết.
+      - speaker: Emma
+        text: I won't! I will just tell her to meet me for lunch.
+        vi: Mình sẽ không nói đâu! Mình sẽ chỉ bảo cô ấy đến gặp mình để ăn trưa thôi.
+    dictation:
+      - 3
+      - 5
+      - 9
+      - 11
+    questions:
+      - type: MCQ
+        prompt: Who is the birthday picnic for?
+        promptVi: Buổi dã ngoại sinh nhật dành cho ai?
+        options:
+          - Emma
+          - Jack
+          - Lucy
+          - Sarah
+        answer: Lucy
+        explanationVi: "Jack nói ở lượt thoại đầu tiên: 'let's plan a birthday picnic for Lucy this Sunday'
+          (chúng ta hãy lên kế hoạch cho một buổi dã ngoại sinh nhật cho Lucy vào Chủ Nhật này)."
+      - type: MCQ
+        prompt: Where do they decide to have the picnic?
+        promptVi: Họ quyết định tổ chức dã ngoại ở đâu?
+        options:
+          - At Jack's house
+          - In Green Park
+          - Near the beach
+          - At a restaurant
+        answer: In Green Park
+        explanationVi: "Jack gợi ý: 'How about Green Park?' (Công viên Xanh thì sao?) và Emma đồng ý."
+      - type: MCQ
+        prompt: What food will Emma make?
+        promptVi: Emma sẽ làm món ăn gì?
+        options:
+          - Chocolate cake
+          - Chicken sandwiches
+          - Apple pie
+          - Salad
+        answer: Chicken sandwiches
+        explanationVi: "Emma nói ở lượt thoại thứ tư: 'I can make some chicken sandwiches' (Mình có thể làm
+          vài chiếc bánh mì kẹp gà)."
+      - type: MCQ
+        prompt: What flavor of birthday cake will Jack buy?
+        promptVi: Jack sẽ mua bánh sinh nhật hương vị gì?
+        options:
+          - Strawberry
+          - Vanilla
+          - Chocolate
+          - Lemon
+        answer: Chocolate
+        explanationVi: "Jack nói ở lượt thoại thứ năm: 'I will buy a chocolate birthday cake' (Mình sẽ mua
+          một chiếc bánh sinh nhật sô-cô-la)."
+      - type: TRUE_FALSE
+        prompt: Is the statement true or false?
+        promptVi: Nhận định sau đúng hay sai theo bài nghe?
+        answer: false
+        explanationVi: "Jack gợi ý gặp nhau lúc mười một giờ sáng: 'Let's meet at eleven o'clock in the morning'."
+        statement: They plan to meet at twelve o'clock.
+      - type: TRUE_FALSE
+        prompt: Is the statement true or false?
+        promptVi: Nhận định sau đúng hay sai theo bài nghe?
+        answer: true
+        explanationVi: "Jack nhắc nhở: 'Remember, it is a surprise!' (Nhớ nhé, đây là một sự bất ngờ!)."
+        statement: The picnic is supposed to be a surprise for Lucy.
+      - type: SHORT_ANSWER
+        prompt: What day of the week will the picnic be?
+        promptVi: Buổi dã ngoại sẽ diễn ra vào thứ mấy trong tuần?
+        accept:
+          - Sunday
+          - sunday
+        explanationVi: "Jack đề xuất ở lượt thoại đầu tiên: 'this Sunday' (Chủ Nhật này)."
+      - type: SHORT_ANSWER
+        prompt: What drink will Emma bring?
+        promptVi: Emma sẽ mang theo đồ uống gì?
+        accept:
+          - orange juice
+          - fresh orange juice
+          - juice
+        explanationVi: "Emma nói ở lượt thoại thứ tư: 'bring fresh orange juice' (mang theo nước cam tươi)."
+  - slug: reporting-a-lost-backpack
+    title: Reporting a Lost Backpack
+    titleVi: Báo mất ba lô
+    topic: travel
+    accent: UK
+    format: dialogue
+    speakerCount: 2
+    glossary: []
+    segments:
+      - speaker: Passenger
+        text: Excuse me. I left my backpack on a bus this morning.
+        vi: Xin lỗi. Tôi để quên ba lô trên xe buýt sáng nay.
+      - speaker: Officer
+        text: Which bus were you on, and where did you get off?
+        vi: Bạn đi xe buýt số mấy và xuống ở đâu?
+      - speaker: Passenger
+        text: Number sixteen. I got off at the museum at about ten.
+        vi: Xe số mười sáu. Tôi xuống ở bảo tàng vào khoảng mười giờ.
+      - speaker: Officer
+        text: Can you describe your backpack? What colour is it?
+        vi: Bạn có thể tả chiếc ba lô không? Nó màu gì?
+      - speaker: Passenger
+        text: It is dark green, with a small yellow star on the front.
+        vi: Nó màu xanh lá đậm, có một ngôi sao nhỏ màu vàng ở phía trước.
+      - speaker: Officer
+        text: What is inside? That will help us find the right one.
+        vi: Bên trong có gì? Điều đó sẽ giúp chúng tôi tìm đúng chiếc ba lô.
+      - speaker: Passenger
+        text: A notebook, a blue umbrella, and my lunch. My phone is with me.
+        vi: Một quyển vở, một chiếc ô xanh dương và bữa trưa của tôi. Điện thoại tôi vẫn mang theo.
+      - speaker: Officer
+        text: Please write your phone number here. We will call if we find it.
+        vi: Hãy ghi số điện thoại của bạn vào đây. Chúng tôi sẽ gọi nếu tìm thấy.
+      - speaker: Passenger
+        text: Thank you. Can I come back here to collect it?
+        vi: Cảm ơn. Tôi có thể quay lại đây để nhận không?
+      - speaker: Officer
+        text: Yes. Bring some photo identification when you collect your bag.
+        vi: Có. Khi nhận lại túi, hãy mang giấy tờ tùy thân có ảnh.
+      - speaker: Passenger
+        text: All right. What time does this office close?
+        vi: Vâng. Văn phòng này đóng cửa lúc mấy giờ?
+      - speaker: Officer
+        text: At six in the evening. We open again at eight tomorrow morning.
+        vi: Lúc sáu giờ tối. Chúng tôi mở lại lúc tám giờ sáng mai.
+    dictation:
+      - 2
+      - 4
+      - 8
+      - 12
+    questions:
+      - type: MCQ
+        prompt: Where did the passenger get off the bus?
+        options:
+          - At the station
+          - At the museum
+          - At the library
+          - At the market
+        answer: At the museum
+        explanationVi: Hành khách xuống xe ở bảo tàng.
+      - type: MCQ
+        prompt: What is on the front of the backpack?
+        options:
+          - A yellow star
+          - A red circle
+          - A white flower
+          - A black name tag
+        answer: A yellow star
+        explanationVi: Ba lô có một ngôi sao nhỏ màu vàng ở phía trước.
+      - type: MCQ
+        prompt: Which item is inside the backpack?
+        options:
+          - A passport
+          - A phone
+          - A blue umbrella
+          - A camera
+        answer: A blue umbrella
+        explanationVi: Hành khách liệt kê một quyển vở, ô xanh dương và bữa trưa.
+      - type: MCQ
+        prompt: What must the passenger bring to collect the bag?
+        options:
+          - A bus timetable
+          - A new ticket
+          - A printed photo of the bag
+          - Photo identification
+        answer: Photo identification
+        explanationVi: Nhân viên yêu cầu mang giấy tờ tùy thân có ảnh khi nhận ba lô.
+      - type: TRUE_FALSE
+        prompt: Is the statement true or false?
+        promptVi: Nhận định sau đúng hay sai theo bài nghe?
+        statement: The passenger still has their phone.
+        answer: true
+        explanationVi: Hành khách nói điện thoại vẫn ở bên mình.
+      - type: TRUE_FALSE
+        prompt: Is the statement true or false?
+        promptVi: Nhận định sau đúng hay sai theo bài nghe?
+        statement: The officer has already found the backpack.
+        answer: false
+        explanationVi: Nhân viên mới lấy thông tin và nói sẽ gọi nếu tìm thấy.
+      - type: SHORT_ANSWER
+        prompt: What was the bus number?
+        accept:
+          - sixteen
+          - "16"
+          - number sixteen
+          - number 16
+        explanationVi: Hành khách đã đi xe buýt số mười sáu.
+      - type: SHORT_ANSWER
+        prompt: What time does the office close?
+        accept:
+          - six
+          - "6"
+          - six pm
+          - six in the evening
+          - 6 pm
+          - 6 p.m.
+          - 6:00
+          - 6:00 pm
+          - 18:00
+        explanationVi: Văn phòng đóng cửa lúc sáu giờ tối.
+  - slug: booking-a-haircut
+    title: Booking a Haircut
+    titleVi: Đặt lịch cắt tóc
+    topic: daily-life
+    accent: UK
+    format: dialogue
+    speakerCount: 2
+    glossary: []
+    segments:
+      - speaker: Customer
+        text: Hello. Can I book a haircut for Saturday morning?
+        vi: Xin chào. Tôi có thể đặt lịch cắt tóc vào sáng thứ Bảy không?
+      - speaker: Receptionist
+        text: I am sorry, Saturday morning is full. We have a space at two thirty.
+        vi: Xin lỗi, sáng thứ Bảy đã kín lịch. Chúng tôi còn chỗ lúc hai giờ ba mươi.
+      - speaker: Customer
+        text: I am working then. Is anything available on Friday after five?
+        vi: Giờ đó tôi đang làm việc. Có chỗ nào sau năm giờ vào thứ Sáu không?
+      - speaker: Receptionist
+        text: Yes, Anna can see you at five forty-five on Friday.
+        vi: Có, Anna có thể cắt cho bạn lúc năm giờ bốn mươi lăm vào thứ Sáu.
+      - speaker: Customer
+        text: That works. I only need a haircut, without a wash.
+        vi: Giờ đó được. Tôi chỉ cần cắt tóc, không gội.
+      - speaker: Receptionist
+        text: That will be fifteen pounds. May I have your name, please?
+        vi: Như vậy giá mười lăm bảng. Cho tôi xin tên của bạn nhé?
+      - speaker: Customer
+        text: It is Lee Tran. How long does a haircut usually take?
+        vi: Tên tôi là Lee Tran. Một lần cắt tóc thường mất bao lâu?
+      - speaker: Receptionist
+        text: About twenty minutes. Please arrive five minutes before your appointment.
+        vi: Khoảng hai mươi phút. Hãy đến trước giờ hẹn năm phút.
+      - speaker: Customer
+        text: Of course. Is your shop still opposite the cinema?
+        vi: Vâng. Tiệm vẫn ở đối diện rạp chiếu phim phải không?
+      - speaker: Receptionist
+        text: Yes, beside the flower shop. Our front door is purple.
+        vi: Đúng, cạnh cửa hàng hoa. Cửa chính của chúng tôi màu tím.
+      - speaker: Customer
+        text: Great. Please book that Friday appointment for me.
+        vi: Tốt quá. Hãy đặt lịch thứ Sáu đó cho tôi.
+      - speaker: Receptionist
+        text: Done. We look forward to seeing you at five forty-five.
+        vi: Đã đặt xong. Hẹn gặp bạn lúc năm giờ bốn mươi lăm.
+    dictation:
+      - 2
+      - 4
+      - 8
+      - 12
+    questions:
+      - type: MCQ
+        prompt: Why does the customer refuse the Saturday afternoon appointment?
+        options:
+          - It is too expensive
+          - They will be at work
+          - They dislike the stylist
+          - They will be travelling
+        answer: They will be at work
+        explanationVi: Khách nói mình đang làm việc vào giờ đó.
+      - type: MCQ
+        prompt: What service does the customer book?
+        options:
+          - A haircut and colour
+          - A wash only
+          - A haircut without a wash
+          - A haircut and a wash
+        answer: A haircut without a wash
+        explanationVi: Khách chỉ cần cắt tóc, không gội.
+      - type: MCQ
+        prompt: How much will the service cost?
+        options:
+          - Fifteen pounds
+          - Fifty pounds
+          - Twenty pounds
+          - Twelve pounds
+        answer: Fifteen pounds
+        explanationVi: Nhân viên báo giá mười lăm bảng.
+      - type: MCQ
+        prompt: Where is the shop?
+        options:
+          - Behind the station
+          - Inside the cinema
+          - Beside a supermarket
+          - Opposite the cinema
+        answer: Opposite the cinema
+        explanationVi: Khách hỏi tiệm còn ở đối diện rạp chiếu phim không và nhân viên xác nhận có.
+      - type: TRUE_FALSE
+        prompt: Is the statement true or false?
+        promptVi: Nhận định sau đúng hay sai theo bài nghe?
+        statement: Anna will cut the customer’s hair.
+        answer: true
+        explanationVi: Nhân viên đề nghị lịch với Anna và khách đồng ý.
+      - type: TRUE_FALSE
+        prompt: Is the statement true or false?
+        promptVi: Nhận định sau đúng hay sai theo bài nghe?
+        statement: The customer should arrive exactly at the appointment time.
+        answer: false
+        explanationVi: Nhân viên yêu cầu đến sớm năm phút.
+      - type: SHORT_ANSWER
+        prompt: On which day is the final appointment?
+        accept:
+          - Friday
+          - on Friday
+        explanationVi: Lịch cuối cùng được chốt vào thứ Sáu.
+      - type: SHORT_ANSWER
+        prompt: How many minutes does the haircut usually take?
+        accept:
+          - twenty
+          - "20"
+          - twenty minutes
+          - 20 minutes
+        explanationVi: Một lần cắt tóc thường mất khoảng hai mươi phút.
+  - slug: visiting-a-weekend-market
+    title: Visiting a Weekend Market
+    titleVi: Đi chợ cuối tuần
+    topic: daily-life
+    accent: UK
+    format: dialogue
+    speakerCount: 2
+    glossary: []
+    segments:
+      - speaker: Customer
+        text: Good morning. Those strawberries look lovely. How much are they?
+        vi: Chào buổi sáng. Những quả dâu tây kia trông ngon quá. Giá bao nhiêu vậy?
+      - speaker: Seller
+        text: Three pounds for one box, or five pounds for two.
+        vi: Ba bảng một hộp, hoặc năm bảng hai hộp.
+      - speaker: Customer
+        text: I will take two boxes, please. Are they from a local farm?
+        vi: Cho tôi hai hộp. Dâu được trồng ở trang trại địa phương phải không?
+      - speaker: Seller
+        text: Yes, from a farm about ten miles away. They arrived this morning.
+        vi: Đúng, từ một trang trại cách đây khoảng mười dặm. Dâu được chuyển đến sáng nay.
+      - speaker: Customer
+        text: Great. Do you have any pears today?
+        vi: Tốt quá. Hôm nay bạn có lê không?
+      - speaker: Seller
+        text: Sorry, no pears. We have apples and bananas on the other table.
+        vi: Xin lỗi, không có lê. Bàn bên kia có táo và chuối.
+      - speaker: Customer
+        text: Just the strawberries, then. I have my own bag.
+        vi: Vậy tôi chỉ lấy dâu tây thôi. Tôi có mang túi.
+      - speaker: Seller
+        text: Thank you. Would you like to pay in cash or by card?
+        vi: Cảm ơn. Bạn muốn trả bằng tiền mặt hay thẻ?
+      - speaker: Customer
+        text: Cash, please. Here is a ten-pound note.
+        vi: Tiền mặt nhé. Đây là tờ mười bảng.
+      - speaker: Seller
+        text: And here is your five pounds change. Please keep the fruit cool.
+        vi: Đây là năm bảng tiền thừa. Nhớ giữ trái cây ở nơi mát nhé.
+      - speaker: Customer
+        text: I will. Are you here on Sundays too?
+        vi: Tôi sẽ làm vậy. Bạn có bán ở đây vào Chủ Nhật không?
+      - speaker: Seller
+        text: No, only on Saturdays. We finish at two in the afternoon.
+        vi: Không, chỉ thứ Bảy thôi. Chúng tôi bán đến hai giờ chiều.
+    dictation:
+      - 2
+      - 4
+      - 8
+      - 12
+    questions:
+      - type: MCQ
+        prompt: How many boxes does the customer buy?
+        options:
+          - One
+          - Three
+          - Four
+          - Two
+        answer: Two
+        explanationVi: Khách chọn hai hộp dâu tây.
+      - type: MCQ
+        prompt: When did the strawberries arrive at the stall?
+        options:
+          - Yesterday evening
+          - This morning
+          - Last Friday
+          - At lunchtime
+        answer: This morning
+        explanationVi: Người bán nói dâu được chuyển đến sáng nay.
+      - type: MCQ
+        prompt: Which fruit is unavailable?
+        options:
+          - Pears
+          - Apples
+          - Bananas
+          - Strawberries
+        answer: Pears
+        explanationVi: Người bán nói hôm nay không có lê.
+      - type: MCQ
+        prompt: What does the customer use to carry the fruit?
+        options:
+          - A new paper bag
+          - A borrowed basket
+          - Their own bag
+          - A large suitcase
+        answer: Their own bag
+        explanationVi: Khách nói đã mang túi của mình.
+      - type: TRUE_FALSE
+        prompt: Is the statement true or false?
+        promptVi: Nhận định sau đúng hay sai theo bài nghe?
+        statement: The customer pays in cash.
+        answer: true
+        explanationVi: Khách đưa một tờ mười bảng.
+      - type: TRUE_FALSE
+        prompt: Is the statement true or false?
+        promptVi: Nhận định sau đúng hay sai theo bài nghe?
+        statement: The seller also works at this market on Sundays.
+        answer: false
+        explanationVi: Người bán chỉ bán tại đây vào thứ Bảy.
+      - type: SHORT_ANSWER
+        prompt: How much change does the customer receive?
+        accept:
+          - five pounds
+          - 5 pounds
+          - £5
+          - "5"
+        explanationVi: Khách trả mười bảng cho hàng giá năm bảng, nhận lại năm bảng.
+      - type: SHORT_ANSWER
+        prompt: What time does the stall finish trading?
+        accept:
+          - two
+          - "2"
+          - two pm
+          - two in the afternoon
+          - 2 pm
+          - 2 p.m.
+          - 2:00
+          - 2:00 pm
+          - 14:00
+        explanationVi: Quầy bán đến hai giờ chiều.

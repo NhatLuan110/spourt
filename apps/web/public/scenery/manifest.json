@@ -1,0 +1,82 @@
+[
+  {
+    "slug": "great-wall",
+    "nameVi": "Vạn Lý Trường Thành",
+    "placeVi": "Kim Sơn Lĩnh, Hà Bắc",
+    "width": 3840,
+    "height": 2553,
+    "credit": "Jakub Hałun",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:20090529_Great_Wall_8125.jpg"
+  },
+  {
+    "slug": "li-river",
+    "nameVi": "Sông Ly",
+    "placeVi": "Quế Lâm, Quảng Tây",
+    "width": 3840,
+    "height": 2560,
+    "credit": "Luka Peternel",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Yangshuo-Li-River-2019-Luka-Peternel.jpg"
+  },
+  {
+    "slug": "zhangjiajie",
+    "nameVi": "Trương Gia Giới",
+    "placeVi": "Hồ Nam",
+    "width": 3840,
+    "height": 2880,
+    "credit": "Kuruman from Tokyo, Japan",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Zhangjiajie_National_Forest_Park.jpg"
+  },
+  {
+    "slug": "forbidden-city",
+    "nameVi": "Tử Cấm Thành",
+    "placeVi": "Bắc Kinh",
+    "width": 3840,
+    "height": 1920,
+    "credit": "Pixelflake",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Forbidden_City_-_View_from_Coal_Hill.jpg"
+  },
+  {
+    "slug": "west-lake",
+    "nameVi": "Tây Hồ",
+    "placeVi": "Hàng Châu, Chiết Giang",
+    "width": 3840,
+    "height": 2161,
+    "credit": "Y Chen",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hangzhou_Skyline_against_the_West_Lake.png"
+  },
+  {
+    "slug": "huangshan",
+    "nameVi": "Hoàng Sơn",
+    "placeVi": "An Huy",
+    "width": 3840,
+    "height": 2560,
+    "credit": "lienyuan lee",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%E5%B0%8F%E9%BB%83%E5%B1%B1_Xiao_Huangshan_-_panoramio.jpg"
+  },
+  {
+    "slug": "jiuzhaigou",
+    "nameVi": "Cửu Trại Câu",
+    "placeVi": "Tứ Xuyên",
+    "width": 3840,
+    "height": 2560,
+    "credit": "Suicasmo",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Panda_Lake_(Jiuzhaigou).jpg"
+  },
+  {
+    "slug": "shanghai",
+    "nameVi": "Bến Thượng Hải",
+    "placeVi": "Thượng Hải",
+    "width": 3840,
+    "height": 2560,
+    "credit": "Ernest Jourdier",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Shanghai_skyline_at_night.jpg"
+  }
+]

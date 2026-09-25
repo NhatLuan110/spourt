@@ -1,0 +1,143 @@
+# §7.4 — họ từ: cùng một gốc, khác từ loại.
+# rootSlug phải là slug của một từ có thật trong content/vocabulary/.
+# Nguồn: Wiktionary (CC BY-SA), WordNet. Xem content/LICENSES.md.
+families:
+  - rootSlug: pollute
+    glossVi: Làm bẩn môi trường
+    members:
+      - lemma: pollute
+        pos: VERB
+      - lemma: pollution
+        pos: NOUN
+        suffix: -tion
+        note: Động từ kết thúc bằng -ute thường đổi thành -ution khi thành danh từ.
+
+  - rootSlug: recycle
+    glossVi: Tái chế
+    members:
+      - lemma: recycle
+        pos: VERB
+      - lemma: recycling
+        pos: NOUN
+        suffix: -ing
+        note: Danh từ chỉ quá trình, không đếm được.
+      - lemma: recyclable
+        pos: ADJECTIVE
+        suffix: -able
+        note: Hậu tố -able nghĩa là "có thể ... được".
+
+  - rootSlug: conserve
+    glossVi: Giữ gìn, bảo tồn
+    members:
+      - lemma: conserve
+        pos: VERB
+      - lemma: conservation
+        pos: NOUN
+        suffix: -ation
+
+  - rootSlug: astronomy
+    glossVi: Thiên văn
+    members:
+      - lemma: astronomy
+        pos: NOUN
+      - lemma: astronomer
+        pos: NOUN
+        suffix: -er
+        note: Hậu tố -er chỉ người làm công việc đó.
+      - lemma: astronomical
+        pos: ADJECTIVE
+        suffix: -ical
+
+  - rootSlug: graduate
+    glossVi: Tốt nghiệp
+    members:
+      - lemma: graduate
+        pos: VERB
+      - lemma: graduation
+        pos: NOUN
+        suffix: -tion
+
+  - rootSlug: analyse
+    glossVi: Phân tích
+    members:
+      - lemma: analyse
+        pos: VERB
+      - lemma: analysis
+        pos: NOUN
+        suffix: -sis
+        note: "Số nhiều bất quy tắc: analysis → analyses."
+
+  - rootSlug: apply
+    glossVi: Nộp đơn, ứng tuyển
+    members:
+      - lemma: apply
+        pos: VERB
+      - lemma: applicant
+        pos: NOUN
+        suffix: -ant
+        note: Hậu tố -ant chỉ người thực hiện hành động.
+      - lemma: application
+        pos: NOUN
+        suffix: -ation
+        note: Cùng gốc nhưng chỉ sự việc, không chỉ người.
+
+  - rootSlug: employ
+    glossVi: Thuê người làm việc
+    members:
+      - lemma: employ
+        pos: VERB
+      - lemma: employee
+        pos: NOUN
+        suffix: -ee
+        note: Hậu tố -ee chỉ người nhận hành động, khác với -er chỉ người thực hiện.
+      - lemma: employment
+        pos: NOUN
+        suffix: -ment
+
+  - rootSlug: recover
+    glossVi: Hồi phục
+    members:
+      - lemma: recover
+        pos: VERB
+      - lemma: recovery
+        pos: NOUN
+        suffix: -y
+
+  - rootSlug: nutrition
+    glossVi: Dinh dưỡng
+    members:
+      - lemma: nutrition
+        pos: NOUN
+      - lemma: nutritious
+        pos: ADJECTIVE
+        suffix: -ous
+        note: Hậu tố -ous thường tạo tính từ mang nghĩa "đầy, giàu".
+
+  - rootSlug: encrypt
+    glossVi: Mã hoá
+    members:
+      - lemma: encrypt
+        pos: VERB
+      - lemma: encryption
+        pos: NOUN
+        suffix: -ion
+
+  - rootSlug: notify
+    glossVi: Thông báo
+    members:
+      - lemma: notify
+        pos: VERB
+      - lemma: notification
+        pos: NOUN
+        suffix: -cation
+        note: Động từ kết thúc bằng -fy đổi thành -fication khi thành danh từ.
+
+  - rootSlug: arrive
+    glossVi: Đến nơi
+    members:
+      - lemma: arrive
+        pos: VERB
+      - lemma: arrival
+        pos: NOUN
+        suffix: -al
+        note: Hậu tố -al tạo danh từ chỉ hành động từ một số động từ.

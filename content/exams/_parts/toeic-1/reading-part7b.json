@@ -1,0 +1,562 @@
+[
+  {
+    "id": "reading-part7-s8",
+    "skill": "reading",
+    "title": "Part 7 — Single passage 8: press release",
+    "format": "TOEIC Reading — Part 7 · Single passage (câu 166–169)",
+    "instructionsVi": "Thông cáo báo chí, bốn câu hỏi. Có một câu chèn câu và một câu hỏi từ vựng theo ngữ cảnh — hai dạng khó nhất của Part 7.",
+    "promptEn": "Refer to the following press release and answer the questions.",
+    "passage": "FOR IMMEDIATE RELEASE\nRiverside Print acquires Bellamy Bindery\n\nFAIRPORT, 3 May — Riverside Print has today announced the acquisition of Bellamy Bindery, a family-owned finishing business operating in the region since 1962.\n\n— [1] — The two companies have worked together for over a decade, with Riverside routinely sending its hardback work to Bellamy for binding. Bringing the operation in-house is expected to cut turnaround on those jobs from nine working days to four.\n\n— [2] — All eighteen Bellamy staff will transfer on their existing terms, and the Bellamy site on Wren Street will continue to operate for at least two years. Managing Director Ines Duarte said the company had no plans to consolidate the two sites.\n\n'This is not a cost exercise,' Ms Duarte said. — [3] — 'We bought a capability we were already paying for, and a team that knows how to use it.'\n\nBellamy's founder, Harold Bellamy, retired in 2019. The business has since been run by his daughter, who will remain as production manager. — [4] —",
+    "timeLimitSec": 260,
+    "questions": [
+      {
+        "id": "p7-166",
+        "kind": "mcq",
+        "prompt": "166. What is the purpose of the press release?",
+        "options": [
+          {
+            "id": "a",
+            "text": "To announce an acquisition"
+          },
+          {
+            "id": "b",
+            "text": "To advertise a new binding service"
+          },
+          {
+            "id": "c",
+            "text": "To announce a site closure"
+          },
+          {
+            "id": "d",
+            "text": "To report annual results"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'has today announced the acquisition of Bellamy Bindery'."
+      },
+      {
+        "id": "p7-167",
+        "kind": "mcq",
+        "prompt": "167. What benefit is expected from the deal?",
+        "options": [
+          {
+            "id": "a",
+            "text": "A reduction in staff numbers"
+          },
+          {
+            "id": "b",
+            "text": "The closure of the Wren Street site"
+          },
+          {
+            "id": "c",
+            "text": "Lower paper prices"
+          },
+          {
+            "id": "d",
+            "text": "Faster turnaround on hardback work"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'cut turnaround on those jobs from nine working days to four'. (A) và (B) đều bị bài bác bỏ trực tiếp."
+      },
+      {
+        "id": "p7-168",
+        "kind": "mcq",
+        "prompt": "168. The word 'capability' in paragraph 4 is closest in meaning to",
+        "options": [
+          {
+            "id": "a",
+            "text": "a legal right"
+          },
+          {
+            "id": "b",
+            "text": "a technical ability the company can now use"
+          },
+          {
+            "id": "c",
+            "text": "a financial reserve"
+          },
+          {
+            "id": "d",
+            "text": "a customer list"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'We bought a capability we were already paying for' — nghĩa là năng lực đóng sách mà trước đây họ phải thuê ngoài. Câu tiếp theo nói rõ 'a team that knows how to use it'."
+      },
+      {
+        "id": "p7-169",
+        "kind": "mcq",
+        "prompt": "169. In which of the positions marked [1], [2], [3] and [4] does the following sentence best belong?\n\n'The two businesses are therefore already familiar with each other's standards.'",
+        "options": [
+          {
+            "id": "a",
+            "text": "[1]"
+          },
+          {
+            "id": "b",
+            "text": "[3]"
+          },
+          {
+            "id": "c",
+            "text": "[2]"
+          },
+          {
+            "id": "d",
+            "text": "[4]"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "Từ 'therefore' đòi hỏi câu trước phải nêu lý do. Đoạn ngay trước [2] nói hai bên đã hợp tác hơn một thập kỷ — đó chính là lý do."
+      }
+    ]
+  },
+  {
+    "id": "reading-part7-s9",
+    "skill": "reading",
+    "title": "Part 7 — Single passage 9: memo with schedule",
+    "format": "TOEIC Reading — Part 7 · Single passage (câu 170–172)",
+    "instructionsVi": "Bản ghi nhớ kèm lịch. Câu hỏi buộc đối chiếu phần chữ với phần lịch — đọc lướt một trong hai là sai.",
+    "promptEn": "Refer to the following memo and answer the questions.",
+    "passage": "MEMORANDUM\nTo: Production team\nFrom: Shift Planning\nSubject: Maintenance week, 8–12 July\n\nEach line will be taken out of service for one day during maintenance week. The schedule below shows which line is down on which day.\n\nMon 8 — Line 1\nTue 9 — Line 2\nWed 10 — Line 3\nThu 11 — Line 4\nFri 12 — no line down; contingency day\n\nStaff whose line is out of service should report to the line immediately after theirs in the sequence — so Line 1 staff work Line 2 on Monday, and so on. Line 4 staff report to Line 1.\n\nFriday is held in reserve. If any line's maintenance overruns, that line will be completed on Friday and the affected staff will be notified the previous afternoon. If all work finishes on schedule, Friday runs as a normal production day on all four lines.",
+    "timeLimitSec": 200,
+    "questions": [
+      {
+        "id": "p7-170",
+        "kind": "mcq",
+        "prompt": "170. Where should Line 3 staff work on Wednesday?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Line 1"
+          },
+          {
+            "id": "b",
+            "text": "Line 4"
+          },
+          {
+            "id": "c",
+            "text": "Line 2"
+          },
+          {
+            "id": "d",
+            "text": "They do not work that day."
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "Line 3 nghỉ vào thứ Tư, và quy tắc là báo cáo sang dây chuyền KẾ TIẾP trong dãy — tức Line 4. Phải ghép quy tắc với lịch."
+      },
+      {
+        "id": "p7-171",
+        "kind": "mcq",
+        "prompt": "171. What is the purpose of Friday?",
+        "options": [
+          {
+            "id": "a",
+            "text": "It is a training day."
+          },
+          {
+            "id": "b",
+            "text": "All four lines are down."
+          },
+          {
+            "id": "c",
+            "text": "It is a public holiday."
+          },
+          {
+            "id": "d",
+            "text": "It is held in reserve for overrunning work."
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'Friday is held in reserve. If any line's maintenance overruns, that line will be completed on Friday'."
+      },
+      {
+        "id": "p7-172",
+        "kind": "mcq",
+        "prompt": "172. How will staff learn that they are needed on Friday?",
+        "options": [
+          {
+            "id": "a",
+            "text": "They will be told on Friday morning."
+          },
+          {
+            "id": "b",
+            "text": "A notice will be posted on Monday."
+          },
+          {
+            "id": "c",
+            "text": "They will be notified the previous afternoon."
+          },
+          {
+            "id": "d",
+            "text": "They must check the schedule themselves."
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'the affected staff will be notified the previous afternoon'."
+      }
+    ]
+  },
+  {
+    "id": "reading-part7-s10",
+    "skill": "reading",
+    "title": "Part 7 — Single passage 10: policy extract",
+    "format": "TOEIC Reading — Part 7 · Single passage (câu 173–175)",
+    "instructionsVi": "Trích quy định. Câu hỏi buộc ÁP DỤNG quy định vào một tình huống cụ thể, không chỉ tìm lại thông tin.",
+    "promptEn": "Refer to the following policy extract and answer the questions.",
+    "passage": "HALCYON INSURANCE — Travel cover, section 4: cancellation\n\n4.1 Cover applies where a trip is cancelled for a reason listed in 4.2, and where the trip was booked at least fourteen days before departure.\n\n4.2 Listed reasons: illness or injury of the policyholder or an immediate family member; jury service; redundancy notified after the booking date; and cancellation of the outbound service by the carrier.\n\n4.3 Claims must be submitted within twenty-eight days of the cancellation, with the original booking confirmation and evidence of the reason.\n\n4.4 Where the carrier cancels the outbound service, the policyholder must first seek a refund from the carrier. This policy covers only the amount the carrier does not refund.\n\n4.5 Cover does not apply where the policyholder cancels because of a change in work commitments other than redundancy, or because of a change of mind.",
+    "timeLimitSec": 200,
+    "questions": [
+      {
+        "id": "p7-173",
+        "kind": "mcq",
+        "prompt": "173. A policyholder cancels because her employer has moved a project deadline. Is she covered?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Yes, work commitments are a listed reason."
+          },
+          {
+            "id": "b",
+            "text": "No, only redundancy is covered among work reasons."
+          },
+          {
+            "id": "c",
+            "text": "Yes, provided she claims within 28 days."
+          },
+          {
+            "id": "d",
+            "text": "Only if the trip was booked more than 14 days ahead."
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "4.5 loại trừ rõ 'a change in work commitments other than redundancy'. Phải áp dụng điều khoản loại trừ, không chỉ đọc danh sách 4.2."
+      },
+      {
+        "id": "p7-174",
+        "kind": "mcq",
+        "prompt": "174. What must a policyholder do first if the airline cancels the outbound flight?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Submit a claim to the insurer immediately"
+          },
+          {
+            "id": "b",
+            "text": "Rebook the same flight"
+          },
+          {
+            "id": "c",
+            "text": "Seek a refund from the airline"
+          },
+          {
+            "id": "d",
+            "text": "Obtain a letter from the airline"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "4.4: 'the policyholder must first seek a refund from the carrier'. Bảo hiểm chỉ chi phần hãng không hoàn."
+      },
+      {
+        "id": "p7-175",
+        "kind": "mcq",
+        "prompt": "175. What is required alongside the claim?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The original booking confirmation and evidence of the reason"
+          },
+          {
+            "id": "b",
+            "text": "A police report"
+          },
+          {
+            "id": "c",
+            "text": "Proof of payment of the premium"
+          },
+          {
+            "id": "d",
+            "text": "A signed statement from the employer"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "4.3: 'with the original booking confirmation and evidence of the reason'."
+      }
+    ]
+  },
+  {
+    "id": "reading-part7-d1",
+    "skill": "reading",
+    "title": "Part 7 — Double passage 1: email and invoice",
+    "format": "TOEIC Reading — Part 7 · Double passage (câu 176–180)",
+    "instructionsVi": "Bộ hai văn bản, 5 câu. Ít nhất hai câu chỉ trả lời được khi GHÉP thông tin từ cả hai văn bản — đó là câu quyết định điểm Part 7.",
+    "promptEn": "Refer to the following email and invoice, then answer the questions.",
+    "passage": "EMAIL\nFrom: d.tran@brightleaf.example\nTo: accounts@merridewsupplies.example\nDate: 3 May\nSubject: Invoice 44219 — query\n\nDear Accounts team,\n\nI am writing about invoice 44219, received yesterday. Two items do not match our purchase order PO-8871.\n\nFirst, we ordered 40 boxes of A4 paper, not 60. Second, the delivery charge of $45 was waived when we placed the order, as our total exceeded the $500 threshold for free delivery.\n\nCould you issue a corrected invoice? We will pay within seven days of receiving it, as usual.\n\nRegards,\nDinh Tran, Office Manager\n\n---\n\nINVOICE 44219 — Merridew Supplies\nDate: 1 May · Customer: Brightleaf Ltd · Ref: PO-8871\n\nA4 paper, 60 boxes @ $9.00 ......... $540.00\nBlack ink cartridges, 12 @ $22.00 ... $264.00\nDesk lamps, 4 @ $31.00 ............. $124.00\nDelivery charge ..................... $45.00\nTOTAL .............................. $973.00\n\nPayment terms: 30 days from invoice date.",
+    "timeLimitSec": 320,
+    "questions": [
+      {
+        "id": "p7-176",
+        "kind": "mcq",
+        "prompt": "176. Why did Mr Tran write the email?",
+        "options": [
+          {
+            "id": "a",
+            "text": "To place a new order"
+          },
+          {
+            "id": "b",
+            "text": "To request a delivery date"
+          },
+          {
+            "id": "c",
+            "text": "To report errors on an invoice"
+          },
+          {
+            "id": "d",
+            "text": "To cancel a purchase order"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'Two items do not match our purchase order'. Câu hỏi mục đích luôn nằm ở đoạn đầu email."
+      },
+      {
+        "id": "p7-177",
+        "kind": "mcq",
+        "prompt": "177. How many boxes of A4 paper should have been invoiced?",
+        "options": [
+          {
+            "id": "a",
+            "text": "12"
+          },
+          {
+            "id": "b",
+            "text": "60"
+          },
+          {
+            "id": "c",
+            "text": "The email does not say."
+          },
+          {
+            "id": "d",
+            "text": "40"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'we ordered 40 boxes of A4 paper, not 60'. Hoá đơn ghi 60 — đó là chỗ sai."
+      },
+      {
+        "id": "p7-178",
+        "kind": "mcq",
+        "prompt": "178. What will the corrected total be, once both errors are fixed?",
+        "options": [
+          {
+            "id": "a",
+            "text": "$748.00"
+          },
+          {
+            "id": "b",
+            "text": "$793.00"
+          },
+          {
+            "id": "c",
+            "text": "$928.00"
+          },
+          {
+            "id": "d",
+            "text": "$973.00"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "Giấy đúng là 40 × $9 = $360, giảm $180; bỏ phí giao hàng $45. $973 − $180 − $45 = $748. Bắt buộc ghép hai văn bản."
+      },
+      {
+        "id": "p7-179",
+        "kind": "mcq",
+        "prompt": "179. Why does Mr Tran believe delivery should be free?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Because the goods arrived late"
+          },
+          {
+            "id": "b",
+            "text": "Because the order exceeded $500"
+          },
+          {
+            "id": "c",
+            "text": "Because delivery is always free for regular customers"
+          },
+          {
+            "id": "d",
+            "text": "Because he collected the goods himself"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'our total exceeded the $500 threshold for free delivery'."
+      },
+      {
+        "id": "p7-180",
+        "kind": "mcq",
+        "prompt": "180. What is suggested about the payment schedule?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Brightleaf will pay 30 days after the original invoice date."
+          },
+          {
+            "id": "b",
+            "text": "Merridew has refused to change the terms."
+          },
+          {
+            "id": "c",
+            "text": "Brightleaf intends to pay faster than the stated terms."
+          },
+          {
+            "id": "d",
+            "text": "Payment has already been made in full."
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "Hoá đơn ghi 30 ngày, nhưng email nói sẽ trả 'within seven days of receiving' hoá đơn sửa. Ghép hai chi tiết mới ra hàm ý."
+      }
+    ]
+  },
+  {
+    "id": "reading-part7-d2",
+    "skill": "reading",
+    "title": "Part 7 — Double passage 2: advertisement and email",
+    "format": "TOEIC Reading — Part 7 · Double passage (câu 181–185)",
+    "instructionsVi": "Bộ hai văn bản, 5 câu. Có một câu tính toán dựa trên điều kiện nằm ở văn bản thứ nhất và dữ kiện nằm ở văn bản thứ hai.",
+    "promptEn": "Refer to the following advertisement and email, then answer the questions.",
+    "passage": "ADVERTISEMENT\nHARBOURSIDE SELF-STORAGE — Fairport\n\nUnit sizes and monthly rates:\nSmall (25 sq ft) — $48\nMedium (50 sq ft) — $79\nLarge (100 sq ft) — $135\nExtra large (200 sq ft) — $240\n\n· First month half price for new customers.\n· 10% discount on any unit booked for six months or more, applied from month two onwards.\n· 24-hour access included. Insurance is not included and must be arranged separately.\n· Units may be changed once during a contract at no charge.\n\n---\n\nEMAIL\nFrom: r.beck@example.com\nTo: enquiries@harboursidestorage.example\nDate: 12 August\nSubject: Unit enquiry\n\nHello,\n\nI am moving out of my flat next month and need storage for eight months while I am working abroad.\n\nI have measured what I need to store and it comes to roughly 90 square feet, so I assume the large unit is right, though I would rather not pay for space I do not use.\n\nTwo questions. First, do I need to arrange my own insurance, or is it included? Second, if my plans change and I return earlier than expected, can I move to a smaller unit partway through?\n\nRegards,\nRowan Beck",
+    "timeLimitSec": 320,
+    "questions": [
+      {
+        "id": "p7-181",
+        "kind": "mcq",
+        "prompt": "181. Which unit is most suitable for Mr Beck?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Small"
+          },
+          {
+            "id": "b",
+            "text": "Medium"
+          },
+          {
+            "id": "c",
+            "text": "Large"
+          },
+          {
+            "id": "d",
+            "text": "Extra large"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "Ông ta cần khoảng 90 sq ft; Medium chỉ 50, nên phải lên Large (100). Ghép số đo trong email với bảng giá."
+      },
+      {
+        "id": "p7-182",
+        "kind": "mcq",
+        "prompt": "182. Will Mr Beck qualify for the six-month discount?",
+        "options": [
+          {
+            "id": "a",
+            "text": "No, the discount applies only to small units."
+          },
+          {
+            "id": "b",
+            "text": "No, he must pay for twelve months."
+          },
+          {
+            "id": "c",
+            "text": "Only if he pays in advance."
+          },
+          {
+            "id": "d",
+            "text": "Yes, because he needs eight months."
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'10% discount on any unit booked for six months or more' — ông ta cần tám tháng nên đủ điều kiện."
+      },
+      {
+        "id": "p7-183",
+        "kind": "mcq",
+        "prompt": "183. How much will Mr Beck pay for his first month?",
+        "options": [
+          {
+            "id": "a",
+            "text": "$39.50"
+          },
+          {
+            "id": "b",
+            "text": "$67.50"
+          },
+          {
+            "id": "c",
+            "text": "$121.50"
+          },
+          {
+            "id": "d",
+            "text": "$135.00"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "Large là $135, tháng đầu nửa giá = $67,50. Mức giảm 10% chỉ áp dụng 'from month two onwards', nên không cộng dồn ở tháng đầu — đây là bẫy chính."
+      },
+      {
+        "id": "p7-184",
+        "kind": "mcq",
+        "prompt": "184. What is the answer to Mr Beck's first question?",
+        "options": [
+          {
+            "id": "a",
+            "text": "He must arrange insurance separately."
+          },
+          {
+            "id": "b",
+            "text": "Insurance is included in the rate."
+          },
+          {
+            "id": "c",
+            "text": "Insurance is optional for long contracts."
+          },
+          {
+            "id": "d",
+            "text": "The advertisement does not say."
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'Insurance is not included and must be arranged separately'."
+      },
+      {
+        "id": "p7-185",
+        "kind": "mcq",
+        "prompt": "185. What is the answer to Mr Beck's second question?",
+        "options": [
+          {
+            "id": "a",
+            "text": "He may change unit once at no charge."
+          },
+          {
+            "id": "b",
+            "text": "Changes are not permitted mid-contract."
+          },
+          {
+            "id": "c",
+            "text": "A fee applies to any change."
+          },
+          {
+            "id": "d",
+            "text": "He must sign a new contract."
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'Units may be changed once during a contract at no charge'."
+      }
+    ]
+  }
+]

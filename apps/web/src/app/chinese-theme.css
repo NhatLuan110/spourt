@@ -1,0 +1,29 @@
+/*
+ * Biến riêng cho ngăn tiếng Trung. Để ở tệp riêng thay vì thêm vào globals.css
+ * nhằm giữ đúng nguyên tắc không đụng phần tiếng Anh; trang nào cần thì nhập vào.
+ */
+
+:root {
+  /* Nét kẻ ô tập viết. Đủ nhạt để không át chữ, đủ đậm để máy in bắt được. */
+  --hanzi-grid: #c9b8a8;
+  --hanzi-grid-strong: #a8917c;
+
+  /*
+   * Không nhúng phông tiếng Trung qua next/font: bộ chữ Hán nặng hàng megabyte
+   * và máy dựng ở đây rất chật bộ nhớ. Chữ trên bảng tập viết vẽ bằng đường SVG
+   * nên không phụ thuộc phông; chỗ nào hiển thị chữ chạy thì dùng phông hệ thống.
+   */
+  --font-hanzi: 'Noto Sans SC', 'Source Han Sans SC', 'Microsoft YaHei', 'PingFang SC',
+    'Hiragino Sans GB', 'WenQuanYi Micro Hei', 'SimSun', sans-serif;
+
+  /* Màu năm thanh điệu, dùng thống nhất ở mọi chỗ hiện pinyin. */
+  --tone-1: #d1495b;
+  --tone-2: #e08b2f;
+  --tone-3: #2f8f5b;
+  --tone-4: #3a6ea5;
+  --tone-5: #8a8a8a;
+}
+
+.hanzi {
+  font-family: var(--font-hanzi);
+}

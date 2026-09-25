@@ -1,0 +1,327 @@
+@import 'tailwindcss';
+
+/*
+ * §3.2 — the design tokens. Nothing in the app hardcodes a colour; every
+ * component reads these variables so the two themes stay in step.
+ */
+:root {
+  /* Surfaces */
+  --bg: #fbfaf5;
+  /*
+   * D-110 — bề mặt trong mờ để ảnh danh thắng phía sau còn nhìn thấy được.
+   * `--surface-solid` giữ bản đục cho những chỗ bắt buộc phải kín: sidebar,
+   * thanh dưới, và giấy tập viết khi in.
+   */
+  --surface-solid: #ffffff;
+  --surface: rgb(255 255 255 / 0.65);
+  /* Lớp phủ trên ảnh nền. Giao diện sáng dùng veil sáng để chữ đen còn tương
+     phản; giao diện tối dùng veil tối. Xem D-110. */
+  --scenery-scrim: linear-gradient(to bottom, rgb(251 250 245 / 16%), rgb(251 250 245 / 28%));
+  --surface-alt: rgb(242 239 230 / 0.7);
+  --surface-sunken: rgb(237 233 220 / 0.78);
+  --border: #e2ddce;
+  --border-strong: #cfc7b2;
+
+  /* Text */
+  --text: #1f2a24;
+  --text-muted: #4e5a52;
+  --text-subtle: #515954;
+  --text-inverse: #fbfaf5;
+
+  /* Leaf — the single primary colour */
+  --primary: #3f7d58;
+  --primary-hover: #356b4b;
+  --primary-active: #2c5a3f;
+  --primary-soft: #e7f0e9;
+  --primary-ring: rgb(63 125 88 / 0.25);
+
+  /* Honey — the single accent: XP, coins, streak */
+  --accent: #e4b363;
+  --accent-hover: #d6a24e;
+  --accent-soft: #fbf0db;
+
+  /* Semantic */
+  --success: #4f9a5c;
+  --success-soft: #e6f2e8;
+  --warning: #c98a3c;
+  --warning-soft: #faeedc;
+  --danger: #b4553f;
+  --danger-soft: #f7e5e0;
+  --info: #6e9dab;
+  --info-soft: #e6eff2;
+
+  /* Decorative */
+  --bark: #6b5844;
+  --moss: #8aa98f;
+  --clay: #c08a6e;
+
+  /* Shadows always carry a green tint, never black */
+  --shadow-sm: 0 1px 2px rgb(31 42 36 / 0.06);
+  --shadow-md: 0 2px 8px rgb(31 42 36 / 0.08);
+  --shadow-lg: 0 8px 24px rgb(31 42 36 / 0.1);
+
+  /* Radii */
+  --r-sm: 6px;
+  --r-md: 12px;
+  --r-lg: 16px;
+  --r-xl: 24px;
+  --r-full: 9999px;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme='light']) {
+    --bg: #101a15;
+    --surface-solid: #16231c;
+    --surface: rgb(22 35 28 / 0.65);
+    --scenery-scrim: linear-gradient(to bottom, rgb(8 14 11 / 26%), rgb(8 14 11 / 42%));
+    --surface-alt: rgb(29 44 35 / 0.7);
+    --surface-sunken: rgb(12 20 16 / 0.78);
+    --border: #2a3b31;
+    --border-strong: #3a4f43;
+
+    --text: #e8efe9;
+    --text-muted: #9bafa2;
+    --text-subtle: #97b1a1;
+    --text-inverse: #101a15;
+
+    --primary: #6fb98b;
+    --primary-hover: #82c79a;
+    --primary-active: #97d4ab;
+    --primary-soft: #1e3327;
+    --primary-ring: rgb(111 185 139 / 0.3);
+
+    --accent: #e8c083;
+    --accent-hover: #f0cd97;
+    --accent-soft: #33291a;
+
+    --success: #6fb98b;
+    --success-soft: #1e3327;
+    --warning: #dda55c;
+    --warning-soft: #33291a;
+    --danger: #d08268;
+    --danger-soft: #34211b;
+    --info: #8fbac7;
+    --info-soft: #172a30;
+
+    --bark: #a08a6d;
+    --moss: #8aa98f;
+    --clay: #c08a6e;
+  }
+}
+
+:root[data-theme='dark'] {
+  --bg: #101a15;
+  --surface-solid: #16231c;
+  --surface: rgb(22 35 28 / 0.65);
+  --scenery-scrim: linear-gradient(to bottom, rgb(8 14 11 / 26%), rgb(8 14 11 / 42%));
+  --surface-alt: rgb(29 44 35 / 0.7);
+  --surface-sunken: rgb(12 20 16 / 0.78);
+  --border: #2a3b31;
+  --border-strong: #3a4f43;
+
+  --text: #e8efe9;
+  --text-muted: #9bafa2;
+  --text-subtle: #97b1a1;
+  --text-inverse: #101a15;
+
+  --primary: #6fb98b;
+  --primary-hover: #82c79a;
+  --primary-active: #97d4ab;
+  --primary-soft: #1e3327;
+  --primary-ring: rgb(111 185 139 / 0.3);
+
+  --accent: #e8c083;
+  --accent-hover: #f0cd97;
+  --accent-soft: #33291a;
+
+  --success: #6fb98b;
+  --success-soft: #1e3327;
+  --warning: #dda55c;
+  --warning-soft: #33291a;
+  --danger: #d08268;
+  --danger-soft: #34211b;
+  --info: #8fbac7;
+  --info-soft: #172a30;
+}
+
+/* Tailwind v4 reads the tokens above through @theme, so utility classes such as
+   bg-surface or text-muted resolve to the same variables the components use. */
+@theme inline {
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-surface-alt: var(--surface-alt);
+  --color-surface-sunken: var(--surface-sunken);
+  --color-border: var(--border);
+  --color-border-strong: var(--border-strong);
+
+  --color-text: var(--text);
+  --color-text-muted: var(--text-muted);
+  --color-text-subtle: var(--text-subtle);
+  --color-text-inverse: var(--text-inverse);
+
+  --color-primary: var(--primary);
+  --color-primary-hover: var(--primary-hover);
+  --color-primary-active: var(--primary-active);
+  --color-primary-soft: var(--primary-soft);
+
+  --color-accent: var(--accent);
+  --color-accent-hover: var(--accent-hover);
+  --color-accent-soft: var(--accent-soft);
+
+  --color-success: var(--success);
+  --color-success-soft: var(--success-soft);
+  --color-warning: var(--warning);
+  --color-warning-soft: var(--warning-soft);
+  --color-danger: var(--danger);
+  --color-danger-soft: var(--danger-soft);
+  --color-info: var(--info);
+  --color-info-soft: var(--info-soft);
+
+  --color-bark: var(--bark);
+  --color-moss: var(--moss);
+  --color-clay: var(--clay);
+
+  --radius-sm: var(--r-sm);
+  --radius-md: var(--r-md);
+  --radius-lg: var(--r-lg);
+  --radius-xl: var(--r-xl);
+
+  --shadow-sm: var(--shadow-sm);
+  --shadow-md: var(--shadow-md);
+  --shadow-lg: var(--shadow-lg);
+
+  --font-heading: var(--font-fraunces), Lora, Georgia, serif;
+  --font-sans: var(--font-be-vietnam), Inter, system-ui, sans-serif;
+  --font-ipa: var(--font-charis), 'Doulos SIL', 'Gentium Plus', serif;
+  --font-mono: ui-monospace, 'JetBrains Mono', monospace;
+}
+
+html {
+  color-scheme: light dark;
+}
+
+body {
+  background-color: var(--bg);
+  color: var(--text);
+  font-family: var(--font-sans);
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: var(--font-heading);
+  line-height: 1.25;
+  font-weight: 600;
+}
+
+/* IPA needs a font with full phonetic coverage (§3.3). */
+.ipa {
+  font-family: var(--font-ipa);
+  font-feature-settings: 'kern' 1;
+}
+
+/* Focus is always visible and always the primary ring (§11 accessibility). */
+:where(a, button, input, textarea, select, [tabindex]):focus-visible {
+  outline: 2px solid var(--primary);
+  outline-offset: 2px;
+  border-radius: var(--r-sm);
+}
+
+/* §3.1 — every animation stops for people who ask for less motion. */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Faint topographic contour for empty and landing pages (§3.5). */
+.contour-bg {
+  background-image: radial-gradient(
+    circle at 50% 50%,
+    transparent 0,
+    transparent 38px,
+    var(--moss) 38px,
+    var(--moss) 39px,
+    transparent 39px
+  );
+  background-size: 120px 120px;
+  opacity: 0.03;
+}
+
+/* A leaf-shaped progress ring, used instead of a plain circle (§3.5). */
+.leaf-path {
+  transition: stroke-dashoffset 300ms ease-out;
+}
+
+@keyframes leaf-sway {
+  0%,
+  100% {
+    transform: rotate(-1.5deg);
+  }
+  50% {
+    transform: rotate(1.5deg);
+  }
+}
+
+.leaf-hover:hover {
+  animation: leaf-sway 300ms ease-in-out;
+}
+
+/* ---------------------------------------------------------------------------
+ * D-107 — Các bề mặt do trình duyệt vẽ.
+ *
+ * Vệt bôi đen, con trỏ nhập, thanh cuộn và vòng focus mặc định không thuộc bảng
+ * màu nào. Để nguyên thì trang trông như được lắp ghép chứ không phải được
+ * thiết kế, và đây là chỗ rẻ nhất để sửa.
+ * ------------------------------------------------------------------------ */
+
+::selection {
+  background-color: color-mix(in oklab, var(--primary) 26%, transparent);
+  color: var(--text);
+}
+
+:root {
+  color-scheme: light dark;
+  caret-color: var(--primary);
+  scrollbar-color: var(--border-strong) transparent;
+  scrollbar-width: thin;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: var(--border-strong);
+  border: 3px solid transparent;
+  border-radius: var(--r-full);
+  background-clip: content-box;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: var(--text-subtle);
+}
+
+:where(a, button, input, textarea, select, [tabindex]):focus-visible {
+  outline: 2px solid var(--primary);
+  outline-offset: 2px;
+  border-radius: var(--r-sm);
+}
+
+/* Số liệu xếp cột phải thẳng hàng, nếu không mắt đọc bảng bị nhảy. */
+.tabular {
+  font-variant-numeric: tabular-nums;
+}

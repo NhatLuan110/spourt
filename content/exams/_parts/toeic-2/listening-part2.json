@@ -1,0 +1,641 @@
+[
+  {
+    "id": "listening-part2-question-response",
+    "skill": "listening",
+    "title": "Part 2 — Question–Response",
+    "format": "TOEIC Listening — Part 2 · Question–Response, 25 câu, ba lựa chọn, chỉ nghe không có chữ",
+    "instructionsVi": "Nghe một câu hỏi hoặc câu trần thuật rồi chọn phản hồi hợp lý nhất. Ở mục tiêu 650 xuất hiện nhiều câu hỏi gián tiếp và câu trần thuật cần phản hồi, không chỉ câu hỏi Wh- đơn giản.",
+    "promptEn": "You will hear a question or statement followed by three responses. Choose the most appropriate response for each of the 25 items.",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "7",
+        "text": "Do you know whether the Kellerman file has been archived yet?"
+      },
+      {
+        "speaker": "8",
+        "text": "I thought the quarterly figures were due last week."
+      },
+      {
+        "speaker": "9",
+        "text": "Should we take the train or drive to the Bristol office?"
+      },
+      {
+        "speaker": "10",
+        "text": "Why don't we move the review to next Monday?"
+      },
+      {
+        "speaker": "11",
+        "text": "Where can I find the safety data sheets?"
+      },
+      {
+        "speaker": "12",
+        "text": "How often does the committee meet?"
+      },
+      {
+        "speaker": "13",
+        "text": "The projector in room four keeps switching off."
+      },
+      {
+        "speaker": "14",
+        "text": "Has the new starter been given a security pass?"
+      },
+      {
+        "speaker": "15",
+        "text": "Would you mind covering the front desk for an hour?"
+      },
+      {
+        "speaker": "16",
+        "text": "Who approved this purchase order?"
+      },
+      {
+        "speaker": "17",
+        "text": "Aren't the samples supposed to ship today?"
+      },
+      {
+        "speaker": "18",
+        "text": "What did the auditors say about the stock records?"
+      },
+      {
+        "speaker": "19",
+        "text": "I can't find the minutes from last month's meeting."
+      },
+      {
+        "speaker": "20",
+        "text": "Could you remind me when the lease expires?"
+      },
+      {
+        "speaker": "21",
+        "text": "Do you prefer the morning session or the afternoon one?"
+      },
+      {
+        "speaker": "22",
+        "text": "How did the trial run go?"
+      },
+      {
+        "speaker": "23",
+        "text": "This is the second delivery that's arrived damaged."
+      },
+      {
+        "speaker": "24",
+        "text": "Where should I put the returns until Friday?"
+      },
+      {
+        "speaker": "25",
+        "text": "Didn't you say the deadline had been extended?"
+      },
+      {
+        "speaker": "26",
+        "text": "Why was the training cancelled?"
+      },
+      {
+        "speaker": "27",
+        "text": "Shall I book the meeting room for two hours or three?"
+      },
+      {
+        "speaker": "28",
+        "text": "You've worked with this supplier before, haven't you?"
+      },
+      {
+        "speaker": "29",
+        "text": "The invoice needs approving before the end of the day."
+      },
+      {
+        "speaker": "30",
+        "text": "How many copies of the report do we need?"
+      },
+      {
+        "speaker": "31",
+        "text": "When will the results be published?"
+      }
+    ],
+    "timeLimitSec": 600,
+    "questions": [
+      {
+        "id": "p2-7",
+        "kind": "mcq",
+        "prompt": "7. Do you know whether the Kellerman file has been archived yet?",
+        "options": [
+          {
+            "id": "a",
+            "text": "In the second cabinet."
+          },
+          {
+            "id": "b",
+            "text": "Rina handles the archiving now."
+          },
+          {
+            "id": "c",
+            "text": "Yes, I filed my taxes."
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "Chuyển câu hỏi sang người phụ trách là dạng trả lời gián tiếp hợp lệ. (C) lặp gốc từ 'file/filed' — bẫy đồng âm."
+      },
+      {
+        "id": "p2-8",
+        "kind": "mcq",
+        "prompt": "8. I thought the quarterly figures were due last week.",
+        "options": [
+          {
+            "id": "a",
+            "text": "About fifteen per cent higher."
+          },
+          {
+            "id": "b",
+            "text": "The meeting is quarterly."
+          },
+          {
+            "id": "c",
+            "text": "They were, but the deadline moved."
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "Câu trần thuật thể hiện bối rối, cần lời giải thích. (B) lặp từ 'quarterly' mà không trả lời gì."
+      },
+      {
+        "id": "p2-9",
+        "kind": "mcq",
+        "prompt": "9. Should we take the train or drive to the Bristol office?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Driving is cheaper for three of us."
+          },
+          {
+            "id": "b",
+            "text": "It arrived on time."
+          },
+          {
+            "id": "c",
+            "text": "The office moved last year."
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "Câu hỏi lựa chọn cần chọn một bên kèm lý do. (B) và (C) lặp chủ đề nhưng không chọn phương án nào."
+      },
+      {
+        "id": "p2-10",
+        "kind": "mcq",
+        "prompt": "10. Why don't we move the review to next Monday?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Monday works better for me too."
+          },
+          {
+            "id": "b",
+            "text": "Because it was reviewed."
+          },
+          {
+            "id": "c",
+            "text": "I moved house in March."
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'Why don't we…' là ĐỀ NGHỊ, không phải hỏi lý do. (B) trả lời như thể hỏi 'why' — đúng bẫy của dạng này."
+      },
+      {
+        "id": "p2-11",
+        "kind": "mcq",
+        "prompt": "11. Where can I find the safety data sheets?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Safety is everyone's responsibility."
+          },
+          {
+            "id": "b",
+            "text": "Every six months."
+          },
+          {
+            "id": "c",
+            "text": "They're on the intranet under Compliance."
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'Where' cần vị trí. (A) lặp từ 'safety' theo kiểu khẩu hiệu, (B) trả lời tần suất."
+      },
+      {
+        "id": "p2-12",
+        "kind": "mcq",
+        "prompt": "12. How often does the committee meet?",
+        "options": [
+          {
+            "id": "a",
+            "text": "In the boardroom."
+          },
+          {
+            "id": "b",
+            "text": "Once a fortnight."
+          },
+          {
+            "id": "c",
+            "text": "About twelve members."
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'How often' cần tần suất. (A) trả lời nơi chốn, (C) trả lời số lượng."
+      },
+      {
+        "id": "p2-13",
+        "kind": "mcq",
+        "prompt": "13. The projector in room four keeps switching off.",
+        "options": [
+          {
+            "id": "a",
+            "text": "Room four is on the second floor."
+          },
+          {
+            "id": "b",
+            "text": "Try the one in room six for now."
+          },
+          {
+            "id": "c",
+            "text": "I projected the figures for next year."
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "Câu trần thuật nêu vấn đề, phản hồi hợp lý là gợi ý giải pháp. (A) lặp 'room four', (C) lặp gốc từ 'project'."
+      },
+      {
+        "id": "p2-14",
+        "kind": "mcq",
+        "prompt": "14. Has the new starter been given a security pass?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Not until her contract is signed."
+          },
+          {
+            "id": "b",
+            "text": "She started on Monday."
+          },
+          {
+            "id": "c",
+            "text": "I passed the security check."
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "Trả lời phủ định có điều kiện. (B) lặp gốc từ 'start', (C) lặp gốc từ 'pass' theo nghĩa khác."
+      },
+      {
+        "id": "p2-15",
+        "kind": "mcq",
+        "prompt": "15. Would you mind covering the front desk for an hour?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The desk is by the entrance."
+          },
+          {
+            "id": "b",
+            "text": "I covered it in the report."
+          },
+          {
+            "id": "c",
+            "text": "Not at all, what time?"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'Would you mind…' được trả lời bằng 'Not at all' nghĩa là đồng ý. (B) lặp gốc từ 'cover' theo nghĩa khác."
+      },
+      {
+        "id": "p2-16",
+        "kind": "mcq",
+        "prompt": "16. Who approved this purchase order?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Ms Duarte, before she went on leave."
+          },
+          {
+            "id": "b",
+            "text": "It's order number 4471."
+          },
+          {
+            "id": "c",
+            "text": "Last Tuesday afternoon."
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'Who' cần tên người. (B) và (C) trả lời sai loại câu hỏi dù đều liên quan tới đơn hàng."
+      },
+      {
+        "id": "p2-17",
+        "kind": "mcq",
+        "prompt": "17. Aren't the samples supposed to ship today?",
+        "options": [
+          {
+            "id": "a",
+            "text": "It's a free sample."
+          },
+          {
+            "id": "b",
+            "text": "The ship docks at noon."
+          },
+          {
+            "id": "c",
+            "text": "They are, once the labels arrive."
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "Câu hỏi phủ định vẫn trả lời theo sự thật. (B) lặp từ 'ship' theo nghĩa con tàu — bẫy đa nghĩa."
+      },
+      {
+        "id": "p2-18",
+        "kind": "mcq",
+        "prompt": "18. What did the auditors say about the stock records?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The stock room is downstairs."
+          },
+          {
+            "id": "b",
+            "text": "They found two discrepancies."
+          },
+          {
+            "id": "c",
+            "text": "Three auditors came."
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "Câu hỏi về NỘI DUNG nhận xét. (C) trả lời số lượng người, (A) lặp từ 'stock' theo nghĩa kho."
+      },
+      {
+        "id": "p2-19",
+        "kind": "mcq",
+        "prompt": "19. I can't find the minutes from last month's meeting.",
+        "options": [
+          {
+            "id": "a",
+            "text": "It only takes ten minutes."
+          },
+          {
+            "id": "b",
+            "text": "Priya emailed them round on the fifth."
+          },
+          {
+            "id": "c",
+            "text": "The meeting is on Thursday."
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'Minutes' ở đây là biên bản họp, không phải đơn vị thời gian — (A) chính là bẫy đa nghĩa."
+      },
+      {
+        "id": "p2-20",
+        "kind": "mcq",
+        "prompt": "20. Could you remind me when the lease expires?",
+        "options": [
+          {
+            "id": "a",
+            "text": "We leased two floors."
+          },
+          {
+            "id": "b",
+            "text": "I'll remind him tomorrow."
+          },
+          {
+            "id": "c",
+            "text": "End of March next year."
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "Yêu cầu nhắc lại thông tin thời gian. (B) lặp gốc từ 'remind' nhưng đổi người."
+      },
+      {
+        "id": "p2-21",
+        "kind": "mcq",
+        "prompt": "21. Do you prefer the morning session or the afternoon one?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Either suits me."
+          },
+          {
+            "id": "b",
+            "text": "Yes, I prefer it."
+          },
+          {
+            "id": "c",
+            "text": "It lasts two hours."
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "Câu hỏi lựa chọn không trả lời bằng Yes/No, nên (B) loại ngay. 'Either suits me' là đáp án đúng hợp lệ."
+      },
+      {
+        "id": "p2-22",
+        "kind": "mcq",
+        "prompt": "22. How did the trial run go?",
+        "options": [
+          {
+            "id": "a",
+            "text": "I ran to the station."
+          },
+          {
+            "id": "b",
+            "text": "Better than expected, actually."
+          },
+          {
+            "id": "c",
+            "text": "It runs on Tuesdays."
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'How did it go' hỏi kết quả. (A) và (C) đều lặp gốc từ 'run' theo nghĩa khác."
+      },
+      {
+        "id": "p2-23",
+        "kind": "mcq",
+        "prompt": "23. This is the second delivery that's arrived damaged.",
+        "options": [
+          {
+            "id": "a",
+            "text": "I know — I'm raising it with the courier."
+          },
+          {
+            "id": "b",
+            "text": "The delivery is on the second floor."
+          },
+          {
+            "id": "c",
+            "text": "Two boxes, I think."
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "Câu than phiền cần phản hồi đồng cảm kèm hành động. (B) và (C) bám vào từ 'second/two'."
+      },
+      {
+        "id": "p2-24",
+        "kind": "mcq",
+        "prompt": "24. Where should I put the returns until Friday?",
+        "options": [
+          {
+            "id": "a",
+            "text": "He returns on Friday."
+          },
+          {
+            "id": "b",
+            "text": "About twenty items."
+          },
+          {
+            "id": "c",
+            "text": "In the bay behind the loading dock."
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'Where' cần vị trí. (A) lặp gốc từ 'return' theo nghĩa quay lại."
+      },
+      {
+        "id": "p2-25",
+        "kind": "mcq",
+        "prompt": "25. Didn't you say the deadline had been extended?",
+        "options": [
+          {
+            "id": "a",
+            "text": "That was the old schedule."
+          },
+          {
+            "id": "b",
+            "text": "The extension is forty metres."
+          },
+          {
+            "id": "c",
+            "text": "Yes, it's a long line."
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "Câu hỏi phủ định kiểm chứng lại thông tin. (B) lặp gốc từ 'extend' theo nghĩa vật lý."
+      },
+      {
+        "id": "p2-26",
+        "kind": "mcq",
+        "prompt": "26. Why was the training cancelled?",
+        "options": [
+          {
+            "id": "a",
+            "text": "At nine in the morning."
+          },
+          {
+            "id": "b",
+            "text": "In the training room."
+          },
+          {
+            "id": "c",
+            "text": "Only four people signed up."
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'Why' cần lý do. (A) trả lời thời gian, (B) trả lời nơi chốn và lặp từ 'training'."
+      },
+      {
+        "id": "p2-27",
+        "kind": "mcq",
+        "prompt": "27. Shall I book the meeting room for two hours or three?",
+        "options": [
+          {
+            "id": "a",
+            "text": "I booked a flight."
+          },
+          {
+            "id": "b",
+            "text": "Make it three, to be safe."
+          },
+          {
+            "id": "c",
+            "text": "Room three is free."
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "Câu hỏi lựa chọn cần chọn một bên. (C) bám vào số 'three' nhưng hiểu thành số phòng."
+      },
+      {
+        "id": "p2-28",
+        "kind": "mcq",
+        "prompt": "28. You've worked with this supplier before, haven't you?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The work starts on Monday."
+          },
+          {
+            "id": "b",
+            "text": "Once, about three years ago."
+          },
+          {
+            "id": "c",
+            "text": "They supply packaging."
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "Câu hỏi đuôi cần xác nhận có chi tiết. (C) lặp gốc từ 'supply' và trả lời về ngành nghề."
+      },
+      {
+        "id": "p2-29",
+        "kind": "mcq",
+        "prompt": "29. The invoice needs approving before the end of the day.",
+        "options": [
+          {
+            "id": "a",
+            "text": "I'll sign it after this call."
+          },
+          {
+            "id": "b",
+            "text": "It's invoice 3320."
+          },
+          {
+            "id": "c",
+            "text": "The day ends at six."
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "Câu trần thuật hàm ý yêu cầu, phản hồi đúng là nhận việc. (B) và (C) lặp từ khoá mà không đáp lại."
+      },
+      {
+        "id": "p2-30",
+        "kind": "mcq",
+        "prompt": "30. How many copies of the report do we need?",
+        "options": [
+          {
+            "id": "a",
+            "text": "I copied the file."
+          },
+          {
+            "id": "b",
+            "text": "It reports monthly."
+          },
+          {
+            "id": "c",
+            "text": "One for each attendee."
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'How many' có thể trả lời gián tiếp bằng cách nêu quy tắc thay vì con số — dạng đáp án đúng hay bị loại nhầm."
+      },
+      {
+        "id": "p2-31",
+        "kind": "mcq",
+        "prompt": "31. When will the results be published?",
+        "options": [
+          {
+            "id": "a",
+            "text": "On the company website."
+          },
+          {
+            "id": "b",
+            "text": "The results were positive."
+          },
+          {
+            "id": "c",
+            "text": "Not before the board has seen them."
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'When' được trả lời bằng một mốc điều kiện. (A) trả lời nơi công bố, (B) lặp từ 'results'."
+      }
+    ]
+  }
+]

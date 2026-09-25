@@ -1,0 +1,289 @@
+# Bài đọc A2 — câu ngắn, từ vựng quen thuộc, nội dung gần đời sống.
+cefr: A2
+passages:
+  - slug: sleeping-better-on-a-busy-week
+    title: Sleeping Better on a Busy Week
+    titleVi: Ngủ ngon hơn trong một tuần bận rộn
+    topic: health
+    estimatedMinutes: 4
+    source: Sprout original
+    glossary: [sleep, stress, symptom, recover, exercise, anxiety]
+    body: |
+      Mai is a nurse at a hospital in Da Nang. Last month she worked six days a week,
+      and she slept only five hours a night. At first she felt fine. Then she started
+      to make small mistakes at work. She forgot names. She read the same sentence
+      three times before she understood it.
+
+      Her friend Trang, who studies public health, told her that this is common. She
+      said that stress and short nights make each other worse.
+      "Everyone thinks the first symptom of poor sleep is feeling tired," Trang said.
+      "But the first thing you lose is attention. You feel awake, and you still make
+      mistakes."
+
+      Mai decided to change three things.
+
+      First, she stopped drinking coffee after two o'clock. Caffeine stays in the body
+      for about six hours, so an afternoon coffee is still working at bedtime.
+
+      Second, she put her phone in another room. The screen was not the only problem.
+      When she read messages in bed, she started thinking about work, and the anxiety
+      kept her awake.
+
+      Third, she began a short walk after dinner. Light exercise in the early evening
+      helps the body relax later. Hard exercise late at night does the opposite.
+
+      After two weeks, Mai was sleeping seven hours a night. She still had busy days,
+      but she could recover from them. "I did not need more hours in bed," she said.
+      "I needed to stop fighting my own body at eleven o'clock every night."
+
+      Sleep is not a reward for finishing your work. It is the thing that makes the
+      work possible.
+    questions:
+      - type: MCQ
+        prompt: According to Trang, what is the first thing people lose when they sleep badly?
+        options: [Their attention, Their appetite, Their memory of names, Their energy]
+        answer: Their attention
+        explanationVi: "Trang nói rõ: \"the first thing you lose is attention\" — điều
+          đầu tiên mất đi là sự tập trung, chứ không phải cảm giác mệt."
+      - type: MCQ
+        prompt: Why did Mai stop drinking coffee after two o'clock?
+        options:
+          - Caffeine is still active about six hours later
+          - Coffee is expensive at the hospital
+          - Her doctor told her to stop completely
+          - She preferred tea in the afternoon
+        answer: Caffeine is still active about six hours later
+        explanationVi: "Bài đọc giải thích caffeine ở lại trong cơ thể khoảng sáu tiếng
+          nên cà phê buổi chiều vẫn còn tác dụng lúc đi ngủ."
+      - type: TRUE_FALSE
+        prompt: Đúng hay sai theo bài đọc?
+        statement: Mai moved her phone out of the bedroom mainly because of the screen light.
+        answer: false
+        explanationVi: "Sai. Bài viết nói rõ màn hình không phải vấn đề duy nhất — điều
+          giữ cô ấy thức là những suy nghĩ về công việc khi đọc tin nhắn."
+      - type: TRUE_FALSE
+        prompt: Đúng hay sai theo bài đọc?
+        statement: Hard exercise late at night helps the body relax.
+        answer: false
+        explanationVi: "Sai. Bài viết nói đi bộ nhẹ đầu buổi tối giúp thư giãn, còn tập
+          nặng khuya thì ngược lại."
+      - type: SHORT_ANSWER
+        prompt: How many hours a night was Mai sleeping after two weeks?
+        accept: [seven, "seven hours", "7", "7 hours"]
+        explanationVi: "Đoạn áp chót: \"After two weeks, Mai was sleeping seven hours
+          a night.\""
+      - type: SHORT_ANSWER
+        prompt: "Trong câu cuối, tác giả nói giấc ngủ không phải là gì? Trả lời bằng một từ tiếng Anh."
+        accept: [reward, "a reward"]
+        explanationVi: "\"Sleep is not a reward for finishing your work\" — giấc ngủ
+          không phải phần thưởng cho việc làm xong việc."
+
+  - slug: the-night-train-to-sapa
+    title: The Night Train to Sapa
+    titleVi: Chuyến tàu đêm đi Sa Pa
+    topic: travel
+    estimatedMinutes: 4
+    source: Sprout original
+    glossary: [journey, luggage, reservation, departure, delay, destination]
+    body: |
+      The night train from Hanoi to Lao Cai leaves at ten past nine. Most travellers
+      going to Sapa take it, because the journey lasts eight hours and you sleep
+      through almost all of it. You arrive at half past five in the morning, and a bus
+      takes you up the mountain in another hour.
+
+      Nam booked his reservation two weeks early. This matters more than tourists
+      expect. In March and April, when the rice terraces fill with water, the soft
+      sleeper cabins sell out days in advance.
+
+      He arrived at the station at half past eight. The departure board showed a delay
+      of twenty minutes, which nobody seemed surprised by. A woman selling bread told
+      him that twenty minutes on the board usually means forty in real life.
+
+      The cabin had four beds. Nam put his luggage under the lower bunk, which is the
+      only sensible place for it, and met his three neighbours: a German couple with
+      an enormous camera, and a student from Hue who was going home the long way.
+
+      The train moved slowly through the north of the city, then faster past dark
+      fields. Somebody in the next cabin was playing music quietly. By eleven o'clock
+      the lights were off.
+
+      Nam woke once, at about three in the morning, when the train stopped somewhere
+      with no name and no platform. He looked out and saw only fog and a single orange
+      lamp. Then the train started again, and he slept until the guard knocked.
+
+      The destination was cold, much colder than Hanoi, and the sky was still dark.
+      But the air smelled of woodsmoke and wet earth, and Nam understood immediately
+      why people take the slow way.
+    questions:
+      - type: MCQ
+        prompt: How long does the train journey take?
+        options: [Eight hours, Five hours, One hour, Ten hours]
+        answer: Eight hours
+        explanationVi: "\"the journey lasts eight hours\" — chuyến đi kéo dài tám tiếng."
+      - type: MCQ
+        prompt: Why does booking early matter especially in March and April?
+        options:
+          - The rice terraces attract many travellers and cabins sell out
+          - The train runs only twice a week
+          - Tickets are cheaper in those months
+          - The weather often cancels the service
+        answer: The rice terraces attract many travellers and cabins sell out
+        explanationVi: "Bài viết nói tháng Ba tháng Tư ruộng bậc thang đầy nước nên
+          khoang giường mềm hết chỗ trước nhiều ngày."
+      - type: TRUE_FALSE
+        prompt: Đúng hay sai theo bài đọc?
+        statement: The bread seller thought the real delay would be longer than the board said.
+        answer: true
+        explanationVi: "Đúng. Bà bán bánh mì nói hai mươi phút trên bảng thường có
+          nghĩa là bốn mươi phút thật."
+      - type: TRUE_FALSE
+        prompt: Đúng hay sai theo bài đọc?
+        statement: Nam shared his cabin with five other passengers.
+        answer: false
+        explanationVi: "Sai. Khoang có bốn giường và Nam gặp ba người: một cặp đôi người
+          Đức và một sinh viên."
+      - type: SHORT_ANSWER
+        prompt: Where did Nam put his luggage?
+        accept: ["under the lower bunk", "under the bunk", "under the lower bed"]
+        explanationVi: "\"Nam put his luggage under the lower bunk\" — dưới giường tầng dưới."
+      - type: SHORT_ANSWER
+        prompt: "Bài đọc kết thúc bằng việc Nam hiểu ra điều gì? Trả lời ngắn bằng tiếng Anh."
+        accept: ["why people take the slow way", "why people take the slow way to Sapa",
+                 "he understood why people take the slow way"]
+        explanationVi: "Câu cuối: \"Nam understood immediately why people take the slow
+          way\" — anh hiểu vì sao người ta chọn cách đi chậm."
+
+  - slug: the-first-week-at-a-new-job
+    title: The First Week at a New Job
+    titleVi: Tuần đầu ở công việc mới
+    topic: work
+    estimatedMinutes: 4
+    source: Sprout original
+    glossary: [colleague, arrive, minutes]
+    body: |
+      Huy started his new job on a Monday. He arrived twenty minutes early
+      because he was worried about the traffic, and then sat in a coffee shop
+      across the road until it was time to go in.
+
+      His manager gave him a laptop and a list of names. "Learn the names
+      first," she said. "Everything else can wait a week."
+
+      That advice turned out to be right. On Tuesday he needed a file and did
+      not know who kept it. On Wednesday he sent a question to the wrong team
+      and waited a whole day for an answer that never came. Both problems were
+      about people, not about the work itself.
+
+      By Thursday he had learned something else. Nobody expected him to be fast
+      yet. When he apologised for taking three hours on a small task, his
+      colleague laughed and said she had taken two days on the same thing in
+      her first month.
+
+      On Friday his manager asked how the week had gone. Huy said he still felt
+      slow. She nodded and said that was normal, and that the only thing she
+      wanted from his first month was questions.
+
+      "People who ask nothing in the first month," she said, "usually ask
+      everything in the third."
+    questions:
+      - type: MCQ
+        prompt: Why did Huy sit in a coffee shop before work?
+        options:
+          - He had arrived too early
+          - He needed breakfast
+          - He was meeting a colleague
+          - The office was closed
+        answer: He had arrived too early
+        explanationVi: "Anh ấy đến sớm hai mươi phút vì lo tắc đường, nên ngồi quán chờ."
+      - type: MCQ
+        prompt: What did the manager tell him to do first?
+        options: [Learn people's names, Read the manuals, Set up his laptop, Meet the clients]
+        answer: Learn people's names
+        explanationVi: "\"Learn the names first,\" she said."
+      - type: TRUE_FALSE
+        prompt: Đúng hay sai theo bài đọc?
+        statement: Huy's problems on Tuesday and Wednesday were about the work being too difficult.
+        answer: false
+        explanationVi: "Sai. Bài viết nói rõ cả hai vấn đề là về con người, không phải
+          về công việc."
+      - type: TRUE_FALSE
+        prompt: Đúng hay sai theo bài đọc?
+        statement: His colleague had once spent two days on a similar small task.
+        answer: true
+        explanationVi: "Đúng — đồng nghiệp kể tháng đầu cô ấy mất hai ngày cho cùng việc đó."
+      - type: SHORT_ANSWER
+        prompt: What did the manager say she wanted from his first month?
+        accept: [questions, "she wanted questions", "only questions"]
+        explanationVi: "\"the only thing she wanted from his first month was questions\"."
+      - type: SHORT_ANSWER
+        prompt: "Theo câu cuối, người không hỏi gì trong tháng đầu thì thường thế nào? Trả lời bằng tiếng Anh."
+        accept:
+          - "they ask everything in the third"
+          - "usually ask everything in the third"
+          - "ask everything in the third month"
+        explanationVi: "\"usually ask everything in the third\" — hỏi dồn hết vào tháng
+          thứ ba."
+
+  - slug: the-bus-that-was-always-late
+    title: The Bus That Was Always Late
+    titleVi: Chuyến xe buýt lúc nào cũng trễ
+    topic: travel
+    estimatedMinutes: 4
+    source: Sprout original
+    glossary: [neighbourhood, arrival, arrive, minutes]
+    body: |
+      The number twelve bus was famous in our neighbourhood for being late. Not
+      a little late. Twenty, thirty minutes late, every single morning.
+
+      For two years I complained about it. So did everyone else at the stop. We
+      complained together, which made the waiting easier but did not make the
+      bus arrive.
+
+      Then one morning an old man at the stop said something that changed how I
+      travelled. He said, "The bus is not late. You are early."
+
+      I told him that was not true. The timetable said seven fifteen.
+
+      He laughed and showed me his phone. He had written down the real arrival
+      time every day for a month. The bus came at seven forty, give or take five
+      minutes, almost every day. It was not unpredictable. It was just wrong on
+      paper.
+
+      After that I stopped leaving my house at seven. I left at seven thirty and
+      waited eight minutes instead of thirty. I got twenty-two minutes of my
+      morning back, and I stopped being angry before nine o'clock.
+
+      The bus never improved. I did.
+    questions:
+      - type: MCQ
+        prompt: How late was the number twelve bus, usually?
+        options: [Twenty to thirty minutes, Five minutes, An hour, It changed every day]
+        answer: Twenty to thirty minutes
+        explanationVi: "\"Twenty, thirty minutes late, every single morning.\""
+      - type: MCQ
+        prompt: What had the old man done for a month?
+        options:
+          - Written down the real arrival time each day
+          - Complained to the bus company
+          - Taken a different bus
+          - Walked to work
+        answer: Written down the real arrival time each day
+        explanationVi: "\"He had written down the real arrival time every day for a month.\""
+      - type: TRUE_FALSE
+        prompt: Đúng hay sai theo bài đọc?
+        statement: The bus arrival time was unpredictable from one day to the next.
+        answer: false
+        explanationVi: "Sai. Bài viết nói \"It was not unpredictable. It was just wrong
+          on paper\" — giờ đến ổn định, chỉ là lịch in sai."
+      - type: TRUE_FALSE
+        prompt: Đúng hay sai theo bài đọc?
+        statement: The bus service got better after the writer changed their habit.
+        answer: false
+        explanationVi: "Sai. Câu cuối: \"The bus never improved. I did.\""
+      - type: SHORT_ANSWER
+        prompt: What time did the bus actually arrive?
+        accept: ["seven forty", "7.40", "7:40", "twenty to eight"]
+        explanationVi: "\"The bus came at seven forty, give or take five minutes\"."
+      - type: SHORT_ANSWER
+        prompt: How many minutes did the writer get back each morning?
+        accept: ["twenty-two", "22", "twenty two", "22 minutes"]
+        explanationVi: "\"I got twenty-two minutes of my morning back\"."

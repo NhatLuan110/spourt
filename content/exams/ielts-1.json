@@ -1,0 +1,1007 @@
+{
+  "examId": "ielts",
+  "levelId": "1",
+  "vocabulary": [
+    {
+      "id": "significant",
+      "term": "significant",
+      "ipa": "/sɪɡˈnɪfɪkənt/",
+      "meaningVi": "đáng kể, quan trọng",
+      "definitionEn": "Large or important enough to have an effect or to be noticed.",
+      "example": "There was a significant drop in water use after the new rules came in.",
+      "exampleVi": "Lượng nước tiêu thụ giảm đáng kể sau khi quy định mới có hiệu lực.",
+      "collocations": [
+        "a significant increase",
+        "significant difference",
+        "significantly higher"
+      ]
+    },
+    {
+      "id": "consume",
+      "term": "consume",
+      "ipa": "/kənˈsjuːm/",
+      "meaningVi": "tiêu thụ, dùng hết",
+      "definitionEn": "To use up a resource such as fuel, time or energy.",
+      "example": "Older buildings consume far more energy than newer ones.",
+      "exampleVi": "Các toà nhà cũ tiêu thụ nhiều năng lượng hơn hẳn nhà mới.",
+      "collocations": [
+        "consume energy",
+        "consume resources",
+        "energy consumption"
+      ]
+    },
+    {
+      "id": "decline",
+      "term": "decline",
+      "ipa": "/dɪˈklaɪn/",
+      "meaningVi": "giảm sút, suy giảm",
+      "definitionEn": "To become smaller, fewer or weaker over a period of time.",
+      "example": "Bird numbers declined sharply between 1990 and 2010.",
+      "exampleVi": "Số lượng chim giảm mạnh trong giai đoạn 1990–2010.",
+      "collocations": [
+        "a steady decline",
+        "decline sharply",
+        "in decline"
+      ]
+    },
+    {
+      "id": "factor",
+      "term": "factor",
+      "ipa": "/ˈfæktə(r)/",
+      "meaningVi": "yếu tố, nhân tố",
+      "definitionEn": "One of several things that cause or influence a result.",
+      "example": "Cost is only one factor in the decision.",
+      "exampleVi": "Chi phí chỉ là một trong các yếu tố của quyết định này.",
+      "collocations": [
+        "a key factor",
+        "contributing factor",
+        "a range of factors"
+      ]
+    },
+    {
+      "id": "sufficient",
+      "term": "sufficient",
+      "ipa": "/səˈfɪʃnt/",
+      "meaningVi": "đủ, đầy đủ",
+      "definitionEn": "As much as is needed for a particular purpose.",
+      "example": "The rainfall was not sufficient to refill the reservoir.",
+      "exampleVi": "Lượng mưa không đủ để làm đầy lại hồ chứa.",
+      "collocations": [
+        "sufficient evidence",
+        "sufficient time",
+        "insufficient funding"
+      ]
+    },
+    {
+      "id": "primary",
+      "term": "primary",
+      "ipa": "/ˈpraɪməri/",
+      "meaningVi": "chính, chủ yếu",
+      "definitionEn": "Most important; coming before others in order or rank.",
+      "example": "The primary cause of the shortage was leaking pipes, not drought.",
+      "exampleVi": "Nguyên nhân chính của tình trạng thiếu nước là đường ống rò rỉ, không phải hạn hán.",
+      "collocations": [
+        "primary cause",
+        "primary source",
+        "primary concern"
+      ]
+    },
+    {
+      "id": "restrict",
+      "term": "restrict",
+      "ipa": "/rɪˈstrɪkt/",
+      "meaningVi": "hạn chế, giới hạn",
+      "definitionEn": "To limit the size, amount or range of something.",
+      "example": "The council restricted garden watering to two evenings a week.",
+      "exampleVi": "Hội đồng hạn chế việc tưới vườn xuống còn hai buổi tối mỗi tuần.",
+      "collocations": [
+        "restrict access",
+        "severely restricted",
+        "restrictions on"
+      ]
+    },
+    {
+      "id": "urban",
+      "term": "urban",
+      "ipa": "/ˈɜːbən/",
+      "meaningVi": "thuộc đô thị, thành thị",
+      "definitionEn": "Relating to a town or city rather than the countryside.",
+      "example": "Urban households used more water per person than rural ones.",
+      "exampleVi": "Hộ gia đình đô thị dùng nhiều nước bình quân đầu người hơn hộ nông thôn.",
+      "collocations": [
+        "urban area",
+        "urban population",
+        "urban development"
+      ]
+    },
+    {
+      "id": "monitor",
+      "term": "monitor",
+      "ipa": "/ˈmɒnɪtə(r)/",
+      "meaningVi": "theo dõi, giám sát",
+      "definitionEn": "To watch and check something over time to see how it changes.",
+      "example": "Sensors monitor the pressure in each section of the network.",
+      "exampleVi": "Cảm biến theo dõi áp suất ở từng đoạn của mạng lưới.",
+      "collocations": [
+        "closely monitor",
+        "monitor progress",
+        "monitoring system"
+      ]
+    },
+    {
+      "id": "alternative",
+      "term": "alternative",
+      "ipa": "/ɔːlˈtɜːnətɪv/",
+      "meaningVi": "phương án thay thế",
+      "definitionEn": "Something that can be chosen instead of another thing.",
+      "example": "Recycled water is a realistic alternative for industrial use.",
+      "exampleVi": "Nước tái chế là phương án thay thế khả thi cho mục đích công nghiệp.",
+      "collocations": [
+        "a viable alternative",
+        "alternative source",
+        "no alternative but to"
+      ]
+    },
+    {
+      "id": "estimate",
+      "term": "estimate",
+      "ipa": "/ˈestɪmeɪt/",
+      "meaningVi": "ước tính",
+      "definitionEn": "To judge the size or value of something approximately.",
+      "example": "The utility estimated losses at nineteen per cent.",
+      "exampleVi": "Đơn vị cấp nước ước tính thất thoát ở mức mười chín phần trăm.",
+      "collocations": [
+        "a rough estimate",
+        "conservative estimate",
+        "estimated at"
+      ]
+    },
+    {
+      "id": "capacity",
+      "term": "capacity",
+      "ipa": "/kəˈpæsəti/",
+      "meaningVi": "sức chứa, công suất",
+      "definitionEn": "The largest amount that something can hold or produce.",
+      "example": "The reservoir was at half its capacity by August.",
+      "exampleVi": "Đến tháng Tám, hồ chứa chỉ còn một nửa sức chứa.",
+      "collocations": [
+        "full capacity",
+        "storage capacity",
+        "at capacity"
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "id": "reading-city-water",
+      "skill": "reading",
+      "title": "Where a city's water actually goes",
+      "format": "IELTS Academic Reading — Passage 1 · Multiple choice + Sentence completion",
+      "instructionsVi": "Đọc bài rồi trả lời 5 câu. Câu điền từ chỉ viết TỐI ĐA HAI TỪ lấy nguyên văn trong bài. Đề luyện đặt câu hỏi theo cách diễn đạt lại, không lặp từ khoá của bài, nên khó hơn đề thi ở band này.",
+      "promptEn": "Read the passage and answer the five questions that follow.",
+      "passage": "When the city of Aldbury announced water restrictions in 2019, most residents assumed the problem was rainfall. The two previous winters had been dry, and the reservoir north of the city had dropped to just under half its capacity. Yet the engineers who examined the network reached a different conclusion. Rainfall had indeed fallen, but only by around eight per cent compared with the long-term average. Losses inside the pipes were a far larger drain on supply.\n\nAldbury's distribution network was laid in stages between 1890 and 1955, and roughly a third of it had never been replaced. Cast iron pipes of that age crack slowly rather than bursting dramatically, so the water escapes underground without any visible sign at street level. Before 2016 the utility estimated these losses using a simple annual calculation: water leaving the treatment plant, minus water recorded on customer meters. The gap was assumed to be leakage. It came to about nineteen per cent, a figure the utility described as broadly typical for a network of that age.\n\nThat method, however, could not say where the water was going. In 2016 the utility divided the network into forty-two zones and installed pressure sensors at the boundary of each one. Because a leaking zone loses pressure overnight when demand is almost nil, the sensors made it possible to rank zones by night-time pressure loss and send repair crews to the worst first. The revised estimate was uncomfortable: real losses were closer to twenty-six per cent, and more than half of that total came from just nine zones, all of them in the oldest part of the network.\n\nThe repair programme that followed cost £31 million over four years. By 2022 losses had fallen to fourteen per cent, releasing more water than the city would have gained from raising the reservoir wall, a scheme that had been costed at £48 million. The restrictions introduced in 2019 were lifted the following spring. What the episode changed most, according to the utility's own review, was not the engineering but the assumption behind it. Supply problems had been treated for decades as a question of how much water arrived. They turned out to be a question of how much of it survived the journey.",
+      "timeLimitSec": 375,
+      "questions": [
+        {
+          "id": "q1",
+          "kind": "mcq",
+          "prompt": "What did the engineers conclude about the cause of the 2019 shortage?",
+          "options": [
+            {
+              "id": "a",
+              "text": "Dry winters were the main reason supply fell."
+            },
+            {
+              "id": "b",
+              "text": "The reservoir had been built to the wrong capacity."
+            },
+            {
+              "id": "c",
+              "text": "Water lost inside the network mattered more than reduced rainfall."
+            },
+            {
+              "id": "d",
+              "text": "Residents had increased their consumption sharply."
+            }
+          ],
+          "answer": "c",
+          "explanationVi": "Đoạn 1: mưa chỉ giảm khoảng 8%, còn thất thoát trong đường ống là 'a far larger drain on supply'. Đáp án A là điều người dân tưởng, không phải kết luận của kỹ sư."
+        },
+        {
+          "id": "q2",
+          "kind": "mcq",
+          "prompt": "Why were the pipe failures difficult to notice?",
+          "options": [
+            {
+              "id": "a",
+              "text": "Old cast iron cracks gradually, so water escapes below ground."
+            },
+            {
+              "id": "b",
+              "text": "They happened only during the night."
+            },
+            {
+              "id": "c",
+              "text": "The utility did not measure water at the treatment plant."
+            },
+            {
+              "id": "d",
+              "text": "Repair crews were sent to the wrong zones."
+            }
+          ],
+          "answer": "a",
+          "explanationVi": "Đoạn 2: 'crack slowly rather than bursting dramatically, so the water escapes underground without any visible sign'. Đáp án B nhầm với việc cảm biến đo áp suất ban đêm."
+        },
+        {
+          "id": "q3",
+          "kind": "short-answer",
+          "prompt": "The sensors could identify leaking zones because demand at night is almost ____. (NO MORE THAN TWO WORDS)",
+          "answer": "nil",
+          "accepted": [
+            "zero",
+            "nothing"
+          ],
+          "explanationVi": "Đoạn 3: 'loses pressure overnight when demand is almost nil'. Đề thi thật yêu cầu chép đúng từ trong bài, nên hãy tập thói quen lấy nguyên văn."
+        },
+        {
+          "id": "q4",
+          "kind": "mcq",
+          "prompt": "What does the passage indicate about the £31 million repair programme?",
+          "options": [
+            {
+              "id": "a",
+              "text": "It cost more than raising the reservoir wall would have done."
+            },
+            {
+              "id": "b",
+              "text": "It produced more usable water than the reservoir scheme would have, at a lower cost."
+            },
+            {
+              "id": "c",
+              "text": "It failed to bring losses below twenty per cent."
+            },
+            {
+              "id": "d",
+              "text": "It was abandoned before the restrictions were lifted."
+            }
+          ],
+          "answer": "b",
+          "explanationVi": "Đoạn 4: chi 31 triệu, giải phóng nhiều nước hơn phương án nâng đập vốn tốn 48 triệu. Cần đối chiếu hai con số chứ không có câu nào nói thẳng."
+        },
+        {
+          "id": "q5",
+          "kind": "mcq",
+          "prompt": "Which statement best expresses the final paragraph's main point?",
+          "options": [
+            {
+              "id": "a",
+              "text": "Engineering methods improved more than public attitudes did."
+            },
+            {
+              "id": "b",
+              "text": "The city should have raised the reservoir wall after all."
+            },
+            {
+              "id": "c",
+              "text": "Water restrictions are an effective long-term policy."
+            },
+            {
+              "id": "d",
+              "text": "The important shift was in how the problem itself was defined."
+            }
+          ],
+          "answer": "d",
+          "explanationVi": "Câu cuối: vấn đề chuyển từ 'nước tới bao nhiêu' sang 'giữ lại được bao nhiêu' — tức cách đặt vấn đề đã đổi. Đáp án A ngược ý bài ('not the engineering but the assumption')."
+        }
+      ]
+    },
+    {
+      "id": "reading-tfng-sleep",
+      "skill": "reading",
+      "title": "School start times and teenage sleep",
+      "format": "IELTS Academic Reading — Passage 2 · Identifying information (True/False/Not Given)",
+      "instructionsVi": "Chọn TRUE nếu bài khẳng định, FALSE nếu bài nói ngược lại, NOT GIVEN nếu bài không đề cập. Phân biệt FALSE và NOT GIVEN là chỗ mất điểm nhiều nhất; đề luyện cài sẵn cả hai loại bẫy đó.",
+      "promptEn": "Do the following statements agree with the information given in the passage? Choose TRUE, FALSE or NOT GIVEN.",
+      "passage": "In 2016 the school district of Fairhaven moved the start of its secondary school day from 7.45 a.m. to 8.40 a.m. The decision followed several years of pressure from local doctors, who argued that adolescents are biologically inclined to fall asleep later than younger children and adults, and that early starts therefore cut into sleep that cannot easily be recovered.\n\nThe district agreed to a three-year evaluation. Researchers collected sleep diaries from 1,400 students in the year before the change and each year afterwards. Average reported sleep on school nights rose from 6 hours 51 minutes to 7 hours 34 minutes. Importantly, students did not simply go to bed later to compensate: median bedtime shifted by only eleven minutes across the whole period.\n\nAttendance improved modestly, with unexplained absences falling by about a fifth. Reported daytime tiredness fell more sharply. Academic results were harder to interpret. Grades in the first year after the change were essentially unchanged, and the small improvement recorded in years two and three coincided with a separate reform to the mathematics curriculum, making the two effects impossible to separate.\n\nThe change was not without cost. Sports fixtures against other districts, which start in the late afternoon, became difficult to schedule, and some families reported that the later finish clashed with part-time jobs and childcare arrangements. A survey conducted at the end of the evaluation nonetheless found that 68 per cent of parents wanted the later start retained. The district kept it.",
+      "timeLimitSec": 375,
+      "questions": [
+        {
+          "id": "t1",
+          "kind": "mcq",
+          "prompt": "Doctors argued that teenagers naturally fall asleep later than adults do.",
+          "options": [
+            {
+              "id": "a",
+              "text": "TRUE"
+            },
+            {
+              "id": "b",
+              "text": "FALSE"
+            },
+            {
+              "id": "c",
+              "text": "NOT GIVEN"
+            }
+          ],
+          "answer": "a",
+          "explanationVi": "Đoạn 1: 'adolescents are biologically inclined to fall asleep later than younger children and adults'. Bài nói thẳng, chọn TRUE."
+        },
+        {
+          "id": "t2",
+          "kind": "mcq",
+          "prompt": "Students compensated for the later start by going to bed considerably later.",
+          "options": [
+            {
+              "id": "a",
+              "text": "TRUE"
+            },
+            {
+              "id": "b",
+              "text": "NOT GIVEN"
+            },
+            {
+              "id": "c",
+              "text": "FALSE"
+            }
+          ],
+          "answer": "c",
+          "explanationVi": "Đoạn 2 nói ngược lại: 'students did not simply go to bed later', giờ đi ngủ chỉ dịch 11 phút. Bài phủ định trực tiếp nên là FALSE, không phải NOT GIVEN."
+        },
+        {
+          "id": "t3",
+          "kind": "mcq",
+          "prompt": "The later start produced a clear improvement in academic grades.",
+          "options": [
+            {
+              "id": "a",
+              "text": "TRUE"
+            },
+            {
+              "id": "b",
+              "text": "FALSE"
+            },
+            {
+              "id": "c",
+              "text": "NOT GIVEN"
+            }
+          ],
+          "answer": "b",
+          "explanationVi": "Đoạn 3: năm đầu điểm gần như không đổi, phần cải thiện sau đó lẫn với cải cách chương trình toán nên 'impossible to separate'. Bài bác bỏ tính rõ ràng, chọn FALSE."
+        },
+        {
+          "id": "t4",
+          "kind": "mcq",
+          "prompt": "Teachers opposed the change more strongly than parents did.",
+          "options": [
+            {
+              "id": "a",
+              "text": "TRUE"
+            },
+            {
+              "id": "b",
+              "text": "FALSE"
+            },
+            {
+              "id": "c",
+              "text": "NOT GIVEN"
+            }
+          ],
+          "answer": "c",
+          "explanationVi": "Bài có nói ý kiến phụ huynh (68% ủng hộ) nhưng không hề nhắc tới giáo viên. Không có thông tin để so sánh nên là NOT GIVEN, đây là bẫy hay bị chọn nhầm FALSE."
+        },
+        {
+          "id": "t5",
+          "kind": "mcq",
+          "prompt": "Scheduling sports matches with other districts became harder.",
+          "options": [
+            {
+              "id": "a",
+              "text": "TRUE"
+            },
+            {
+              "id": "b",
+              "text": "FALSE"
+            },
+            {
+              "id": "c",
+              "text": "NOT GIVEN"
+            }
+          ],
+          "answer": "a",
+          "explanationVi": "Đoạn 4: 'Sports fixtures against other districts... became difficult to schedule'."
+        }
+      ]
+    },
+    {
+      "id": "reading-headings-bees",
+      "skill": "reading",
+      "title": "Counting what pollinates a field",
+      "format": "IELTS Academic Reading — Passage 3 · Matching headings / Matching information",
+      "instructionsVi": "Chọn tiêu đề đúng cho từng đoạn. Tiêu đề phải bao được ý CHÍNH của cả đoạn, không phải một chi tiết trong đoạn — đó chính là bẫy của dạng này.",
+      "promptEn": "The passage has four paragraphs, A–D. Choose the most suitable heading for each paragraph.",
+      "passage": "A. For most of the twentieth century, the value of insect pollination was estimated by counting honeybee hives. Hives could be registered, moved and rented to farmers, so the figures were easy to collect. The resulting national statistics were tidy, and they supported a simple story: managed honeybees pollinated the crops, and the health of agriculture rose and fell with the number of hives.\n\nB. Field studies from the 1990s onwards complicated that picture. When researchers actually watched who visited the flowers, they found that wild insects — solitary bees, hoverflies, beetles — often outnumbered honeybees, and in several crops transferred pollen more effectively per visit. A widely cited study across forty-one crop systems found that wild insect visits improved fruit set in every system examined, whereas honeybee visits did so in only a minority of them.\n\nC. Counting wild insects is far harder than counting hives. They cannot be registered, most are active for only a few weeks, and identifying them frequently requires a specialist with a microscope. Surveys therefore tend to be short, local and difficult to compare. Estimates of wild pollinator abundance across a whole country still carry margins of error that would be unacceptable in almost any other agricultural statistic.\n\nD. This measurement gap has practical consequences. Policies designed around hive numbers tend to fund beekeeping, while the habitat that wild insects depend on — hedgerows, field margins, uncut verges — receives less attention because its contribution is not counted. Several countries have begun funding long-term wild pollinator monitoring schemes, but the earliest of these has been running for barely fifteen years, which is short compared with the population cycles it is meant to detect.",
+      "timeLimitSec": 300,
+      "questions": [
+        {
+          "id": "h1",
+          "kind": "mcq",
+          "prompt": "Paragraph A",
+          "options": [
+            {
+              "id": "a",
+              "text": "Why hive numbers were the convenient measure"
+            },
+            {
+              "id": "b",
+              "text": "How farmers rent bees for the season"
+            },
+            {
+              "id": "c",
+              "text": "The decline of honeybee populations"
+            },
+            {
+              "id": "d",
+              "text": "Early disagreements among researchers"
+            }
+          ],
+          "answer": "a",
+          "explanationVi": "Đoạn A giải thích vì sao người ta đếm tổ ong: dễ đăng ký, dễ thống kê. Đáp án B là một chi tiết trong đoạn, không phải ý chính."
+        },
+        {
+          "id": "h2",
+          "kind": "mcq",
+          "prompt": "Paragraph B",
+          "options": [
+            {
+              "id": "a",
+              "text": "A list of insects found on farms"
+            },
+            {
+              "id": "b",
+              "text": "Why honeybees stopped visiting crops"
+            },
+            {
+              "id": "c",
+              "text": "New evidence that wild insects matter more than assumed"
+            },
+            {
+              "id": "d",
+              "text": "How pollen is transferred between flowers"
+            }
+          ],
+          "answer": "c",
+          "explanationVi": "Đoạn B nêu kết quả nghiên cứu cho thấy côn trùng hoang dã hiệu quả hơn dự tưởng. Đáp án A chỉ nhặt danh sách côn trùng, bỏ mất kết luận."
+        },
+        {
+          "id": "h3",
+          "kind": "mcq",
+          "prompt": "Paragraph C",
+          "options": [
+            {
+              "id": "a",
+              "text": "The training required to become an entomologist"
+            },
+            {
+              "id": "b",
+              "text": "Improvements in survey technology"
+            },
+            {
+              "id": "c",
+              "text": "Seasonal patterns in insect activity"
+            },
+            {
+              "id": "d",
+              "text": "Why wild pollinators are hard to measure reliably"
+            }
+          ],
+          "answer": "d",
+          "explanationVi": "Cả đoạn C nói về khó khăn khi đo đếm: không đăng ký được, vòng đời ngắn, cần chuyên gia, sai số lớn."
+        },
+        {
+          "id": "h4",
+          "kind": "mcq",
+          "prompt": "Paragraph D",
+          "options": [
+            {
+              "id": "a",
+              "text": "Successful habitat restoration projects"
+            },
+            {
+              "id": "b",
+              "text": "How a gap in data shapes policy"
+            },
+            {
+              "id": "c",
+              "text": "The cost of monitoring schemes"
+            },
+            {
+              "id": "d",
+              "text": "Why hedgerows are disappearing"
+            }
+          ],
+          "answer": "b",
+          "explanationVi": "Đoạn D: vì không đếm được nên chính sách rót tiền vào nuôi ong mà bỏ quên môi trường sống. Trọng tâm là hệ quả của lỗ hổng số liệu."
+        }
+      ]
+    },
+    {
+      "id": "listening-tutorial-booking",
+      "skill": "listening",
+      "title": "Booking a study-skills tutorial",
+      "format": "IELTS Listening — Section 1 · Hội thoại đời thường, hai người, form completion",
+      "instructionsVi": "Nghe hội thoại rồi trả lời 4 câu. Bản chép lời có cài thông tin bị sửa lại giữa chừng — đúng kiểu bẫy của Section 1, và ở đề luyện này xuất hiện dày hơn đề thi thật.",
+      "promptEn": "Listen to the conversation between a student and a learning-support officer, then answer the questions.",
+      "accent": "uk",
+      "transcript": [
+        {
+          "speaker": "Officer",
+          "text": "Learning Support, good morning. How can I help?"
+        },
+        {
+          "speaker": "Student",
+          "text": "Hi, I'd like to book one of the study-skills tutorials. The one on academic writing, if there's still space."
+        },
+        {
+          "speaker": "Officer",
+          "text": "Let me look. Academic writing runs on Tuesdays at two, and there's also a Thursday group at eleven."
+        },
+        {
+          "speaker": "Student",
+          "text": "Tuesday would be better. I have a lab until noon on Thursdays."
+        },
+        {
+          "speaker": "Officer",
+          "text": "Right. Actually, I should correct myself — the Tuesday session has moved to half past two from this week, because the room was double-booked."
+        },
+        {
+          "speaker": "Student",
+          "text": "Half two is still fine. Which room is it?"
+        },
+        {
+          "speaker": "Officer",
+          "text": "Kemp Building, room 4.12. That's the fourth floor, and the lift is being serviced this month, so allow a few extra minutes."
+        },
+        {
+          "speaker": "Student",
+          "text": "Noted. Do I need to bring anything?"
+        },
+        {
+          "speaker": "Officer",
+          "text": "Bring a piece of your own writing — a draft of an assignment is ideal. Not a finished essay, we want something you're still working on."
+        },
+        {
+          "speaker": "Student",
+          "text": "I've got a draft due for submission in three weeks, so that works. And is there a fee?"
+        },
+        {
+          "speaker": "Officer",
+          "text": "No fee for enrolled students. There is a charge of twelve pounds for the follow-up one-to-one session, though that's optional."
+        },
+        {
+          "speaker": "Student",
+          "text": "Fine. Could you put me down for the group one for now?"
+        },
+        {
+          "speaker": "Officer",
+          "text": "Done. You'll get a confirmation email today, and please cancel at least twenty-four hours ahead if you can't attend."
+        }
+      ],
+      "timeLimitSec": 280,
+      "questions": [
+        {
+          "id": "l1",
+          "kind": "short-answer",
+          "prompt": "What time does the Tuesday tutorial now start? (NO MORE THAN TWO WORDS OR A NUMBER)",
+          "answer": "2.30",
+          "accepted": [
+            "2:30",
+            "half past two",
+            "half two",
+            "14:30",
+            "2.30pm",
+            "2:30pm"
+          ],
+          "explanationVi": "Nhân viên nói 'two' trước rồi tự sửa: 'the Tuesday session has moved to half past two'. Bẫy kinh điển — thông tin đầu tiên bị thay thế."
+        },
+        {
+          "id": "l2",
+          "kind": "short-answer",
+          "prompt": "Which room is the tutorial in? (NO MORE THAN TWO WORDS OR A NUMBER)",
+          "answer": "4.12",
+          "accepted": [
+            "4:12",
+            "room 4.12",
+            "412"
+          ],
+          "explanationVi": "'Kemp Building, room 4.12'. Số tầng (fourth floor) là thông tin thêm, không phải số phòng."
+        },
+        {
+          "id": "l3",
+          "kind": "mcq",
+          "prompt": "What is the student asked to bring?",
+          "options": [
+            {
+              "id": "a",
+              "text": "A completed essay"
+            },
+            {
+              "id": "b",
+              "text": "A draft they are still working on"
+            },
+            {
+              "id": "c",
+              "text": "A reading list from their tutor"
+            },
+            {
+              "id": "d",
+              "text": "Nothing at all"
+            }
+          ],
+          "answer": "b",
+          "explanationVi": "'Not a finished essay, we want something you're still working on'. Câu phủ định ngay sau đó là chỗ phân biệt A và B."
+        },
+        {
+          "id": "l4",
+          "kind": "mcq",
+          "prompt": "What does the officer say about cost?",
+          "options": [
+            {
+              "id": "a",
+              "text": "The group tutorial is free; an optional one-to-one costs twelve pounds."
+            },
+            {
+              "id": "b",
+              "text": "The group tutorial costs twelve pounds."
+            },
+            {
+              "id": "c",
+              "text": "Both sessions are free for enrolled students."
+            },
+            {
+              "id": "d",
+              "text": "There is a twelve-pound charge for cancelling late."
+            }
+          ],
+          "answer": "a",
+          "explanationVi": "'No fee for enrolled students' cho buổi nhóm, còn 12 bảng là buổi kèm riêng và không bắt buộc. Đáp án B gán nhầm khoản phí sang buổi nhóm."
+        }
+      ]
+    },
+    {
+      "id": "listening-museum-tour",
+      "skill": "listening",
+      "title": "Museum orientation talk",
+      "format": "IELTS Listening — Section 2 · Độc thoại đời thường",
+      "instructionsVi": "Nghe bài nói một chiều rồi trả lời 4 câu. Dạng độc thoại không có người hỏi lại nên thông tin chỉ xuất hiện đúng một lần — nghe hụt là mất luôn.",
+      "promptEn": "Listen to the guide's orientation talk and answer the questions.",
+      "accent": "uk",
+      "transcript": [
+        {
+          "speaker": "Guide",
+          "text": "Good afternoon everyone, and welcome to the Riverside Industrial Museum. I'll keep this short so you have plenty of time in the galleries before we close."
+        },
+        {
+          "speaker": "Guide",
+          "text": "We're on three floors. The ground floor covers the mills themselves, the first floor is about the people who worked in them, and the second floor is temporary exhibitions — at the moment, photography from the 1930s."
+        },
+        {
+          "speaker": "Guide",
+          "text": "One change to what's printed on your leaflet: the working loom demonstration is no longer at three o'clock. It now runs twice, at half eleven and at two, and it lasts about twenty minutes."
+        },
+        {
+          "speaker": "Guide",
+          "text": "Photography is welcome throughout the building, but please switch your flash off on the second floor — the 1930s prints are light-sensitive."
+        },
+        {
+          "speaker": "Guide",
+          "text": "The café is on the ground floor next to the shop. It stops serving hot food at half past two, though drinks and cakes continue until closing."
+        },
+        {
+          "speaker": "Guide",
+          "text": "Finally, the lift only reaches the first floor. If you need step-free access to the second floor, speak to any member of staff in a green lanyard and they'll take you up through the service lift."
+        }
+      ],
+      "timeLimitSec": 280,
+      "questions": [
+        {
+          "id": "m1",
+          "kind": "mcq",
+          "prompt": "What is currently shown on the second floor?",
+          "options": [
+            {
+              "id": "a",
+              "text": "The mills and their machinery"
+            },
+            {
+              "id": "b",
+              "text": "Photography from the 1930s"
+            },
+            {
+              "id": "c",
+              "text": "The lives of mill workers"
+            },
+            {
+              "id": "d",
+              "text": "The museum shop and café"
+            }
+          ],
+          "answer": "b",
+          "explanationVi": "'the second floor is temporary exhibitions — at the moment, photography from the 1930s'."
+        },
+        {
+          "id": "m2",
+          "kind": "short-answer",
+          "prompt": "At what times does the loom demonstration now run? Give the LATER time. (NO MORE THAN TWO WORDS OR A NUMBER)",
+          "answer": "2",
+          "accepted": [
+            "2.00",
+            "2:00",
+            "two",
+            "2pm",
+            "2 o'clock",
+            "14:00"
+          ],
+          "explanationVi": "'It now runs twice, at half eleven and at two'. Ba giờ là giờ CŨ in trên tờ rơi, đã bị huỷ — đây là bẫy chính của bài."
+        },
+        {
+          "id": "m3",
+          "kind": "mcq",
+          "prompt": "What rule applies to photography?",
+          "options": [
+            {
+              "id": "a",
+              "text": "It is allowed, but without flash on the second floor."
+            },
+            {
+              "id": "b",
+              "text": "It is banned everywhere in the museum."
+            },
+            {
+              "id": "c",
+              "text": "It is allowed only on the ground floor."
+            },
+            {
+              "id": "d",
+              "text": "It requires permission from a staff member."
+            }
+          ],
+          "answer": "a",
+          "explanationVi": "'Photography is welcome throughout the building, but please switch your flash off on the second floor'."
+        },
+        {
+          "id": "m4",
+          "kind": "mcq",
+          "prompt": "How can a visitor reach the second floor without using stairs?",
+          "options": [
+            {
+              "id": "a",
+              "text": "The main lift goes to all three floors."
+            },
+            {
+              "id": "b",
+              "text": "Step-free access is not available."
+            },
+            {
+              "id": "c",
+              "text": "By booking in advance at the shop."
+            },
+            {
+              "id": "d",
+              "text": "By asking a staff member wearing a green lanyard."
+            }
+          ],
+          "answer": "d",
+          "explanationVi": "'the lift only reaches the first floor... speak to any member of staff in a green lanyard'. Đáp án A sai vì thang máy chỉ tới tầng một."
+        }
+      ]
+    },
+    {
+      "id": "listening-lecture-tides",
+      "skill": "listening",
+      "title": "Lecture extract — measuring tides",
+      "format": "IELTS Listening — Section 4 · Bài giảng học thuật, không nghỉ giữa chừng",
+      "instructionsVi": "Nghe trích bài giảng rồi trả lời 4 câu. Section 4 chạy liền một mạch, không nghỉ giữa chừng, và mật độ thông tin dày hơn hẳn ba phần trước.",
+      "promptEn": "Listen to the lecture extract and answer the questions.",
+      "accent": "uk",
+      "transcript": [
+        {
+          "speaker": "Lecturer",
+          "text": "Today I want to look at how we actually measure sea level, because the answer turns out to be less obvious than the question suggests."
+        },
+        {
+          "speaker": "Lecturer",
+          "text": "The oldest instrument still in use is the tide gauge — essentially a float in a stilling well, connected to a recorder. The well damps out waves so that what you record is the tide rather than every passing swell. Some gauges have records going back to the 1800s, which is why they remain valuable."
+        },
+        {
+          "speaker": "Lecturer",
+          "text": "But there's a catch, and it's an important one. A tide gauge is bolted to the land. If the land itself is rising or sinking — and in northern Europe much of it is still rising after the last ice age — then the gauge records the relative change between land and sea, not the change in the sea alone."
+        },
+        {
+          "speaker": "Lecturer",
+          "text": "Satellite altimetry, from 1992 onwards, measures the distance from the satellite to the sea surface directly, so it avoids that problem. Its weakness is the opposite one: the record is short, and it covers the open ocean far better than it covers coastlines."
+        },
+        {
+          "speaker": "Lecturer",
+          "text": "So neither method is sufficient on its own. Modern estimates combine the two, and use GPS stations installed at the gauges themselves to work out how much of the gauge's signal is actually the land moving."
+        }
+      ],
+      "timeLimitSec": 280,
+      "questions": [
+        {
+          "id": "d1",
+          "kind": "mcq",
+          "prompt": "Why is a stilling well used with a tide gauge?",
+          "options": [
+            {
+              "id": "a",
+              "text": "To protect the instrument from storms"
+            },
+            {
+              "id": "b",
+              "text": "To measure the depth of the seabed"
+            },
+            {
+              "id": "c",
+              "text": "To connect the gauge to a satellite"
+            },
+            {
+              "id": "d",
+              "text": "To smooth out waves so the tide itself is recorded"
+            }
+          ],
+          "answer": "d",
+          "explanationVi": "'The well damps out waves so that what you record is the tide rather than every passing swell'."
+        },
+        {
+          "id": "d2",
+          "kind": "mcq",
+          "prompt": "What is the main limitation of tide gauges?",
+          "options": [
+            {
+              "id": "a",
+              "text": "Their records are too short to be useful."
+            },
+            {
+              "id": "b",
+              "text": "They cannot operate in cold climates."
+            },
+            {
+              "id": "c",
+              "text": "They record land movement together with sea change."
+            },
+            {
+              "id": "d",
+              "text": "They only work in the open ocean."
+            }
+          ],
+          "answer": "c",
+          "explanationVi": "'the gauge records the relative change between land and sea, not the change in the sea alone'. Đáp án A và D là nhược điểm của vệ tinh, bị đảo sang đây."
+        },
+        {
+          "id": "d3",
+          "kind": "short-answer",
+          "prompt": "In which year did satellite altimetry records begin? (A NUMBER)",
+          "answer": "1992",
+          "explanationVi": "'Satellite altimetry, from 1992 onwards'. Con số này chỉ nói một lần, đúng đặc trưng Section 4."
+        },
+        {
+          "id": "d4",
+          "kind": "mcq",
+          "prompt": "What role do GPS stations play in modern estimates?",
+          "options": [
+            {
+              "id": "a",
+              "text": "They show how much of a gauge's reading comes from land movement."
+            },
+            {
+              "id": "b",
+              "text": "They replace tide gauges entirely."
+            },
+            {
+              "id": "c",
+              "text": "They improve satellite coverage of the open ocean."
+            },
+            {
+              "id": "d",
+              "text": "They measure wave height at the coast."
+            }
+          ],
+          "answer": "a",
+          "explanationVi": "Câu cuối: GPS đặt ngay tại trạm đo để tách phần tín hiệu do đất dịch chuyển."
+        }
+      ]
+    },
+    {
+      "id": "writing-task1-water",
+      "skill": "writing",
+      "title": "Task 1 — Household water use in two cities",
+      "format": "IELTS Academic Writing — Task 1 · 20 phút, tối thiểu 150 từ",
+      "instructionsVi": "Viết 150–200 từ. Mô tả nét chính và so sánh chỗ cần so sánh, KHÔNG nêu ý kiến cá nhân và không suy đoán nguyên nhân. Đề luyện cho dữ liệu có một xu hướng đi ngược, khó hơn dạng 'cả hai cùng tăng' hay gặp ở band này.",
+      "promptEn": "The table below shows average household water use per person per day, in litres, in two cities in 2010 and 2022. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nAldbury — 2010: showering 52, garden 38, laundry 31, kitchen 24, other 19 (total 164)\nMersfield — 2010: showering 44, garden 12, laundry 29, kitchen 26, other 17 (total 128)\nAldbury — 2022: showering 47, garden 15, laundry 22, kitchen 21, other 16 (total 121)\nMersfield — 2022: showering 51, garden 14, laundry 24, kitchen 25, other 18 (total 132)",
+      "timeLimitSec": 1200,
+      "minWords": 150,
+      "maxWords": 200,
+      "sampleAnswer": "The table compares daily household water use per person across five categories in Aldbury and Mersfield in 2010 and 2022.\n\nOverall, total consumption in Aldbury fell substantially over the period, while Mersfield's rose slightly, so that the gap between the two cities reversed. In 2010 Aldbury used 164 litres per person against Mersfield's 128, but by 2022 Aldbury had dropped to 121 litres, below Mersfield's 132.\n\nThe steepest change was in garden watering in Aldbury, which fell from 38 litres to 15. Mersfield, whose garden use had already been low at 12 litres, remained almost unchanged at 14. Aldbury also reduced laundry use from 31 to 22 litres, and showering from 52 to 47.\n\nMersfield moved in the opposite direction in its largest category, with showering rising from 44 to 51 litres to become the city's biggest single use. Its remaining categories varied only marginally, by no more than two litres in either direction.",
+      "rubricVi": [
+        "Có câu tổng quan nêu xu hướng bao trùm: Aldbury giảm mạnh, Mersfield tăng nhẹ, và thứ hạng hai thành phố đảo ngược. Thiếu câu này là mất điểm Task Achievement nặng nhất.",
+        "Chọn lọc số liệu tiêu biểu thay vì liệt kê cả bảng. Nêu được mục thay đổi mạnh nhất (tưới vườn ở Aldbury) và mục đi ngược xu hướng (tắm ở Mersfield).",
+        "Không nêu nguyên nhân, không nêu ý kiến, không dự đoán tương lai — Task 1 chỉ mô tả những gì bảng cho thấy.",
+        "Dùng đa dạng cách diễn đạt thay đổi: fell, dropped, rose, remained unchanged, varied marginally. Lặp 'increase/decrease' suốt bài sẽ hạ điểm Lexical Resource.",
+        "Đủ 150 từ. Dưới ngưỡng bị phạt điểm, và nội dung thường thiếu phần so sánh."
+      ]
+    },
+    {
+      "id": "writing-task2-transport",
+      "skill": "writing",
+      "title": "Task 2 — Free public transport",
+      "format": "IELTS Academic Writing — Task 2 · 40 phút, tối thiểu 250 từ, chiếm 2/3 điểm Writing",
+      "instructionsVi": "Viết 250–320 từ. Nêu rõ lập trường ngay ở mở bài và giữ nguyên lập trường đó tới kết bài. Đề luyện yêu cầu bàn cả hai mặt RỒI mới nêu quan điểm, khó hơn dạng chỉ đồng ý hoặc phản đối.",
+      "promptEn": "Some city governments have made public transport free for all residents, arguing that this reduces traffic and pollution. Others argue the money would achieve more if spent on improving the service instead.\n\nDiscuss both views and give your own opinion.",
+      "timeLimitSec": 2400,
+      "minWords": 250,
+      "maxWords": 320,
+      "sampleAnswer": "A number of cities have removed fares from their buses and trams, hoping that drivers will leave their cars at home. Others have kept fares and put the same money into faster, more frequent services. Both approaches have merit, but I believe investment in service quality achieves more.\n\nThe case for free travel is straightforward. Removing the fare removes a daily decision, and it helps low-income residents immediately and visibly. Cities such as Tallinn have reported higher ridership after abolishing fares, and there is a fairness argument too: roads are already free at the point of use, so charging only for the sustainable option seems inconsistent.\n\nHowever, the evidence on car use is weaker than the policy's supporters suggest. Studies of fare abolition generally find that most new passengers previously walked, cycled or did not travel at all, rather than drove. The reason is that people who own a car usually choose it for speed and reliability, not cost, and a free service that is slow or infrequent does not change that calculation. Meanwhile, fare revenue that disappears has to be replaced, and in several cities the result has been deferred maintenance.\n\nI would therefore prioritise the service itself. A bus every eight minutes on a dedicated lane will attract drivers in a way that a free bus every half hour will not, because it competes on the dimension that actually matters to them. Fares can still be made affordable through targeted concessions for students, older residents and low-income households, which delivers most of the fairness benefit at a fraction of the cost.\n\nIn short, free transport addresses the price of travel while the real obstacle is usually its quality. Cities that want fewer cars should buy frequency first, and discount fares second.",
+      "rubricVi": [
+        "Bàn ĐỦ cả hai quan điểm rồi mới nêu ý kiến riêng. Bỏ một vế là mất điểm Task Response dù bài viết hay tới đâu.",
+        "Nêu lập trường ngay ở mở bài và giữ nhất quán. Mở bài trung lập rồi cuối bài mới chọn phe là lỗi Coherence phổ biến.",
+        "Mỗi đoạn thân bài một ý chính, có câu chủ đề và ví dụ hoặc lý lẽ chống đỡ. Đoạn không có ví dụ cụ thể thường bị chấm là 'chung chung'.",
+        "Đủ 250 từ. Dưới ngưỡng bị phạt cứng, còn quá 320 từ thì thường mất kiểm soát ngữ pháp.",
+        "Dùng từ nối có chọn lọc. Nhồi 'Firstly, Secondly, Moreover, In conclusion' ở mọi đoạn nghe máy móc và không nâng được điểm."
+      ]
+    },
+    {
+      "id": "speaking-part1-hometown",
+      "skill": "speaking",
+      "title": "Part 1 — Hometown, work and free time",
+      "format": "IELTS Speaking — Part 1 · Introduction and interview, 4–5 phút",
+      "instructionsVi": "Trả lời từng câu 2–3 câu, không chuẩn bị trước. Part 1 hỏi về bản thân và thói quen hằng ngày; mục đích là làm quen và đo phản xạ, nên đừng trả lời như bài luận.",
+      "promptEn": "Answer each question in two or three sentences.\n1. Where are you from?\n2. What do you like most about the place you live now?\n3. Do you work or are you a student?\n4. What do you usually do at the weekend?\n5. Has the way you spend your free time changed in the last few years?",
+      "timeLimitSec": 300,
+      "preparationSec": 0,
+      "sampleAnswer": "1. I'm from Hai Phong, a port city in the north of Vietnam, though I've been living in Hanoi for about four years now for work.\n\n2. Probably how walkable it is. My flat is fifteen minutes from the office on foot, and there's a lake on the way, so I get a bit of quiet at the start and end of the day.\n\n3. I work — I'm a junior data analyst at a logistics company. It's my second job since graduating.\n\n4. Usually something fairly ordinary. I cook properly on Saturdays, because I don't have time during the week, and I try to get out of the city on Sundays if the weather's reasonable.\n\n5. Quite a lot, actually. I used to spend most weekends with a big group of friends, but a few of them moved away, so now it tends to be one or two people and something quieter. I don't mind the change as much as I expected to.",
+      "rubricVi": [
+        "Trả lời 2–3 câu mỗi ý. Trả lời một từ là mất điểm Fluency ngay, còn nói dài như Part 2 thì giám khảo sẽ cắt lời.",
+        "Part 1 hỏi về bản thân và thói quen — trả lời thật, không cần ý tưởng sâu sắc. Cố tỏ ra học thuật ở phần này nghe rất giả.",
+        "Câu cuối thường có yếu tố so sánh quá khứ với hiện tại ('has it changed'), buộc đổi thì. Đây là chỗ ghi điểm ngữ pháp dễ nhất của cả bài thi.",
+        "Thêm một chi tiết nhỏ vào mỗi câu trả lời (tên thành phố, khoảng thời gian, lý do). Chi tiết là thứ biến câu trả lời cụt thành câu trả lời đủ.",
+        "Không chuẩn bị trước và không học thuộc. Part 1 chấm phản xạ, giám khảo nhận ra bài học thuộc ngay từ câu thứ hai."
+      ]
+    },
+    {
+      "id": "speaking-part2-place",
+      "skill": "speaking",
+      "title": "Part 2 — A place where you noticed something change",
+      "format": "IELTS Speaking — Part 2 · Long turn, 1 phút chuẩn bị, 1–2 phút nói",
+      "instructionsVi": "Chuẩn bị 1 phút rồi nói liên tục 2 phút. Nộp bằng cách gõ lại dàn ý hoặc bản chép lời của bạn. Đề luyện thêm ý cuối 'giải thích vì sao đáng chú ý' — dạng câu buộc phải lập luận, thường chỉ xuất hiện ở band cao hơn.",
+      "promptEn": "Describe a place you know that has changed in recent years. You should say:\n- where the place is\n- what it was like before\n- what it is like now\n\nand explain why you find the change worth noticing.",
+      "timeLimitSec": 120,
+      "preparationSec": 60,
+      "sampleAnswer": "I'd like to talk about the canal path near my grandmother's house in the north of the city. For most of my childhood it was a place people avoided. The towpath was unpaved, it flooded every winter, and the water itself had a sort of oily film on it. You'd walk there only if you were taking a shortcut.\n\nAbout five years ago the council resurfaced the path and put in lighting, and a volunteer group started clearing the banks. Now it's genuinely busy. There are joggers early in the morning, families at the weekend, and two or three small cafés have opened in what used to be storage buildings.\n\nWhat I find worth noticing is that nothing was demolished. The warehouses, the bridges, even the old mooring rings are all still there. The change came almost entirely from making the place accessible rather than from rebuilding it, and I think that's why it feels like the same place improved rather than a different place altogether. It also changed who feels welcome there, which is a bigger shift than the physical work suggests.",
+      "rubricVi": [
+        "Nói đủ 2 phút, không dừng sớm. Dừng ở giây 60–80 là lỗi phổ biến nhất và bị trừ điểm Fluency ngay.",
+        "Trả lời đủ cả bốn gạch đầu dòng, đặc biệt là ý 'vì sao đáng chú ý' — ý này buộc phải lập luận, bỏ qua thì mất điểm Coherence.",
+        "Dùng thì quá khứ cho phần 'trước kia' và hiện tại cho phần 'bây giờ'. Lẫn thì là lỗi Grammar hay gặp nhất ở dạng đề này.",
+        "Nêu chi tiết cụ thể (đường mòn ngập nước, quán cà phê trong nhà kho cũ) thay vì nhận xét chung chung như 'it was bad, now it's good'.",
+        "Không học thuộc lòng. Giám khảo nhận ra bài đọc thuộc qua nhịp điệu đều đều và sẽ hỏi vặn để kiểm tra."
+      ]
+    },
+    {
+      "id": "speaking-part3-cities",
+      "skill": "speaking",
+      "title": "Part 3 — Discussion: how cities change",
+      "format": "IELTS Speaking — Part 3 · Two-way discussion, 4–5 phút",
+      "instructionsVi": "Trả lời từng câu thành đoạn 3–5 câu, không trả lời cụt. Part 3 hỏi về xã hội nói chung chứ không hỏi về bản thân bạn — trả lời bằng trải nghiệm cá nhân là lỗi hay gặp nhất.",
+      "promptEn": "Answer each question in turn, in three to five sentences.\n1. Why do some neighbourhoods change much faster than others?\n2. Who tends to benefit when an old area is redeveloped, and who tends to lose out?\n3. Should governments protect old buildings even when they are expensive to maintain?",
+      "timeLimitSec": 300,
+      "preparationSec": 0,
+      "sampleAnswer": "1. I think the main factor is usually transport. Once an area becomes easy to reach — a new station, a bridge, a bus route — property there suddenly competes with the centre, and investment follows very quickly. Areas that stay hard to reach can look almost identical for decades, even if they're only a few kilometres away.\n\n2. The clearest winners are property owners, because the value of what they already hold rises without them doing anything. Long-term renters tend to lose out, since rents usually rise faster than local wages, and small independent businesses often can't absorb the increase either. What complicates it is that the same redevelopment can genuinely improve safety and services for everyone, so it isn't simply a case of one group gaining at another's expense.\n\n3. Up to a point, yes. I'd argue the test should be whether a building still has a use, not just whether it's old. Protecting a structure and then leaving it empty helps nobody and costs a great deal. But allowing everything to be demolished on cost grounds would gradually erase what makes a city distinguishable from any other, and that's very hard to reverse once it's gone.",
+      "rubricVi": [
+        "Trả lời ở tầm xã hội chung, không kể chuyện bản thân. Part 3 chấm khả năng bàn luận trừu tượng.",
+        "Mỗi câu trả lời 3–5 câu, có nêu ý rồi giải thích. Trả lời một câu rồi im là mất điểm Fluency nặng.",
+        "Dám nêu mặt phức tạp thay vì trả lời một chiều. Câu như 'What complicates it is...' cho thấy tư duy nhiều lớp, đây là thứ nâng band.",
+        "Dùng ngôn ngữ phỏng đoán và đánh giá: tend to, usually, I'd argue, up to a point. Nói tuyệt đối hoá dễ bị hỏi vặn.",
+        "Không sợ dừng lại nghĩ một nhịp ngắn. Ậm ừ kéo dài mới bị trừ, chứ ngừng để chọn từ thì bình thường."
+      ]
+    }
+  ]
+}

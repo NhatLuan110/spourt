@@ -1,0 +1,1283 @@
+// Sprout data model — implements §5 of the product specification.
+// Naming follows §15: models are PascalCase, fields camelCase.
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+// ---------------------------------------------------------------------------
+// §5.1 Enums
+// ---------------------------------------------------------------------------
+
+enum CefrLevel {
+  A1
+  A2
+  B1
+  B2
+  C1
+  C2
+}
+
+enum Skill {
+  VOCABULARY
+  GRAMMAR
+  LISTENING
+  SPEAKING
+  READING
+  WRITING
+}
+
+enum PartOfSpeech {
+  NOUN
+  VERB
+  ADJECTIVE
+  ADVERB
+  PRONOUN
+  PREPOSITION
+  CONJUNCTION
+  DETERMINER
+  INTERJECTION
+  PHRASAL_VERB
+  IDIOM
+}
+
+enum SrsState {
+  NEW
+  LEARNING
+  REVIEW
+  RELEARNING
+  MASTERED
+  SUSPENDED
+}
+
+enum ExerciseType {
+  MCQ
+  GAP_FILL
+  MATCHING
+  REORDER
+  DICTATION
+  TRUE_FALSE
+  SHORT_ANSWER
+  /// Sentence transformation: rewrite keeping the meaning, using a given cue.
+  REWRITE
+  WORD_FORM
+  SPEAKING_REPEAT
+  SPEAKING_FREE
+  WRITING
+}
+
+enum UserRole {
+  USER
+  ADMIN
+  CONTENT_EDITOR
+}
+
+enum ChallengeType {
+  DAILY
+  WEEKLY
+}
+
+enum XpSource {
+  NEW_WORD
+  REVIEW
+  LESSON
+  QUIZ
+  LISTENING
+  SPEAKING
+  WRITING
+  READING
+  TEST
+  CHALLENGE
+  STREAK_BONUS
+  ACHIEVEMENT
+}
+
+// ---------------------------------------------------------------------------
+// §5.2 Users and accounts
+// ---------------------------------------------------------------------------
+
+model User {
+  id            String    @id @default(cuid())
+  email         String    @unique
+  emailVerified DateTime?
+  passwordHash  String?
+  role          UserRole  @default(USER)
+  createdAt     DateTime  @default(now())
+  updatedAt     DateTime  @updatedAt
+  deletedAt     DateTime?
+  onboardedAt   DateTime?
+
+  profile       Profile?
+  settings      UserSettings?
+  progress      UserProgress?
+  oauthAccounts OAuthAccount[]
+  sessions      Session[]
+  verifications VerificationToken[]
+
+  words             UserWord[]
+  reviewLogs        ReviewLog[]
+  decks             Deck[]
+  exerciseAttempts  ExerciseAttempt[]
+  lessonProgress    LessonProgress[]
+  mistakes          MistakeLog[]
+  speakingAttempts  SpeakingAttempt[]
+  pronunciationIssues PronunciationIssue[]
+  writingSubmissions WritingSubmission[]
+  testAttempts      TestAttempt[]
+  examPrepAttempts  ExamPrepAttempt[]
+  xpEvents          XpEvent[]
+  achievements      UserAchievement[]
+  challenges        UserChallenge[]
+  coinTransactions  CoinTransaction[]
+  studySessions     StudySession[]
+  dailyStats        DailyStat[]
+  skillScores       SkillScore[]
+  conversations     AiConversation[]
+  aiUsage           AiUsageLog[]
+  idempotencyKeys   IdempotencyRecord[]
+
+  chineseWords      UserChineseWord[]
+  hanzi             UserHanzi[]
+
+  @@index([deletedAt])
+}
+
+model OAuthAccount {
+  id                String   @id @default(cuid())
+  userId            String
+  provider          String
+  providerAccountId String
+  createdAt         DateTime @default(now())
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([provider, providerAccountId])
+  @@index([userId])
+}
+
+/// Rotating refresh tokens (§11 security). Only the hash is stored.
+model Session {
+  id        String    @id @default(cuid())
+  userId    String
+  tokenHash String    @unique
+  family    String
+  userAgent String?
+  ip        String?
+  createdAt DateTime  @default(now())
+  expiresAt DateTime
+  revokedAt DateTime?
+  replacedBy String?
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId])
+  @@index([family])
+}
+
+/// Email verification and password reset tokens.
+model VerificationToken {
+  id        String    @id @default(cuid())
+  userId    String
+  kind      String
+  tokenHash String    @unique
+  expiresAt DateTime
+  usedAt    DateTime?
+  createdAt DateTime  @default(now())
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId, kind])
+}
+
+model Profile {
+  userId       String    @id
+  displayName  String
+  avatarUrl    String?
+  nativeLang   String    @default("vi")
+  /// Mandatory: streaks are computed in the learner timezone, never UTC (§9.4).
+  timezone     String    @default("Asia/Ho_Chi_Minh")
+  currentLevel CefrLevel @default(A1)
+  bio          String?
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+}
+
+model UserSettings {
+  userId                String   @id
+  dailyGoalMinutes      Int      @default(15)
+  dailyGoalXp           Int      @default(30)
+  newWordsPerDay        Int      @default(15)
+  maxReviewsPerDay      Int      @default(120)
+  /// The new day starts at 04:00 local time, not midnight (§9.4).
+  dayRolloverHour       Int      @default(4)
+  theme                 String   @default("system")
+  reminderEnabled       Boolean  @default(true)
+  reminderTime          String   @default("20:00")
+  ttsVoice              String   @default("en-US-Female-1")
+  ttsAccent             String   @default("US")
+  autoPlayAudio         Boolean  @default(true)
+  showIpa               Boolean  @default(true)
+  /// §7.12 "Học yên tĩnh" — hides every gamification surface.
+  quietMode             Boolean  @default(false)
+  leaderboardVisibility String   @default("public")
+  learningGoals         String[] @default([])
+
+  /// Ngăn đang mở (D-101). Mặc định ENGLISH nên mọi tài khoản cũ giữ nguyên
+  /// trải nghiệm, chỉ đổi khi người học tự chuyển sang ngăn tiếng Trung.
+  activeTrack           LearningTrack @default(ENGLISH)
+  /// Cấp HSK người học đang nhắm tới, dùng để xếp bài và chọn từ ôn.
+  hskTarget             HskLevel      @default(HSK1)
+  /// Số chữ Hán tập viết mỗi ngày, dùng khi dựng bảng tập viết A4.
+  hanziPerDay           Int           @default(10)
+
+  /// D-052 — the learner's own AI key, so their free quota is theirs to spend.
+  /// Encrypted at rest with AES-256-GCM; never returned to the client, only a
+  /// masked hint is. Null means the shared server key with a lower allowance.
+  aiApiKeyEncrypted     String?
+  /// Last four characters, for "AQ.Ab…vU0Q" in settings.
+  aiApiKeyHint          String?
+  aiProvider            String?
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+}
+
+model UserProgress {
+  userId        String    @id
+  totalXp       Int       @default(0)
+  level         Int       @default(1)
+  coins         Int       @default(0)
+  currentStreak Int       @default(0)
+  longestStreak Int       @default(0)
+  /// Start of the learner local study day, stored as UTC.
+  lastStudyDate DateTime?
+  streakFreezes Int       @default(2)
+  streakLostAt  DateTime?
+  streakRepairedAt DateTime?
+  treeStage     Int       @default(1)
+  totalStudyMin Int       @default(0)
+  wordsLearned  Int       @default(0)
+  updatedAt     DateTime  @updatedAt
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+}
+
+/// §6.1 — makes XP-awarding POSTs safe to retry.
+model IdempotencyRecord {
+  id        String   @id @default(cuid())
+  userId    String
+  key       String
+  endpoint  String
+  response  Json
+  createdAt DateTime @default(now())
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, key])
+  @@index([createdAt])
+}
+
+// ---------------------------------------------------------------------------
+// §5.3 Vocabulary, word families, parts of speech
+// ---------------------------------------------------------------------------
+
+model Topic {
+  id          String  @id @default(cuid())
+  slug        String  @unique
+  nameEn      String
+  nameVi      String
+  emoji       String
+  colorToken  String
+  description String
+  order       Int
+  parentId    String?
+
+  parent    Topic?  @relation("TopicTree", fields: [parentId], references: [id])
+  subtopics Topic[] @relation("TopicTree")
+  words     Word[]  @relation("TopicWords")
+
+  listeningTracks ListeningTrack[]
+  readingPassages ReadingPassage[]
+
+  @@index([parentId])
+}
+
+model Word {
+  id            String    @id @default(cuid())
+  lemma         String
+  slug          String    @unique
+  cefr          CefrLevel
+  /// COCA/NGSL rank, lower is more frequent — drives teaching order.
+  frequencyRank Int?
+  ipaUs         String?
+  ipaUk         String?
+  audioUsUrl    String?
+  audioUkUrl    String?
+  syllables     String?
+  /// One digit per syllable, 1 marks the stressed one, e.g. "100".
+  stressPattern String?
+  imageUrl      String?
+  createdAt     DateTime  @default(now())
+  updatedAt     DateTime  @updatedAt
+
+  senses    WordSense[]
+  forms     WordForm[]
+  topics    Topic[]     @relation("TopicWords")
+  userWords UserWord[]
+  deckItems DeckItem[]
+
+  @@index([lemma])
+  @@index([cefr, frequencyRank])
+}
+
+model WordSense {
+  id            String       @id @default(cuid())
+  wordId        String
+  pos           PartOfSpeech
+  definitionEn  String
+  definitionVi  String
+  register      String?
+  order         Int          @default(0)
+
+  word      Word            @relation(fields: [wordId], references: [id], onDelete: Cascade)
+  examples  Example[]
+  relations SenseRelation[] @relation("SenseRelationFrom")
+  related   SenseRelation[] @relation("SenseRelationTo")
+
+  @@index([wordId])
+}
+
+model Example {
+  id             String  @id @default(cuid())
+  senseId        String
+  textEn         String
+  textVi         String
+  audioUrl       String?
+  /// Character offsets of the target word inside textEn, for bold highlighting.
+  highlightStart Int
+  highlightEnd   Int
+  source         String?
+
+  sense WordSense @relation(fields: [senseId], references: [id], onDelete: Cascade)
+
+  @@index([senseId])
+}
+
+model SenseRelation {
+  fromSenseId String
+  toSenseId   String
+  /// "synonym" | "antonym"
+  kind        String
+  strength    Float  @default(1)
+
+  fromSense WordSense @relation("SenseRelationFrom", fields: [fromSenseId], references: [id], onDelete: Cascade)
+  toSense   WordSense @relation("SenseRelationTo", fields: [toSenseId], references: [id], onDelete: Cascade)
+
+  @@id([fromSenseId, toSenseId, kind])
+  @@index([toSenseId])
+}
+
+model WordFamily {
+  id       String @id @default(cuid())
+  rootSlug String @unique
+  glossVi  String
+
+  members WordForm[]
+}
+
+model WordForm {
+  id       String       @id @default(cuid())
+  familyId String
+  wordId   String
+  pos      PartOfSpeech
+  suffix   String?
+  note     String?
+
+  family WordFamily @relation(fields: [familyId], references: [id], onDelete: Cascade)
+  word   Word       @relation(fields: [wordId], references: [id], onDelete: Cascade)
+
+  @@unique([familyId, wordId, pos])
+  @@index([wordId])
+}
+
+model SuffixRule {
+  id             String       @id @default(cuid())
+  suffix         String       @unique
+  pos            PartOfSpeech
+  /// 0..1 confidence that the suffix really signals this part of speech.
+  reliability    Float
+  explanationVi  String
+  examples       String[]
+  exceptions     String[]
+  order          Int          @default(0)
+}
+
+// ---------------------------------------------------------------------------
+// §5.4 Spaced repetition
+// ---------------------------------------------------------------------------
+
+model UserWord {
+  id             String    @id @default(cuid())
+  userId         String
+  wordId         String
+  state          SrsState  @default(NEW)
+  ease           Float     @default(2.5)
+  intervalDays   Float     @default(0)
+  repetitions    Int       @default(0)
+  lapses         Int       @default(0)
+  dueAt          DateTime
+  lastReviewedAt DateTime?
+  learningStep   Int       @default(0)
+  totalReviews   Int       @default(0)
+  correctReviews Int       @default(0)
+  sourceType     String?
+  sourceId       String?
+  isFavorite     Boolean   @default(false)
+  createdAt      DateTime  @default(now())
+
+  user       User        @relation(fields: [userId], references: [id], onDelete: Cascade)
+  word       Word        @relation(fields: [wordId], references: [id], onDelete: Cascade)
+  reviewLogs ReviewLog[]
+
+  @@unique([userId, wordId])
+  @@index([userId, dueAt])
+  @@index([userId, state])
+}
+
+model ReviewLog {
+  id           String   @id @default(cuid())
+  userWordId   String
+  userId       String
+  /// 0 Again | 1 Hard | 2 Good | 3 Easy
+  grade        Int
+  responseMs   Int
+  prevInterval Float
+  newInterval  Float
+  prevEase     Float
+  newEase      Float
+  prevState    SrsState
+  newState     SrsState
+  reviewedAt   DateTime @default(now())
+
+  userWord UserWord @relation(fields: [userWordId], references: [id], onDelete: Cascade)
+  user     User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId, reviewedAt])
+  @@index([userWordId])
+}
+
+model Deck {
+  id           String   @id @default(cuid())
+  userId       String
+  name         String
+  description  String?
+  emoji        String   @default("🌿")
+  isPublic     Boolean  @default(false)
+  forkedFromId String?
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+
+  user  User       @relation(fields: [userId], references: [id], onDelete: Cascade)
+  items DeckItem[]
+
+  @@index([userId])
+}
+
+model DeckItem {
+  id          String  @id @default(cuid())
+  deckId      String
+  wordId      String?
+  customFront String?
+  customBack  String?
+  order       Int     @default(0)
+
+  deck Deck  @relation(fields: [deckId], references: [id], onDelete: Cascade)
+  word Word? @relation(fields: [wordId], references: [id], onDelete: SetNull)
+
+  @@index([deckId])
+  @@index([wordId])
+}
+
+// ---------------------------------------------------------------------------
+// §5.5 Lessons, exercises, results
+// ---------------------------------------------------------------------------
+
+model Lesson {
+  id               String    @id @default(cuid())
+  slug             String    @unique
+  skill            Skill
+  cefr             CefrLevel
+  title            String
+  titleVi          String
+  summary          String
+  estimatedMinutes Int       @default(10)
+  order            Int       @default(0)
+  /// Lesson slugs that must be completed first (§7.8).
+  prerequisiteIds  String[]  @default([])
+  xpReward         Int       @default(20)
+  isPublished      Boolean   @default(false)
+  createdAt        DateTime  @default(now())
+  updatedAt        DateTime  @updatedAt
+
+  sections  LessonSection[]
+  exercises Exercise[]
+  progress  LessonProgress[]
+
+  @@index([skill, cefr, order])
+}
+
+model LessonSection {
+  id       String @id @default(cuid())
+  lessonId String
+  order    Int
+  /// "theory" | "examples" | "tips" | "common-mistakes"
+  kind     String
+  title    String
+  bodyMdx  String
+
+  lesson Lesson @relation(fields: [lessonId], references: [id], onDelete: Cascade)
+
+  @@index([lessonId, order])
+}
+
+model Exercise {
+  id            String       @id @default(cuid())
+  lessonId      String?
+  trackId       String?
+  passageId     String?
+  type          ExerciseType
+  cefr          CefrLevel
+  skill         Skill
+  prompt        String
+  promptVi      String?
+  /// Shape depends on `type` — validated with Zod before it reaches the client.
+  body          Json
+  answer        Json
+  /// Mandatory: never just right/wrong, always the reason (§5.5).
+  explanationVi String
+  difficulty    Float        @default(0.5)
+  tags          String[]     @default([])
+  order         Int          @default(0)
+
+  lesson   Lesson?         @relation(fields: [lessonId], references: [id], onDelete: Cascade)
+  track    ListeningTrack? @relation(fields: [trackId], references: [id], onDelete: Cascade)
+  passage  ReadingPassage? @relation(fields: [passageId], references: [id], onDelete: Cascade)
+  attempts ExerciseAttempt[]
+  testAnswers TestAnswer[]
+
+  @@index([lessonId, order])
+  @@index([trackId])
+  @@index([passageId])
+  @@index([skill, cefr])
+}
+
+model ExerciseAttempt {
+  id          String   @id @default(cuid())
+  userId      String
+  exerciseId  String
+  userAnswer  Json
+  isCorrect   Boolean
+  score       Float
+  timeSpentMs Int
+  hintsUsed   Int      @default(0)
+  attemptedAt DateTime @default(now())
+
+  user     User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  exercise Exercise @relation(fields: [exerciseId], references: [id], onDelete: Cascade)
+
+  @@index([userId, exerciseId])
+  @@index([userId, attemptedAt])
+}
+
+model LessonProgress {
+  userId        String
+  lessonId      String
+  /// "not_started" | "in_progress" | "completed"
+  status        String    @default("not_started")
+  progressPct   Int       @default(0)
+  lastSectionId String?
+  accuracy      Float?
+  startedAt     DateTime  @default(now())
+  completedAt   DateTime?
+
+  user   User   @relation(fields: [userId], references: [id], onDelete: Cascade)
+  lesson Lesson @relation(fields: [lessonId], references: [id], onDelete: Cascade)
+
+  @@id([userId, lessonId])
+  @@index([userId, status])
+}
+
+/// §5.5 — the mistake ledger that feeds the AI Tutor and Analytics.
+model MistakeLog {
+  id         String    @id @default(cuid())
+  userId     String
+  skill      Skill
+  category   String
+  detail     String
+  sourceType String
+  sourceId   String
+  occurredAt DateTime  @default(now())
+  resolvedAt DateTime?
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId, category])
+  @@index([userId, occurredAt])
+}
+
+// ---------------------------------------------------------------------------
+// §5.6 Listening / Reading / Speaking / Writing
+// ---------------------------------------------------------------------------
+
+model ListeningTrack {
+  id           String    @id @default(cuid())
+  slug         String    @unique
+  title        String
+  titleVi      String
+  cefr         CefrLevel
+  audioUrl     String
+  durationSec  Int
+  /// "US" | "UK" | "AU"
+  accent       String    @default("US")
+  /// "dialogue" | "monologue" | "news" | "podcast" | "interview"
+  format       String    @default("dialogue")
+  speakerCount Int       @default(1)
+  topicId      String?
+  isPublished  Boolean   @default(true)
+
+  topic      Topic?              @relation(fields: [topicId], references: [id], onDelete: SetNull)
+  transcript TranscriptSegment[]
+  exercises  Exercise[]
+
+  @@index([cefr])
+  @@index([topicId])
+}
+
+model TranscriptSegment {
+  id            String  @id @default(cuid())
+  trackId       String
+  order         Int
+  startMs       Int
+  endMs         Int
+  speaker       String?
+  text          String
+  /// [{ w, startMs, endMs, wordId? }] for karaoke highlighting and word clicks.
+  words         Json
+  translationVi String?
+
+  track ListeningTrack @relation(fields: [trackId], references: [id], onDelete: Cascade)
+
+  @@index([trackId, order])
+}
+
+model ReadingPassage {
+  id               String    @id @default(cuid())
+  slug             String    @unique
+  title            String
+  titleVi          String
+  cefr             CefrLevel
+  bodyMdx          String
+  wordCount        Int
+  estimatedMinutes Int
+  topicId          String?
+  source           String?
+  imageUrl         String?
+  ttsAudioUrl      String?
+  /// [{ wordId, lemma, offsetStart, offsetEnd }] — the words worth highlighting.
+  glossary         Json      @default("[]")
+  isPublished      Boolean   @default(true)
+
+  topic     Topic?     @relation(fields: [topicId], references: [id], onDelete: SetNull)
+  questions Exercise[]
+
+  @@index([cefr])
+  @@index([topicId])
+}
+
+model SpeakingScenario {
+  id            String    @id @default(cuid())
+  slug          String    @unique
+  title         String
+  titleVi       String
+  cefr          CefrLevel
+  /// "restaurant" | "interview" | "travel" | "smalltalk" | ...
+  category      String
+  coverImageUrl String?
+  aiPersona     String
+  objectives    String[]
+  /// [{ en, vi, when }] — suggestion cards in the sidebar.
+  usefulPhrases Json
+  maxTurns      Int       @default(12)
+
+  conversations AiConversation[]
+
+  @@index([category, cefr])
+}
+
+model SpeakingAttempt {
+  id                String   @id @default(cuid())
+  userId            String
+  /// "drill" | "roleplay" | "test"
+  kind              String
+  targetText        String?
+  audioUrl          String
+  transcript        String
+  durationMs        Int
+  accuracyScore     Float?
+  fluencyScore      Float?
+  completenessScore Float?
+  prosodyScore      Float?
+  overallScore      Float?
+  /// [{ word, score, errorType, phonemes: [{ p, score }] }]
+  wordScores        Json?
+  aiFeedbackVi      String?
+  status            String   @default("pending")
+  createdAt         DateTime @default(now())
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId, createdAt])
+}
+
+/// §7.14.7 — per-learner phoneme error statistics, feeds drill recommendations.
+model PronunciationIssue {
+  userId     String
+  phoneme    String
+  errorCount Int      @default(0)
+  totalCount Int      @default(0)
+  lastSeenAt DateTime @default(now())
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@id([userId, phoneme])
+}
+
+model SpeakingDrill {
+  id          String    @id @default(cuid())
+  slug        String    @unique
+  text        String
+  cefr        CefrLevel
+  /// Phoneme or pattern this drill targets, e.g. "θ" or "final-consonant".
+  focus       String
+  ipa         String?
+  translationVi String
+  audioUrl    String?
+  minimalPair String?
+  tipVi       String
+
+  @@index([focus, cefr])
+}
+
+model WritingPrompt {
+  id              String    @id @default(cuid())
+  slug            String    @unique
+  /// "sentence" | "paragraph" | "email" | "essay"
+  kind            String
+  cefr            CefrLevel
+  title           String
+  instructionsVi  String
+  instructionsEn  String
+  minWords        Int
+  maxWords        Int
+  rubricKeys      String[]  @default(["task", "organization", "vocabulary", "grammar"])
+  outlineVi       String?
+  sampleAnswer    String?
+  timeLimitMin    Int?
+
+  submissions WritingSubmission[]
+
+  @@index([kind, cefr])
+}
+
+model WritingSubmission {
+  id             String    @id @default(cuid())
+  userId         String
+  promptId       String?
+  freeTopic      String?
+  content        String
+  wordCount      Int
+  /// "draft" | "grading" | "graded" | "failed"
+  status         String    @default("draft")
+  overallScore   Float?
+  cefrEstimate   CefrLevel?
+  criteriaScores Json?
+  issues         Json?
+  rewrite        String?
+  rewriteNotes   Json?
+  strengths      String[]  @default([])
+  nextSteps      Json?
+  errorMessage   String?
+  submittedAt    DateTime  @default(now())
+  gradedAt       DateTime?
+
+  user   User           @relation(fields: [userId], references: [id], onDelete: Cascade)
+  prompt WritingPrompt? @relation(fields: [promptId], references: [id], onDelete: SetNull)
+
+  @@index([userId, submittedAt])
+}
+
+// ---------------------------------------------------------------------------
+// §5.7 Tests
+// ---------------------------------------------------------------------------
+
+model Test {
+  id          String     @id @default(cuid())
+  slug        String     @unique
+  /// "placement" | "skill" | "mixed" | "level-up"
+  kind        String
+  skill       Skill?
+  cefr        CefrLevel?
+  title       String
+  description String
+  durationMin Int
+  passScore   Int        @default(70)
+  isAdaptive  Boolean    @default(false)
+
+  sections TestSection[]
+  attempts TestAttempt[]
+
+  @@index([kind, skill])
+}
+
+model TestSection {
+  id           String   @id @default(cuid())
+  testId       String
+  skill        Skill
+  title        String
+  order        Int
+  timeLimitMin Int?
+  questionIds  String[] @default([])
+
+  test Test @relation(fields: [testId], references: [id], onDelete: Cascade)
+
+  @@index([testId, order])
+}
+
+model TestAttempt {
+  id          String     @id @default(cuid())
+  userId      String
+  testId      String
+  startedAt   DateTime   @default(now())
+  submittedAt DateTime?
+  totalScore  Float?
+  maxScore    Float      @default(0)
+  /// { LISTENING: 78, GRAMMAR: 65, ... }
+  skillScores Json?
+  cefrResult  CefrLevel?
+  /// Adaptive bookkeeping: current level, streaks, asked question ids.
+  adaptive    Json?
+
+  user    User         @relation(fields: [userId], references: [id], onDelete: Cascade)
+  test    Test         @relation(fields: [testId], references: [id], onDelete: Cascade)
+  answers TestAnswer[]
+
+  @@index([userId, testId])
+}
+
+/// Focused exam practice. Scores remain raw correct counts, never official bands.
+model ExamPrepAttempt {
+  id           String   @id @default(cuid())
+  userId       String
+  examId       String
+  levelId      String
+  activityId   String
+  skill        String
+  answersJson  Json?
+  content      String?
+  correctCount Int?
+  total        Int?
+  elapsedSec   Int
+  completedAt  DateTime @default(now())
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId, completedAt])
+  @@index([userId, examId, levelId])
+}
+
+model TestAnswer {
+  id         String   @id @default(cuid())
+  attemptId  String
+  exerciseId String
+  answer     Json
+  isCorrect  Boolean?
+  score      Float    @default(0)
+  aiFeedback String?
+  answeredAt DateTime @default(now())
+
+  attempt  TestAttempt @relation(fields: [attemptId], references: [id], onDelete: Cascade)
+  exercise Exercise    @relation(fields: [exerciseId], references: [id], onDelete: Cascade)
+
+  @@unique([attemptId, exerciseId])
+}
+
+// ---------------------------------------------------------------------------
+// §5.8 Gamification and analytics
+// ---------------------------------------------------------------------------
+
+model XpEvent {
+  id         String   @id @default(cuid())
+  userId     String
+  source     XpSource
+  amount     Int
+  multiplier Float    @default(1)
+  refType    String?
+  refId      String?
+  createdAt  DateTime @default(now())
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId, createdAt])
+}
+
+model Achievement {
+  id            String  @id @default(cuid())
+  slug          String  @unique
+  name          String
+  nameVi        String
+  description   String
+  descriptionVi String
+  icon          String
+  /// "bronze" | "silver" | "gold" | "legendary"
+  tier          String
+  /// { "type": "streak", "value": 7 } — read by the achievement engine.
+  condition     Json
+  xpReward      Int     @default(0)
+  coinReward    Int     @default(0)
+  isSecret      Boolean @default(false)
+  order         Int     @default(0)
+
+  users UserAchievement[]
+}
+
+model UserAchievement {
+  userId        String
+  achievementId String
+  unlockedAt    DateTime @default(now())
+
+  user        User        @relation(fields: [userId], references: [id], onDelete: Cascade)
+  achievement Achievement @relation(fields: [achievementId], references: [id], onDelete: Cascade)
+
+  @@id([userId, achievementId])
+}
+
+model Challenge {
+  id         String        @id @default(cuid())
+  type       ChallengeType
+  slug       String
+  title      String
+  titleVi    String
+  /// { "metric": "words_reviewed", "target": 30 }
+  goal       Json
+  xpReward   Int
+  coinReward Int
+  activeFrom DateTime
+  activeTo   DateTime
+
+  users UserChallenge[]
+
+  @@unique([slug, activeFrom])
+  @@index([type, activeFrom])
+}
+
+model UserChallenge {
+  userId      String
+  challengeId String
+  progress    Int       @default(0)
+  completedAt DateTime?
+  claimedAt   DateTime?
+
+  user      User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  challenge Challenge @relation(fields: [challengeId], references: [id], onDelete: Cascade)
+
+  @@id([userId, challengeId])
+}
+
+model CoinTransaction {
+  id        String   @id @default(cuid())
+  userId    String
+  amount    Int
+  reason    String
+  refId     String?
+  createdAt DateTime @default(now())
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId, createdAt])
+}
+
+model StudySession {
+  id             String    @id @default(cuid())
+  userId         String
+  skill          Skill?
+  startedAt      DateTime  @default(now())
+  endedAt        DateTime?
+  durationSec    Int       @default(0)
+  itemsCompleted Int       @default(0)
+  xpEarned       Int       @default(0)
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId, startedAt])
+}
+
+/// Nightly rollup so analytics reads never scan the event tables.
+model DailyStat {
+  userId         String
+  /// Learner local day, stored at UTC midnight of that calendar date.
+  date           DateTime @db.Date
+  studyMinutes   Int      @default(0)
+  xpEarned       Int      @default(0)
+  wordsLearned   Int      @default(0)
+  wordsReviewed  Int      @default(0)
+  accuracy       Float?
+  /// { VOCABULARY: 12, LISTENING: 8, ... } in minutes.
+  skillBreakdown Json     @default("{}")
+  goalMet        Boolean  @default(false)
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@id([userId, date])
+  @@index([userId, date])
+}
+
+model SkillScore {
+  userId       String
+  skill        Skill
+  score        Float      @default(0)
+  /// 0..1 — low confidence renders as "ước lượng sơ bộ" in the UI (§9.7).
+  confidence   Float      @default(0)
+  cefrEstimate CefrLevel?
+  observations Int        @default(0)
+  updatedAt    DateTime   @updatedAt
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@id([userId, skill])
+}
+
+model AiConversation {
+  id         String   @id @default(cuid())
+  userId     String
+  /// "tutor" | "roleplay" | "writing-feedback"
+  kind       String
+  scenarioId String?
+  title      String?
+  createdAt  DateTime @default(now())
+  updatedAt  DateTime @updatedAt
+
+  user     User              @relation(fields: [userId], references: [id], onDelete: Cascade)
+  scenario SpeakingScenario? @relation(fields: [scenarioId], references: [id], onDelete: SetNull)
+  messages AiMessage[]
+
+  @@index([userId, createdAt])
+}
+
+model AiMessage {
+  id             String   @id @default(cuid())
+  conversationId String
+  /// "user" | "assistant" | "system"
+  role           String
+  content        String
+  audioUrl       String?
+  /// [{ original, corrected, whyVi }]
+  corrections    Json?
+  tokensIn       Int?
+  tokensOut      Int?
+  model          String?
+  createdAt      DateTime @default(now())
+
+  conversation AiConversation @relation(fields: [conversationId], references: [id], onDelete: Cascade)
+
+  @@index([conversationId, createdAt])
+}
+
+/// §10.1 — mandatory cost ledger for every provider call.
+model AiUsageLog {
+  id        String   @id @default(cuid())
+  userId    String
+  feature   String
+  model     String
+  tokensIn  Int
+  tokensOut Int
+  costUsd   Float
+  createdAt DateTime @default(now())
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId, createdAt])
+}
+
+/// §8 — TTS and other generated media, cached by content hash so a given
+/// text+voice+speed is only ever synthesised once.
+model MediaAsset {
+  id        String   @id @default(cuid())
+  hash      String   @unique
+  kind      String
+  url       String
+  text      String?
+  voice     String?
+  speed     Float?
+  bytes     Int      @default(0)
+  createdAt DateTime @default(now())
+
+  @@index([kind])
+}
+
+// ---------------------------------------------------------------------------
+// Ngăn tiếng Trung (D-101). Toàn bộ nằm trong các model riêng: kho tiếng Anh
+// gắn chặt với CEFR, IPA và trọng âm, còn tiếng Trung cần chữ Hán, pinyin, âm
+// Hán Việt và nét bút, nên nhét chung một bảng chỉ làm hỏng cả hai.
+// ---------------------------------------------------------------------------
+
+enum LearningTrack {
+  ENGLISH
+  CHINESE
+}
+
+enum HskLevel {
+  HSK1
+  HSK2
+  HSK3
+  HSK4
+  HSK5
+  HSK6
+}
+
+/// Một chữ Hán đơn. Nét bút không nằm ở đây mà ở tệp tĩnh
+/// `apps/web/public/hanzi-data/<chữ>.json` — mỗi chữ vài KB đường SVG, để trong
+/// cột Json thì mọi truy vấn danh sách đều phải kéo theo.
+model Hanzi {
+  id            String   @id @default(cuid())
+  character     String   @unique
+  traditional   String?
+  /// Pinyin có số thanh, ví dụ "hao3" — khớp với khoá tra âm Hán Việt.
+  pinyinNumeric String?
+  /// Âm Hán Việt, thứ giúp người Việt đoán nghĩa nhanh hơn hẳn người học khác.
+  hanViet       String?
+  strokeCount   Int?
+  radical       String?
+  meaningVi     String?
+  /// Cấp HSK thấp nhất mà chữ này xuất hiện, dùng để xếp thứ tự học.
+  hskLevel      HskLevel
+  createdAt     DateTime @default(now())
+
+  words     ChineseWordHanzi[]
+  userHanzi UserHanzi[]
+
+  @@index([hskLevel, strokeCount])
+  @@index([strokeCount])
+}
+
+model ChineseWord {
+  id            String   @id @default(cuid())
+  simplified    String   @unique
+  traditional   String?
+  /// Pinyin có dấu thanh để hiển thị, ví dụ "nǐ hǎo".
+  pinyin        String
+  /// Pinyin có số thanh để tìm kiếm và so khớp, ví dụ "ni3 hao3".
+  pinyinNumeric String?
+  hanViet       String?
+  meaningVi     String
+  meaningEn     String?
+  hskLevel      HskLevel
+  /// Hạng tần suất, nhỏ hơn là hay gặp hơn — quyết định thứ tự dạy.
+  frequencyRank Int?
+  radical       String?
+  /// Nhãn từ loại theo bộ HSK ("n", "v", "adj"…), giữ nguyên dạng chuỗi vì
+  /// hệ thống từ loại tiếng Trung không trùng enum PartOfSpeech của tiếng Anh.
+  pos           String[] @default([])
+  /// Lượng từ đi kèm danh từ, ví dụ 本 cho 书.
+  classifiers   String[] @default([])
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+
+  hanzi     ChineseWordHanzi[]
+  userWords UserChineseWord[]
+  examples  ChineseExample[]
+
+  @@index([hskLevel, frequencyRank])
+  @@index([pinyinNumeric])
+}
+
+/// Bảng nối có thứ tự: cần biết chữ nào đứng thứ mấy trong từ để dựng bảng tập
+/// viết theo đúng trật tự chữ.
+model ChineseWordHanzi {
+  wordId   String
+  hanziId  String
+  position Int
+
+  word  ChineseWord @relation(fields: [wordId], references: [id], onDelete: Cascade)
+  hanzi Hanzi       @relation(fields: [hanziId], references: [id], onDelete: Cascade)
+
+  @@id([wordId, position])
+  @@index([hanziId])
+}
+
+model ChineseExample {
+  id           String  @id @default(cuid())
+  wordId       String
+  simplified   String
+  pinyin       String?
+  translationVi String
+  order        Int     @default(0)
+
+  word ChineseWord @relation(fields: [wordId], references: [id], onDelete: Cascade)
+
+  @@index([wordId])
+}
+
+/// Tiến độ SRS của một từ tiếng Trung. Lặp lại cấu trúc UserWord thay vì dùng
+/// chung: khoá ngoại trỏ sang bảng khác, và người học có thể đang ở hai ngăn
+/// với hai lịch ôn hoàn toàn độc lập.
+model UserChineseWord {
+  id             String    @id @default(cuid())
+  userId         String
+  wordId         String
+  state          SrsState  @default(NEW)
+  ease           Float     @default(2.5)
+  intervalDays   Float     @default(0)
+  repetitions    Int       @default(0)
+  lapses         Int       @default(0)
+  dueAt          DateTime
+  lastReviewedAt DateTime?
+  learningStep   Int       @default(0)
+  totalReviews   Int       @default(0)
+  correctReviews Int       @default(0)
+  isFavorite     Boolean   @default(false)
+  createdAt      DateTime  @default(now())
+
+  user User        @relation(fields: [userId], references: [id], onDelete: Cascade)
+  word ChineseWord @relation(fields: [wordId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, wordId])
+  @@index([userId, dueAt])
+  @@index([userId, state])
+}
+
+/// Tiến độ viết tay của một chữ, tách khỏi tiến độ từ vựng: nhận mặt chữ và
+/// viết được chữ là hai kỹ năng khác nhau, người học thuộc nghĩa từ lâu trước
+/// khi viết đúng nét.
+model UserHanzi {
+  id             String    @id @default(cuid())
+  userId         String
+  hanziId        String
+  state          SrsState  @default(NEW)
+  dueAt          DateTime
+  lastReviewedAt DateTime?
+  /// Số lần đã in bảng tập viết chứa chữ này.
+  sheetsPrinted  Int       @default(0)
+  /// Người học tự đánh dấu đã viết thuộc mặt chữ.
+  canWrite       Boolean   @default(false)
+  createdAt      DateTime  @default(now())
+
+  user  User  @relation(fields: [userId], references: [id], onDelete: Cascade)
+  hanzi Hanzi @relation(fields: [hanziId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, hanziId])
+  @@index([userId, dueAt])
+}

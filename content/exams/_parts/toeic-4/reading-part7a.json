@@ -1,0 +1,352 @@
+[
+  {
+    "id": "reading-part7-s1",
+    "skill": "reading",
+    "title": "Part 7 — Single passage 1: text message chain",
+    "format": "TOEIC Reading — Part 7 · Single passage (câu 147–148)",
+    "instructionsVi": "Chuỗi tin nhắn luôn có một câu hỏi về hàm ý của một dòng cụ thể. Đọc dòng ngay TRƯỚC câu được trích dẫn — đó là chỗ chứa đáp án.",
+    "promptEn": "Read the text message chain and answer questions 147 and 148.",
+    "passage": "Renata Vaz (08:41)\nThe crates are labelled by team name again. Half of them say 'Ops'.\n\nTomas Berdy (08:43)\nThere is no team called Ops.\n\nRenata Vaz (08:44)\nThat's rather my point.\n\nTomas Berdy (08:46)\nCan you open two or three and work out from the contents which floor they belong to?\n\nRenata Vaz (08:47)\nI can, but the removals crew are billing us by the hour and they're standing in the lobby watching me do it.\n\nTomas Berdy (08:49)\nUnderstood. Put anything unlabelled in the second-floor store, tell the crew to carry on with the rest, and I'll sort the strays this afternoon when the meter isn't running.",
+    "timeLimitSec": 120,
+    "questions": [
+      {
+        "id": "p7-147",
+        "kind": "mcq",
+        "prompt": "147. At 08:44, what does Ms Vaz mean when she writes, \"That's rather my point\"?",
+        "options": [
+          { "id": "a", "text": "She agrees that the labels are useless because the team no longer exists." },
+          { "id": "b", "text": "She wants Mr Berdy to contact the Ops team directly." },
+          { "id": "c", "text": "She thinks the crates were labelled by the removals crew." },
+          { "id": "d", "text": "She believes the team name has recently been changed." }
+        ],
+        "answer": "a",
+        "explanationVi": "Cô ấy vừa phàn nàn nhãn ghi 'Ops'; Tomas đáp 'chẳng có nhóm nào tên Ops'. Câu 'That's rather my point' nghĩa là: đúng vậy, và đó chính là vấn đề.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p7-148",
+        "kind": "mcq",
+        "prompt": "148. Why does Ms Vaz hesitate to open the crates?",
+        "options": [
+          { "id": "a", "text": "The crates are sealed and she has no tools." },
+          { "id": "b", "text": "The contractors are charging by the hour while she works." },
+          { "id": "c", "text": "She is not authorised to inspect other teams' property." },
+          { "id": "d", "text": "The second-floor store is already full." }
+        ],
+        "answer": "b",
+        "explanationVi": "'billing us by the hour and they're standing in the lobby watching me do it'. Tomas xác nhận bằng cách nói sẽ xử lý 'when the meter isn't running'.",
+        "difficulty": "hard"
+      }
+    ]
+  },
+  {
+    "id": "reading-part7-s2",
+    "skill": "reading",
+    "title": "Part 7 — Single passage 2: notice of a charging change",
+    "format": "TOEIC Reading — Part 7 · Single passage (câu 149–150)",
+    "instructionsVi": "Thông báo có ngoại lệ lồng trong ngoại lệ. Gạch chân mọi cụm 'unless', 'other than', 'except' trước khi trả lời.",
+    "promptEn": "Read the notice and answer questions 149 and 150.",
+    "passage": "NOTICE TO TENANTS — Loading bay access\n\nFrom 1 November the loading bay will operate on a booked-slot basis between 07:00 and 11:00. Slots are free and may be reserved up to fourteen days ahead through the building portal.\n\nOutside those hours the bay remains open without booking, other than on the first Monday of each month, when it is closed for cleaning from 06:00 until noon.\n\nVehicles arriving without a slot during booked hours will be directed to the overflow area on Mill Lane. There is no charge for the overflow area, but it is unattended and the building accepts no responsibility for goods left there.\n\nTenants who require a regular weekly slot should apply in writing to the building manager. Standing slots will not be granted to tenants who have failed to attend a booked slot more than twice in the preceding quarter.",
+    "timeLimitSec": 120,
+    "questions": [
+      {
+        "id": "p7-149",
+        "kind": "mcq",
+        "prompt": "149. On the first Monday of the month, when may a vehicle use the loading bay without a booking?",
+        "options": [
+          { "id": "a", "text": "At any time before 07:00" },
+          { "id": "b", "text": "Between 07:00 and 11:00" },
+          { "id": "c", "text": "After noon" },
+          { "id": "d", "text": "Not at all on that day" }
+        ],
+        "answer": "c",
+        "explanationVi": "Hai lớp hạn chế chồng lên nhau: 07:00–11:00 phải đặt chỗ, và thứ Hai đầu tháng đóng cửa 06:00–12:00. Khoảng duy nhất vừa mở vừa không cần đặt là sau 12 giờ trưa. (A) sai vì 06:00–12:00 đã đóng.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p7-150",
+        "kind": "mcq",
+        "prompt": "150. What is stated about the overflow area?",
+        "options": [
+          { "id": "a", "text": "It costs extra to use." },
+          { "id": "b", "text": "It must be booked in advance." },
+          { "id": "c", "text": "Goods are left there at the tenant's own risk." },
+          { "id": "d", "text": "It is closed on the first Monday of each month." }
+        ],
+        "answer": "c",
+        "explanationVi": "'unattended and the building accepts no responsibility'. Thông báo nói rõ khu này MIỄN PHÍ, nên (A) trái với văn bản.",
+        "difficulty": "hard"
+      }
+    ]
+  },
+  {
+    "id": "reading-part7-s3",
+    "skill": "reading",
+    "title": "Part 7 — Single passage 3: email declining a request",
+    "format": "TOEIC Reading — Part 7 · Single passage (câu 151–152)",
+    "instructionsVi": "Câu hỏi 'từ X gần nghĩa nhất với' luôn phải xét trong ngữ cảnh, không phải nghĩa phổ biến nhất của từ đó.",
+    "promptEn": "Read the email and answer questions 151 and 152.",
+    "passage": "To: All department heads\nFrom: Ines Caldas, Director of Finance\nSubject: Capital requests for Q1\n\nColleagues,\n\nThank you for the eleven capital requests submitted before Friday. I am approving three of them and holding the rest.\n\nI want to be straightforward about why, because 'held' can be read as a polite refusal and in this case it is not. The board has not yet ruled on the rent review at Harland House. Until it does, I do not know what our fixed costs are next year to within four hundred thousand pounds, and I am not going to commit capital against a figure I cannot state.\n\nThe three approvals are the ones where a delay would itself cost money: the compressor replacement, the licence renewal and the safety flooring in Bay 4.\n\nEverything else will be revisited in the week beginning 12 January, on the same papers. Please do not resubmit — I have them, they are good, and reworking them now would waste your time and mine.",
+    "timeLimitSec": 120,
+    "questions": [
+      {
+        "id": "p7-151",
+        "kind": "mcq",
+        "prompt": "151. The word \"held\" in paragraph 2 is closest in meaning to",
+        "options": [
+          { "id": "a", "text": "gripped" },
+          { "id": "b", "text": "postponed" },
+          { "id": "c", "text": "rejected" },
+          { "id": "d", "text": "contained" }
+        ],
+        "answer": "b",
+        "explanationVi": "Bà ấy nói rõ 'held' KHÔNG phải từ chối và các đề xuất sẽ được xem lại vào tháng Một → nghĩa là hoãn lại. (C) là chính cách hiểu bà ấy bác bỏ.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p7-152",
+        "kind": "mcq",
+        "prompt": "152. What do the three approved requests have in common?",
+        "options": [
+          { "id": "a", "text": "They were submitted first." },
+          { "id": "b", "text": "They cost less than the others." },
+          { "id": "c", "text": "Delaying them would create a cost." },
+          { "id": "d", "text": "They relate to the Harland House lease." }
+        ],
+        "answer": "c",
+        "explanationVi": "'the ones where a delay would itself cost money'. Bà ấy không hề nói gì về giá trị hay thứ tự nộp — (B) là suy đoán tự nhiên nhưng không có trong bài.",
+        "difficulty": "hard"
+      }
+    ]
+  },
+  {
+    "id": "reading-part7-s4",
+    "skill": "reading",
+    "title": "Part 7 — Single passage 4: letter to a trade magazine",
+    "format": "TOEIC Reading — Part 7 · Single passage (câu 153–155)",
+    "instructionsVi": "Thư bạn đọc mang quan điểm: câu hỏi hỏi lập luận của người viết, không hỏi sự kiện. Phân biệt điều người viết TIN với điều người viết THỪA NHẬN.",
+    "promptEn": "Read the letter and answer questions 153 through 155.",
+    "passage": "Sir,\n\nYour feature on warehouse automation (14 October) repeated a claim I have now read a dozen times: that automation reduces headcount. In my experience it does not — it relocates it.\n\nWe automated picking at our Bexley site in 2024. We employed forty-one people before and thirty-nine after. What changed was who they were. We lost eighteen pickers and gained sixteen maintenance technicians, controls engineers and exception handlers, at an average salary forty per cent higher.\n\nI am not arguing against automation. Our error rate fell by two thirds and we now run a night shift we could not previously staff. But anyone budgeting on the assumption that the wage bill falls is going to have an uncomfortable second year.\n\nThe honest case for automation is throughput and consistency. Firms that sell it on labour cost are, in my view, storing up disappointment — and, worse, encouraging boards to approve projects for the wrong reason and then judge them against the wrong measure.\n\nDaniel Oyelaran\nOperations Director, Trellis Distribution",
+    "timeLimitSec": 180,
+    "questions": [
+      {
+        "id": "p7-153",
+        "kind": "mcq",
+        "prompt": "153. What is the writer's main argument?",
+        "options": [
+          { "id": "a", "text": "Automation should be avoided in warehouses." },
+          { "id": "b", "text": "Automation changes the composition of a workforce rather than shrinking it." },
+          { "id": "c", "text": "Automation projects usually fail in their second year." },
+          { "id": "d", "text": "Warehouse wages are rising too quickly." }
+        ],
+        "answer": "b",
+        "explanationVi": "'it does not — it relocates it', minh hoạ bằng 41 người trước và 39 người sau. Ông ta nói thẳng 'I am not arguing against automation', nên (A) sai.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p7-154",
+        "kind": "mcq",
+        "prompt": "154. What does the writer acknowledge as a benefit?",
+        "options": [
+          { "id": "a", "text": "A lower total wage bill" },
+          { "id": "b", "text": "A reduction in staff numbers" },
+          { "id": "c", "text": "Fewer errors and the ability to run a night shift" },
+          { "id": "d", "text": "Shorter training times for new staff" }
+        ],
+        "answer": "c",
+        "explanationVi": "'Our error rate fell by two thirds and we now run a night shift'. Quỹ lương thực tế TĂNG vì lương bình quân cao hơn 40% — (A) ngược với bài.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p7-155",
+        "kind": "mcq",
+        "prompt": "155. Why does the writer object to selling automation on labour cost?",
+        "options": [
+          { "id": "a", "text": "It leads boards to approve projects for the wrong reason and assess them wrongly." },
+          { "id": "b", "text": "It makes suppliers quote unrealistically low prices." },
+          { "id": "c", "text": "It discourages firms from training their existing staff." },
+          { "id": "d", "text": "It exaggerates the improvement in throughput." }
+        ],
+        "answer": "a",
+        "explanationVi": "Câu cuối: 'encouraging boards to approve projects for the wrong reason and then judge them against the wrong measure'. Từ 'worse' cho biết đây mới là lý lẽ mạnh nhất của ông ta.",
+        "difficulty": "hard"
+      }
+    ]
+  },
+  {
+    "id": "reading-part7-s5",
+    "skill": "reading",
+    "title": "Part 7 — Single passage 5: article with a sentence to insert",
+    "format": "TOEIC Reading — Part 7 · Single passage (câu 156–158)",
+    "instructionsVi": "Câu hỏi chèn câu: thử từng vị trí và kiểm tra đại từ. Câu chèn có 'that', 'this', 'they' thì phải có danh từ tương ứng ở câu ngay trước vị trí đó.",
+    "promptEn": "Read the article and answer questions 156 through 158.",
+    "passage": "SHORTER NOTICE, FEWER LEAVERS\n\nA distribution firm in the north-west has cut voluntary turnover by nearly a third without raising pay, by changing how far ahead it publishes staff rotas.\n\n— [1] — Kestrel Freight moved from publishing its warehouse rota two weeks in advance to three, after exit interviews repeatedly cited the difficulty of arranging childcare.\n\nThe company had assumed the problem was the shifts themselves. — [2] — When it looked at the interview notes properly, the complaint was not about working evenings; it was about not knowing, three weeks out, whether one would be working evenings.\n\nMoving to three weeks was not free. Forecasting volume that far ahead is harder, and in the first quarter the firm carried about four per cent more hours than it strictly needed. — [3] — Against that, it recruited eleven fewer people over the year, at an average replacement cost the finance team puts at £2,600 each.\n\n— [4] — Other operators have been slower to follow, partly because the benefit shows up in a recruitment budget while the cost shows up in an operations budget, and the two are rarely read together.",
+    "timeLimitSec": 180,
+    "questions": [
+      {
+        "id": "p7-156",
+        "kind": "mcq",
+        "prompt": "156. In which of the positions marked [1], [2], [3] and [4] does the following sentence best belong?\n\n\"That assumption turned out to be wrong.\"",
+        "options": [
+          { "id": "a", "text": "[1]" },
+          { "id": "b", "text": "[2]" },
+          { "id": "c", "text": "[3]" },
+          { "id": "d", "text": "[4]" }
+        ],
+        "answer": "b",
+        "explanationVi": "'That assumption' phải trỏ về câu ngay trước: 'The company had assumed the problem was the shifts themselves.' Và câu sau vị trí [2] giải thích vì sao giả định đó sai.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p7-157",
+        "kind": "mcq",
+        "prompt": "157. What was the real reason staff gave for leaving?",
+        "options": [
+          { "id": "a", "text": "Evening shifts were unpopular." },
+          { "id": "b", "text": "Pay was below the local average." },
+          { "id": "c", "text": "They could not plan far enough ahead." },
+          { "id": "d", "text": "The warehouse was too far from public transport." }
+        ],
+        "answer": "c",
+        "explanationVi": "'not about working evenings; it was about not knowing, three weeks out, whether one would be working evenings'. (A) là đúng cái bị bác bỏ.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p7-158",
+        "kind": "mcq",
+        "prompt": "158. According to the article, why have other firms been slow to copy the change?",
+        "options": [
+          { "id": "a", "text": "The saving is too small to justify the effort." },
+          { "id": "b", "text": "Cost and benefit fall in budgets that are not compared." },
+          { "id": "c", "text": "Forecasting software cannot look three weeks ahead." },
+          { "id": "d", "text": "Staff have opposed longer notice periods." }
+        ],
+        "answer": "b",
+        "explanationVi": "'the benefit shows up in a recruitment budget while the cost shows up in an operations budget, and the two are rarely read together'. Đây là lý do tổ chức, không phải lý do kỹ thuật.",
+        "difficulty": "hard"
+      }
+    ]
+  },
+  {
+    "id": "reading-part7-s6",
+    "skill": "reading",
+    "title": "Part 7 — Single passage 6: escalation procedure",
+    "format": "TOEIC Reading — Part 7 · Single passage (câu 159–161)",
+    "instructionsVi": "Câu hỏi dạng NOT/EXCEPT: phải soát cả bốn phương án trong văn bản. Đừng dừng lại khi thấy phương án đầu tiên đúng.",
+    "promptEn": "Read the procedure and answer questions 159 through 161.",
+    "passage": "PROCEDURE OP-14 — Incident escalation (revision 3, effective 1 March)\n\n1. Scope\nThis procedure applies to all incidents affecting a customer-facing service. It does not apply to internal tooling, which is covered by OP-22.\n\n2. Trigger\nEscalation is triggered by elapsed time alone. Ninety minutes from the opening of the ticket without a confirmed fix escalates the incident to the duty manager. The engineer's assessment of severity does not affect whether escalation occurs; it affects only what is written in the ticket.\n\n3. Duty manager\nOn receiving an escalation, the duty manager must within fifteen minutes select one of three actions and record it: (a) assign a second engineer; (b) notify the affected customers; (c) stand the incident down with a written reason. The duty manager does not take over the technical work.\n\n4. New starters\nEngineers in their first month are paired with an experienced colleague for all on-call shifts. Neither engineer may stand an incident down alone during that period.\n\n5. Review\nAll escalations are reviewed weekly. Incidents stood down and subsequently reopened are reviewed individually with the duty manager concerned. The review is not a disciplinary process and its notes are not retained on personnel files.",
+    "timeLimitSec": 180,
+    "questions": [
+      {
+        "id": "p7-159",
+        "kind": "mcq",
+        "prompt": "159. What triggers an escalation?",
+        "options": [
+          { "id": "a", "text": "The engineer classifying the incident as severe" },
+          { "id": "b", "text": "Ninety minutes passing without a confirmed fix" },
+          { "id": "c", "text": "A customer complaint being received" },
+          { "id": "d", "text": "The duty manager requesting a report" }
+        ],
+        "answer": "b",
+        "explanationVi": "'Escalation is triggered by elapsed time alone'. Đánh giá mức độ nghiêm trọng chỉ ảnh hưởng tới nội dung ghi trong phiếu — điều này được nói rõ để loại (A).",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p7-160",
+        "kind": "mcq",
+        "prompt": "160. What is the duty manager NOT expected to do?",
+        "options": [
+          { "id": "a", "text": "Record the action chosen" },
+          { "id": "b", "text": "Notify affected customers" },
+          { "id": "c", "text": "Carry out the technical repair" },
+          { "id": "d", "text": "Assign a second engineer" }
+        ],
+        "answer": "c",
+        "explanationVi": "'The duty manager does not take over the technical work'. Ba phương án kia đều nằm trong danh sách nhiệm vụ ở mục 3.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p7-161",
+        "kind": "mcq",
+        "prompt": "161. What is stated about the weekly review?",
+        "options": [
+          { "id": "a", "text": "Its notes are kept in the engineer's personnel file." },
+          { "id": "b", "text": "It may result in disciplinary action." },
+          { "id": "c", "text": "It covers only incidents that were reopened." },
+          { "id": "d", "text": "It looks at every escalation, with reopened cases examined separately." }
+        ],
+        "answer": "d",
+        "explanationVi": "'All escalations are reviewed weekly' cộng với việc các vụ mở lại được xem xét riêng. (C) chỉ đúng một nửa và bỏ mất chữ 'All'.",
+        "difficulty": "hard"
+      }
+    ]
+  },
+  {
+    "id": "reading-part7-s7",
+    "skill": "reading",
+    "title": "Part 7 — Single passage 7: online chat, four writers",
+    "format": "TOEIC Reading — Part 7 · Single passage (câu 162–165)",
+    "instructionsVi": "Trò chuyện nhóm bốn người: theo dõi ai làm việc gì, và một câu hỏi sẽ hỏi hàm ý của một dòng ngắn.",
+    "promptEn": "Read the online chat discussion and answer questions 162 through 165.",
+    "passage": "GROUP CHAT — Supplier Day planning\n\nHana Ito (14:02)\nRoom A has no working projector. Facilities can't get a part until Friday.\n\nOmar Beshir (14:03)\nThe quality session is in Room A. It's forty slides.\n\nHana Ito (14:04)\nRoom C is free all morning and has a projector.\n\nLucia Marsh (14:06)\nRoom C seats thirty. We have forty-two confirmed.\n\nOmar Beshir (14:07)\nHow many of the forty-two are suppliers rather than our own people?\n\nLucia Marsh (14:08)\nTwenty-six suppliers, sixteen internal.\n\nOmar Beshir (14:09)\nThen we don't all need to be in the room. I'll ask our sixteen to watch the stream from the atrium and keep Room C for suppliers plus the two presenters.\n\nPeter Hallam (14:11)\nThe stream needs a licence upgrade for more than ten viewers. That's a purchase order and Ade is on leave until Monday.\n\nOmar Beshir (14:12)\nOf course it does.\n\nLucia Marsh (14:14)\nSimplest fix: move quality to the atrium, which holds ninety and has a screen, and leave Room C for the contract session, which is twelve people.\n\nHana Ito (14:15)\nThat works. I'll update the printed agenda and reprint tonight.\n\nPeter Hallam (14:16)\nI'll tell Facilities to stop chasing the projector part as urgent.",
+    "timeLimitSec": 180,
+    "questions": [
+      {
+        "id": "p7-162",
+        "kind": "mcq",
+        "prompt": "162. What was the original problem?",
+        "options": [
+          { "id": "a", "text": "Too few suppliers had confirmed attendance." },
+          { "id": "b", "text": "A room booked for a session had no working projector." },
+          { "id": "c", "text": "The printed agenda contained the wrong times." },
+          { "id": "d", "text": "The streaming licence had expired." }
+        ],
+        "answer": "b",
+        "explanationVi": "Dòng đầu tiên của Hana. Vấn đề giấy phép phát trực tuyến chỉ nảy sinh về sau như một hệ quả — không phải vấn đề gốc.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p7-163",
+        "kind": "mcq",
+        "prompt": "163. At 14:12, what does Mr Beshir mean when he writes, \"Of course it does\"?",
+        "options": [
+          { "id": "a", "text": "He is confirming that he knew about the licence requirement." },
+          { "id": "b", "text": "He is expressing resignation at another obstacle." },
+          { "id": "c", "text": "He is agreeing to raise the purchase order himself." },
+          { "id": "d", "text": "He is asking Mr Hallam to check the licence terms." }
+        ],
+        "answer": "b",
+        "explanationVi": "Đề xuất của anh ta vừa bị chặn bởi một rào cản thứ ba liên tiếp. Đây là câu than mỉa mai, không phải xác nhận đã biết trước — nếu biết trước thì đã không đề xuất.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p7-164",
+        "kind": "mcq",
+        "prompt": "164. What solution is finally agreed?",
+        "options": [
+          { "id": "a", "text": "The quality session moves to the atrium and Room C hosts the contract session." },
+          { "id": "b", "text": "Internal staff watch a stream from the atrium." },
+          { "id": "c", "text": "The quality session is postponed until Friday." },
+          { "id": "d", "text": "Room A is used with a borrowed projector." }
+        ],
+        "answer": "a",
+        "explanationVi": "Đề xuất của Lucia lúc 14:14 được Hana chấp nhận. (B) là phương án của Omar đã bị loại vì vướng giấy phép — bẫy chọn nhầm giải pháp giữa chừng.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p7-165",
+        "kind": "mcq",
+        "prompt": "165. What will Ms Ito do?",
+        "options": [
+          { "id": "a", "text": "Contact Facilities about the projector" },
+          { "id": "b", "text": "Raise a purchase order on Monday" },
+          { "id": "c", "text": "Revise and reprint the agenda" },
+          { "id": "d", "text": "Confirm the number of suppliers attending" }
+        ],
+        "answer": "c",
+        "explanationVi": "'I'll update the printed agenda and reprint tonight'. (A) là việc Peter nhận. Câu hỏi 'ai làm gì' luôn xuất hiện ở cuối bài chat nhiều người.",
+        "difficulty": "hard"
+      }
+    ]
+  }
+]

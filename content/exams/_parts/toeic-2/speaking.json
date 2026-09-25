@@ -1,0 +1,56 @@
+[
+  {
+    "id": "speaking-describe-picture-office",
+    "skill": "speaking",
+    "title": "Speaking Q3 — Describe a picture",
+    "format": "TOEIC Speaking — Describe a Picture · 45 giây chuẩn bị, 45 giây nói",
+    "instructionsVi": "Ở mức này cảnh có nhiều người và nhiều hoạt động hơn. Chọn lọc chứ đừng kể hết — nói kỹ ba tới bốn chi tiết tốt hơn liệt kê mười chi tiết cụt.",
+    "promptEn": "Describe the scene below in as much detail as you can. You have 45 seconds to prepare and 45 seconds to speak.\n\nSCENE: An open-plan office during a working day. In the foreground, four people sit around a small round table; one of them is pointing at a laptop screen and the others are looking at it. Behind them, rows of desks with computers, where about eight people are working individually. On the right, a woman in a blue shirt stands at a whiteboard covered in diagrams, talking to a man holding a notebook. Large windows on the left let in bright daylight. Several plants are placed between the desks.",
+    "timeLimitSec": 45,
+    "preparationSec": 45,
+    "sampleAnswer": "This picture shows an open-plan office, and it seems to be during a normal working day.\n\nIn the foreground, there are four people sitting around a small round table. One of them is pointing at a laptop screen, and the others are looking at it, so they are probably discussing something on the screen together.\n\nBehind this group, I can see several rows of desks with computers. About eight people are working there individually, and they seem to be concentrating on their own tasks.\n\nOn the right-hand side of the picture, a woman in a blue shirt is standing at a whiteboard which is covered in diagrams. She is talking to a man who is holding a notebook, so she may be explaining something to him.\n\nOn the left, there are large windows and the room looks very bright. There are also several plants placed between the desks, which makes the office feel quite pleasant.",
+    "rubricVi": [
+      "Mở đầu bằng câu bao quát, rồi đi theo trật tự không gian: tiền cảnh → hậu cảnh → hai bên. Trật tự rõ ràng là điểm chấm mạch lạc.",
+      "Hiện tại tiếp diễn cho hành động, hiện tại đơn cho trạng thái tĩnh ('there are', 'the room looks').",
+      "Chọn lọc chi tiết. Cảnh đông người mà cố kể hết sẽ hết giờ khi mới tả xong một nửa.",
+      "Dùng từ phỏng đoán khi suy ra mục đích: probably, seem to, may be. Khẳng định chắc chắn điều không nhìn thấy được là lỗi nội dung.",
+      "Nói hết 45 giây, kết bằng một nhận xét chung về không khí bức ảnh."
+    ]
+  },
+  {
+    "id": "speaking-respond-information",
+    "skill": "speaking",
+    "title": "Speaking Q7–9 — Respond using information provided",
+    "format": "TOEIC Speaking — Respond Using Information Provided · 30 giây đọc bảng, không chuẩn bị thêm",
+    "instructionsVi": "Bạn có 30 giây đọc bảng thông tin, sau đó trả lời ba câu hỏi bằng chính thông tin đó. Câu thứ ba luôn yêu cầu đọc ra NHIỀU mục — hãy nói đủ, đừng tóm tắt.",
+    "promptEn": "You have 30 seconds to read the schedule below. Then answer the three questions using the information given.\n\nHARBOURVIEW LOGISTICS — Staff Induction Day, 14 October\nVenue: Training Room B, second floor\n\n09:00–09:30  Welcome and site tour — Ivan Petrov, Operations Director\n09:30–10:45  Health and safety briefing — Nadia Haddad\n10:45–11:00  Break\n11:00–12:15  Warehouse systems training — Sam Okafor\n12:15–13:00  Lunch (provided)\n13:00–14:30  Customer handling workshop — Nadia Haddad\n14:30–15:00  Questions and paperwork — HR team\n\nNote: Safety boots required for the site tour.\n\nQuestions:\n1. What time does the induction begin, and where is it held?\n2. I heard lunch isn't included — is that right?\n3. Could you tell me everything Nadia Haddad is running that day?",
+    "timeLimitSec": 60,
+    "preparationSec": 30,
+    "sampleAnswer": "1. The induction day begins at nine o'clock in the morning, and it is held in Training Room B, which is on the second floor.\n\n2. Actually, that's not correct. Lunch is provided, and it runs from twelve fifteen to one o'clock.\n\n3. Certainly. Nadia Haddad is running two sessions that day. The first is the health and safety briefing, from nine thirty to ten forty-five in the morning. The second is the customer handling workshop, which runs in the afternoon from one o'clock to half past two. I should also mention that you will need safety boots for the site tour at the start of the day.",
+    "rubricVi": [
+      "Câu 2 là dạng thông tin SAI cần đính chính. Phải nói rõ 'that's not correct' rồi đưa thông tin đúng — chỉ trả lời 'yes' là sai nội dung.",
+      "Câu 3 yêu cầu liệt kê ĐỦ mọi mục liên quan tới một người. Bỏ sót một buổi là mất điểm hoàn thành nhiệm vụ.",
+      "Đọc giờ giấc thành lời cho tự nhiên: 'nine thirty', 'half past two', không đọc như đọc số.",
+      "Chỉ dùng thông tin trong bảng, không bịa thêm. Đây là phần chấm độ chính xác chứ không chấm sáng tạo.",
+      "Giữ giọng như đang trả lời điện thoại cho đồng nghiệp: lịch sự và trực tiếp."
+    ]
+  },
+  {
+    "id": "speaking-propose-solution",
+    "skill": "speaking",
+    "title": "Speaking Q10 — Propose a solution",
+    "format": "TOEIC Speaking — Propose a Solution · 30 giây chuẩn bị, 60 giây nói",
+    "instructionsVi": "Nghe một vấn đề rồi đề xuất cách xử lý trong 60 giây. Cấu trúc bắt buộc: xác nhận đã hiểu vấn đề → nêu giải pháp → nêu bước tiếp theo. Thiếu bước đầu là mất điểm ngay.",
+    "promptEn": "Listen to the voicemail describing a problem, then leave a message proposing a solution.\n\nVOICEMAIL: 'Hi, this is Grace Lin from Ardmore Consulting. We booked your conference room for a client presentation this Thursday at two o'clock, for twelve people. I have just been told by your reception that the room only seats eight, and that the projector in that room has been out of order since last week. This presentation is very important to us and I need to know what you can do. Please call me back on 0203 774 1189.'",
+    "timeLimitSec": 60,
+    "preparationSec": 30,
+    "sampleAnswer": "Hello Ms Lin, this is Daniel Osei from the Kingsway Business Centre, returning your call.\n\nI'm very sorry about this. I understand that you booked our conference room for twelve people this Thursday at two o'clock, but the room only seats eight and the projector there is currently out of order. I can see why that's a serious problem for a client presentation.\n\nHere's what I'd like to propose. We have a larger room on the ground floor, the Sherwood Suite, which seats up to twenty and has a working projector and a screen. It is free on Thursday afternoon, so I can move your booking there at no additional charge, and I'll have the equipment tested on Wednesday so we know it works before you arrive.\n\nIf that suits you, please call me back on this number and I'll confirm the change today. If you would prefer a different option, I'm happy to discuss that too.",
+    "rubricVi": [
+      "PHẢI nhắc lại vấn đề để chứng tỏ đã nghe hiểu, kể cả hai chi tiết: sức chứa và máy chiếu. Bỏ một chi tiết là mất điểm.",
+      "Giải pháp phải cụ thể và giải quyết cả hai vấn đề cùng lúc, không chỉ một.",
+      "Nêu bước tiếp theo rõ ràng ở cuối (gọi lại, xác nhận hôm nay). Thiếu phần này bài nghe như chưa xong.",
+      "Xưng tên và tổ chức ngay đầu tin nhắn — đây là chuẩn để lại lời nhắn công việc.",
+      "Dùng hết 60 giây và giữ nhịp đều. Nói vội để nhồi thêm ý làm giảm điểm phát âm."
+    ]
+  }
+]

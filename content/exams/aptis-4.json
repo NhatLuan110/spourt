@@ -1,0 +1,969 @@
+{
+  "examId": "aptis",
+  "levelId": "4",
+  "vocabulary": [
+    {
+      "id": "compelling",
+      "term": "compelling",
+      "ipa": "/kəmˈpelɪŋ/",
+      "meaningVi": "thuyết phục, khó bác bỏ",
+      "definitionEn": "So strong or convincing that it demands attention or agreement.",
+      "example": "The case for delaying the launch is compelling.",
+      "exampleVi": "Lý lẽ cho việc hoãn ra mắt là rất thuyết phục.",
+      "collocations": [
+        "a compelling case",
+        "compelling evidence",
+        "compelling reason"
+      ]
+    },
+    {
+      "id": "inadvertently",
+      "term": "inadvertently",
+      "ipa": "/ˌɪnədˈvɜːtəntli/",
+      "meaningVi": "vô tình, không chủ ý",
+      "definitionEn": "Without intending to; by accident.",
+      "example": "The new rule inadvertently made things harder for part-time staff.",
+      "exampleVi": "Quy định mới vô tình khiến nhân viên bán thời gian gặp khó hơn.",
+      "collocations": [
+        "inadvertently create",
+        "inadvertently exclude",
+        "quite inadvertently"
+      ]
+    },
+    {
+      "id": "disproportionate",
+      "term": "disproportionate",
+      "ipa": "/ˌdɪsprəˈpɔːʃənət/",
+      "meaningVi": "không tương xứng, quá mức",
+      "definitionEn": "Too large or too small in relation to something else.",
+      "example": "A disproportionate share of the cost falls on small suppliers.",
+      "exampleVi": "Một phần chi phí không tương xứng đổ lên các nhà cung cấp nhỏ.",
+      "collocations": [
+        "disproportionate impact",
+        "disproportionately affected",
+        "out of proportion"
+      ]
+    },
+    {
+      "id": "pragmatic",
+      "term": "pragmatic",
+      "ipa": "/præɡˈmætɪk/",
+      "meaningVi": "thực dụng, thiên về khả thi",
+      "definitionEn": "Dealing with things in a practical way rather than by fixed principles.",
+      "example": "We took a pragmatic view and kept the old system for another year.",
+      "exampleVi": "Chúng tôi chọn cách nhìn thực tế và giữ hệ thống cũ thêm một năm.",
+      "collocations": [
+        "a pragmatic approach",
+        "pragmatic decision",
+        "pragmatically"
+      ]
+    },
+    {
+      "id": "vested",
+      "term": "vested interest",
+      "ipa": "/ˌvestɪd ˈɪntrəst/",
+      "meaningVi": "lợi ích riêng, quyền lợi gắn liền",
+      "definitionEn": "A personal reason for wanting a situation to stay as it is.",
+      "example": "Existing operators have a vested interest in keeping entry difficult.",
+      "exampleVi": "Các đơn vị đang hoạt động có lợi ích riêng trong việc giữ rào cản gia nhập.",
+      "collocations": [
+        "a vested interest in",
+        "vested interests",
+        "declare an interest"
+      ]
+    },
+    {
+      "id": "prohibitive",
+      "term": "prohibitive",
+      "ipa": "/prəˈhɪbətɪv/",
+      "meaningVi": "cao đến mức không kham nổi",
+      "definitionEn": "So expensive or difficult that it prevents something happening.",
+      "example": "The cost of retrofitting older buildings is often prohibitive.",
+      "exampleVi": "Chi phí cải tạo các toà nhà cũ thường cao tới mức không kham nổi.",
+      "collocations": [
+        "prohibitively expensive",
+        "prohibitive cost",
+        "prohibitive barrier"
+      ]
+    },
+    {
+      "id": "erode",
+      "term": "erode",
+      "ipa": "/ɪˈrəʊd/",
+      "meaningVi": "làm xói mòn dần",
+      "definitionEn": "To gradually reduce or destroy something such as trust or value.",
+      "example": "Repeated delays eroded confidence in the programme.",
+      "exampleVi": "Việc chậm trễ lặp lại đã làm xói mòn niềm tin vào chương trình.",
+      "collocations": [
+        "erode trust",
+        "gradually eroded",
+        "erosion of"
+      ]
+    },
+    {
+      "id": "reconcile",
+      "term": "reconcile",
+      "ipa": "/ˈrekənsaɪl/",
+      "meaningVi": "dung hoà, làm cho tương thích",
+      "definitionEn": "To find a way for two opposing things to exist together.",
+      "example": "It is difficult to reconcile speed with thoroughness.",
+      "exampleVi": "Khó dung hoà giữa tốc độ và sự kỹ lưỡng.",
+      "collocations": [
+        "reconcile two aims",
+        "hard to reconcile",
+        "reconcile differences"
+      ]
+    },
+    {
+      "id": "arbitrary",
+      "term": "arbitrary",
+      "ipa": "/ˈɑːbɪtrəri/",
+      "meaningVi": "tuỳ tiện, không có căn cứ rõ",
+      "definitionEn": "Decided without a clear reason or system.",
+      "example": "The thirty-day limit is essentially arbitrary.",
+      "exampleVi": "Mốc ba mươi ngày về cơ bản là tuỳ tiện.",
+      "collocations": [
+        "an arbitrary figure",
+        "seemingly arbitrary",
+        "arbitrary distinction"
+      ]
+    },
+    {
+      "id": "entail",
+      "term": "entail",
+      "ipa": "/ɪnˈteɪl/",
+      "meaningVi": "kéo theo, đòi hỏi",
+      "definitionEn": "To involve something as a necessary part or result.",
+      "example": "Moving to the new site would entail retraining half the staff.",
+      "exampleVi": "Chuyển sang cơ sở mới sẽ kéo theo việc đào tạo lại một nửa nhân sự.",
+      "collocations": [
+        "entail a cost",
+        "what this entails",
+        "necessarily entail"
+      ]
+    },
+    {
+      "id": "scrutiny",
+      "term": "scrutiny",
+      "ipa": "/ˈskruːtəni/",
+      "meaningVi": "sự soi xét kỹ lưỡng",
+      "definitionEn": "Careful and critical examination of something.",
+      "example": "The figures do not hold up under scrutiny.",
+      "exampleVi": "Các con số không đứng vững khi bị soi xét kỹ.",
+      "collocations": [
+        "under scrutiny",
+        "close scrutiny",
+        "withstand scrutiny"
+      ]
+    },
+    {
+      "id": "provisional",
+      "term": "provisional",
+      "ipa": "/prəˈvɪʒənl/",
+      "meaningVi": "tạm thời, chưa chính thức",
+      "definitionEn": "Arranged for the present but likely to be changed.",
+      "example": "These conclusions are provisional until the audit is complete.",
+      "exampleVi": "Các kết luận này chỉ là tạm thời cho tới khi kiểm toán xong.",
+      "collocations": [
+        "provisional agreement",
+        "provisional figures",
+        "remain provisional"
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "id": "reading-part1-consultation",
+      "skill": "reading",
+      "title": "Part 1 — Sentence comprehension",
+      "format": "Aptis Reading — Part 1 · Điền từ vào một đoạn văn ngắn",
+      "instructionsVi": "Ở mức C1, các phương án sai đều dùng được về ngữ pháp và gần đúng về nghĩa; chỉ sắc thái hoặc cụm cố định mới phân biệt được. Đọc trọn đoạn trước khi chọn.",
+      "promptEn": "Read the text and choose the best word for each gap.",
+      "passage": "Dear colleagues,\n\nThank you for your responses to the consultation on the revised assessment policy.\n\nThe case for reducing the number of assessment points is (1) ______ : staff and students agree that the current volume leaves little time for feedback to be acted on. What the responses also revealed, however, is that the previous reform (2) ______ created a problem it was meant to solve, by concentrating assessment into a shorter window.\n\nSeveral respondents noted that any change (3) ______ substantial work in rewriting module descriptors, and that doing this badly would be worse than not doing it at all. The committee accepts this and proposes a phased approach.\n\nThese proposals remain (4) ______ until the January board, and further comments are welcome before then.\n\nThe Assessment Working Group",
+      "timeLimitSec": 200,
+      "questions": [
+        {
+          "id": "e1",
+          "kind": "mcq",
+          "prompt": "Gap (1)",
+          "options": [
+            {
+              "id": "a",
+              "text": "prohibitive"
+            },
+            {
+              "id": "b",
+              "text": "arbitrary"
+            },
+            {
+              "id": "c",
+              "text": "compelling"
+            },
+            {
+              "id": "d",
+              "text": "provisional"
+            }
+          ],
+          "answer": "c",
+          "explanationVi": "Dấu hai chấm sau chỗ trống dẫn ra bằng chứng ủng hộ, nên lý lẽ phải là 'compelling'. 'arbitrary' nghĩa ngược hẳn."
+        },
+        {
+          "id": "e2",
+          "kind": "mcq",
+          "prompt": "Gap (2)",
+          "options": [
+            {
+              "id": "a",
+              "text": "deliberately"
+            },
+            {
+              "id": "b",
+              "text": "inadvertently"
+            },
+            {
+              "id": "c",
+              "text": "disproportionately"
+            },
+            {
+              "id": "d",
+              "text": "pragmatically"
+            }
+          ],
+          "answer": "b",
+          "explanationVi": "Cải cách trước TẠO RA đúng vấn đề nó định giải quyết — đó là hệ quả ngoài ý muốn. 'deliberately' làm câu vô lý."
+        },
+        {
+          "id": "e3",
+          "kind": "mcq",
+          "prompt": "Gap (3)",
+          "options": [
+            {
+              "id": "a",
+              "text": "entails"
+            },
+            {
+              "id": "b",
+              "text": "entitles"
+            },
+            {
+              "id": "c",
+              "text": "enables"
+            },
+            {
+              "id": "d",
+              "text": "endures"
+            }
+          ],
+          "answer": "a",
+          "explanationVi": "'entail' = kéo theo như một phần tất yếu. 'entitle' là trao quyền, 'enable' là cho phép — cả hai đảo ngược sắc thái gánh nặng."
+        },
+        {
+          "id": "e4",
+          "kind": "mcq",
+          "prompt": "Gap (4)",
+          "options": [
+            {
+              "id": "a",
+              "text": "compelling"
+            },
+            {
+              "id": "b",
+              "text": "prohibitive"
+            },
+            {
+              "id": "c",
+              "text": "vested"
+            },
+            {
+              "id": "d",
+              "text": "provisional"
+            }
+          ],
+          "answer": "d",
+          "explanationVi": "'remain provisional until…' = còn tạm thời cho tới khi hội đồng họp. Cụm 'remain provisional' là collocation cố định."
+        }
+      ]
+    },
+    {
+      "id": "reading-part3-opinions-ai",
+      "skill": "reading",
+      "title": "Part 3 — Opinion matching",
+      "format": "Aptis Reading — Part 3 · Nối ý kiến với người nói",
+      "instructionsVi": "Ở C1, cả bốn người đều nêu quan điểm có sắc thái và ba trong bốn người có thể cùng nói về một khía cạnh. Chỉ chi tiết quyết định mới phân biệt được.",
+      "promptEn": "Four people talk about using AI tools at work. Decide who says each of the following.",
+      "passage": "HELENA: I use them constantly and I'd defend that. What I've become careful about is the first draft problem — whatever the tool produces becomes the thing you edit, and you stop asking whether the shape was right in the first place. I now write my own outline before I open it.\n\nJOON: My objection isn't about quality. The output is often fine. It's that we've adopted these tools across the organisation without ever deciding what we'd stop doing with the time saved, so people are simply producing more documents that nobody reads.\n\nBEATRIZ: I was sceptical and I've changed my mind, though not for the reason I expected. It hasn't made my writing better. It's made me willing to attempt things I'd have avoided — I'll draft in Portuguese now, which I'd never have risked before.\n\nDEV: I'd separate two uses. For generating text, I'm unconvinced; it's confident and frequently wrong, and checking it takes as long as writing it. For summarising material I've already read, it's genuinely useful, because I can tell immediately when the summary is off.",
+      "timeLimitSec": 240,
+      "questions": [
+        {
+          "id": "a1",
+          "kind": "mcq",
+          "prompt": "Who is concerned that the tools narrow their thinking before they start?",
+          "options": [
+            {
+              "id": "a",
+              "text": "Joon"
+            },
+            {
+              "id": "b",
+              "text": "Beatriz"
+            },
+            {
+              "id": "c",
+              "text": "Dev"
+            },
+            {
+              "id": "d",
+              "text": "Helena"
+            }
+          ],
+          "answer": "d",
+          "explanationVi": "Helena nêu 'the first draft problem': bản nháp máy tạo ra thành cái bạn sửa, và bạn thôi hỏi liệu cấu trúc ban đầu có đúng không."
+        },
+        {
+          "id": "a2",
+          "kind": "mcq",
+          "prompt": "Whose objection is about organisational decisions rather than the tools themselves?",
+          "options": [
+            {
+              "id": "a",
+              "text": "Helena"
+            },
+            {
+              "id": "b",
+              "text": "Joon"
+            },
+            {
+              "id": "c",
+              "text": "Beatriz"
+            },
+            {
+              "id": "d",
+              "text": "Dev"
+            }
+          ],
+          "answer": "b",
+          "explanationVi": "Joon nói rõ 'My objection isn't about quality' — vấn đề là tổ chức không quyết định sẽ bỏ bớt việc gì với thời gian tiết kiệm được."
+        },
+        {
+          "id": "a3",
+          "kind": "mcq",
+          "prompt": "Who says the benefit was different from what they anticipated?",
+          "options": [
+            {
+              "id": "a",
+              "text": "Helena"
+            },
+            {
+              "id": "b",
+              "text": "Joon"
+            },
+            {
+              "id": "c",
+              "text": "Beatriz"
+            },
+            {
+              "id": "d",
+              "text": "Dev"
+            }
+          ],
+          "answer": "c",
+          "explanationVi": "Beatriz: đổi ý 'not for the reason I expected' — không phải viết hay hơn, mà dám thử những việc trước đây né tránh."
+        },
+        {
+          "id": "a4",
+          "kind": "mcq",
+          "prompt": "Who distinguishes between two different tasks when judging usefulness?",
+          "options": [
+            {
+              "id": "a",
+              "text": "Dev"
+            },
+            {
+              "id": "b",
+              "text": "Helena"
+            },
+            {
+              "id": "c",
+              "text": "Joon"
+            },
+            {
+              "id": "d",
+              "text": "Beatriz"
+            }
+          ],
+          "answer": "a",
+          "explanationVi": "Dev: 'I'd separate two uses' — sinh văn bản thì không tin, tóm tắt thứ đã đọc thì hữu ích."
+        }
+      ]
+    },
+    {
+      "id": "reading-part4-headings-standards",
+      "skill": "reading",
+      "title": "Part 4 — Long text heading matching",
+      "format": "Aptis Reading — Part 4 · Nối tiêu đề với đoạn trong bài dài",
+      "instructionsVi": "Ở C1, tiêu đề đúng diễn đạt lại ý bao trùm bằng từ hoàn toàn khác, còn tiêu đề sai thường lặp lại từ ngữ nổi bật của đoạn. Ưu tiên ý, không ưu tiên từ trùng.",
+      "promptEn": "The text has four paragraphs, A–D. Choose the most suitable heading for each paragraph.",
+      "passage": "A. Voluntary standards occupy an odd position. They are written by industry bodies rather than legislators, compliance is optional, and yet in many sectors they function with the force of regulation. A manufacturer whose product does not meet the relevant standard may find that no retailer will stock it and no insurer will cover it, which makes the word 'voluntary' something of a courtesy.\n\nB. This arrangement has genuine advantages over legislation. Standards can be revised in months rather than years, they are drafted by people who understand the technology in question, and they can be written to accommodate differences between markets. Several regulators have quietly come to rely on them, referencing standards in law rather than attempting to specify technical requirements themselves.\n\nC. The difficulty is that the drafting committees are not neutral ground. Participation requires staff time, travel and technical expertise, which large firms can supply and small ones frequently cannot. A standard written predominantly by established manufacturers will tend, without anyone intending it, to codify the way those manufacturers already work — and thereby to raise the cost of doing it differently.\n\nD. Proposals to address this have mostly focused on funding participation by smaller firms and consumer groups, which helps but does not resolve the underlying asymmetry: a small manufacturer sending one person to a committee still faces a room of people who do this full time. A more promising suggestion is procedural rather than financial, requiring committees to publish an assessment of how a proposed standard would affect entrants who do not currently comply with it.",
+      "timeLimitSec": 240,
+      "questions": [
+        {
+          "id": "s1",
+          "kind": "mcq",
+          "prompt": "Paragraph A",
+          "options": [
+            {
+              "id": "a",
+              "text": "Who writes industry standards"
+            },
+            {
+              "id": "b",
+              "text": "The role of insurers in retail"
+            },
+            {
+              "id": "c",
+              "text": "Optional in name, binding in practice"
+            },
+            {
+              "id": "d",
+              "text": "Why legislation is preferred"
+            }
+          ],
+          "answer": "c",
+          "explanationVi": "Đoạn A: tiêu chuẩn tự nguyện nhưng không tuân thủ thì không bán được, không được bảo hiểm — nên chữ 'voluntary' chỉ là cách nói lịch sự."
+        },
+        {
+          "id": "s2",
+          "kind": "mcq",
+          "prompt": "Paragraph B",
+          "options": [
+            {
+              "id": "a",
+              "text": "How standards are revised"
+            },
+            {
+              "id": "b",
+              "text": "Why this system works better than law in some respects"
+            },
+            {
+              "id": "c",
+              "text": "Differences between national markets"
+            },
+            {
+              "id": "d",
+              "text": "Regulators losing their authority"
+            }
+          ],
+          "answer": "b",
+          "explanationVi": "Đoạn B liệt kê ưu điểm so với lập pháp: sửa nhanh, người soạn hiểu công nghệ, linh hoạt theo thị trường. Các đáp án khác chỉ nhặt một chi tiết."
+        },
+        {
+          "id": "s3",
+          "kind": "mcq",
+          "prompt": "Paragraph C",
+          "options": [
+            {
+              "id": "a",
+              "text": "How unequal participation shapes the outcome"
+            },
+            {
+              "id": "b",
+              "text": "Deliberate exclusion of small firms"
+            },
+            {
+              "id": "c",
+              "text": "The technical expertise required"
+            },
+            {
+              "id": "d",
+              "text": "Travel costs for committee members"
+            }
+          ],
+          "answer": "a",
+          "explanationVi": "Đoạn C: tiêu chuẩn do doanh nghiệp lớn soạn sẽ mã hoá cách làm của họ 'without anyone intending it'. Đáp án B sai vì bài nói rõ không ai cố ý."
+        },
+        {
+          "id": "s4",
+          "kind": "mcq",
+          "prompt": "Paragraph D",
+          "options": [
+            {
+              "id": "a",
+              "text": "Why funding schemes have failed completely"
+            },
+            {
+              "id": "b",
+              "text": "How consumer groups are organised"
+            },
+            {
+              "id": "c",
+              "text": "Publishing standards free of charge"
+            },
+            {
+              "id": "d",
+              "text": "A procedural remedy that may work better than funding"
+            }
+          ],
+          "answer": "d",
+          "explanationVi": "Đoạn D: tài trợ 'helps but does not resolve', và đề xuất hứa hẹn hơn là yêu cầu công bố đánh giá tác động — biện pháp thủ tục."
+        }
+      ]
+    },
+    {
+      "id": "listening-part1-messages-c1",
+      "skill": "listening",
+      "title": "Listening — Short messages (4)",
+      "format": "Aptis Listening — Đoạn ghi âm ngắn, nghe hai lần, chọn một trong ba",
+      "instructionsVi": "Ở C1, thông tin quyết định thường nằm trong mệnh đề nhượng bộ hoặc được nói bằng cách giảm nhẹ. Nghe lấy thái độ, không chỉ lấy dữ kiện.",
+      "promptEn": "Listen to each short recording and answer the question.",
+      "accent": "uk",
+      "transcript": [
+        {
+          "speaker": "Message 1",
+          "text": "Hi, it's Dev. I've read the draft standard. I'm not going to object formally — I don't think that would achieve anything at this stage — but I do want my reservation minuted, because if this goes the way I expect, I'd rather it were on record that someone said so."
+        },
+        {
+          "speaker": "Message 2",
+          "text": "This is Beatriz from the working group. The January board has been moved to February, which sounds like a delay but actually helps us: it means the pilot data will be available beforehand, so the proposals will be assessed against evidence rather than against expectations."
+        },
+        {
+          "speaker": "Message 3",
+          "text": "Hello, calling about the funding application. It's been approved, though not at the level you requested — you asked for forty thousand and the panel has awarded twenty-eight. They were explicit that this reflects the budget available rather than any doubt about the proposal."
+        },
+        {
+          "speaker": "Message 4",
+          "text": "Hi, it's Joon. About the new document workflow — I know I pushed for it, so I want to be the one to say it isn't working. Not the tool, the way we've deployed it. I think we should pause the rollout rather than keep adjusting round the edges."
+        }
+      ],
+      "timeLimitSec": 280,
+      "questions": [
+        {
+          "id": "f1",
+          "kind": "mcq",
+          "prompt": "Message 1: What does Dev intend to do?",
+          "options": [
+            {
+              "id": "a",
+              "text": "Have his reservation recorded without objecting"
+            },
+            {
+              "id": "b",
+              "text": "Object formally to the draft"
+            },
+            {
+              "id": "c",
+              "text": "Withdraw from the committee"
+            }
+          ],
+          "answer": "a",
+          "explanationVi": "'I'm not going to object formally... but I do want my reservation minuted'. Mệnh đề tương phản chứa thông tin quyết định."
+        },
+        {
+          "id": "f2",
+          "kind": "mcq",
+          "prompt": "Message 2: How does Beatriz view the postponement?",
+          "options": [
+            {
+              "id": "a",
+              "text": "As a setback for the group"
+            },
+            {
+              "id": "b",
+              "text": "As having no effect either way"
+            },
+            {
+              "id": "c",
+              "text": "As helpful, because evidence will be available"
+            }
+          ],
+          "answer": "c",
+          "explanationVi": "'which sounds like a delay but actually helps us' — cô ấy chủ động bác bỏ cách hiểu (A)."
+        },
+        {
+          "id": "f3",
+          "kind": "mcq",
+          "prompt": "Message 3: Why was less funding awarded?",
+          "options": [
+            {
+              "id": "a",
+              "text": "Because the panel doubted the proposal"
+            },
+            {
+              "id": "b",
+              "text": "Because of the budget available"
+            },
+            {
+              "id": "c",
+              "text": "Because the application was late"
+            }
+          ],
+          "answer": "b",
+          "explanationVi": "'explicit that this reflects the budget available rather than any doubt about the proposal' — loại bỏ trực tiếp đáp án (A)."
+        },
+        {
+          "id": "f4",
+          "kind": "mcq",
+          "prompt": "Message 4: What is Joon's position?",
+          "options": [
+            {
+              "id": "a",
+              "text": "The tool itself is faulty and should be replaced."
+            },
+            {
+              "id": "b",
+              "text": "The rollout should be paused; the problem is how it was deployed."
+            },
+            {
+              "id": "c",
+              "text": "Minor adjustments will be enough."
+            }
+          ],
+          "answer": "b",
+          "explanationVi": "'Not the tool, the way we've deployed it... pause the rollout rather than keep adjusting round the edges'."
+        }
+      ]
+    },
+    {
+      "id": "listening-part2-conversations-c1",
+      "skill": "listening",
+      "title": "Listening — Short conversations",
+      "format": "Aptis Listening — Hội thoại ngắn, nghe hai lần, chọn một trong ba",
+      "instructionsVi": "Ở C1, câu hỏi nhắm vào hàm ý và mức độ cam kết. Chú ý các cụm dè dặt ('in principle', 'up to a point') vì chúng thay đổi hẳn nghĩa của câu.",
+      "promptEn": "Listen to each conversation and answer the question.",
+      "accent": "uk",
+      "transcript": [
+        {
+          "speaker": "Conversation 1 — Woman",
+          "text": "Are you happy for us to go ahead with the pilot in March?"
+        },
+        {
+          "speaker": "Conversation 1 — Man",
+          "text": "In principle, yes. Though I'd want to see the staffing plan first, and I've been asking for that since November."
+        },
+        {
+          "speaker": "Conversation 2 — Man",
+          "text": "Did the review find anything serious?"
+        },
+        {
+          "speaker": "Conversation 2 — Woman",
+          "text": "Nothing that wasn't already known internally. Which is arguably the more worrying finding."
+        },
+        {
+          "speaker": "Conversation 3 — Woman",
+          "text": "Do you think the deadline is realistic?"
+        },
+        {
+          "speaker": "Conversation 3 — Man",
+          "text": "It's achievable if nothing goes wrong. I've not worked on a project yet where nothing went wrong."
+        },
+        {
+          "speaker": "Conversation 4 — Man",
+          "text": "Shall I put you down as supporting the proposal?"
+        },
+        {
+          "speaker": "Conversation 4 — Woman",
+          "text": "Not supporting. Not opposing either. Put me down as wanting the cost figures reworked before anyone votes."
+        }
+      ],
+      "timeLimitSec": 280,
+      "questions": [
+        {
+          "id": "g1",
+          "kind": "mcq",
+          "prompt": "Conversation 1: What is the man's position?",
+          "options": [
+            {
+              "id": "a",
+              "text": "He agrees unconditionally."
+            },
+            {
+              "id": "b",
+              "text": "He refuses to approve the pilot."
+            },
+            {
+              "id": "c",
+              "text": "He agrees in principle but has an outstanding requirement."
+            }
+          ],
+          "answer": "c",
+          "explanationVi": "'In principle, yes. Though I'd want to see the staffing plan first' — đồng ý có điều kiện, và điều kiện đó chưa được đáp ứng."
+        },
+        {
+          "id": "g2",
+          "kind": "mcq",
+          "prompt": "Conversation 2: What does the woman imply?",
+          "options": [
+            {
+              "id": "a",
+              "text": "The review found nothing of concern."
+            },
+            {
+              "id": "b",
+              "text": "The problems were already known but not acted on."
+            },
+            {
+              "id": "c",
+              "text": "The review was poorly conducted."
+            }
+          ],
+          "answer": "b",
+          "explanationVi": "'Nothing that wasn't already known internally. Which is arguably the more worrying finding' — vấn đề nằm ở chỗ đã biết mà không xử lý."
+        },
+        {
+          "id": "g3",
+          "kind": "mcq",
+          "prompt": "Conversation 3: What does the man think of the deadline?",
+          "options": [
+            {
+              "id": "a",
+              "text": "It is technically possible but unlikely to hold."
+            },
+            {
+              "id": "b",
+              "text": "It is comfortable."
+            },
+            {
+              "id": "c",
+              "text": "It is impossible."
+            }
+          ],
+          "answer": "a",
+          "explanationVi": "'achievable if nothing goes wrong. I've not worked on a project yet where nothing went wrong' — câu thứ hai vô hiệu hoá điều kiện của câu thứ nhất."
+        },
+        {
+          "id": "g4",
+          "kind": "mcq",
+          "prompt": "Conversation 4: How should the woman be recorded?",
+          "options": [
+            {
+              "id": "a",
+              "text": "As supporting the proposal"
+            },
+            {
+              "id": "b",
+              "text": "As opposing the proposal"
+            },
+            {
+              "id": "c",
+              "text": "As requesting revised costings before a vote"
+            }
+          ],
+          "answer": "c",
+          "explanationVi": "Cô ấy từ chối cả hai nhãn và nêu một lập trường thứ ba cụ thể."
+        }
+      ]
+    },
+    {
+      "id": "listening-part3-longer-c1",
+      "skill": "listening",
+      "title": "Listening — Longer recording: a committee disagreement",
+      "format": "Aptis Listening — Đoạn ghi âm dài hơn, nghe hai lần",
+      "instructionsVi": "Bốn câu hỏi, phần lớn về lập luận và mức độ đồng thuận chứ không về sự kiện. Theo dõi ai nhượng bộ điểm nào — đó là nơi câu hỏi nhắm tới.",
+      "promptEn": "Listen to the discussion and answer the four questions.",
+      "accent": "uk",
+      "transcript": [
+        {
+          "speaker": "Chair",
+          "text": "We need to settle this today. The proposal is to require all suppliers to hold the new certification from April."
+        },
+        {
+          "speaker": "Helena",
+          "text": "I support the aim, but April is unworkable for the smaller suppliers. Certification takes about five months and costs around eleven thousand. Three of our nine suppliers turn over less than half a million."
+        },
+        {
+          "speaker": "Dev",
+          "text": "That's a real point, though I'd note the deadline has already slipped twice. At some stage a date has to mean something or the whole thing loses credibility."
+        },
+        {
+          "speaker": "Helena",
+          "text": "I accept that entirely. My objection isn't to having a deadline, it's to this one. October would give everyone a realistic path."
+        },
+        {
+          "speaker": "Dev",
+          "text": "October I could live with, provided we say clearly that it will not move again, and that we mean it."
+        },
+        {
+          "speaker": "Chair",
+          "text": "And if a supplier still isn't certified by October?"
+        },
+        {
+          "speaker": "Helena",
+          "text": "Then they should lose the contract, and I'd vote for that. What I won't vote for is a deadline that we know in advance three of them cannot meet — that's not a standard, it's a way of removing them without saying so."
+        },
+        {
+          "speaker": "Chair",
+          "text": "Right. October, firm, with the consequence stated in the letter. Any objection?"
+        }
+      ],
+      "timeLimitSec": 280,
+      "questions": [
+        {
+          "id": "k1",
+          "kind": "mcq",
+          "prompt": "What is Helena's objection?",
+          "options": [
+            {
+              "id": "a",
+              "text": "She opposes the certification requirement itself."
+            },
+            {
+              "id": "b",
+              "text": "She believes certification is too expensive to require at all."
+            },
+            {
+              "id": "c",
+              "text": "She opposes the April date, not the principle."
+            }
+          ],
+          "answer": "c",
+          "explanationVi": "'My objection isn't to having a deadline, it's to this one'. Cô ấy nói rõ ủng hộ mục tiêu ngay từ đầu."
+        },
+        {
+          "id": "k2",
+          "kind": "short-answer",
+          "prompt": "How many months does certification take? (A NUMBER)",
+          "answer": "5",
+          "accepted": [
+            "five",
+            "5 months",
+            "about five"
+          ],
+          "explanationVi": "'Certification takes about five months and costs around eleven thousand'. 11.000 là chi phí, không phải thời gian."
+        },
+        {
+          "id": "k3",
+          "kind": "mcq",
+          "prompt": "What condition does Dev attach to accepting October?",
+          "options": [
+            {
+              "id": "a",
+              "text": "That smaller suppliers receive funding"
+            },
+            {
+              "id": "b",
+              "text": "That the date will not be moved again"
+            },
+            {
+              "id": "c",
+              "text": "That certification costs are reduced"
+            }
+          ],
+          "answer": "b",
+          "explanationVi": "'provided we say clearly that it will not move again, and that we mean it'."
+        },
+        {
+          "id": "k4",
+          "kind": "mcq",
+          "prompt": "Why does Helena reject the April deadline in her final contribution?",
+          "options": [
+            {
+              "id": "a",
+              "text": "Because it would exclude suppliers while appearing not to"
+            },
+            {
+              "id": "b",
+              "text": "Because deadlines are unnecessary"
+            },
+            {
+              "id": "c",
+              "text": "Because she opposes removing any supplier"
+            }
+          ],
+          "answer": "a",
+          "explanationVi": "'that's not a standard, it's a way of removing them without saying so'. Cô ấy nói rõ SẴN SÀNG bỏ hợp đồng nếu tới tháng Mười vẫn chưa đạt, nên (C) sai."
+        }
+      ]
+    },
+    {
+      "id": "writing-part3-chat-c1",
+      "skill": "writing",
+      "title": "Part 3 — Three responses in a chat",
+      "format": "Aptis Writing — Part 3 · Trả lời ba câu hỏi trong khung chat, mỗi câu 30–40 từ",
+      "instructionsVi": "Ở C1, ít nhất một câu mời bạn bất đồng với ý kiến số đông. Trả lời phải có lập trường rõ và lý lẽ chặt, trong đúng 30–40 từ — súc tích là tiêu chí.",
+      "promptEn": "You are a member of a professional network. Another member is asking you some questions in the network's online chat. Reply to all three questions. Write 30–40 words for each answer.\n\n1. Welcome to the group. What kind of work do you do?\n2. We're planning next year's programme. Would you rather have fewer, longer events or more frequent short ones?\n3. Several members think we should stop recording sessions, because attendance has dropped since we started. Do you agree?",
+      "timeLimitSec": 900,
+      "minWords": 90,
+      "maxWords": 130,
+      "sampleAnswer": "1. I work in procurement for a mid-sized manufacturer, mostly on supplier standards and certification. It's an unglamorous corner of the field, but it turns out to be where a lot of the interesting arguments about regulation actually get settled.\n\n2. More frequent short ones, though not by much. Long events are better for the content, but they require people to protect a whole day, and in practice that's exactly what gets sacrificed when something urgent lands.\n\n3. I'd resist that. Attendance may have fallen, but the recordings reach people who could never have attended live — different time zones, caring responsibilities, shift work. Removing them would raise the attendance figure without increasing the number of people actually reached.",
+      "rubricVi": [
+        "Trả lời đủ ba câu, đúng 30–40 từ mỗi câu. Ở C1, viết quá dài cũng bị trừ vì không kiểm soát được độ dài.",
+        "Câu 3 phải BẤT ĐỒNG có lập luận, không né tránh. Cách phản bác mạnh nhất là chỉ ra chỉ số bị đo sai (số người dự tăng nhưng số người tiếp cận giảm).",
+        "Câu 2 nên nêu lựa chọn kèm mức độ ('though not by much') — thể hiện sắc thái thay vì chọn cứng.",
+        "Giọng chat chuyên nghiệp nhưng tự nhiên, được dùng cách nói tự trào ('an unglamorous corner').",
+        "Dùng cấu trúc nhượng bộ và tương phản trong khuôn khổ câu ngắn. Đây là chỗ thể hiện trình độ C1."
+      ]
+    },
+    {
+      "id": "writing-part4-email-c1",
+      "skill": "writing",
+      "title": "Part 4 — Two emails: informal and formal",
+      "format": "Aptis Writing — Part 4 · Thư thân mật ~50 từ và thư trang trọng 120–150 từ",
+      "instructionsVi": "Ở C1, thư trang trọng phải nêu được hệ quả mà bên ra quyết định chưa lường tới, và đề xuất phải khả thi trong ràng buộc của họ. Khác biệt văn phong vẫn chấm nặng nhất.",
+      "promptEn": "You are a member of a professional network. You have received this notice:\n\n'From next year, the network will stop recording its evening sessions. Attendance at live events has fallen by 40% since recordings began, and the committee believes recordings are the cause. Membership fees will remain unchanged.'\n\nTASK 1: Write an email to a colleague in the network. Tell them how you feel about the change. Write about 50 words.\n\nTASK 2: Write an email to the network committee. Explain your concerns and suggest what could be done. Write 120–150 words.",
+      "timeLimitSec": 1500,
+      "minWords": 170,
+      "maxWords": 210,
+      "sampleAnswer": "TASK 1 — to a colleague\n\nHi Dev,\n\nSeen the notice about scrapping the recordings? I think they've got cause and effect the wrong way round. Attendance was falling anyway — the recordings just made it visible. And I'll lose most of the value of my membership, since I'm on site two evenings out of three. Are you replying?\n\nHelena\n\n---\n\nTASK 2 — to the committee\n\nDear Committee members,\n\nI am writing about the decision to discontinue recordings of evening sessions from next year.\n\nI understand the concern behind it, and I recognise that a forty per cent fall in live attendance is a serious figure. However, I would question whether the recordings are the cause rather than a consequence. Attendance had been declining before they were introduced, and the recordings may simply have made that trend visible by giving people an alternative they previously lacked.\n\nThere is also a distributional effect. Members working shifts or in other time zones rely on recordings entirely; removing them would raise the attendance percentage while reducing the total number of people reached.\n\nMight the committee consider releasing recordings a week after each event, or restricting them to members who register in advance? Either would preserve access while protecting live attendance.\n\nYours faithfully,\nHelena Ruiz",
+      "rubricVi": [
+        "Hai thư khác nhau rõ về văn phong. Ở C1 thư thân mật được dùng câu rút gọn và giọng thẳng thắn, thư trang trọng dùng câu điều kiện và cách nói dè dặt.",
+        "Thư trang trọng phải chất vấn quan hệ NHÂN QUẢ mà bên ra quyết định giả định, không chỉ nói mình bất tiện. Đây là điểm C1 rõ nhất.",
+        "Nêu được hệ quả phân bổ (ai bị ảnh hưởng nặng nhất) và chỉ ra chỉ số bị đo sai.",
+        "Đề xuất phải khả thi TRONG ràng buộc của uỷ ban (vẫn bảo vệ lượng dự trực tiếp), không phải chỉ yêu cầu giữ nguyên.",
+        "Đúng độ dài và đúng cặp mở/kết cho từng loại thư."
+      ]
+    },
+    {
+      "id": "speaking-part1-personal-c1",
+      "skill": "speaking",
+      "title": "Part 1 — Personal information",
+      "format": "Aptis Speaking — Part 1 · Ba câu hỏi về bản thân, mỗi câu 30 giây",
+      "instructionsVi": "Ba câu 30 giây. Ở C1, câu trả lời vẫn ngắn nhưng phải chính xác và có sắc thái; nói dài dòng ở phần này là dấu hiệu không kiểm soát được đăng ký ngôn ngữ.",
+      "promptEn": "Answer each question. You have 30 seconds for each answer.\n1. Tell me about the part of your work you find most demanding.\n2. Describe a decision you now think you got wrong.\n3. What is something people often misunderstand about your field?",
+      "timeLimitSec": 90,
+      "preparationSec": 0,
+      "sampleAnswer": "1. Telling people things they've decided not to hear. The analysis is usually straightforward; the difficult part is presenting a finding in a way that survives contact with someone whose plan it undermines. I've got better at it, mainly by learning to say it earlier and more quietly.\n\n2. I pushed hard for a supplier certification deadline that I knew, privately, three of our smaller suppliers couldn't meet. I told myself it would concentrate minds. It didn't — it just meant we lost two of them and had to rebuild relationships I'd spent years on.\n\n3. That procurement is about getting the lowest price. Most of what I actually do is deciding what we're prepared to be responsible for. Once you've chosen a supplier, their working conditions and their failures become yours, and price is a fairly small part of that judgement.",
+      "rubricVi": [
+        "Trả lời gọn trong 30 giây nhưng chính xác. Ở C1, kiểm soát độ dài là một phần của điểm số.",
+        "Câu 2 phải thừa nhận một sai lầm THẬT có hậu quả cụ thể. Câu trả lời né tránh hoặc chọn sai lầm vô hại bị đánh giá thấp.",
+        "Dùng cấu trúc phức và ngôn ngữ trừu tượng chính xác: 'survives contact with', 'concentrate minds', 'what we're prepared to be responsible for'.",
+        "Câu 3 nên phản bác một hiểu lầm phổ biến rồi nêu cách hiểu đúng — cấu trúc hai vế rõ ràng.",
+        "Trả lời ngay, giọng tự nhiên, không đọc như bài đã soạn."
+      ]
+    },
+    {
+      "id": "speaking-part2-picture-c1",
+      "skill": "speaking",
+      "title": "Part 2 — Describe a picture and answer questions",
+      "format": "Aptis Speaking — Part 2 · Tả tranh rồi trả lời hai câu, mỗi phần 45 giây",
+      "instructionsVi": "Ba phần 45 giây. Ở C1, phần 3 là câu hỏi có đánh đổi thật; trả lời một chiều sẽ bị giới hạn điểm dù ngôn ngữ tốt.",
+      "promptEn": "Look at the scene, then answer the three parts. You have 45 seconds for each.\n\nSCENE: A public consultation meeting in a school hall. At the front, two officials stand beside a large map on an easel; one is pointing at it while the other writes on a flipchart. Facing them, about twenty-five residents sit on plastic chairs, several with hands raised. In the second row, a woman holds a folder of papers and is speaking. At the back, three people stand near the door, one looking at a phone. A table by the entrance holds leaflets and a sign-in sheet.\n\n1. Describe what you can see in the picture.\n2. Tell me about a time you attended a meeting about a decision that affected you.\n3. Do public consultations genuinely change decisions, or are they mainly a formality?",
+      "timeLimitSec": 135,
+      "preparationSec": 60,
+      "sampleAnswer": "1. This shows a public consultation taking place in what looks like a school hall. At the front, two officials are standing beside a large map on an easel — one is pointing at it while the other writes on a flipchart, so they appear to be recording what's said. Facing them, around twenty-five residents are sitting on plastic chairs, and several have their hands raised. In the second row, a woman is speaking while holding a folder of papers, which suggests she has come prepared rather than just turned up. Three people are standing near the door at the back, one of them looking at a phone.\n\n2. I went to a consultation about a proposed one-way system on our street. About forty people came, and what struck me was how the objections divided — residents wanted it, the shopkeepers didn't, and both had entirely reasonable cases. I went in confident and left much less certain than I'd arrived.\n\n3. Both, and I don't think that's a dodge. Consultations rarely reverse a decision that's already been funded, and anyone who expects that will be disappointed. But they routinely change the detail — the phasing, the exemptions, where a boundary falls — and that detail is often what determines who actually bears the cost. So I'd say the honest position is that they don't change whether, but they frequently change how, and that's not nothing.",
+      "rubricVi": [
+        "Phần 1 nêu chi tiết có sức gợi (người phụ nữ mang tập hồ sơ, người ghi flipchart) và suy ra ý nghĩa của chúng.",
+        "Phần 2 phải kể trải nghiệm có DIỄN BIẾN nhận thức, không chỉ tường thuật sự kiện.",
+        "Phần 3 phải xử lý được đánh đổi thật: phân biệt 'có đổi được quyết định không' với 'có đổi được cách thực hiện không'. Trả lời một chiều bị giới hạn điểm.",
+        "Nói đủ 45 giây mỗi phần và chuyển đăng ký ngôn ngữ đúng theo từng phần.",
+        "Dùng ngôn ngữ định tính chính xác: routinely, rarely, the honest position is. Tránh nói tuyệt đối."
+      ]
+    },
+    {
+      "id": "speaking-part4-abstract-c1",
+      "skill": "speaking",
+      "title": "Part 4 — Speak about an abstract topic",
+      "format": "Aptis Speaking — Part 4 · 1 phút chuẩn bị, 2 phút nói, ba câu hỏi trong một lượt",
+      "instructionsVi": "Ba câu hỏi cùng lúc, 2 phút nói liên tục. Ở C1, câu 3 thường chứa một tiền đề gài sẵn — bài giỏi sẽ chất vấn tiền đề đó trước khi trả lời.",
+      "promptEn": "You have one minute to prepare, then two minutes to answer all three questions.\n\nLook at this photograph: a committee seated around a table, with one person speaking and the others taking notes.\n\n1. Describe a group decision you were part of that turned out well or badly.\n2. Why do groups sometimes make worse decisions than individuals would?\n3. Given that, would it be better for organisations to let one qualified person decide?",
+      "timeLimitSec": 120,
+      "preparationSec": 60,
+      "sampleAnswer": "1. I sat on a panel choosing a supplier, and we got it wrong. Four of us privately had doubts about the winning bid, and none of us said so, because the two most senior people had spoken in favour early. The contract failed within a year and it emerged afterwards that everyone had seen the same weakness.\n\n2. That experience is fairly typical, I think. Groups aren't worse at reasoning; they're worse at surfacing disagreement. The cost of objecting is social and immediate, while the cost of a bad decision is diffuse and arrives later, so people who would object individually stay quiet collectively. Add the fact that responsibility is shared and therefore nobody quite owns the outcome, and you get confident decisions that nobody actually believed in.\n\n3. I'd want to question the way that's framed, though. The problem I described isn't that a group decided — it's that the group never surfaced what its members already knew. A single decision-maker doesn't fix that; they simply have fewer people to fail to consult, and no one obliged to tell them they're wrong. What actually helps is procedural: collect views in writing before discussion, and give the most junior person the floor first. That keeps the benefit of multiple perspectives while removing the mechanism that suppresses them.",
+      "rubricVi": [
+        "Trả lời cả ba câu trong 2 phút, khoảng 40 giây mỗi câu. Nói quá lâu ở câu 1 là lỗi hay gặp nhất.",
+        "Câu 3 CHẤT VẤN tiền đề ('I'd want to question the way that's framed') rồi mới trả lời. Đây là kỹ thuật quyết định ở mức C1.",
+        "Câu 2 phải giải thích CƠ CHẾ chứ không liệt kê nguyên nhân: chi phí phản đối là tức thời và mang tính xã hội, còn chi phí quyết định sai thì phân tán và đến muộn.",
+        "Ba câu phải nối vào nhau — câu 2 phân tích chính trải nghiệm ở câu 1, câu 3 phản bác dựa trên phân tích ở câu 2.",
+        "Đưa giải pháp cụ thể ở cuối thay vì kết bằng nhận xét chung. Nói liên tục hết 2 phút."
+      ]
+    }
+  ]
+}

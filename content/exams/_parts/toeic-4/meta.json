@@ -1,0 +1,174 @@
+{
+  "examId": "toeic",
+  "levelId": "4",
+  "vocabulary": [
+    {
+      "id": "indemnify",
+      "term": "indemnify",
+      "ipa": "/ɪnˈdemnɪfaɪ/",
+      "meaningVi": "bồi thường, bảo đảm không chịu thiệt hại",
+      "definitionEn": "To agree to pay for any loss or damage another party suffers.",
+      "example": "The supplier shall indemnify the client against third-party claims.",
+      "exampleVi": "Bên cung cấp phải bồi thường cho khách hàng đối với khiếu nại của bên thứ ba.",
+      "collocations": [
+        "indemnify against",
+        "indemnity clause",
+        "hold harmless and indemnify"
+      ]
+    },
+    {
+      "id": "notwithstanding",
+      "term": "notwithstanding",
+      "ipa": "/ˌnɒtwɪθˈstændɪŋ/",
+      "meaningVi": "mặc dù, bất kể",
+      "definitionEn": "Despite something; used to introduce an exception to what precedes.",
+      "example": "Notwithstanding clause 4, the client may terminate with thirty days' notice.",
+      "exampleVi": "Bất kể điều 4, khách hàng có thể chấm dứt hợp đồng với thông báo trước ba mươi ngày.",
+      "collocations": [
+        "notwithstanding the above",
+        "notwithstanding any provision",
+        "notwithstanding that"
+      ]
+    },
+    {
+      "id": "prorate",
+      "term": "prorate",
+      "ipa": "/ˌprəʊˈreɪt/",
+      "meaningVi": "tính theo tỉ lệ thời gian sử dụng",
+      "definitionEn": "To divide or calculate an amount in proportion to a period of time.",
+      "example": "Fees are prorated if the service starts mid-month.",
+      "exampleVi": "Phí được tính theo tỉ lệ nếu dịch vụ bắt đầu giữa tháng.",
+      "collocations": [
+        "prorated refund",
+        "on a prorated basis",
+        "prorate the fee"
+      ]
+    },
+    {
+      "id": "escalate",
+      "term": "escalate",
+      "ipa": "/ˈeskəleɪt/",
+      "meaningVi": "chuyển lên cấp cao hơn; leo thang",
+      "definitionEn": "To pass a problem to a more senior person, or to become more serious.",
+      "example": "Unresolved tickets are escalated to the account manager after 48 hours.",
+      "exampleVi": "Yêu cầu chưa xử lý sẽ được chuyển lên quản lý khách hàng sau 48 giờ.",
+      "collocations": [
+        "escalate an issue",
+        "escalation procedure",
+        "escalate to management"
+      ]
+    },
+    {
+      "id": "attrition",
+      "term": "attrition",
+      "ipa": "/əˈtrɪʃn/",
+      "meaningVi": "hao hụt nhân sự tự nhiên",
+      "definitionEn": "A gradual reduction in staff numbers as people leave and are not replaced.",
+      "example": "Headcount fell by natural attrition rather than redundancy.",
+      "exampleVi": "Số nhân sự giảm do hao hụt tự nhiên chứ không phải cắt giảm.",
+      "collocations": [
+        "natural attrition",
+        "attrition rate",
+        "reduce by attrition"
+      ]
+    },
+    {
+      "id": "forfeit",
+      "term": "forfeit",
+      "ipa": "/ˈfɔːfɪt/",
+      "meaningVi": "mất quyền, bị tước",
+      "definitionEn": "To lose a right or possession as a penalty for breaking a rule.",
+      "example": "Bookings cancelled after the deadline forfeit the deposit.",
+      "exampleVi": "Đặt chỗ huỷ sau hạn sẽ mất tiền cọc.",
+      "collocations": [
+        "forfeit a deposit",
+        "forfeit the right to",
+        "automatically forfeited"
+      ]
+    },
+    {
+      "id": "contingent",
+      "term": "contingent",
+      "ipa": "/kənˈtɪndʒənt/",
+      "meaningVi": "phụ thuộc vào điều kiện",
+      "definitionEn": "Depending on something else happening first.",
+      "example": "The bonus is contingent on meeting the annual target.",
+      "exampleVi": "Khoản thưởng phụ thuộc vào việc đạt chỉ tiêu năm.",
+      "collocations": [
+        "contingent on",
+        "contingent liability",
+        "contingent upon approval"
+      ]
+    },
+    {
+      "id": "waiver",
+      "term": "waiver",
+      "ipa": "/ˈweɪvə(r)/",
+      "meaningVi": "văn bản từ bỏ quyền, giấy miễn trừ",
+      "definitionEn": "A document or act by which a right or requirement is given up.",
+      "example": "A signed waiver is required before entering the test area.",
+      "exampleVi": "Cần có giấy miễn trừ đã ký trước khi vào khu vực thử nghiệm.",
+      "collocations": [
+        "sign a waiver",
+        "waiver of liability",
+        "grant a waiver"
+      ]
+    },
+    {
+      "id": "reconcile",
+      "term": "reconcile",
+      "ipa": "/ˈrekənsaɪl/",
+      "meaningVi": "đối chiếu cho khớp",
+      "definitionEn": "To make two sets of figures agree, or to explain why they differ.",
+      "example": "Accounts are reconciled against bank statements every month.",
+      "exampleVi": "Sổ sách được đối chiếu với sao kê ngân hàng hằng tháng.",
+      "collocations": [
+        "reconcile the accounts",
+        "bank reconciliation",
+        "reconcile discrepancies"
+      ]
+    },
+    {
+      "id": "onerous",
+      "term": "onerous",
+      "ipa": "/ˈəʊnərəs/",
+      "meaningVi": "nặng nề, gây gánh nặng",
+      "definitionEn": "Involving a lot of effort or difficulty; burdensome.",
+      "example": "The reporting requirements proved onerous for smaller suppliers.",
+      "exampleVi": "Yêu cầu báo cáo tỏ ra nặng nề với các nhà cung cấp nhỏ.",
+      "collocations": [
+        "onerous obligation",
+        "unduly onerous",
+        "onerous terms"
+      ]
+    },
+    {
+      "id": "supersede",
+      "term": "supersede",
+      "ipa": "/ˌsuːpəˈsiːd/",
+      "meaningVi": "thay thế, làm mất hiệu lực cái cũ",
+      "definitionEn": "To take the place of something older and make it no longer valid.",
+      "example": "This agreement supersedes all previous arrangements between the parties.",
+      "exampleVi": "Thoả thuận này thay thế mọi thoả thuận trước đó giữa các bên.",
+      "collocations": [
+        "supersede the previous version",
+        "superseded by",
+        "shall supersede"
+      ]
+    },
+    {
+      "id": "remit",
+      "term": "remit",
+      "ipa": "/ˈriːmɪt/",
+      "meaningVi": "phạm vi trách nhiệm",
+      "definitionEn": "The area of activity a person or body is responsible for.",
+      "example": "Pricing decisions fall outside this committee's remit.",
+      "exampleVi": "Quyết định về giá nằm ngoài phạm vi trách nhiệm của uỷ ban này.",
+      "collocations": [
+        "within our remit",
+        "outside the remit",
+        "broaden the remit"
+      ]
+    }
+  ]
+}

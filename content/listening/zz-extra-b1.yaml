@@ -1,0 +1,598 @@
+cefr: B1
+tracks:
+  - slug: coordinating-a-pet-sitting-weekend
+    title: Coordinating a Pet-Sitting Weekend
+    titleVi: Phối hợp chăm sóc thú cưng cuối tuần
+    topic: daily-life
+    accent: UK
+    format: dialogue
+    speakerCount: 2
+    glossary:
+      - term: golden retriever
+        definition: a large breed of dog with a golden coat
+      - term: spare key
+        definition: an extra key kept in case the main one is lost
+    segments:
+      - speaker: Mark
+        text: Hi Sarah, thank you so much for agreeing to look after Buster this weekend while I am away
+          visiting Manchester.
+        vi: Chào Sarah, cảm ơn bạn rất nhiều vì đã đồng ý trông nom Buster cuối tuần này khi tôi đi vắng ở
+          Manchester.
+      - speaker: Sarah
+        text: No problem at all, Mark. I love your golden retriever very much, and I am happy to help out.
+        vi: Không có vấn đề gì đâu Mark. Tôi rất yêu chú chó săn lông vàng của bạn và rất sẵn lòng giúp đỡ.
+      - speaker: Mark
+        text: That is great. Let us go over the routine quickly. He needs breakfast at seven in the morning
+          and dinner at six.
+        vi: Thật tuyệt. Chúng ta hãy xem nhanh qua lịch trình nhé. Nó cần ăn sáng lúc bảy giờ sáng và ăn tối
+          lúc sáu giờ.
+      - speaker: Sarah
+        text: Got it. Seven AM and six PM sharp. What about his afternoon walk? Is thirty minutes enough for
+          him?
+        vi: Hiểu rồi. Đúng bảy giờ sáng và sáu giờ chiều. Còn chuyến đi dạo buổi chiều thì sao? Ba mươi phút
+          có đủ cho nó không?
+      - speaker: Mark
+        text: Actually, let us make it forty-five minutes so he gets enough exercise running around the
+          local park.
+        vi: Thực ra, hãy cho nó đi bốn mươi lăm phút để nó được vận động đầy đủ khi chạy quanh công viên địa
+          phương.
+      - speaker: Sarah
+        text: Forty-five minutes, understood completely. Where will you leave the spare front door key for
+          me to collect?
+        vi: Bốn mươi lăm phút, đã hiểu rõ hoàn toàn. Bạn sẽ để chìa khóa cửa trước dự phòng ở đâu để tôi
+          lấy?
+      - speaker: Mark
+        text: I will drop it right under the blue flowerpot by the porch before I leave on Friday morning.
+        vi: Tôi sẽ để nó ngay dưới chậu hoa màu xanh bên hiên nhà trước khi tôi đi vào sáng thứ Sáu.
+      - speaker: Sarah
+        text: Perfect, I will pick it up then. Who should I call if anything unexpected happens with him?
+        vi: Hoàn hảo, tôi sẽ lấy nó lúc đó. Tôi nên gọi cho ai nếu có bất kỳ điều bất ngờ nào xảy ra với nó?
+      - speaker: Mark
+        text: Please call my sister Emily. Her phone number is written on the kitchen fridge next to the
+          shopping list.
+        vi: Xin hãy gọi cho em gái tôi là Emily. Số điện thoại của cô ấy được viết trên tủ lạnh nhà bếp cạnh
+          danh sách mua sắm.
+      - speaker: Sarah
+        text: I will save her number before you leave. Does Buster need his lead throughout the walk,
+          including inside the park?
+        vi: Tôi sẽ lưu số của Emily trước khi bạn đi. Buster có cần được đeo dây dắt suốt buổi đi dạo, kể cả
+          trong công viên không?
+      - speaker: Mark
+        text: Yes, please keep him on his lead whenever you leave the garden. He sometimes follows birds and
+          forgets to come back when called.
+        vi: Có, bạn hãy giữ dây dắt bất cứ khi nào đưa nó ra khỏi vườn. Đôi khi nó chạy theo chim và quên
+          quay lại khi được gọi.
+      - speaker: Sarah
+        text: Understood entirely. Enjoy your trip to Manchester, and Buster will be in safe hands with me
+          the whole time.
+        vi: Tôi hiểu rồi. Chúc bạn có chuyến đi Manchester vui vẻ, tôi sẽ chăm sóc Buster cẩn thận trong
+          suốt thời gian bạn vắng nhà.
+    dictation:
+      - 2
+      - 4
+      - 7
+      - 9
+    questions:
+      - type: MCQ
+        prompt: Where is Mark traveling for the weekend?
+        promptVi: Mark đi du lịch ở đâu vào cuối tuần này?
+        options:
+          - London
+          - Manchester
+          - Liverpool
+          - Birmingham
+        answer: Manchester
+        explanationVi: Trong đoạn 1, Mark nói anh ấy đi vắng thăm Manchester ('while I am away visiting
+          Manchester').
+      - type: MCQ
+        prompt: How long should Buster's afternoon walk be?
+        promptVi: Chuyến đi dạo buổi chiều của Buster nên kéo dài bao lâu?
+        options:
+          - 30 minutes
+          - 45 minutes
+          - 60 minutes
+          - 20 minutes
+        answer: 45 minutes
+        explanationVi: Trong đoạn 5, Mark đề xuất thời gian đi dạo là bốn mươi lăm phút ('let us make it
+          forty-five minutes').
+      - type: MCQ
+        prompt: Where will Mark leave the spare key?
+        promptVi: Mark sẽ để chìa khóa dự phòng ở đâu?
+        options:
+          - Under the mat
+          - Inside the mailbox
+          - Under the blue flowerpot
+          - On the kitchen table
+        answer: Under the blue flowerpot
+        explanationVi: Trong đoạn 7, Mark xác nhận sẽ để chìa khóa dưới chậu hoa màu xanh bên hiên ('right
+          under the blue flowerpot by the porch').
+      - type: MCQ
+        prompt: Where is Emily's phone number written?
+        promptVi: Số điện thoại của Emily được viết ở đâu?
+        options:
+          - On the kitchen fridge
+          - On the living room wall
+          - Inside the front door
+          - On a shopping bag
+        answer: On the kitchen fridge
+        explanationVi: Trong đoạn 9, Mark cho biết số điện thoại nằm trên tủ lạnh nhà bếp ('written on the
+          kitchen fridge').
+      - type: TRUE_FALSE
+        prompt: Mark says Buster may run without his lead in the park.
+        promptVi: Mark nói Buster có thể chạy trong công viên mà không cần dây dắt.
+        answer: false
+        explanationVi: Ở lượt 11, Mark yêu cầu luôn giữ dây dắt khi đưa Buster ra khỏi vườn, nên cũng phải
+          giữ dây khi ở công viên.
+        statement: Mark says Buster may run without his lead in the park.
+      - type: TRUE_FALSE
+        prompt: Mark's dog is a golden retriever.
+        promptVi: Con chó của Mark là một chú chó săn lông vàng.
+        answer: true
+        explanationVi: Trong đoạn 2, Sarah xác nhận cô ấy yêu chú chó săn lông vàng của Mark ('I love your
+          golden retriever very much').
+        statement: Mark's dog is a golden retriever.
+      - type: SHORT_ANSWER
+        prompt: State the exact morning breakfast time for Buster requested in the text.
+        promptVi: Nêu thời gian ăn sáng chính xác trong văn bản cho Buster.
+        accept:
+          - seven
+          - "7"
+          - 7 AM
+          - 7 a.m.
+          - seven in the morning
+          - seven am
+          - 7:00
+          - 7:00 AM
+          - 07:00
+        explanationVi: Trong đoạn 3, Mark nêu rõ chú chó cần ăn sáng lúc bảy giờ sáng ('breakfast at seven
+          in the morning').
+      - type: SHORT_ANSWER
+        prompt: State the name of Mark's sister mentioned as the emergency contact.
+        promptVi: Nêu tên em gái của Mark được nhắc đến làm liên hệ khẩn cấp.
+        accept:
+          - Emily
+        explanationVi: Trong đoạn 9, Mark nhắc đến tên em gái mình là Emily ('Please call my sister Emily').
+  - slug: recording-an-audio-guide
+    title: Recording an Audio Guide
+    titleVi: Ghi âm hướng dẫn tham quan
+    topic: education
+    accent: US
+    format: dialogue
+    speakerCount: 2
+    glossary:
+      - term: audio guide
+        definition: a recorded commentary for visitors to a museum
+      - term: narration
+        definition: the commentary spoken to accompany an exhibition
+    segments:
+      - speaker: David
+        text: Hi Lisa, we need to finalize the plan for recording our new museum audio guide during this
+          busy week.
+        vi: Chào Lisa, chúng ta cần chốt kế hoạch ghi âm hướng dẫn âm thanh bảo tàng mới trong tuần bận rộn
+          này.
+      - speaker: Lisa
+        text: Hello David. I completely agree with you. Which exhibition section should we focus on
+          recording first today?
+        vi: Chào David. Tôi hoàn toàn đồng ý với bạn. Khu vực triển lãm nào chúng ta nên tập trung ghi âm
+          trước hôm nay?
+      - speaker: David
+        text: Let us start with the ancient pottery gallery because it is always the most popular room with
+          visitors here.
+        vi: Hãy bắt đầu với phòng trưng bày đồ gốm cổ vì đây luôn là căn phòng phổ biến nhất với khách tham
+          quan ở đây.
+      - speaker: Lisa
+        text: That sounds sensible. How long should the introductory commentary track for that specific
+          gallery be designed to last?
+        vi: Nghe có vẻ hợp lý. Bản ghi âm bình luận giới thiệu cho phòng trưng bày cụ thể đó nên được thiết
+          kế kéo dài bao lâu?
+      - speaker: David
+        text: We decided it should be exactly three minutes long to keep people engaged without getting
+          bored or losing focus.
+        vi: Chúng tôi quyết định nó phải đúng ba phút để giữ chân mọi người tham gia mà không bị chán hoặc
+          mất tập trung.
+      - speaker: Lisa
+        text: Three minutes is ideal. Should we use technical historical terms or keep the language simple
+          and accessible?
+        vi: Ba phút là lý tưởng. Chúng ta có nên sử dụng các thuật ngữ lịch sử kỹ thuật hay giữ ngôn ngữ đơn
+          giản và dễ tiếp cận?
+      - speaker: David
+        text: We should use simpler everyday words after carefully reviewing the negative feedback from last
+          month's visitor surveys.
+        vi: Chúng ta nên sử dụng những từ ngữ hàng ngày đơn giản hơn sau khi xem xét kỹ lưỡng các phản hồi
+          tiêu cực từ các cuộc khảo sát khách tham quan tháng trước.
+      - speaker: Lisa
+        text: Right, clear language helps international tourists understand the exhibits much better. Who
+          will voice the script for us?
+        vi: Đúng vậy, ngôn ngữ rõ ràng giúp khách du lịch quốc tế hiểu các hiện vật tốt hơn nhiều. Ai sẽ đọc
+          kịch bản cho chúng ta?
+      - speaker: David
+        text: You have a very clear voice, Lisa, so I think you should record the main narration part of the
+          track.
+        vi: Lisa, giọng bạn rất rõ, nên tôi nghĩ bạn nên thu âm phần thuyết minh chính của bài hướng dẫn.
+      - speaker: Lisa
+        text: I can certainly do that. When are we testing the first edited audio file with actual museum
+          visitors?
+        vi: Tôi chắc chắn có thể làm điều đó. Khi nào chúng ta sẽ thử nghiệm tệp âm thanh được chỉnh sửa đầu
+          tiên với khách tham quan bảo tàng thực tế?
+      - speaker: David
+        text: We will test it on Thursday afternoon in the main lobby using our portable headphone stations
+          and feedback forms.
+        vi: Chúng ta sẽ kiểm tra nó vào chiều thứ Năm ở sảnh chính bằng cách sử dụng các trạm tai nghe di
+          động và phiếu phản hồi của chúng tôi.
+      - speaker: Lisa
+        text: Perfect. I will finish editing the script tonight, leaving us enough time to record and check
+          it before Thursday afternoon.
+        vi: Tốt quá. Tôi sẽ sửa xong kịch bản tối nay để chúng ta có đủ thời gian ghi âm và kiểm tra trước
+          chiều thứ Năm.
+    dictation:
+      - 1
+      - 3
+      - 5
+      - 8
+    questions:
+      - type: MCQ
+        prompt: Which section of the museum will they record first?
+        promptVi: Khu vực nào của bảo tàng sẽ được ghi âm trước?
+        options:
+          - Modern art gallery
+          - Ancient pottery gallery
+          - Sculpture hall
+          - Royal costume room
+        answer: Ancient pottery gallery
+        explanationVi: Trong đoạn 3, David đề xuất bắt đầu với phòng trưng bày đồ gốm cổ ('start with the
+          ancient pottery gallery').
+      - type: MCQ
+        prompt: How long must the introductory track last?
+        promptVi: Bản ghi âm giới thiệu phải kéo dài bao lâu?
+        options:
+          - Two minutes
+          - Three minutes
+          - Four minutes
+          - Five minutes
+        answer: Three minutes
+        explanationVi: Trong đoạn 5, David nêu rõ đoạn ghi âm dài đúng ba phút ('exactly three minutes long').
+      - type: MCQ
+        prompt: Why did they decide to use simpler words?
+        promptVi: Tại sao họ quyết định sử dụng những từ ngữ đơn giản hơn?
+        options:
+          - Due to bad visitor feedback
+          - To save recording time
+          - Because of museum policy
+          - To fit smaller headphones
+        answer: Due to bad visitor feedback
+        explanationVi: Trong đoạn 7, David giải thích quyết định này dựa trên phản hồi tiêu cực từ khảo sát
+          ('reviewing the negative feedback').
+      - type: MCQ
+        prompt: When will they test the edited audio file with visitors?
+        promptVi: Khi nào họ sẽ thử nghiệm tệp âm thanh đã chỉnh sửa với khách tham quan?
+        options:
+          - Wednesday morning
+          - Thursday afternoon
+          - Friday evening
+          - Saturday afternoon
+        answer: Thursday afternoon
+        explanationVi: Trong đoạn 11, David nói việc kiểm tra diễn ra vào chiều thứ Năm ('test it on
+          Thursday afternoon').
+      - type: TRUE_FALSE
+        prompt: Lisa will record the main narration part of the audio guide.
+        promptVi: Lisa sẽ ghi âm phần tường thuật chính của hướng dẫn âm thanh.
+        answer: true
+        explanationVi: Trong đoạn 9, David gợi ý Lisa nên ghi âm phần tường thuật chính ('you should record
+          the main narration part').
+        statement: Lisa will record the main narration part of the audio guide.
+      - type: TRUE_FALSE
+        prompt: They decided to use technical historical terms in the guide.
+        promptVi: Họ quyết định sử dụng các thuật ngữ lịch sử kỹ thuật trong hướng dẫn.
+        answer: false
+        explanationVi: Trong đoạn 7, David khẳng định nên dùng từ ngữ hàng ngày đơn giản hơn ('use simpler
+          everyday words') thay vì thuật ngữ kỹ thuật.
+        statement: They decided to use technical historical terms in the guide.
+      - type: SHORT_ANSWER
+        prompt: Where in the museum will the visitor test take place? Give the TWO-word location.
+        promptVi: Buổi thử nghiệm với khách tham quan diễn ra ở đâu trong bảo tàng? Viết địa điểm gồm HAI từ.
+        accept:
+          - main lobby
+          - the main lobby
+        explanationVi: Ở lượt 11, David nói buổi thử nghiệm sẽ diễn ra tại sảnh chính, main lobby.
+      - type: SHORT_ANSWER
+        prompt: What forms will they use to collect visitors' opinions? Give the TWO-word phrase.
+        promptVi: Họ dùng loại phiếu nào để thu thập ý kiến khách tham quan? Viết cụm HAI từ.
+        accept:
+          - feedback forms
+          - feedback form
+        explanationVi: David nhắc đến feedback forms, tức phiếu phản hồi, ở lượt 11.
+  - slug: changing-a-sports-centre-membership
+    title: Changing a Sports Centre Membership
+    titleVi: Thay đổi thẻ thành viên trung tâm thể thao
+    topic: work
+    accent: UK
+    format: dialogue
+    speakerCount: 2
+    glossary: []
+    segments:
+      - speaker: Mark
+        text: Hello, I urgently need to adjust my current gym membership because my new work hours start
+          next month.
+        vi: Xin chào, tôi cần gấp rút điều chỉnh thẻ thành viên phòng gym hiện tại vì giờ làm việc mới của
+          tôi bắt đầu vào tháng sau.
+      - speaker: Sarah
+        text: Of course, Mark. I can certainly help you review our available plans and find a better fit.
+        vi: Chắc chắn rồi, Mark. Tôi hoàn toàn có thể giúp anh xem xét các gói tập hiện có và tìm một gói
+          phù hợp hơn.
+      - speaker: Mark
+        text: I used to come every evening, but from next month I will work late shifts until seven on
+          weekdays. I can usually come at weekends.
+        vi: Trước đây tối nào tôi cũng đến, nhưng từ tháng sau tôi sẽ làm ca muộn đến bảy giờ vào các ngày
+          trong tuần. Tôi thường đến được vào cuối tuần.
+      - speaker: Sarah
+        text: That definitely changes things. We have a daytime off-peak plan and a flexible multi-visit
+          pass available today.
+        vi: Điều đó chắc chắn làm thay đổi mọi thứ. Chúng tôi có gói giờ thấp điểm ban ngày và vé lượt linh
+          hoạt sẵn có hôm nay.
+      - speaker: Mark
+        text: Could you explain the daytime off-peak plan first? How much does it cost per month exactly?
+        vi: Cô có thể giải thích gói giờ thấp điểm ban ngày trước được không? Chính xác thì nó có giá bao
+          nhiêu một tháng?
+      - speaker: Sarah
+        text: It costs forty-five pounds per month, and you can access all facilities anytime before four PM
+          from Monday to Friday.
+        vi: Nó có giá bốn mươi lăm bảng một tháng, và anh có thể sử dụng tất cả các cơ sở vật chất bất cứ
+          lúc nào trước bốn giờ chiều từ thứ Hai đến thứ Sáu.
+      - speaker: Mark
+        text: Four PM is much too early. My office is quite far away, and on the new schedule I will not
+          finish work until seven.
+        vi: Bốn giờ chiều thì quá sớm. Văn phòng của tôi khá xa, và theo lịch mới tôi phải đến bảy giờ mới
+          tan làm.
+      - speaker: Sarah
+        text: Then the flexible pass might work much better. It gives you twelve evening or weekend visits
+          for fifty pounds.
+        vi: Vậy thì vé linh hoạt có lẽ sẽ phù hợp hơn nhiều. Nó cho phép anh có mười hai buổi vào buổi tối
+          hoặc cuối tuần với giá năm mươi bảng.
+      - speaker: Mark
+        text: Twelve visits per month? That suits my unpredictable schedule nicely because I also travel for
+          business occasionally.
+        vi: Mười hai buổi một tháng sao? Điều đó rất phù hợp với lịch trình khó đoán của tôi vì tôi thỉnh
+          thoảng cũng đi công tác.
+      - speaker: Sarah
+        text: Exactly. Please remember that unused visits do not roll over to the following month, however.
+        vi: Chính xác. Tuy nhiên, xin hãy nhớ rằng các buổi chưa dùng sẽ không được chuyển sang tháng tiếp
+          theo.
+      - speaker: Mark
+        text: That works for me. Please start my twelve-visit pass on the first Monday of next month, when
+          my new work schedule begins.
+        vi: Gói đó phù hợp với tôi. Hãy cho gói mười hai buổi của tôi bắt đầu vào thứ Hai đầu tiên của tháng
+          sau, khi lịch làm việc mới bắt đầu.
+      - speaker: Sarah
+        text: Perfect, I have updated your account profile successfully in our system. Enjoy your modified
+          membership plan!
+        vi: Hoàn hảo, tôi đã cập nhật thành công hồ sơ tài khoản của anh trong hệ thống của chúng tôi. Chúc
+          anh tận hưởng gói thành viên đã chỉnh sửa!
+    dictation:
+      - 2
+      - 5
+      - 8
+      - 11
+    questions:
+      - type: MCQ
+        prompt: What is the reason Mark needs to change his membership?
+        promptVi: Lý do khiến Mark cần thay đổi thẻ thành viên của mình là gì?
+        options:
+          - His new work hours start next month
+          - The gym increased its monthly prices
+          - He moved to a different neighborhood
+          - He injured his leg playing sports
+        answer: His new work hours start next month
+        explanationVi: Mark trình bày trong đoạn 1 rằng giờ làm việc mới của anh ấy bắt đầu vào tháng sau.
+      - type: MCQ
+        prompt: What time will Mark finish work on weekdays under his new schedule?
+        promptVi: Theo lịch mới, Mark sẽ tan làm lúc mấy giờ vào các ngày trong tuần?
+        options:
+          - Four PM
+          - Five PM
+          - Six PM
+          - Seven PM
+        answer: Seven PM
+        explanationVi: Ở lượt 3 và 7, Mark xác nhận theo lịch mới anh sẽ làm đến bảy giờ tối.
+      - type: MCQ
+        prompt: How much does the daytime off-peak plan cost per month?
+        promptVi: Gói giờ thấp điểm ban ngày có giá bao nhiêu một tháng?
+        options:
+          - Forty-five pounds
+          - Fifty pounds
+          - Sixty pounds
+          - Seventy pounds
+        answer: Forty-five pounds
+        explanationVi: Sarah nêu trong đoạn 6 rằng gói giờ thấp điểm ban ngày có giá bốn mươi lăm bảng một tháng.
+      - type: MCQ
+        prompt: What is a rule regarding the flexible multi-visit pass?
+        promptVi: Quy tắc nào áp dụng cho vé nhiều lần linh hoạt?
+        options:
+          - Unused visits do not roll over
+          - Visits can be shared with friends
+          - Bookings must be made two days in advance
+          - It includes weekend morning yoga classes
+        answer: Unused visits do not roll over
+        explanationVi: Sarah làm rõ trong đoạn 10 rằng các buổi chưa dùng không được chuyển sang tháng tiếp theo.
+      - type: TRUE_FALSE
+        prompt: Mark chooses the twelve-visit pass from the first Monday of next month.
+        promptVi: Mark chọn gói mười hai buổi bắt đầu từ thứ Hai đầu tiên của tháng sau.
+        answer: true
+        explanationVi: Mark yêu cầu gói mới bắt đầu vào the first Monday of next month ở lượt 11.
+        statement: Mark chooses the twelve-visit pass from the first Monday of next month.
+      - type: TRUE_FALSE
+        prompt: The daytime off-peak plan allows access to facilities until six PM on weekdays.
+        promptVi: Gói giờ thấp điểm ban ngày cho phép truy cập các cơ sở vật chất cho đến sáu giờ chiều các
+          ngày trong tuần.
+        answer: false
+        explanationVi: Sarah nêu trong đoạn 6 rằng quyền truy cập chỉ áp dụng bất cứ lúc nào trước bốn giờ chiều.
+        statement: The daytime off-peak plan allows access to facilities until six PM on weekdays.
+      - type: SHORT_ANSWER
+        prompt: State the number of visits included in the flexible pass per month, using a number word or
+          digits.
+        promptVi: Nêu số lượng buổi tập được bao gồm trong vé linh hoạt mỗi tháng, sử dụng dạng chữ số hoặc
+          số đếm.
+        accept:
+          - "12"
+          - twelve
+          - 12 visits
+          - twelve visits
+        answer: "12"
+        explanationVi: Đoạn 8 và 9 đề cập đến mười hai buổi (twelve visits) mỗi tháng.
+      - type: SHORT_ANSWER
+        prompt: What is the price of the flexible pass in British currency mentioned in the text?
+        promptVi: Giá của vé linh hoạt bằng tiền tệ Anh được nhắc đến trong đoạn văn là gì?
+        accept:
+          - "50"
+          - fifty
+          - 50 pounds
+          - fifty pounds
+          - £50
+        answer: fifty pounds
+        explanationVi: Sarah nêu trong đoạn 8 rằng vé linh hoạt có giá năm mươi bảng (fifty pounds).
+  - slug: arranging-an-online-class-rehearsal
+    title: Arranging an Online Class Rehearsal
+    titleVi: Sắp xếp buổi tổng duyệt lớp học trực tuyến
+    topic: education
+    accent: US
+    format: dialogue
+    speakerCount: 2
+    glossary: []
+    segments:
+      - speaker: David
+        text: Hi Lisa, thanks for joining this quick test session before our important virtual lecture
+          tomorrow morning at nine.
+        vi: Chào Lisa, cảm ơn bạn đã tham gia buổi kiểm tra nhanh này trước buổi giảng ảo quan trọng của
+          chúng ta vào sáng mai lúc chín giờ.
+      - speaker: Lisa
+        text: No problem, David. Let us make sure the presentation software, microphone, and camera operate
+          without any unexpected technical glitches.
+        vi: Không có gì, David. Hãy đảm bảo phần mềm thuyết trình, micro và máy ảnh hoạt động mà không gặp
+          sự cố kỹ thuật bất ngờ nào.
+      - speaker: David
+        text: I will start by sharing my primary slides document on the main projector screen right now.
+        vi: Tôi sẽ bắt đầu bằng cách chia sẻ tài liệu slide chính của mình trên màn hình máy chiếu chính
+          ngay bây giờ.
+      - speaker: Lisa
+        text: Wait, the screen is completely black. The system security prompt says permission is denied for
+          direct file sharing.
+        vi: Đợi đã, màn hình hoàn toàn đen thui. Lời nhắc bảo mật hệ thống cho biết quyền bị từ chối đối với
+          việc chia sẻ tệp trực tiếp.
+      - speaker: David
+        text: Oh no, that is a serious problem for our live audience. Let me restart the browser application
+          immediately to fix it.
+        vi: Ồ không, đó là một vấn đề nghiêm trọng đối với khán giả trực tiếp của chúng ta. Để tôi khởi động
+          lại ứng dụng trình duyệt ngay lập tức để sửa lỗi.
+      - speaker: Lisa
+        text: While you restart, I will prepare the backup PDF file and upload it to our shared cloud
+          folder.
+        vi: Trong lúc bạn khởi động lại, tôi sẽ chuẩn bị tệp PDF dự phòng và tải nó lên thư mục đám mây
+          chung của chúng ta.
+      - speaker: David
+        text: I am back online now after clearing my cache. Can you see my screen clearly with the updated
+          slides visible?
+        vi: Tôi đã trực tuyến trở lại sau khi xóa bộ nhớ đệm. Bạn có thấy màn hình của tôi rõ ràng với các
+          slide được cập nhật không?
+      - speaker: Lisa
+        text: Yes, the slides look crisp, but the embedded video clip in slide five refuses to play
+          properly.
+        vi: Có, các slide hiện rất rõ, nhưng đoạn video được nhúng ở slide số năm vẫn chưa phát được bình
+          thường.
+      - speaker: David
+        text: That is unfortunate. If the video fails during class, we need a reliable backup plan ready.
+        vi: Thật là tiếc. Nếu video bị lỗi trong giờ học, chúng ta cần chuẩn bị sẵn một kế hoạch dự phòng
+          đáng tin cậy.
+      - speaker: Lisa
+        text: I can stream the alternative video file directly from my backup laptop if your main audio feed
+          fails completely.
+        vi: Tôi có thể phát trực tuyến tệp video thay thế trực tiếp từ máy tính xách tay dự phòng của mình
+          nếu nguồn âm thanh chính của bạn bị hỏng hoàn toàn.
+      - speaker: David
+        text: Excellent solution. Let us write down these emergency steps so we do not panic during live
+          instruction.
+        vi: Giải pháp tuyệt vời. Hãy viết ra các bước khẩn cấp này để chúng ta không bị hoảng loạn trong khi
+          giảng dạy trực tiếp.
+      - speaker: Lisa
+        text: Agreed, I am saving the final backup procedure document right now. We are fully prepared for
+          tomorrow's successful session!
+        vi: Đồng ý, tôi đang lưu tài liệu quy trình dự phòng cuối cùng ngay bây giờ. Chúng ta đã chuẩn bị
+          hoàn toàn cho buổi học thành công vào ngày mai!
+    dictation:
+      - 3
+      - 6
+      - 9
+      - 12
+    questions:
+      - type: MCQ
+        prompt: What time is the important virtual lecture scheduled for tomorrow?
+        promptVi: Buổi giảng ảo quan trọng vào ngày mai được lên lịch vào lúc mấy giờ?
+        options:
+          - Nine AM
+          - Ten AM
+          - Two PM
+          - Four PM
+        answer: Nine AM
+        explanationVi: David nêu trong đoạn 1 rằng buổi giảng ảo diễn ra vào sáng mai lúc chín giờ.
+      - type: MCQ
+        prompt: What initial error message did Lisa see when David tried to share his screen?
+        promptVi: Thông báo lỗi ban đầu nào mà Lisa nhìn thấy khi David cố gắng chia sẻ màn hình của mình?
+        options:
+          - Permission is denied for direct file sharing
+          - Connection timeout occurred during upload
+          - File format is not supported by system
+          - Audio driver needs immediate update
+        answer: Permission is denied for direct file sharing
+        explanationVi: Lisa nêu trong đoạn 4 rằng thông báo cho biết quyền bị từ chối đối với việc chia sẻ
+          tệp trực tiếp.
+      - type: MCQ
+        prompt: What action did Lisa take while David restarted his browser application?
+        promptVi: Hành động nào mà Lisa đã thực hiện trong khi David khởi động lại ứng dụng trình duyệt của
+          anh ấy?
+        options:
+          - Prepared the backup PDF file
+          - Called technical support team
+          - Sent an email to all students
+          - Restarted her own computer
+        answer: Prepared the backup PDF file
+        explanationVi: Lisa nêu trong đoạn 6 rằng cô ấy sẽ chuẩn bị tệp PDF dự phòng và tải lên thư mục đám mây.
+      - type: MCQ
+        prompt: Which specific slide contained a video clip that refused to play properly?
+        promptVi: Slide cụ thể nào chứa đoạn video từ chối phát đúng cách?
+        options:
+          - Slide five
+          - Slide three
+          - Slide seven
+          - Slide ten
+        answer: Slide five
+        explanationVi: Lisa đề cập trong đoạn 8 rằng đoạn video nhúng ở slide năm từ chối phát đúng cách.
+      - type: TRUE_FALSE
+        prompt: Lisa can stream the alternative video file from her backup laptop if the main audio feed
+          fails.
+        promptVi: Lisa có thể phát trực tuyến tệp video thay thế từ máy tính xách tay dự phòng của cô ấy nếu
+          nguồn âm thanh chính bị hỏng.
+        answer: true
+        explanationVi: Lisa xác nhận trong đoạn 10 rằng cô ấy có thể phát trực tuyến tệp video thay thế từ
+          máy tính xách tay dự phòng nếu cần.
+        statement: Lisa can stream the alternative video file from her backup laptop if the main audio feed
+          fails.
+      - type: TRUE_FALSE
+        prompt: David plans to leave the backup steps unwritten.
+        promptVi: David định không ghi lại các bước xử lý dự phòng.
+        answer: false
+        explanationVi: Ở lượt 11, David đề nghị viết lại các bước dự phòng để tránh lúng túng khi đang dạy.
+        statement: David plans to leave the backup steps unwritten.
+      - type: SHORT_ANSWER
+        prompt: Where will Lisa upload the backup PDF? Give the THREE-word folder description.
+        promptVi: Lisa sẽ tải tệp PDF dự phòng lên đâu? Viết cụm BA từ mô tả thư mục.
+        accept:
+          - shared cloud folder
+          - the shared cloud folder
+          - our shared cloud folder
+        explanationVi: Ở lượt 6, Lisa nói sẽ tải tệp lên shared cloud folder, tức thư mục đám mây dùng chung.
+      - type: SHORT_ANSWER
+        prompt: What did David clear before reconnecting? Give ONE word.
+        promptVi: David đã xóa gì trước khi kết nối lại? Viết MỘT từ.
+        accept:
+          - cache
+          - his cache
+          - the cache
+        explanationVi: Ở lượt 7, David nói mình đã kết nối lại sau khi xóa cache, tức bộ nhớ đệm.

@@ -1,0 +1,1471 @@
+# Chủ đề Môi trường (§12.1). Nguồn định nghĩa và ví dụ: Wiktionary (CC BY-SA),
+# WordNet, Tatoeba (CC BY); phiên âm theo CMUdict (BSD). Xem content/LICENSES.md.
+topic: environment
+words:
+  - lemma: pollution
+    cefr: B1
+    frequencyRank: 3120
+    ipaUs: /pəˈluːʃn̩/
+    ipaUk: /pəˈluːʃn̩/
+    syllables: pol·lu·tion
+    stressPattern: '010'
+    subtopics: [pollution]
+    senses:
+      - pos: NOUN
+        definitionEn: The presence of harmful substances in the air, water or soil.
+        definitionVi: Sự ô nhiễm; tình trạng không khí, nước hoặc đất bị nhiễm chất độc hại.
+        examples:
+          - en: Air pollution in the city gets worse every winter.
+            vi: Ô nhiễm không khí ở thành phố tệ hơn vào mỗi mùa đông.
+          - en: The factory was fined for water pollution.
+            vi: Nhà máy bị phạt vì gây ô nhiễm nguồn nước.
+        synonyms: [contamination]
+
+  - lemma: recycle
+    cefr: A2
+    frequencyRank: 6200
+    ipaUs: /ˌriːˈsaɪkl̩/
+    ipaUk: /ˌriːˈsaɪkl̩/
+    syllables: re·cy·cle
+    stressPattern: '010'
+    subtopics: [waste-recycling]
+    senses:
+      - pos: VERB
+        definitionEn: To treat used materials so that they can be used again.
+        definitionVi: Tái chế; xử lý vật liệu đã dùng để dùng lại được.
+        examples:
+          - en: We recycle paper, glass and plastic at home.
+            vi: Ở nhà chúng tôi tái chế giấy, thuỷ tinh và nhựa.
+          - en: Only a third of household waste is recycled here.
+            vi: Chỉ một phần ba rác sinh hoạt ở đây được tái chế.
+        synonyms: [reuse]
+
+  - lemma: renewable
+    cefr: B2
+    frequencyRank: 8900
+    ipaUs: /rɪˈnuːəbl̩/
+    ipaUk: /rɪˈnjuːəbl̩/
+    syllables: re·new·a·ble
+    stressPattern: '0100'
+    subtopics: [renewable-energy]
+    senses:
+      - pos: ADJECTIVE
+        definitionEn: Able to be replaced naturally, so it will not run out.
+        definitionVi: Có thể tái tạo; nguồn tự bù lại nên không cạn kiệt.
+        examples:
+          - en: Wind is a renewable source of energy.
+            vi: Gió là một nguồn năng lượng tái tạo.
+          - en: The country now runs on renewable power for half the year.
+            vi: Nửa năm nay quốc gia này chạy bằng điện tái tạo.
+        synonyms: [sustainable]
+
+  - lemma: emission
+    cefr: B2
+    frequencyRank: 7400
+    ipaUs: /ɪˈmɪʃn̩/
+    ipaUk: /ɪˈmɪʃn̩/
+    syllables: e·mis·sion
+    stressPattern: '010'
+    subtopics: [climate-change, pollution]
+    senses:
+      - pos: NOUN
+        definitionEn: A gas or other substance sent out into the air.
+        definitionVi: Khí thải; chất được thải ra không khí.
+        examples:
+          - en: The new rules cut carbon emissions by a fifth.
+            vi: Quy định mới cắt giảm một phần năm lượng khí thải carbon.
+          - en: Emissions from traffic are the main problem downtown.
+            vi: Khí thải từ giao thông là vấn đề chính ở khu trung tâm.
+        synonyms: [discharge]
+
+  - lemma: conserve
+    cefr: B2
+    frequencyRank: 9100
+    ipaUs: /kənˈsɜːrv/
+    ipaUk: /kənˈsɜːv/
+    syllables: con·serve
+    stressPattern: '01'
+    subtopics: [conservation]
+    senses:
+      - pos: VERB
+        definitionEn: To protect something, or to use it carefully so it lasts.
+        definitionVi: Bảo tồn; giữ gìn hoặc dùng tiết kiệm để còn lâu dài.
+        examples:
+          - en: Turning off the tap while brushing conserves water.
+            vi: Khoá vòi khi đánh răng giúp tiết kiệm nước.
+          - en: The park was created to conserve the last wild forest here.
+            vi: Công viên được lập ra để bảo tồn khu rừng hoang cuối cùng ở đây.
+        synonyms: [preserve, protect]
+
+  - lemma: wildlife
+    cefr: B1
+    frequencyRank: 5600
+    ipaUs: /ˈwaɪldlaɪf/
+    ipaUk: /ˈwaɪldlaɪf/
+    syllables: wild·life
+    stressPattern: '10'
+    subtopics: [wildlife]
+    senses:
+      - pos: NOUN
+        definitionEn: Animals and plants living in their natural surroundings.
+        definitionVi: Động thực vật hoang dã sống trong tự nhiên.
+        examples:
+          - en: The reserve protects wildlife along the river.
+            vi: Khu bảo tồn bảo vệ động thực vật hoang dã dọc con sông.
+          - en: Traffic noise drives wildlife away from the roads.
+            vi: Tiếng ồn giao thông khiến động vật hoang dã tránh xa đường sá.
+
+  - lemma: drought
+    cefr: B2
+    frequencyRank: 8300
+    ipaUs: /draʊt/
+    ipaUk: /draʊt/
+    syllables: drought
+    stressPattern: '1'
+    subtopics: [climate-change]
+    senses:
+      - pos: NOUN
+        definitionEn: A long period with little or no rain.
+        definitionVi: Hạn hán; khoảng thời gian dài mưa rất ít hoặc không mưa.
+        examples:
+          - en: The drought lasted three months and the wells ran dry.
+            vi: Đợt hạn hán kéo dài ba tháng và các giếng nước cạn khô.
+          - en: Farmers lost most of the rice crop to drought.
+            vi: Nông dân mất phần lớn vụ lúa vì hạn hán.
+
+  - lemma: sustainable
+    cefr: B2
+    frequencyRank: 6800
+    ipaUs: /səˈsteɪnəbl̩/
+    ipaUk: /səˈsteɪnəbl̩/
+    syllables: sus·tain·a·ble
+    stressPattern: '0100'
+    subtopics: [conservation, renewable-energy]
+    senses:
+      - pos: ADJECTIVE
+        definitionEn: Able to continue for a long time without damaging the environment.
+        definitionVi: Bền vững; duy trì được lâu dài mà không phá hỏng môi trường.
+        examples:
+          - en: They farm in a sustainable way, without chemicals.
+            vi: Họ canh tác theo cách bền vững, không dùng hoá chất.
+          - en: Cheap flights are not a sustainable habit.
+            vi: Bay giá rẻ liên tục không phải một thói quen bền vững.
+        synonyms: [renewable]
+
+  - lemma: pollute
+    cefr: B1
+    frequencyRank: 9800
+    ipaUs: /pəˈluːt/
+    ipaUk: /pəˈluːt/
+    syllables: pol·lute
+    stressPattern: '01'
+    subtopics: [pollution]
+    senses:
+      - pos: VERB
+        definitionEn: To make air, water or land dirty and dangerous.
+        definitionVi: Làm ô nhiễm; khiến không khí, nước hay đất trở nên độc hại.
+        examples:
+          - en: Factories pollute the river every day.
+            vi: Các nhà máy làm ô nhiễm dòng sông mỗi ngày.
+          - en: Burning coal pollutes the air we breathe.
+            vi: Đốt than làm ô nhiễm bầu không khí chúng ta hít thở.
+        synonyms: [contaminate]
+
+  - lemma: contaminate
+    cefr: B2
+    frequencyRank: 12400
+    ipaUs: /kənˈtæmɪneɪt/
+    ipaUk: /kənˈtæmɪneɪt/
+    syllables: con·tam·i·nate
+    stressPattern: '0100'
+    subtopics: [pollution]
+    senses:
+      - pos: VERB
+        definitionEn: To add a harmful substance to something, making it unsafe.
+        definitionVi: Làm nhiễm bẩn; đưa chất độc hại vào khiến thứ gì đó không an toàn.
+        examples:
+          - en: Waste from the mine contaminated the drinking water.
+            vi: Chất thải từ mỏ làm nhiễm bẩn nguồn nước uống.
+          - en: Do not let the raw meat contaminate the vegetables.
+            vi: Đừng để thịt sống làm nhiễm bẩn rau củ.
+
+  - lemma: flood
+    cefr: A2
+    frequencyRank: 5400
+    ipaUs: /flʌd/
+    ipaUk: /flʌd/
+    syllables: flood
+    stressPattern: '1'
+    subtopics: [climate-change]
+    senses:
+      - pos: NOUN
+        definitionEn: A large amount of water covering land that is usually dry.
+        definitionVi: Lũ lụt; lượng nước lớn tràn lên vùng đất thường khô ráo.
+        examples:
+          - en: The flood reached the second floor of every house.
+            vi: Trận lụt dâng tới tầng hai của mọi ngôi nhà.
+          - en: Heavy rain caused a flood in the old quarter.
+            vi: Mưa lớn gây ngập lụt ở khu phố cổ.
+        antonyms: [drought]
+
+  - lemma: habitat
+    cefr: B2
+    frequencyRank: 10300
+    ipaUs: /ˈhæbɪtæt/
+    ipaUk: /ˈhæbɪtæt/
+    syllables: hab·i·tat
+    stressPattern: '100'
+    subtopics: [wildlife]
+    senses:
+      - pos: NOUN
+        definitionEn: The natural place where an animal or plant lives.
+        definitionVi: Môi trường sống; nơi tự nhiên mà một loài vật hay cây sinh sống.
+        examples:
+          - en: Logging destroys the habitat of many rare birds.
+            vi: Việc khai thác gỗ phá huỷ môi trường sống của nhiều loài chim quý.
+          - en: Mangroves are an important habitat for young fish.
+            vi: Rừng ngập mặn là môi trường sống quan trọng của cá con.
+
+  - lemma: endangered
+    cefr: B2
+    frequencyRank: 14100
+    ipaUs: /ɪnˈdeɪndʒərd/
+    ipaUk: /ɪnˈdeɪndʒəd/
+    syllables: en·dan·gered
+    stressPattern: '010'
+    subtopics: [wildlife, conservation]
+    senses:
+      - pos: ADJECTIVE
+        definitionEn: At serious risk of disappearing from the world for ever.
+        definitionVi: Có nguy cơ tuyệt chủng; đứng trước rủi ro biến mất vĩnh viễn.
+        examples:
+          - en: The saola is an endangered animal found only in Vietnam and Laos.
+            vi: Sao la là loài vật có nguy cơ tuyệt chủng chỉ có ở Việt Nam và Lào.
+          - en: Selling endangered species is against the law.
+            vi: Buôn bán loài có nguy cơ tuyệt chủng là vi phạm pháp luật.
+
+  - lemma: conservation
+    cefr: B2
+    frequencyRank: 9100
+    ipaUs: /ˌkɑːnsərˈveɪʃn̩/
+    ipaUk: /ˌkɒnsəˈveɪʃn̩/
+    syllables: con·ser·va·tion
+    stressPattern: '0010'
+    subtopics: [conservation]
+    senses:
+      - pos: NOUN
+        definitionEn: The work of protecting nature and using resources carefully.
+        definitionVi: Công tác bảo tồn; việc bảo vệ thiên nhiên và dùng tài nguyên hợp lý.
+        examples:
+          - en: She works in wildlife conservation in the central highlands.
+            vi: Cô ấy làm công tác bảo tồn động vật hoang dã ở Tây Nguyên.
+          - en: Conservation of the coral reef needs money and patience.
+            vi: Bảo tồn rạn san hô cần tiền bạc và sự kiên nhẫn.
+
+  - lemma: preserve
+    cefr: B2
+    frequencyRank: 6700
+    ipaUs: /prɪˈzɜːrv/
+    ipaUk: /prɪˈzɜːv/
+    syllables: pre·serve
+    stressPattern: '01'
+    subtopics: [conservation]
+    senses:
+      - pos: VERB
+        definitionEn: To keep something in its original state so it is not lost.
+        definitionVi: Giữ gìn, bảo quản; giữ nguyên trạng để không bị mất đi.
+        examples:
+          - en: The village works hard to preserve its craft.
+            vi: Ngôi làng nỗ lực giữ gìn nghề thủ công của mình.
+          - en: Salt was used to preserve fish before there were fridges.
+            vi: Muối được dùng để bảo quản cá trước khi có tủ lạnh.
+        synonyms: [conserve]
+
+  - lemma: landfill
+    cefr: B2
+    frequencyRank: 18600
+    ipaUs: /ˈlændfɪl/
+    ipaUk: /ˈlændfɪl/
+    syllables: land·fill
+    stressPattern: '10'
+    subtopics: [waste-recycling]
+    senses:
+      - pos: NOUN
+        definitionEn: A place where rubbish is buried under the ground.
+        definitionVi: Bãi chôn lấp rác; nơi rác được chôn xuống đất.
+        examples:
+          - en: Most plastic bags end up in a landfill.
+            vi: Phần lớn túi ni lông kết thúc ở bãi chôn lấp.
+          - en: The landfill outside town is almost full.
+            vi: Bãi rác ngoài thị trấn gần như đã đầy.
+
+  - lemma: recyclable
+    cefr: B2
+    frequencyRank: 22400
+    ipaUs: /ˌriːˈsaɪkləbl̩/
+    ipaUk: /ˌriːˈsaɪkləbl̩/
+    syllables: re·cy·cla·ble
+    stressPattern: '0100'
+    subtopics: [waste-recycling]
+    senses:
+      - pos: ADJECTIVE
+        definitionEn: Able to be treated and used again instead of thrown away.
+        definitionVi: Có thể tái chế; xử lý được để dùng lại thay vì vứt bỏ.
+        examples:
+          - en: Put recyclable bottles in the green bin.
+            vi: Bỏ chai có thể tái chế vào thùng xanh.
+          - en: Not every kind of plastic is recyclable.
+            vi: Không phải loại nhựa nào cũng tái chế được.
+
+  - lemma: recycling
+    cefr: A2
+    frequencyRank: 11900
+    ipaUs: /ˌriːˈsaɪklɪŋ/
+    ipaUk: /ˌriːˈsaɪklɪŋ/
+    syllables: re·cy·cling
+    stressPattern: '010'
+    subtopics: [waste-recycling]
+    senses:
+      - pos: NOUN
+        definitionEn: The process of turning used materials into new things.
+        definitionVi: Việc tái chế; quá trình biến vật liệu đã dùng thành đồ mới.
+        examples:
+          - en: Recycling saves a lot of energy.
+            vi: Việc tái chế tiết kiệm rất nhiều năng lượng.
+          - en: The school started a paper recycling programme.
+            vi: Trường bắt đầu chương trình tái chế giấy.
+
+  - lemma: deforestation
+    cefr: C1
+    frequencyRank: 21800
+    ipaUs: /diːˌfɔːrɪˈsteɪʃn̩/
+    ipaUk: /diːˌfɒrɪˈsteɪʃn̩/
+    syllables: de·for·est·a·tion
+    stressPattern: '00010'
+    subtopics: [conservation, wildlife]
+    senses:
+      - pos: NOUN
+        definitionEn: The cutting down of forests over a large area.
+        definitionVi: Nạn phá rừng; việc chặt rừng trên diện rộng.
+        examples:
+          - en: Deforestation in the north has changed the local weather.
+            vi: Nạn phá rừng ở phía bắc đã làm thay đổi thời tiết địa phương.
+          - en: Coffee farms are one cause of deforestation here.
+            vi: Các nông trại cà phê là một nguyên nhân gây phá rừng ở đây.
+
+  - lemma: greenhouse
+    cefr: B2
+    frequencyRank: 13200
+    ipaUs: /ˈɡriːnhaʊs/
+    ipaUk: /ˈɡriːnhaʊs/
+    syllables: green·house
+    stressPattern: '10'
+    subtopics: [climate-change]
+    senses:
+      - pos: NOUN
+        definitionEn: A glass building for growing plants; also used for the gases that warm the planet.
+        definitionVi: Nhà kính; cũng dùng để chỉ nhóm khí giữ nhiệt làm nóng Trái Đất.
+        examples:
+          - en: Greenhouse gases trap heat in the atmosphere.
+            vi: Khí nhà kính giữ nhiệt lại trong khí quyển.
+          - en: They grow tomatoes in a greenhouse all winter.
+            vi: Họ trồng cà chua trong nhà kính suốt mùa đông.
+
+  - lemma: biodiversity
+    cefr: B2
+    frequencyRank: 12400
+    ipaUs: /ˌbaɪoʊdaɪˈvɜːrsəti/
+    ipaUk: /ˌbaɪəʊdaɪˈvɜːsəti/
+    syllables: bi·o·di·ver·si·ty
+    stressPattern: '001000'
+    subtopics: [wildlife]
+    senses:
+      - pos: NOUN
+        definitionEn: The variety of plant and animal life in a place.
+        definitionVi: Đa dạng sinh học; sự phong phú của các loài động thực vật ở một nơi.
+        examples:
+          - en: Cutting the forest reduces biodiversity for decades.
+            vi: Chặt rừng làm giảm đa dạng sinh học suốt nhiều thập kỷ.
+          - en: The delta has some of the richest biodiversity in Asia.
+            vi: Vùng đồng bằng này có đa dạng sinh học vào loại phong phú nhất châu Á.
+        synonyms: [variety]
+
+  - lemma: erosion
+    cefr: B2
+    frequencyRank: 11800
+    ipaUs: /ɪˈroʊʒn̩/
+    ipaUk: /ɪˈrəʊʒn̩/
+    syllables: e·ro·sion
+    stressPattern: '010'
+    subtopics: [climate-change]
+    senses:
+      - pos: NOUN
+        definitionEn: The gradual wearing away of soil or rock by water or wind.
+        definitionVi: Sự xói mòn; đất đá bị nước hoặc gió bào mòn dần.
+        examples:
+          - en: Erosion has taken ten metres of the coast in five years.
+            vi: Xói mòn đã lấy đi mười mét bờ biển trong năm năm.
+          - en: Planting trees along the bank slows erosion.
+            vi: Trồng cây dọc bờ sông làm chậm quá trình xói mòn.
+
+  - lemma: sewage
+    cefr: B2
+    frequencyRank: 13200
+    ipaUs: /ˈsuːɪdʒ/
+    ipaUk: /ˈsuːɪdʒ/
+    syllables: sew·age
+    stressPattern: '10'
+    subtopics: [pollution]
+    senses:
+      - pos: NOUN
+        definitionEn: Waste water and human waste carried away in drains.
+        definitionVi: Nước thải; nước bẩn và chất thải sinh hoạt theo cống thoát đi.
+        examples:
+          - en: Untreated sewage flows straight into the river.
+            vi: Nước thải chưa xử lý chảy thẳng ra sông.
+          - en: The city is building a new sewage treatment plant.
+            vi: Thành phố đang xây một nhà máy xử lý nước thải mới.
+
+  - lemma: compost
+    cefr: B1
+    frequencyRank: 14100
+    ipaUs: /ˈkɑːmpoʊst/
+    ipaUk: /ˈkɒmpɒst/
+    syllables: com·post
+    stressPattern: '10'
+    subtopics: [waste-recycling]
+    senses:
+      - pos: NOUN
+        definitionEn: Decayed food and plant waste used to feed soil.
+        definitionVi: Phân hữu cơ; rác thực phẩm và cây cỏ đã phân huỷ dùng bón đất.
+        examples:
+          - en: We turn vegetable peelings into compost.
+            vi: Chúng tôi biến vỏ rau củ thành phân hữu cơ.
+          - en: A bag of compost costs less than fertiliser.
+            vi: Một bao phân hữu cơ rẻ hơn phân hoá học.
+
+  - lemma: solar
+    cefr: B1
+    frequencyRank: 5800
+    ipaUs: /ˈsoʊlər/
+    ipaUk: /ˈsəʊlə/
+    syllables: so·lar
+    stressPattern: '10'
+    subtopics: [renewable-energy]
+    senses:
+      - pos: ADJECTIVE
+        definitionEn: Relating to, or powered by, the sun.
+        definitionVi: Thuộc về mặt trời; chạy bằng năng lượng mặt trời.
+        examples:
+          - en: They put solar panels on the school roof.
+            vi: Họ lắp tấm pin mặt trời trên mái trường.
+          - en: Solar power is cheapest in the dry season.
+            vi: Điện mặt trời rẻ nhất vào mùa khô.
+
+  - lemma: turbine
+    cefr: B2
+    frequencyRank: 12900
+    ipaUs: /ˈtɜːrbaɪn/
+    ipaUk: /ˈtɜːbaɪn/
+    syllables: tur·bine
+    stressPattern: '10'
+    subtopics: [renewable-energy]
+    senses:
+      - pos: NOUN
+        definitionEn: A machine with blades that turns moving air or water into power.
+        definitionVi: Tua-bin; máy có cánh quạt biến gió hoặc nước chảy thành điện.
+        examples:
+          - en: Forty turbines stand along the coast.
+            vi: Bốn mươi tua-bin đứng dọc bờ biển.
+          - en: One turbine powers about six hundred homes.
+            vi: Một tua-bin cấp điện cho khoảng sáu trăm hộ.
+
+  - lemma: extinct
+    cefr: B1
+    frequencyRank: 9800
+    ipaUs: /ɪkˈstɪŋkt/
+    ipaUk: /ɪkˈstɪŋkt/
+    syllables: ex·tinct
+    stressPattern: '01'
+    subtopics: [wildlife]
+    senses:
+      - pos: ADJECTIVE
+        definitionEn: No longer existing as a species.
+        definitionVi: Tuyệt chủng; không còn cá thể nào của loài đó tồn tại.
+        examples:
+          - en: The Javan rhino is almost extinct.
+            vi: Tê giác Java gần như đã tuyệt chủng.
+          - en: Hunting made the bird extinct within thirty years.
+            vi: Săn bắt khiến loài chim này tuyệt chủng trong ba mươi năm.
+        antonyms: [endangered]
+
+  - lemma: ecosystem
+    cefr: B2
+    frequencyRank: 10400
+    ipaUs: /ˈiːkoʊsɪstəm/
+    ipaUk: /ˈiːkəʊsɪstəm/
+    syllables: e·co·sys·tem
+    stressPattern: '1000'
+    subtopics: [wildlife]
+    senses:
+      - pos: NOUN
+        definitionEn: All the living things in an area and the way they affect each other.
+        definitionVi: Hệ sinh thái; toàn bộ sinh vật ở một vùng và quan hệ giữa chúng.
+        examples:
+          - en: One missing species can unbalance the whole ecosystem.
+            vi: Mất một loài thôi cũng làm mất cân bằng cả hệ sinh thái.
+          - en: Mangroves protect the coastal ecosystem from storms.
+            vi: Rừng ngập mặn bảo vệ hệ sinh thái ven biển khỏi bão.
+
+  - lemma: carbon
+    cefr: B1
+    frequencyRank: 4900
+    ipaUs: /ˈkɑːrbən/
+    ipaUk: /ˈkɑːbən/
+    syllables: car·bon
+    stressPattern: '10'
+    subtopics: [climate-change]
+    senses:
+      - pos: NOUN
+        definitionEn: A chemical element found in all living things and in fuels.
+        definitionVi: Các-bon; nguyên tố có trong mọi sinh vật và trong nhiên liệu.
+        examples:
+          - en: Flying leaves a large carbon footprint.
+            vi: Đi máy bay để lại dấu chân các-bon lớn.
+          - en: The company promised to cut carbon emissions by half.
+            vi: Công ty hứa cắt giảm một nửa lượng khí thải các-bon.
+
+  - lemma: fossil
+    cefr: B1
+    frequencyRank: 8700
+    ipaUs: /ˈfɑːsl̩/
+    ipaUk: /ˈfɒsl̩/
+    syllables: fos·sil
+    stressPattern: '10'
+    subtopics: [renewable-energy]
+    senses:
+      - pos: NOUN
+        definitionEn: The remains of an ancient plant or animal preserved in rock.
+        definitionVi: Hoá thạch; di tích của sinh vật cổ được giữ lại trong đá.
+        examples:
+          - en: Coal and oil are fossil fuels.
+            vi: Than và dầu là nhiên liệu hoá thạch.
+          - en: The museum keeps a fossil found near Ninh Binh.
+            vi: Bảo tàng lưu giữ một hoá thạch tìm được gần Ninh Bình.
+
+  - lemma: waste
+    cefr: A2
+    frequencyRank: 2900
+    ipaUs: /weɪst/
+    ipaUk: /weɪst/
+    syllables: waste
+    stressPattern: '1'
+    subtopics: [waste-recycling]
+    senses:
+      - pos: NOUN
+        definitionEn: Material that is thrown away because it is not wanted.
+        definitionVi: Rác thải; thứ bị bỏ đi vì không dùng đến nữa.
+        examples:
+          - en: Each household produces a kilo of waste a day.
+            vi: Mỗi hộ thải ra một cân rác mỗi ngày.
+          - en: Food waste makes up a third of the bin.
+            vi: Rác thực phẩm chiếm một phần ba thùng rác.
+        synonyms: [rubbish]
+
+  - lemma: species
+    cefr: B1
+    frequencyRank: 3400
+    ipaUs: /ˈspiːʃiːz/
+    ipaUk: /ˈspiːʃiːz/
+    syllables: spe·cies
+    stressPattern: '10'
+    subtopics: [wildlife]
+    senses:
+      - pos: NOUN
+        definitionEn: A group of animals or plants that can breed together.
+        definitionVi: Loài; nhóm sinh vật có thể sinh sản với nhau.
+        examples:
+          - en: Three new frog species were found in the park.
+            vi: Ba loài ếch mới được tìm thấy trong vườn quốc gia.
+          - en: This species only lives above one thousand metres.
+            vi: Loài này chỉ sống ở độ cao trên một nghìn mét.
+
+  - lemma: reservoir
+    cefr: B2
+    frequencyRank: 11200
+    ipaUs: /ˈrezərvwɑːr/
+    ipaUk: /ˈrezəvwɑː/
+    syllables: res·er·voir
+    stressPattern: '100'
+    subtopics: [climate-change]
+    senses:
+      - pos: NOUN
+        definitionEn: A lake, often man-made, where water is stored.
+        definitionVi: Hồ chứa nước; hồ thường do người xây để trữ nước.
+        examples:
+          - en: The reservoir is at forty percent after the drought.
+            vi: Hồ chứa chỉ còn bốn mươi phần trăm sau đợt hạn.
+          - en: Water from the reservoir supplies the whole province.
+            vi: Nước từ hồ chứa cấp cho cả tỉnh.
+
+  - lemma: organic
+    cefr: B1
+    frequencyRank: 6100
+    ipaUs: /ɔːrˈɡænɪk/
+    ipaUk: /ɔːˈɡænɪk/
+    syllables: or·gan·ic
+    stressPattern: '010'
+    subtopics: [conservation]
+    senses:
+      - pos: ADJECTIVE
+        definitionEn: Grown without artificial chemicals.
+        definitionVi: Hữu cơ; trồng mà không dùng hoá chất nhân tạo.
+        examples:
+          - en: Organic vegetables cost more at the market.
+            vi: Rau hữu cơ ở chợ đắt hơn.
+          - en: The farm went organic three years ago.
+            vi: Trang trại chuyển sang canh tác hữu cơ ba năm trước.
+
+  - lemma: consume
+    cefr: B1
+    frequencyRank: 5400
+    ipaUs: /kənˈsuːm/
+    ipaUk: /kənˈsjuːm/
+    syllables: con·sume
+    stressPattern: '01'
+    subtopics: [conservation]
+    senses:
+      - pos: VERB
+        definitionEn: To use up a resource such as energy or water.
+        definitionVi: Tiêu thụ; dùng hết một nguồn tài nguyên như điện hay nước.
+        examples:
+          - en: Air conditioners consume most of our electricity.
+            vi: Điều hoà tiêu thụ phần lớn điện của nhà tôi.
+          - en: The city consumes two million litres of water a day.
+            vi: Thành phố tiêu thụ hai triệu lít nước mỗi ngày.
+
+  - lemma: leak
+    cefr: A2
+    frequencyRank: 7300
+    ipaUs: /liːk/
+    ipaUk: /liːk/
+    syllables: leak
+    stressPattern: '1'
+    subtopics: [pollution]
+    senses:
+      - pos: VERB
+        definitionEn: To let liquid or gas escape through a hole.
+        definitionVi: Rò rỉ; để chất lỏng hoặc khí thoát ra qua lỗ hở.
+        examples:
+          - en: The old pipe leaks about ten litres an hour.
+            vi: Ống nước cũ rò khoảng mười lít mỗi giờ.
+          - en: Oil leaked from the ship into the bay.
+            vi: Dầu rò từ con tàu ra vịnh.
+
+  - lemma: smog
+    cefr: B1
+    frequencyRank: 15800
+    ipaUs: /smɑːɡ/
+    ipaUk: /smɒɡ/
+    syllables: smog
+    stressPattern: '1'
+    subtopics: [pollution]
+    senses:
+      - pos: NOUN
+        definitionEn: A thick, dirty fog caused by smoke and traffic fumes.
+        definitionVi: Khói mù; lớp sương dày bẩn do khói và khí thải xe cộ.
+        examples:
+          - en: Smog hid the buildings across the street.
+            vi: Khói mù che khuất các toà nhà bên kia đường.
+          - en: Schools closed for two days because of the smog.
+            vi: Trường học đóng cửa hai ngày vì khói mù.
+
+  - lemma: dispose
+    cefr: B2
+    frequencyRank: 9100
+    ipaUs: /dɪˈspoʊz/
+    ipaUk: /dɪˈspəʊz/
+    syllables: dis·pose
+    stressPattern: '01'
+    subtopics: [waste-recycling]
+    senses:
+      - pos: VERB
+        definitionEn: To get rid of something, especially waste.
+        definitionVi: Thải bỏ; vứt đi thứ gì đó, nhất là rác thải.
+        examples:
+          - en: Please dispose of batteries at the collection point.
+            vi: Vui lòng bỏ pin cũ ở điểm thu gom.
+          - en: Hospitals must dispose of sharp waste safely.
+            vi: Bệnh viện phải thải bỏ vật sắc nhọn một cách an toàn.
+
+  - lemma: scarce
+    cefr: B2
+    frequencyRank: 10800
+    ipaUs: /skers/
+    ipaUk: /skeəs/
+    syllables: scarce
+    stressPattern: '1'
+    subtopics: [conservation]
+    senses:
+      - pos: ADJECTIVE
+        definitionEn: Not enough of something to meet what people need.
+        definitionVi: Khan hiếm; không đủ để đáp ứng nhu cầu.
+        examples:
+          - en: Clean water becomes scarce every April.
+            vi: Nước sạch trở nên khan hiếm vào tháng Tư hằng năm.
+          - en: Land is scarce and prices keep rising.
+            vi: Đất khan hiếm nên giá cứ tăng.
+
+  - lemma: emit
+    cefr: B2
+    frequencyRank: 11500
+    ipaUs: /ɪˈmɪt/
+    ipaUk: /ɪˈmɪt/
+    syllables: e·mit
+    stressPattern: '01'
+    subtopics: [climate-change]
+    senses:
+      - pos: VERB
+        definitionEn: To send out gas, heat or light.
+        definitionVi: Phát thải; thải ra khí, nhiệt hoặc ánh sáng.
+        examples:
+          - en: Cement factories emit a lot of carbon dioxide.
+            vi: Nhà máy xi măng phát thải rất nhiều khí các-bo-níc.
+          - en: The engine emits less smoke after the repair.
+            vi: Động cơ thải ít khói hơn sau khi sửa.
+
+  - lemma: climate
+    cefr: B1
+    frequencyRank: 2600
+    ipaUs: /ˈklaɪmət/
+    ipaUk: /ˈklaɪmət/
+    syllables: cli·mate
+    stressPattern: '10'
+    subtopics: [climate-change]
+    senses:
+      - pos: NOUN
+        definitionEn: The usual weather conditions of a place over many years.
+        definitionVi: Khí hậu; kiểu thời tiết thường thấy của một nơi qua nhiều năm.
+        examples:
+          - en: Vietnam has a tropical monsoon climate.
+            vi: Việt Nam có khí hậu nhiệt đới gió mùa.
+          - en: Climate change has made the rainy season shorter.
+            vi: Biến đổi khí hậu làm mùa mưa ngắn lại.
+
+  - lemma: glacier
+    cefr: B1
+    ipaUs: /ˈɡleɪ.ʃər/
+    senses:
+      - pos: NOUN
+        definitionEn: A large mass of ice that moves slowly down a mountain.
+        definitionVi: Sông băng
+        examples:
+          - en: The massive glacier is melting rapidly due to rising global temperatures.
+            vi: Sông băng khổng lồ đang tan nhanh chóng do nhiệt độ toàn cầu tăng.
+          - en: Scientists study the ancient glacier to understand past climate changes.
+            vi: Các nhà khoa học nghiên cứu sông băng cổ đại để hiểu về biến đổi khí hậu quá khứ.
+  - lemma: pesticide
+    cefr: B2
+    ipaUs: /ˈpes.tɪ.saɪd/
+    senses:
+      - pos: NOUN
+        definitionEn: A chemical substance used to kill harmful insects and plants.
+        definitionVi: Thuốc trừ sâu
+        examples:
+          - en: Farmers sprayed harsh pesticide over the crops to protect them.
+            vi: Nông dân đã phun thuốc trừ sâu mạnh lên hoa màu để bảo vệ chúng.
+          - en: Traces of toxic pesticide were found in the local water supply.
+            vi: Dấu vết thuốc trừ sâu độc hại được tìm thấy trong nguồn nước địa phương.
+  - lemma: ozone
+    cefr: B2
+    ipaUs: /ˈoʊ.zoʊn/
+    senses:
+      - pos: NOUN
+        definitionEn: A gas high in the atmosphere that protects Earth from the sun.
+        definitionVi: Khí ô-dôn
+        examples:
+          - en: The thinning ozone layer allows harmful ultraviolet rays to pass through.
+            vi: Tầng ô-dôn mỏng đi cho phép các tia cực tím có hại xuyên qua.
+          - en: Strict regulations helped repair the damage to the global ozone layer.
+            vi: Các quy định nghiêm ngặt đã giúp khắc phục tổn hại đối với tầng ô-dôn toàn cầu.
+  - lemma: permafrost
+    cefr: C1
+    ipaUs: /ˈpɜːr.mə.frɑːst/
+    senses:
+      - pos: NOUN
+        definitionEn: A thick subsurface layer of soil that remains frozen throughout the year.
+        definitionVi: Đất đóng băng vĩnh cửu
+        examples:
+          - en: Melting permafrost in Siberia releases trapped greenhouse gases into the atmosphere.
+            vi: Đất đóng băng vĩnh cửu tan chảy ở Siberia giải phóng khí nhà kính bị kẹt ra khí quyển.
+          - en: Roads built on permafrost often crack when the ground starts warming.
+            vi: Các con đường xây trên đất đóng băng vĩnh cửu thường nứt khi mặt đất bắt đầu ấm lên.
+  - lemma: aquifer
+    cefr: C1
+    ipaUs: /ˈæk.wə.fɚ/
+    senses:
+      - pos: NOUN
+        definitionEn: An underground layer of water-bearing permeable rock or gravel.
+        definitionVi: Tầng ngậm nước
+        examples:
+          - en: The underground aquifer provides drinking water for thousands of local residents.
+            vi: Tầng ngậm nước ngầm cung cấp nước uống cho hàng ngàn cư dân địa phương.
+          - en: Overpumping from the aquifer has caused the local land to sink.
+            vi: Việc bơm nước quá mức từ tầng ngậm nước đã khiến đất đai trong vùng bị sụt lún.
+  - lemma: watershed
+    cefr: C1
+    ipaUs: /ˈwɑː.t̬ɚ.ʃet/
+    senses:
+      - pos: NOUN
+        definitionEn: An area of land where all water drains into a single river or lake.
+        definitionVi: Lưu vực sông
+        examples:
+          - en: Conservation groups work hard to protect the delicate mountain watershed area.
+            vi: Các nhóm bảo tồn nỗ lực bảo vệ khu vực lưu vực sông trên núi nhạy cảm.
+          - en: Pollution in the upper watershed severely affects drinking water downstream.
+            vi: Ô nhiễm ở thượng lưu lưu vực sông ảnh hưởng nghiêm trọng đến nước uống hạ lưu.
+  - lemma: runoff
+    cefr: B2
+    ipaUs: /ˈrʌn.ɑːf/
+    senses:
+      - pos: NOUN
+        definitionEn: Rainwater or melted snow that flows over the ground into bodies of water.
+        definitionVi: Nước chảy tràn
+        examples:
+          - en: Agricultural runoff carries harmful chemicals directly into the nearby river.
+            vi: Nước chảy tràn nông nghiệp cuốn các hóa chất độc hại trực tiếp xuống con sông gần đó.
+          - en: Urban runoff often contains motor oil and litter from city streets.
+            vi: Nước chảy tràn đô thị thường chứa dầu nhớt động cơ và rác từ đường phố.
+  - lemma: wetland
+    cefr: B2
+    ipaUs: /ˈwet.lənd/
+    senses:
+      - pos: NOUN
+        definitionEn: Land consisting of marshes or swamps; saturated land.
+        definitionVi: Vùng đất ngập nước
+        examples:
+          - en: The coastal wetland serves as a natural habitat for migratory birds.
+            vi: Vùng đất ngập nước ven biển đóng vai trò là môi trường sống tự nhiên cho chim di cư.
+          - en: Local authorities implemented new projects to restore the degraded wetland ecosystem.
+            vi: Chính quyền địa phương đã thực hiện các dự án mới để phục hồi hệ sinh thái đất ngập nước bị suy
+              thoái.
+  - lemma: mangrove
+    cefr: B2
+    ipaUs: /ˈmæŋ.ɡroʊv/
+    senses:
+      - pos: NOUN
+        definitionEn: A tropical tree that grows in coastal swamps with tangled roots.
+        definitionVi: Cây đước
+        examples:
+          - en: Dense mangrove forests protect coastal villages from severe tropical storm surges.
+            vi: Rừng đước rậm rạp bảo vệ các làng ven biển khỏi những đợt bão nhiệt đới dữ dội.
+          - en: Fishermen planted young mangrove trees to prevent coastal erosion.
+            vi: Ngư dân đã trồng những cây đước non để ngăn chặn hiện tượng sạt lở bờ biển.
+  - lemma: coral
+    cefr: B1
+    ipaUs: /ˈkɔːr.əl/
+    senses:
+      - pos: NOUN
+        definitionEn: A hard substance formed from the skeletons of small sea animals.
+        definitionVi: San hô
+        examples:
+          - en: Vibrant coral reefs support a massive diversity of marine life.
+            vi: Các rạn san hô rực rỡ hỗ trợ sự đa dạng sinh học biển khổng lồ.
+          - en: Rising sea temperatures cause widespread coral bleaching around the world.
+            vi: Nhiệt độ nước biển tăng cao gây ra hiện tượng tẩy trắng san hô diện rộng trên toàn cầu.
+  - lemma: geothermal
+    cefr: B2
+    ipaUs: /ˌdʒiː.oʊˈθɝː.məl/
+    senses:
+      - pos: ADJECTIVE
+        definitionEn: Relating to the natural heat produced inside the Earth.
+        definitionVi: Thuộc địa nhiệt
+        examples:
+          - en: Iceland generates most of its electricity using clean geothermal energy.
+            vi: Iceland sản xuất phần lớn điện năng bằng năng lượng địa nhiệt sạch.
+          - en: Engineers discovered a new geothermal resource deep beneath the volcanic valley.
+            vi: Các kỹ sư đã phát hiện ra nguồn địa nhiệt mới sâu bên dưới thung lũng núi lửa.
+  - lemma: hydroelectric
+    cefr: B2
+    ipaUs: /ˌhaɪ.droʊ.ɪˈlek.trɪk/
+    senses:
+      - pos: ADJECTIVE
+        definitionEn: Generating electricity by the movement of water.
+        definitionVi: Thuộc thủy điện
+        examples:
+          - en: The large hydroelectric dam provides power to millions of urban homes.
+            vi: Con đập thủy điện lớn cung cấp điện cho hàng triệu ngôi nhà đô thị.
+          - en: Environmentalists worry about how the hydroelectric project disrupts river ecosystems.
+            vi: Các nhà môi trường lo lắng về việc dự án thủy điện phá vỡ hệ sinh thái sông.
+  - lemma: biomass
+    cefr: B2
+    ipaUs: /ˈbaɪ.oʊ.mæs/
+    senses:
+      - pos: NOUN
+        definitionEn: Plant and animal matter used as fuel to generate electricity.
+        definitionVi: Sinh khối
+        examples:
+          - en: Power plants burn agricultural biomass to produce renewable electricity efficiently.
+            vi: Các nhà máy điện đốt sinh khối nông nghiệp để sản xuất điện tái tạo hiệu quả.
+          - en: Scientists consider biomass a greener alternative to traditional fossil fuels.
+            vi: Các nhà khoa học coi sinh khối là một sự thay thế xanh hơn cho nhiên liệu hóa thạch truyền
+              thống.
+  - lemma: reforestation
+    cefr: C1
+    ipaUs: /ˌriːˌfɔːr.əˈsteɪ.ʃən/
+    senses:
+      - pos: NOUN
+        definitionEn: The action of planting trees in an area where forests were destroyed.
+        definitionVi: Trồng rừng lại
+        examples:
+          - en: Massive reforestation projects help restore habitats for endangered forest wildlife.
+            vi: Các dự án trồng rừng lại quy mô lớn giúp khôi phục môi trường sống cho động vật hoang dã.
+          - en: Community-led reforestation efforts successfully brought back green covers to barren hills.
+            vi: Các nỗ lực trồng rừng lại do cộng đồng dẫn dắt đã mang thảm xanh trở lại đồi trọc.
+  - lemma: afforestation
+    cefr: C1
+    ipaUs: /əˌfɔːr.əˈsteɪ.ʃən/
+    senses:
+      - pos: NOUN
+        definitionEn: The act of planting trees on land that has not been a forest.
+        definitionVi: Trồng rừng mới
+        examples:
+          - en: Government-sponsored afforestation programs aim to turn empty deserts into green lands.
+            vi: Các chương trình trồng rừng mới do chính phủ tài trợ nhằm biến sa mạc trống thành đất xanh.
+          - en: Large-scale afforestation helps capture carbon dioxide to combat climate change.
+            vi: Việc trồng rừng mới quy mô lớn giúp hấp thụ khí carbon dioxide để chống biến đổi khí hậu.
+  - lemma: ecotourism
+    cefr: B2
+    ipaUs: /ˈiː.koʊˌtʊr.ɪ.zəm/
+    senses:
+      - pos: NOUN
+        definitionEn: Tourism directed at supporting conservation and observing wildlife.
+        definitionVi: Du lịch sinh thái
+        examples:
+          - en: Sustainable ecotourism provides vital income for indigenous communities in rainforests.
+            vi: Du lịch sinh thái bền vững mang lại nguồn thu nhập thiết yếu cho các cộng đồng bản địa trong
+              rừng mưa.
+          - en: Responsible ecotourism promotes awareness about protecting fragile natural environments.
+            vi: Du lịch sinh thái có trách nhiệm thúc đẩy nhận thức về việc bảo vệ môi trường tự nhiên mong
+              manh.
+  - lemma: landslide
+    cefr: B1
+    ipaUs: /ˈlænd.slaɪd/
+    senses:
+      - pos: NOUN
+        definitionEn: A collapse of a mass of earth or rock from a mountain.
+        definitionVi: Sạt lở đất
+        examples:
+          - en: Heavy monsoon rains triggered a massive landslide blocking the mountain highway.
+            vi: Những trận mưa gió mùa nặng hạt đã kích hoạt một trận sạt lở đất lớn chặn đường cao tốc núi.
+          - en: Geologists warned residents about potential landslide risks during the storm.
+            vi: Các nhà địa chất đã cảnh báo người dân về rủi ro sạt lở đất tiềm ẩn trong cơn bão.
+  - lemma: wildfire
+    cefr: B1
+    ipaUs: /ˈwaɪld.faɪr/
+    senses:
+      - pos: NOUN
+        definitionEn: A large, destructive fire that spreads quickly through woodland or brush.
+        definitionVi: Cháy rừng
+        examples:
+          - en: Dry summer conditions fueled an uncontrollable wildfire across the national park.
+            vi: Điều kiện mùa hè khô hạn đã làm bùng phát một vụ cháy rừng không thể kiểm soát khắp vườn quốc
+              gia.
+          - en: Firefighters worked day and night to contain the raging wildfire.
+            vi: Lính cứu hỏa đã làm việc ngày đêm để khống chế ngọn lửa cháy rừng dữ dội.
+  - lemma: soot
+    cefr: C1
+    ipaUs: /sʊt/
+    senses:
+      - pos: NOUN
+        definitionEn: A black powdery substance consisting of carbon, produced by burning.
+        definitionVi: Bồ hóng
+        examples:
+          - en: Industrial chimneys release thick black soot that pollutes the city air.
+            vi: Các ống khói công nghiệp thải ra muội than đen đặc làm ô nhiễm không khí thành phố.
+          - en: Tiny particles of soot can penetrate deep into human lungs.
+            vi: Các hạt bồ hóng li ti có thể xâm nhập sâu vào phổi con người.
+  - lemma: toxin
+    cefr: B2
+    ipaUs: /ˈtɑːk.sɪn/
+    senses:
+      - pos: NOUN
+        definitionEn: A poisonous substance produced within living cells or organisms.
+        definitionVi: Độc tố
+        examples:
+          - en: Dangerous industrial toxin spilled into the bay, killing hundreds of fish.
+            vi: Độc tố công nghiệp nguy hiểm đã tràn ra vịnh, làm chết hàng trăm con cá.
+          - en: The chemical toxin accumulated in the fatty tissues of predators.
+            vi: Độc tố hóa học tích tụ trong các mô mỡ của động vật săn mồi.
+  - lemma: overfishing
+    cefr: B2
+    ipaUs: /ˌoʊvərˈfɪʃɪŋ/
+    senses:
+      - pos: NOUN
+        definitionEn: The catching of too many fish, depleting ocean populations.
+        definitionVi: Sự đánh bắt hải sản quá mức
+        examples:
+          - en: Overfishing in this region has severely reduced local cod populations.
+            vi: Việc đánh bắt quá mức ở vùng này đã làm giảm nghiêm trọng số lượng cá tuyết địa phương.
+          - en: Strict quotas were introduced to prevent overfishing along the coast.
+            vi: Các hạn ngạch nghiêm ngặt đã được đưa ra để ngăn chặn nạn đánh bắt quá mức dọc theo bờ biển.
+  - lemma: poaching
+    cefr: B2
+    ipaUs: /ˈpoʊtʃɪŋ/
+    senses:
+      - pos: NOUN
+        definitionEn: Illegal hunting or capturing of wild animals.
+        definitionVi: Nạn săn bắt trộm động vật hoang dã
+        examples:
+          - en: Poaching threatens the survival of elephants and rhinos in Africa.
+            vi: Nạn săn bắt trộm đang đe dọa sự sống còn của voi và tê giác ở châu Phi.
+          - en: Rangers work hard to stop poaching in the national park.
+            vi: Các kiểm lâm làm việc chăm chỉ để ngăn chặn nạn săn bắt trộm trong công viên quốc gia.
+  - lemma: herbicide
+    cefr: C1
+    ipaUs: /ˈhɜːrbɪsaɪd/
+    senses:
+      - pos: NOUN
+        definitionEn: A chemical substance used to kill unwanted plants or weeds.
+        definitionVi: Thuốc diệt cỏ
+        examples:
+          - en: Farmers sprayed powerful herbicide across the fields to destroy weeds.
+            vi: Nông dân đã phun thuốc diệt cỏ mạnh khắp các cánh đồng để tiêu diệt cỏ dại.
+          - en: The toxic herbicide washed into nearby streams during heavy rain.
+            vi: Thuốc diệt cỏ độc hại đã trôi vào các dòng suối gần đó trong trận mưa lớn.
+  - lemma: estuary
+    cefr: C1
+    ipaUs: /ˈestʃuˌeri/
+    senses:
+      - pos: NOUN
+        definitionEn: The wide part of a river where it meets the sea.
+        definitionVi: Vùng cửa sông
+        examples:
+          - en: Many unique bird species feed within the muddy coastal estuary.
+            vi: Nhiều loài chim độc đáo kiếm ăn trong vùng cửa sông ven biển lầy lội.
+          - en: The polluted estuary damaged local fish habitats and delicate ecosystems.
+            vi: Vùng cửa sông bị ô nhiễm đã làm tổn hại môi trường sống của cá và các hệ sinh thái mỏng manh.
+  - lemma: tundra
+    cefr: B2
+    ipaUs: /ˈtʌndrə/
+    senses:
+      - pos: NOUN
+        definitionEn: A vast, flat, treeless Arctic region where the subsoil is permanently frozen.
+        definitionVi: Vùng đài nguyên
+        examples:
+          - en: Plants in the frozen tundra grow very slowly due to cold.
+            vi: Thực vật ở vùng đài nguyên lạnh giá phát triển rất chậm do trời lạnh.
+          - en: Climate change rapidly alters fragile ecosystems across the arctic tundra.
+            vi: Biến đổi khí hậu đang làm thay đổi nhanh chóng các hệ sinh thái mong manh khắp vùng đài nguyên
+              Bắc Cực.
+  - lemma: savanna
+    cefr: B2
+    ipaUs: /səˈvænə/
+    senses:
+      - pos: NOUN
+        definitionEn: A grassy plain in tropical and subtropical regions with few trees.
+        definitionVi: Vùng thảo nguyên
+        examples:
+          - en: Lions hunt zebras across the vast African savanna during dry seasons.
+            vi: Sư tử săn ngựa vằn trên khắp thảo nguyên rộng lớn của châu Phi trong mùa khô.
+          - en: Wildfires frequently reshape the landscape of the dry tropical savanna.
+            vi: Cháy rừng thường xuyên tạo hình lại cảnh quan của vùng thảo nguyên nhiệt đới khô cằn.
+  - lemma: algae
+    cefr: B2
+    ipaUs: /ˈældʒiː/
+    senses:
+      - pos: NOUN
+        definitionEn: Simple plant-like organisms that live in water or damp places.
+        definitionVi: Tảo
+        examples:
+          - en: Thick green algae covered the surface of the stagnant pond.
+            vi: Tảo xanh dày đặc phủ kín mặt ao tù nước đọng.
+          - en: Excessive fertilizer runoff caused harmful algae blooms in the lake.
+            vi: Lượng phân bón dư thừa đã gây ra hiện tượng tảo nở hoa độc hại ở hồ.
+  - lemma: pollination
+    cefr: B2
+    ipaUs: /ˌpɑːləˈneɪʃn/
+    senses:
+      - pos: NOUN
+        definitionEn: The transfer of pollen to a plant to allow fertilization.
+        definitionVi: Sự thụ phấn
+        examples:
+          - en: Bees play a crucial role in the pollination of fruit trees.
+            vi: Ong đóng vai trò quan trọng trong việc thụ phấn cho cây ăn quả.
+          - en: Without natural pollination, many crops would fail to produce food.
+            vi: Nếu không có sự thụ phấn tự nhiên, nhiều loại cây trồng sẽ không thể sản xuất lương thực.
+  - lemma: hurricane
+    cefr: B1
+    ipaUs: /ˈhɜːrəkeɪn/
+    senses:
+      - pos: NOUN
+        definitionEn: A violent storm with heavy rain and high winds.
+        definitionVi: Bão cuồng phong
+        examples:
+          - en: A powerful hurricane destroyed hundreds of coastal homes last night.
+            vi: Một cơn bão cuồng phong mạnh đã phá hủy hàng trăm ngôi nhà ven biển đêm qua.
+          - en: Meteorologists tracked the dangerous hurricane as it approached the mainland.
+            vi: Các nhà khí tượng học đã theo dõi cơn bão cuồng phong nguy hiểm khi nó tiến vào đất liền.
+  - lemma: typhoon
+    cefr: B1
+    ipaUs: /taɪˈfuːn/
+    senses:
+      - pos: NOUN
+        definitionEn: A violent tropical storm that occurs in the western Pacific.
+        definitionVi: Bão nhiệt đới
+        examples:
+          - en: The seasonal typhoon brought torrential rain and severe coastal flooding.
+            vi: Cơn bão theo mùa đã mang lại lượng mưa như trút nước và ngập lụt ven biển nghiêm trọng.
+          - en: Fishermen secured their boats before the approaching typhoon hit land.
+            vi: Ngư dân đã buộc chặt tàu thuyền trước khi cơn bão đổ bộ vào đất liền.
+  - lemma: earthquake
+    cefr: A2
+    ipaUs: /ˈɜːrθkweɪk/
+    senses:
+      - pos: NOUN
+        definitionEn: A sudden and violent shaking of the ground.
+        definitionVi: Trận động đất
+        examples:
+          - en: A sudden earthquake damaged many old buildings in the city.
+            vi: Một trận động đất bất ngờ đã làm hư hại nhiều tòa nhà cổ trong thành phố.
+          - en: Scientists measured the magnitude of the deep underground earthquake.
+            vi: Các nhà khoa học đã đo cường độ của trận động đất sâu dưới lòng đất.
+  - lemma: mining
+    cefr: B1
+    ipaUs: /ˈmaɪnɪŋ/
+    senses:
+      - pos: NOUN
+        definitionEn: The process or industry of obtaining coal or other minerals from the earth.
+        definitionVi: Hoạt động khai thác mỏ
+        examples:
+          - en: Coal mining creates serious environmental problems and air pollution locally.
+            vi: Khai thác than tạo ra các vấn đề ô nhiễm không khí và môi trường nghiêm trọng tại địa phương.
+          - en: Illegal gold mining poisons local rivers with toxic chemical waste.
+            vi: Khai thác vàng trái phép làm ô nhiễm các con sông địa phương bằng chất thải hóa học độc hại.
+  - lemma: acidification
+    cefr: C1
+    ipaUs: /əˌsɪdɪfɪˈkeɪʃn/
+    senses:
+      - pos: NOUN
+        definitionEn: The ongoing decrease in the pH of the Earth's oceans.
+        definitionVi: Sự axit hóa
+        examples:
+          - en: Ocean acidification threatens coral reefs and marine shell structures.
+            vi: Sự axit hóa đại dương đe dọa các rạn san hô và cấu trúc vỏ sinh vật biển.
+          - en: Carbon emissions drive rapid acidification across global marine water bodies.
+            vi: Lượng khí thải carbon thúc đẩy quá trình axit hóa nhanh chóng trên các vùng nước biển toàn cầu.
+  - lemma: canopy
+    cefr: B2
+    ipaUs: /ˈkænəpi/
+    senses:
+      - pos: NOUN
+        definitionEn: The high, broad layer of branches and leaves formed by closely spaced forest trees.
+        definitionVi: Tán rừng
+        examples:
+          - en: Sunlight barely penetrates the thick green canopy of the rainforest.
+            vi: Ánh nắng mặt trời hầu như không xuyên qua được tán lá xanh dày đặc của rừng mưa.
+          - en: Monkeys leap skillfully through the upper canopy of tall trees.
+            vi: Khỉ nhảy nhót khéo léo qua tán cây phía trên của những cây cao.
+  - lemma: plankton
+    cefr: B2
+    ipaUs: /ˈplæŋktən/
+    senses:
+      - pos: NOUN
+        definitionEn: Small organisms that drift in oceans and fresh water.
+        definitionVi: Sinh vật phù du
+        examples:
+          - en: Tiny ocean plankton serves as the primary food for whales.
+            vi: Sinh vật phù du nhỏ bé trong đại dương là nguồn thức ăn chính cho cá voi.
+          - en: Warmer sea temperatures negatively affect the growth of marine plankton.
+            vi: Nhiệt độ nước biển ấm hơn ảnh hưởng tiêu cực đến sự phát triển của sinh vật phù du biển.
+  - lemma: salinity
+    cefr: C1
+    ipaUs: /səˈlɪnəti/
+    senses:
+      - pos: NOUN
+        definitionEn: The concentration of salt in water or soil.
+        definitionVi: Độ mặn
+        examples:
+          - en: High soil salinity prevents many common agricultural crops from growing.
+            vi: Độ mặn của đất cao ngăn cản nhiều loại cây trồng nông nghiệp thông thường phát triển.
+          - en: Scientists monitor water salinity levels inside the changing coastal bay.
+            vi: Các nhà khoa học theo dõi mức độ độ mặn của nước bên trong vịnh ven biển đang thay đổi.
+  - lemma: biosphere
+    cefr: C1
+    ipaUs: /ˈbaɪəsfɪr/
+    senses:
+      - pos: NOUN
+        definitionEn: The regions of the surface, atmosphere, and hydrosphere inhabited by living organisms.
+        definitionVi: Sinh quyển
+        examples:
+          - en: Human activities cause significant damage to the global natural biosphere.
+            vi: Các hoạt động của con người gây ra thiệt hại đáng kể cho sinh quyển tự nhiên toàn cầu.
+          - en: Scientists study how energy flows through Earth's complex biosphere daily.
+            vi: Các nhà khoa học nghiên cứu cách năng lượng luân chuyển qua sinh quyển phức tạp của Trái Đất
+              hàng ngày.
+  - lemma: atmosphere
+    cefr: B1
+    ipaUs: /ˈætməsfɪr/
+    senses:
+      - pos: NOUN
+        definitionEn: The envelope of gases surrounding the Earth or another planet.
+        definitionVi: Bầu khí quyển
+        examples:
+          - en: Greenhouse gases trap heat inside the Earth's delicate warming atmosphere.
+            vi: Khí nhà kính giữ nhiệt bên trong bầu khí quyển đang ấm lên mỏng manh của Trái Đất.
+          - en: Thick clouds filled the stormy atmosphere before the rain started.
+            vi: Những đám mây dày đặc lấp đầy bầu khí quyển giông bão trước khi trời bắt đầu mưa.
+  - lemma: forest
+    cefr: A1
+    ipaUs: /ˈfɔːrɪst/
+    senses:
+      - pos: NOUN
+        definitionEn: A large area covered chiefly with trees and undergrowth.
+        definitionVi: Khu rừng
+        examples:
+          - en: Walking through the quiet green forest provides great mental relaxation.
+            vi: Đi bộ qua khu rừng xanh yên tĩnh mang lại sự thư giãn tinh thần tuyệt vời.
+          - en: Deforestation destroys vast areas of native forest every single year.
+            vi: Phá rừng hủy hoại những khu rừng bản địa rộng lớn mỗi năm.
+  - lemma: river
+    cefr: A1
+    ipaUs: /ˈrɪvər/
+    senses:
+      - pos: NOUN
+        definitionEn: A large natural stream of water flowing in a channel to the sea.
+        definitionVi: Dòng sông
+        examples:
+          - en: Clean water flows steadily down the winding mountain river channel.
+            vi: Nguồn nước sạch chảy đều đặn xuống lòng sông núi uốn khúc.
+          - en: Local factories dumped industrial waste directly into the flowing river.
+            vi: Các nhà máy địa phương đã xả chất thải công nghiệp trực tiếp xuống dòng sông đang chảy.
+  - lemma: ocean
+    cefr: A1
+    ipaUs: /ˈoʊʃən/
+    senses:
+      - pos: NOUN
+        definitionEn: A very large expanse of salt water covering most of the Earth.
+        definitionVi: đại dương
+        examples:
+          - en: The blue ocean is home to millions of unique marine species.
+            vi: Đại dương xanh thẳm là nhà của hàng triệu loài sinh vật biển độc đáo.
+          - en: Strong winds across the open ocean create huge waves today.
+            vi: Những cơn gió mạnh trên khắp đại dương mở tạo ra những con sóng lớn hôm nay.
+  - lemma: lake
+    cefr: A1
+    ipaUs: /leɪk/
+    senses:
+      - pos: NOUN
+        definitionEn: A large body of fresh water surrounded by land.
+        definitionVi: hồ
+        examples:
+          - en: We love walking around the quiet lake during sunset hours.
+            vi: Chúng tôi rất thích đi dạo quanh hồ yên tĩnh trong những giờ hoàng hôn.
+          - en: Clear blue water fills the deep mountain lake completely today.
+            vi: Nước xanh trong vắt lấp đầy hoàn toàn hồ nước trên núi sâu hôm nay.
+  - lemma: sea
+    cefr: A1
+    ipaUs: /siː/
+    senses:
+      - pos: NOUN
+        definitionEn: The expanse of salt water that covers most of the earth's surface.
+        definitionVi: biển
+        examples:
+          - en: Gulls fly high above the calm blue sea every morning.
+            vi: Những con mòng biển bay cao trên mặt biển xanh lặng gió mỗi sáng.
+          - en: Fish swim freely in the vast and deep open sea.
+            vi: Cá bơi lội tự do trong vùng biển mở rộng lớn và sâu thẳm.
+  - lemma: beach
+    cefr: A1
+    ipaUs: /biːtʃ/
+    senses:
+      - pos: NOUN
+        definitionEn: A shore of a body of water covered by sand or pebbles.
+        definitionVi: bãi biển
+        examples:
+          - en: Children build sandcastles on the sunny beach all afternoon long.
+            vi: Trẻ em xây lâu đài cát trên bãi biển đầy nắng suốt cả buổi chiều.
+          - en: Volunteers gathered to clean up trash along the public beach.
+            vi: Các tình nguyện viên đã tập trung để dọn rác dọc theo bãi biển công cộng.
+  - lemma: soil
+    cefr: A2
+    ipaUs: /sɔɪl/
+    senses:
+      - pos: NOUN
+        definitionEn: The upper layer of earth in which plants grow.
+        definitionVi: đất
+        examples:
+          - en: Rich soil provides essential nutrients for growing healthy garden vegetables.
+            vi: Đất màu mỡ cung cấp các chất dinh dưỡng thiết yếu để trồng rau vườn khỏe mạnh.
+          - en: Heavy rain can wash away loose soil from steep hills.
+            vi: Mưa lớn có thể cuốn trôi lớp đất tơi xốp từ những ngọn đồi dốc.
+  - lemma: tree
+    cefr: A1
+    ipaUs: /triː/
+    senses:
+      - pos: NOUN
+        definitionEn: A woody perennial plant having a single main stem or trunk.
+        definitionVi: cây
+        examples:
+          - en: A tall green tree provides cool shade on hot days.
+            vi: Một cái cây xanh cao lớn tạo ra bóng mát dễ chịu vào những ngày nóng.
+          - en: Birds build small nests high up in the old tree.
+            vi: Chim chóc xây những chiếc tổ nhỏ ở trên cao trên cây cổ thụ.
+  - lemma: plant
+    cefr: A1
+    ipaUs: /plænt/
+    senses:
+      - pos: NOUN
+        definitionEn: A living organism of the kind that grows in a permanent site.
+        definitionVi: thực vật
+        examples:
+          - en: Every indoor plant needs proper sunlight and regular weekly watering.
+            vi: Mỗi loại thực vật trong nhà đều cần ánh sáng mặt trời phù hợp và tưới nước hàng tuần.
+          - en: She bought a small green plant for her office desk.
+            vi: Cô ấy đã mua một chậu cây xanh nhỏ cho bàn làm việc ở văn phòng.
+  - lemma: animal
+    cefr: A1
+    ipaUs: /ˈænɪməl/
+    senses:
+      - pos: NOUN
+        definitionEn: A living organism that feeds on organic matter, typically having senses and mobility.
+        definitionVi: động vật
+        examples:
+          - en: Every wild animal deserves a safe and protected natural habitat.
+            vi: Mỗi loài động vật hoang dã đều xứng đáng có một môi trường sống tự nhiên được bảo vệ an toàn.
+          - en: The nature reserve protects many rare animal species from hunters.
+            vi: Khu bảo tồn thiên nhiên bảo vệ nhiều loài động vật quý hiếm khỏi những kẻ săn trộm.
+  - lemma: insect
+    cefr: A2
+    ipaUs: /ˈɪnsɛkt/
+    senses:
+      - pos: NOUN
+        definitionEn: A small arthropod animal with six legs and generally one or two pairs of wings.
+        definitionVi: côn trùng
+        examples:
+          - en: A tiny insect crawled quickly across the wooden picnic table.
+            vi: Một con côn trùng nhỏ xíu bò nhanh qua chiếc bàn dã ngoại bằng gỗ.
+          - en: Some beneficial insect species help pollinate flowers in our gardens.
+            vi: Một số loài côn trùng có ích giúp thụ phấn cho hoa trong các khu vườn của chúng ta.
+  - lemma: ranger
+    cefr: B1
+    ipaUs: /ˈreɪndʒər/
+    senses:
+      - pos: NOUN
+        definitionEn: A person whose job is to manage and protect a forest or national park.
+        definitionVi: kiểm lâm
+        examples:
+          - en: The forest ranger patrols the national park to stop poachers.
+            vi: Nhân viên kiểm lâm tuần tra công viên quốc gia để ngăn chặn những kẻ săn trộm.
+          - en: A friendly park ranger guided hikers along the mountain trail.
+            vi: Một hướng dẫn viên kiểm lâm thân thiện đã dẫn đường cho những người đi leo núi.
+  - lemma: litter
+    cefr: B1
+    ipaUs: /ˈlɪtər/
+    senses:
+      - pos: NOUN
+        definitionEn: Rubbish carelessly dropped in public places.
+        definitionVi: rác vứt bừa bãi
+        examples:
+          - en: Leaving plastic litter on the grass ruins our public parks.
+            vi: Việc vứt rác nhựa bừa bãi trên bãi cỏ làm hủy hoại các công viên công cộng.
+          - en: City officials imposed heavy fines for dropping street litter everywhere.
+            vi: Các quan chức thành phố đã áp dụng mức phạt nặng vì hành vi vứt rác đường phố.
+  - lemma: plastic
+    cefr: A2
+    ipaUs: /ˈplæstɪk/
+    senses:
+      - pos: ADJECTIVE
+        definitionEn: Made of a synthetic material that can be molded into various shapes.
+        definitionVi: bằng nhựa
+        examples:
+          - en: Many grocery stores have stopped providing single-use plastic bags.
+            vi: Nhiều cửa hàng tạp hóa đã ngừng cung cấp túi nhựa dùng một lần.
+          - en: Please recycle your empty plastic bottles in the blue bin.
+            vi: Hãy tái chế những chai nhựa rỗng của bạn vào thùng đựng màu xanh.
+  - lemma: reusable
+    cefr: B1
+    ipaUs: /riːˈjuːzəbəl/
+    senses:
+      - pos: ADJECTIVE
+        definitionEn: Able to be used again or more than once.
+        definitionVi: có thể tái sử dụng
+        examples:
+          - en: Using a reusable water bottle helps reduce daily plastic waste.
+            vi: Sử dụng bình nước có thể tái sử dụng giúp giảm thiểu rác thải nhựa hàng ngày.
+          - en: Shoppers should bring reusable bags when visiting the local supermarket.
+            vi: Người mua sắm nên mang theo túi có thể tái sử dụng khi đến siêu thị địa phương.
+  - lemma: reuse
+    cefr: B1
+    ipaUs: /riːˈjuːz/
+    senses:
+      - pos: VERB
+        definitionEn: Use something again, especially in a different way or after converting.
+        definitionVi: tái sử dụng
+        examples:
+          - en: Families can reuse glass jars to store homemade food items.
+            vi: Các gia đình có thể tái sử dụng lọ thủy tinh để đựng các món ăn tự làm.
+          - en: It is important to reduce, reuse, and recycle household waste daily.
+            vi: Điều quan trọng là phải giảm thiểu, tái sử dụng và tái chế rác thải sinh hoạt hàng ngày.
+  - lemma: cleanup
+    cefr: B1
+    ipaUs: /ˈkliːnʌp/
+    senses:
+      - pos: NOUN
+        definitionEn: An act of making a place clean and tidy.
+        definitionVi: sự dọn dẹp
+        examples:
+          - en: The neighborhood organized a weekend cleanup along the polluted river.
+            vi: Khu phố đã tổ chức một buổi dọn dẹp vào cuối tuần dọc theo con sông bị ô nhiễm.
+          - en: Volunteers gathered early Saturday morning for the beach cleanup event.
+            vi: Các tình nguyện viên tập trung vào sáng sớm thứ Bảy cho sự kiện dọn dẹp bãi biển.
+  - lemma: sanitation
+    cefr: B2
+    ipaUs: /ˌsænɪˈteɪʃən/
+    senses:
+      - pos: NOUN
+        definitionEn: Conditions relating to public health, especially the provision of clean drinking water
+          and adequate sewage disposal.
+        definitionVi: hệ thống vệ sinh
+        examples:
+          - en: Good public sanitation prevents the spread of dangerous waterborne diseases.
+            vi: Hệ thống vệ sinh công cộng tốt ngăn ngừa sự lây lan của các bệnh nguy hiểm qua đường nước.
+          - en: The city council improved rural sanitation by building modern facilities.
+            vi: Hội đồng thành phố đã cải thiện vệ sinh nông thôn bằng cách xây dựng các cơ sở hiện đại.
+  - lemma: energy
+    cefr: A2
+    ipaUs: /ˈɛnərdʒi/
+    senses:
+      - pos: NOUN
+        definitionEn: Power derived from the utilization of physical or chemical resources, especially to
+          provide light and heat.
+        definitionVi: năng lượng
+        examples:
+          - en: Solar power is a clean and renewable source of energy.
+            vi: Năng lượng mặt trời là một nguồn năng lượng sạch và có thể tái tạo.
+          - en: Turning off unused lights helps conserve electrical energy at home.
+            vi: Tắt các đèn không sử dụng giúp tiết kiệm năng lượng điện ở nhà.
+  - lemma: electricity
+    cefr: A2
+    ipaUs: /ɪˌlɛkˈtrɪsəti/
+    senses:
+      - pos: NOUN
+        definitionEn: A form of energy resulting from the existence of charged particles.
+        definitionVi: điện
+        examples:
+          - en: Lightning storms can sometimes knock out local electricity for hours.
+            vi: Các cơn giông sét đôi khi có thể làm mất điện cục bộ trong nhiều giờ.
+          - en: Modern homes rely heavily on electricity for daily appliances.
+            vi: Các ngôi nhà hiện đại phụ thuộc nhiều vào điện cho các thiết bị hàng ngày.
+  - lemma: coal
+    cefr: B1
+    ipaUs: /koʊl/
+    senses:
+      - pos: NOUN
+        definitionEn: A combustible black rock used as a fossil fuel.
+        definitionVi: than đá
+        examples:
+          - en: Burning fossil fuels like coal releases harmful greenhouse gases daily.
+            vi: Đốt các nhiên liệu hóa thạch như than đá thải ra các khí nhà kính có hại hàng ngày.
+          - en: Many older power plants generated electricity by burning coal.
+            vi: Nhiều nhà máy điện cũ hơn đã sản xuất điện bằng cách đốt than đá.

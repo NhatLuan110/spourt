@@ -1,0 +1,687 @@
+cefr: B2
+passages:
+  - slug: a-returnable-packaging-trial
+    title: Evaluating the Cooperative's Reusable Packaging Trial
+    titleVi: Đánh giá thử nghiệm bao bì tái sử dụng của hợp tác xã
+    topic: environment
+    estimatedMinutes: 5
+    source: Sprout original
+    glossary: []
+    body: >-
+      GreenLeaf Cooperative recently concluded a three-month pilot program allowing shoppers to
+      purchase pantry staples in durable glass jars and heavy-duty plastic containers instead of
+      traditional single-use packaging. Initial internal progress reports highlighted an encouraging
+      return rate of seventy-eight percent across all three participating neighborhood branches.
+      However, the board of directors urged considerable caution before declaring the initiative an
+      unqualified environmental success, pointing out a critical distinction between packaging
+      returned to collection bins and actual repeated reuse cycles.
+
+
+      Board members noted that while return collection bins filled up quickly during peak weekend
+      hours, tracking data failed to show how many times individual containers successfully
+      circulated back into the centralized cleaning and refilling pipeline. Furthermore, a
+      substantial portion of returned containers displayed minor cosmetic wear, yet inventory logs
+      lacked timestamps indicating precisely how long items sat in household pantries before
+      customers brought them back.
+
+
+      Another glaring missing piece of data involved the total energy and water expended during the
+      intensive high-temperature sanitization process required specifically for the heavy glass
+      jars. Without comprehensive lifecycle assessments covering commercial detergent usage and
+      transport emissions from suburban drop-off points to the central washing facility, calculating
+      the true carbon offset remains entirely speculative.
+
+
+      Store managers observed that high-volume dry goods like rolled oats and lentils drove the
+      highest initial consumer uptake, whereas specialty cooking oils experienced very low container
+      recovery rates, largely because customers found the viscous residue difficult to wash out at
+      home prior to returning.
+
+
+      Consequently, while the raw return percentage looks impressive on surface-level corporate
+      summaries, staff emphasized that deeper qualitative surveys and automated radio-frequency
+      identification tracking are required during the upcoming quarter. These advanced measures will
+      help determine whether the durable containers genuinely displace single-use packaging or
+      simply become expensive collector items stored indefinitely in kitchen cupboards. Ultimately,
+      the cooperative board decided to extend the pilot by two additional months to gather these
+      missing consumer habit metrics before voting on permanent adoption.
+
+
+      Under the revised recording plan, staff will scan each container when it is issued, returned,
+      washed and filled again. Damaged items will receive a separate code. A weekly check will
+      compare these records with washing invoices and delivery distances. This will help identify
+      where containers leave the cycle, while keeping a returned jar distinct from one that has
+      actually replaced another package.
+    questions:
+      - type: MCQ
+        prompt: What distinction did the board of directors point out regarding the trial?
+        promptVi: Ban quản trị đã chỉ ra điểm khác biệt nào liên quan đến chương trình thử nghiệm?
+        options:
+          - A comparison of weekend shopping hours versus weekday customer traffic.
+          - A difference between glass jars and heavy-duty plastic containers.
+          - A distinction between packaging returned to collection bins and actual repeated reuse
+            cycles.
+          - A variance in energy consumption between local branches and central washing facilities.
+        answer: A distinction between packaging returned to collection bins and actual repeated reuse
+          cycles.
+        explanationVi: Văn bản nêu rõ ban quản trị lưu ý sự khác biệt quan trọng giữa bao bì được trả lại
+          thùng thu gom và chu kỳ tái sử dụng thực tế.
+      - type: MCQ
+        prompt: Which items experienced very low container recovery rates?
+        promptVi: Những mặt hàng nào có tỷ lệ thu hồi hộp đựng rất thấp?
+        options:
+          - Pantry staples purchased during peak weekend hours.
+          - High-volume dry goods like rolled oats and lentils.
+          - Heavy-duty plastic containers used for household cleaning products.
+          - Specialty cooking oils because customers found the viscous residue difficult to wash out
+            at home.
+        answer: Specialty cooking oils because customers found the viscous residue difficult to wash out at
+          home.
+        explanationVi: Dầu ăn đặc sản có tỷ lệ thu hồi rất thấp vì khách hàng thấy cặn sệt khó rửa sạch tại nhà.
+      - type: MCQ
+        prompt: What data was missing regarding the returned containers?
+        promptVi: Dữ liệu nào bị thiếu liên quan đến các hộp đựng đã trả lại?
+        options:
+          - Timestamps indicating how long items sat in household pantries before being returned.
+          - The exact retail price of the food items stored inside them.
+          - The names of the customers who failed to return the packaging.
+          - The total number of neighborhood branches participating in the pilot.
+        answer: Timestamps indicating how long items sat in household pantries before being returned.
+        explanationVi: Nhật ký kiểm kê thiếu dấu thời gian cho biết chính xác thời gian các mặt hàng nằm
+          trong tủ đựng thức ăn của gia đình.
+      - type: MCQ
+        prompt: What measure did the cooperative board decide to take at the end of the text?
+        promptVi: Ban quản trị hợp tác xã đã quyết định thực hiện biện pháp gì vào cuối văn bản?
+        options:
+          - Abandon the reusable packaging project permanently due to high sanitization costs.
+          - Extend the pilot by two additional months to gather missing consumer habit metrics.
+          - Switch entirely to single-use plastics for specialty oils and dry goods.
+          - Impose a mandatory financial penalty for customers who returned items late.
+        answer: Extend the pilot by two additional months to gather missing consumer habit metrics.
+        explanationVi: Hội đồng hợp tác xã quyết định gia hạn chương trình thí điểm thêm hai tháng để thu
+          thập các số liệu về thói quen của người tiêu dùng.
+      - type: TRUE_FALSE
+        prompt: Initial internal progress reports highlighted an encouraging return rate of seventy-eight
+          percent across all three participating neighborhood branches.
+        promptVi: Các báo cáo tiến độ nội bộ ban đầu đã nêu bật tỷ lệ trả lại đáng khích lệ là 78 phần trăm
+          ở cả ba chi nhánh khu phố tham gia.
+        answer: true
+        explanationVi: Văn bản xác nhận báo cáo ban đầu ghi nhận tỷ lệ thu hồi 78 phần trăm ở cả ba chi nhánh.
+        statement: Initial internal progress reports highlighted an encouraging return rate of seventy-eight
+          percent across all three participating neighborhood branches.
+      - type: TRUE_FALSE
+        prompt: Comprehensive lifecycle assessments covering commercial detergent usage and transport
+          emissions were successfully completed before the trial ended.
+        promptVi: Các đánh giá toàn diện về vòng đời bao gồm việc sử dụng chất tẩy rửa thương mại và lượng
+          khí thải do vận chuyển đã được hoàn thành thành công trước khi thử nghiệm kết thúc.
+        answer: false
+        explanationVi: Văn bản nêu rõ việc tính toán lượng khí thải chưa thể thực hiện vì thiếu các đánh giá
+          toàn diện về vòng đời.
+        statement: Comprehensive lifecycle assessments covering commercial detergent usage and transport
+          emissions were successfully completed before the trial ended.
+      - type: SHORT_ANSWER
+        prompt: Which tracking method do staff propose? Copy the four-word phrase from the text.
+        promptVi: Nhân viên đề xuất phương pháp theo dõi nào? Chép cụm bốn từ trong bài.
+        accept:
+          - automated radio-frequency identification tracking
+        explanationVi: Nhân viên đề xuất automated radio-frequency identification tracking, tức theo dõi tự
+          động bằng nhận dạng tần số vô tuyến.
+      - type: SHORT_ANSWER
+        prompt: How many months was the pilot extended? Write a number.
+        promptVi: Thử nghiệm được gia hạn thêm mấy tháng? Viết số.
+        accept:
+          - two
+          - "2"
+        explanationVi: Văn bản ghi rõ hội đồng quyết định gia hạn thí điểm thêm hai tháng (two additional months).
+  - slug: a-community-solar-funding-decision
+    title: Weighing the Community Solar Funding Initiative
+    titleVi: Cân nhắc sáng kiến tài trợ năng lượng mặt trời cộng đồng
+    topic: environment
+    estimatedMinutes: 5
+    source: Sprout original
+    glossary: []
+    body: >-
+      The municipal council of Oakhaven recently reviewed a contentious proposal to allocate public
+      reserve funds toward a localized community solar panel installation. Proponents argued
+      passionately that constructing a shared photovoltaic array on the municipal library roof would
+      lower overall electricity burdens for local residents who are physically unable to install
+      private rooftop panels.
+
+
+      Yet, the ensuing public debate quickly stalled over the complex issue of financial equity
+      between residential property owners and long-term renters. Landlords expressed concern that
+      property values might rise due to the new green energy infrastructure, potentially leading to
+      higher monthly rents that could easily offset any immediate utility savings for tenants.
+      Conversely, renters argued with equal vigor that without direct governance representation in
+      the proposed cooperative structure, landlords might manage to claim a disproportionate share
+      of the generated energy credits.
+
+
+      Compounding these equity concerns, several cautious council members highlighted the glaring
+      absence of professional financial forecasting regarding long-term maintenance liabilities. The
+      preliminary cost projections provided by the private installation vendor assumed minimal
+      equipment degradation and zero severe weather damage over a twenty-year operational lifespan.
+      Independent oversight groups, however, warned sternly that regional hail storms and expensive
+      inverter replacements after year ten could introduce unexpected municipal expenditures,
+      effectively shifting financial risk onto ordinary taxpayers without guaranteeing equitable
+      access.
+
+
+      Additionally, the proposal lacked clear mechanisms for low-income households to buy into the
+      initial phase without making prohibitive upfront capital contributions. Because the town
+      government lacked certified financial advisors to model these volatile variables safely,
+      skeptics proposed forming an independent oversight committee rather than committing public
+      funds immediately.
+
+
+      One proposed revision would give tenants and property owners equal places on the project
+      committee. Credits would follow the household using the electricity, with a clear process for
+      transferring participation when a tenant moved. Another suggestion was to reserve places for
+      households unable to pay an initial contribution. Neither measure had been agreed, and
+      councillors wanted to know how these arrangements would affect the remaining budget. They also
+      requested a comparison of several maintenance scenarios, including one in which replacement
+      costs arrived earlier than expected, rather than relying on the vendor's single optimistic
+      estimate.
+
+
+      The mayor ultimately suggested deferring the final vote until autumn, allowing sufficient time
+      to draft fairer tenant-sharing provisions and secure legally binding warranties for long-term
+      hardware maintenance.
+    questions:
+      - type: MCQ
+        prompt: Why did the public debate quickly stall?
+        promptVi: Tại sao cuộc tranh luận công khai nhanh chóng bị đình trệ?
+        options:
+          - As a result of a sudden shortage of solar panels in the regional market.
+          - Due to an immediate disagreement about the physical height of the municipal library roof.
+          - Because the installation vendor refused to provide preliminary cost projections.
+          - Over the complex issue of financial equity between residential property owners and
+            long-term renters.
+        answer: Over the complex issue of financial equity between residential property owners and long-term
+          renters.
+        explanationVi: Cuộc tranh luận bị đình trệ do vấn đề phức tạp về công bằng tài chính giữa chủ sở hữu
+          nhà và người thuê nhà lâu năm.
+      - type: MCQ
+        prompt: What concern did landlords express regarding the new green energy infrastructure?
+        promptVi: Chủ nhà đã bày tỏ mối lo ngại gì liên quan đến cơ sở hạ tầng năng lượng xanh mới?
+        options:
+          - Property values might rise, potentially leading to higher monthly rents.
+          - Municipal library roofs would collapse under the weight of the solar panels.
+          - Tenants would refuse to pay their regular utility bills entirely.
+          - The private vendor would overcharge for basic hardware maintenance.
+        answer: Property values might rise, potentially leading to higher monthly rents.
+        explanationVi: Chủ nhà lo ngại giá trị tài sản tăng có thể dẫn đến tiền thuê nhà hàng tháng cao hơn.
+      - type: MCQ
+        prompt: What did independent oversight groups warn about regarding equipment maintenance?
+        promptVi: Các nhóm giám sát độc lập đã cảnh báo điều gì về việc bảo trì thiết bị?
+        options:
+          - Solar panels would require daily manual cleaning by town council members.
+          - Regional hail storms and expensive inverter replacements after year ten could introduce
+            unexpected municipal expenditures.
+          - Battery storage units would completely fail within the first six months of operation.
+          - Maintenance liabilities would be fully covered by the installation vendor's permanent
+            warranty.
+        answer: Regional hail storms and expensive inverter replacements after year ten could introduce
+          unexpected municipal expenditures.
+        explanationVi: Các nhóm giám sát cảnh báo bão đá và việc thay thế biến tần đắt tiền sau năm thứ mười
+          có thể gây ra các khoản chi phí bất ngờ.
+      - type: MCQ
+        prompt: What did the mayor ultimately suggest doing at the end of the text?
+        promptVi: Thị trưởng cuối cùng đã đề nghị làm gì vào cuối văn bản?
+        options:
+          - Canceling the solar project and returning the public reserve funds to the state
+            government.
+          - Approving the funding immediately without any further discussion or review.
+          - Deferring the final vote until autumn to draft fairer tenant-sharing provisions.
+          - Hiring certified financial advisors from a neighboring town immediately.
+        answer: Deferring the final vote until autumn to draft fairer tenant-sharing provisions.
+        explanationVi: Thị trưởng đề nghị hoãn cuộc bỏ phiếu cuối cùng cho đến mùa thu để soạn thảo các điều
+          khoản chia sẻ công bằng hơn.
+      - type: TRUE_FALSE
+        prompt: Proponents argued that constructing a shared photovoltaic array on the municipal library
+          roof would lower overall electricity burdens for local residents unable to install private
+          rooftop panels.
+        promptVi: Những người ủng hộ lập luận rằng việc xây dựng một giàn pin quang điện chung trên mái thư
+          viện thành phố sẽ làm giảm gánh nặng tiền điện tổng thể cho cư dân địa phương không thể
+          lắp đặt các tấm pin mặt trời riêng trên mái nhà.
+        answer: true
+        explanationVi: Văn bản xác nhận những người ủng hộ đã đưa ra luận điểm này.
+        statement: Proponents argued that constructing a shared photovoltaic array on the municipal library
+          roof would lower overall electricity burdens for local residents unable to install private
+          rooftop panels.
+      - type: TRUE_FALSE
+        prompt: The preliminary cost projections provided by the private installation vendor accounted for
+          severe weather damage over a twenty-year operational lifespan.
+        promptVi: Các dự báo chi phí sơ bộ do nhà cung cấp dịch vụ lắp đặt tư nhân cung cấp đã tính đến
+          thiệt hại do thời tiết khắc nghiệt trong thời gian hoạt động hai mươi năm.
+        answer: false
+        explanationVi: Văn bản cho biết dự báo sơ bộ giả định không có thiệt hại do thời tiết khắc nghiệt
+          (zero severe weather damage).
+        statement: The preliminary cost projections provided by the private installation vendor accounted
+          for severe weather damage over a twenty-year operational lifespan.
+      - type: SHORT_ANSWER
+        prompt: Which town is reviewing the solar proposal? Copy its name.
+        promptVi: Thị trấn nào đang xem xét đề xuất điện mặt trời? Chép tên thị trấn.
+        accept:
+          - Oakhaven
+        explanationVi: Văn bản mở đầu bằng việc nhắc đến hội đồng thành phố của Oakhaven.
+      - type: SHORT_ANSWER
+        prompt: After which year of operation might expensive inverter replacements be needed? Give the year
+          number.
+        promptVi: Sau năm hoạt động thứ mấy có thể cần thay bộ biến tần với chi phí cao? Viết số thứ tự năm.
+        accept:
+          - ten
+          - "10"
+          - year ten
+          - year 10
+          - the tenth year
+          - tenth
+        explanationVi: Văn bản chỉ rõ việc thay thế biến tần đắt tiền có thể diễn ra sau năm thứ mười (after
+          year ten).
+  - slug: lighting-the-riverside-path
+    title: Lighting the Riverside Path
+    titleVi: Thắp sáng lối đi ven sông
+    topic: environment
+    estimatedMinutes: 6
+    source: Sprout original
+    glossary:
+      - term: foraging
+        definition: searching for food in the wild
+      - term: arboriculture
+        definition: the cultivation and study of trees and shrubs
+    body: >-
+      The Westbridge District Council recently reviewed the findings from its three-month pilot
+      study regarding the installation of low-level LED lighting along the western riverside
+      footpath. Previously unlit after dusk, the path became a subject of debate between local
+      cycling commuters who requested better visibility for winter commutes and environmental groups
+      concerned about nocturnal bat foraging routes. The pilot project illuminated a stretch of four
+      hundred meters using downward-facing amber fixtures designed to minimize light spillage.
+
+
+      Data collected during the trial revealed a modest twenty-two percent increase in evening
+      pedestrian and cyclist traffic between November and January. However, pedestrian feedback
+      surveys highlighted a recurring concern: while the path itself was discernible, the abrupt
+      drop-offs at the unlit riverbanks remained shadowed and potentially hazardous for unfamiliar
+      visitors. Conversely, ecological monitoring conducted by an independent volunteer monitoring
+      group indicated a noticeable decline in insect activity directly beneath the fixtures, which
+      in turn correlated with altered feeding patterns among local Daubenton's bats. Although the
+      group chose amber fixtures in the hope of reducing disruption, continuous illumination still
+      appeared to interrupt dark corridors used by sensitive species.
+
+
+      The observers stressed that they had monitored only one short section and had no unlit
+      comparison site. Changes in weather could also affect animal activity, so the results did not
+      establish how lighting alone influenced the wider riverside habitat.
+
+
+      Financially, the pilot underscored the limits of the council's current infrastructure budget.
+      Expanding the system across the remaining two kilometers would require trenching through
+      protected root zones of mature weeping willows, a measure strongly opposed by the municipal
+      arboriculture department. Furthermore, vandalism risks were clearly demonstrated when two
+      control boxes were tampered with during the second month, resulting in unexpected repair
+      expenditures.
+
+
+      During the open consultation, council members weighed these conflicting priorities.
+      Representatives from accessibility networks argued that safety for shift workers should
+      override seasonal ecological concerns, pointing out that winter darkness effectively closes
+      the route to anyone relying on mobility aids. On the other hand, conservationists urged the
+      council to consider seasonal shut-offs, turning the lights off entirely between midnight and
+      five in the morning. Ultimately, the committee deferred a permanent decision, resolving
+      instead to extend the pilot by another six months to gather data across migratory seasons and
+      test motion-activated hardware configurations before committing public funds to a full-scale
+      rollout.
+    questions:
+      - type: MCQ
+        prompt: What was the main purpose of the amber fixtures used in the pilot study?
+        promptVi: Mục đích chính của các thiết bị chiếu sáng màu hổ phách được sử dụng trong nghiên cứu thí
+          điểm là gì?
+        options:
+          - To minimize light spillage and reduce ecological disruption
+          - To completely eliminate all shadows along the riverbanks
+          - To provide maximum brightness for high-speed cyclists
+          - To test the durability of motion-activated hardware
+        answer: To minimize light spillage and reduce ecological disruption
+        explanationVi: Văn bản nêu rõ rằng các thiết bị chiếu sáng màu hổ phách hướng xuống dưới được thiết
+          kế nhằm giảm thiểu tình trạng tràn ánh sáng.
+      - type: MCQ
+        prompt: According to the independent monitoring group, what was observed beneath the lighting
+          fixtures?
+        promptVi: Theo nhóm theo dõi độc lập, điều gì được quan sát thấy bên dưới các đèn chiếu sáng?
+        options:
+          - A total disappearance of Daubenton's bats from the region
+          - A noticeable decline in insect activity beneath the fixtures
+          - An increase in insect activity directly under the fixtures
+          - A complete halt in seasonal animal migrations
+        answer: A noticeable decline in insect activity beneath the fixtures
+        explanationVi: Giám sát sinh thái cho thấy sự suy giảm đáng chú ý về hoạt động của côn trùng ngay
+          bên dưới các thiết bị chiếu sáng.
+      - type: MCQ
+        prompt: Why did the arboriculture department oppose expanding the lighting system?
+        promptVi: Tại sao bộ phận quản lý cây xanh lại phản đối việc mở rộng hệ thống chiếu sáng?
+        options:
+          - The installation costs exceeded the entire annual municipal budget
+          - The new poles would block views of the river for residents
+          - It would require trenching through protected root zones of mature trees
+          - Amber lights are known to accelerate the decay of weeping willows
+        answer: It would require trenching through protected root zones of mature trees
+        explanationVi: Việc mở rộng sẽ đòi hỏi phải đào xới qua các vùng rễ được bảo vệ của những cây liễu
+          rủ trưởng thành.
+      - type: MCQ
+        prompt: What decision did the council ultimately make at the conclusion of the review?
+        promptVi: Hội đồng cuối cùng đã đưa ra quyết định gì sau khi kết thúc đợt đánh giá?
+        options:
+          - To approve an immediate full-scale rollout across the entire river
+          - To dismantle the pilot lighting and ban all night-time access
+          - To hand over management of the path to the wildlife trust
+          - To defer a permanent decision and extend the pilot for six months
+        answer: To defer a permanent decision and extend the pilot for six months
+        explanationVi: Hội đồng đã hoãn quyết định chính thức và quyết định kéo dài thời gian thí điểm thêm
+          sáu tháng.
+      - type: TRUE_FALSE
+        statement: The pilot project illuminated a four-hundred-meter section of the western riverside
+          footpath.
+        prompt: The pilot project illuminated a four-hundred-meter section of the western riverside
+          footpath.
+        promptVi: Dự án thí điểm đã thắp sáng một đoạn đường dài bốn trăm mét dọc theo lối đi ven sông phía
+          tây.
+        answer: true
+        explanationVi: Đoạn văn đầu tiên xác nhận dự án thí điểm đã thắp sáng một đoạn dài bốn trăm mét.
+      - type: TRUE_FALSE
+        statement: During the second month of the trial, no vandalism or tampering with control boxes
+          occurred.
+        prompt: During the second month of the trial, no vandalism or tampering with control boxes occurred.
+        promptVi: Trong tháng thứ hai thử nghiệm, không có vụ phá hoại hoặc can thiệp nào xảy ra đối với các
+          hộp điều khiển.
+        answer: false
+        explanationVi: Đoạn văn thứ ba cho biết các hộp điều khiển đã bị can thiệp (phá hoại) trong tháng thứ hai.
+      - type: SHORT_ANSWER
+        prompt: What percentage increase in evening pedestrian and cyclist traffic was recorded? Give a
+          number or percentage.
+        promptVi: Lượng người đi bộ và đi xe đạp vào buổi tối tăng bao nhiêu phần trăm? Viết số hoặc tỷ lệ
+          phần trăm.
+        accept:
+          - "22"
+          - 22%
+          - twenty-two
+          - twenty two
+          - twenty-two percent
+          - twenty two percent
+          - 22 percent
+          - 22 per cent
+        explanationVi: Dữ liệu thu thập được cho thấy mức tăng khiêm tốn 22 phần trăm (twenty-two percent).
+      - type: SHORT_ANSWER
+        prompt: Which bat species is mentioned in the observations? Copy the species name.
+        promptVi: Phần quan sát nhắc đến loài dơi nào? Chép tên loài.
+        accept:
+          - Daubenton's bats
+          - Daubenton's bat
+          - Daubenton’s bats
+          - Daubenton’s bat
+        explanationVi: Báo cáo đề cập đến sự thay đổi mẫu ăn uống ở loài dơi Daubenton's bats địa phương.
+  - slug: a-local-archive-with-many-voices
+    title: A Local Archive with Many Voices
+    titleVi: Kho lưu trữ địa phương với nhiều tiếng nói
+    topic: daily-life
+    estimatedMinutes: 6
+    source: Sprout original
+    glossary:
+      - term: pseudonym
+        definition: a fictitious name used by an author or participant to conceal identity
+      - term: embargo
+        definition: an official ban or restriction on activity or publication
+    body: >-
+      The Eastgate Community Archive recently processed a substantial collection of
+      twentieth-century oral histories documenting the closure of the local textile mill. Compiled
+      over a two-year period by student volunteers, the collection features forty-two recorded
+      interviews with former mill workers, local merchants and union organizers. As archivists began
+      cataloging the material for public access, they encountered significant discrepancies
+      regarding the events surrounding the 1974 strike, exposing the inherent complexities of
+      subjective memory.
+
+
+      For instance, retired floor managers remembered the plant closure as an orderly, gradual
+      phase-out announced months in advance, whereas several union representatives insisted it
+      happened abruptly following a sudden breakdown in contract negotiations. Rather than
+      attempting to establish a single definitive narrative, the archive decided to present these
+      contrasting accounts side by side, accompanied by contextual essays explaining the varying
+      perspectives of the narrators. For this project, the team preferred visible disagreement to a
+      summary that hid differences between the interviews.
+
+
+      The team also checked dated notices and surviving meeting minutes. These helped establish when
+      some announcements were made, but did not explain what every worker had understood at the
+      time. The catalogue therefore separated documented dates from personal recollections and
+      marked details still awaiting confirmation. Readers could see both the evidence and its
+      limits.
+
+
+      Complicating the cataloging process further were intricate consent preferences specified by
+      the contributors. While the majority of participants granted unrestricted access, twelve
+      individuals requested that their real names be replaced with pseudonyms, citing lingering
+      personal sensitivities within the town. Three contributors placed temporary embargoes on
+      specific anecdotes involving internal union disputes, stipulating that these segments remain
+      sealed until five years after their passing. Archivists had to manually adjust the digital
+      indexing system to accommodate these tiered restrictions without compromising the overall
+      usability of the database.
+
+
+      Moreover, the project team emphasized that holding these recordings does not imply legal
+      verification of every claim made within them. Some interviewees shared unverified rumors about
+      municipal corruption during the urban renewal projects of the late seventies. To address this,
+      the archive attached prominent disclaimers to the digital portal, clarifying that oral
+      histories capture personal perceptions rather than certified factual records. By refusing to
+      make sweeping legal or historical claims, the Eastgate Archive has created a flexible,
+      respectful repository that honors individual voices while acknowledging the shifting
+      boundaries of historical truth.
+    questions:
+      - type: MCQ
+        prompt: How many recorded interviews are included in the Eastgate Community Archive collection?
+        promptVi: Có bao nhiêu cuộc phỏng vấn được ghi âm được đưa vào bộ sưu tập của Kho lưu trữ Cộng đồng
+          Eastgate?
+        options:
+          - Twelve interviews
+          - Forty-two interviews
+          - Seventy-four interviews
+          - Five interviews
+        answer: Forty-two interviews
+        explanationVi: Bộ sưu tập gồm có bốn mươi hai cuộc phỏng vấn được ghi âm (forty-two recorded interviews).
+      - type: MCQ
+        prompt: How did the archive handle conflicting accounts regarding the 1974 strike?
+        promptVi: Kho lưu trữ xử lý những lời kể mâu thuẫn về cuộc đình công năm 1974 như thế nào?
+        options:
+          - They deleted the inconsistent testimonies to maintain historical accuracy
+          - They legally certified the union organizers' version as official truth
+          - They presented the contrasting accounts side by side with contextual essays
+          - They submitted the dispute to a court for final arbitration
+        answer: They presented the contrasting accounts side by side with contextual essays
+        explanationVi: Kho lưu trữ quyết định trình bày các câu chuyện đối lập đặt cạnh nhau kèm theo các
+          bài tiểu luận ngữ cảnh.
+      - type: MCQ
+        prompt: Why did twelve individuals request that pseudonyms be used instead of their real names?
+        promptVi: Tại sao mười hai cá nhân yêu cầu sử dụng bút danh thay vì tên thật của họ?
+        options:
+          - Because they feared legal prosecution from the mill owners
+          - Because they could not remember the exact dates of the events
+          - Because they were paid by anonymous donors to stay hidden
+          - Citing lingering personal sensitivities within the town
+        answer: Citing lingering personal sensitivities within the town
+        explanationVi: Họ viện dẫn những sự nhạy cảm cá nhân vẫn còn tồn đọng trong thị trấn.
+      - type: MCQ
+        prompt: What measure did the archive take regarding unverified rumors about municipal corruption?
+        promptVi: Kho lưu trữ đã thực hiện biện pháp gì đối với những tin đồn chưa được xác minh về tham
+          nhũng đô thị?
+        options:
+          - They attached prominent disclaimers clarifying that oral histories capture personal
+            perceptions
+          - They launched a police investigation into the former officials
+          - They banned any mention of municipal projects from the archive
+          - They rewrote the transcripts to correct the historical errors
+        answer: They attached prominent disclaimers clarifying that oral histories capture personal
+          perceptions
+        explanationVi: Kho lưu trữ đã đính kèm các tuyên bố từ chối trách nhiệm nổi bật làm rõ rằng lịch sử
+          truyền miệng nắm bắt nhận thức cá nhân.
+      - type: TRUE_FALSE
+        statement: Retired floor managers remembered the plant closure as an orderly, gradual phase-out.
+        prompt: Retired floor managers remembered the plant closure as an orderly, gradual phase-out.
+        promptVi: Các cựu quản lý phân xưởng nhớ lại việc đóng cửa nhà máy là một quá trình loại bỏ dần dần,
+          có trật tự.
+        answer: true
+        explanationVi: Đoạn văn thứ hai xác nhận các quản lý phân xưởng đã nghỉ hưu nhớ lại việc đóng cửa
+          nhà máy là một quá trình loại bỏ dần dần.
+      - type: TRUE_FALSE
+        statement: All participants in the oral history project requested unrestricted public access to
+          their interviews without conditions.
+        prompt: All participants in the oral history project requested unrestricted public access to their
+          interviews without conditions.
+        promptVi: Tất cả những người tham gia dự án lịch sử truyền miệng đều yêu cầu quyền truy cập công
+          khai không hạn chế đối với các cuộc phỏng vấn của họ mà không có điều kiện.
+        answer: false
+        explanationVi: Mặc dù đa số cấp quyền truy cập không hạn chế, vẫn có những cá nhân yêu cầu bút danh
+          hoặc đặt lệnh cấm.
+      - type: SHORT_ANSWER
+        prompt: How many years after a contributor's death may their sealed segments be opened? Give a
+          number.
+        promptVi: Các đoạn tạm đóng được phép công bố sau khi người đóng góp qua đời bao nhiêu năm? Viết số.
+        accept:
+          - five
+          - "5"
+        explanationVi: "Ba người yêu cầu giữ kín một số đoạn đến năm năm sau khi họ qua đời: five years
+          after their passing."
+      - type: SHORT_ANSWER
+        prompt: What specific year is mentioned regarding the conflicting accounts of the strike? Provide
+          the four-digit year.
+        promptVi: Những lời kể mâu thuẫn đề cập đến cuộc đình công vào năm nào? Viết năm bằng bốn chữ số.
+        accept:
+          - "1974"
+        explanationVi: Văn bản đề cập đến các sự kiện xung quanh cuộc đình công năm 1974 (1974 strike).
+  - slug: sharing-a-public-workshop
+    title: Evaluating the Riverbend Community Makerspace
+    titleVi: Đánh giá Không gian Sáng tạo Cộng đồng Riverbend
+    topic: daily-life
+    estimatedMinutes: 4
+    source: Sprout original
+    glossary: []
+    body: >-
+      The district council recently reviewed the annual usage report for the Riverbend Community
+      Makerspace, a public facility equipped with 3D printers, laser cutters, and woodworking tools.
+      On paper, the facility appeared to be an overwhelming success. Attendance logs recorded over
+      four thousand visits across the previous twelve months, an increase of fifteen percent from
+      the prior year. Council member Marcus Vance initially celebrated these raw numbers as proof
+      that the workshop successfully served the local population. However, a deeper audit conducted
+      by the community services committee revealed a more complicated reality beneath the aggregate
+      statistics.
+
+
+      While the total headcounts were high, the distribution of usage was remarkably skewed. Over
+      sixty percent of all logged hours were consumed by just eight individuals, most of whom
+      operated small commercial enterprises from home rather than engaging in hobbyist or
+      educational projects. Meanwhile, local high school students and neighborhood hobbyists found
+      themselves consistently locked out due to fully booked equipment calendars. The booking system
+      operated on a first-come, first-served basis opening thirty days in advance, a rule that
+      heavily favored full-time professionals who could monitor the portal during standard business
+      hours. Consequently, the makerspace functioned less as an inclusive neighborhood resource and
+      more as a subsidized workshop for a select few entrepreneurs.
+
+
+      The committee debated two competing interpretations of the data. One faction argued that
+      supporting local micro-entrepreneurs generated valuable economic activity and should remain a
+      primary goal, even if it required limiting casual drop-ins. The opposing faction insisted that
+      public funding was explicitly allocated to foster grassroots creativity and technical literacy
+      among under-resourced residents. Ultimately, the council adopted a compromise that balanced
+      both priorities without abandoning the facility's civic mandate.
+
+
+      The new booking policy introduces a tiered scheduling structure. Fifty percent of equipment
+      slots are now reserved exclusively for community workshops and individual non-commercial
+      projects, while commercial users are restricted to off-peak hours and a maximum of twelve
+      weekly machine hours. Furthermore, the booking window for commercial reservations was
+      shortened to seven days in advance, giving local students and evening hobbyists a fairer
+      chance to secure equipment. While some entrepreneurs criticized the restrictions as
+      anti-business, the council maintains that public infrastructure must prioritize broad public
+      access over private commercial convenience.
+    questions:
+      - type: MCQ
+        prompt: What did the initial raw attendance logs show about the makerspace?
+        promptVi: Nhật ký điểm danh thô ban đầu cho thấy điều gì về không gian sáng tạo?
+        options:
+          - A fifteen percent decrease in total visits
+          - A forty percent drop in commercial usage
+          - An increase of fifteen percent in visits
+          - Over ten thousand visits in twelve months
+        answer: An increase of fifteen percent in visits
+        explanationVi: "Văn bản nêu rõ: 'Attendance logs recorded over four thousand visits across the
+          previous twelve months, an increase of fifteen percent from the prior year.'"
+      - type: MCQ
+        prompt: Who consumed over sixty percent of all logged workshop hours?
+        promptVi: Ai đã tiêu thụ hơn sáu mươi phần trăm tổng số giờ làm việc tại xưởng được ghi nhận?
+        options:
+          - Local high school students
+          - Neighborhood hobbyists
+          - Full-time municipal employees
+          - Just eight individuals
+        answer: Just eight individuals
+        explanationVi: Đoạn thứ hai xác nhận rằng 'Over sixty percent of all logged hours were consumed by
+          just eight individuals'.
+      - type: MCQ
+        prompt: What flaw did the original booking system possess?
+        promptVi: Hệ thống đặt chỗ ban đầu có khiếm khuyết gì?
+        options:
+          - It opened thirty days in advance, favoring professionals
+          - It required commercial users to pay high subscription fees
+          - It was restricted exclusively to neighborhood students
+          - It prohibited the use of 3D printers and laser cutters
+        answer: It opened thirty days in advance, favoring professionals
+        explanationVi: Hệ thống mở cửa trước ba mươi ngày, ưu tiên những người chuyên nghiệp có thể theo dõi
+          cổng thông tin trong giờ làm việc.
+      - type: MCQ
+        prompt: Under the newly adopted policy, what percentage of equipment slots are reserved for
+          community workshops and non-commercial projects?
+        promptVi: Theo chính sách mới, bao nhiêu phần trăm khung giờ sử dụng thiết bị được dành riêng cho
+          buổi thực hành cộng đồng và dự án phi thương mại?
+        options:
+          - Twelve percent
+          - Fifty percent
+          - Twenty-five percent
+          - Sixty percent
+        answer: Fifty percent
+        explanationVi: "Đoạn cuối nêu rõ: 'Fifty percent of equipment slots are now reserved exclusively for
+          community workshops and individual non-commercial projects'."
+      - type: TRUE_FALSE
+        statement: The original booking system operated on a first-come, first-served basis opening thirty
+          days in advance.
+        prompt: The original booking system operated on a first-come, first-served basis opening thirty days
+          in advance.
+        promptVi: Hệ thống đặt chỗ ban đầu hoạt động theo nguyên tắc ai đến trước được phục vụ trước, mở
+          trước ba mươi ngày.
+        answer: true
+        explanationVi: Văn bản xác nhận trực tiếp chi tiết này trong đoạn hai.
+      - type: TRUE_FALSE
+        statement: The council decided to ban all commercial users entirely from the makerspace.
+        prompt: The council decided to ban all commercial users entirely from the makerspace.
+        promptVi: Hội đồng đã quyết định cấm hoàn toàn tất cả người dùng thương mại khỏi không gian sáng tạo.
+        answer: false
+        explanationVi: Hội đồng không cấm họ mà thay vào đó giới hạn họ vào giờ thấp điểm và tối đa mười hai
+          giờ máy mỗi tuần.
+      - type: SHORT_ANSWER
+        prompt: What kind of enterprises did most of the top eight users operate from home? (State a 1-3
+          word phrase).
+        promptVi: Phần lớn trong tám người dùng hàng đầu điều hành các doanh nghiệp loại gì từ nhà? (Nêu cụm
+          từ 1-3 từ).
+        accept:
+          - small commercial enterprises
+          - commercial enterprises
+        explanationVi: Đoạn hai ghi rõ họ 'operated small commercial enterprises from home'.
+      - type: SHORT_ANSWER
+        prompt: What specific time limit in weekly machine hours was established for commercial users under
+          the new policy? (State a number or phrase).
+        promptVi: Giới hạn thời gian cụ thể nào tính bằng số giờ máy hàng tuần được thiết lập cho người dùng
+          thương mại theo chính sách mới? (Nêu số hoặc cụm từ).
+        accept:
+          - twelve weekly machine hours
+          - 12 weekly machine hours
+          - twelve hours
+          - 12 hours
+          - "12"
+          - twelve
+        explanationVi: Đoạn cuối đề cập đến giới hạn 'a maximum of twelve weekly machine hours'.

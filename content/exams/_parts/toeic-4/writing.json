@@ -1,0 +1,40 @@
+[
+  {
+    "id": "writing-respond-escalation",
+    "skill": "writing",
+    "title": "Writing Q6–7 — Respond to a written request",
+    "format": "TOEIC Writing — Respond to a Written Request · 10 phút, email xử lý leo thang",
+    "instructionsVi": "Viết 80–150 từ. Tình huống nhạy cảm: khách đe doạ chấm dứt hợp đồng. Phải làm đủ ba việc, giữ được khách, mà không hứa điều nằm ngoài thẩm quyền.",
+    "promptEn": "Read the email below and respond.\n\nFrom: Beatriz Lund, Operations Director, Calderon Foods\nTo: Account Management, Vellmar Logistics\nSubject: Third late delivery — escalation\n\nThis is the third late delivery this quarter. Each time we are told it was exceptional. Our production line stopped for four hours yesterday as a result, at significant cost.\n\nI need a written explanation, a concrete commitment on what changes, and an answer on compensation. If I do not receive all three by Friday, I will begin the process of retendering the contract.\n\n---\n\nDIRECTIONS: Respond as the account manager. In your reply, give ONE explanation, state ONE concrete change you will make, and address the compensation point.",
+    "timeLimitSec": 600,
+    "minWords": 80,
+    "maxWords": 150,
+    "sampleAnswer": "Dear Ms Lund,\n\nThank you for setting this out so clearly. Three late deliveries in one quarter is not acceptable, and I am not going to describe this one as exceptional.\n\nThe cause was a change to our overnight routing in July, which added a transfer at the Kirby depot for shipments to your site. That transfer has failed to meet its cut-off on each of the three occasions.\n\nThe concrete change is that your shipments will be removed from the Kirby transfer with effect from Monday and routed directly, as they were before July. I have confirmed this with our network manager today.\n\nOn compensation, I do not have authority to agree a figure myself, but I have referred your claim for yesterday's four-hour stoppage to our commercial director and will give you a decision by Thursday, ahead of your Friday deadline.\n\nRegards,\nTomas Adeyemi\nAccount Manager, Vellmar Logistics",
+    "rubricVi": [
+      "Làm đủ ba việc đề nêu: giải thích, cam kết thay đổi cụ thể, trả lời về bồi thường. Né một trong ba là mất điểm nặng.",
+      "Trả lời trung thực về thẩm quyền thay vì hứa liều. Nói rõ đã chuyển lên cấp trên kèm mốc thời gian là cách xử lý được đánh giá cao.",
+      "Không lặp lại từ 'exceptional' theo kiểu bào chữa — khách đã chỉ đích danh cách nói đó. Đáp lại đúng điểm khách bức xúc là tiêu chí nội dung.",
+      "Cam kết phải cụ thể, có mốc thời gian và người chịu trách nhiệm, không nói 'chúng tôi sẽ cải thiện'.",
+      "Đưa mốc trả lời SỚM hơn hạn khách đặt. Chi tiết nhỏ này cho thấy nắm được tính cấp bách."
+    ]
+  },
+  {
+    "id": "writing-opinion-automation",
+    "skill": "writing",
+    "title": "Writing Q8 — Write an opinion essay",
+    "format": "TOEIC Writing — Opinion Essay · 30 phút, tối thiểu 300 từ",
+    "instructionsVi": "Viết 300–380 từ. Đề ở mức 900 có tiền đề gài sẵn; bài giỏi sẽ chất vấn tiền đề đó trước khi trả lời, nhưng vẫn phải giữ cấu trúc rõ ràng kiểu TOEIC.",
+    "promptEn": "Do you agree or disagree with the following statement?\n\n'A manager who is liked by their team will always be more effective than one who is not.'\n\nUse specific reasons and examples to support your answer.",
+    "timeLimitSec": 1800,
+    "minWords": 300,
+    "maxWords": 380,
+    "sampleAnswer": "I disagree with this statement as it is written, mainly because of the word 'always'. Being liked helps a manager, but it is neither sufficient on its own nor the quality that matters most. I would argue that being trusted is the decisive factor, and that trust and popularity are not the same thing.\n\nFirst, a manager who is liked but not respected cannot make unpopular decisions, and every manager eventually has to. At a company where I worked, our department head was genuinely well liked and avoided conflict at all costs. When two team members consistently missed deadlines, he said nothing for almost a year. The rest of us absorbed the extra work, and three people left. His popularity was preserved and the team was damaged.\n\nSecond, being liked can be achieved in ways that harm the organisation. A manager who approves every leave request, accepts every excuse and passes every appraisal will be popular in the short term. The cost appears later, in missed targets and in staff who were never told what they needed to improve.\n\nThird, and most importantly, effectiveness depends on whether people believe what the manager says. I have worked for a manager who was blunt and not especially warm, and who very few people would have described as likeable. But when she said a deadline was genuinely fixed, everyone believed her, because she had never inflated one. That reliability produced far better results than the friendlier approach did.\n\nI would accept that, all else being equal, a manager who is liked has an advantage. People share problems earlier and cooperate more readily, and those effects are real.\n\nHowever, the statement claims that being liked is always decisive, and I do not accept that. Trust, consistency and the willingness to say uncomfortable things matter more, and a manager who has those will be effective whether or not the team finds them personally likeable.",
+    "rubricVi": [
+      "Chất vấn từ 'always' trong đề. Ở mức 900, nhận ra tiền đề tuyệt đối rồi phản bác chính xác chỗ đó là kỹ thuật ăn điểm cao nhất.",
+      "Phân tách hai khái niệm bị gộp (được yêu quý và được tin tưởng) và giữ sự phân tách đó suốt bài.",
+      "Ba lý do, mỗi lý do một đoạn, ví dụ có chi tiết và có hậu quả đo được (ba người nghỉ việc).",
+      "Nhượng bộ một đoạn ngắn cho phía đối lập rồi quay lại lập trường. Bài một chiều bị đánh giá thấp ở mức này.",
+      "Đủ 300 từ, cấu trúc vẫn phải rõ ràng kiểu TOEIC — chất vấn tiền đề không có nghĩa là viết lan man."
+    ]
+  }
+]

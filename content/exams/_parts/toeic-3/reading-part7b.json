@@ -1,0 +1,562 @@
+[
+  {
+    "id": "reading-part7-s8",
+    "skill": "reading",
+    "title": "Part 7 — Single passage 8: press release",
+    "format": "TOEIC Reading — Part 7 · Single passage (câu 166–169)",
+    "instructionsVi": "Thông cáo báo chí, bốn câu gồm một câu chèn câu và một câu hỏi từ vựng theo ngữ cảnh.",
+    "promptEn": "Refer to the following press release and answer the questions.",
+    "passage": "FOR IMMEDIATE RELEASE\nNorthline Components to open second production line\n\nFAIRPORT, 8 April — Northline Components will commission a second production line at its Fairport plant in November, ending a period in which the company has turned away orders it could not fulfil.\n\n— [1] — The existing line has run at above ninety-five per cent utilisation since early last year. Chief Executive Lena Fischer said the company had declined roughly £2.4m of business in that period, not because the work was unprofitable but because accepting it would have put existing delivery commitments at risk.\n\n— [2] — The new line will add capacity of about sixty per cent and will be capable of running the two highest-volume bracket types simultaneously, which the current line cannot.\n\n'We were not short of demand,' Ms Fischer said. — [3] — 'We were short of the ability to say yes without letting someone else down.'\n\nTwenty-two staff will be recruited, and the company expects the line to reach full output by the second quarter of next year. — [4] —",
+    "timeLimitSec": 260,
+    "questions": [
+      {
+        "id": "p7-166",
+        "kind": "mcq",
+        "prompt": "166. Why did Northline decline business?",
+        "options": [
+          {
+            "id": "a",
+            "text": "It would have endangered existing delivery commitments."
+          },
+          {
+            "id": "b",
+            "text": "The work was unprofitable."
+          },
+          {
+            "id": "c",
+            "text": "The customers were unreliable."
+          },
+          {
+            "id": "d",
+            "text": "It lacked skilled staff."
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'not because the work was unprofitable but because accepting it would have put existing delivery commitments at risk'. Câu phủ định loại thẳng (B)."
+      },
+      {
+        "id": "p7-167",
+        "kind": "mcq",
+        "prompt": "167. What can the new line do that the current one cannot?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Run at ninety-five per cent utilisation"
+          },
+          {
+            "id": "b",
+            "text": "Operate without staff"
+          },
+          {
+            "id": "c",
+            "text": "Reach full output immediately"
+          },
+          {
+            "id": "d",
+            "text": "Produce two high-volume bracket types at the same time"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'capable of running the two highest-volume bracket types simultaneously, which the current line cannot'."
+      },
+      {
+        "id": "p7-168",
+        "kind": "mcq",
+        "prompt": "168. The word 'utilisation' in paragraph 2 is closest in meaning to",
+        "options": [
+          {
+            "id": "a",
+            "text": "profitability"
+          },
+          {
+            "id": "b",
+            "text": "the proportion of available capacity in use"
+          },
+          {
+            "id": "c",
+            "text": "the number of staff employed"
+          },
+          {
+            "id": "d",
+            "text": "customer satisfaction"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "Con số phần trăm gắn với việc dây chuyền chạy gần hết công suất, dẫn tới phải từ chối đơn hàng."
+      },
+      {
+        "id": "p7-169",
+        "kind": "mcq",
+        "prompt": "169. In which of the positions marked [1], [2], [3] and [4] does the following sentence best belong?\n\n'That constraint has shaped the company's order book for eighteen months.'",
+        "options": [
+          {
+            "id": "a",
+            "text": "[1]"
+          },
+          {
+            "id": "b",
+            "text": "[3]"
+          },
+          {
+            "id": "c",
+            "text": "[2]"
+          },
+          {
+            "id": "d",
+            "text": "[4]"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'That constraint' phải trỏ về hạn chế vừa mô tả — dây chuyền chạy hết công suất và phải từ chối £2,4 triệu. Vị trí [2] nằm ngay sau đoạn đó."
+      }
+    ]
+  },
+  {
+    "id": "reading-part7-s9",
+    "skill": "reading",
+    "title": "Part 7 — Single passage 9: memo with a matrix",
+    "format": "TOEIC Reading — Part 7 · Single passage (câu 170–172)",
+    "instructionsVi": "Bản ghi nhớ kèm bảng phân quyền. Câu hỏi buộc áp dụng bảng vào tình huống cụ thể.",
+    "promptEn": "Refer to the following memo and answer the questions.",
+    "passage": "MEMORANDUM\nTo: All budget holders\nFrom: Finance\nSubject: Approval matrix, effective 1 July\n\nApproval level required by order value:\nUp to £500 — Requesting manager\n£501–£2,000 — Department head\n£2,001–£10,000 — Department head + Finance\nAbove £10,000 — Department head + Finance + Director\n\nNotes:\n· Values are per order, not per line. Splitting an order to reduce the approval level is a disciplinary matter.\n· Recurring monthly costs are assessed on the annual value, not the monthly instalment.\n· Orders placed against a framework agreement already approved by the Director require Finance sign-off only, whatever the value.\n· Emergency orders may proceed on the requesting manager's authority alone, with retrospective approval within five working days.",
+    "timeLimitSec": 200,
+    "questions": [
+      {
+        "id": "p7-170",
+        "kind": "mcq",
+        "prompt": "170. A manager orders a service costing £400 a month for twelve months. What approval is needed?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Requesting manager only"
+          },
+          {
+            "id": "b",
+            "text": "Department head plus Finance"
+          },
+          {
+            "id": "c",
+            "text": "Department head only"
+          },
+          {
+            "id": "d",
+            "text": "Department head, Finance and Director"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "Chi phí định kỳ tính theo giá trị NĂM: £400 × 12 = £4.800, rơi vào khoảng £2.001–£10.000. Bẫy là chỉ nhìn £400/tháng."
+      },
+      {
+        "id": "p7-171",
+        "kind": "mcq",
+        "prompt": "171. What approval is needed for a £15,000 order under an existing framework agreement?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Department head plus Finance"
+          },
+          {
+            "id": "b",
+            "text": "Department head, Finance and Director"
+          },
+          {
+            "id": "c",
+            "text": "No approval is required."
+          },
+          {
+            "id": "d",
+            "text": "Finance sign-off only"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'Orders placed against a framework agreement already approved by the Director require Finance sign-off only, whatever the value'."
+      },
+      {
+        "id": "p7-172",
+        "kind": "mcq",
+        "prompt": "172. What is described as a disciplinary matter?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Placing an emergency order"
+          },
+          {
+            "id": "b",
+            "text": "Ordering against a framework agreement"
+          },
+          {
+            "id": "c",
+            "text": "Splitting an order to reduce the approval level"
+          },
+          {
+            "id": "d",
+            "text": "Approving a recurring cost"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'Splitting an order to reduce the approval level is a disciplinary matter'."
+      }
+    ]
+  },
+  {
+    "id": "reading-part7-s10",
+    "skill": "reading",
+    "title": "Part 7 — Single passage 10: contract extract",
+    "format": "TOEIC Reading — Part 7 · Single passage (câu 173–175)",
+    "instructionsVi": "Trích hợp đồng có điều khoản ngoại lệ lồng nhau. Câu hỏi buộc áp dụng đúng thứ tự các điều khoản.",
+    "promptEn": "Refer to the following contract extract and answer the questions.",
+    "passage": "SERVICE AGREEMENT — extract, section 9: availability\n\n9.1 The supplier guarantees availability of 99.5% measured monthly.\n9.2 Scheduled maintenance notified at least seven days in advance is excluded from the calculation.\n9.3 Where availability falls below 99.5%, the customer is entitled to a credit of 5% of the monthly fee for each full 0.5% below the guarantee, to a maximum of 25%.\n9.4 Notwithstanding 9.2, maintenance that overruns its notified window by more than sixty minutes is counted as unscheduled downtime for the entire duration, not only the overrun.\n9.5 Credits must be claimed within thirty days of the month end. Credits are not applied automatically.",
+    "timeLimitSec": 200,
+    "questions": [
+      {
+        "id": "p7-173",
+        "kind": "mcq",
+        "prompt": "173. A four-hour maintenance window was notified ten days ahead but ran ninety minutes over. How is it counted?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Entirely excluded, as it was notified in advance"
+          },
+          {
+            "id": "b",
+            "text": "The whole five and a half hours counts as unscheduled downtime."
+          },
+          {
+            "id": "c",
+            "text": "Only the ninety-minute overrun counts as downtime."
+          },
+          {
+            "id": "d",
+            "text": "It is counted at half the duration."
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "9.4 là ngoại lệ của 9.2: vượt quá 60 phút thì TOÀN BỘ thời gian bị tính là ngừng ngoài kế hoạch, không chỉ phần vượt."
+      },
+      {
+        "id": "p7-174",
+        "kind": "mcq",
+        "prompt": "174. Availability in a month is 98.4%. What credit is due?",
+        "options": [
+          {
+            "id": "a",
+            "text": "5%"
+          },
+          {
+            "id": "b",
+            "text": "15%"
+          },
+          {
+            "id": "c",
+            "text": "10%"
+          },
+          {
+            "id": "d",
+            "text": "25%"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "Thiếu 1,1% so với 99,5%, tức HAI mức đủ 0,5% (còn 0,1% dư không tính). 2 × 5% = 10%."
+      },
+      {
+        "id": "p7-175",
+        "kind": "mcq",
+        "prompt": "175. What must the customer do to receive a credit?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Claim within thirty days of month end."
+          },
+          {
+            "id": "b",
+            "text": "Nothing — credits are automatic."
+          },
+          {
+            "id": "c",
+            "text": "Give seven days' notice."
+          },
+          {
+            "id": "d",
+            "text": "Terminate the agreement."
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "9.5: 'Credits must be claimed within thirty days of the month end. Credits are not applied automatically'."
+      }
+    ]
+  },
+  {
+    "id": "reading-part7-d1",
+    "skill": "reading",
+    "title": "Part 7 — Double passage 1: article and data table",
+    "format": "TOEIC Reading — Part 7 · Double passage (câu 176–180)",
+    "instructionsVi": "Bộ hai văn bản. Câu hỏi buộc đối chiếu bài viết với bảng số liệu để tìm chỗ khớp và chỗ lệch.",
+    "promptEn": "Refer to the following article and table, then answer the questions.",
+    "passage": "ARTICLE — Regional Business Review, 4 March\n\nCoastal Freight has reported its fourth consecutive year of growth in container volume, though the company acknowledged that margins have narrowed. Chief Executive Dorota Nowak attributed the pressure to fuel costs and to competition on the northern routes, where two new operators entered the market last year.\n\nThe response has been to consolidate. Three smaller depots were closed in the autumn and their operations transferred to the expanded Fairport hub. Ms Nowak said the move would reduce fixed costs by approximately eight per cent annually from this year, and that no compulsory redundancies had been required, as affected staff were offered positions at Fairport.\n\nThe company also confirmed it will not renew its contract with its current fuel supplier when it expires in June, and is evaluating three alternatives.\n\n---\n\nTABLE — Coastal Freight\n\nYear · Containers (thousands) · Operating margin (%) · Depots\n2021 · 412 · 11.4 · 9\n2022 · 448 · 10.9 · 9\n2023 · 479 · 9.6 · 9\n2024 · 505 · 8.1 · 6",
+    "timeLimitSec": 320,
+    "questions": [
+      {
+        "id": "p7-176",
+        "kind": "mcq",
+        "prompt": "176. What does the table confirm about the article's claim?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Both volume and margin rose every year."
+          },
+          {
+            "id": "b",
+            "text": "Volume fell in 2024."
+          },
+          {
+            "id": "c",
+            "text": "Volume rose every year while margin fell every year."
+          },
+          {
+            "id": "d",
+            "text": "Margin was highest in 2024."
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "Container tăng 412→505 trong khi biên lợi nhuận giảm 11,4→8,1 — đúng với 'growth… margins have narrowed'."
+      },
+      {
+        "id": "p7-177",
+        "kind": "mcq",
+        "prompt": "177. In which year do the depot closures appear in the table?",
+        "options": [
+          {
+            "id": "a",
+            "text": "2021"
+          },
+          {
+            "id": "b",
+            "text": "2022"
+          },
+          {
+            "id": "c",
+            "text": "2023"
+          },
+          {
+            "id": "d",
+            "text": "2024"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "Số kho giữ ở 9 tới 2023 rồi còn 6 vào 2024 — khớp với việc đóng ba kho vào mùa thu."
+      },
+      {
+        "id": "p7-178",
+        "kind": "mcq",
+        "prompt": "178. What reason is given for the margin pressure?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Fuel costs and new competition on northern routes"
+          },
+          {
+            "id": "b",
+            "text": "Depot closures"
+          },
+          {
+            "id": "c",
+            "text": "Falling container volume"
+          },
+          {
+            "id": "d",
+            "text": "Compulsory redundancies"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'attributed the pressure to fuel costs and to competition on the northern routes'."
+      },
+      {
+        "id": "p7-179",
+        "kind": "mcq",
+        "prompt": "179. What is implied about the fuel contract?",
+        "options": [
+          {
+            "id": "a",
+            "text": "A new supplier has already been signed."
+          },
+          {
+            "id": "b",
+            "text": "The company expects better terms elsewhere."
+          },
+          {
+            "id": "c",
+            "text": "The current supplier ended the contract."
+          },
+          {
+            "id": "d",
+            "text": "Fuel costs are no longer a concern."
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "Công ty chủ động không gia hạn và đang đánh giá ba nhà cung cấp khác, trong bối cảnh nhiên liệu gây áp lực biên lợi nhuận."
+      },
+      {
+        "id": "p7-180",
+        "kind": "mcq",
+        "prompt": "180. What is stated about staff affected by the closures?",
+        "options": [
+          {
+            "id": "a",
+            "text": "They were made compulsorily redundant."
+          },
+          {
+            "id": "b",
+            "text": "They were transferred to the fuel supplier."
+          },
+          {
+            "id": "c",
+            "text": "They were offered positions at Fairport."
+          },
+          {
+            "id": "d",
+            "text": "The article does not mention them."
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'no compulsory redundancies had been required, as affected staff were offered positions at Fairport'."
+      }
+    ]
+  },
+  {
+    "id": "reading-part7-d2",
+    "skill": "reading",
+    "title": "Part 7 — Double passage 2: two emails",
+    "format": "TOEIC Reading — Part 7 · Double passage (câu 181–185)",
+    "instructionsVi": "Bộ hai email đối đáp. Câu hỏi hàm ý nhắm vào chỗ hai bên hiểu khác nhau về cùng một điều khoản.",
+    "promptEn": "Refer to the following two emails and answer the questions.",
+    "passage": "EMAIL 1\nFrom: r.beck@hallowaycold.example\nTo: service@meridianequip.example\nDate: 12 May\nSubject: CX-40 — annual service overdue?\n\nHello,\n\nYour portal is showing our CX-40 as 'service overdue', but our records show the second annual service was carried out on 14 March.\n\nI want to be sure this doesn't affect our extended warranty. As I understand it, the extension to thirty-six months depends on all scheduled services being completed, and we believe they have been.\n\nCould you check and confirm?\n\nRegards,\nRowan Beck\n\n---\n\nEMAIL 2\nFrom: service@meridianequip.example\nTo: r.beck@hallowaycold.example\nDate: 13 May\nSubject: RE: CX-40 — annual service overdue?\n\nDear Mr Beck,\n\nI have checked. The March visit was carried out and signed off, so your warranty extension is not at risk.\n\nThe portal flag relates to something else: the service is recorded against the wrong asset number, so the system believes your unit is still awaiting its visit. That is a data error on our side and I have corrected it.\n\nOne point worth flagging for the future. The extension requires services to be completed within the twelve-month interval, not merely within the calendar year. Your first service was in early March and your second in mid-March, so you have thirteen days of margin. If a visit ever slips past the anniversary, the extension lapses and cannot be reinstated.\n\nRegards,\nService Desk",
+    "timeLimitSec": 320,
+    "questions": [
+      {
+        "id": "p7-181",
+        "kind": "mcq",
+        "prompt": "181. Why did Mr Beck write?",
+        "options": [
+          {
+            "id": "a",
+            "text": "To book a service visit"
+          },
+          {
+            "id": "b",
+            "text": "To complain about an engineer"
+          },
+          {
+            "id": "c",
+            "text": "To query a warning shown on the portal"
+          },
+          {
+            "id": "d",
+            "text": "To cancel his warranty"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'Your portal is showing our CX-40 as service overdue, but our records show…'"
+      },
+      {
+        "id": "p7-182",
+        "kind": "mcq",
+        "prompt": "182. What caused the portal warning?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The service was never carried out."
+          },
+          {
+            "id": "b",
+            "text": "The warranty had already lapsed."
+          },
+          {
+            "id": "c",
+            "text": "The customer missed a payment."
+          },
+          {
+            "id": "d",
+            "text": "The service was recorded against the wrong asset number."
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'the service is recorded against the wrong asset number… That is a data error on our side'."
+      },
+      {
+        "id": "p7-183",
+        "kind": "mcq",
+        "prompt": "183. What misunderstanding does the service desk correct?",
+        "options": [
+          {
+            "id": "a",
+            "text": "That the warranty lasts twenty-four months"
+          },
+          {
+            "id": "b",
+            "text": "That services need only fall within the same calendar year"
+          },
+          {
+            "id": "c",
+            "text": "That the customer must pay for services"
+          },
+          {
+            "id": "d",
+            "text": "That the portal is always accurate"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'The extension requires services to be completed within the twelve-month interval, not merely within the calendar year'."
+      },
+      {
+        "id": "p7-184",
+        "kind": "mcq",
+        "prompt": "184. How much margin does Mr Beck currently have?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Thirteen days"
+          },
+          {
+            "id": "b",
+            "text": "One month"
+          },
+          {
+            "id": "c",
+            "text": "Three months"
+          },
+          {
+            "id": "d",
+            "text": "None"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'Your first service was in early March and your second in mid-March, so you have thirteen days of margin'."
+      },
+      {
+        "id": "p7-185",
+        "kind": "mcq",
+        "prompt": "185. What happens if a service is late?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The extension lapses permanently."
+          },
+          {
+            "id": "b",
+            "text": "A fee is charged."
+          },
+          {
+            "id": "c",
+            "text": "The portal flags it but nothing changes."
+          },
+          {
+            "id": "d",
+            "text": "The warranty reverts to twelve months."
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'the extension lapses and cannot be reinstated'."
+      }
+    ]
+  }
+]

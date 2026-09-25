@@ -1,0 +1,1470 @@
+# Viết lại câu — bài tập xương sống của chương trình tiếng Anh Việt Nam.
+#
+# Mỗi mục có: câu gốc, từ gợi ý bắt buộc dùng, và mọi câu trả lời được chấp nhận.
+# `cueType`:
+#   start   — câu trả lời phải BẮT ĐẦU bằng chuỗi này
+#   keyword — câu trả lời phải CHỨA từ này
+#   none    — chỉ cần đúng nghĩa
+sets:
+  - slug: too-enough
+    title: too / enough
+    titleVi: Cấu trúc too và enough
+    cefr: A2
+    explanationVi: >-
+      "too + tính từ + to V" mang nghĩa phủ định: quá... nên không thể.
+      "đủ + to V" là "not + tính từ + enough + to V". Hai câu cùng nghĩa nhưng
+      tính từ phải đảo sang nghĩa ngược lại: too young ↔ not old enough.
+    items:
+      - source: He is too young to drive a car.
+        cue: enough
+        cueType: keyword
+        accepted:
+          - He is not old enough to drive a car.
+        explanationVi: >-
+          too young (quá trẻ) đổi thành not old enough (chưa đủ lớn). Tính từ
+          đảo nghĩa: young → old, và thêm not ... enough.
+      - source: The coffee was too hot to drink.
+        cue: enough
+        cueType: keyword
+        accepted:
+          - The coffee was not cool enough to drink.
+          - The coffee was not cold enough to drink.
+        explanationVi: too hot → not cool enough. Giữ nguyên thì quá khứ was.
+      - source: She is not tall enough to reach the shelf.
+        cue: too
+        cueType: keyword
+        accepted:
+          - She is too short to reach the shelf.
+        explanationVi: "Chiều ngược lại: not tall enough → too short."
+      - source: The box was too heavy for me to lift.
+        cue: enough
+        cueType: keyword
+        accepted:
+          - The box was not light enough for me to lift.
+        explanationVi: Giữ nguyên cụm for me. heavy → light khi đảo sang enough.
+      - source: This path is too narrow for two bicycles to pass.
+        cue: enough
+        cueType: keyword
+        accepted:
+          - This path is not wide enough for two bicycles to pass.
+          - This path isn't wide enough for two bicycles to pass.
+        explanationVi: Too narrow đổi thành not wide enough; giữ for two bicycles để chỉ rõ hai xe cần đi qua.
+      - source: The tickets are too expensive for us to buy.
+        cue: enough
+        cueType: keyword
+        accepted:
+          - The tickets are not cheap enough for us to buy.
+          - The tickets aren't cheap enough for us to buy.
+        explanationVi: Expensive và cheap trái nghĩa. Chủ ngữ số nhiều nên giữ are và thêm not trước cheap enough.
+      - source: The room is not bright enough for me to read.
+        cue: too
+        cueType: keyword
+        accepted:
+          - The room is too dark for me to read.
+        explanationVi: Not bright enough tương đương too dark; cụm for me giữ nguyên người đọc.
+      - source: The internet connection is too slow to stream the video.
+        cue: enough
+        cueType: keyword
+        accepted:
+          - The internet connection is not fast enough to stream the video.
+          - The internet connection isn't fast enough to stream the video.
+        explanationVi: Too slow đổi sang not fast enough. Sau enough vẫn dùng to stream.
+      - source: He is not strong enough to carry the suitcase.
+        cue: too
+        cueType: keyword
+        accepted:
+          - He is too weak to carry the suitcase.
+        explanationVi: Strong đối nghĩa với weak. Bỏ not khi chuyển từ not strong enough sang too weak.
+      - source: My coat is too wet to wear.
+        cue: enough
+        cueType: keyword
+        accepted:
+          - My coat is not dry enough to wear.
+          - My coat isn't dry enough to wear.
+        explanationVi: "Too wet mang nghĩa áo chưa đủ khô để mặc: not dry enough."
+      - source: The screen is too small for everyone to see the map.
+        cue: enough
+        cueType: keyword
+        accepted:
+          - The screen is not big enough for everyone to see the map.
+          - The screen is not large enough for everyone to see the map.
+          - The screen isn't big enough for everyone to see the map.
+          - The screen isn't large enough for everyone to see the map.
+        explanationVi: Small đổi sang big hoặc large khi dùng not ... enough. Giữ for everyone.
+      - source: We arrived too late to join the tour.
+        cue: enough
+        cueType: keyword
+        accepted:
+          - We did not arrive early enough to join the tour.
+          - We didn't arrive early enough to join the tour.
+        explanationVi: Late đổi thành early. Với động từ arrived, câu phủ định quá khứ cần did not arrive.
+      - source: The explanation was too complicated for a beginner to understand.
+        cue: enough
+        cueType: keyword
+        accepted:
+          - The explanation was not simple enough for a beginner to understand.
+          - The explanation wasn't simple enough for a beginner to understand.
+        explanationVi: Complicated đổi thành simple; was không đổi thì và phải thêm not.
+      - source: The soup is not warm enough to serve.
+        cue: too
+        cueType: keyword
+        accepted:
+          - The soup is too cold to serve.
+        explanationVi: Not warm enough tương đương too cold trong ngữ cảnh món súp chưa đạt nhiệt độ để phục vụ.
+      - source: The ladder is too short to reach the roof.
+        cue: enough
+        cueType: keyword
+        accepted:
+          - The ladder is not long enough to reach the roof.
+          - The ladder isn't long enough to reach the roof.
+        explanationVi: Short đổi sang long. Enough đứng sau tính từ long, không đứng trước.
+      - source: The ceiling is too low for him to stand upright.
+        cue: enough
+        cueType: keyword
+        accepted:
+          - The ceiling is not high enough for him to stand upright.
+          - The ceiling isn't high enough for him to stand upright.
+        explanationVi: Too low đổi thành not high enough. Him vẫn là người không thể đứng thẳng.
+      - source: These shoes are not loose enough for me to wear comfortably.
+        cue: too
+        cueType: keyword
+        accepted:
+          - These shoes are too tight for me to wear comfortably.
+        explanationVi: Not loose enough đổi thành too tight; giữ trạng từ comfortably để không mất ý về sự thoải mái.
+      - source: The music was too loud for us to talk.
+        cue: enough
+        cueType: keyword
+        accepted:
+          - The music was not quiet enough for us to talk.
+          - The music wasn't quiet enough for us to talk.
+        explanationVi: Loud đổi sang quiet. Cụm for us cho biết ai không thể nói chuyện.
+      - source: The instructions are not clear enough for me to follow.
+        cue: too
+        cueType: keyword
+        accepted:
+          - The instructions are too unclear for me to follow.
+        explanationVi: Not clear enough tương đương too unclear; chủ ngữ instructions là số nhiều nên dùng are.
+      - source: The train moved too slowly to arrive on time.
+        cue: enough
+        cueType: keyword
+        accepted:
+          - The train did not move fast enough to arrive on time.
+          - The train did not move quickly enough to arrive on time.
+          - The train didn't move fast enough to arrive on time.
+          - The train didn't move quickly enough to arrive on time.
+        explanationVi: Slowly đổi thành fast hoặc quickly. Phủ định quá khứ dùng did not move, không giữ moved.
+
+  - slug: passive-voice
+    title: Active to passive
+    titleVi: Chuyển sang câu bị động
+    cefr: B1
+    explanationVi: >-
+      Tân ngữ của câu chủ động lên làm chủ ngữ, động từ đổi thành be + V3, và
+      thì nằm ở be. Người thực hiện đi sau by, bỏ được nếu không quan trọng.
+    items:
+      - source: Someone stole my bicycle last night.
+        cue: null
+        cueType: none
+        accepted:
+          - My bicycle was stolen last night.
+        explanationVi: >-
+          someone không quan trọng nên bỏ luôn cụm by someone. steal → stolen,
+          thì quá khứ nằm ở was.
+      - source: They will announce the results on Monday.
+        cue: The results
+        cueType: start
+        accepted:
+          - The results will be announced on Monday.
+        explanationVi: Bị động tương lai là will be + V3.
+      - source: My colleague wrote this report.
+        cue: This report
+        cueType: start
+        accepted:
+          - This report was written by my colleague.
+        explanationVi: >-
+          Người viết ở đây có ý nghĩa nên giữ lại cụm by my colleague.
+          write → written.
+      - source: They have repaired the bridge.
+        cue: The bridge
+        cueType: start
+        accepted:
+          - The bridge has been repaired.
+        explanationVi: Bị động hiện tại hoàn thành là has/have been + V3.
+      - source: The chef prepares all the meals.
+        cue: All the meals
+        cueType: start
+        accepted:
+          - All the meals are prepared by the chef.
+        explanationVi: Meals là số nhiều nên bị động hiện tại đơn dùng are prepared. Giữ người thực hiện sau by.
+      - source: A falling branch damaged the roof.
+        cue: The roof
+        cueType: start
+        accepted:
+          - The roof was damaged by a falling branch.
+        explanationVi: Đưa the roof lên làm chủ ngữ; damaged ở quá khứ đơn thành was damaged.
+      - source: Someone is cleaning the windows.
+        cue: The windows
+        cueType: start
+        accepted:
+          - The windows are being cleaned.
+          - The windows are being cleaned by someone.
+        explanationVi: Bị động hiện tại tiếp diễn dùng are being + V3. Có thể bỏ tác nhân chung chung someone.
+      - source: The workers were painting the walls when we arrived.
+        cue: The walls
+        cueType: start
+        accepted:
+          - The walls were being painted by the workers when we arrived.
+        explanationVi: Were painting đổi thành were being painted. Giữ mệnh đề when để bảo toàn thời điểm.
+      - source: The company has cancelled the flight.
+        cue: The flight
+        cueType: start
+        accepted:
+          - The flight has been cancelled by the company.
+        explanationVi: Hiện tại hoàn thành bị động với chủ ngữ số ít là has been cancelled.
+      - source: The team had completed the project before the deadline.
+        cue: The project
+        cueType: start
+        accepted:
+          - The project had been completed by the team before the deadline.
+          - The project had been completed before the deadline by the team.
+        explanationVi: Quá khứ hoàn thành chủ động had completed đổi thành had been completed.
+      - source: The manager will sign the contract tomorrow.
+        cue: The contract
+        cueType: start
+        accepted:
+          - The contract will be signed by the manager tomorrow.
+          - The contract will be signed tomorrow by the manager.
+        explanationVi: Will sign chuyển sang will be signed; giữ ngày mai và người ký.
+      - source: You must keep this medicine in a cool place.
+        cue: This medicine
+        cueType: start
+        accepted:
+          - This medicine must be kept in a cool place.
+          - This medicine must be kept in a cool place by you.
+        explanationVi: Bị động với must là must be + V3. Phân từ của keep là kept; you mang nghĩa người dùng nói chung.
+      - source: They can solve the problem without help.
+        cue: The problem
+        cueType: start
+        accepted:
+          - The problem can be solved without help.
+          - The problem can be solved by them without help.
+          - The problem can be solved without help by them.
+        explanationVi: Can solve đổi thành can be solved. Giữ without help để không mất ý tự giải quyết.
+      - source: The teacher gave each student a worksheet.
+        cue: Each student
+        cueType: start
+        accepted:
+          - Each student was given a worksheet by the teacher.
+        explanationVi: Đưa tân ngữ chỉ người lên đầu; each student là số ít nên dùng was given.
+      - source: The librarian did not return the books to the shelf.
+        cue: The books
+        cueType: start
+        accepted:
+          - The books were not returned to the shelf by the librarian.
+          - The books weren't returned to the shelf by the librarian.
+        explanationVi: Bị động phủ định quá khứ là were not returned. Books số nhiều nên dùng were.
+      - source: The storm has destroyed several houses.
+        cue: Several houses
+        cueType: start
+        accepted:
+          - Several houses have been destroyed by the storm.
+        explanationVi: Chủ ngữ bị động several houses là số nhiều, vì vậy has destroyed chuyển thành have
+          been destroyed.
+      - source: The hotel serves breakfast from seven to ten.
+        cue: Breakfast
+        cueType: start
+        accepted:
+          - Breakfast is served from seven to ten by the hotel.
+          - Breakfast is served by the hotel from seven to ten.
+        explanationVi: Breakfast là danh từ không đếm được nên dùng is served. Giữ khoảng giờ phục vụ.
+      - source: A volunteer found the missing dog.
+        cue: The missing dog
+        cueType: start
+        accepted:
+          - The missing dog was found by a volunteer.
+        explanationVi: Find có phân từ found. Bị động quá khứ với dog số ít dùng was found.
+      - source: They are going to replace the old computers.
+        cue: The old computers
+        cueType: start
+        accepted:
+          - The old computers are going to be replaced.
+          - The old computers are going to be replaced by them.
+        explanationVi: Be going to + động từ chuyển thành be going to be + V3 trong câu bị động.
+      - source: Nobody has opened this box.
+        cue: This box
+        cueType: start
+        accepted:
+          - This box has not been opened.
+          - This box has not been opened by anybody.
+          - This box has not been opened by anyone.
+          - This box hasn't been opened.
+          - This box hasn't been opened by anybody.
+          - This box hasn't been opened by anyone.
+        explanationVi: Nobody làm câu gốc mang nghĩa phủ định. Khi chuyển, dùng has not been opened; không
+          dùng by nobody trong đáp án chuẩn này.
+
+  - slug: reported-speech
+    title: Reported speech
+    titleVi: Câu tường thuật
+    cefr: B2
+    explanationVi: >-
+      Lùi thì một bậc, đổi đại từ theo người kể, đổi trạng ngữ thời gian và nơi
+      chốn. Câu hỏi trở về trật tự câu kể, không dùng do/does/did.
+    items:
+      - source: '"I am tired," he said.'
+        cue: He said
+        cueType: start
+        accepted:
+          - He said he was tired.
+          - He said that he was tired.
+        explanationVi: Hiện tại đơn am lùi thành was; I đổi thành he.
+      - source: '"Where do you live?" she asked me.'
+        cue: She asked
+        cueType: start
+        accepted:
+          - She asked me where I lived.
+          - She asked where I lived.
+        explanationVi: >-
+          Câu hỏi tường thuật bỏ do và trở về trật tự câu kể: where I lived,
+          không phải where did I live.
+      - source: '"Don''t open the window," she told me.'
+        cue: not to
+        cueType: keyword
+        accepted:
+          - She told me not to open the window.
+        explanationVi: Mệnh lệnh phủ định dùng tell somebody not to do something.
+      - source: '"I will call you tomorrow," he promised.'
+        cue: He promised
+        cueType: start
+        accepted:
+          - He promised he would call me the next day.
+          - He promised that he would call me the next day.
+        explanationVi: will lùi thành would, tomorrow đổi thành the next day.
+      - source: '"I need a new notebook," Mai said.'
+        cue: Mai said
+        cueType: start
+        accepted:
+          - Mai said that she needed a new notebook.
+          - Mai said she needed a new notebook.
+        explanationVi: Lùi need thành needed và đổi I thành she; that có thể được lược bỏ.
+      - source: '"We are waiting for the train," the tourists said.'
+        cue: The tourists said
+        cueType: start
+        accepted:
+          - The tourists said that they were waiting for the train.
+          - The tourists said they were waiting for the train.
+        explanationVi: Are waiting lùi thành were waiting; we đổi thành they.
+      - source: '"I have finished the form," Alex said.'
+        cue: Alex said
+        cueType: start
+        accepted:
+          - Alex said that he had finished the form.
+          - Alex said he had finished the form.
+        explanationVi: Have finished lùi thành had finished. I trong lời nói của Alex đổi thành he.
+      - source: '"I cannot find my glasses," my father said.'
+        cue: My father said
+        cueType: start
+        accepted:
+          - My father said that he could not find his glasses.
+          - My father said he could not find his glasses.
+          - My father said that he couldn't find his glasses.
+          - My father said he couldn't find his glasses.
+        explanationVi: Cannot lùi thành could not, my đổi thành his để chỉ kính của người cha.
+      - source: '"I will bring dessert," Emma told us.'
+        cue: Emma told us
+        cueType: start
+        accepted:
+          - Emma told us that she would bring dessert.
+          - Emma told us she would bring dessert.
+        explanationVi: Will chuyển thành would; tell giữ người nghe us.
+      - source: '"Do you like spicy food?" the waiter asked me.'
+        cue: The waiter asked me
+        cueType: start
+        accepted:
+          - The waiter asked me if I liked spicy food.
+          - The waiter asked me whether I liked spicy food.
+        explanationVi: Câu hỏi có/không dùng if hoặc whether. Bỏ do và dùng trật tự I liked.
+      - source: '"What time does the shop close?" she asked.'
+        cue: She asked
+        cueType: start
+        accepted:
+          - She asked what time the shop closed.
+        explanationVi: Bỏ does và đưa the shop trước động từ closed; câu hỏi tường thuật không đảo trợ động từ.
+      - source: '"Have you booked a room?" the receptionist asked us.'
+        cue: The receptionist asked us
+        cueType: start
+        accepted:
+          - The receptionist asked us if we had booked a room.
+          - The receptionist asked us whether we had booked a room.
+        explanationVi: Have booked lùi thành had booked. You chỉ us nên đổi thành we.
+      - source: '"Please turn off the lights," the teacher said to me.'
+        cue: The teacher asked me
+        cueType: start
+        accepted:
+          - The teacher asked me to turn off the lights.
+        explanationVi: Yêu cầu có please được tường thuật bằng asked me to + động từ nguyên thể.
+      - source: '"Do not cross the road here," the officer told us.'
+        cue: The officer told us
+        cueType: start
+        accepted:
+          - The officer told us not to cross the road there.
+          - The officer told us not to cross the road here.
+        explanationVi: Mệnh lệnh phủ định dùng not to cross. Here đổi thành there khi thuật ở nơi khác; giữ
+          here nếu vẫn ở địa điểm đó.
+      - source: '"Where did you put the receipt?" Dad asked me.'
+        cue: Dad asked me
+        cueType: start
+        accepted:
+          - Dad asked me where I had put the receipt.
+        explanationVi: Quá khứ đơn put lùi thành had put; bỏ did và giữ trật tự chủ ngữ I trước động từ.
+      - source: '"I was reading when the phone rang," he said.'
+        cue: He said
+        cueType: start
+        accepted:
+          - He said that he had been reading when the phone rang.
+          - He said he had been reading when the phone rang.
+          - He said that he had been reading when the phone had rung.
+          - He said he had been reading when the phone had rung.
+        explanationVi: Was reading lùi thành had been reading. Mệnh đề when thường giữ quá khứ đơn; có thể
+          lùi rang thành had rung khi ngữ cảnh phù hợp.
+      - source: '"You must wear a helmet," the instructor told me.'
+        cue: The instructor told me
+        cueType: start
+        accepted:
+          - The instructor told me that I had to wear a helmet.
+          - The instructor told me I had to wear a helmet.
+        explanationVi: Must chỉ nghĩa vụ đổi thành had to; you chỉ người kể nên đổi thành I.
+      - source: '"We saw a fox," the children said.'
+        cue: The children said
+        cueType: start
+        accepted:
+          - The children said that they had seen a fox.
+          - The children said they had seen a fox.
+        explanationVi: Saw lùi thành had seen; we của những đứa trẻ đổi thành they.
+      - source: '"I may arrive late," Nora said.'
+        cue: Nora said
+        cueType: start
+        accepted:
+          - Nora said that she might arrive late.
+          - Nora said she might arrive late.
+        explanationVi: May chỉ khả năng đổi thành might khi lùi thì; I đổi thành she.
+      - source: '"Can you open the gate?" she asked me.'
+        cue: She asked me
+        cueType: start
+        accepted:
+          - She asked me if I could open the gate.
+          - She asked me whether I could open the gate.
+          - She asked me to open the gate.
+        explanationVi: Nếu hỏi khả năng, dùng if/whether I could; nếu hiểu là lời nhờ mở cổng, có thể dùng
+          asked me to open.
+
+  - slug: conditionals
+    title: Conditionals
+    titleVi: Câu điều kiện
+    cefr: B1
+    explanationVi: >-
+      Loại 1 nói việc có thể xảy ra, loại 2 nói việc tưởng tượng trái hiện tại,
+      loại 3 nói việc trái với quá khứ. unless mang sẵn nghĩa phủ định.
+    items:
+      - source: If you do not hurry, you will miss the bus.
+        cue: Unless
+        cueType: start
+        accepted:
+          - Unless you hurry, you will miss the bus.
+          - Unless you hurry you will miss the bus.
+        explanationVi: >-
+          unless đã mang nghĩa "nếu không", nên mệnh đề sau nó ở dạng khẳng
+          định: unless you hurry, không phải unless you don't hurry.
+      - source: I do not have a car, so I take the bus.
+        cue: If I
+        cueType: start
+        accepted:
+          - If I had a car, I would not take the bus.
+          - If I had a car I would not take the bus.
+        explanationVi: >-
+          Trái với hiện tại nên dùng loại 2: mệnh đề if ở quá khứ đơn, mệnh đề
+          chính dùng would.
+      - source: She did not study, so she failed the exam.
+        cue: If she
+        cueType: start
+        accepted:
+          - If she had studied, she would have passed the exam.
+          - If she had studied she would have passed the exam.
+        explanationVi: >-
+          Trái với quá khứ nên dùng loại 3: had + V3 ở mệnh đề if, would have +
+          V3 ở mệnh đề chính. failed đổi thành passed vì câu đảo nghĩa.
+      - source: If you do not save your work, you will lose it.
+        cue: Unless you
+        cueType: start
+        accepted:
+          - Unless you save your work, you will lose it.
+        explanationVi: Unless đã có nghĩa nếu không; bỏ do not nhưng giữ mệnh đề kết quả.
+      - source: Unless it rains, we will have a picnic.
+        cue: If it
+        cueType: start
+        accepted:
+          - If it does not rain, we will have a picnic.
+          - If it doesn't rain, we will have a picnic.
+        explanationVi: Unless it rains đổi thành if it does not rain, vẫn dùng hiện tại đơn trong mệnh đề if.
+      - source: If we do not leave now, we will be late.
+        cue: Unless we
+        cueType: start
+        accepted:
+          - Unless we leave now, we will be late.
+        explanationVi: Unless we leave tương đương if we do not leave; mệnh đề chính giữ will be late.
+      - source: If the customer does not pay today, we will cancel the order.
+        cue: Unless the customer
+        cueType: start
+        accepted:
+          - Unless the customer pays today, we will cancel the order.
+        explanationVi: Bỏ does not khi dùng unless. Chủ ngữ số ít nên pay phải thành pays.
+      - source: Unless you show your ticket, you cannot enter.
+        cue: If you
+        cueType: start
+        accepted:
+          - If you do not show your ticket, you cannot enter.
+          - If you don't show your ticket, you cannot enter.
+        explanationVi: Unless chuyển thành if ... not. Can trong mệnh đề chính giữ nguyên ý về điều kiện được vào.
+      - source: If I were you, I would not sign this contract.
+        cue: In your position,
+        cueType: start
+        accepted:
+          - In your position, I would not sign this contract.
+          - In your position, I wouldn't sign this contract.
+        explanationVi: In your position có nghĩa đặt mình vào vị trí của bạn, giữ nguyên lời khuyên với would not.
+      - source: Without your help, I would fail.
+        cue: If you
+        cueType: start
+        accepted:
+          - If you did not help me, I would fail.
+          - If you were not helping me, I would fail.
+          - If you didn't help me, I would fail.
+          - If you weren't helping me, I would fail.
+        explanationVi: Without your help tương đương điều kiện giả định nếu bạn không giúp tôi; mệnh đề kết
+          quả giữ would fail.
+      - source: Without a map, we would get lost.
+        cue: If we
+        cueType: start
+        accepted:
+          - If we did not have a map, we would get lost.
+          - If we didn't have a map, we would get lost.
+        explanationVi: Without a map đổi thành if we did not have a map. Đây là giả định dùng câu điều kiện loại 2.
+      - source: If she were not so busy, she could join us.
+        cue: Unless she
+        cueType: start
+        accepted:
+          - Unless she were so busy, she could join us.
+        explanationVi: Unless she were so busy mang nghĩa if she were not so busy; không thêm not sau unless.
+      - source: If you do not water this plant, it will die.
+        cue: Unless you
+        cueType: start
+        accepted:
+          - Unless you water this plant, it will die.
+        explanationVi: Bỏ do not vì unless đã chứa nghĩa phủ định, giữ will die cho kết quả.
+      - source: If he does not apologise, I will not speak to him.
+        cue: Unless he
+        cueType: start
+        accepted:
+          - Unless he apologises, I will not speak to him.
+          - Unless he apologises, I won't speak to him.
+        explanationVi: Does not apologise chuyển thành apologises sau unless. Phủ định trong mệnh đề chính
+          vẫn giữ nguyên.
+      - source: Without the extra key, we could not have entered the house.
+        cue: If we
+        cueType: start
+        accepted:
+          - If we had not had the extra key, we could not have entered the house.
+          - If we had not had the extra key, we couldn't have entered the house.
+          - If we hadn't had the extra key, we could not have entered the house.
+        explanationVi: Điều kiện trái quá khứ dùng had not had; had thứ nhất là trợ động từ, had thứ hai là
+          phân từ của have.
+      - source: But for the warning, they would have touched the live wire.
+        cue: If they
+        cueType: start
+        accepted:
+          - If they had not received the warning, they would have touched the live wire.
+          - If they hadn't received the warning, they would have touched the live wire.
+        explanationVi: But for the warning có nghĩa nếu không có lời cảnh báo. Câu điều kiện loại 3 dùng had
+          not received.
+      - source: Had I known the answer, I would have told you.
+        cue: If I
+        cueType: start
+        accepted:
+          - If I had known the answer, I would have told you.
+        explanationVi: Đưa câu đảo ngữ Had I known về dạng thông thường If I had known; giữ nguyên kết quả.
+      - source: If she had checked the timetable, she would not have missed the train.
+        cue: Had she
+        cueType: start
+        accepted:
+          - Had she checked the timetable, she would not have missed the train.
+          - Had she checked the timetable, she wouldn't have missed the train.
+        explanationVi: "Đảo ngữ loại 3: bỏ if và đưa had lên trước she; checked giữ nguyên."
+      - source: If you happen to find my keys, please call me.
+        cue: Should you
+        cueType: start
+        accepted:
+          - Should you happen to find my keys, please call me.
+        explanationVi: Should you happen to... là dạng đảo ngữ diễn tả khả năng có thể xảy ra, tương đương
+          if you happen to...
+      - source: Unless the weather improves, the match will be postponed.
+        cue: If the weather
+        cueType: start
+        accepted:
+          - If the weather does not improve, the match will be postponed.
+          - If the weather doesn't improve, the match will be postponed.
+        explanationVi: Unless đổi thành if ... does not với weather số ít. Mệnh đề bị động tương lai giữ nguyên.
+
+  - slug: comparison
+    title: Comparison
+    titleVi: So sánh
+    cefr: A2
+    explanationVi: >-
+      So sánh hơn dùng -er hoặc more; so sánh bằng dùng as ... as. Phủ định của
+      so sánh bằng là not as ... as, tương đương so sánh hơn đảo chiều.
+    items:
+      - source: This book is more interesting than that one.
+        cue: as
+        cueType: keyword
+        accepted:
+          - That one is not as interesting as this book.
+          - That book is not as interesting as this one.
+        explanationVi: >-
+          Đảo chủ ngữ rồi dùng not as ... as. Chú ý phải đổi chỗ hai đối tượng,
+          không thì nghĩa ngược lại.
+      - source: Nam runs faster than Minh.
+        cue: as fast as
+        cueType: keyword
+        accepted:
+          - Minh does not run as fast as Nam.
+        explanationVi: Đảo chủ ngữ, dùng does not run as fast as.
+      - source: No river in Vietnam is longer than the Mekong.
+        cue: the longest
+        cueType: keyword
+        accepted:
+          - The Mekong is the longest river in Vietnam.
+        explanationVi: >-
+          Cấu trúc "No ... is + so sánh hơn" tương đương so sánh nhất.
+      - source: The blue suitcase is heavier than the red one.
+        cue: The red suitcase
+        cueType: start
+        accepted:
+          - The red suitcase is not as heavy as the blue one.
+          - The red suitcase is lighter than the blue one.
+          - The red suitcase isn't as heavy as the blue one.
+        explanationVi: "Đổi chiều so sánh: vali đỏ không nặng bằng hoặc nhẹ hơn vali xanh."
+      - source: This chair is less comfortable than that chair.
+        cue: as comfortable as
+        cueType: keyword
+        accepted:
+          - This chair is not as comfortable as that chair.
+          - This chair isn't as comfortable as that chair.
+        explanationVi: Less comfortable than tương đương not as comfortable as; không đổi vị trí hai chiếc ghế.
+      - source: A bicycle is cheaper than a motorbike.
+        cue: A motorbike
+        cueType: start
+        accepted:
+          - A motorbike is more expensive than a bicycle.
+          - A motorbike is not as cheap as a bicycle.
+          - A motorbike isn't as cheap as a bicycle.
+        explanationVi: Đổi đối tượng đứng đầu và dùng tính từ ngược nghĩa hoặc not as cheap as.
+      - source: My room and your room are the same size.
+        cue: as big as
+        cueType: keyword
+        accepted:
+          - My room is as big as your room.
+        explanationVi: The same size diễn tả kích thước bằng nhau, tương đương as big as.
+      - source: This exercise is easier than the previous one.
+        cue: The previous exercise
+        cueType: start
+        accepted:
+          - The previous exercise is more difficult than this one.
+          - The previous exercise is harder than this one.
+          - The previous exercise is not as easy as this one.
+          - The previous exercise isn't as easy as this one.
+        explanationVi: Bài trước khó hơn tương đương bài này dễ hơn; có thể dùng more difficult, harder hoặc
+          not as easy.
+      - source: No other student in the class is as tall as Bao.
+        cue: the tallest
+        cueType: keyword
+        accepted:
+          - Bao is the tallest student in the class.
+        explanationVi: Không học sinh nào khác cao bằng Bao nghĩa là Bao cao nhất lớp.
+      - source: Linh speaks more clearly than I do.
+        cue: I do not
+        cueType: start
+        accepted:
+          - I do not speak as clearly as Linh.
+        explanationVi: Đảo hai người rồi dùng do not speak as clearly as. Clearly là trạng từ bổ nghĩa cho speak.
+      - source: The bus journey takes longer than the train journey.
+        cue: The train journey
+        cueType: start
+        accepted:
+          - The train journey takes less time than the bus journey.
+          - The train journey does not take as long as the bus journey.
+          - The train journey doesn't take as long as the bus journey.
+        explanationVi: Tàu mất ít thời gian hơn tương đương xe buýt mất lâu hơn.
+      - source: There is no cheaper phone in this shop than this one.
+        cue: the cheapest
+        cueType: keyword
+        accepted:
+          - This is the cheapest phone in this shop.
+        explanationVi: Không có điện thoại nào rẻ hơn chiếc này nên có thể dùng so sánh nhất the cheapest.
+      - source: Her old laptop was slower than her new one.
+        cue: Her new laptop
+        cueType: start
+        accepted:
+          - Her new laptop was faster than her old one.
+          - Her new laptop was not as slow as her old one.
+          - Her new laptop wasn't as slow as her old one.
+        explanationVi: Giữ thì quá khứ was và đổi chiều so sánh. Slow đổi sang fast hoặc not as slow.
+      - source: Both roads are equally wide.
+        cue: as wide as
+        cueType: keyword
+        accepted:
+          - One road is as wide as the other.
+        explanationVi: Equally wide nghĩa là rộng bằng nhau; dùng as wide as để so sánh hai con đường.
+      - source: My brother is not as patient as my sister.
+        cue: My sister
+        cueType: start
+        accepted:
+          - My sister is more patient than my brother.
+        explanationVi: Not as patient as chuyển thành more patient than khi đổi vị trí hai người.
+      - source: Nothing in the bag is more valuable than the camera.
+        cue: the most valuable
+        cueType: keyword
+        accepted:
+          - The camera is the most valuable thing in the bag.
+        explanationVi: Không đồ vật nào trong túi giá trị hơn máy ảnh nên dùng the most valuable thing.
+      - source: The second test was worse than the first test.
+        cue: The first test
+        cueType: start
+        accepted:
+          - The first test was better than the second test.
+          - The first test was not as bad as the second test.
+          - The first test wasn't as bad as the second test.
+        explanationVi: Worse là so sánh hơn của bad; đổi chiều thành better hoặc not as bad.
+      - source: I have fewer books than you.
+        cue: You have
+        cueType: start
+        accepted:
+          - You have more books than I do.
+          - You have more books than me.
+        explanationVi: Fewer dùng với danh từ đếm được books. Đảo hai người và đổi fewer thành more.
+      - source: This bottle contains less water than that one.
+        cue: That bottle
+        cueType: start
+        accepted:
+          - That bottle contains more water than this one.
+          - That bottle contains more water than this bottle.
+        explanationVi: Water không đếm được. Khi đổi đối tượng đứng đầu, less chuyển thành more.
+      - source: No other route to the station is as short as this one.
+        cue: the shortest
+        cueType: keyword
+        accepted:
+          - This is the shortest route to the station.
+        explanationVi: Không tuyến nào khác ngắn bằng tuyến này nghĩa là nó ngắn nhất; dùng the shortest.
+
+  - slug: present-perfect-duration
+    title: Present perfect and duration
+    titleVi: Viết lại câu với hiện tại hoàn thành
+    cefr: B1
+    explanationVi: Đổi mốc bắt đầu thành thời gian kéo dài với since hoặc for; chọn hiện tại hoàn thành
+      đơn hoặc tiếp diễn phù hợp với động từ. Giữ nguyên nghĩa và thời điểm trong câu gốc.
+    items:
+      - source: I started learning Spanish three years ago. This activity is still continuing now.
+        cue: I have
+        cueType: start
+        accepted:
+          - I have learned Spanish for three years.
+          - I have learnt Spanish for three years.
+          - I have been learning Spanish for three years.
+        explanationVi: Đổi động từ bắt đầu ở quá khứ đơn sang thì hiện tại hoàn thành với 'for' để chỉ
+          khoảng thời gian kéo dài từ quá khứ đến nay.
+      - source: She began working at this company in 2018. This activity is still continuing now.
+        cue: She has
+        cueType: start
+        accepted:
+          - She has worked at this company since 2018.
+          - She has been working at this company since 2018.
+        explanationVi: Dùng 'since' kèm mốc thời gian cụ thể (2018) đi với hiện tại hoàn thành để thay thế
+          cho hành động bắt đầu trong quá khứ.
+      - source: You still live in this neighborhood. When did you start living here?
+        cue: How long
+        cueType: start
+        accepted:
+          - How long have you lived in this neighborhood?
+          - How long have you been living in this neighborhood?
+        explanationVi: Chuyển câu hỏi thời điểm bắt đầu với 'When did' thành câu hỏi khoảng thời gian với
+          'How long' dùng thì hiện tại hoàn thành.
+      - source: We last visited our grandparents two months ago.
+        cue: We haven't
+        cueType: start
+        accepted:
+          - We haven't visited our grandparents for two months.
+        explanationVi: Chuyển đổi từ lần cuối làm gì sang hiện tại hoàn thành phủ định với 'for' để chỉ
+          khoảng thời gian không thực hiện hành động đó.
+      - source: He is playing the piano. He started playing it two hours ago.
+        cue: He has
+        cueType: start
+        accepted:
+          - He has played the piano for two hours.
+          - He has been playing the piano for two hours.
+        explanationVi: Kết hợp hai câu diễn tả hành động bắt đầu từ 2 tiếng trước và vẫn đang tiếp diễn
+          thành thì hiện tại hoàn thành hoặc hiện tại hoàn thành tiếp diễn với 'for'.
+      - source: It is three years since I last ate fast food.
+        cue: I haven't
+        cueType: start
+        accepted:
+          - I haven't eaten fast food for three years.
+        explanationVi: Đổi cấu trúc 'It is [khoảng thời gian] since...' thành câu hiện tại hoàn thành phủ
+          định với 'for'.
+      - source: My father started repairing the car an hour ago, and he is still doing it.
+        cue: My father has
+        cueType: start
+        accepted:
+          - My father has been repairing the car for an hour.
+        explanationVi: Hoạt động sửa xe bắt đầu một giờ trước và vẫn đang tiếp tục, nên dùng hiện tại hoàn
+          thành tiếp diễn has been repairing.
+      - source: The last time she wrote a poem was in January.
+        cue: She hasn't
+        cueType: start
+        accepted:
+          - She hasn't written a poem since January.
+        explanationVi: Chuyển đổi từ 'The last time... was [mốc thời gian]' sang 'hasn't... since [mốc thời gian]'.
+      - source: They moved to London five years ago and still live there.
+        cue: They have
+        cueType: start
+        accepted:
+          - They have lived in London for five years.
+          - They have been living in London for five years.
+        explanationVi: Sử dụng hiện tại hoàn thành với 'for' để chỉ thời gian sinh sống tại một nơi tính từ
+          quá khứ đến nay.
+      - source: I started to collect stamps when I was ten years old. This activity is still continuing now.
+        cue: I have
+        cueType: start
+        accepted:
+          - I have collected stamps since I was ten years old.
+          - I have been collecting stamps since I was ten years old.
+        explanationVi: Dùng mốc thời gian dạng mệnh đề 'since I was ten' đi với hiện tại hoàn thành để diễn
+          tả sở thích kéo dài.
+      - source: You still own the smartphone you bought. How long is it since you bought it?
+        cue: How long
+        cueType: start
+        accepted:
+          - How long have you had this smartphone?
+        explanationVi: Chuyển câu hỏi 'How long is it since...' thành 'How long have you [bought -> had]' để
+          chỉ khoảng thời gian sở hữu vật dụng.
+      - source: She hasn't spoken to her uncle for two weeks.
+        cue: The last time
+        cueType: start
+        accepted:
+          - The last time she spoke to her uncle was two weeks ago.
+        explanationVi: Đổi ngược từ câu hiện tại hoàn thành phủ định với 'for' sang cấu trúc 'The last
+          time... was... ago'.
+      - source: Tom began studying French in 2021. This activity is still continuing now.
+        cue: Tom has
+        cueType: start
+        accepted:
+          - Tom has studied French since 2021.
+          - Tom has been studying French since 2021.
+        explanationVi: Thay thế 'began... in 2021' bằng thì hiện tại hoàn thành kết hợp với 'since 2021'.
+      - source: We met ten years ago and are still close friends.
+        cue: It is
+        cueType: start
+        accepted:
+          - It is ten years since we met, and we are still close friends.
+        explanationVi: Dùng cấu trúc 'It is + [khoảng thời gian] + since + quá khứ đơn' để viết lại sự việc
+          bắt đầu từ quá khứ.
+      - source: I haven't seen such a brilliant film for a long time.
+        cue: It has been
+        cueType: start
+        accepted:
+          - It has been a long time since I last saw such a brilliant film.
+        explanationVi: Chuyển đổi câu phủ định chứa 'for a long time' sang cấu trúc 'It has been + khoảng
+          thời gian + since + quá khứ đơn'.
+      - source: He started his new job last Monday. This activity is still continuing now.
+        cue: He has
+        cueType: start
+        accepted:
+          - He has worked at his new job since last Monday.
+          - He has had his new job since last Monday.
+        explanationVi: Đổi mốc thời gian bắt đầu 'last Monday' thành cấu trúc dùng 'since' với thì hiện tại
+          hoàn thành.
+      - source: You are still an active member of this club. When did you start participating in it?
+        cue: How long
+        cueType: start
+        accepted:
+          - How long have you participated in this club?
+          - How long have you been participating in this club?
+        explanationVi: Đổi câu hỏi với 'When did... start' thành câu hỏi 'How long have you...' để hỏi về
+          thời gian kéo dài.
+      - source: She started following a vegetarian diet in 2020. This activity is still continuing now.
+        cue: She has
+        cueType: start
+        accepted:
+          - She has followed a vegetarian diet since 2020.
+          - She has been following a vegetarian diet since 2020.
+        explanationVi: Dùng thì hiện tại hoàn thành với 'since' để thay thế cho hành động bắt đầu ăn chay từ
+          năm 2020.
+      - source: They started building this bridge in 2021, and construction is still in progress.
+        cue: since
+        cueType: keyword
+        accepted:
+          - They have been building this bridge since 2021.
+        explanationVi: Since đi với mốc bắt đầu 2021. Công việc xây cầu chưa kết thúc nên dùng have been building.
+      - source: The last time I wrote to my uncle was months ago.
+        cue: for
+        cueType: keyword
+        accepted:
+          - I haven't written to my uncle for months.
+        explanationVi: Dùng từ khóa 'for' để viết lại khoảng thời gian không liên lạc với người thân bằng
+          thì hiện tại hoàn thành.
+  - slug: relative-clause-combining
+    title: Combining sentences with relative clauses
+    titleVi: Nối câu bằng mệnh đề quan hệ
+    cefr: B1
+    explanationVi: Dùng who cho người, which cho vật và whose để chỉ sở hữu. Bỏ đại từ bị lặp và giữ
+      giới từ cần thiết; dùng dấu phẩy cho thông tin bổ sung.
+    items:
+      - source: The man is a famous architect. He designed this modern building.
+        cue: The man who
+        cueType: start
+        accepted:
+          - The man who designed this modern building is a famous architect.
+        explanationVi: Dùng 'who' hoặc 'that' để thay thế cho danh từ chỉ người 'the man' làm chủ ngữ trong
+          mệnh đề quan hệ.
+      - source: We visited a museum last week. It houses ancient artifacts.
+        cue: The museum which
+        cueType: start
+        accepted:
+          - The museum which we visited last week houses ancient artifacts.
+        explanationVi: Dùng 'which' hoặc 'that' (hoặc lược bỏ) để thay thế cho vật 'the museum' làm tân ngữ
+          trong mệnh đề quan hệ.
+      - source: She met a writer. His latest novel became a bestseller.
+        cue: She met a writer whose
+        cueType: start
+        accepted:
+          - She met a writer whose latest novel became a bestseller.
+        explanationVi: Dùng 'whose' để chỉ sự sở hữu (tiểu thuyết của nhà văn đó) thay thế cho đại từ 'His'.
+      - source: This is the cafe. I first met my best friend there.
+        cue: This is the cafe where
+        cueType: start
+        accepted:
+          - This is the cafe where I first met my best friend.
+        explanationVi: Dùng 'where' (hoặc 'in which') để chỉ địa điểm nơi chốn.
+      - source: I will never forget the day. I graduated from university then.
+        cue: I will never forget the day when
+        cueType: start
+        accepted:
+          - I will never forget the day when I graduated from university.
+        explanationVi: Dùng 'when' để thay thế cho trạng ngữ chỉ thời gian 'then' (ngày mà tôi tốt nghiệp).
+      - source: My uncle is a chef. He lives in Paris.
+        cue: My uncle,
+        cueType: start
+        accepted:
+          - My uncle, who lives in Paris, is a chef.
+          - My uncle, who is a chef, lives in Paris.
+          - My uncle, who is a chef, lives in Paris.
+        explanationVi: Dùng mệnh đề quan hệ không xác định có dấu phẩy để cung cấp thêm thông tin về một
+          người cụ thể.
+      - source: Our local library is closing for repairs. It was built in 1920.
+        cue: Our local library,
+        cueType: start
+        accepted:
+          - Our local library, which was built in 1920, is closing for repairs.
+          - Our local library, which is closing for repairs, was built in 1920.
+          - Our local library, which is closing for repairs, was built in 1920.
+        explanationVi: Dùng 'which' trong mệnh đề quan hệ không xác định để bổ sung thông tin cho vật ('our
+          local library').
+      - source: The woman is my aunt. You were talking to her.
+        cue: The woman to
+        cueType: start
+        accepted:
+          - The woman to whom you were talking is my aunt.
+        explanationVi: Đưa giới từ 'to' lên trước đại từ quan hệ 'whom' trong văn phong trang trọng.
+      - source: I lost the watch. My parents gave it to me for my birthday.
+        cue: I lost the watch that
+        cueType: start
+        accepted:
+          - I lost the watch that my parents gave to me for my birthday.
+          - I lost the watch that my parents gave me for my birthday.
+          - I lost the watch that my parents gave me for my birthday.
+        explanationVi: Dùng 'that', 'which' hoặc bỏ trống đại từ quan hệ khi nó đóng vai trò tân ngữ.
+      - source: The software helps students learn English. It was developed by a team of experts.
+        cue: The software that
+        cueType: start
+        accepted:
+          - The software that was developed by a team of experts helps students learn English.
+        explanationVi: Kết hợp hai câu bằng mệnh đề quan hệ chủ ngữ chỉ vật với 'that' hoặc 'which'.
+      - source: We stayed at a hotel. Its rooftop pool offered a stunning view.
+        cue: We stayed at a hotel whose
+        cueType: start
+        accepted:
+          - We stayed at a hotel whose rooftop pool offered a stunning view.
+        explanationVi: Dùng 'whose' để thay thế cho tính từ sở hữu 'Its' chỉ sự sở hữu của khách sạn.
+      - source: The town is very peaceful. I grew up in this town.
+        cue: The town where
+        cueType: start
+        accepted:
+          - The town where I grew up is very peaceful.
+        explanationVi: Dùng 'where' để thay thế cho trạng ngữ chỉ nơi chốn trong câu.
+      - source: The boy won the science competition. I lent him my calculator.
+        cue: The boy to
+        cueType: start
+        accepted:
+          - The boy to whom I lent my calculator won the science competition.
+        explanationVi: Dùng 'whom' sau giới từ 'to' để chỉ người nhận vật trong mệnh đề quan hệ.
+      - source: Dr. Evans is an expert in marine biology. She gave a fascinating lecture yesterday.
+        cue: Dr. Evans,
+        cueType: start
+        accepted:
+          - Dr. Evans, who is an expert in marine biology, gave a fascinating lecture yesterday.
+          - Dr. Evans, who gave a fascinating lecture yesterday, is an expert in marine biology.
+          - Dr. Evans, who gave a fascinating lecture yesterday, is an expert in marine biology.
+        explanationVi: Sử dụng mệnh đề quan hệ không xác định với 'who' ngăn cách bởi dấu phẩy.
+      - source: Summer is the season in this region. Temperatures often exceed 40 degrees then.
+        cue: Summer is the season when
+        cueType: start
+        accepted:
+          - Summer is the season when temperatures often exceed 40 degrees in this region.
+        explanationVi: Dùng 'when' để nối mệnh đề chỉ thời điểm mùa hè.
+      - source: The battery in my smartphone drains very quickly. I bought the smartphone only six months
+          ago.
+        cue: My smartphone,
+        cueType: start
+        accepted:
+          - My smartphone, which I bought only six months ago, has a battery that drains very quickly.
+          - My smartphone, which I bought only six months ago, has a battery which drains very quickly.
+        explanationVi: Which bổ sung thời điểm mua điện thoại. Giữ rõ battery là thứ nhanh hết điện, không
+          biến điện thoại thành chủ thể của drains.
+      - source: The students submitted their essays on time. They will receive extra credit.
+        cue: The students who
+        cueType: start
+        accepted:
+          - The students who submitted their essays on time will receive extra credit.
+        explanationVi: Dùng 'who' hoặc 'that' thay thế cho chủ ngữ chỉ người 'the students'.
+      - source: Here is the report. You asked me to finish it by noon.
+        cue: Here is the report that
+        cueType: start
+        accepted:
+          - Here is the report that you asked me to finish by noon.
+        explanationVi: Dùng 'that', 'which' hoặc lược bỏ đại từ khi nó làm tân ngữ của động từ 'finish'.
+      - source: This is the laboratory. Scientists conduct experiments here.
+        cue: This is the laboratory in
+        cueType: start
+        accepted:
+          - This is the laboratory in which scientists conduct experiments.
+        explanationVi: Dùng cụm giới từ 'in which' thay cho trạng ngữ chỉ nơi chốn 'here'.
+      - source: The artist organized a charity art show. Her paintings are world-famous.
+        cue: The artist whose
+        cueType: start
+        accepted:
+          - The artist whose paintings are world-famous organized a charity art show.
+        explanationVi: Dùng 'whose' để thay thế cho tính từ sở hữu 'Her' của người họa sĩ.
+  - slug: although-despite
+    title: Although, despite and in spite of
+    titleVi: Viết lại câu chỉ sự nhượng bộ
+    cefr: B1
+    explanationVi: Although và even though đi với mệnh đề có chủ ngữ và động từ; despite và in spite of
+      đi với danh từ hoặc V-ing. Khi đổi cấu trúc, giữ rõ chủ thể thực hiện hành động.
+    items:
+      - source: Although it rained heavily, we went camping.
+        cue: Despite
+        cueType: start
+        accepted:
+          - Despite the heavy rain, we went camping.
+          - Despite the fact that it rained heavily, we went camping.
+        explanationVi: Đổi mệnh đề 'it rained heavily' thành cụm danh từ 'the heavy rain' hoặc danh động từ
+          'raining heavily' sau despite.
+      - source: She passed the exam, although she didn't study hard.
+        cue: Despite
+        cueType: start
+        accepted:
+          - Despite not studying hard, she passed the exam.
+        explanationVi: Dùng dạng phủ định của V-ing (not studying hard) đi sau despite để chỉ sự nhượng bộ.
+      - source: Despite having little money, they are very happy.
+        cue: Although
+        cueType: start
+        accepted:
+          - Although they have little money, they are very happy.
+        explanationVi: Biến đổi cụm V-ing 'having little money' thành mệnh đề đầy đủ đi với although.
+      - source: Although he is young, he is a talented manager.
+        cue: Despite
+        cueType: start
+        accepted:
+          - Despite his youth, he is a talented manager.
+          - Despite being young, he is a talented manager.
+        explanationVi: Tính từ 'young' được chuyển thành danh từ 'youth' hoặc cụm 'being young' theo sau despite.
+      - source: In spite of her fear of heights, she climbed the tower.
+        cue: Although
+        cueType: start
+        accepted:
+          - Although she was afraid of heights, she climbed the tower.
+        explanationVi: Danh từ 'fear of heights' được biến đổi thành mệnh đề tính từ đầy đủ 'she was afraid
+          of heights'.
+      - source: Although the traffic was terrible, I arrived on time.
+        cue: In spite of
+        cueType: start
+        accepted:
+          - In spite of the terrible traffic, I arrived on time.
+        explanationVi: Mệnh đề 'the traffic was terrible' rút gọn thành cụm danh từ 'the terrible traffic'.
+      - source: Despite the freezing weather, they went for a walk.
+        cue: Even though
+        cueType: start
+        accepted:
+          - Even though the weather was freezing, they went for a walk.
+        explanationVi: Cụm danh từ 'the freezing weather' được chuyển thành mệnh đề đầy đủ 'the weather was
+          freezing'.
+      - source: Although she felt exhausted, she completed the report.
+        cue: In spite of
+        cueType: start
+        accepted:
+          - In spite of feeling exhausted, she completed the report.
+          - In spite of her exhaustion, she completed the report.
+        explanationVi: Tính từ 'exhausted' đổi thành danh từ 'exhaustion' hoặc dạng V-ing 'feeling exhausted'.
+      - source: In spite of losing the match, the team celebrated.
+        cue: Although
+        cueType: start
+        accepted:
+          - Although the team lost the match, they celebrated.
+          - Although they lost the match, the team celebrated.
+        explanationVi: Chuyển cấu trúc V-ing 'losing the match' thành mệnh đề hoàn chỉnh với chủ ngữ tương ứng.
+      - source: Although prices are high, demand remains strong.
+        cue: Despite
+        cueType: start
+        accepted:
+          - Despite high prices, demand remains strong.
+          - Despite the high prices, demand remains strong.
+        explanationVi: Chuyển mệnh đề 'prices are high' thành cụm danh từ 'high prices' hoặc 'the high prices'.
+      - source: Despite knowing the risks, he started the dangerous project.
+        cue: Although
+        cueType: start
+        accepted:
+          - Although he knew the risks, he started the dangerous project.
+        explanationVi: Dạng V-ing 'knowing the risks' được mở rộng thành mệnh đề có chủ ngữ và động từ chia
+          thì quá khứ.
+      - source: Although she was late, the manager didn't fire her.
+        cue: Despite
+        cueType: start
+        accepted:
+          - Despite her lateness, the manager didn't fire her.
+          - Despite the fact that she was late, the manager didn't fire her.
+        explanationVi: Dùng her lateness để giữ rõ người đến muộn là cô ấy. Despite being late, the
+          manager... sẽ khiến người đến muộn thành quản lý, sai nghĩa câu gốc.
+      - source: In spite of his severe injury, he played the final game.
+        cue: Although
+        cueType: start
+        accepted:
+          - Although he was severely injured, he played the final game.
+          - Although his injury was severe, he played the final game.
+        explanationVi: Cụm danh từ 'his severe injury' được triển khai thành mệnh đề trạng ngữ đầy đủ.
+      - source: Although the novel was long, it was fascinating.
+        cue: In spite of
+        cueType: start
+        accepted:
+          - In spite of its length, the novel was fascinating.
+          - In spite of the novel being long, it was fascinating.
+        explanationVi: Chuyển tính từ 'long' thành danh từ 'length' hoặc dùng cấu trúc sở hữu sau in spite of.
+      - source: Despite speaking fluent French, she struggled in Paris.
+        cue: Although
+        cueType: start
+        accepted:
+          - Although she spoke fluent French, she struggled in Paris.
+        explanationVi: Chuyển động từ dạng V-ing 'speaking' thành động từ chia thì quá khứ 'spoke' trong
+          mệnh đề although.
+      - source: Although they had no prior experience, they got the contract.
+        cue: Despite
+        cueType: start
+        accepted:
+          - Despite having no prior experience, they got the contract.
+          - Despite their lack of prior experience, they got the contract.
+        explanationVi: Biến mệnh đề 'they had no prior experience' thành cụm danh từ hoặc danh động từ sau despite.
+      - source: In spite of the loud noise, I managed to sleep soundly.
+        cue: Even though
+        cueType: start
+        accepted:
+          - Even though it was very noisy, I managed to sleep soundly.
+          - Even though the noise was loud, I managed to sleep soundly.
+        explanationVi: Biến đổi cụm danh từ 'the loud noise' thành mệnh đề với chủ ngữ và động từ.
+      - source: Although he promised to help, he never showed up.
+        cue: Despite
+        cueType: start
+        accepted:
+          - Despite promising to help, he never showed up.
+          - Despite his promise to help, he never showed up.
+        explanationVi: Chuyển động từ 'promised' thành danh động từ 'promising' hoặc danh từ 'promise' sau despite.
+      - source: Despite being a millionaire, he lives in a small apartment.
+        cue: Although
+        cueType: start
+        accepted:
+          - Although he is a millionaire, he lives in a small apartment.
+        explanationVi: Cụm danh động từ 'being a millionaire' được mở rộng thành mệnh đề đầy đủ 'he is a
+          millionaire'.
+      - source: Although she studied medicine, she became a professional artist.
+        cue: In spite of
+        cueType: start
+        accepted:
+          - In spite of having studied medicine, she became a professional artist.
+          - In spite of her medical studies, she became a professional artist.
+        explanationVi: Biến đổi mệnh đề 'she studied medicine' thành danh động từ 'studying medicine' hoặc
+          danh từ tương đương.
+  - slug: used-to-habits
+    title: Past habits with used to
+    titleVi: Thói quen cũ với used to
+    cefr: B1
+    explanationVi: Used to + động từ nguyên thể diễn tả thói quen hoặc trạng thái trong quá khứ không
+      còn đúng hiện nay. Sau did hoặc did not dùng use to.
+    items:
+      - source: He smoked twenty cigarettes a day, but he quit last year.
+        cue: He used
+        cueType: start
+        accepted:
+          - He used to smoke twenty cigarettes a day until he quit last year.
+        explanationVi: Dùng 'used to + V' để diễn tả thói quen hút thuốc trong quá khứ nay đã chấm dứt.
+      - source: Did you have long hair when you were at school?
+        cue: Did you
+        cueType: start
+        accepted:
+          - Did you use to have long hair when you were at school?
+        explanationVi: Trong câu hỏi về thói quen quá khứ, ta dùng trợ động từ 'Did' đi với 'use to' (không có 'd').
+      - source: She didn't like eating fish as a child, but now she enjoys it.
+        cue: She didn't
+        cueType: start
+        accepted:
+          - She didn't use to like eating fish as a child, but now she enjoys it.
+        explanationVi: Dạng phủ định của 'used to' là 'didn't use to' kết hợp với động từ nguyên thể.
+      - source: There was a tall tree in our garden before a storm knocked it down.
+        cue: There used
+        cueType: start
+        accepted:
+          - There used to be a tall tree in our garden before a storm knocked it down.
+        explanationVi: Cấu trúc 'there used to be' chỉ sự tồn tại của sự vật trong quá khứ nay không còn.
+      - source: I got up early every morning when I worked on the farm.
+        cue: I used
+        cueType: start
+        accepted:
+          - I used to get up early every morning when I worked on the farm.
+        explanationVi: Sử dụng 'used to get' để thuật lại thói quen dậy sớm lặp lại thường xuyên trong quá khứ.
+      - source: My grandfather wore a hat whenever he went outside.
+        cue: My grandfather used
+        cueType: start
+        accepted:
+          - My grandfather used to wear a hat whenever he went outside.
+        explanationVi: Dùng 'used to wear' để nói về hành động mang tính thói quen của ông trong quá khứ.
+      - source: We didn't have a computer at home ten years ago.
+        cue: We didn't
+        cueType: start
+        accepted:
+          - We didn't use to have a computer at home ten years ago.
+        explanationVi: Thể phủ định 'didn't use to have' diễn tả sự thiếu vắng một vật sở hữu trong quá khứ.
+      - source: In those days, children played outside instead of playing video games.
+        cue: Children used
+        cueType: start
+        accepted:
+          - Children used to play outside instead of playing video games.
+        explanationVi: Dùng 'used to play' để phản ánh thói quen vui chơi ngoài trời phổ biến trước đây.
+      - source: She lived in Paris before she moved to New York.
+        cue: She used
+        cueType: start
+        accepted:
+          - She used to live in Paris before she moved to New York.
+        explanationVi: Động từ trạng thái 'live' được dùng với 'used to' để chỉ nơi sinh sống trong quá khứ.
+      - source: The city was much quieter twenty years ago.
+        cue: The city used
+        cueType: start
+        accepted:
+          - The city used to be much quieter twenty years ago.
+        explanationVi: Cấu trúc 'used to be + tính từ' diễn tả trạng thái đặc điểm của thành phố trong quá khứ.
+      - source: He was a lazy student, but now he studies hard.
+        cue: He used
+        cueType: start
+        accepted:
+          - He used to be a lazy student, but now he studies hard.
+        explanationVi: Dùng 'used to be' để chỉ tính cách hoặc đặc điểm con người trong quá khứ nay đã thay đổi.
+      - source: They didn't travel abroad for holidays when they were poor.
+        cue: They didn't
+        cueType: start
+        accepted:
+          - They didn't use to travel abroad for holidays when they were poor.
+        explanationVi: Dùng 'didn't use to travel' để chỉ việc không có thói quen đi du lịch nước ngoài trước kia.
+      - source: Did your brother regularly play football for the school team when he was younger?
+        cue: Did your
+        cueType: start
+        accepted:
+          - Did your brother use to play football for the school team when he was younger?
+        explanationVi: Câu hỏi nghi vấn với 'Did ... use to' dùng để hỏi về hoạt động thể thao trong quá khứ.
+      - source: I read comic books all the time when I was ten.
+        cue: I used
+        cueType: start
+        accepted:
+          - I used to read comic books all the time when I was ten.
+        explanationVi: Dùng 'used to read' diễn tả thói quen đọc truyện tranh thường xuyên khi còn nhỏ.
+      - source: People walked to work because there were few cars.
+        cue: People used
+        cueType: start
+        accepted:
+          - People used to walk to work because there were few cars.
+        explanationVi: Cấu trúc 'used to walk' chỉ hành động đi bộ thành thói quen phổ biến thời xưa.
+      - source: She didn't wear glasses in her youth, but now she needs them.
+        cue: She didn't
+        cueType: start
+        accepted:
+          - She didn't use to wear glasses in her youth, but now she needs them.
+        explanationVi: Sử dụng 'didn't use to wear' để nói về việc không cần đeo kính thời trẻ.
+      - source: There were several small shops on this street, but they all closed when the mall opened.
+        cue: There used
+        cueType: start
+        accepted:
+          - There used to be several small shops on this street, but they all closed when the mall
+            opened.
+        explanationVi: Dùng 'there used to be' để chỉ sự tồn tại của nhiều cửa hàng nhỏ trước khi trung tâm
+          thương mại mở cửa.
+      - source: My mother baked bread every weekend.
+        cue: My mother used
+        cueType: start
+        accepted:
+          - My mother used to bake bread every weekend.
+        explanationVi: Cấu trúc 'used to bake' diễn tả hoạt động nướng bánh định kỳ vào cuối tuần trong quá khứ.
+      - source: He worked as a waiter before becoming an actor.
+        cue: He used
+        cueType: start
+        accepted:
+          - He used to work as a waiter before becoming an actor.
+        explanationVi: Dùng 'used to work' để nói về nghề nghiệp cũ trước khi chuyển sang làm diễn viên.
+      - source: We didn't have any smartphones when we were teenagers.
+        cue: We didn't
+        cueType: start
+        accepted:
+          - We didn't use to have any smartphones when we were teenagers.
+        explanationVi: Sử dụng 'didn't use to have' để chỉ việc không sở hữu điện thoại thông minh ở tuổi
+          thiếu niên.
+  - slug: so-such-results
+    title: So and such with results
+    titleVi: Viết lại câu với so và such
+    cefr: B1
+    explanationVi: So + tính từ/trạng từ + that; such + (a/an) + tính từ + danh từ + that. Đổi giữa hai
+      cấu trúc nhưng giữ nguyên mức độ và kết quả.
+    items:
+      - source: The weather was so nice that we decided to go to the beach.
+        cue: It was
+        cueType: start
+        accepted:
+          - It was such nice weather that we decided to go to the beach.
+        explanationVi: Đổi cấu trúc 'so + adj + that' sang 'such + adj + danh từ không đếm được (weather) + that'.
+      - source: She is such a smart student that she solves every puzzle easily.
+        cue: She is
+        cueType: start
+        accepted:
+          - She is so smart a student that she solves every puzzle easily.
+          - She is a student who is so smart that she solves every puzzle easily.
+        explanationVi: Đổi từ cụm danh từ đếm được số ít 'such a smart student' sang tính từ đơn độc 'so smart'.
+      - source: The coffee was so hot that I couldn't drink it.
+        cue: It was
+        cueType: start
+        accepted:
+          - It was such hot coffee that I couldn't drink it.
+        explanationVi: "'Hot coffee' là danh từ không đếm được, dùng 'such' đi trước cụm tính từ và danh từ."
+      - source: They are such friendly people that everyone in the neighborhood likes them.
+        cue: They are
+        cueType: start
+        accepted:
+          - They are so friendly that everyone in the neighborhood likes them.
+        explanationVi: Đổi cụm danh từ số nhiều 'such friendly people' thành tính từ đơn thuần 'so friendly'.
+      - source: The book was so boring that I fell asleep after two chapters.
+        cue: It was
+        cueType: start
+        accepted:
+          - It was such a boring book that I fell asleep after two chapters.
+        explanationVi: Danh từ đếm được số ít 'book' đi với mạo từ 'a' trong cấu trúc 'such a boring book that'.
+      - source: He is such a fast runner that he wins every race.
+        cue: He runs
+        cueType: start
+        accepted:
+          - He runs so fast that he wins every race.
+        explanationVi: Chuyển cụm danh từ 'such a fast runner' thành trạng từ bổ nghĩa cho động từ 'runs so fast'.
+      - source: The test was so difficult that no one got an A.
+        cue: It was
+        cueType: start
+        accepted:
+          - It was such a difficult test that no one got an A.
+        explanationVi: "'Test' là danh từ đếm được số ít, cần thêm mạo từ 'a' sau 'such'."
+      - source: She made such a delicious cake that everyone wanted a second slice.
+        cue: The cake she made
+        cueType: start
+        accepted:
+          - The cake she made was so delicious that everyone wanted a second slice.
+        explanationVi: Đổi cụm 'such a delicious cake' thành tính từ đứng sau động từ 'was' với cấu trúc 'so
+          delicious'.
+      - source: The traffic was so heavy that we missed the start of the concert.
+        cue: There was
+        cueType: start
+        accepted:
+          - There was such heavy traffic that we missed the start of the concert.
+        explanationVi: "'Traffic' là danh từ không đếm được, dùng 'such heavy traffic' sau cấu trúc 'There was'."
+      - source: He is such a talented musician that he plays three instruments fluently.
+        cue: He is
+        cueType: start
+        accepted:
+          - He is a musician who is so talented that he plays three instruments fluently.
+          - He is so talented a musician that he plays three instruments fluently.
+        explanationVi: Chuyển cụm 'such a talented musician' thành tính từ 'so talented'.
+      - source: It was such an expensive car that he couldn't afford it.
+        cue: The car was
+        cueType: start
+        accepted:
+          - The car was so expensive that he couldn't afford it.
+        explanationVi: Đổi cấu trúc 'such + an + adj + noun' thành 'so + adj' đứng sau động từ 'was'.
+      - source: The night was so cold that we had to turn on the heater.
+        cue: It was
+        cueType: start
+        accepted:
+          - It was such a cold night that we had to turn on the heater.
+        explanationVi: "'Night' là danh từ đếm được số ít, dùng 'such a cold night' trước mệnh đề kết quả."
+      - source: She speaks English so fluently that people often mistake her for a native speaker.
+        cue: She is
+        cueType: start
+        accepted:
+          - She is such a fluent English speaker that people often mistake her for a native speaker.
+        explanationVi: Chuyển trạng từ 'so fluently' thành cụm danh từ 'such a fluent English speaker'.
+      - source: It was such awful weather that we cancelled our trip.
+        cue: The weather was
+        cueType: start
+        accepted:
+          - The weather was so awful that we cancelled our trip.
+        explanationVi: Đổi cấu trúc với 'such' và danh từ không đếm được sang cấu trúc 'so + adj' đi với 'that'.
+      - source: The soup was so salty that I couldn't finish my bowl.
+        cue: It was
+        cueType: start
+        accepted:
+          - It was such salty soup that I couldn't finish my bowl.
+        explanationVi: "'Soup' là danh từ không đếm được, kết hợp với 'such salty' tạo thành cụm trước 'that'."
+      - source: He tells such funny jokes that everyone in the room bursts into laughter.
+        cue: The jokes he tells
+        cueType: start
+        accepted:
+          - The jokes he tells are so funny that everyone in the room bursts into laughter.
+        explanationVi: Đổi cụm danh từ số nhiều 'such funny jokes' thành tính từ 'so funny' đi sau động từ 'are'.
+      - source: The movie was so scary that I had nightmares all night.
+        cue: It was
+        cueType: start
+        accepted:
+          - It was such a scary movie that I had nightmares all night.
+        explanationVi: "'Movie' là danh từ đếm được số ít nên cần thêm 'a' sau 'such'."
+      - source: They are such kind people that they always volunteer at the shelter.
+        cue: They are
+        cueType: start
+        accepted:
+          - They are so kind that they always volunteer at the shelter.
+        explanationVi: Chuyển đổi cụm danh từ số nhiều 'such kind people' thành tính từ 'so kind'.
+      - source: The room was so dark that I couldn't find the light switch.
+        cue: It was
+        cueType: start
+        accepted:
+          - It was such a dark room that I couldn't find the light switch.
+        explanationVi: Dùng cấu trúc 'such a dark room' với danh từ đếm được số ít 'room' thay cho 'so dark'.
+      - source: She wore such a beautiful dress that all her friends complimented her.
+        cue: The dress she wore
+        cueType: start
+        accepted:
+          - The dress she wore was so beautiful that all her friends complimented her.
+        explanationVi: Đổi cấu trúc từ 'such a beautiful dress' sang 'so beautiful' đứng sau động từ 'was'.

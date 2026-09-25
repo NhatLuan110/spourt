@@ -1,0 +1,547 @@
+[
+  {
+    "id": "listening-part4-t6",
+    "skill": "listening",
+    "title": "Part 4 — Talk 6: staff briefing",
+    "format": "TOEIC Listening — Part 4 · Talk 6 (câu 86–88)",
+    "instructionsVi": "Bài phổ biến nội bộ. Có một thông tin in sai trên giấy được đính chính bằng lời — dạng bẫy quen thuộc của Part 4.",
+    "promptEn": "Listen to the briefing and answer questions 86 through 88.",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "Manager",
+        "text": "Morning everyone. Three things before you start."
+      },
+      {
+        "speaker": "Manager",
+        "text": "First, the fire drill. It's on Wednesday, not Tuesday as printed on the notice board — I'll have that corrected today. Assembly point is the far end of the car park, as usual."
+      },
+      {
+        "speaker": "Manager",
+        "text": "Second, we're trialling a new stock scanner on aisle four this week. If it misreads anything, don't override it — write the item down and give the list to me at the end of your shift."
+      },
+      {
+        "speaker": "Manager",
+        "text": "And third, the annual leave request form has moved online. Paper forms won't be accepted from the first of next month."
+      },
+      {
+        "speaker": "Manager",
+        "text": "That's all. If you've got questions about the scanner, catch me before eleven — I'm off site after that."
+      }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p4-86",
+        "kind": "mcq",
+        "prompt": "86. When will the fire drill take place?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Monday"
+          },
+          {
+            "id": "b",
+            "text": "Wednesday"
+          },
+          {
+            "id": "c",
+            "text": "Tuesday"
+          },
+          {
+            "id": "d",
+            "text": "Friday"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'It's on Wednesday, not Tuesday as printed on the notice board'. Thứ Ba là thông tin SAI trên bảng tin."
+      },
+      {
+        "id": "p4-87",
+        "kind": "mcq",
+        "prompt": "87. What should staff do if the scanner misreads an item?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Write the item down and report it"
+          },
+          {
+            "id": "b",
+            "text": "Override the reading manually"
+          },
+          {
+            "id": "c",
+            "text": "Switch to a different scanner"
+          },
+          {
+            "id": "d",
+            "text": "Stop using aisle four"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'don't override it — write the item down and give the list to me'. Câu phủ định loại thẳng (B)."
+      },
+      {
+        "id": "p4-88",
+        "kind": "mcq",
+        "prompt": "88. What is changing about leave requests?",
+        "options": [
+          {
+            "id": "a",
+            "text": "They must be approved by two managers."
+          },
+          {
+            "id": "b",
+            "text": "They can no longer be submitted in advance."
+          },
+          {
+            "id": "c",
+            "text": "They must be submitted online from next month."
+          },
+          {
+            "id": "d",
+            "text": "They will be handled by head office."
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'the annual leave request form has moved online. Paper forms won't be accepted from the first of next month'."
+      }
+    ]
+  },
+  {
+    "id": "listening-part4-t7",
+    "skill": "listening",
+    "title": "Part 4 — Talk 7: museum tour introduction",
+    "format": "TOEIC Listening — Part 4 · Talk 7 (câu 89–91)",
+    "instructionsVi": "Bài mở đầu tour. Chú ý phân biệt điều được PHÉP làm và điều bị CẤM, vì chúng nằm sát nhau trong bài.",
+    "promptEn": "Listen to the tour introduction and answer questions 89 through 91.",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "Guide",
+        "text": "Welcome to the Ashworth Textile Museum. My name is Rob and I'll be with you for the next hour."
+      },
+      {
+        "speaker": "Guide",
+        "text": "We'll start on the ground floor with the weaving machines, then go up to the first floor where the workers' cottages have been reconstructed."
+      },
+      {
+        "speaker": "Guide",
+        "text": "Photography is fine anywhere in the building, but please don't use flash on the first floor — the fabrics up there fade very easily."
+      },
+      {
+        "speaker": "Guide",
+        "text": "At the end of the tour we finish in the mill yard, where there's a café and a shop. Your ticket includes a hot drink, so do hold on to it."
+      },
+      {
+        "speaker": "Guide",
+        "text": "One last thing: the floors upstairs are original and quite uneven, so please take care, and let me know if anyone would prefer to take the lift."
+      }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p4-89",
+        "kind": "mcq",
+        "prompt": "89. What is on the first floor?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The weaving machines"
+          },
+          {
+            "id": "b",
+            "text": "Reconstructed workers' cottages"
+          },
+          {
+            "id": "c",
+            "text": "The café and shop"
+          },
+          {
+            "id": "d",
+            "text": "A temporary exhibition"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'up to the first floor where the workers' cottages have been reconstructed'. Máy dệt ở tầng trệt."
+      },
+      {
+        "id": "p4-90",
+        "kind": "mcq",
+        "prompt": "90. What restriction applies to photography?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Flash may not be used on the first floor."
+          },
+          {
+            "id": "b",
+            "text": "It is banned throughout the museum."
+          },
+          {
+            "id": "c",
+            "text": "It is allowed only in the mill yard."
+          },
+          {
+            "id": "d",
+            "text": "Permission must be requested first."
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'Photography is fine anywhere... but please don't use flash on the first floor'. Chỉ cấm đèn flash, không cấm chụp ảnh."
+      },
+      {
+        "id": "p4-91",
+        "kind": "mcq",
+        "prompt": "91. Why should visitors keep their ticket?",
+        "options": [
+          {
+            "id": "a",
+            "text": "It is needed to use the lift."
+          },
+          {
+            "id": "b",
+            "text": "It gives a discount in the shop."
+          },
+          {
+            "id": "c",
+            "text": "It includes a hot drink."
+          },
+          {
+            "id": "d",
+            "text": "It must be shown when leaving."
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'Your ticket includes a hot drink, so do hold on to it'."
+      }
+    ]
+  },
+  {
+    "id": "listening-part4-t8",
+    "skill": "listening",
+    "title": "Part 4 — Talk 8: advertisement",
+    "format": "TOEIC Listening — Part 4 · Talk 8 (câu 92–94)",
+    "instructionsVi": "Quảng cáo. Dạng này hay cài điều kiện đi kèm ưu đãi ở cuối, nói rất nhanh — nghe hụt là chọn sai.",
+    "promptEn": "Listen to the advertisement and answer questions 92 through 94.",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "Voice",
+        "text": "Is your business still printing everything in-house? Meridian Print can take that off your hands."
+      },
+      {
+        "speaker": "Voice",
+        "text": "We handle everything from business cards to full exhibition displays, with next-day delivery across the region and a design service if you need one."
+      },
+      {
+        "speaker": "Voice",
+        "text": "This month, new business customers get twenty per cent off their first order, and free delivery on orders over two hundred pounds."
+      },
+      {
+        "speaker": "Voice",
+        "text": "Please note the twenty per cent applies to printing only — design work is charged separately at the standard rate."
+      },
+      {
+        "speaker": "Voice",
+        "text": "Visit meridianprint dot example, or call us on 0800 447 1120 to request a sample pack."
+      }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p4-92",
+        "kind": "mcq",
+        "prompt": "92. What service is being advertised?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Office supplies delivery"
+          },
+          {
+            "id": "b",
+            "text": "Commercial printing"
+          },
+          {
+            "id": "c",
+            "text": "Exhibition organising"
+          },
+          {
+            "id": "d",
+            "text": "Website design"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'Meridian Print… We handle everything from business cards to full exhibition displays'."
+      },
+      {
+        "id": "p4-93",
+        "kind": "mcq",
+        "prompt": "93. What does the twenty per cent discount NOT apply to?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Design work"
+          },
+          {
+            "id": "b",
+            "text": "Business cards"
+          },
+          {
+            "id": "c",
+            "text": "Exhibition displays"
+          },
+          {
+            "id": "d",
+            "text": "Delivery"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'the twenty per cent applies to printing only — design work is charged separately'. Điều kiện loại trừ nằm ở cuối, nói nhanh."
+      },
+      {
+        "id": "p4-94",
+        "kind": "mcq",
+        "prompt": "94. How can listeners request a sample pack?",
+        "options": [
+          {
+            "id": "a",
+            "text": "By visiting a shop"
+          },
+          {
+            "id": "b",
+            "text": "By placing an order over two hundred pounds"
+          },
+          {
+            "id": "c",
+            "text": "By emailing the design team"
+          },
+          {
+            "id": "d",
+            "text": "By calling or visiting the website"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'Visit meridianprint dot example, or call us on 0800 447 1120 to request a sample pack'."
+      }
+    ]
+  },
+  {
+    "id": "listening-part4-t9",
+    "skill": "listening",
+    "title": "Part 4 — Talk 9: with a schedule on the test paper",
+    "format": "TOEIC Listening — Part 4 · Talk 9, kèm bảng trên đề (câu 95–97)",
+    "instructionsVi": "Dạng 'Look at the graphic'. Người nói mô tả gián tiếp, bạn phải đối chiếu với bảng để tìm đáp án. Đọc bảng TRƯỚC khi băng chạy.",
+    "promptEn": "Listen to the talk and answer questions 95 through 97. Refer to the schedule below where indicated.\n\nOPEN DAY PROGRAMME — Saturday\n10:00  Welcome talk — Main Hall\n11:00  Factory tour — meet at Gate 2\n12:30  Lunch — Canteen\n14:00  Product demonstration — Workshop B\n15:30  Question session — Main Hall",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "Organiser",
+        "text": "Thanks for coming, everyone. A few notes before we begin."
+      },
+      {
+        "speaker": "Organiser",
+        "text": "The programme in your pack is accurate except for one item. The session that was due to take place immediately after lunch has had to move to three o'clock, because the machinery is still being serviced."
+      },
+      {
+        "speaker": "Organiser",
+        "text": "Everything else runs as printed. The tour leaves promptly at eleven, so please be at Gate 2 five minutes early — we can't hold it."
+      },
+      {
+        "speaker": "Organiser",
+        "text": "Lunch is included in your ticket. If you have any dietary requirements and haven't told us, please speak to a steward now rather than at half past twelve."
+      },
+      {
+        "speaker": "Organiser",
+        "text": "And the final session will overrun slightly, so if you need to leave by four, that's the one to skip."
+      }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p4-95",
+        "kind": "mcq",
+        "prompt": "95. Look at the graphic. Which session has been moved?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Welcome talk"
+          },
+          {
+            "id": "b",
+            "text": "Factory tour"
+          },
+          {
+            "id": "c",
+            "text": "Question session"
+          },
+          {
+            "id": "d",
+            "text": "Product demonstration"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "Buổi 'immediately after lunch' là Product demonstration lúc 14:00. Người nói không đọc tên buổi, phải tự tra bảng."
+      },
+      {
+        "id": "p4-96",
+        "kind": "mcq",
+        "prompt": "96. Why should visitors arrive early at Gate 2?",
+        "options": [
+          {
+            "id": "a",
+            "text": "To collect a ticket"
+          },
+          {
+            "id": "b",
+            "text": "Because the tour cannot be held for latecomers"
+          },
+          {
+            "id": "c",
+            "text": "Because the gate closes at eleven"
+          },
+          {
+            "id": "d",
+            "text": "To sign a safety form"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'The tour leaves promptly at eleven, so please be at Gate 2 five minutes early — we can't hold it'."
+      },
+      {
+        "id": "p4-97",
+        "kind": "mcq",
+        "prompt": "97. What advice is given to those who must leave by four?",
+        "options": [
+          {
+            "id": "a",
+            "text": "To skip the final session"
+          },
+          {
+            "id": "b",
+            "text": "To skip lunch"
+          },
+          {
+            "id": "c",
+            "text": "To attend the earlier tour instead"
+          },
+          {
+            "id": "d",
+            "text": "To inform a steward in advance"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'the final session will overrun slightly, so if you need to leave by four, that's the one to skip'."
+      }
+    ]
+  },
+  {
+    "id": "listening-part4-t10",
+    "skill": "listening",
+    "title": "Part 4 — Talk 10: excerpt from a meeting",
+    "format": "TOEIC Listening — Part 4 · Talk 10 (câu 98–100)",
+    "instructionsVi": "Bài cuối của Listening. Có một câu hỏi về hàm ý — người nói không nói thẳng ý mình mà để người nghe tự suy.",
+    "promptEn": "Listen to the excerpt from a meeting and answer questions 98 through 100.",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "Speaker",
+        "text": "Right, the customer feedback results. Overall satisfaction is up two points on last quarter, which is good."
+      },
+      {
+        "speaker": "Speaker",
+        "text": "But I want to draw your attention to one number. Satisfaction with delivery times has fallen for the third quarter running, and it's now our lowest-scoring category."
+      },
+      {
+        "speaker": "Speaker",
+        "text": "Now, we did add two new couriers in that period. I'll let you draw your own conclusions about the timing."
+      },
+      {
+        "speaker": "Speaker",
+        "text": "What I'd like from this group is a decision on whether we review the courier contracts now or wait for the next set of figures in April."
+      },
+      {
+        "speaker": "Speaker",
+        "text": "My own view is that waiting costs us another quarter of complaints, but I want to hear the arguments. Let's take fifteen minutes on it."
+      }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p4-98",
+        "kind": "mcq",
+        "prompt": "98. What is the overall trend in satisfaction?",
+        "options": [
+          {
+            "id": "a",
+            "text": "It has fallen two points."
+          },
+          {
+            "id": "b",
+            "text": "It has risen two points."
+          },
+          {
+            "id": "c",
+            "text": "It is unchanged."
+          },
+          {
+            "id": "d",
+            "text": "It has not been measured."
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'Overall satisfaction is up two points on last quarter'. Cái GIẢM là riêng hạng mục thời gian giao hàng."
+      },
+      {
+        "id": "p4-99",
+        "kind": "mcq",
+        "prompt": "99. What does the speaker imply by saying, 'I'll let you draw your own conclusions about the timing'?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The figures were collected at the wrong time."
+          },
+          {
+            "id": "b",
+            "text": "The decline is unrelated to delivery."
+          },
+          {
+            "id": "c",
+            "text": "More data is needed before any conclusion."
+          },
+          {
+            "id": "d",
+            "text": "The new couriers may be causing the decline."
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "Ông ta nêu hai sự việc cạnh nhau — điểm giao hàng giảm và việc thêm hai đơn vị vận chuyển cùng kỳ — rồi để người nghe tự nối. Đó là cách nói ám chỉ."
+      },
+      {
+        "id": "p4-100",
+        "kind": "mcq",
+        "prompt": "100. What decision does the speaker want from the group?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Whether to change the survey questions"
+          },
+          {
+            "id": "b",
+            "text": "Whether to hire more couriers"
+          },
+          {
+            "id": "c",
+            "text": "Whether to review courier contracts now or in April"
+          },
+          {
+            "id": "d",
+            "text": "Whether to publish the results"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'a decision on whether we review the courier contracts now or wait for the next set of figures in April'."
+      }
+    ]
+  }
+]

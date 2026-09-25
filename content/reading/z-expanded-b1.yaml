@@ -1,0 +1,1020 @@
+cefr: B1
+passages:
+  - slug: the-fridge-at-number-eighteen
+    title: The Fridge at Number Eighteen
+    titleVi: Chiếc tủ lạnh ở nhà số mười tám
+    topic: daily-life
+    estimatedMinutes: 7
+    source: Sprout original
+    glossary: []
+    body: >-
+      When the residents of Number Eighteen opened a shared food fridge, they expected the main
+      difficulty to be finding donations. Within a week, however, the fridge was full. The real
+      problem was knowing what was inside each container and how long it had been there.
+
+
+      The fridge stood in a covered entrance that everyone in the building could reach. A bakery
+      left unsold bread in a separate basket, while residents brought unopened food they would not
+      use. People could take what they needed without writing down their names. The organisers
+      wanted the project to feel like sharing between neighbours, rather than a service for one
+      particular group.
+
+
+      On the first Saturday, a volunteer found three unlabelled boxes. Nobody could identify who had
+      brought them or what they contained. The volunteer removed the boxes and left a note
+      explaining the problem. Some residents thought this was wasteful, but others said they needed
+      clear information before taking food home.
+
+
+      At a short meeting, the residents agreed on a simple system. Every donation needed a label
+      showing its contents and the date it was added. Home-cooked meals would no longer be accepted
+      under the project's own rules. Two volunteers would check the fridge each evening and record
+      anything they removed. A printed list beside the door explained these decisions.
+
+
+      A month later, fewer items were being removed during checks. One resident who had initially
+      complained began helping with labels. She said the rules made donating easier because she no
+      longer had to guess what was welcome. The organisers realised that a successful sharing
+      project needed both generosity and clear arrangements.
+    questions:
+      - type: MCQ
+        prompt: What unexpected difficulty does the project face?
+        promptVi: Chọn đáp án đúng theo bài đọc.
+        options:
+          - Too few people live nearby.
+          - Residents cannot identify some donated food.
+          - The building has no entrance.
+          - The bakery refuses to share bread.
+        answer: Residents cannot identify some donated food.
+        explanationVi: Tủ nhanh đầy nhưng một số hộp không có thông tin về nội dung và ngày mang đến.
+      - type: MCQ
+        prompt: Why are people not asked to record their names?
+        promptVi: Chọn đáp án đúng theo bài đọc.
+        options:
+          - The organisers want sharing to feel open to all neighbours.
+          - The fridge is a private shop.
+          - Every visitor has already registered online.
+          - The residents cannot write.
+        answer: The organisers want sharing to feel open to all neighbours.
+        explanationVi: Dự án hướng đến việc hàng xóm chia sẻ với nhau, không nhắm riêng một nhóm người.
+      - type: MCQ
+        prompt: How does the resident’s attitude change?
+        promptVi: Chọn đáp án đúng theo bài đọc.
+        options:
+          - She decides all rules are unnecessary.
+          - She stops using every shared service.
+          - She starts helping after finding the rules useful.
+          - She asks the bakery to close.
+        answer: She starts helping after finding the rules useful.
+        explanationVi: Người từng phản đối đã hỗ trợ dán nhãn vì quy định giúp biết rõ món nào được nhận.
+      - type: TRUE_FALSE
+        prompt: Is this statement true or false according to the passage?
+        promptVi: Nhận định này đúng hay sai theo bài đọc?
+        statement: The bakery’s bread goes in a separate basket.
+        answer: true
+        explanationVi: Bánh mì được để trong giỏ riêng.
+      - type: TRUE_FALSE
+        prompt: Is this statement true or false according to the passage?
+        promptVi: Nhận định này đúng hay sai theo bài đọc?
+        statement: The new system requires everyone who takes food to give their name.
+        answer: false
+        explanationVi: Người lấy đồ không phải ghi tên; nhãn dành cho đồ được quyên góp.
+      - type: SHORT_ANSWER
+        prompt: How many unlabelled boxes does the volunteer find?
+        promptVi: Trả lời ngắn bằng tiếng Anh, dùng từ trong bài đọc.
+        accept:
+          - three
+          - "3"
+        explanationVi: Tình nguyện viên tìm thấy ba hộp không nhãn.
+      - type: SHORT_ANSWER
+        prompt: When do volunteers check the fridge? Write two words.
+        promptVi: Trả lời ngắn bằng tiếng Anh, dùng từ trong bài đọc.
+        accept:
+          - each evening
+        explanationVi: Hai tình nguyện viên kiểm tra tủ vào mỗi tối.
+      - type: SHORT_ANSWER
+        prompt: What type of meals is no longer accepted? Write two words.
+        promptVi: Trả lời ngắn bằng tiếng Anh, dùng từ trong bài đọc.
+        accept:
+          - home-cooked meals
+        explanationVi: Quy định riêng của dự án không nhận đồ nấu tại nhà.
+  - slug: four-commutes-and-one-quiet-morning
+    title: Four Commutes and One Quiet Morning
+    titleVi: Bốn ngày đi làm và một sáng yên tĩnh
+    topic: work
+    estimatedMinutes: 7
+    source: Sprout original
+    glossary: []
+    body: >-
+      For two years, Hoa spent nearly three hours travelling to and from her office each day. She
+      liked her colleagues, but the journey left little time for evening classes. When her manager
+      offered a one-month trial of working from home on Wednesdays, Hoa volunteered immediately.
+
+
+      Before the trial began, they agreed on the tasks she would complete at home. Wednesday
+      mornings usually involved checking reports, which required concentration but few
+      conversations. Hoa would attend the afternoon team meeting by video. She also agreed to keep a
+      short record of completed work and any difficulties. The purpose was to compare the new
+      arrangement with a normal week, rather than simply ask whether she liked it.
+
+
+      During the first Wednesday, Hoa finished her reports before lunch. However, she missed an
+      important conversation when two colleagues changed a delivery plan at their desks. They
+      assumed everyone nearby had heard. Hoa continued using the old date and had to correct her
+      report the next morning.
+
+
+      At the weekly review, the team decided to write changes in a shared document. This helped
+      colleagues in the office as well, especially people who had been in another meeting. Hoa also
+      discovered that working at her kitchen table hurt her concentration when her flatmate cooked
+      lunch. She moved to a small desk in her bedroom for the remaining weeks.
+
+
+      By the end of the month, Hoa had completed the same amount of work and attended four evening
+      classes. Her manager agreed to continue the arrangement for another three months. Both
+      understood that the saved travel time was useful, but reliable communication was what made the
+      trial work.
+    questions:
+      - type: MCQ
+        prompt: What is the main purpose of the trial record?
+        promptVi: Chọn đáp án đúng theo bài đọc.
+        options:
+          - To compare how the two arrangements work
+          - To calculate train ticket prices
+          - To list Hoa’s favourite meals
+          - To replace every team meeting
+        answer: To compare how the two arrangements work
+        explanationVi: Bản ghi giúp so sánh công việc khi làm ở nhà với một tuần bình thường.
+      - type: MCQ
+        prompt: Why does Hoa use the wrong delivery date?
+        promptVi: Chọn đáp án đúng theo bài đọc.
+        options:
+          - She refuses to read reports.
+          - Her flatmate changes it.
+          - Colleagues do not record a change discussed in the office.
+          - The team cancels all deliveries.
+        answer: Colleagues do not record a change discussed in the office.
+        explanationVi: Hai đồng nghiệp đổi kế hoạch qua trao đổi miệng nên Hoa không biết.
+      - type: MCQ
+        prompt: Who benefits from the shared document?
+        promptVi: Chọn đáp án đúng theo bài đọc.
+        options:
+          - Only Hoa’s flatmate
+          - Only the manager’s customers
+          - Nobody in the office
+          - Both Hoa and colleagues who miss conversations
+        answer: Both Hoa and colleagues who miss conversations
+        explanationVi: Tài liệu chung giúp cả Hoa lẫn người ở văn phòng nhưng vắng mặt khi trao đổi.
+      - type: TRUE_FALSE
+        prompt: Is this statement true or false according to the passage?
+        promptVi: Nhận định này đúng hay sai theo bài đọc?
+        statement: Hoa attends the afternoon team meeting by video.
+        answer: true
+        explanationVi: Đó là một phần thỏa thuận trước thử nghiệm.
+      - type: TRUE_FALSE
+        prompt: Is this statement true or false according to the passage?
+        promptVi: Nhận định này đúng hay sai theo bài đọc?
+        statement: Hoa completes less work by the end of the month.
+        answer: false
+        explanationVi: Bài nêu Hoa hoàn thành cùng lượng công việc.
+      - type: SHORT_ANSWER
+        prompt: On which day does Hoa work from home? Write one word.
+        promptVi: Trả lời ngắn bằng tiếng Anh, dùng từ trong bài đọc.
+        accept:
+          - Wednesday
+          - Wednesdays
+        explanationVi: Hoa làm ở nhà vào thứ Tư.
+      - type: SHORT_ANSWER
+        prompt: Where does Hoa move her workspace? Write two words.
+        promptVi: Trả lời ngắn bằng tiếng Anh, dùng từ trong bài đọc.
+        accept:
+          - her bedroom
+          - the bedroom
+          - bedroom
+        explanationVi: Cô chuyển sang bàn nhỏ trong phòng ngủ.
+      - type: SHORT_ANSWER
+        prompt: For how many more months will the arrangement continue?
+        promptVi: Trả lời ngắn bằng tiếng Anh, dùng từ trong bài đọc.
+        accept:
+          - three
+          - "3"
+          - three months
+          - 3 months
+        explanationVi: Quản lý đồng ý tiếp tục thêm ba tháng.
+  - slug: voices-behind-the-museum-objects
+    title: Voices behind the Museum Objects
+    titleVi: Những câu chuyện phía sau hiện vật
+    topic: education
+    estimatedMinutes: 7
+    source: Sprout original
+    glossary: []
+    body: >-
+      The small museum in Greenfield had many photographs of the old railway station, but visitors
+      often walked past them without stopping. The labels explained when the buildings were
+      constructed and what they cost. They said little about the people who had used them.
+
+
+      To prepare a new display, the museum invited residents to share memories of the station. A
+      volunteer named Eva recorded the interviews in a quiet room behind the entrance. She began
+      each conversation with the same question: what do you remember seeing, hearing or doing there?
+      Some people brought tickets, while others brought objects that seemed unrelated at first.
+
+
+      Mr Harris arrived with a red lunch tin. As a teenager, he had delivered meals to his mother,
+      who worked in the station office. He remembered the smell of soup mixing with smoke from the
+      engines. Another resident described meeting her husband after his long journey home. These
+      details made the place easier to imagine than dates alone had done.
+
+
+      The interviews also disagreed about some events. Two people remembered the station café
+      closing in different years. Instead of choosing the more confident speaker, Eva checked old
+      newspapers. The café had stopped serving hot meals one year and closed completely the next.
+      Both memories described part of the story.
+
+
+      Before using any recording, the museum sent the speaker a copy and asked permission to share
+      it. Residents could remove a section or choose to have their words displayed without their
+      names. When the exhibition opened, the photographs remained, but visitors could now listen to
+      short voices beside them. Many stayed longer, then added memories of their own on cards near
+      the exit.
+    questions:
+      - type: MCQ
+        prompt: What was missing from the original labels?
+        promptVi: Chọn đáp án đúng theo bài đọc.
+        options:
+          - The station’s construction dates
+          - The cost of buildings
+          - People’s experiences of the station
+          - Photographs of trains
+        answer: People’s experiences of the station
+        explanationVi: Nhãn cũ có ngày xây dựng và chi phí nhưng ít nói về trải nghiệm của người dân.
+      - type: MCQ
+        prompt: How does Eva explain the different café dates?
+        promptVi: Chọn đáp án đúng theo bài đọc.
+        options:
+          - One person invented the café.
+          - Hot meals ended before the café closed completely.
+          - Both residents moved away as babies.
+          - The newspaper gives no information.
+        answer: Hot meals ended before the café closed completely.
+        explanationVi: Quán ngừng bán món nóng trước khi đóng hẳn một năm; hai ký ức nói về hai mốc khác nhau.
+      - type: MCQ
+        prompt: What does the permission process show?
+        promptVi: Chọn đáp án đúng theo bài đọc.
+        options:
+          - Residents can control how their contributions are shared.
+          - The museum owns every personal memory.
+          - Speakers must publish their full names.
+          - Only written interviews are accepted.
+        answer: Residents can control how their contributions are shared.
+        explanationVi: Người kể được bỏ đoạn hoặc chọn không ghi tên trước khi bảo tàng sử dụng.
+      - type: TRUE_FALSE
+        prompt: Is this statement true or false according to the passage?
+        promptVi: Nhận định này đúng hay sai theo bài đọc?
+        statement: Mr Harris brought a lunch tin to his interview.
+        answer: true
+        explanationVi: Ông mang hộp cơm màu đỏ gắn với ký ức đưa bữa ăn cho mẹ.
+      - type: TRUE_FALSE
+        prompt: Is this statement true or false according to the passage?
+        promptVi: Nhận định này đúng hay sai theo bài đọc?
+        statement: The new exhibition removes all the old photographs.
+        answer: false
+        explanationVi: Ảnh vẫn được giữ và bổ sung đoạn ghi âm bên cạnh.
+      - type: SHORT_ANSWER
+        prompt: What colour was Mr Harris’s lunch tin? Write one word.
+        promptVi: Trả lời ngắn bằng tiếng Anh, dùng từ trong bài đọc.
+        accept:
+          - red
+        explanationVi: Hộp cơm có màu đỏ.
+      - type: SHORT_ANSWER
+        prompt: What does Eva check to clarify the café dates? Write two words.
+        promptVi: Trả lời ngắn bằng tiếng Anh, dùng từ trong bài đọc.
+        accept:
+          - old newspapers
+        explanationVi: Eva kiểm tra báo cũ để làm rõ hai mốc thời gian.
+      - type: SHORT_ANSWER
+        prompt: Where can visitors leave cards with memories? Write three words.
+        promptVi: Trả lời ngắn bằng tiếng Anh, dùng từ trong bài đọc.
+        accept:
+          - near the exit
+          - the exit
+        explanationVi: Thẻ ghi ký ức được đặt gần lối ra.
+  - slug: choosing-between-two-part-time-jobs
+    title: Choosing between Two Part-time Jobs
+    titleVi: Chọn giữa hai công việc bán thời gian
+    topic: work
+    estimatedMinutes: 7
+    source: Sprout original
+    glossary: []
+    body: >-
+      In her second year at college, Nhi wanted a part-time job that would help cover transport and
+      books. She received two offers in the same week. A café offered weekend work, while a printing
+      shop needed someone on three weekday evenings. At first, the printing job seemed better
+      because its hourly pay was higher.
+
+
+      Nhi made a table instead of deciding immediately. She included travel time, the cost of
+      getting home and the hours she needed for studying. The printing shop closed at ten, after the
+      last direct bus to her neighbourhood. She could take two buses, but the journey would be long.
+      A taxi would use much of the extra money she earned.
+
+
+      The café was a twenty-minute walk from her flat. Its weekend shifts would mean missing some
+      activities with friends. However, the owner said staff could request one free weekend a month
+      if they arranged it early. Nhi asked whether that promise would appear in the written
+      schedule. The owner showed her how the monthly rota was prepared.
+
+
+      Nhi also spoke to a student who already worked at the printing shop. He enjoyed learning about
+      design, but warned her that customers often arrived just before closing. This sometimes
+      delayed his journey home. Nhi liked the work itself, yet she had an early class on two of the
+      following mornings.
+
+
+      She accepted the café job and explained her decision politely to the other employer. The
+      printing job was not a bad offer; it simply fitted her timetable less well. After her first
+      month, Nhi still checked her study time carefully. Choosing a job had solved one problem, but
+      she needed to keep the balance working.
+    questions:
+      - type: MCQ
+        prompt: Why does the printing job first attract Nhi?
+        promptVi: Chọn đáp án đúng theo bài đọc.
+        options:
+          - It pays more per hour.
+          - It is inside her college.
+          - It has no evening shifts.
+          - Her best friend owns it.
+        answer: It pays more per hour.
+        explanationVi: Lương theo giờ ở tiệm in cao hơn.
+      - type: MCQ
+        prompt: What transport problem does she identify?
+        promptVi: Chọn đáp án đúng theo bài đọc.
+        options:
+          - The café is on an island.
+          - All buses stop at midday.
+          - The printing shop closes after her last direct bus.
+          - She has lost every bus pass.
+        answer: The printing shop closes after her last direct bus.
+        explanationVi: Tiệm in đóng cửa lúc mười giờ, sau chuyến xe buýt thẳng cuối cùng về khu nhà cô.
+      - type: MCQ
+        prompt: What best describes her final decision?
+        promptVi: Chọn đáp án đúng theo bài đọc.
+        options:
+          - She selects the job with the highest advertised pay.
+          - She considers how the job fits her wider routine.
+          - She gives up college to work full-time.
+          - She chooses without asking questions.
+        answer: She considers how the job fits her wider routine.
+        explanationVi: Nhi cân nhắc đi lại, lịch học và thời gian riêng trước khi chọn quán cà phê.
+      - type: TRUE_FALSE
+        prompt: Is this statement true or false according to the passage?
+        promptVi: Nhận định này đúng hay sai theo bài đọc?
+        statement: The café is within walking distance of Nhi’s flat.
+        answer: true
+        explanationVi: Nhi đi bộ khoảng hai mươi phút từ nhà đến quán.
+      - type: TRUE_FALSE
+        prompt: Is this statement true or false according to the passage?
+        promptVi: Nhận định này đúng hay sai theo bài đọc?
+        statement: The printing-shop student says work always ends exactly on time.
+        answer: false
+        explanationVi: Khách đến sát giờ đóng cửa đôi khi khiến anh về muộn.
+      - type: SHORT_ANSWER
+        prompt: At what time does the printing shop close?
+        promptVi: Trả lời ngắn bằng tiếng Anh, dùng từ trong bài đọc.
+        accept:
+          - ten
+          - "10"
+          - ten o’clock
+          - 10 p.m.
+          - 10 pm
+          - 10:00
+          - 10:00 pm
+          - 22:00
+          - ten in the evening
+        explanationVi: Tiệm in đóng cửa lúc mười giờ tối.
+      - type: SHORT_ANSWER
+        prompt: How many weekday evenings would the printing job require?
+        promptVi: Trả lời ngắn bằng tiếng Anh, dùng từ trong bài đọc.
+        accept:
+          - three
+          - "3"
+        explanationVi: Tiệm in cần người làm ba buổi tối trong tuần.
+      - type: SHORT_ANSWER
+        prompt: Which job does Nhi accept? Write one word.
+        promptVi: Trả lời ngắn bằng tiếng Anh, dùng từ trong bài đọc.
+        accept:
+          - café
+          - cafe
+        explanationVi: Nhi nhận việc tại quán cà phê.
+  - slug: repair-lessons-on-saturday-mornings
+    title: Repair Lessons on Saturday Mornings
+    titleVi: Những buổi học sửa đồ sáng thứ Bảy
+    topic: education
+    estimatedMinutes: 7
+    source: Sprout original
+    glossary: []
+    body: >-
+      Every Saturday morning, Mr Son opened the back room of his repair shop to local teenagers. The
+      room was small, with four workbenches and a cupboard of hand tools. He had started the
+      sessions after a student asked him to fix a schoolbag zip and then stayed to watch how he did
+      it.
+
+
+      The first rule was that learners would begin with simple objects. Mr Son kept electrical
+      repairs for trained adults and chose items such as loose chair legs, torn bags and bicycle
+      baskets. He wanted the teenagers to learn how to observe a problem before using a tool. At
+      each bench, they wrote down what was wrong and what they thought might have caused it.
+
+
+      During the third session, a group brought a wooden drawer that would not close properly. They
+      immediately suggested cutting a piece from its side. Mr Son asked them to examine the runners
+      first. One screw had become loose, leaving a runner at an angle. Tightening it allowed the
+      drawer to close again without cutting any wood.
+
+
+      Not every repair succeeded. A badly cracked plastic box broke again during a test. The group
+      recorded what they had tried and why they would not return it as repaired. Mr Son said an
+      honest explanation was part of the job, even when it disappointed the owner.
+
+
+      By the end of the term, the teenagers had repaired twenty-three objects. They displayed
+      before-and-after photographs at school, but also included the cracked box. Their teacher liked
+      that choice. The exhibition showed useful skills and the limits of those skills, rather than
+      suggesting that every damaged object could be saved.
+    questions:
+      - type: MCQ
+        prompt: What does Mr Son want learners to do first?
+        promptVi: Chọn đáp án đúng theo bài đọc.
+        options:
+          - Buy the newest tool
+          - Observe the problem carefully
+          - Cut away damaged material
+          - Promise a successful repair
+        answer: Observe the problem carefully
+        explanationVi: Ông muốn học sinh xem xét lỗi và nguyên nhân trước khi dùng dụng cụ.
+      - type: MCQ
+        prompt: What solves the drawer problem?
+        promptVi: Chọn đáp án đúng theo bài đọc.
+        options:
+          - Painting the cupboard
+          - Buying another drawer
+          - Tightening a loose screw
+          - Cutting the drawer’s side
+        answer: Tightening a loose screw
+        explanationVi: Siết vít giúp thanh trượt về đúng vị trí và ngăn kéo đóng lại được.
+      - type: MCQ
+        prompt: Why include the cracked box in the exhibition?
+        promptVi: Chọn đáp án đúng theo bài đọc.
+        options:
+          - To show that repair has limits
+          - To advertise the box as repaired
+          - To hide the successful repairs
+          - To blame its owner
+        answer: To show that repair has limits
+        explanationVi: Chiếc hộp cho thấy có những đồ không thể sửa bền và cần nói rõ điều đó.
+      - type: TRUE_FALSE
+        prompt: Is this statement true or false according to the passage?
+        promptVi: Nhận định này đúng hay sai theo bài đọc?
+        statement: Electrical repairs are kept for trained adults.
+        answer: true
+        explanationVi: Các việc sửa điện được giao cho người lớn đã được đào tạo.
+      - type: TRUE_FALSE
+        prompt: Is this statement true or false according to the passage?
+        promptVi: Nhận định này đúng hay sai theo bài đọc?
+        statement: The teenagers return the cracked box as successfully repaired.
+        answer: false
+        explanationVi: Họ ghi lý do không thể coi chiếc hộp là đã sửa xong.
+      - type: SHORT_ANSWER
+        prompt: How many workbenches are in the room?
+        promptVi: Trả lời ngắn bằng tiếng Anh, dùng từ trong bài đọc.
+        accept:
+          - four
+          - "4"
+        explanationVi: Phòng có bốn bàn làm việc.
+      - type: SHORT_ANSWER
+        prompt: What part of a schoolbag first interested a student? Write one word.
+        promptVi: Trả lời ngắn bằng tiếng Anh, dùng từ trong bài đọc.
+        accept:
+          - zip
+        explanationVi: Học sinh nhờ sửa khóa kéo của cặp.
+      - type: SHORT_ANSWER
+        prompt: How many objects have the teenagers repaired by the end of term?
+        promptVi: Trả lời ngắn bằng tiếng Anh, dùng từ trong bài đọc.
+        accept:
+          - twenty-three
+          - "23"
+          - twenty three
+        explanationVi: Các em sửa được hai mươi ba đồ vật.
+  - slug: a-household-budget-everyone-could-read
+    title: A Household Budget Everyone Could Read
+    titleVi: Bảng chi tiêu cả nhà cùng hiểu
+    topic: daily-life
+    estimatedMinutes: 7
+    source: Sprout original
+    glossary: []
+    body: >-
+      When three cousins moved into a flat together, they agreed to divide shared expenses equally.
+      For the first month, this seemed simple. Each person bought things when they noticed something
+      was missing, and they planned to add up the costs later. By the time the first bills arrived,
+      however, nobody could remember who had paid for several small purchases.
+
+
+      The cousins arranged a conversation on Sunday afternoon. They brought receipts and made two
+      lists: shared expenses and personal expenses. Rent, cleaning products and basic cooking
+      ingredients went on the shared list. Lunches bought at work remained personal. One cousin,
+      Duc, rarely ate dinner at home, so they agreed that special ingredients for group meals would
+      be discussed separately.
+
+
+      They created a shared spreadsheet with a column for the date, the item, the cost and the
+      person who paid. A photograph of each receipt went in a shared folder. The spreadsheet did not
+      decide what was fair; it simply made the information visible. The cousins still had to agree
+      on how to handle unusual purchases.
+
+
+      Their first disagreement involved a large lamp that Trang bought for the living room. She
+      expected everyone to contribute, but the others had not known she was buying it. They decided
+      she would keep ownership of the lamp. Future shared purchases above an agreed amount would
+      need everyone's approval beforehand.
+
+
+      After two months, they spent less time arguing over forgotten payments. They still met briefly
+      after the main bills arrived, because their schedules and needs sometimes changed. Trang said
+      the system worked because they talked before making assumptions. The spreadsheet was useful,
+      but it could not replace the conversation.
+    questions:
+      - type: MCQ
+        prompt: What causes confusion in the first month?
+        promptVi: Chọn đáp án đúng theo bài đọc.
+        options:
+          - They cannot remember who paid for some items.
+          - There are no bills.
+          - The flat has only one room.
+          - Nobody ever buys anything.
+        answer: They cannot remember who paid for some items.
+        explanationVi: Đến cuối tháng, họ không nhớ ai đã trả một số khoản nhỏ.
+      - type: MCQ
+        prompt: Why is the lamp treated as Trang’s property?
+        promptVi: Chọn đáp án đúng theo bài đọc.
+        options:
+          - It is too small for the room.
+          - It arrives broken.
+          - The others did not agree to a shared purchase.
+          - Duc already owns the shop.
+        answer: The others did not agree to a shared purchase.
+        explanationVi: Trang tự mua khi chưa hỏi ý kiến nên cả nhà thống nhất đèn thuộc sở hữu của Trang.
+      - type: MCQ
+        prompt: What does the final paragraph suggest?
+        promptVi: Chọn đáp án đúng theo bài đọc.
+        options:
+          - A spreadsheet automatically makes every choice fair.
+          - Regular discussion remains necessary.
+          - All expenses should be personal.
+          - The cousins stop sharing the flat.
+        answer: Regular discussion remains necessary.
+        explanationVi: Họ vẫn trao đổi khi lịch và nhu cầu thay đổi; bảng tính không thay thế việc nói chuyện.
+      - type: TRUE_FALSE
+        prompt: Is this statement true or false according to the passage?
+        promptVi: Nhận định này đúng hay sai theo bài đọc?
+        statement: Lunches bought at work are personal expenses.
+        answer: true
+        explanationVi: Bữa trưa mua ở chỗ làm nằm trong danh sách chi riêng.
+      - type: TRUE_FALSE
+        prompt: Is this statement true or false according to the passage?
+        promptVi: Nhận định này đúng hay sai theo bài đọc?
+        statement: Every living-room purchase automatically becomes a shared expense.
+        answer: false
+        explanationVi: Đồ dùng chung vượt mức thỏa thuận cần được mọi người đồng ý trước.
+      - type: SHORT_ANSWER
+        prompt: How many cousins share the flat?
+        promptVi: Trả lời ngắn bằng tiếng Anh, dùng từ trong bài đọc.
+        accept:
+          - three
+          - "3"
+        explanationVi: Ba anh chị em họ ở chung căn hộ.
+      - type: SHORT_ANSWER
+        prompt: Where do they keep photographs of receipts? Write three words.
+        promptVi: Trả lời ngắn bằng tiếng Anh, dùng từ trong bài đọc.
+        accept:
+          - a shared folder
+          - shared folder
+        explanationVi: Ảnh hóa đơn nằm trong một thư mục chung.
+      - type: SHORT_ANSWER
+        prompt: What object causes their first disagreement? Write one word.
+        promptVi: Trả lời ngắn bằng tiếng Anh, dùng từ trong bài đọc.
+        accept:
+          - lamp
+          - a lamp
+        explanationVi: Họ bất đồng về chiếc đèn Trang mua cho phòng khách.
+  - slug: a-walking-route-tested-by-its-users
+    title: A Walking Route Tested by Its Users
+    titleVi: Tuyến đi bộ được chính người dùng thử
+    topic: travel
+    estimatedMinutes: 7
+    source: Sprout original
+    glossary: []
+    body: >-
+      A neighbourhood group wanted to publish a walking route linking the park, the library and the
+      riverside café. The first map followed the shortest streets. On paper, the walk looked easy,
+      and the organisers expected to print it the following week. Then a resident named Elena asked
+      whether anyone had tested it with a wheelchair.
+
+
+      The group invited Elena and several other residents to try the route together. One parent
+      brought a pushchair, and an older man came with a walking stick. At the first crossing, they
+      found a high kerb with no lowered section. Farther along, a narrow pavement forced the group
+      to walk in single file beside delivery vehicles.
+
+
+      Elena explained that a route should describe its difficult sections clearly instead of simply
+      calling itself easy. The older man added that resting places mattered as much as distance. He
+      could walk to the library, but wanted somewhere to sit halfway. These comments changed the way
+      the organisers looked at the map.
+
+
+      They tested a longer route through a residential square. It added about eight minutes, but
+      included a step-free crossing and three benches. A café owner agreed that people could use the
+      outdoor seats during opening hours without buying anything. The group checked this detail with
+      the owner before including it in the guide.
+
+
+      The final map showed both routes, marked the obstacles and listed the places to rest. It also
+      gave the date of the last route check and an email address for reporting changes. Elena was
+      pleased that the group had listened, but reminded them that roadworks could change the
+      experience overnight. A useful guide needed updating, not just a careful first edition.
+    questions:
+      - type: MCQ
+        prompt: What weakness does the first map have?
+        promptVi: Chọn đáp án đúng theo bài đọc.
+        options:
+          - It contains no street names.
+          - It focuses on distance without testing obstacles.
+          - It links three different countries.
+          - It is too large to print.
+        answer: It focuses on distance without testing obstacles.
+        explanationVi: Bản đầu chỉ chọn đường ngắn mà chưa xem các trở ngại thực tế.
+      - type: MCQ
+        prompt: Why might someone prefer the longer route?
+        promptVi: Chọn đáp án đúng theo bài đọc.
+        options:
+          - It has fewer places to sit.
+          - It avoids the library completely.
+          - It includes easier crossings and resting places.
+          - It requires a purchase at every café.
+        answer: It includes easier crossings and resting places.
+        explanationVi: Đường dài hơn có chỗ qua đường bằng phẳng và các điểm nghỉ.
+      - type: MCQ
+        prompt: Why does the guide include a contact email?
+        promptVi: Chọn đáp án đúng theo bài đọc.
+        options:
+          - To help keep route information current
+          - To sell everyone a wheelchair
+          - To replace the printed map with adverts
+          - To prevent residents from commenting
+        answer: To help keep route information current
+        explanationVi: Người dùng có thể báo thay đổi như công trình sửa đường để nhóm cập nhật.
+      - type: TRUE_FALSE
+        prompt: Is this statement true or false according to the passage?
+        promptVi: Nhận định này đúng hay sai theo bài đọc?
+        statement: A parent joins the trial with a pushchair.
+        answer: true
+        explanationVi: Một phụ huynh mang xe đẩy trẻ em cùng thử tuyến đường.
+      - type: TRUE_FALSE
+        prompt: Is this statement true or false according to the passage?
+        promptVi: Nhận định này đúng hay sai theo bài đọc?
+        statement: People must buy something to use the café’s outdoor seats under the agreement.
+        answer: false
+        explanationVi: Chủ quán đồng ý cho dùng ghế ngoài trời trong giờ mở cửa mà không cần mua hàng.
+      - type: SHORT_ANSWER
+        prompt: How many extra minutes does the longer route take?
+        promptVi: Trả lời ngắn bằng tiếng Anh, dùng từ trong bài đọc.
+        accept:
+          - eight
+          - "8"
+          - eight minutes
+          - 8 minutes
+        explanationVi: Tuyến mới dài hơn khoảng tám phút.
+      - type: SHORT_ANSWER
+        prompt: How many benches are on the longer route?
+        promptVi: Trả lời ngắn bằng tiếng Anh, dùng từ trong bài đọc.
+        accept:
+          - three
+          - "3"
+        explanationVi: Tuyến dài có ba chiếc ghế băng.
+      - type: SHORT_ANSWER
+        prompt: What temporary street changes can alter the experience overnight? Write one word.
+        promptVi: Trả lời ngắn bằng tiếng Anh, dùng từ trong bài đọc.
+        accept:
+          - roadworks
+        explanationVi: Elena nhắc việc sửa đường có thể làm tuyến thay đổi ngay.
+  - slug: asking-before-the-shutter-clicks
+    title: Asking before the Shutter Clicks
+    titleVi: Hỏi trước khi bấm máy
+    topic: daily-life
+    estimatedMinutes: 7
+    source: Sprout original
+    glossary: []
+    body: >-
+      When Adam joined a photography course, his first assignment was to show everyday life in a
+      local market. He arrived early, hoping to capture sellers setting up their stalls. From the
+      entrance, the colours and movement looked exciting. He raised his camera, but a woman
+      arranging flowers turned away and covered her face.
+
+
+      Adam lowered the camera and apologised. The woman, Mrs Lan, explained that she disliked
+      strangers taking close photographs without asking. She was happy for him to photograph the
+      flowers, but did not want to appear in the picture. Adam agreed and moved so that only the
+      buckets and flowers were in the frame.
+
+
+      At the next stall, he introduced himself before taking out his camera. He explained the class
+      project and asked a fruit seller whether he could photograph him weighing oranges. The seller
+      agreed, provided that Adam did not block customers. Adam waited beside a post and took three
+      pictures when there was space.
+
+
+      During the morning, he also photographed details that did not show faces: hands tying string,
+      empty baskets under a table and chalk prices on a board. These images helped tell the story of
+      the market without every picture being a portrait. Before leaving, Adam showed the fruit
+      seller his favourite photograph and offered to bring a print the next week.
+
+
+      In class, Adam described both the pictures and the conversations that came before them. His
+      teacher asked whether permission had made the task slower. Adam said it had, but the slower
+      pace had helped him notice more. He had returned with fewer photographs than expected and a
+      clearer understanding of the people whose work he was showing.
+    questions:
+      - type: MCQ
+        prompt: Why does Mrs Lan turn away?
+        promptVi: Chọn đáp án đúng theo bài đọc.
+        options:
+          - She has sold all her flowers.
+          - She cannot see the camera.
+          - She does not want a close photograph taken without permission.
+          - She is waiting for Adam’s teacher.
+        answer: She does not want a close photograph taken without permission.
+        explanationVi: Bà Lan không thích người lạ chụp cận mặt khi chưa hỏi.
+      - type: MCQ
+        prompt: What condition does the fruit seller set?
+        promptVi: Chọn đáp án đúng theo bài đọc.
+        options:
+          - Adam must buy every orange.
+          - Adam must not block customers.
+          - The photograph must show no fruit.
+          - Adam must finish the entire course first.
+        answer: Adam must not block customers.
+        explanationVi: Người bán đồng ý nếu Adam không cản khách mua hàng.
+      - type: MCQ
+        prompt: How does asking permission affect Adam’s work?
+        promptVi: Chọn đáp án đúng theo bài đọc.
+        options:
+          - It helps him pay closer attention despite taking longer.
+          - It makes all photographs impossible.
+          - It causes him to ignore the people.
+          - It removes the need for any conversation.
+        answer: It helps him pay closer attention despite taking longer.
+        explanationVi: Làm chậm hơn giúp Adam quan sát kỹ hơn và hiểu người trong ảnh.
+      - type: TRUE_FALSE
+        prompt: Is this statement true or false according to the passage?
+        promptVi: Nhận định này đúng hay sai theo bài đọc?
+        statement: Mrs Lan allows photographs of her flowers.
+        answer: true
+        explanationVi: Bà đồng ý cho chụp hoa nhưng không muốn xuất hiện trong ảnh.
+      - type: TRUE_FALSE
+        prompt: Is this statement true or false according to the passage?
+        promptVi: Nhận định này đúng hay sai theo bài đọc?
+        statement: Every photograph Adam takes is a portrait.
+        answer: false
+        explanationVi: Anh còn chụp bàn tay, giỏ và bảng giá không có khuôn mặt.
+      - type: SHORT_ANSWER
+        prompt: What fruit is the seller weighing? Write one word.
+        promptVi: Trả lời ngắn bằng tiếng Anh, dùng từ trong bài đọc.
+        accept:
+          - oranges
+          - orange
+        explanationVi: Người bán đang cân cam.
+      - type: SHORT_ANSWER
+        prompt: How many pictures does Adam take at the fruit stall?
+        promptVi: Trả lời ngắn bằng tiếng Anh, dùng từ trong bài đọc.
+        accept:
+          - three
+          - "3"
+        explanationVi: Adam chụp ba ảnh ở quầy trái cây.
+      - type: SHORT_ANSWER
+        prompt: What does Adam offer to bring the following week? Write two words.
+        promptVi: Trả lời ngắn bằng tiếng Anh, dùng từ trong bài đọc.
+        accept:
+          - a print
+          - print
+        explanationVi: Adam đề nghị mang một bản ảnh in.
+  - slug: borrowing-a-drill-from-the-library
+    title: Borrowing a Drill from the Library
+    titleVi: Mượn máy khoan ở thư viện
+    topic: daily-life
+    estimatedMinutes: 7
+    source: Sprout original
+    glossary: []
+    body: >-
+      Visitors to the West Lane Library used to ask only about books, magazines and computers. Now a
+      cupboard behind the information desk also holds household tools. The idea came from residents
+      who needed an item for one small job but did not want to buy something they would rarely use
+      again.
+
+
+      The librarian, Priya, began with a survey. Many people mentioned drills and sewing kits, but
+      some requested large machines that the library had no room to store. Priya chose a limited
+      collection that staff could check and explain. Each item came with its original instructions
+      and a list of parts. Borrowers had to complete a short introduction before their first tool
+      loan.
+
+
+      The borrowing period was one week, the same for every tool. At first, items could be reserved
+      only online. A regular visitor pointed out that she used the library precisely because she did
+      not have reliable internet at home. The team added telephone bookings and reservations at the
+      desk so that the new service would not exclude her.
+
+
+      Not every donation was accepted. Someone offered an old drill without instructions, and
+      another person brought a machine with a damaged cable. The library thanked them but declined
+      both items. Priya explained that a useful collection depended on condition and support, not
+      just the number of objects available.
+
+
+      After three months, sewing kits were borrowed more often than drills. The staff had expected
+      the opposite. They bought two additional kits using the small project budget and postponed
+      buying more drills. For Priya, that adjustment was a sign of success. The service was
+      beginning to follow what residents actually used rather than what the organisers had imagined
+      they would need.
+    questions:
+      - type: MCQ
+        prompt: Why did residents suggest a tool collection?
+        promptVi: Chọn đáp án đúng theo bài đọc.
+        options:
+          - They wanted to replace all books.
+          - They needed occasional access to tools without buying them.
+          - They wanted the library to become a factory.
+          - They already owned every item.
+        answer: They needed occasional access to tools without buying them.
+        explanationVi: Người dân chỉ cần dụng cụ cho vài việc nhỏ nên muốn mượn thay vì mua.
+      - type: MCQ
+        prompt: Why are telephone and desk reservations added?
+        promptVi: Chọn đáp án đúng theo bài đọc.
+        options:
+          - To make the service available to people without reliable home internet
+          - To prevent people from making reservations
+          - To remove all online bookings
+          - To sell more computers
+        answer: To make the service available to people without reliable home internet
+        explanationVi: Hai cách đặt thêm giúp người không có mạng ổn định ở nhà vẫn sử dụng được.
+      - type: MCQ
+        prompt: What guides the later purchase of sewing kits?
+        promptVi: Chọn đáp án đúng theo bài đọc.
+        options:
+          - A guess made before the project
+          - A rule requiring identical numbers of tools
+          - The actual pattern of borrowing
+          - A request from the damaged-drill donor
+        answer: The actual pattern of borrowing
+        explanationVi: Bộ may vá được mượn nhiều hơn dự kiến nên thư viện mua thêm theo nhu cầu thật.
+      - type: TRUE_FALSE
+        prompt: Is this statement true or false according to the passage?
+        promptVi: Nhận định này đúng hay sai theo bài đọc?
+        statement: Borrowers complete an introduction before their first tool loan.
+        answer: true
+        explanationVi: Người mượn phải tham gia phần giới thiệu ngắn trước lần mượn dụng cụ đầu tiên.
+      - type: TRUE_FALSE
+        prompt: Is this statement true or false according to the passage?
+        promptVi: Nhận định này đúng hay sai theo bài đọc?
+        statement: The library accepts every donated tool.
+        answer: false
+        explanationVi: Thư viện từ chối đồ thiếu hướng dẫn hoặc có dây điện hỏng.
+      - type: SHORT_ANSWER
+        prompt: How long can each tool be borrowed? Write two words.
+        promptVi: Trả lời ngắn bằng tiếng Anh, dùng từ trong bài đọc.
+        accept:
+          - one week
+          - a week
+          - 1 week
+        explanationVi: Thời hạn mượn là một tuần.
+      - type: SHORT_ANSWER
+        prompt: "Which items are borrowed more often: drills or sewing kits?"
+        promptVi: Trả lời ngắn bằng tiếng Anh, dùng từ trong bài đọc.
+        accept:
+          - sewing kits
+        explanationVi: Bộ may vá được mượn thường xuyên hơn máy khoan.
+      - type: SHORT_ANSWER
+        prompt: How many additional sewing kits does the library buy?
+        promptVi: Trả lời ngắn bằng tiếng Anh, dùng từ trong bài đọc.
+        accept:
+          - two
+          - "2"
+        explanationVi: Thư viện mua thêm hai bộ may vá.
+  - slug: the-bakerys-last-tray
+    title: The Bakery’s Last Tray
+    titleVi: Khay bánh cuối ngày
+    topic: work
+    estimatedMinutes: 7
+    source: Sprout original
+    glossary: []
+    body: >-
+      At six every evening, the staff at Maple Bakery counted the bread that had not sold. Some days
+      there were only a few rolls. On other days, whole trays remained. The owner, Yusuf, disliked
+      the waste, but baking too little meant disappointing customers who came after work.
+
+
+      He asked the team to keep a record for four weeks. They noted the weather, nearby events and
+      the number of each product left at closing. The records showed that cheese rolls often
+      remained on wet Tuesdays, while plain bread sold steadily throughout the week. A large sports
+      event nearby caused extra demand, but only on the days when matches finished before the shop
+      closed.
+
+
+      The bakery made two changes. It reduced the first batch of cheese rolls on Tuesdays and kept
+      ingredients ready for a smaller second batch if needed. It also introduced a collection box
+      that customers could reserve after four o'clock. The contents varied with what was left, and
+      the description made that clear. Customers seeking a particular product still bought it in the
+      usual way.
+
+
+      Yusuf considered simply lowering every price near closing time. However, a staff member
+      pointed out that customers might then wait for discounts, making demand harder to predict.
+      They decided to test the boxes first and review the results before changing anything else.
+
+
+      After a month, the total amount of unsold bread had fallen, but the bakery still had difficult
+      days. On one sunny Tuesday, an unexpected group bought every cheese roll by lunchtime. Yusuf
+      wrote the exception in the record rather than abandoning the plan. He wanted a system that
+      could learn from surprises, not a rule pretending surprises would never happen.
+    questions:
+      - type: MCQ
+        prompt: Why does Yusuf collect records before making changes?
+        promptVi: Chọn đáp án đúng theo bài đọc.
+        options:
+          - To find patterns in what remains unsold
+          - To choose a new shop name
+          - To stop selling plain bread
+          - To record customers’ private messages
+        answer: To find patterns in what remains unsold
+        explanationVi: Nhật ký giúp thấy mối liên hệ giữa sản phẩm còn lại, thời tiết và sự kiện.
+      - type: MCQ
+        prompt: What should customers know about the collection boxes?
+        promptVi: Chọn đáp án đúng theo bài đọc.
+        options:
+          - Every box contains only cheese rolls.
+          - They must choose each item in advance.
+          - The contents depend on what is left.
+          - The boxes are sold before breakfast.
+        answer: The contents depend on what is left.
+        explanationVi: Mô tả ghi rõ đồ trong hộp thay đổi theo phần bánh còn lại.
+      - type: MCQ
+        prompt: What does Yusuf do after an unusual sunny Tuesday?
+        promptVi: Chọn đáp án đúng theo bài đọc.
+        options:
+          - He stops keeping records.
+          - He records the exception and continues learning.
+          - He closes the bakery permanently.
+          - He concludes the weather never matters.
+        answer: He records the exception and continues learning.
+        explanationVi: Yusuf ghi trường hợp ngoại lệ thay vì bỏ kế hoạch ngay.
+      - type: TRUE_FALSE
+        prompt: Is this statement true or false according to the passage?
+        promptVi: Nhận định này đúng hay sai theo bài đọc?
+        statement: Plain bread sells steadily through the week.
+        answer: true
+        explanationVi: Sổ ghi cho thấy bánh mì thường bán đều suốt tuần.
+      - type: TRUE_FALSE
+        prompt: Is this statement true or false according to the passage?
+        promptVi: Nhận định này đúng hay sai theo bài đọc?
+        statement: The bakery immediately discounts every product near closing.
+        answer: false
+        explanationVi: Họ chọn thử hộp bánh trước, chưa giảm giá toàn bộ.
+      - type: SHORT_ANSWER
+        prompt: For how many weeks does the team first collect records?
+        promptVi: Trả lời ngắn bằng tiếng Anh, dùng từ trong bài đọc.
+        accept:
+          - four
+          - "4"
+          - four weeks
+          - 4 weeks
+        explanationVi: Đợt ghi dữ liệu đầu kéo dài bốn tuần.
+      - type: SHORT_ANSWER
+        prompt: After what time can customers reserve a collection box?
+        promptVi: Trả lời ngắn bằng tiếng Anh, dùng từ trong bài đọc.
+        accept:
+          - four o’clock
+          - four
+          - "4"
+          - 4 p.m.
+          - 4 pm
+          - 4:00
+          - 4:00 pm
+          - 16:00
+          - four in the afternoon
+        explanationVi: Có thể đặt hộp sau bốn giờ chiều.
+      - type: SHORT_ANSWER
+        prompt: On which weekday is the first cheese-roll batch reduced?
+        promptVi: Trả lời ngắn bằng tiếng Anh, dùng từ trong bài đọc.
+        accept:
+          - Tuesday
+          - Tuesdays
+        explanationVi: Mẻ bánh cuộn phô mai đầu tiên được giảm vào thứ Ba.

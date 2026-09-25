@@ -1,0 +1,450 @@
+[
+  {
+    "id": "reading-part6-t1",
+    "skill": "reading",
+    "title": "Part 6 — Text 1: notice of revised terms",
+    "format": "TOEIC Reading — Part 6 · Text Completion 1 (câu 131–134)",
+    "instructionsVi": "Văn bản pháp lý ngắn nhưng dày. Câu chèn ở mức này thường có hai phương án đều hợp ngữ cảnh; chọn câu nối được cả câu trước lẫn câu sau.",
+    "promptEn": "Read the notice and choose the best option for each numbered blank.",
+    "passage": "NOTICE TO ACCOUNT HOLDERS — Revised Service Terms\n\nWe are writing to inform you of changes to our terms of service, effective 1 September. These terms (131) ______ the version issued in March 2023.\n\nThe principal change concerns escalation. Support requests unresolved after 48 hours will now be referred automatically to a named account manager. (132) ______\n\nWe are also clarifying the position on planned maintenance. Scheduled downtime notified at least seven days in advance will not count towards the availability guarantee. Unplanned downtime will continue to count in full, and credits will be applied on a (133) ______ basis according to the hours affected.\n\nIf you do not wish to accept the revised terms, you may terminate without penalty by writing to us before 31 August. (134) ______ that date, continued use of the service will be taken as acceptance.",
+    "timeLimitSec": 240,
+    "questions": [
+      {
+        "id": "p6-131",
+        "kind": "mcq",
+        "prompt": "131.",
+        "options": [
+          {
+            "id": "a",
+            "text": "supersede"
+          },
+          {
+            "id": "b",
+            "text": "surpass"
+          },
+          {
+            "id": "c",
+            "text": "suspend"
+          },
+          {
+            "id": "d",
+            "text": "supplement"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "Điều khoản mới THAY THẾ bản cũ và làm bản cũ hết hiệu lực. 'supplement' là bổ sung mà bản cũ vẫn còn hiệu lực — bẫy chính."
+      },
+      {
+        "id": "p6-132",
+        "kind": "mcq",
+        "prompt": "132. — chọn câu phù hợp nhất để chèn vào",
+        "options": [
+          {
+            "id": "a",
+            "text": "Support requests must now be submitted by telephone."
+          },
+          {
+            "id": "b",
+            "text": "Previously, escalation depended on the customer requesting it."
+          },
+          {
+            "id": "c",
+            "text": "Account managers will no longer be assigned."
+          },
+          {
+            "id": "d",
+            "text": "The 48-hour target has been removed."
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "Câu trước nhấn mạnh từ 'automatically', nên câu chèn hợp lý là nêu tình trạng cũ để làm rõ thay đổi. (C) và (D) mâu thuẫn trực tiếp."
+      },
+      {
+        "id": "p6-133",
+        "kind": "mcq",
+        "prompt": "133.",
+        "options": [
+          {
+            "id": "a",
+            "text": "prorate"
+          },
+          {
+            "id": "b",
+            "text": "prorating"
+          },
+          {
+            "id": "c",
+            "text": "prorated"
+          },
+          {
+            "id": "d",
+            "text": "proration"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "Trước danh từ 'basis' cần tính từ; phân từ quá khứ 'prorated' làm chức năng đó."
+      },
+      {
+        "id": "p6-134",
+        "kind": "mcq",
+        "prompt": "134.",
+        "options": [
+          {
+            "id": "a",
+            "text": "Among"
+          },
+          {
+            "id": "b",
+            "text": "Within"
+          },
+          {
+            "id": "c",
+            "text": "Toward"
+          },
+          {
+            "id": "d",
+            "text": "Beyond"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'Beyond that date' = sau mốc thời gian đó. 'Within' nghĩa ngược lại, làm hỏng logic."
+      }
+    ]
+  },
+  {
+    "id": "reading-part6-t2",
+    "skill": "reading",
+    "title": "Part 6 — Text 2: internal memo on expenses",
+    "format": "TOEIC Reading — Part 6 · Text Completion 2 (câu 135–138)",
+    "instructionsVi": "Bản ghi nhớ dài, chỗ trống phụ thuộc vào thông tin cách đó hai, ba câu. Đọc hết đoạn trước khi quyết định.",
+    "promptEn": "Read the memo and choose the best option for each numbered blank.",
+    "passage": "MEMORANDUM\nTo: All staff\nFrom: Finance\nSubject: Revised expenses policy, effective 1 November\n\nFollowing last month's review, we are making three changes.\n\nFirst, all claims must be submitted through the online portal. Paper forms will no longer be (135) ______ after 31 October, including for claims relating to earlier months.\n\nSecond, receipts are required for every item regardless of value. Previously, items under fifteen dollars needed no documentation. (136) ______\n\nThird, claims must be submitted within sixty days of the expense being (137) ______ . Later claims will be considered only in exceptional circumstances and must be approved by a department head.\n\nWe recognise these changes add administrative work. They were introduced (138) ______ an audit finding that the previous system could not reliably match claims to business purposes.",
+    "timeLimitSec": 240,
+    "questions": [
+      {
+        "id": "p6-135",
+        "kind": "mcq",
+        "prompt": "135.",
+        "options": [
+          {
+            "id": "a",
+            "text": "excepted"
+          },
+          {
+            "id": "b",
+            "text": "accepted"
+          },
+          {
+            "id": "c",
+            "text": "expected"
+          },
+          {
+            "id": "d",
+            "text": "accessed"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'no longer be accepted' = không còn được chấp nhận. 'excepted' (loại trừ) và 'expected' là bẫy gần âm."
+      },
+      {
+        "id": "p6-136",
+        "kind": "mcq",
+        "prompt": "136. — chọn câu phù hợp nhất để chèn vào",
+        "options": [
+          {
+            "id": "a",
+            "text": "That exemption has been removed."
+          },
+          {
+            "id": "b",
+            "text": "The threshold has been raised to fifty dollars."
+          },
+          {
+            "id": "c",
+            "text": "Receipts should be posted to Finance."
+          },
+          {
+            "id": "d",
+            "text": "Staff may now claim without documentation."
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "Câu trước nói trước đây dưới 15 đô không cần chứng từ, quy định mới yêu cầu mọi khoản đều cần — nên câu chèn phải xác nhận ngoại lệ đó đã bị bỏ."
+      },
+      {
+        "id": "p6-137",
+        "kind": "mcq",
+        "prompt": "137.",
+        "options": [
+          {
+            "id": "a",
+            "text": "incur"
+          },
+          {
+            "id": "b",
+            "text": "incurring"
+          },
+          {
+            "id": "c",
+            "text": "incurs"
+          },
+          {
+            "id": "d",
+            "text": "incurred"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'the expense being incurred' — dạng bị động sau 'being'. Chi phí là thứ BỊ phát sinh."
+      },
+      {
+        "id": "p6-138",
+        "kind": "mcq",
+        "prompt": "138.",
+        "options": [
+          {
+            "id": "a",
+            "text": "in spite of"
+          },
+          {
+            "id": "b",
+            "text": "instead of"
+          },
+          {
+            "id": "c",
+            "text": "in response to"
+          },
+          {
+            "id": "d",
+            "text": "in addition to"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "Thay đổi được đưa ra ĐỂ ĐÁP LẠI phát hiện kiểm toán — quan hệ nguyên nhân."
+      }
+    ]
+  },
+  {
+    "id": "reading-part6-t3",
+    "skill": "reading",
+    "title": "Part 6 — Text 3: letter about a tender outcome",
+    "format": "TOEIC Reading — Part 6 · Text Completion 3 (câu 139–142)",
+    "instructionsVi": "Thư thông báo kết quả đấu thầu. Giọng trang trọng, nhiều cụm cố định và một câu chèn mang tính an ủi.",
+    "promptEn": "Read the letter and choose the best option for each numbered blank.",
+    "passage": "Dear Mr Okafor,\n\nThank you for your tender for the Kirby depot maintenance contract.\n\nAfter careful evaluation, I regret to inform you that your submission was not successful on this occasion. The panel scored all six tenders against price, technical capability and social value, and yours placed third.\n\nYour technical response was among the strongest we received, and the panel commented particularly on your proposed response times. (139) ______\n\nThe decisive difference was price, where the (140) ______ bid was approximately eleven per cent below yours.\n\nWe would (141) ______ you to tender for future opportunities. Our forward plan is published each January and lists contracts coming to market in the following eighteen months.\n\nIf you would like detailed feedback, please contact me before 30 June, (142) ______ which point the evaluation papers are archived.\n\nYours sincerely,\nIna Duarte\nProcurement Manager",
+    "timeLimitSec": 240,
+    "questions": [
+      {
+        "id": "p6-139",
+        "kind": "mcq",
+        "prompt": "139. — chọn câu phù hợp nhất để chèn vào",
+        "options": [
+          {
+            "id": "a",
+            "text": "Unfortunately your technical response did not meet the minimum standard."
+          },
+          {
+            "id": "b",
+            "text": "No feedback on technical matters is available."
+          },
+          {
+            "id": "c",
+            "text": "The panel did not score technical capability."
+          },
+          {
+            "id": "d",
+            "text": "It was not, therefore, the technical element that decided the outcome."
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "Câu trước khen phần kỹ thuật, câu sau nói giá mới là yếu tố quyết định — câu chèn phải bắc cầu giữa hai ý đó. (A), (B) và (C) đều mâu thuẫn với văn bản."
+      },
+      {
+        "id": "p6-140",
+        "kind": "mcq",
+        "prompt": "140.",
+        "options": [
+          {
+            "id": "a",
+            "text": "winning"
+          },
+          {
+            "id": "b",
+            "text": "won"
+          },
+          {
+            "id": "c",
+            "text": "wins"
+          },
+          {
+            "id": "d",
+            "text": "win"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "Cần tính từ đứng trước 'bid'. Phân từ hiện tại 'winning' làm chức năng đó: hồ sơ thắng thầu."
+      },
+      {
+        "id": "p6-141",
+        "kind": "mcq",
+        "prompt": "141.",
+        "options": [
+          {
+            "id": "a",
+            "text": "discourage"
+          },
+          {
+            "id": "b",
+            "text": "require"
+          },
+          {
+            "id": "c",
+            "text": "encourage"
+          },
+          {
+            "id": "d",
+            "text": "prevent"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "Câu tiếp theo giới thiệu kế hoạch đấu thầu tương lai, nên ý ở đây là mời tham gia tiếp. (A) và (D) đảo ngược ý."
+      },
+      {
+        "id": "p6-142",
+        "kind": "mcq",
+        "prompt": "142.",
+        "options": [
+          {
+            "id": "a",
+            "text": "before"
+          },
+          {
+            "id": "b",
+            "text": "after"
+          },
+          {
+            "id": "c",
+            "text": "until"
+          },
+          {
+            "id": "d",
+            "text": "since"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'after which point' = sau thời điểm đó thì hồ sơ được lưu trữ. Cụm quan hệ chỉ thời gian."
+      }
+    ]
+  },
+  {
+    "id": "reading-part6-t4",
+    "skill": "reading",
+    "title": "Part 6 — Text 4: article on remote working policy",
+    "format": "TOEIC Reading — Part 6 · Text Completion 4 (câu 143–146)",
+    "instructionsVi": "Bài báo có lập luận hai chiều. Câu chèn phải giữ đúng mạch tranh luận, không được đảo chiều.",
+    "promptEn": "Read the article and choose the best option for each numbered blank.",
+    "passage": "FAIRPORT — Three years after most local employers adopted hybrid working, the picture is more (143) ______ than either side of the argument predicted.\n\nOffice attendance across the town's largest employers has settled at around sixty per cent of pre-2020 levels and has not moved since 2023. Retail spending in the centre, however, fell by only fifteen per cent, and evening trade has grown.\n\n(144) ______ The pattern of demand shifted rather than disappearing.\n\nEmployers report a similar split. Those who mandated a full return have not, on the whole, seen the productivity gains they expected, (145) ______ several have recorded higher turnover among staff with caring responsibilities.\n\nWhat most managers now describe as decisive is not the number of days in the office but whether those days are (146) ______ — that is, whether the team is present at the same time.",
+    "timeLimitSec": 240,
+    "questions": [
+      {
+        "id": "p6-143",
+        "kind": "mcq",
+        "prompt": "143.",
+        "options": [
+          {
+            "id": "a",
+            "text": "mixing"
+          },
+          {
+            "id": "b",
+            "text": "mixed"
+          },
+          {
+            "id": "c",
+            "text": "mixture"
+          },
+          {
+            "id": "d",
+            "text": "mix"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "Sau 'more' và trước 'than' cần tính từ. 'mixed' = phức tạp, không rõ ràng một chiều."
+      },
+      {
+        "id": "p6-144",
+        "kind": "mcq",
+        "prompt": "144. — chọn câu phù hợp nhất để chèn vào",
+        "options": [
+          {
+            "id": "a",
+            "text": "Weekday lunch trade declined, but weekend and evening visits rose."
+          },
+          {
+            "id": "b",
+            "text": "Retail spending collapsed across every category."
+          },
+          {
+            "id": "c",
+            "text": "Office attendance has returned to previous levels."
+          },
+          {
+            "id": "d",
+            "text": "No data on retail spending is available."
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "Câu sau nói 'The pattern of demand shifted rather than disappearing', nên câu chèn phải mô tả sự dịch chuyển đó. (B), (C), (D) đều mâu thuẫn với đoạn trên."
+      },
+      {
+        "id": "p6-145",
+        "kind": "mcq",
+        "prompt": "145.",
+        "options": [
+          {
+            "id": "a",
+            "text": "but"
+          },
+          {
+            "id": "b",
+            "text": "or"
+          },
+          {
+            "id": "c",
+            "text": "nor"
+          },
+          {
+            "id": "d",
+            "text": "and"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "Hai vế cùng chiều: không được lợi như kỳ vọng, VÀ còn mất người. 'but' sẽ đảo chiều lập luận."
+      },
+      {
+        "id": "p6-146",
+        "kind": "mcq",
+        "prompt": "146.",
+        "options": [
+          {
+            "id": "a",
+            "text": "coordinating"
+          },
+          {
+            "id": "b",
+            "text": "coordinate"
+          },
+          {
+            "id": "c",
+            "text": "coordinated"
+          },
+          {
+            "id": "d",
+            "text": "coordination"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "Sau 'are' cần tính từ, và mệnh đề giải thích ngay sau ('the team is present at the same time') xác nhận nghĩa 'được sắp trùng nhau'."
+      }
+    ]
+  }
+]

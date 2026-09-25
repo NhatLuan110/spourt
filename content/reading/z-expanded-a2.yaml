@@ -1,0 +1,908 @@
+cefr: A2
+passages:
+  - slug: the-umbrella-with-a-yellow-ribbon
+    title: The Umbrella with a Yellow Ribbon
+    titleVi: Chiếc ô có dải ruy băng vàng
+    topic: daily-life
+    estimatedMinutes: 5
+    source: Sprout original
+    glossary: []
+    body: >-
+      Linh usually walks home from the library on Fridays. Last Friday, the weather was dry when she
+      left home, but her father asked her to take an umbrella. It was blue, with a small yellow
+      ribbon on the handle. Linh put it under her chair at the library.
+
+
+      At five o'clock, her friend called and asked her to meet outside. They talked about a film and
+      walked to the bus stop together. On the bus, Linh looked in her bag. Her umbrella was still at
+      the library. She could not go back because the building closed at half past five.
+
+
+      The next morning, a neighbour knocked on her door. Mr Binh was holding the blue umbrella. His
+      daughter had found it under a chair. She remembered the yellow ribbon because Linh had shown
+      her how to tie it the week before. Mr Binh lived only two doors away, so he brought it over
+      before breakfast.
+
+
+      Linh thanked him and wrote her first name inside the umbrella. That afternoon, she returned to
+      the library with a thank-you card for his daughter. This time, she checked under her chair
+      before leaving.
+    questions:
+      - type: MCQ
+        prompt: What is the main event in the story?
+        promptVi: Chọn đáp án đúng theo bài đọc.
+        options:
+          - Linh buys a new umbrella.
+          - A neighbour returns a forgotten umbrella.
+          - The library changes its hours.
+          - Linh loses a bus ticket.
+        answer: A neighbour returns a forgotten umbrella.
+        explanationVi: Con gái bác Bình tìm thấy chiếc ô Linh để quên và bác mang trả.
+      - type: MCQ
+        prompt: Why did Linh take the umbrella on a dry day?
+        promptVi: Chọn đáp án đúng theo bài đọc.
+        options:
+          - Her father asked her to.
+          - She wanted to lend it to a friend.
+          - She worked in an umbrella shop.
+          - It was raining inside the library.
+        answer: Her father asked her to.
+        explanationVi: Ngay đoạn đầu, bố nhắc Linh mang theo ô dù trời đang khô ráo.
+      - type: MCQ
+        prompt: What helped the girl recognise the umbrella?
+        promptVi: Chọn đáp án đúng theo bài đọc.
+        options:
+          - The price on its label
+          - A photograph inside it
+          - The yellow ribbon
+          - A broken handle
+        answer: The yellow ribbon
+        explanationVi: Cô bé nhớ dải ruy băng vàng mà Linh đã chỉ cách buộc.
+      - type: TRUE_FALSE
+        prompt: Is this statement true or false according to the passage?
+        promptVi: Nhận định này đúng hay sai theo bài đọc?
+        statement: Linh left her umbrella under a library chair.
+        answer: true
+        explanationVi: Linh đặt ô dưới ghế rồi quên mang về.
+      - type: TRUE_FALSE
+        prompt: Is this statement true or false according to the passage?
+        promptVi: Nhận định này đúng hay sai theo bài đọc?
+        statement: Mr Binh lived a long bus journey away.
+        answer: false
+        explanationVi: Bác Bình sống cách nhà Linh chỉ hai căn.
+      - type: SHORT_ANSWER
+        prompt: What colour was the umbrella? Write one word.
+        promptVi: Trả lời ngắn bằng tiếng Anh, dùng từ trong bài đọc.
+        accept:
+          - blue
+        explanationVi: Bài ghi chiếc ô màu xanh dương.
+      - type: SHORT_ANSWER
+        prompt: What did Linh write inside the umbrella? Write three words.
+        promptVi: Trả lời ngắn bằng tiếng Anh, dùng từ trong bài đọc.
+        accept:
+          - her first name
+        explanationVi: Linh viết tên mình vào mặt trong chiếc ô.
+      - type: SHORT_ANSWER
+        prompt: What did Linh bring to the library the next afternoon? Write a three-word phrase.
+        promptVi: Trả lời ngắn bằng tiếng Anh, dùng từ trong bài đọc.
+        accept:
+          - a thank-you card
+          - thank-you card
+        explanationVi: Linh mang thiệp cảm ơn cho con gái bác Bình.
+  - slug: a-recipe-for-cousin-mia
+    title: A Recipe for Cousin Mia
+    titleVi: Công thức gửi chị họ Mia
+    topic: daily-life
+    estimatedMinutes: 5
+    source: Sprout original
+    glossary: []
+    body: >-
+      Every Sunday, Bao helps his grandmother make vegetable soup. She never uses a recipe book. She
+      looks at the vegetables in the kitchen and decides what to put in the pot. Bao enjoys watching
+      her, but he cannot remember every step.
+
+
+      His cousin Mia recently moved to another city. She called on Saturday because she wanted to
+      make the same soup. Bao offered to write the recipe, but his grandmother suggested making a
+      short video. Mia could watch the steps and see how small the vegetables should be.
+
+
+      They began after breakfast. Bao washed three carrots and two potatoes. His grandmother cut
+      them while he held his phone. At first, he stood too far away. Mia would not be able to see
+      the pot clearly, so he moved closer. He also asked his grandmother to speak slowly. They
+      stopped the video while the soup cooked for twenty minutes.
+
+
+      Before sending it, Bao watched the video and added a list of ingredients. On Sunday evening,
+      Mia sent a photo of her own soup. She had used beans instead of potatoes because there were no
+      potatoes in her kitchen. The colour was different, but she said it tasted like home.
+    questions:
+      - type: MCQ
+        prompt: Why do Bao and his grandmother make a video?
+        promptVi: Chọn đáp án đúng theo bài đọc.
+        options:
+          - To help Mia make the soup
+          - To sell a new phone
+          - To enter a cooking competition
+          - To advertise a restaurant
+        answer: To help Mia make the soup
+        explanationVi: Mia muốn nấu món súp của bà; video giúp chị nhìn rõ các bước.
+      - type: MCQ
+        prompt: Why does Bao move closer?
+        promptVi: Chọn đáp án đúng theo bài đọc.
+        options:
+          - The kitchen is cold.
+          - His phone has no sound.
+          - The vegetables are on the floor.
+          - The pot is difficult to see from far away.
+        answer: The pot is difficult to see from far away.
+        explanationVi: Đứng xa khiến người xem khó nhìn rõ nồi nên Bảo bước lại gần.
+      - type: MCQ
+        prompt: What does Mia change in her soup?
+        promptVi: Chọn đáp án đúng theo bài đọc.
+        options:
+          - She adds rice instead of carrots.
+          - She uses beans instead of potatoes.
+          - She cooks it without vegetables.
+          - She uses a recipe from a restaurant.
+        answer: She uses beans instead of potatoes.
+        explanationVi: Mia thay khoai tây bằng đậu vì bếp không còn khoai tây.
+      - type: TRUE_FALSE
+        prompt: Is this statement true or false according to the passage?
+        promptVi: Nhận định này đúng hay sai theo bài đọc?
+        statement: Bao's grandmother usually cooks without a recipe book.
+        answer: true
+        explanationVi: Bà không dùng sách công thức khi nấu món súp.
+      - type: TRUE_FALSE
+        prompt: Is this statement true or false according to the passage?
+        promptVi: Nhận định này đúng hay sai theo bài đọc?
+        statement: Bao sends the video without watching it first.
+        answer: false
+        explanationVi: Bảo xem lại video và thêm danh sách nguyên liệu trước khi gửi.
+      - type: SHORT_ANSWER
+        prompt: How many carrots does Bao wash? Write the number.
+        promptVi: Trả lời ngắn bằng tiếng Anh, dùng từ trong bài đọc.
+        accept:
+          - three
+          - "3"
+        explanationVi: Bảo rửa ba củ cà rốt.
+      - type: SHORT_ANSWER
+        prompt: How long does the soup cook? Write a number and a unit.
+        promptVi: Trả lời ngắn bằng tiếng Anh, dùng từ trong bài đọc.
+        accept:
+          - twenty minutes
+          - 20 minutes
+        explanationVi: Họ tạm dừng quay khi súp được nấu trong hai mươi phút.
+      - type: SHORT_ANSWER
+        prompt: What does Mia send on Sunday evening? Write two words.
+        promptVi: Trả lời ngắn bằng tiếng Anh, dùng từ trong bài đọc.
+        accept:
+          - a photo
+          - photo
+        explanationVi: Tối Chủ nhật, Mia gửi ảnh món súp do mình nấu.
+  - slug: the-bus-stop-beside-the-bank
+    title: The Bus Stop beside the Bank
+    titleVi: Trạm xe buýt cạnh ngân hàng
+    topic: travel
+    estimatedMinutes: 5
+    source: Sprout original
+    glossary: []
+    body: >-
+      On Tuesday, An had an interview at a small hotel. He knew the hotel was near the river, but he
+      had never travelled there by bus. He checked a map before leaving and wrote the hotel address
+      on a piece of paper.
+
+
+      It started raining while he walked to the stop. A bus with the number twelve arrived, and An
+      got on. He showed the driver his address. The driver explained that this bus went away from
+      the river. An needed the same bus number, but in the opposite direction. The driver let him
+      get off before closing the doors.
+
+
+      An crossed the road carefully. There was another stop beside a bank, but its sign was behind a
+      tree. A woman waiting there confirmed that he was now in the right place. She told him to get
+      off at Central Market and walk across the small bridge.
+
+
+      The next bus came after ten minutes. An reached the hotel at nine twenty, ten minutes before
+      his interview. His shoes were wet, so he dried them with paper in the bathroom. Later, he
+      saved both bus stops on his phone. A number alone was not enough to plan the journey.
+    questions:
+      - type: MCQ
+        prompt: What mistake does An make?
+        promptVi: Chọn đáp án đúng theo bài đọc.
+        options:
+          - He goes to the wrong hotel.
+          - He takes a train instead of a bus.
+          - He gets on a bus going in the wrong direction.
+          - He leaves his address at home.
+        answer: He gets on a bus going in the wrong direction.
+        explanationVi: An chọn đúng số xe nhưng xe chạy theo hướng ngược với nơi cần đến.
+      - type: MCQ
+        prompt: Why is the second bus-stop sign difficult to see?
+        promptVi: Chọn đáp án đúng theo bài đọc.
+        options:
+          - A tree is in front of it.
+          - It has fallen into the river.
+          - It is inside the bank.
+          - The driver has taken it away.
+        answer: A tree is in front of it.
+        explanationVi: Biển trạm nằm sau một cái cây.
+      - type: MCQ
+        prompt: What does An learn from the journey?
+        promptVi: Chọn đáp án đúng theo bài đọc.
+        options:
+          - All buses stop at hotels.
+          - He should check the direction as well as the number.
+          - Maps never help travellers.
+          - Interviews always begin late.
+        answer: He should check the direction as well as the number.
+        explanationVi: Câu cuối nhấn mạnh số xe thôi chưa đủ; cần kiểm tra cả hướng đi.
+      - type: TRUE_FALSE
+        prompt: Is this statement true or false according to the passage?
+        promptVi: Nhận định này đúng hay sai theo bài đọc?
+        statement: The driver lets An leave before the bus departs.
+        answer: true
+        explanationVi: Tài xế cho An xuống trước khi đóng cửa.
+      - type: TRUE_FALSE
+        prompt: Is this statement true or false according to the passage?
+        promptVi: Nhận định này đúng hay sai theo bài đọc?
+        statement: An arrives after his interview has started.
+        answer: false
+        explanationVi: An đến lúc 9 giờ 20, sớm mười phút so với giờ phỏng vấn.
+      - type: SHORT_ANSWER
+        prompt: "Where is the second bus stop? Complete: beside a ___."
+        promptVi: Trả lời ngắn bằng tiếng Anh, dùng từ trong bài đọc.
+        accept:
+          - bank
+        explanationVi: Trạm đúng nằm cạnh một ngân hàng.
+      - type: SHORT_ANSWER
+        prompt: At which stop should An leave the bus? Write the two-word name.
+        promptVi: Trả lời ngắn bằng tiếng Anh, dùng từ trong bài đọc.
+        accept:
+          - Central Market
+        explanationVi: Người phụ nữ bảo An xuống ở Central Market.
+      - type: SHORT_ANSWER
+        prompt: How long does An wait for the next bus?
+        promptVi: Trả lời ngắn bằng tiếng Anh, dùng từ trong bài đọc.
+        accept:
+          - ten minutes
+          - 10 minutes
+        explanationVi: Xe tiếp theo đến sau mười phút.
+  - slug: saras-first-bookshop-shift
+    title: Sara’s First Bookshop Shift
+    titleVi: Ca làm đầu tiên của Sara ở hiệu sách
+    topic: work
+    estimatedMinutes: 5
+    source: Sprout original
+    glossary: []
+    body: >-
+      Sara began a Saturday job at a bookshop last month. On her first morning, the owner, Mr Lee,
+      showed her the shelves. Children's books were near the window, travel books were at the back,
+      and dictionaries were beside the desk. He gave Sara a small notebook for questions.
+
+
+      Her first customer wanted a book about growing vegetables on a balcony. Sara looked in the
+      cooking section because she heard the word vegetables. After a few minutes, she asked Mr Lee
+      for help. He showed her the gardening shelf and explained that listening to the whole request
+      was important.
+
+
+      Later, a father asked for a story for his daughter. This time, Sara asked how old the girl was
+      and what she enjoyed. The father said she was eight and loved animals. Sara found two books
+      and let him choose. He bought the one about a lost dog.
+
+
+      Before lunch, Sara wrote down the names of the sections she often confused. In the afternoon,
+      she put new price labels on some notebooks. She made one mistake, noticed it, and changed the
+      label. When her shift ended, Mr Lee thanked her for asking questions instead of pretending to
+      know everything.
+    questions:
+      - type: MCQ
+        prompt: What is the story mainly about?
+        promptVi: Chọn đáp án đúng theo bài đọc.
+        options:
+          - A customer opening a shop
+          - A child learning to garden
+          - An owner writing a book
+          - Sara learning during her first shift
+        answer: Sara learning during her first shift
+        explanationVi: Bài kể những việc Sara học được trong ca làm đầu tiên.
+      - type: MCQ
+        prompt: Why does Sara first search the cooking section?
+        promptVi: Chọn đáp án đúng theo bài đọc.
+        options:
+          - The owner tells her to.
+          - She focuses on the word vegetables.
+          - All gardening books are there.
+          - The customer asks for soup recipes.
+        answer: She focuses on the word vegetables.
+        explanationVi: Sara nghe từ vegetables nên tìm nhầm vào khu sách nấu ăn.
+      - type: MCQ
+        prompt: What does Sara do differently with the second customer?
+        promptVi: Chọn đáp án đúng theo bài đọc.
+        options:
+          - She asks more questions about the reader.
+          - She refuses to help him.
+          - She chooses the most expensive book.
+          - She sends him to another shop.
+        answer: She asks more questions about the reader.
+        explanationVi: Sara hỏi tuổi và sở thích của cô bé trước khi tìm sách.
+      - type: TRUE_FALSE
+        prompt: Is this statement true or false according to the passage?
+        promptVi: Nhận định này đúng hay sai theo bài đọc?
+        statement: The girl enjoys stories about animals.
+        answer: true
+        explanationVi: Người bố nói con gái tám tuổi và thích động vật.
+      - type: TRUE_FALSE
+        prompt: Is this statement true or false according to the passage?
+        promptVi: Nhận định này đúng hay sai theo bài đọc?
+        statement: Sara leaves the wrong price label on a notebook.
+        answer: false
+        explanationVi: Cô nhận ra lỗi và thay nhãn giá.
+      - type: SHORT_ANSWER
+        prompt: Which section contains the balcony book? Write one word.
+        promptVi: Trả lời ngắn bằng tiếng Anh, dùng từ trong bài đọc.
+        accept:
+          - gardening
+        explanationVi: Sách trồng rau trên ban công nằm ở khu gardening.
+      - type: SHORT_ANSWER
+        prompt: How old is the daughter? Write the number.
+        promptVi: Trả lời ngắn bằng tiếng Anh, dùng từ trong bài đọc.
+        accept:
+          - eight
+          - "8"
+        explanationVi: Cô bé tám tuổi.
+      - type: SHORT_ANSWER
+        prompt: What animal is in the book the father buys? Write one word.
+        promptVi: Trả lời ngắn bằng tiếng Anh, dùng từ trong bài đọc.
+        accept:
+          - dog
+        explanationVi: Người bố chọn truyện về một chú chó bị lạc.
+  - slug: a-room-ready-for-jo
+    title: A Room Ready for Jo
+    titleVi: Chuẩn bị phòng đón Jo
+    topic: daily-life
+    estimatedMinutes: 5
+    source: Sprout original
+    glossary: []
+    body: >-
+      Kim's friend Jo was coming to stay for three nights. They had met in an English class, but Jo
+      now lived in another town. Kim wanted the spare room to feel comfortable. On Thursday evening,
+      she made a list of things to prepare.
+
+
+      The room had a bed, a chair and a small desk. Kim first moved some old boxes into the
+      cupboard. Then she washed the sheets and opened the window. She planned to buy new curtains,
+      but her brother said the old ones were fine. They spent the money on an extra blanket instead
+      because the nights were cool.
+
+
+      Kim sent Jo a message to ask what time her train would arrive. Jo replied that she would
+      arrive at six on Friday evening. She also said she needed a quiet place for a video call on
+      Saturday morning. Kim checked the desk lamp and wrote the internet password on a card.
+
+
+      When Jo arrived, she put her bag down and smiled at a photo on the desk. It showed their
+      English class on the last day of the course. She did not notice the old curtains. She was
+      happy that Kim had remembered both their time together and her plans for the weekend.
+    questions:
+      - type: MCQ
+        prompt: Why is Kim preparing the room?
+        promptVi: Chọn đáp án đúng theo bài đọc.
+        options:
+          - She is selling her home.
+          - Jo is coming for a short stay.
+          - Her brother is opening a shop.
+          - An English class will meet there.
+        answer: Jo is coming for a short stay.
+        explanationVi: Jo đến ở chơi ba đêm nên Kim chuẩn bị phòng.
+      - type: MCQ
+        prompt: What do Kim and her brother buy?
+        promptVi: Chọn đáp án đúng theo bài đọc.
+        options:
+          - New curtains
+          - A new desk
+          - An extra blanket
+          - A train ticket
+        answer: An extra blanket
+        explanationVi: Họ giữ rèm cũ và dùng tiền mua thêm chăn vì ban đêm lạnh.
+      - type: MCQ
+        prompt: Which action helps Jo with her Saturday plan?
+        promptVi: Chọn đáp án đúng theo bài đọc.
+        options:
+          - Kim checks the desk lamp and provides the internet password.
+          - Kim puts boxes on the bed.
+          - Kim closes the train station.
+          - Kim removes the chair.
+        answer: Kim checks the desk lamp and provides the internet password.
+        explanationVi: Jo cần gọi video; đèn bàn và mật khẩu mạng giúp cô sử dụng phòng cho việc đó.
+      - type: TRUE_FALSE
+        prompt: Is this statement true or false according to the passage?
+        promptVi: Nhận định này đúng hay sai theo bài đọc?
+        statement: Jo and Kim met in an English class.
+        answer: true
+        explanationVi: Bài nói họ quen nhau ở lớp tiếng Anh.
+      - type: TRUE_FALSE
+        prompt: Is this statement true or false according to the passage?
+        promptVi: Nhận định này đúng hay sai theo bài đọc?
+        statement: Jo complains about the old curtains.
+        answer: false
+        explanationVi: Jo thậm chí không để ý rèm cũ và thấy vui vì sự chu đáo của Kim.
+      - type: SHORT_ANSWER
+        prompt: How many nights will Jo stay?
+        promptVi: Trả lời ngắn bằng tiếng Anh, dùng từ trong bài đọc.
+        accept:
+          - three
+          - "3"
+          - three nights
+          - 3 nights
+        explanationVi: Jo sẽ ở ba đêm.
+      - type: SHORT_ANSWER
+        prompt: On which day will Jo have a video call? Write one word.
+        promptVi: Trả lời ngắn bằng tiếng Anh, dùng từ trong bài đọc.
+        accept:
+          - Saturday
+        explanationVi: Cuộc gọi video diễn ra vào sáng thứ Bảy.
+      - type: SHORT_ANSWER
+        prompt: "What does the photograph show? Complete: their ___ ___."
+        promptVi: Trả lời ngắn bằng tiếng Anh, dùng từ trong bài đọc.
+        accept:
+          - English class
+        explanationVi: Ảnh chụp lớp tiếng Anh vào ngày cuối khóa.
+  - slug: football-with-mixed-teams
+    title: Football with Mixed Teams
+    titleVi: Trận bóng với các đội chia lại
+    topic: daily-life
+    estimatedMinutes: 5
+    source: Sprout original
+    glossary: []
+    body: >-
+      The children on Pine Street played football every Sunday. Usually, the older children formed
+      one team and the younger children formed the other. The older team won almost every match.
+      After a few weeks, some younger players stopped coming.
+
+
+      One Sunday, thirteen-year-old Duy suggested a change. He put players of different ages on both
+      teams. His little sister, Nga, was nervous because she had never played with the older
+      children. Duy asked her to stand near the goal and pass the ball to anyone in a blue shirt.
+
+
+      The first half was slow. Some players forgot the new teams and passed to their old friends.
+      During the break, everyone drank water and agreed to call a teammate's name before passing.
+      This helped a lot. Nga made two useful passes, and another young player scored a goal.
+
+
+      The match finished two goals to two. Nobody won, but everyone wanted to play again. They
+      decided to keep the mixed teams for the next month. Duy's neighbour offered to bring orange
+      slices, and Nga promised to invite the children who had stopped coming. She went home tired
+      and happy, carrying the ball under her arm.
+    questions:
+      - type: MCQ
+        prompt: Why did some younger children stop coming?
+        promptVi: Chọn đáp án đúng theo bài đọc.
+        options:
+          - They moved to another street.
+          - The matches were always at night.
+          - The older team almost always won.
+          - There were no footballs.
+        answer: The older team almost always won.
+        explanationVi: Đội lớn tuổi hầu như trận nào cũng thắng nên một số em nhỏ bỏ chơi.
+      - type: MCQ
+        prompt: What change does Duy suggest?
+        promptVi: Chọn đáp án đúng theo bài đọc.
+        options:
+          - Put different ages on both teams
+          - Play without goals
+          - Let only older children play
+          - Stop playing on Sundays
+        answer: Put different ages on both teams
+        explanationVi: Duy chia lại để cả hai đội đều có người lớn và nhỏ tuổi.
+      - type: MCQ
+        prompt: What helps the players after the break?
+        promptVi: Chọn đáp án đúng theo bài đọc.
+        options:
+          - Changing every shirt
+          - Calling a teammate’s name before passing
+          - Asking parents to score
+          - Removing all young players
+        answer: Calling a teammate’s name before passing
+        explanationVi: Các bạn thống nhất gọi tên đồng đội trước khi chuyền bóng.
+      - type: TRUE_FALSE
+        prompt: Is this statement true or false according to the passage?
+        promptVi: Nhận định này đúng hay sai theo bài đọc?
+        statement: Nga makes two useful passes.
+        answer: true
+        explanationVi: Bài nêu Nga có hai đường chuyền hữu ích.
+      - type: TRUE_FALSE
+        prompt: Is this statement true or false according to the passage?
+        promptVi: Nhận định này đúng hay sai theo bài đọc?
+        statement: The children decide to return to the old teams immediately.
+        answer: false
+        explanationVi: Các bạn giữ cách chia đội mới trong tháng tiếp theo.
+      - type: SHORT_ANSWER
+        prompt: How old is Duy?
+        promptVi: Trả lời ngắn bằng tiếng Anh, dùng từ trong bài đọc.
+        accept:
+          - thirteen
+          - "13"
+          - thirteen years old
+          - 13 years old
+        explanationVi: Duy mười ba tuổi.
+      - type: SHORT_ANSWER
+        prompt: What colour shirt should Nga pass to? Write one word.
+        promptVi: Trả lời ngắn bằng tiếng Anh, dùng từ trong bài đọc.
+        accept:
+          - blue
+        explanationVi: Duy bảo Nga chuyền cho người mặc áo xanh.
+      - type: SHORT_ANSWER
+        prompt: What fruit will the neighbour bring? Write one word.
+        promptVi: Trả lời ngắn bằng tiếng Anh, dùng từ trong bài đọc.
+        accept:
+          - orange
+          - oranges
+        explanationVi: Người hàng xóm sẽ mang cam cắt miếng.
+  - slug: measuring-before-buying
+    title: Measuring before Buying
+    titleVi: Đo trước khi mua
+    topic: daily-life
+    estimatedMinutes: 5
+    source: Sprout original
+    glossary: []
+    body: >-
+      Hanh needed a kitchen table for her new flat. A furniture shop had a lovely round table, but
+      it cost more than she could spend. Her colleague showed her a website where people sold used
+      furniture. That evening, Hanh found a wooden table for half the shop price.
+
+
+      The photographs looked good, and the seller lived nearby. Hanh nearly agreed to buy it
+      immediately. Then her colleague asked about the size. Hanh measured her kitchen and sent the
+      seller a message. The table was too wide. There would be no room to open the fridge door.
+
+
+      Two days later, she found a smaller square table. The seller said one leg was loose, but the
+      table was otherwise in good condition. Hanh visited after work with her uncle. He checked the
+      leg and said a new screw would fix it. They also checked for marks on the top.
+
+
+      The seller helped carry the table to her uncle's van. At home, Hanh cleaned it and tightened
+      the leg. She put two chairs beside it and opened the fridge door to check the space. The table
+      was not new, but it fitted her kitchen and left enough money for groceries.
+    questions:
+      - type: MCQ
+        prompt: Why does Hanh look for used furniture?
+        promptVi: Chọn đáp án đúng theo bài đọc.
+        options:
+          - She wants a larger kitchen.
+          - The new table is too expensive for her.
+          - She dislikes all round tables.
+          - Her uncle owns a furniture shop.
+        answer: The new table is too expensive for her.
+        explanationVi: Chiếc bàn mới vượt quá số tiền Hạnh có thể chi.
+      - type: MCQ
+        prompt: Why does Hanh reject the first used table?
+        promptVi: Chọn đáp án đúng theo bài đọc.
+        options:
+          - It is too wide for her kitchen.
+          - It has no legs.
+          - The seller lives in another country.
+          - It is made of plastic.
+        answer: It is too wide for her kitchen.
+        explanationVi: Bàn quá rộng, khiến cửa tủ lạnh không mở được.
+      - type: MCQ
+        prompt: What is the main lesson of the story?
+        promptVi: Chọn đáp án đúng theo bài đọc.
+        options:
+          - Only new furniture is useful.
+          - Photographs show every problem.
+          - Check size and condition before buying.
+          - Never ask a seller questions.
+        answer: Check size and condition before buying.
+        explanationVi: Hạnh đo không gian và kiểm tra tình trạng bàn trước khi mua.
+      - type: TRUE_FALSE
+        prompt: Is this statement true or false according to the passage?
+        promptVi: Nhận định này đúng hay sai theo bài đọc?
+        statement: The second table has a loose leg.
+        answer: true
+        explanationVi: Người bán nói rõ một chân bàn bị lỏng.
+      - type: TRUE_FALSE
+        prompt: Is this statement true or false according to the passage?
+        promptVi: Nhận định này đúng hay sai theo bài đọc?
+        statement: Hanh transports the table on a bus.
+        answer: false
+        explanationVi: Bàn được chở bằng xe van của chú.
+      - type: SHORT_ANSWER
+        prompt: What shape is the table Hanh buys? Write one word.
+        promptVi: Trả lời ngắn bằng tiếng Anh, dùng từ trong bài đọc.
+        accept:
+          - square
+        explanationVi: Chiếc bàn thứ hai có hình vuông.
+      - type: SHORT_ANSWER
+        prompt: What small part can fix the loose leg? Write one word.
+        promptVi: Trả lời ngắn bằng tiếng Anh, dùng từ trong bài đọc.
+        accept:
+          - screw
+          - a screw
+        explanationVi: Chú nói một chiếc vít mới có thể sửa chân bàn.
+      - type: SHORT_ANSWER
+        prompt: How many chairs does Hanh put beside the table?
+        promptVi: Trả lời ngắn bằng tiếng Anh, dùng từ trong bài đọc.
+        accept:
+          - two
+          - "2"
+        explanationVi: Hạnh đặt hai chiếc ghế cạnh bàn.
+  - slug: the-first-swimming-lesson
+    title: The First Swimming Lesson
+    titleVi: Buổi học bơi đầu tiên
+    topic: daily-life
+    estimatedMinutes: 5
+    source: Sprout original
+    glossary: []
+    body: >-
+      Minh joined a beginner swimming class because he wanted to enjoy the pool with his friends. He
+      could stand in shallow water, but he felt afraid when his feet left the floor. Before the
+      first lesson, he bought goggles and packed a towel.
+
+
+      There were six adults in the class. Their teacher, Rosa, asked everyone to explain what they
+      hoped to learn. Minh was surprised that two other people were also afraid of deep water. Rosa
+      said they would stay in the shallow end that day. Nobody had to hurry.
+
+
+      They first practised breathing out into the water while holding the side. Minh lifted his head
+      too quickly and got water in his nose. Rosa demonstrated the movement again. He tried more
+      slowly and found it easier. After a short break, they used floating boards to practise moving
+      their legs.
+
+
+      At the end of the lesson, Minh had moved three metres with a board. He had not learned to swim
+      alone, but he no longer wanted to leave the pool immediately. On the way home, he wrote the
+      next lesson time in his calendar. He also reminded himself to bring a drink because his towel
+      was not the only thing he needed.
+    questions:
+      - type: MCQ
+        prompt: Why does Minh join the class?
+        promptVi: Chọn đáp án đúng theo bài đọc.
+        options:
+          - To become the teacher
+          - To work at the pool
+          - To enjoy the pool with friends
+          - To buy a new calendar
+        answer: To enjoy the pool with friends
+        explanationVi: Minh muốn có thể vui chơi ở hồ bơi cùng bạn bè.
+      - type: MCQ
+        prompt: What does Minh discover about the other learners?
+        promptVi: Chọn đáp án đúng theo bài đọc.
+        options:
+          - Two share his fear of deep water.
+          - All are expert swimmers.
+          - None can stand in shallow water.
+          - They all know his friends.
+        answer: Two share his fear of deep water.
+        explanationVi: Hai học viên khác cũng sợ nước sâu.
+      - type: MCQ
+        prompt: How does Minh feel at the end?
+        promptVi: Chọn đáp án đúng theo bài đọc.
+        options:
+          - Ready to teach swimming
+          - Less eager to leave the pool
+          - Angry that the class exists
+          - Certain that practice is useless
+        answer: Less eager to leave the pool
+        explanationVi: Minh chưa tự bơi được nhưng không còn chỉ muốn rời hồ ngay.
+      - type: TRUE_FALSE
+        prompt: Is this statement true or false according to the passage?
+        promptVi: Nhận định này đúng hay sai theo bài đọc?
+        statement: The class stays in the shallow end during the first lesson.
+        answer: true
+        explanationVi: Rosa nói cả lớp sẽ tập ở phần nước nông hôm đó.
+      - type: TRUE_FALSE
+        prompt: Is this statement true or false according to the passage?
+        promptVi: Nhận định này đúng hay sai theo bài đọc?
+        statement: Minh swims three metres without any support.
+        answer: false
+        explanationVi: Minh di chuyển ba mét nhờ tấm ván nổi.
+      - type: SHORT_ANSWER
+        prompt: How many adults are in the class?
+        promptVi: Trả lời ngắn bằng tiếng Anh, dùng từ trong bài đọc.
+        accept:
+          - six
+          - "6"
+        explanationVi: Lớp có sáu người lớn.
+      - type: SHORT_ANSWER
+        prompt: What is the teacher’s name?
+        promptVi: Trả lời ngắn bằng tiếng Anh, dùng từ trong bài đọc.
+        accept:
+          - Rosa
+        explanationVi: Giáo viên tên Rosa.
+      - type: SHORT_ANSWER
+        prompt: What equipment do they use to practise moving their legs? Write two words.
+        promptVi: Trả lời ngắn bằng tiếng Anh, dùng từ trong bài đọc.
+        accept:
+          - floating boards
+          - a floating board
+        explanationVi: Họ dùng ván nổi để tập đạp chân.
+  - slug: herbs-outside-classroom-four
+    title: Herbs outside Classroom Four
+    titleVi: Vườn rau thơm ngoài phòng học số bốn
+    topic: education
+    estimatedMinutes: 5
+    source: Sprout original
+    glossary: []
+    body: >-
+      Class Four wanted to grow something outside their classroom. There was a narrow sunny space
+      beside the wall, but there was no garden soil. Their teacher suggested using old containers.
+      Each group brought a clean container with small holes in the bottom.
+
+
+      On Monday, the children filled the containers with soil and planted herbs. One group chose
+      mint, another chose basil, and the third planted coriander. They wrote the names on wooden
+      sticks because the small plants looked similar. The teacher put a watering chart beside the
+      classroom door.
+
+
+      For the first week, each group watered its own plants. Then one group forgot during a school
+      trip. When they returned, the soil was very dry. The children discussed what had happened.
+      They decided that two students would check all the containers each afternoon, including those
+      belonging to other groups.
+
+
+      A month later, the plants were bigger. The class picked a few leaves and smelled the
+      differences. They did not sell the herbs or take all the plants home. Instead, they invited
+      another class to look at the containers and read the labels. The children were proud,
+      especially when they explained the new watering plan themselves.
+    questions:
+      - type: MCQ
+        prompt: Why do the children use containers?
+        promptVi: Chọn đáp án đúng theo bài đọc.
+        options:
+          - The wall is too colourful.
+          - There is no garden soil in the space.
+          - They want to hide the plants indoors.
+          - The teacher dislikes herbs.
+        answer: There is no garden soil in the space.
+        explanationVi: Không có đất vườn ở khoảng trống cạnh lớp nên các em dùng thùng, chậu cũ.
+      - type: MCQ
+        prompt: What problem occurs during a school trip?
+        promptVi: Chọn đáp án đúng theo bài đọc.
+        options:
+          - Some plants receive no water.
+          - The labels blow away.
+          - All containers break.
+          - Another class takes the herbs.
+        answer: Some plants receive no water.
+        explanationVi: Một nhóm quên tưới cây trong đợt đi tham quan.
+      - type: MCQ
+        prompt: How does the class improve the plan?
+        promptVi: Chọn đáp án đúng theo bài đọc.
+        options:
+          - They stop growing herbs.
+          - They remove every label.
+          - Two students check every container each afternoon.
+          - They water only the biggest plant.
+        answer: Two students check every container each afternoon.
+        explanationVi: Hai học sinh kiểm tra toàn bộ chậu mỗi chiều, không chỉ chậu nhóm mình.
+      - type: TRUE_FALSE
+        prompt: Is this statement true or false according to the passage?
+        promptVi: Nhận định này đúng hay sai theo bài đọc?
+        statement: The children label the herbs on wooden sticks.
+        answer: true
+        explanationVi: Tên cây được viết trên que gỗ.
+      - type: TRUE_FALSE
+        prompt: Is this statement true or false according to the passage?
+        promptVi: Nhận định này đúng hay sai theo bài đọc?
+        statement: The class sells all the herbs after a month.
+        answer: false
+        explanationVi: Các em mời lớp khác đến xem, không bán cây.
+      - type: SHORT_ANSWER
+        prompt: Which herb is planted by the third group? Write one word.
+        promptVi: Trả lời ngắn bằng tiếng Anh, dùng từ trong bài đọc.
+        accept:
+          - coriander
+        explanationVi: Nhóm thứ ba trồng rau mùi, coriander.
+      - type: SHORT_ANSWER
+        prompt: "Where is the watering chart? Complete: beside the classroom ___."
+        promptVi: Trả lời ngắn bằng tiếng Anh, dùng từ trong bài đọc.
+        accept:
+          - door
+        explanationVi: Bảng tưới cây nằm cạnh cửa lớp.
+      - type: SHORT_ANSWER
+        prompt: How many students check the containers each afternoon?
+        promptVi: Trả lời ngắn bằng tiếng Anh, dùng từ trong bài đọc.
+        accept:
+          - two
+          - "2"
+        explanationVi: Hai học sinh kiểm tra các chậu mỗi chiều.
+  - slug: a-picnic-on-the-living-room-floor
+    title: A Picnic on the Living-room Floor
+    titleVi: Buổi dã ngoại trên sàn phòng khách
+    topic: daily-life
+    estimatedMinutes: 5
+    source: Sprout original
+    glossary: []
+    body: >-
+      On Saturday morning, Tuan's family prepared for a picnic by the lake. His mother made
+      sandwiches, his father filled bottles with water, and Tuan packed a ball. His younger sister,
+      Ly, put three picture books in her bag. They planned to leave at ten.
+
+
+      At half past nine, heavy rain began. The family watched the weather from the kitchen window.
+      The sky was dark, and the path beside the lake would be muddy. Ly looked disappointed. She had
+      talked about the picnic all week.
+
+
+      Tuan suggested having it inside. They moved the coffee table and spread a large blanket on the
+      living-room floor. His father opened the curtains so they could watch the rain. They put the
+      food in the middle and ate without turning on the television.
+
+
+      After lunch, Ly chose a book and asked everyone to make a different animal sound while she
+      read. They laughed so loudly that their neighbour heard them through the open window. Later,
+      Tuan put the ball away because there was not enough room to play safely. They played a
+      guessing game instead. The lake could wait until another weekend; the family had already found
+      a good way to spend this one together.
+    questions:
+      - type: MCQ
+        prompt: Why does the family change its plan?
+        promptVi: Chọn đáp án đúng theo bài đọc.
+        options:
+          - They forget the food.
+          - The lake disappears.
+          - Heavy rain makes the outdoor picnic difficult.
+          - Ly refuses to leave her room.
+        answer: Heavy rain makes the outdoor picnic difficult.
+        explanationVi: Mưa lớn và lối đi lầy khiến cả nhà chuyển buổi dã ngoại vào trong nhà.
+      - type: MCQ
+        prompt: What does Tuan suggest?
+        promptVi: Chọn đáp án đúng theo bài đọc.
+        options:
+          - Have the picnic inside
+          - Go to a restaurant alone
+          - Watch television all day
+          - Throw away the sandwiches
+        answer: Have the picnic inside
+        explanationVi: Tuấn đề nghị trải đồ ăn và ngồi dã ngoại trong nhà.
+      - type: MCQ
+        prompt: Why does Tuan put the ball away?
+        promptVi: Chọn đáp án đúng theo bài đọc.
+        options:
+          - He no longer likes football.
+          - The room is too small for safe ball games.
+          - It belongs to the neighbour.
+          - The ball is wet from the lake.
+        answer: The room is too small for safe ball games.
+        explanationVi: Trong phòng không đủ chỗ để chơi bóng an toàn.
+      - type: TRUE_FALSE
+        prompt: Is this statement true or false according to the passage?
+        promptVi: Nhận định này đúng hay sai theo bài đọc?
+        statement: The family eats with the television off.
+        answer: true
+        explanationVi: Họ ăn mà không bật tivi.
+      - type: TRUE_FALSE
+        prompt: Is this statement true or false according to the passage?
+        promptVi: Nhận định này đúng hay sai theo bài đọc?
+        statement: The family leaves for the lake at ten.
+        answer: false
+        explanationVi: Họ đổi sang ăn trong phòng khách vì trời mưa.
+      - type: SHORT_ANSWER
+        prompt: Where does the family spread the blanket? Write three words.
+        promptVi: Trả lời ngắn bằng tiếng Anh, dùng từ trong bài đọc.
+        accept:
+          - living-room floor
+          - the living-room floor
+          - living room floor
+        explanationVi: Họ trải chăn trên sàn phòng khách.
+      - type: SHORT_ANSWER
+        prompt: How many picture books does Ly pack?
+        promptVi: Trả lời ngắn bằng tiếng Anh, dùng từ trong bài đọc.
+        accept:
+          - three
+          - "3"
+        explanationVi: Ly mang ba quyển sách tranh.
+      - type: SHORT_ANSWER
+        prompt: What game do they play instead of using the ball? Write two words.
+        promptVi: Trả lời ngắn bằng tiếng Anh, dùng từ trong bài đọc.
+        accept:
+          - guessing game
+          - a guessing game
+        explanationVi: Họ chơi trò đoán thay vì chơi bóng.

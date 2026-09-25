@@ -1,0 +1,1378 @@
+# Chủ đề Công việc (§12.1). Nguồn: Wiktionary (CC BY-SA), WordNet, Tatoeba (CC BY).
+topic: work
+words:
+  - lemma: colleague
+    cefr: B1
+    frequencyRank: 4400
+    ipaUs: /ˈkɑːliːɡ/
+    ipaUk: /ˈkɒliːɡ/
+    syllables: col·league
+    stressPattern: '10'
+    subtopics: [office]
+    senses:
+      - pos: NOUN
+        definitionEn: A person you work with.
+        definitionVi: Đồng nghiệp; người làm việc cùng bạn.
+        examples:
+          - en: A colleague showed me how the printer works.
+            vi: Một đồng nghiệp chỉ tôi cách dùng máy in.
+          - en: She is having lunch with two colleagues.
+            vi: Cô ấy đang ăn trưa với hai đồng nghiệp.
+
+  - lemma: recruit
+    cefr: B2
+    frequencyRank: 8900
+    ipaUs: /rɪˈkruːt/
+    ipaUk: /rɪˈkruːt/
+    syllables: re·cruit
+    stressPattern: '01'
+    subtopics: [jobs, interview-cv]
+    senses:
+      - pos: VERB
+        definitionEn: To find and take on new people to work for a company.
+        definitionVi: Tuyển dụng; tìm và nhận người mới vào làm cho công ty.
+        examples:
+          - en: They are recruiting two designers this month.
+            vi: Họ đang tuyển hai nhà thiết kế trong tháng này.
+          - en: The team recruited her straight from university.
+            vi: Nhóm tuyển cô ấy ngay khi vừa ra trường.
+
+  - lemma: résumé
+    cefr: B1
+    frequencyRank: 15400
+    ipaUs: /ˈrezəmeɪ/
+    ipaUk: /ˈrezjumeɪ/
+    syllables: ré·su·mé
+    stressPattern: '100'
+    subtopics: [interview-cv]
+    senses:
+      - pos: NOUN
+        definitionEn: A short written record of your education and work history.
+        definitionVi: Sơ yếu lý lịch, CV; bản tóm tắt học vấn và kinh nghiệm làm việc.
+        examples:
+          - en: Keep your résumé to one page.
+            vi: Hãy giữ CV của bạn gọn trong một trang.
+          - en: He sent his résumé to twelve companies.
+            vi: Anh ấy gửi CV tới mười hai công ty.
+
+  - lemma: promotion
+    cefr: B1
+    frequencyRank: 5200
+    ipaUs: /prəˈmoʊʃn̩/
+    ipaUk: /prəˈməʊʃn̩/
+    syllables: pro·mo·tion
+    stressPattern: '010'
+    subtopics: [salary-benefits]
+    senses:
+      - pos: NOUN
+        definitionEn: A move to a more important job in the same company.
+        definitionVi: Sự thăng chức; việc lên vị trí quan trọng hơn trong cùng công ty.
+        examples:
+          - en: She got a promotion after two years.
+            vi: Cô ấy được thăng chức sau hai năm.
+          - en: The promotion came with a small pay rise.
+            vi: Việc thăng chức đi kèm một khoản tăng lương nhỏ.
+
+  - lemma: salary
+    cefr: A2
+    frequencyRank: 6300
+    ipaUs: /ˈsæləri/
+    ipaUk: /ˈsæləri/
+    syllables: sal·a·ry
+    stressPattern: '100'
+    subtopics: [salary-benefits]
+    senses:
+      - pos: NOUN
+        definitionEn: The fixed money a person is paid for their job each month.
+        definitionVi: Lương; khoản tiền cố định trả cho công việc hằng tháng.
+        examples:
+          - en: The salary is paid on the last working day.
+            vi: Lương được trả vào ngày làm việc cuối cùng.
+          - en: He took a lower salary for a shorter commute.
+            vi: Anh ấy nhận lương thấp hơn để đi làm gần hơn.
+
+  - lemma: overtime
+    cefr: B1
+    frequencyRank: 13400
+    ipaUs: /ˈoʊvərtaɪm/
+    ipaUk: /ˈəʊvətaɪm/
+    syllables: o·ver·time
+    stressPattern: '100'
+    subtopics: [salary-benefits, office]
+    senses:
+      - pos: NOUN
+        definitionEn: Extra hours worked beyond the normal working day.
+        definitionVi: Giờ làm thêm; số giờ làm vượt quá ngày làm bình thường.
+        examples:
+          - en: She worked overtime every night last week.
+            vi: Tuần trước tối nào cô ấy cũng làm thêm giờ.
+          - en: Overtime is paid at double the usual rate.
+            vi: Giờ làm thêm được trả gấp đôi mức thường.
+
+  - lemma: agenda
+    cefr: B2
+    frequencyRank: 7400
+    ipaUs: /əˈdʒendə/
+    ipaUk: /əˈdʒendə/
+    syllables: a·gen·da
+    stressPattern: '010'
+    subtopics: [meetings]
+    senses:
+      - pos: NOUN
+        definitionEn: A list of the things to be discussed at a meeting.
+        definitionVi: Chương trình họp; danh sách những việc sẽ bàn trong cuộc họp.
+        examples:
+          - en: Send me the agenda before the call.
+            vi: Gửi tôi chương trình họp trước cuộc gọi.
+          - en: Budget is the first item on the agenda.
+            vi: Ngân sách là mục đầu tiên trong chương trình họp.
+
+  - lemma: attach
+    cefr: B1
+    frequencyRank: 5800
+    ipaUs: /əˈtætʃ/
+    ipaUk: /əˈtætʃ/
+    syllables: at·tach
+    stressPattern: '01'
+    subtopics: [work-email]
+    senses:
+      - pos: VERB
+        definitionEn: To fasten one thing to another, or add a file to an email.
+        definitionVi: Đính kèm; gắn thứ này vào thứ khác, hoặc gửi kèm tệp trong email.
+        examples:
+          - en: I have attached the report to this email.
+            vi: Tôi đã đính kèm báo cáo trong email này.
+          - en: Please attach a photo of the receipt.
+            vi: Vui lòng đính kèm ảnh chụp hoá đơn.
+
+  - lemma: deadline
+    cefr: B1
+    frequencyRank: 6100
+    ipaUs: /ˈdedlaɪn/
+    ipaUk: /ˈdedlaɪn/
+    syllables: dead·line
+    stressPattern: '10'
+    subtopics: [office]
+    senses:
+      - pos: NOUN
+        definitionEn: The latest time by which work must be finished.
+        definitionVi: Hạn chót; thời điểm muộn nhất phải xong việc.
+        examples:
+          - en: We moved the deadline to next Tuesday.
+            vi: Chúng tôi dời hạn chót sang thứ Ba tuần sau.
+          - en: Missing a deadline costs the team money.
+            vi: Trễ hạn chót khiến cả nhóm tốn tiền.
+
+  - lemma: negotiate
+    cefr: B2
+    frequencyRank: 7100
+    ipaUs: /nɪˈɡoʊʃieɪt/
+    ipaUk: /nɪˈɡəʊʃieɪt/
+    syllables: ne·go·ti·ate
+    stressPattern: '0100'
+    subtopics: [meetings, salary-benefits]
+    senses:
+      - pos: VERB
+        definitionEn: To talk with someone in order to reach an agreement.
+        definitionVi: Đàm phán, thương lượng; trao đổi để đi tới thoả thuận.
+        examples:
+          - en: She negotiated a higher salary before signing.
+            vi: Cô ấy thương lượng mức lương cao hơn trước khi ký.
+          - en: The two firms are negotiating a new contract.
+            vi: Hai công ty đang đàm phán một hợp đồng mới.
+
+  - lemma: freelance
+    cefr: B2
+    frequencyRank: 16800
+    ipaUs: /ˈfriːlæns/
+    ipaUk: /ˈfriːlɑːns/
+    syllables: free·lance
+    stressPattern: '10'
+    subtopics: [jobs, startup]
+    senses:
+      - pos: ADJECTIVE
+        definitionEn: Working for several companies rather than being employed by one.
+        definitionVi: Làm tự do; làm cho nhiều nơi thay vì thuộc biên chế một công ty.
+        examples:
+          - en: He is a freelance translator in Da Nang.
+            vi: Anh ấy là phiên dịch tự do ở Đà Nẵng.
+          - en: Freelance work pays well but is not steady.
+            vi: Công việc tự do trả cao nhưng không ổn định.
+
+  - lemma: startup
+    cefr: B2
+    frequencyRank: 12100
+    ipaUs: /ˈstɑːrtʌp/
+    ipaUk: /ˈstɑːtʌp/
+    syllables: start·up
+    stressPattern: '10'
+    subtopics: [startup]
+    senses:
+      - pos: NOUN
+        definitionEn: A young company, usually small and growing fast.
+        definitionVi: Công ty khởi nghiệp; doanh nghiệp non trẻ, thường nhỏ và tăng trưởng nhanh.
+        examples:
+          - en: Her startup makes software for rice farmers.
+            vi: Startup của cô ấy làm phần mềm cho nông dân trồng lúa.
+          - en: Most of the team came from another startup.
+            vi: Phần lớn cả nhóm đến từ một startup khác.
+
+  - lemma: apply
+    cefr: A2
+    frequencyRank: 1600
+    ipaUs: /əˈplaɪ/
+    ipaUk: /əˈplaɪ/
+    syllables: ap·ply
+    stressPattern: '01'
+    subtopics: [interview-cv]
+    senses:
+      - pos: VERB
+        definitionEn: To make a formal request, usually in writing, for a job or place.
+        definitionVi: Nộp đơn, ứng tuyển; đề nghị chính thức xin việc hoặc xin chỗ.
+        examples:
+          - en: I applied for three jobs this week.
+            vi: Tuần này tôi đã ứng tuyển ba công việc.
+          - en: You must apply before the end of the month.
+            vi: Bạn phải nộp đơn trước cuối tháng.
+
+  - lemma: applicant
+    cefr: B2
+    frequencyRank: 13900
+    ipaUs: /ˈæplɪkənt/
+    ipaUk: /ˈæplɪkənt/
+    syllables: ap·pli·cant
+    stressPattern: '100'
+    subtopics: [interview-cv]
+    senses:
+      - pos: NOUN
+        definitionEn: A person who formally asks for a job or a place.
+        definitionVi: Ứng viên; người chính thức xin việc hoặc xin chỗ.
+        examples:
+          - en: Only two applicants were invited to interview.
+            vi: Chỉ hai ứng viên được mời phỏng vấn.
+          - en: Every applicant must send a short cover letter.
+            vi: Mỗi ứng viên phải gửi một thư xin việc ngắn.
+
+  - lemma: application
+    cefr: B1
+    frequencyRank: 2100
+    ipaUs: /ˌæplɪˈkeɪʃn̩/
+    ipaUk: /ˌæplɪˈkeɪʃn̩/
+    syllables: ap·pli·ca·tion
+    stressPattern: '0010'
+    subtopics: [interview-cv]
+    senses:
+      - pos: NOUN
+        definitionEn: A formal request for a job, a place or permission.
+        definitionVi: Đơn xin; đề nghị chính thức xin việc, xin chỗ hoặc xin phép.
+        examples:
+          - en: Your application arrived after the closing date.
+            vi: Đơn của bạn tới sau ngày hết hạn.
+          - en: The application takes ten minutes to fill in.
+            vi: Đơn này mất mười phút để điền.
+
+  - lemma: shift
+    cefr: B1
+    frequencyRank: 3100
+    ipaUs: /ʃɪft/
+    ipaUk: /ʃɪft/
+    syllables: shift
+    stressPattern: '1'
+    subtopics: [jobs, office]
+    senses:
+      - pos: NOUN
+        definitionEn: A set period of work in a place that operates day and night.
+        definitionVi: Ca làm việc; khoảng thời gian làm ở nơi hoạt động cả ngày đêm.
+        examples:
+          - en: She works the night shift at the hospital.
+            vi: Cô ấy làm ca đêm ở bệnh viện.
+          - en: My shift ends at six in the morning.
+            vi: Ca của tôi kết thúc lúc sáu giờ sáng.
+
+  - lemma: invoice
+    cefr: B2
+    frequencyRank: 14900
+    ipaUs: /ˈɪnvɔɪs/
+    ipaUk: /ˈɪnvɔɪs/
+    syllables: in·voice
+    stressPattern: '10'
+    subtopics: [work-email, startup]
+    senses:
+      - pos: NOUN
+        definitionEn: A document asking for payment for work or goods.
+        definitionVi: Hoá đơn; giấy tờ yêu cầu thanh toán cho hàng hoá hay công việc.
+        examples:
+          - en: Please pay the invoice within fifteen days.
+            vi: Vui lòng thanh toán hoá đơn trong vòng mười lăm ngày.
+          - en: She sends one invoice at the end of each month.
+            vi: Cô ấy gửi một hoá đơn vào cuối mỗi tháng.
+
+  - lemma: schedule
+    cefr: B1
+    frequencyRank: 2900
+    ipaUs: /ˈskedʒuːl/
+    ipaUk: /ˈʃedjuːl/
+    syllables: sched·ule
+    stressPattern: '10'
+    subtopics: [meetings, office]
+    senses:
+      - pos: VERB
+        definitionEn: To arrange for something to happen at a particular time.
+        definitionVi: Lên lịch; sắp xếp cho việc gì diễn ra vào thời điểm nhất định.
+        examples:
+          - en: Let us schedule the call for Thursday.
+            vi: Hãy lên lịch cuộc gọi vào thứ Năm.
+          - en: The training is scheduled twice a year.
+            vi: Khoá đào tạo được lên lịch hai lần mỗi năm.
+
+  - lemma: workload
+    cefr: B2
+    frequencyRank: 18200
+    ipaUs: /ˈwɜːrkloʊd/
+    ipaUk: /ˈwɜːkləʊd/
+    syllables: work·load
+    stressPattern: '10'
+    subtopics: [office]
+    senses:
+      - pos: NOUN
+        definitionEn: The amount of work a person or team has to do.
+        definitionVi: Khối lượng công việc; lượng việc một người hay nhóm phải làm.
+        examples:
+          - en: My workload doubled after two people left.
+            vi: Khối lượng công việc của tôi tăng gấp đôi sau khi hai người nghỉ.
+          - en: We share the workload evenly.
+            vi: Chúng tôi chia đều khối lượng công việc.
+
+  - lemma: employ
+    cefr: B1
+    frequencyRank: 3400
+    ipaUs: /ɪmˈplɔɪ/
+    ipaUk: /ɪmˈplɔɪ/
+    syllables: em·ploy
+    stressPattern: '01'
+    subtopics: [jobs]
+    senses:
+      - pos: VERB
+        definitionEn: To pay someone to work for you.
+        definitionVi: Thuê, tuyển dụng; trả tiền cho ai đó làm việc cho mình.
+        examples:
+          - en: The factory employs four hundred people.
+            vi: Nhà máy thuê bốn trăm nhân công.
+          - en: They employed her as a translator.
+            vi: Họ tuyển cô ấy làm phiên dịch.
+        synonyms: [recruit]
+
+  - lemma: employee
+    cefr: A2
+    frequencyRank: 2700
+    ipaUs: /ɪmˈplɔɪiː/
+    ipaUk: /ɪmˈplɔɪiː/
+    syllables: em·ploy·ee
+    stressPattern: '010'
+    subtopics: [jobs, office]
+    senses:
+      - pos: NOUN
+        definitionEn: A person who is paid to work for a company.
+        definitionVi: Nhân viên; người được trả lương làm việc cho công ty.
+        examples:
+          - en: Every employee gets twelve days of leave.
+            vi: Mỗi nhân viên được nghỉ mười hai ngày phép.
+          - en: The company has sixty employees in three cities.
+            vi: Công ty có sáu mươi nhân viên ở ba thành phố.
+
+  - lemma: employment
+    cefr: B1
+    frequencyRank: 2300
+    ipaUs: /ɪmˈplɔɪmənt/
+    ipaUk: /ɪmˈplɔɪmənt/
+    syllables: em·ploy·ment
+    stressPattern: '010'
+    subtopics: [jobs]
+    senses:
+      - pos: NOUN
+        definitionEn: The state of having a paid job, or the act of hiring people.
+        definitionVi: Việc làm; trạng thái có công việc được trả lương hoặc việc thuê người.
+        examples:
+          - en: Employment in the south grew last year.
+            vi: Việc làm ở miền Nam tăng trong năm ngoái.
+          - en: She found employment two weeks after moving.
+            vi: Cô ấy tìm được việc làm hai tuần sau khi chuyển đến.
+
+  - lemma: appraisal
+    cefr: B2
+    frequencyRank: 12800
+    ipaUs: /əˈpreɪzl̩/
+    ipaUk: /əˈpreɪzl̩/
+    syllables: ap·prais·al
+    stressPattern: '010'
+    subtopics: [salary-benefits]
+    senses:
+      - pos: NOUN
+        definitionEn: A formal review of how well someone has done their job.
+        definitionVi: Đánh giá hiệu quả công việc; buổi xét duyệt chính thức.
+        examples:
+          - en: My appraisal is at the end of June.
+            vi: Buổi đánh giá của tôi vào cuối tháng Sáu.
+          - en: A good appraisal usually means a pay rise.
+            vi: Đánh giá tốt thường đi kèm tăng lương.
+  - lemma: delegate
+    cefr: B2
+    frequencyRank: 10900
+    ipaUs: /ˈdeləɡeɪt/
+    ipaUk: /ˈdelɪɡeɪt/
+    syllables: del·e·gate
+    stressPattern: '100'
+    subtopics: [meetings]
+    senses:
+      - pos: VERB
+        definitionEn: To give part of your work to someone else to do.
+        definitionVi: Uỷ quyền, giao việc; chuyển một phần việc cho người khác làm.
+        examples:
+          - en: A good manager knows what to delegate.
+            vi: Người quản lý giỏi biết việc nào nên giao đi.
+          - en: She delegated the report to her assistant.
+            vi: Cô ấy giao báo cáo cho trợ lý.
+
+  - lemma: probation
+    cefr: B2
+    frequencyRank: 13400
+    ipaUs: /proʊˈbeɪʃn̩/
+    ipaUk: /prəˈbeɪʃn̩/
+    syllables: pro·ba·tion
+    stressPattern: '010'
+    subtopics: [interview-cv]
+    senses:
+      - pos: NOUN
+        definitionEn: A trial period at the start of a new job.
+        definitionVi: Thời gian thử việc; giai đoạn đầu khi mới vào làm.
+        examples:
+          - en: Probation here lasts two months.
+            vi: Thử việc ở đây kéo dài hai tháng.
+          - en: You get full benefits after probation.
+            vi: Bạn được hưởng đầy đủ phúc lợi sau thời gian thử việc.
+
+  - lemma: minutes
+    cefr: B1
+    frequencyRank: 9600
+    ipaUs: /ˈmɪnɪts/
+    ipaUk: /ˈmɪnɪts/
+    syllables: min·utes
+    stressPattern: '10'
+    subtopics: [meetings]
+    senses:
+      - pos: NOUN
+        definitionEn: The written record of what was said and decided at a meeting.
+        definitionVi: Biên bản họp; bản ghi những gì đã nói và quyết định.
+        examples:
+          - en: Could you take the minutes today?
+            vi: Hôm nay bạn ghi biên bản được không?
+          - en: The minutes go out within a day of the meeting.
+            vi: Biên bản được gửi trong vòng một ngày sau cuộc họp.
+
+  - lemma: remote
+    cefr: B1
+    frequencyRank: 4800
+    ipaUs: /rɪˈmoʊt/
+    ipaUk: /rɪˈməʊt/
+    syllables: re·mote
+    stressPattern: '01'
+    subtopics: [office]
+    senses:
+      - pos: ADJECTIVE
+        definitionEn: Done from a place away from the office.
+        definitionVi: Từ xa; làm ở nơi khác chứ không ở văn phòng.
+        examples:
+          - en: Two days a week are remote.
+            vi: Mỗi tuần có hai ngày làm từ xa.
+          - en: Remote work suits her because of the commute.
+            vi: Làm từ xa hợp với cô ấy vì đường đi làm xa.
+  - lemma: raise
+    cefr: B1
+    frequencyRank: 3300
+    ipaUs: /reɪz/
+    ipaUk: /reɪz/
+    syllables: raise
+    stressPattern: '1'
+    subtopics: [salary-benefits]
+    senses:
+      - pos: NOUN
+        definitionEn: An increase in the money you are paid.
+        definitionVi: Việc tăng lương; khoản lương được tăng thêm.
+        examples:
+          - en: She asked for a raise after the appraisal.
+            vi: Cô ấy xin tăng lương sau buổi đánh giá.
+          - en: The raise takes effect from next month.
+            vi: Mức lương mới áp dụng từ tháng sau.
+
+  - lemma: job
+    cefr: A1
+    ipaUs: /dʒɑːb/
+    senses:
+      - pos: NOUN
+        definitionEn: A paid position of regular employment.
+        definitionVi: Công việc
+        examples:
+          - en: He found a great job in marketing after graduating from college.
+            vi: Anh ấy đã tìm được một công việc tuyệt vời về tiếp thị sau khi tốt nghiệp đại học.
+          - en: She loves her new job because the team is very supportive.
+            vi: Cô ấy yêu công việc mới của mình vì đội ngũ rất hỗ trợ.
+  - lemma: contract
+    cefr: B1
+    ipaUs: /ˈkɑːn.trækt/
+    senses:
+      - pos: NOUN
+        definitionEn: A written or spoken agreement that is intended to be enforceable by law.
+        definitionVi: Hợp đồng
+        examples:
+          - en: They signed a two-year contract with the new software supplier.
+            vi: Họ đã ký hợp đồng hai năm với nhà cung cấp phần mềm mới.
+          - en: You must read every clause before signing the employment contract.
+            vi: Bạn phải đọc mọi điều khoản trước khi ký hợp đồng lao động.
+  - lemma: interview
+    cefr: A2
+    ipaUs: /ˈɪn.t̬ɚ.vjuː/
+    senses:
+      - pos: NOUN
+        definitionEn: A formal meeting in which someone is asked questions to test their suitability for a job.
+        definitionVi: Phỏng vấn
+        examples:
+          - en: She prepared carefully for her job interview scheduled on Monday morning.
+            vi: Cô ấy chuẩn bị kỹ càng cho buổi phỏng vấn việc làm dự kiến vào sáng thứ Hai.
+          - en: The manager will conduct the final interview with the candidates today.
+            vi: Người quản lý sẽ tiến hành buổi phỏng vấn cuối cùng với các ứng viên hôm nay.
+  - lemma: manager
+    cefr: B1
+    ipaUs: /ˈmæn.ə.dʒɚ/
+    senses:
+      - pos: NOUN
+        definitionEn: A person responsible for controlling or administering an organization or group of staff.
+        definitionVi: Người quản lý
+        examples:
+          - en: The store manager helped resolve the customer complaint very quickly.
+            vi: Người quản lý cửa hàng đã giúp giải quyết khiếu nại của khách hàng rất nhanh chóng.
+          - en: Our project manager approved the timeline for the new marketing campaign.
+            vi: Người quản lý dự án của chúng tôi đã phê duyệt tiến độ cho chiến dịch tiếp thị mới.
+  - lemma: supervisor
+    cefr: B2
+    ipaUs: /ˈsuː.pɚ.vaɪ.zɚ/
+    senses:
+      - pos: NOUN
+        definitionEn: A person who supervises a person or an activity.
+        definitionVi: Người giám sát
+        examples:
+          - en: My direct supervisor checked my work before sending it to clients.
+            vi: Người giám sát trực tiếp của tôi đã kiểm tra công việc trước khi gửi cho khách hàng.
+          - en: You should report any safety issues to your floor supervisor immediately.
+            vi: Bạn nên báo cáo mọi vấn đề an toàn cho người giám sát khu vực ngay lập tức.
+  - lemma: executive
+    cefr: C1
+    ipaUs: /ɪɡˈzek.jə.t̬ɪv/
+    senses:
+      - pos: NOUN
+        definitionEn: A person with senior managerial responsibility in a business organization.
+        definitionVi: Giám đốc điều hành
+        examples:
+          - en: The chief executive announced a major restructuring plan for the company.
+            vi: Giám đốc điều hành cấp cao đã thông báo kế hoạch tái cấu trúc lớn cho công ty.
+          - en: An executive from the headquarters visited our local branch office.
+            vi: Một giám đốc điều hành từ trụ sở chính đã đến thăm chi nhánh địa phương của chúng tôi.
+  - lemma: intern
+    cefr: B1
+    ipaUs: /ˈɪn.tɝːn/
+    senses:
+      - pos: NOUN
+        definitionEn: A student or trainee who works, sometimes without pay, in order to gain work experience.
+        definitionVi: Thực tập sinh
+        examples:
+          - en: Our marketing intern designed the social media graphics for this week.
+            vi: Thực tập sinh tiếp thị của chúng tôi đã thiết kế đồ họa mạng xã hội tuần này.
+          - en: The company hired a summer intern to assist with administrative tasks.
+            vi: Công ty đã tuyển một thực tập sinh mùa hè để hỗ trợ các công việc hành chính.
+  - lemma: bonus
+    cefr: B1
+    ipaUs: /ˈboʊ.nəs/
+    senses:
+      - pos: NOUN
+        definitionEn: A sum of money added to a person's wages as a reward for good performance.
+        definitionVi: Tiền thưởng
+        examples:
+          - en: Employees received a generous cash bonus for exceeding their annual targets.
+            vi: Nhân viên nhận được khoản tiền thưởng hậu hĩnh vì vượt chỉ tiêu hàng năm.
+          - en: She hopes to get a performance bonus at the year end.
+            vi: Cô ấy hy vọng nhận được tiền thưởng hiệu suất công việc vào cuối năm.
+  - lemma: commission
+    cefr: B2
+    ipaUs: /kəˈmɪʃ.ən/
+    senses:
+      - pos: NOUN
+        definitionEn: An instruction, command, or duty given to a person or group, or a fee paid to an agent.
+        definitionVi: Tiền hoa hồng
+        examples:
+          - en: Real estate agents earn a high commission on every house sold.
+            vi: Các đại lý bất động sản kiếm được tiền hoa hồng cao trên mỗi ngôi nhà bán được.
+          - en: He makes extra money from sales commission during the busy season.
+            vi: Anh ấy kiếm thêm tiền từ tiền hoa hồng bán hàng trong mùa bận rộn.
+  - lemma: benefit
+    cefr: B1
+    ipaUs: /ˈben.ə.fɪt/
+    senses:
+      - pos: NOUN
+        definitionEn: An advantage or profit gained from something, or a perk provided by an employer.
+        definitionVi: Phúc lợi
+        examples:
+          - en: Health insurance is a key benefit offered by this company.
+            vi: Bảo hiểm y tế là một phúc lợi quan trọng được cung cấp bởi công ty này.
+          - en: Flexible working hours are a major benefit for working parents.
+            vi: Giờ làm việc linh hoạt là một phúc lợi lớn cho các bậc cha mẹ đi làm.
+  - lemma: retirement
+    cefr: B2
+    ipaUs: /rɪˈtaɪr.mənt/
+    senses:
+      - pos: NOUN
+        definitionEn: The action or fact of leaving one's job and ceasing to work.
+        definitionVi: Sự nghỉ hưu
+        examples:
+          - en: He is planning for an early retirement after twenty successful years.
+            vi: Anh ấy đang lên kế hoạch nghỉ hưu sớm sau hai mươi năm thành công.
+          - en: Many older workers look forward to a peaceful and relaxing retirement.
+            vi: Nhiều công nhân lớn tuổi mong chờ một cuộc sống nghỉ hưu yên bình và thư thái.
+  - lemma: pension
+    cefr: C1
+    ipaUs: /ˈpen.ʃən/
+    senses:
+      - pos: NOUN
+        definitionEn: A regular payment made by the state or an employer to people of official retirement age.
+        definitionVi: Lương hưu
+        examples:
+          - en: Retired employees receive a monthly pension from their former corporate employer.
+            vi: Các nhân viên đã nghỉ hưu nhận lương hưu hàng tháng từ công ty cũ của họ.
+          - en: The government plans to reform the national pension system next year.
+            vi: Chính phủ có kế hoạch cải cách hệ thống lương hưu quốc gia vào năm tới.
+  - lemma: resignation
+    cefr: C1
+    ipaUs: /ˌrez.ɪɡˈneɪ.ʃən/
+    senses:
+      - pos: NOUN
+        definitionEn: An act of retiring or giving up a position.
+        definitionVi: Đơn từ chức
+        examples:
+          - en: The director shocked the board by submitting his sudden resignation letter.
+            vi: Giám đốc đã làm ban quản trị sốc khi nộp lá đơn từ chức bất ngờ.
+          - en: She announced her resignation after working five years at the firm.
+            vi: Cô ấy thông báo việc từ chức sau khi làm việc năm năm tại công ty.
+  - lemma: layoff
+    cefr: B2
+    ipaUs: /ˈleɪ.ɑːf/
+    senses:
+      - pos: NOUN
+        definitionEn: An act of dismissing an employee, typically temporarily, due to economic conditions.
+        definitionVi: Sự sa thải
+        examples:
+          - en: The factory announced a major layoff due to declining global sales.
+            vi: Nhà máy đã thông báo đợt sa thải lớn do doanh số toàn cầu sụt giảm.
+          - en: Many tech workers worried about a sudden layoff in the industry.
+            vi: Nhiều nhân viên công nghệ lo lắng về đợt sa thải bất ngờ trong ngành.
+  - lemma: redundancy
+    cefr: C1
+    ipaUs: /rɪˈdʌn.dən.si/
+    senses:
+      - pos: NOUN
+        definitionEn: The state of being no longer needed or useful, often resulting in job loss.
+        definitionVi: Sự dư thừa nhân sự
+        examples:
+          - en: Several workers faced redundancy when the manufacturing plant closed down completely.
+            vi: Một số công nhân phải đối mặt với việc dư thừa nhân sự khi nhà máy đóng cửa hoàn toàn.
+          - en: The company offered financial compensation to employees affected by sudden redundancy.
+            vi: Công ty đã bồi thường tài chính cho nhân viên bị ảnh hưởng bởi việc dư thừa nhân sự.
+  - lemma: burnout
+    cefr: C1
+    ipaUs: /ˈbɝːn.aʊt/
+    senses:
+      - pos: NOUN
+        definitionEn: Physical or mental exhaustion caused by working too hard over a long period.
+        definitionVi: Tình trạng kiệt sức
+        examples:
+          - en: Working long hours without proper rest often leads to severe burnout.
+            vi: Làm việc nhiều giờ mà không nghỉ ngơi hợp lý thường dẫn đến tình trạng kiệt sức nặng.
+          - en: The company introduced wellness programs to help employees prevent job burnout.
+            vi: Công ty đã giới thiệu các chương trình sức khỏe để giúp nhân viên phòng ngừa tình trạng kiệt
+              sức.
+  - lemma: portfolio
+    cefr: B2
+    ipaUs: /pɔrˈfoʊliˌoʊ/
+    senses:
+      - pos: NOUN
+        definitionEn: A collection of a student's work representing their skills and achievements.
+        definitionVi: hồ sơ năng lực
+        examples:
+          - en: Art students must present a creative portfolio during university interviews.
+            vi: Sinh viên mỹ thuật phải trình bày một hồ sơ năng lực sáng tạo trong các cuộc phỏng vấn đại học.
+          - en: Keep your professional teaching portfolio updated for future job applications.
+            vi: Hãy giữ cho hồ sơ năng lực giảng dạy chuyên nghiệp của bạn được cập nhật cho các đơn xin việc
+              tương lai.
+  - lemma: briefing
+    cefr: B2
+    ipaUs: /ˈbriː.fɪŋ/
+    senses:
+      - pos: NOUN
+        definitionEn: A meeting for giving information or instructions to a group of people.
+        definitionVi: Cuộc họp giao ban
+        examples:
+          - en: The general manager led a quick morning briefing for all staff.
+            vi: Tổng giám đốc đã chủ trì cuộc họp giao ban buổi sáng nhanh cho toàn thể nhân viên.
+          - en: Every employee must attend the daily safety briefing before starting work.
+            vi: Mọi nhân viên phải tham gia cuộc họp giao ban an toàn hàng ngày trước khi làm việc.
+  - lemma: memo
+    cefr: B2
+    ipaUs: /ˈmem.oʊ/
+    senses:
+      - pos: NOUN
+        definitionEn: A written message or report sent to people within an organization.
+        definitionVi: Bản ghi nhớ
+        examples:
+          - en: The director sent an internal memo regarding the new office rules.
+            vi: Giám đốc đã gửi một bản ghi nhớ nội bộ liên quan đến quy định văn phòng mới.
+          - en: Please read the urgent memo posted on the staff notice board.
+            vi: Vui lòng đọc bản ghi nhớ khẩn cấp được dán trên bảng thông báo nhân viên.
+  - lemma: proposal
+    cefr: B2
+    ipaUs: /prəˈpoʊ.zəl/
+    senses:
+      - pos: NOUN
+        definitionEn: A plan or suggestion, especially a formal or written one, put forward for consideration.
+        definitionVi: Bản đề xuất
+        examples:
+          - en: The marketing team submitted a brilliant project proposal to the clients.
+            vi: Đội ngũ tiếp thị đã nộp một bản đề xuất dự án tuyệt vời cho khách hàng.
+          - en: The board of directors is currently reviewing our new business proposal.
+            vi: Hội đồng quản trị hiện đang xem xét bản đề xuất kinh doanh mới của chúng tôi.
+  - lemma: pitch
+    cefr: B2
+    ipaUs: /pɪtʃ/
+    senses:
+      - pos: NOUN
+        definitionEn: A presentation designed to persuade someone to buy something or invest.
+        definitionVi: Bài thuyết trình giới thiệu
+        examples:
+          - en: He delivered an amazing pitch to secure the new investor.
+            vi: Anh ấy đã có một bài thuyết trình tuyệt vời để thu hút nhà đầu tư mới.
+          - en: She prepared a creative pitch for the upcoming advertising campaign.
+            vi: Cô ấy đã chuẩn bị một bài thuyết trình sáng tạo cho chiến dịch quảng cáo sắp tới.
+  - lemma: client
+    cefr: B1
+    ipaUs: /ˈklaɪ.ənt/
+    senses:
+      - pos: NOUN
+        definitionEn: A person or organization that uses the services of a professional.
+        definitionVi: Khách hàng
+        examples:
+          - en: The lawyer met her client to discuss the upcoming court case.
+            vi: Nữ luật sư đã gặp khách hàng của mình để thảo luận về vụ án sắp tới.
+          - en: We need to ensure every client is satisfied with our service.
+            vi: Chúng ta cần đảm bảo mọi khách hàng đều hài lòng với dịch vụ của chúng ta.
+  - lemma: vendor
+    cefr: B2
+    ipaUs: /ˈvɛn.dər/
+    senses:
+      - pos: NOUN
+        definitionEn: A person or company offering goods or services for sale.
+        definitionVi: Nhà cung cấp
+        examples:
+          - en: Our company hired a new food vendor for the annual conference.
+            vi: Công ty chúng tôi đã thuê một nhà cung cấp đồ ăn mới cho hội nghị thường niên.
+          - en: The software vendor released an important security update this morning.
+            vi: Nhà cung cấp phần mềm đã phát hành một bản cập nhật bảo mật quan trọng sáng nay.
+  - lemma: supplier
+    cefr: B1
+    ipaUs: /səˈplaɪ.ər/
+    senses:
+      - pos: NOUN
+        definitionEn: A person or organization that provides goods or raw materials.
+        definitionVi: Nhà cung ứng
+        examples:
+          - en: We must find a reliable supplier for our raw manufacturing materials.
+            vi: Chúng ta phải tìm một nhà cung cấp đáng tin cậy cho nguyên liệu sản xuất.
+          - en: The local supplier delivered the office furniture right on schedule.
+            vi: Nhà cung cấp địa phương đã giao đồ nội thất văn phòng đúng hạn.
+  - lemma: stakeholder
+    cefr: C1
+    ipaUs: /ˈsteɪkˌhoʊl.dər/
+    senses:
+      - pos: NOUN
+        definitionEn: A person with an interest or concern in a business or project.
+        definitionVi: Bên liên quan
+        examples:
+          - en: Every key stakeholder attended the strategic planning meeting this afternoon.
+            vi: Mọi bên liên quan chính đều tham gia cuộc họp hoạch định chiến lược chiều nay.
+          - en: We must keep each stakeholder informed about the project's progress.
+            vi: Chúng ta phải giữ cho mọi bên liên quan được thông báo về tiến độ dự án.
+  - lemma: department
+    cefr: A2
+    ipaUs: /dɪˈpɑrt.mənt/
+    senses:
+      - pos: NOUN
+        definitionEn: A specialized division of a large organization or company.
+        definitionVi: Phòng ban
+        examples:
+          - en: The marketing department launched a successful campaign on social media.
+            vi: Phòng marketing đã triển khai một chiến dịch thành công trên mạng xã hội.
+          - en: She works as an assistant in the human resources department.
+            vi: Cô ấy làm trợ lý trong phòng nhân sự.
+  - lemma: division
+    cefr: B2
+    ipaUs: /dɪˈvɪʒ.ən/
+    senses:
+      - pos: NOUN
+        definitionEn: One of the distinct parts into which a large business is separated.
+        definitionVi: Bộ phận
+        examples:
+          - en: He manages the international sales division of our major corporation.
+            vi: Anh ấy quản lý bộ phận bán hàng quốc tế của tập đoàn lớn.
+          - en: The research division invented a revolutionary technology last year.
+            vi: Bộ phận nghiên cứu đã phát minh ra một công nghệ cách mạng năm ngoái.
+  - lemma: branch
+    cefr: B1
+    ipaUs: /bræntʃ/
+    senses:
+      - pos: NOUN
+        definitionEn: A local office or store belonging to a larger company.
+        definitionVi: Chi nhánh
+        examples:
+          - en: Our bank opened a new branch in the downtown business district.
+            vi: Ngân hàng chúng tôi đã mở một chi nhánh mới ở khu vực kinh doanh trung tâm.
+          - en: She transferred from the London branch to the Paris office.
+            vi: Cô ấy đã chuyển từ chi nhánh Luân Đôn sang văn phòng Paris.
+  - lemma: profit
+    cefr: B1
+    ipaUs: /ˈprɑ.fɪt/
+    senses:
+      - pos: NOUN
+        definitionEn: A financial gain obtained when revenue exceeds total expenses.
+        definitionVi: Lợi nhuận
+        examples:
+          - en: The small bakery made a great profit during the holiday season.
+            vi: Tiệm bánh nhỏ đã kiếm được lợi nhuận lớn trong mùa lễ hội.
+          - en: We plan to reinvest our profit into expanding the business operations.
+            vi: Chúng tôi dự định tái đầu tư lợi nhuận vào việc mở rộng hoạt động kinh doanh.
+  - lemma: loss
+    cefr: B1
+    ipaUs: /lɔs/
+    senses:
+      - pos: NOUN
+        definitionEn: An instance of spending more money than is earned in business.
+        definitionVi: Sự thua lỗ
+        examples:
+          - en: The retail store reported a significant financial loss last quarter.
+            vi: Cửa hàng bán lẻ đã báo cáo khoản lỗ tài chính đáng kể vào quý trước.
+          - en: We must analyze why this product line caused a net loss.
+            vi: Chúng ta phải phân tích lý do tại sao dòng sản phẩm này gây ra khoản lỗ ròng.
+  - lemma: revenue
+    cefr: B2
+    ipaUs: /ˈrɛv.əˌnu/
+    senses:
+      - pos: NOUN
+        definitionEn: The total income generated by the sale of goods or services.
+        definitionVi: Doanh thu
+        examples:
+          - en: The tech company reported higher quarterly revenue than analysts predicted.
+            vi: Công ty công nghệ đã báo cáo doanh thu hàng quý cao hơn dự đoán của các nhà phân tích.
+          - en: Advertising is the primary source of revenue for this website.
+            vi: Quảng cáo là nguồn doanh thu chính cho trang web này.
+  - lemma: budget
+    cefr: B1
+    ipaUs: /ˈbʌdʒ.ɪt/
+    senses:
+      - pos: NOUN
+        definitionEn: An estimate of income and expenditure for a set period.
+        definitionVi: Ngân sách
+        examples:
+          - en: The marketing team exceeded their allocated budget for this quarter.
+            vi: Nhóm marketing đã vượt quá ngân sách được phân bổ cho quý này.
+          - en: We need to approve the annual budget before the fiscal year.
+            vi: Chúng ta cần phê duyệt ngân sách hàng năm trước năm tài chính.
+  - lemma: audit
+    cefr: C1
+    ipaUs: /ˈɔ.dɪt/
+    senses:
+      - pos: NOUN
+        definitionEn: An official inspection of an organization's financial accounts.
+        definitionVi: Kiểm toán
+        examples:
+          - en: The independent accountants conducted a thorough financial audit of the firm.
+            vi: Các kế toán viên độc lập đã tiến hành một cuộc kiểm toán tài chính kỹ lưỡng.
+          - en: Our company prepares for an external audit every single year.
+            vi: Công ty chúng tôi chuẩn bị cho một cuộc kiểm toán bên ngoài mỗi năm.
+  - lemma: expenditure
+    cefr: C1
+    ipaUs: /ɪkˈspɛn.dɪ.tʃər/
+    senses:
+      - pos: NOUN
+        definitionEn: The action of spending funds or an amount of money spent.
+        definitionVi: Khoản chi tiêu
+        examples:
+          - en: The manager approved every major capital expenditure for the new factory.
+            vi: Người quản lý đã phê duyệt mọi khoản chi tiêu vốn lớn cho nhà máy mới.
+          - en: We need to reduce overall operational expenditure to increase net earnings.
+            vi: Chúng ta cần giảm tổng chi phí vận hành để tăng thu nhập ròng.
+  - lemma: overhead
+    cefr: C1
+    ipaUs: /ˈoʊ.vərˌhɛd/
+    senses:
+      - pos: NOUN
+        definitionEn: The ongoing business expenses not directly attributed to creating a product.
+        definitionVi: Chi phí chung
+        examples:
+          - en: High rent and utilities increase the monthly overhead for our cafe.
+            vi: Tiền thuê nhà cao và tiện ích làm tăng chi phí chung hàng tháng cho quán cà phê.
+          - en: Cutting unnecessary office supplies helps lower our total business overhead.
+            vi: Cắt giảm văn phòng phẩm không cần thiết giúp giảm tổng chi phí chung của doanh nghiệp.
+  - lemma: incentive
+    cefr: B2
+    ipaUs: /ɪnˈsɛn.tɪv/
+    senses:
+      - pos: NOUN
+        definitionEn: A thing that motivates or encourages someone to do something.
+        definitionVi: Động lực
+        examples:
+          - en: The company offered a cash incentive for completing the project early.
+            vi: Công ty đã đưa ra một khoản tiền khích lệ vì hoàn thành dự án sớm.
+          - en: Sales representatives receive a strong commission incentive for hitting higher targets.
+            vi: Các đại diện bán hàng nhận được động lực hoa hồng lớn khi đạt mục tiêu cao hơn.
+  - lemma: target
+    cefr: B1
+    ipaUs: /ˈtɑr.ɡɪt/
+    senses:
+      - pos: NOUN
+        definitionEn: A planned level or goal that is expected to be achieved.
+        definitionVi: Mục tiêu
+        examples:
+          - en: Our sales team reached every monthly target set by the director.
+            vi: Nhóm bán hàng của chúng tôi đã đạt được mọi mục tiêu hàng tháng do giám đốc đặt ra.
+          - en: We must adjust our production target to meet rising consumer demand.
+            vi: Chúng ta phải điều chỉnh mục tiêu sản xuất để đáp ứng nhu cầu người tiêu dùng đang tăng.
+  - lemma: goal
+    cefr: A2
+    ipaUs: /ɡoʊl/
+    senses:
+      - pos: NOUN
+        definitionEn: An aim or desired result that you work hard to achieve.
+        definitionVi: Mục tiêu
+        examples:
+          - en: Her primary career goal is to become a senior project manager.
+            vi: Mục tiêu nghề nghiệp chính của cô ấy là trở thành quản lý dự án cấp cao.
+          - en: Our main business goal this year is expanding into international markets.
+            vi: Mục tiêu kinh doanh chính của chúng tôi năm nay là mở rộng sang các thị trường quốc tế.
+  - lemma: objective
+    cefr: B2
+    ipaUs: /əbˈdʒɛk.tɪv/
+    senses:
+      - pos: NOUN
+        definitionEn: A specific result that a person or system aims to achieve.
+        definitionVi: Mục tiêu
+        examples:
+          - en: The primary objective of this meeting is finalizing the project schedule.
+            vi: Mục tiêu chính của cuộc họp này là hoàn thiện lịch trình dự án.
+          - en: Every team member must understand the main objective of our campaign.
+            vi: Mọi thành viên trong nhóm phải hiểu mục tiêu chính của chiến dịch chúng ta.
+  - lemma: metric
+    cefr: C1
+    ipaUs: /ˈmɛt.rɪk/
+    senses:
+      - pos: NOUN
+        definitionEn: A standard of measurement used to assess performance or success.
+        definitionVi: Thước đo
+        examples:
+          - en: Website traffic is a vital metric for evaluating digital marketing success.
+            vi: Lượng truy cập trang web là một thước đo quan trọng để đánh giá thành công của marketing kỹ
+              thuật số.
+          - en: We track customer satisfaction as a key performance metric every month.
+            vi: Chúng tôi theo dõi sự hài lòng của khách hàng như một chỉ số hiệu suất chính mỗi tháng.
+  - lemma: feedback
+    cefr: B1
+    ipaUs: /ˈfiːdbæk/
+    senses:
+      - pos: NOUN
+        definitionEn: opinions about something that you can use to improve
+        definitionVi: ý kiến phản hồi
+        examples:
+          - en: Please give me constructive feedback on my latest project report.
+            vi: Hãy đưa ra cho tôi những ý kiến phản hồi mang tính xây dựng về báo cáo dự án mới nhất.
+          - en: Customer feedback helps our team improve product design and quality.
+            vi: Phản hồi của khách hàng giúp nhóm chúng tôi cải thiện thiết kế và chất lượng sản phẩm.
+  - lemma: turnover
+    cefr: B2
+    ipaUs: /ˈtɜːrnˌoʊvər/
+    senses:
+      - pos: NOUN
+        definitionEn: the rate at which employees leave a company and are replaced
+        definitionVi: tỷ lệ nhân sự nghỉ việc
+        examples:
+          - en: High employee turnover can severely damage company morale and productivity.
+            vi: Tỷ lệ nhân sự nghỉ việc cao có thể làm tổn hại nghiêm trọng đến tinh thần và năng suất công ty.
+          - en: The manager is trying to reduce staff turnover this year.
+            vi: Người quản lý đang cố gắng giảm tỷ lệ nhân viên nghỉ việc trong năm nay.
+  - lemma: strike
+    cefr: B2
+    ipaUs: /straɪk/
+    senses:
+      - pos: NOUN
+        definitionEn: a period of time when workers stop working to protest
+        definitionVi: cuộc đình công
+        examples:
+          - en: Factory workers announced a sudden strike over low hourly wages.
+            vi: Công nhân nhà máy đã tuyên bố một cuộc đình công bất ngờ vì mức lương theo giờ thấp.
+          - en: The public transportation strike caused massive traffic delays everywhere.
+            vi: Cuộc đình công giao thông công cộng đã gây ra tình trạng chậm trễ giao thông lớn ở mọi nơi.
+  - lemma: union
+    cefr: B2
+    ipaUs: /ˈjuːniən/
+    senses:
+      - pos: NOUN
+        definitionEn: an organization that represents workers' rights
+        definitionVi: công đoàn
+        examples:
+          - en: The labor union negotiated better health benefits for all workers.
+            vi: Công đoàn lao động đã đàm phán các phúc lợi y tế tốt hơn cho tất cả công nhân.
+          - en: She joined the local union to protect her professional rights.
+            vi: Cô ấy đã gia nhập công đoàn địa phương để bảo vệ các quyền lợi nghề nghiệp của mình.
+  - lemma: headquarters
+    cefr: B1
+    ipaUs: /ˈhedˌkwɔːrtərz/
+    senses:
+      - pos: NOUN
+        definitionEn: the main offices of an organization or company
+        definitionVi: trụ sở chính
+        examples:
+          - en: Our company headquarters is located in the center of London.
+            vi: Trụ sở chính công ty chúng tôi nằm ở trung tâm thành phố Luân Đôn.
+          - en: He traveled to the global headquarters for a board meeting.
+            vi: Anh ấy đã đến trụ sở chính toàn cầu để tham gia cuộc họp hội đồng quản trị.
+  - lemma: cubicle
+    cefr: B2
+    ipaUs: /ˈkjuːbɪkəl/
+    senses:
+      - pos: NOUN
+        definitionEn: a small workspace separated by walls in an office
+        definitionVi: buồng làm việc nhỏ
+        examples:
+          - en: He spends his entire working day sitting inside a quiet cubicle.
+            vi: Anh ấy dành cả ngày làm việc ngồi bên trong một buồng làm việc nhỏ yên tĩnh.
+          - en: She decorated her office cubicle with colorful family photographs.
+            vi: Cô ấy đã trang trí buồng làm việc nhỏ ở văn phòng bằng những bức ảnh gia đình đầy màu sắc.
+  - lemma: workshop
+    cefr: B1
+    ipaUs: /ˈwɜːrkʃɑːp/
+    senses:
+      - pos: NOUN
+        definitionEn: A meeting for discussion and practical work on a subject.
+        definitionVi: Buổi thực hành
+        examples:
+          - en: The school organized a creative writing workshop for aspiring young authors.
+            vi: Nhà trường đã tổ chức một buổi hội thảo viết sáng tạo cho các tác giả trẻ đầy tham vọng.
+          - en: She learned basic pottery skills during a weekend workshop in town.
+            vi: Cô ấy đã học các kỹ năng làm gốm cơ bản trong một buổi hội thảo cuối tuần ở thị trấn.
+  - lemma: seminar
+    cefr: B2
+    ipaUs: /ˈsemɪnɑːr/
+    senses:
+      - pos: NOUN
+        definitionEn: A small class at a university for discussion and research.
+        definitionVi: Buổi hội thảo chuyên đề
+        examples:
+          - en: Professors led an interesting seminar about modern political trends yesterday afternoon.
+            vi: Các giáo sư đã dẫn dắt một buổi hội thảo thú vị về xu hướng chính trị hiện đại chiều qua.
+          - en: All students must attend the mandatory seminar on academic writing skills.
+            vi: Tất cả học sinh phải tham gia buổi hội thảo bắt buộc về kỹ năng viết học thuật.
+  - lemma: conference
+    cefr: B2
+    ipaUs: /ˈkɑːnfərəns/
+    senses:
+      - pos: NOUN
+        definitionEn: a large official meeting of people with shared interests
+        definitionVi: hội nghị
+        examples:
+          - en: She presented her research findings at an international academic conference.
+            vi: Cô ấy đã trình bày kết quả nghiên cứu của mình tại một hội nghị học thuật quốc tế.
+          - en: The annual sales conference takes place in Chicago next month.
+            vi: Hội nghị bán hàng thường niên diễn ra tại Chicago vào tháng tới.
+  - lemma: contractor
+    cefr: B2
+    ipaUs: /ˈkɑːntræktər/
+    senses:
+      - pos: NOUN
+        definitionEn: a person or company hired to perform a specific job
+        definitionVi: nhà thầu
+        examples:
+          - en: We hired an independent contractor to remodel our office kitchen.
+            vi: Chúng tôi đã thuê một nhà thầu độc lập để tu sửa nhà bếp văn phòng.
+          - en: The electrical contractor finished the wiring project ahead of schedule.
+            vi: Nhà thầu điện đã hoàn thành dự án đi dây trước thời hạn.
+  - lemma: trainee
+    cefr: B1
+    ipaUs: /ˌtreɪˈniː/
+    senses:
+      - pos: NOUN
+        definitionEn: a person who is learning and practicing a job
+        definitionVi: thực tập sinh
+        examples:
+          - en: Each summer, our firm welcomes a new software engineering trainee.
+            vi: Mỗi mùa hè, công ty chúng tôi chào đón một thực tập sinh kỹ thuật phần mềm mới.
+          - en: The experienced supervisor patiently guided the young trainee through tasks.
+            vi: Người giám sát giàu kinh nghiệm đã kiên nhẫn hướng dẫn thực tập sinh trẻ tuổi qua các nhiệm vụ.
+  - lemma: mentor
+    cefr: B1
+    ipaUs: /ˈmentɔːr/
+    senses:
+      - pos: NOUN
+        definitionEn: an experienced person who guides someone less experienced
+        definitionVi: người cố vấn
+        examples:
+          - en: My senior manager acted as a wonderful mentor throughout my career.
+            vi: Quản lý cấp cao của tôi đã đóng vai trò là một người cố vấn tuyệt vời trong suốt sự nghiệp.
+          - en: Every new employee is assigned a dedicated mentor during onboarding.
+            vi: Mỗi nhân viên mới được chỉ định một người cố vấn tận tâm trong giai đoạn hội nhập.
+  - lemma: networking
+    cefr: B2
+    ipaUs: /ˈnetˌwɜːrkɪŋ/
+    senses:
+      - pos: NOUN
+        definitionEn: meeting people to build professional contacts and share information
+        definitionVi: xây dựng mối quan hệ
+        examples:
+          - en: Professional networking events are great for finding new career opportunities.
+            vi: Các sự kiện xây dựng mối quan hệ chuyên nghiệp rất tuyệt vời để tìm kiếm cơ hội nghề nghiệp mới.
+          - en: She spent the evening networking with industry leaders at dinner.
+            vi: Cô ấy đã dành buổi tối để xây dựng mối quan hệ với các nhà Lãnh đạo ngành tại bữa tối.
+  - lemma: leadership
+    cefr: B2
+    ipaUs: /ˈliːdərˌʃɪp/
+    senses:
+      - pos: NOUN
+        definitionEn: the action of leading a group or an organization
+        definitionVi: năng lực lãnh đạo
+        examples:
+          - en: Good leadership is essential for steering a company toward success.
+            vi: Năng lực lãnh đạo tốt là điều cần thiết để chèo lái công ty hướng tới thành công.
+          - en: The executive team showed strong leadership during the financial crisis.
+            vi: Đội ngũ điều hành đã thể hiện năng lực lãnh đạo mạnh mẽ trong cuộc khủng hoảng tài chính.
+  - lemma: teamwork
+    cefr: B1
+    ipaUs: /ˈtiːmˌwɜːrk/
+    senses:
+      - pos: NOUN
+        definitionEn: the combined action of a group working effectively together
+        definitionVi: làm việc nhóm
+        examples:
+          - en: Successful projects always require excellent communication and strong teamwork.
+            vi: Các dự án thành công luôn đòi hỏi giao tiếp xuất sắc và tinh thần làm việc nhóm mạnh mẽ.
+          - en: The manager praised the department for their outstanding daily teamwork.
+            vi: Người quản lý đã ca ngợi phòng ban vì tinh thần làm việc nhóm hàng ngày xuất sắc của họ.
+  - lemma: strategy
+    cefr: B1
+    ipaUs: /ˈstrætədʒi/
+    senses:
+      - pos: NOUN
+        definitionEn: a detailed plan for achieving success in a business
+        definitionVi: chiến lược
+        examples:
+          - en: Our marketing strategy focuses heavily on social media advertising campaigns.
+            vi: Chiến lược tiếp thị của chúng tôi tập trung mạnh vào các chiến dịch quảng cáo mạng xã hội.
+          - en: The board of directors approved the new business expansion strategy.
+            vi: Hội đồng quản trị đã phê duyệt chiến lược mở rộng kinh doanh mới.
+  - lemma: logistics
+    cefr: B2
+    ipaUs: /ləˈdʒɪstɪks/
+    senses:
+      - pos: NOUN
+        definitionEn: the organization of supplies and services in a business
+        definitionVi: hoạt động hậu cần
+        examples:
+          - en: Managing supply chain logistics requires careful planning and constant monitoring.
+            vi: Quản lý hoạt động hậu cần chuỗi cung ứng đòi hỏi lập kế hoạch cẩn thận và giám sát liên tục.
+          - en: She works in the logistics department handling international product shipments.
+            vi: Cô ấy làm việc tại bộ phận hậu cần xử lý các lô hàng sản phẩm quốc tế.
+  - lemma: administration
+    cefr: B2
+    ipaUs: /ədˌmɪnɪˈstreɪʃn/
+    senses:
+      - pos: NOUN
+        definitionEn: the management of business operations and office duties
+        definitionVi: công tác quản trị
+        examples:
+          - en: She handles office administration tasks like scheduling and document filing.
+            vi: Cô ấy xử lý các công việc quản trị văn phòng như lên lịch và lưu trữ tài liệu.
+          - en: The university administration announced new campus policies this morning.
+            vi: Bộ phận quản trị trường đại học đã công bố các chính sách khuôn viên mới sáng nay.
+  - lemma: enterprise
+    cefr: B2
+    ipaUs: /ˈentərˌpraɪz/
+    senses:
+      - pos: NOUN
+        definitionEn: a business company or organization
+        definitionVi: doanh nghiệp
+        examples:
+          - en: This tech enterprise focuses on developing artificial intelligence software.
+            vi: Doanh nghiệp công nghệ này tập trung phát triển phần mềm trí tuệ nhân tạo.
+          - en: Starting a private enterprise involves substantial financial risk and dedication.
+            vi: Khởi业 một doanh nghiệp tư nhân liên quan đến rủi ro tài chính đáng kể và sự cống hiến.
+  - lemma: trade
+    cefr: B1
+    ipaUs: /treɪd/
+    senses:
+      - pos: NOUN
+        definitionEn: the activity of buying and selling goods and services
+        definitionVi: thương mại
+        examples:
+          - en: International trade agreements benefit many countries around the world.
+            vi: Các hiệp定 thương mại quốc tế mang lại lợi ích cho nhiều quốc gia trên thế giới.
+          - en: He learned the plumbing trade after finishing high school.
+            vi: Anh ấy đã học nghề thợ sửa ống nước sau khi tốt nghiệp trung học phổ thông.
+  - lemma: corporation
+    cefr: B2
+    ipaUs: /ˌkɔːrpəˈreɪʃn/
+    senses:
+      - pos: NOUN
+        definitionEn: A large company or group of companies authorized to act as a single entity.
+        definitionVi: Tập đoàn lớn
+        examples:
+          - en: She secured a high-paying job at a major international corporation last year.
+            vi: Cô ấy đã nhận được một công việc lương cao tại một tập đoàn quốc tế lớn vào năm ngoái.
+          - en: The local corporation donated millions to fund the new community center.
+            vi: Tập đoàn địa phương đã đóng góp hàng triệu đô la để tài trợ cho trung tâm cộng đồng mới.
+  - lemma: partnership
+    cefr: B1
+    ipaUs: /ˈpɑːrtnərʃɪp/
+    senses:
+      - pos: NOUN
+        definitionEn: A relationship between two or more people or organizations working together.
+        definitionVi: Mối quan hệ đối tác
+        examples:
+          - en: Their successful business partnership lasted for more than twenty creative years.
+            vi: Mối quan hệ kinh doanh thành công của họ kéo dài hơn hai mươi năm đầy sáng tạo.
+          - en: The university formed a new research partnership with a leading technology firm.
+            vi: Trường đại học đã thành lập một mối quan hệ đối tác nghiên cứu mới với một công ty công nghệ
+              hàng đầu.
+  - lemma: stipend
+    cefr: C1
+    ipaUs: /ˈstaɪpend/
+    senses:
+      - pos: NOUN
+        definitionEn: A fixed regular sum of money paid as a salary or allowance.
+        definitionVi: Tiền trợ cấp
+        examples:
+          - en: The summer research intern receives a monthly stipend for living expenses.
+            vi: Thực tập sinh nghiên cứu mùa hè nhận được khoản tiền trợ cấp hàng tháng cho chi phí sinh hoạt.
+          - en: Graduate students often rely on a small stipend to cover basic needs.
+            vi: Các nghiên cứu sinh thường dựa vào khoản tiền trợ cấp nhỏ để trang trải các nhu cầu cơ bản.
+  - lemma: severance
+    cefr: C1
+    ipaUs: /ˈsevərəns/
+    senses:
+      - pos: NOUN
+        definitionEn: Compensation paid to an employee when they are laid off or fired.
+        definitionVi: Tiền trợ cấp thôi việc
+        examples:
+          - en: He received a generous severance package after the company downsized its workforce.
+            vi: Anh ấy đã nhận được một gói trợ cấp thôi việc hào phóng sau khi công ty cắt giảm lực lượng lao
+              động.
+          - en: She used her severance money to travel before finding a new job.
+            vi: Cô ấy đã dùng tiền trợ cấp thôi việc của mình để đi du lịch trước khi tìm công việc mới.
+  - lemma: occupation
+    cefr: B2
+    ipaUs: /ˌɑːkjuˈpeɪʃn/
+    senses:
+      - pos: NOUN
+        definitionEn: A person's usual or principal work or business, especially as a means of earning a living.
+        definitionVi: Nghề nghiệp
+        examples:
+          - en: Teaching is a noble occupation that requires patience and deep dedication.
+            vi: Giảng dạy là một nghề nghiệp cao quý đòi hỏi sự kiên nhẫn và tận tụy sâu sắc.
+          - en: Please state your name, address, and current occupation on this form.
+            vi: Vui lòng ghi rõ họ tên, địa chỉ và nghề nghiệp hiện tại của bạn vào mẫu này.
+  - lemma: profession
+    cefr: B1
+    ipaUs: /prəˈfeʃn/
+    senses:
+      - pos: NOUN
+        definitionEn: A paid occupation, especially one that involves prolonged training and a formal
+          qualification.
+        definitionVi: Nghề nghiệp chuyên môn
+        examples:
+          - en: Entering the medical profession requires many years of intense academic study.
+            vi: Bước chân vào ngành y đòi hỏi nhiều năm học tập chuyên sâu và vất vả.
+          - en: She decided to leave the legal profession to pursue her artistic passions.
+            vi: Cô ấy quyết định rời bỏ nghề luật sư để theo đuổi đam mê nghệ thuật của mình.
+  - lemma: career
+    cefr: A2
+    ipaUs: /kəˈrɪr/
+    senses:
+      - pos: NOUN
+        definitionEn: An occupation undertaken for a significant period of a person's life and with
+          opportunities for progress.
+        definitionVi: Sự nghiệp
+        examples:
+          - en: He hopes to build a successful career in international digital marketing.
+            vi: Anh ấy hy vọng xây dựng một sự nghiệp thành công trong lĩnh vực tiếp thị kỹ thuật số quốc tế.
+          - en: She changed her career path after realizing her true passion was cooking.
+            vi: Cô ấy đã thay đổi con đường sự nghiệp của mình sau khi nhận ra đam mê thực sự là nấu ăn.
+  - lemma: office
+    cefr: A1
+    ipaUs: /ˈɔːfɪs/
+    senses:
+      - pos: NOUN
+        definitionEn: A room, set of rooms, or building where people work, usually sitting at desks.
+        definitionVi: Văn phòng
+        examples:
+          - en: Every morning, he arrives at the downtown office before eight o'clock.
+            vi: Mỗi buổi sáng, anh ấy đến văn phòng ở trung tâm thành phố trước tám giờ.
+          - en: Our modern office features open workstations and bright collaborative meeting spaces.
+            vi: Văn phòng hiện đại của chúng tôi có các khu vực làm việc mở và không gian họp chung sáng sủa.
+  - lemma: worker
+    cefr: A1
+    ipaUs: /ˈwɜːrkər/
+    senses:
+      - pos: NOUN
+        definitionEn: A person who does a particular job or performs specific tasks for an employer.
+        definitionVi: Người lao động
+        examples:
+          - en: Each factory worker must wear protective safety gear during operating hours.
+            vi: Mỗi công nhân nhà máy phải đeo thiết bị bảo hộ an toàn trong giờ làm việc.
+          - en: The diligent office worker stayed late to finish the monthly financial report.
+            vi: Nhân viên văn phòng chăm chỉ đã ở lại muộn để hoàn thành báo cáo tài chính hàng tháng.
+  - lemma: employer
+    cefr: A2
+    ipaUs: /ɪmˈplɔɪər/
+    senses:
+      - pos: NOUN
+        definitionEn: A person or organization that employs people for wages or a salary.
+        definitionVi: Người sử dụng lao động
+        examples:
+          - en: Your current employer must provide written consent for the background check.
+            vi: Người sử dụng lao động hiện tại của bạn phải cung cấp văn bản đồng ý cho việc kiểm tra lý lịch.
+          - en: The generous employer offers health insurance and flexible working hours.
+            vi: Chủ doanh nghiệp hào phóng cung cấp bảo hiểm y tế và giờ làm việc linh hoạt.
+  - lemma: company
+    cefr: A1
+    ipaUs: /ˈkʌmpəni/
+    senses:
+      - pos: NOUN
+        definitionEn: A commercial business organization that sells goods or services for profit.
+        definitionVi: Công ty
+        examples:
+          - en: She started working as a graphic designer for a local tech company.
+            vi: Cô ấy bắt đầu làm việc với tư cách là một nhà thiết kế đồ họa cho một công ty công nghệ địa
+              phương.
+          - en: The software company released a major update to improve user security.
+            vi: Công ty phần mềm đã phát hành một bản cập nhật lớn để cải thiện tính bảo mật của người dùng.
+  - lemma: business
+    cefr: A1
+    ipaUs: /ˈbɪznəs/
+    senses:
+      - pos: NOUN
+        definitionEn: The activity of making, buying, or selling goods or services for money.
+        definitionVi: Việc kinh doanh
+        examples:
+          - en: He decided to open a small retail business in his hometown.
+            vi: Anh ấy quyết định mở một doanh nghiệp bán lẻ nhỏ ở quê nhà.
+          - en: Good customer service is essential for running a successful retail business.
+            vi: Dịch vụ khách hàng tốt là điều cần thiết để điều hành một việc kinh doanh bán lẻ thành công.

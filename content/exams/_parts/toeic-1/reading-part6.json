@@ -1,0 +1,450 @@
+[
+  {
+    "id": "reading-part6-t1",
+    "skill": "reading",
+    "title": "Part 6 — Text 1: car park notice",
+    "format": "TOEIC Reading — Part 6 · Text Completion 1 (câu 131–134)",
+    "instructionsVi": "Khác Part 5, chỗ trống ở đây phụ thuộc vào NGỮ CẢNH cả đoạn chứ không chỉ vào câu chứa nó. Luôn đọc câu trước và câu sau trước khi chọn. Mỗi văn bản có một câu hỏi chèn nguyên một câu.",
+    "promptEn": "Read the notice and choose the best option for each numbered blank.",
+    "passage": "NOTICE TO ALL STAFF — Car Park Resurfacing\n\nThe main car park will be closed for resurfacing from Monday 14 to Friday 18 April. During this period, staff may use the visitor spaces on Colville Street, which will be (131) ______ reserved for employees.\n\nPlease note that the barrier there does not read staff cards. Instead, you will need the temporary code, which the facilities team will (132) ______ by email on Friday afternoon.\n\nWe expect the work to be completed on schedule. (133) ______\n\nWe apologise for the (134) ______ and thank you for your patience.",
+    "timeLimitSec": 240,
+    "questions": [
+      {
+        "id": "p6-131",
+        "kind": "mcq",
+        "prompt": "131.",
+        "options": [
+          {
+            "id": "a",
+            "text": "temporarily"
+          },
+          {
+            "id": "b",
+            "text": "permanently"
+          },
+          {
+            "id": "c",
+            "text": "rarely"
+          },
+          {
+            "id": "d",
+            "text": "previously"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "Cả thông báo nói về việc đóng cửa MỘT TUẦN, nên chỗ đỗ chỉ dành cho nhân viên tạm thời. Trong câu đó cả bốn từ đều hợp ngữ pháp — phải dựa vào ngữ cảnh."
+      },
+      {
+        "id": "p6-132",
+        "kind": "mcq",
+        "prompt": "132.",
+        "options": [
+          {
+            "id": "a",
+            "text": "circulated"
+          },
+          {
+            "id": "b",
+            "text": "circulate"
+          },
+          {
+            "id": "c",
+            "text": "circulating"
+          },
+          {
+            "id": "d",
+            "text": "to circulate"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "Sau 'will' phải là động từ nguyên mẫu không 'to'. Câu hỏi ngữ pháp thuần tuý, giải quyết trong mười giây."
+      },
+      {
+        "id": "p6-133",
+        "kind": "mcq",
+        "prompt": "133. — chọn câu phù hợp nhất để chèn vào",
+        "options": [
+          {
+            "id": "a",
+            "text": "The car park will therefore remain open throughout."
+          },
+          {
+            "id": "b",
+            "text": "Staff cards will continue to work at the Colville Street barrier."
+          },
+          {
+            "id": "c",
+            "text": "However, if rain causes a delay, an update will be posted on the intranet each day."
+          },
+          {
+            "id": "d",
+            "text": "Please submit your parking permit application by Friday."
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "Câu trước nói kỳ vọng xong đúng hạn, nên câu tiếp theo hợp lý là nêu tình huống ngược lại. (A) và (B) mâu thuẫn trực tiếp với chính thông báo."
+      },
+      {
+        "id": "p6-134",
+        "kind": "mcq",
+        "prompt": "134.",
+        "options": [
+          {
+            "id": "a",
+            "text": "invitation"
+          },
+          {
+            "id": "b",
+            "text": "improvement"
+          },
+          {
+            "id": "c",
+            "text": "installation"
+          },
+          {
+            "id": "d",
+            "text": "inconvenience"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'We apologise for the inconvenience' là cụm cố định trong văn bản công sở."
+      }
+    ]
+  },
+  {
+    "id": "reading-part6-t2",
+    "skill": "reading",
+    "title": "Part 6 — Text 2: letter to a client",
+    "format": "TOEIC Reading — Part 6 · Text Completion 2 (câu 135–138)",
+    "instructionsVi": "Thư thương mại. Chú ý các cụm cố định trong thư từ công việc — TOEIC kiểm tra rất nhiều cụm quen thuộc kiểu này.",
+    "promptEn": "Read the letter and choose the best option for each numbered blank.",
+    "passage": "Dear Mr Halvorsen,\n\nThank you for your enquiry about our conference facilities for the week of 12 October.\n\nI am pleased to confirm that the Kingsley Suite is (135) ______ on the dates you requested. The room holds up to 120 delegates in theatre style, or 80 with tables.\n\nOur standard package includes audio-visual equipment, refreshments, and a technician on site throughout. (136) ______\n\nRegarding parking, we hold 40 spaces for event guests. (137) ______ demand is high in October, I would recommend reserving these at the time of booking.\n\nI have (138) ______ our full price list. Please let me know if you would like to arrange a site visit.\n\nYours sincerely,\nRosalind Okonkwo",
+    "timeLimitSec": 240,
+    "questions": [
+      {
+        "id": "p6-135",
+        "kind": "mcq",
+        "prompt": "135.",
+        "options": [
+          {
+            "id": "a",
+            "text": "availability"
+          },
+          {
+            "id": "b",
+            "text": "available"
+          },
+          {
+            "id": "c",
+            "text": "availably"
+          },
+          {
+            "id": "d",
+            "text": "avail"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "Sau động từ 'is' cần TÍNH TỪ làm bổ ngữ."
+      },
+      {
+        "id": "p6-136",
+        "kind": "mcq",
+        "prompt": "136. — chọn câu phù hợp nhất để chèn vào",
+        "options": [
+          {
+            "id": "a",
+            "text": "Lunch can be added for an additional charge per delegate."
+          },
+          {
+            "id": "b",
+            "text": "Unfortunately the suite is fully booked that week."
+          },
+          {
+            "id": "c",
+            "text": "We no longer provide audio-visual equipment."
+          },
+          {
+            "id": "d",
+            "text": "Payment must be received within seven days of this letter."
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "Câu trước liệt kê những gì gói dịch vụ ĐÃ bao gồm, nên câu tiếp theo hợp lý là nói về thứ có thể bổ sung. (B) và (C) mâu thuẫn với chính lá thư."
+      },
+      {
+        "id": "p6-137",
+        "kind": "mcq",
+        "prompt": "137.",
+        "options": [
+          {
+            "id": "a",
+            "text": "Despite"
+          },
+          {
+            "id": "b",
+            "text": "Whether"
+          },
+          {
+            "id": "c",
+            "text": "Unless"
+          },
+          {
+            "id": "d",
+            "text": "Because"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "Nhu cầu cao LÀ LÝ DO nên khuyên đặt sớm. Quan hệ nguyên nhân."
+      },
+      {
+        "id": "p6-138",
+        "kind": "mcq",
+        "prompt": "138.",
+        "options": [
+          {
+            "id": "a",
+            "text": "enclosing"
+          },
+          {
+            "id": "b",
+            "text": "enclose"
+          },
+          {
+            "id": "c",
+            "text": "enclosed"
+          },
+          {
+            "id": "d",
+            "text": "enclosure"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "Sau 'I have' cần quá khứ phân từ. 'I have enclosed' cũng là cụm chuẩn trong thư thương mại."
+      }
+    ]
+  },
+  {
+    "id": "reading-part6-t3",
+    "skill": "reading",
+    "title": "Part 6 — Text 3: internal memo",
+    "format": "TOEIC Reading — Part 6 · Text Completion 3 (câu 139–142)",
+    "instructionsVi": "Bản ghi nhớ nội bộ. Có một chỗ trống chỉ chọn đúng nếu bạn đọc thông tin nằm cách đó hai câu.",
+    "promptEn": "Read the memo and choose the best option for each numbered blank.",
+    "passage": "MEMORANDUM\nTo: All departments\nFrom: IT Services\nSubject: Password policy change, effective 1 June\n\nFrom the first of June, all staff passwords must be changed every ninety days rather than every thirty. This may seem like a (139) ______ of security, but current guidance from the national cyber security centre is that frequent forced changes make passwords weaker, not stronger, because people resort to predictable patterns.\n\nAt the same time, the minimum length will (140) ______ from eight characters to twelve. Longer passwords are considerably harder to break, and this change more than offsets the longer interval.\n\n(141) ______ You will receive a reminder seven days before your password expires.\n\nIf you have difficulty setting a new password, please contact the helpdesk (142) ______ than attempting to reset it repeatedly, as three failed attempts will lock the account.",
+    "timeLimitSec": 240,
+    "questions": [
+      {
+        "id": "p6-139",
+        "kind": "mcq",
+        "prompt": "139.",
+        "options": [
+          {
+            "id": "a",
+            "text": "strengthening"
+          },
+          {
+            "id": "b",
+            "text": "reminder"
+          },
+          {
+            "id": "c",
+            "text": "requirement"
+          },
+          {
+            "id": "d",
+            "text": "weakening"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "Câu tiếp theo bắt đầu bằng 'but' và giải thích rằng đổi mật khẩu thường xuyên lại làm YẾU đi. Nên chỗ trống phải nêu điều người đọc TƯỞNG là suy giảm an ninh."
+      },
+      {
+        "id": "p6-140",
+        "kind": "mcq",
+        "prompt": "140.",
+        "options": [
+          {
+            "id": "a",
+            "text": "increase"
+          },
+          {
+            "id": "b",
+            "text": "decrease"
+          },
+          {
+            "id": "c",
+            "text": "remain"
+          },
+          {
+            "id": "d",
+            "text": "expire"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "Từ tám lên mười hai ký tự là TĂNG. Phải đọc hai con số mới chọn đúng."
+      },
+      {
+        "id": "p6-141",
+        "kind": "mcq",
+        "prompt": "141. — chọn câu phù hợp nhất để chèn vào",
+        "options": [
+          {
+            "id": "a",
+            "text": "All passwords must be changed today."
+          },
+          {
+            "id": "b",
+            "text": "The helpdesk will set new passwords for everyone."
+          },
+          {
+            "id": "c",
+            "text": "No action is needed until your current password expires."
+          },
+          {
+            "id": "d",
+            "text": "Password length will be reduced to six characters."
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "Câu ngay sau nói sẽ có nhắc nhở trước bảy ngày khi mật khẩu hết hạn, nên câu chèn phải nói chưa cần làm gì ngay. (A) mâu thuẫn trực tiếp với câu đó."
+      },
+      {
+        "id": "p6-142",
+        "kind": "mcq",
+        "prompt": "142.",
+        "options": [
+          {
+            "id": "a",
+            "text": "other"
+          },
+          {
+            "id": "b",
+            "text": "rather"
+          },
+          {
+            "id": "c",
+            "text": "more"
+          },
+          {
+            "id": "d",
+            "text": "sooner"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'rather than' = thay vì. Đây là cụm cố định nối hai lựa chọn."
+      }
+    ]
+  },
+  {
+    "id": "reading-part6-t4",
+    "skill": "reading",
+    "title": "Part 6 — Text 4: job advertisement",
+    "format": "TOEIC Reading — Part 6 · Text Completion 4 (câu 143–146)",
+    "instructionsVi": "Tin tuyển dụng. Văn bản này có cả câu hỏi từ vựng, ngữ pháp và chèn câu — đúng cấu trúc thường gặp của một đoạn Part 6.",
+    "promptEn": "Read the advertisement and choose the best option for each numbered blank.",
+    "passage": "WAREHOUSE SUPERVISOR — Halloran Distribution, Fairport\n\nWe are seeking an experienced supervisor to (143) ______ our evening shift team of twelve.\n\nThe successful candidate will have at least three years' experience in a warehouse environment and a valid forklift certificate. Experience with stock management software is (144) ______ but not essential; training will be provided.\n\nThis is a permanent position, working Monday to Friday from two until ten. (145) ______\n\nTo apply, send a CV and a short covering letter to recruitment at halloran dot example. Applications close on 30 April, and interviews will be held (146) ______ the following week.",
+    "timeLimitSec": 240,
+    "questions": [
+      {
+        "id": "p6-143",
+        "kind": "mcq",
+        "prompt": "143.",
+        "options": [
+          {
+            "id": "a",
+            "text": "leading"
+          },
+          {
+            "id": "b",
+            "text": "lead"
+          },
+          {
+            "id": "c",
+            "text": "leader"
+          },
+          {
+            "id": "d",
+            "text": "led"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "Sau 'to' trong cấu trúc 'seeking someone TO DO' cần động từ nguyên mẫu."
+      },
+      {
+        "id": "p6-144",
+        "kind": "mcq",
+        "prompt": "144.",
+        "options": [
+          {
+            "id": "a",
+            "text": "desirable"
+          },
+          {
+            "id": "b",
+            "text": "compulsory"
+          },
+          {
+            "id": "c",
+            "text": "unavailable"
+          },
+          {
+            "id": "d",
+            "text": "temporary"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "Vế sau nói 'but not essential', nên vế trước phải mang nghĩa 'được ưu tiên'. (B) mâu thuẫn trực tiếp với 'not essential'."
+      },
+      {
+        "id": "p6-145",
+        "kind": "mcq",
+        "prompt": "145. — chọn câu phù hợp nhất để chèn vào",
+        "options": [
+          {
+            "id": "a",
+            "text": "The role is offered on a six-month temporary contract."
+          },
+          {
+            "id": "b",
+            "text": "Applicants must be available for morning shifts only."
+          },
+          {
+            "id": "c",
+            "text": "No previous warehouse experience is necessary."
+          },
+          {
+            "id": "d",
+            "text": "Weekend work is occasionally required at short notice."
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "Câu trước nêu lịch làm việc, nên câu chèn hợp lý là bổ sung chi tiết về lịch. (A), (B) và (C) đều mâu thuẫn với những gì tin tuyển dụng đã nói."
+      },
+      {
+        "id": "p6-146",
+        "kind": "mcq",
+        "prompt": "146.",
+        "options": [
+          {
+            "id": "a",
+            "text": "while"
+          },
+          {
+            "id": "b",
+            "text": "since"
+          },
+          {
+            "id": "c",
+            "text": "during"
+          },
+          {
+            "id": "d",
+            "text": "until"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'during the following week' — giới từ chỉ khoảng thời gian. 'while' cần mệnh đề có động từ."
+      }
+    ]
+  }
+]

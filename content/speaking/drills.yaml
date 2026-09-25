@@ -1,0 +1,428 @@
+# Bài luyện phát âm, bám đúng chín nhóm lỗi §7.6.3 trong
+# packages/scoring/src/pronunciation.ts. Trường `focus` phải khớp `drillFocus`
+# của nhóm tương ứng, nếu không bộ gợi ý bài luyện sẽ không tìm ra bài nào.
+drills:
+  # ---- Phụ âm cuối ---------------------------------------------------------
+  - slug: final-t-cat-sat
+    text: The cat sat on the mat.
+    cefr: A1
+    focus: final-consonant
+    ipa: /ðə kæt sæt ɒn ðə mæt/
+    translationVi: Con mèo ngồi trên tấm thảm.
+    minimalPair: cat / car
+    tipVi: >-
+      Ba từ cuối đều kết thúc bằng /t/. Chạm đầu lưỡi vào lợi trên rồi bật nhẹ
+      hơi ra — đừng nuốt mất âm cuối như khi nói tiếng Việt.
+
+  - slug: final-d-worked-hard
+    text: She worked hard and finished the job.
+    cefr: A2
+    focus: final-consonant
+    ipa: /ʃiː wɜːkt hɑːd ənd ˈfɪnɪʃt ðə dʒɒb/
+    translationVi: Cô ấy làm việc chăm chỉ và hoàn thành công việc.
+    minimalPair: hard / ha
+    tipVi: >-
+      Bốn phụ âm cuối trong câu này: -ked, -rd, -nd, -b. Mỗi từ phải nghe rõ
+      đến hết. Đọc chậm lại và cố ý kéo dài âm cuối lúc mới tập.
+
+  - slug: final-s-books-bags
+    text: I need six books and two bags.
+    cefr: A1
+    focus: final-consonant
+    ipa: /aɪ niːd sɪks bʊks ənd tuː bæɡz/
+    translationVi: Tôi cần sáu quyển sách và hai cái túi.
+    minimalPair: books / book
+    tipVi: >-
+      books kết thúc bằng /s/ vô thanh, bags kết thúc bằng /z/ hữu thanh. Đặt
+      tay lên cổ họng: /z/ làm cổ họng rung, /s/ thì không.
+
+  # ---- Âm th ---------------------------------------------------------------
+  - slug: th-think-three
+    text: I think there are three things.
+    cefr: A2
+    focus: th
+    ipa: /aɪ θɪŋk ðeə ɑː θriː θɪŋz/
+    translationVi: Tôi nghĩ có ba thứ.
+    minimalPair: think / sink
+    tipVi: >-
+      Bốn âm th trong một câu. Đặt đầu lưỡi chạm nhẹ giữa hai hàm răng rồi thổi
+      hơi. think và three là /θ/ không rung; there là /ð/ có rung.
+
+  - slug: th-this-that
+    text: This is the thing that matters.
+    cefr: A2
+    focus: th
+    ipa: /ðɪs ɪz ðə θɪŋ ðæt ˈmætəz/
+    translationVi: Đây mới là điều quan trọng.
+    minimalPair: they / day
+    tipVi: >-
+      This, the, that đều là /ð/ — lưỡi giữa răng và dây thanh rung. Nếu bạn
+      nghe thành dis, de, dat thì lưỡi đang chạm lợi thay vì răng.
+
+  - slug: th-birthday-month
+    text: My birthday is the third month of the year.
+    cefr: B1
+    focus: th
+    ipa: /maɪ ˈbɜːθdeɪ ɪz ðə θɜːd mʌnθ əv ðə jɪə/
+    translationVi: Sinh nhật tôi vào tháng thứ ba trong năm.
+    minimalPair: month / months
+    tipVi: >-
+      Âm /θ/ ở giữa từ (birthday) và cuối từ (month) khó hơn ở đầu từ. Đọc chậm
+      từng từ trước, rồi mới ghép cả câu.
+
+  # ---- sh / ch -------------------------------------------------------------
+  - slug: sh-she-sells
+    text: She should share the fish.
+    cefr: A2
+    focus: sh-ch
+    ipa: /ʃiː ʃʊd ʃeə ðə fɪʃ/
+    translationVi: Cô ấy nên chia sẻ phần cá.
+    minimalPair: she / sea
+    tipVi: >-
+      Bốn âm /ʃ/. Tròn môi lại và kéo lưỡi lùi về sau — luồng hơi rộng và trầm
+      hơn âm /s/ nhiều.
+
+  - slug: ch-cheap-chair
+    text: The cheap chair in the kitchen is watched by children.
+    cefr: B1
+    focus: sh-ch
+    ipa: /ðə tʃiːp tʃeə ɪn ðə ˈkɪtʃɪn ɪz wɒtʃt baɪ ˈtʃɪldrən/
+    translationVi: Cái ghế rẻ tiền trong bếp được lũ trẻ để mắt tới.
+    minimalPair: chair / care
+    tipVi: >-
+      Âm /tʃ/ là /t/ rồi bung ngay sang /ʃ/. Nếu nghe thành tear, tit-chen thì
+      bạn đang dừng ở /t/ mà chưa bung sang phần /ʃ/.
+
+  # ---- Âm v ----------------------------------------------------------------
+  - slug: v-very-visit
+    text: Every visitor loves the view.
+    cefr: A2
+    focus: v
+    ipa: /ˈevri ˈvɪzɪtə lʌvz ðə vjuː/
+    translationVi: Vị khách nào cũng thích khung cảnh này.
+    minimalPair: view / you
+    tipVi: >-
+      Răng cửa trên chạm nhẹ môi dưới rồi rung dây thanh. Nếu bạn nghe thành
+      "yery, yiew" thì môi chưa chạm răng — đó là lỗi phổ biến nhất.
+
+  - slug: v-seven-eleven
+    text: Seven of the eleven drivers arrived.
+    cefr: B1
+    focus: v
+    ipa: /ˈsevn əv ði ɪˈlevn ˈdraɪvəz əˈraɪvd/
+    translationVi: Bảy trong số mười một tài xế đã tới.
+    minimalPair: very / berry
+    tipVi: >-
+      Âm /v/ ở giữa từ khó hơn ở đầu từ. Giữ răng chạm môi đủ lâu để nghe rõ
+      tiếng ma sát, đừng lướt qua.
+
+  # ---- Cụm phụ âm ----------------------------------------------------------
+  - slug: cluster-street-strong
+    text: The strong student crossed the street.
+    cefr: B1
+    focus: cluster
+    ipa: /ðə strɒŋ ˈstjuːdnt krɒst ðə striːt/
+    translationVi: Cậu sinh viên khoẻ mạnh băng qua đường.
+    minimalPair: street / sa-treet
+    tipVi: >-
+      /str/ là ba phụ âm liền nhau, tiếng Việt không có. Đừng chèn nguyên âm
+      vào giữa thành "sờ-tơ-reet" — đọc liền một hơi.
+
+  - slug: cluster-asked-texts
+    text: He asked for the texts he needed.
+    cefr: B2
+    focus: cluster
+    ipa: /hi ɑːskt fə ðə teksts hi ˈniːdɪd/
+    translationVi: Anh ấy hỏi xin những đoạn văn bản mình cần.
+    minimalPair: asked / ask
+    tipVi: >-
+      asked kết thúc bằng /skt/, texts kết thúc bằng /ksts/ — bốn phụ âm liền.
+      Đây là chỗ khó nhất. Tập từng phụ âm rồi tăng tốc dần.
+
+  # ---- Đuôi -s -------------------------------------------------------------
+  - slug: plural-s-three-ways
+    text: The maps, the buses and the roads are ready.
+    cefr: A2
+    focus: plural-s
+    ipa: /ðə mæps ðə ˈbʌsɪz ənd ðə rəʊdz ɑː ˈredi/
+    translationVi: Bản đồ, xe buýt và đường sá đều đã sẵn sàng.
+    minimalPair: maps / map
+    tipVi: >-
+      Ba cách đọc đuôi -s trong một câu: maps là /s/, buses là /ɪz/ thêm một âm
+      tiết, roads là /z/. Đọc sai đuôi -s là người nghe mất thông tin số nhiều.
+
+  - slug: plural-s-she-works
+    text: She watches films and reads books.
+    cefr: A2
+    focus: plural-s
+    ipa: /ʃiː ˈwɒtʃɪz fɪlmz ənd riːdz bʊks/
+    translationVi: Cô ấy xem phim và đọc sách.
+    minimalPair: watches / watch
+    tipVi: >-
+      watches thêm hẳn một âm tiết (/ɪz/), films và reads là /z/, books là /s/.
+      Đuôi -s ở động từ ngôi ba số ít cũng theo đúng ba quy tắc này.
+
+  # ---- Đuôi -ed ------------------------------------------------------------
+  - slug: past-ed-three-ways
+    text: I wanted to help, so I walked over and called him.
+    cefr: B1
+    focus: past-ed
+    ipa: /aɪ ˈwɒntɪd tə help səʊ aɪ wɔːkt ˈəʊvə ənd kɔːld hɪm/
+    translationVi: Tôi muốn giúp nên đã đi qua và gọi anh ấy.
+    minimalPair: walked / walk
+    tipVi: >-
+      Ba cách đọc đuôi -ed: wanted là /ɪd/ thêm một âm tiết, walked là /t/,
+      called là /d/. walked chỉ có MỘT âm tiết, không phải "wor-ked".
+
+  - slug: past-ed-finished-started
+    text: She finished the work she started yesterday.
+    cefr: B1
+    focus: past-ed
+    ipa: /ʃiː ˈfɪnɪʃt ðə wɜːk ʃiː ˈstɑːtɪd ˈjestədeɪ/
+    translationVi: Cô ấy đã làm xong công việc bắt đầu từ hôm qua.
+    minimalPair: finished / finish it
+    tipVi: >-
+      finished là một âm tiết cộng /t/; started thêm hẳn /ɪd/ vì gốc kết thúc
+      bằng /t/. Quy tắc: chỉ thêm âm tiết khi gốc kết thúc bằng /t/ hoặc /d/.
+
+  # ---- Trọng âm ------------------------------------------------------------
+  - slug: stress-record-noun-verb
+    text: I want to record a new record.
+    cefr: B1
+    focus: stress
+    ipa: /aɪ wɒnt tə rɪˈkɔːd ə njuː ˈrekɔːd/
+    translationVi: Tôi muốn thu âm một đĩa nhạc mới.
+    minimalPair: REcord / reCORD
+    tipVi: >-
+      Cùng một chữ, hai trọng âm. Động từ reCORD nhấn âm hai, danh từ REcord
+      nhấn âm một. Nhấn sai chỗ là người nghe hiểu sai loại từ.
+
+  - slug: stress-photograph-family
+    text: A photographer took this photograph for the photography class.
+    cefr: B2
+    focus: stress
+    ipa: /ə fəˈtɒɡrəfə tʊk ðɪs ˈfəʊtəɡrɑːf fə ðə fəˈtɒɡrəfi klɑːs/
+    translationVi: Một nhiếp ảnh gia chụp bức ảnh này cho lớp nhiếp ảnh.
+    minimalPair: PHOtograph / phoTOgrapher
+    tipVi: >-
+      Trọng âm nhảy chỗ khi thêm hậu tố: PHOtograph, phoTOgrapher, phoTOgraphy.
+      Đây là lý do học từ mới phải học kèm trọng âm chứ không chỉ mặt chữ.
+
+  # ---- Ngữ điệu câu hỏi ----------------------------------------------------
+  - slug: intonation-yes-no
+    text: Are you coming with us tonight?
+    cefr: A2
+    focus: intonation
+    ipa: /ɑː juː ˈkʌmɪŋ wɪð əs təˈnaɪt/
+    translationVi: Tối nay bạn đi cùng chúng tôi chứ?
+    minimalPair: null
+    tipVi: >-
+      Câu hỏi Yes/No lên giọng ở cuối. Tiếng Việt đã có "chứ, không" để đánh dấu
+      câu hỏi nên người Việt hay giữ giọng phẳng — người nghe sẽ tưởng là câu kể.
+
+  - slug: intonation-wh-question
+    text: Where did you put the keys?
+    cefr: A2
+    focus: intonation
+    ipa: /weə dɪd juː pʊt ðə kiːz/
+    translationVi: Bạn để chìa khoá ở đâu?
+    minimalPair: null
+    tipVi: >-
+      Câu hỏi bắt đầu bằng Wh- thì XUỐNG giọng ở cuối, ngược với câu hỏi Yes/No.
+      Lên giọng ở đây nghe như đang ngạc nhiên hoặc hỏi lại.
+
+  - slug: final-p-b-cap-cab
+    text: Put the red cap in the cab.
+    cefr: A1
+    focus: final-consonant
+    ipa: null
+    translationVi: Đặt chiếc mũ đỏ vào trong xe taxi.
+    minimalPair: cap / cab
+    tipVi: cap kết thúc bằng /p/ vô thanh, cab bằng /b/ hữu thanh. Với cả hai âm, khép hai môi để tạo
+      chỗ chặn luồng hơi. Không thêm nguyên âm sau âm cuối thành một âm tiết mới. Tập phân biệt cặp
+      cap và cab trước khi đọc cả câu.
+  - slug: final-k-g-back-bag
+    text: Put your bag at the back.
+    cefr: A1
+    focus: final-consonant
+    ipa: null
+    translationVi: Đặt túi của bạn ở phía sau.
+    minimalPair: back / bag
+    tipVi: back kết thúc bằng /k/, bag bằng /ɡ/. Nâng phần sau của lưỡi chạm vòm mềm để chặn hơi ở cuối
+      cả hai từ. /k/ vô thanh, /ɡ/ hữu thanh. Không bỏ âm cuối và không thêm âm “ờ” sau nó; hãy đọc
+      chậm rồi tăng tốc dần.
+  - slug: final-s-z-rice-rise
+    text: The price of rice may rise again.
+    cefr: B1
+    focus: final-consonant
+    ipa: null
+    translationVi: Giá gạo có thể lại tăng.
+    minimalPair: rice / rise
+    tipVi: rice và rise có cùng nguyên âm /aɪ/, nhưng kết thúc bằng /s/ và /z/. Giữ luồng hơi ma sát
+      liên tục; /s/ không rung dây thanh, /z/ có rung. Đặt tay lên cổ để cảm nhận khi tập riêng hai
+      âm. price cũng kết thúc bằng /s/.
+  - slug: th-thin-sin
+    text: The thin book has thirty pages.
+    cefr: A2
+    focus: th
+    ipa: null
+    translationVi: Cuốn sách mỏng có ba mươi trang.
+    minimalPair: thin / sin
+    tipVi: thin và thirty bắt đầu bằng /θ/. Đặt đầu lưỡi nhẹ giữa hai hàm răng và thổi hơi, không rung
+      dây thanh. Với /s/ trong sin, lưỡi ở phía sau răng. Đừng thay /θ/ bằng /s/ khi đọc nhanh.
+  - slug: th-three-tree
+    text: There are three trees near the path.
+    cefr: A2
+    focus: th
+    ipa: null
+    translationVi: Có ba cây gần lối đi.
+    minimalPair: three / tree
+    tipVi: three bắt đầu bằng /θr/, còn tree bắt đầu bằng /tr/. Khi đọc three, cho hơi đi qua khe giữa
+      lưỡi và răng rồi chuyển sang /r/, không chặn hơi thành /t/. path cũng có /θ/ ở cuối; there bắt
+      đầu bằng /ð/ hữu thanh.
+  - slug: th-they-day
+    text: They will be there the day after tomorrow.
+    cefr: A2
+    focus: th
+    ipa: null
+    translationVi: Họ sẽ có mặt ở đó vào ngày kia.
+    minimalPair: they / day
+    tipVi: "they, there và the bắt đầu bằng /ð/: đầu lưỡi chạm nhẹ răng, hơi vẫn đi qua và dây thanh
+      rung. day bắt đầu bằng /d/: đầu lưỡi chặn hơi ở lợi trên rồi nhả ra. Tập they và day để nghe rõ
+      sự khác nhau này."
+  - slug: sh-ch-ship-chip
+    text: She found a small chip on the ship's cup.
+    cefr: B1
+    focus: sh-ch
+    ipa: null
+    translationVi: Cô ấy thấy một chỗ mẻ nhỏ trên chiếc cốc của con tàu.
+    minimalPair: ship / chip
+    tipVi: "ship bắt đầu bằng /ʃ/, một âm ma sát có thể kéo dài. chip bắt đầu bằng /tʃ/: chặn luồng hơi
+      trong chốc lát rồi nhả ngay thành phần ma sát. Không đọc chip thành ship. She cũng bắt đầu bằng
+      /ʃ/."
+  - slug: sh-ch-wash-watch
+    text: Watch me wash the dishes.
+    cefr: A2
+    focus: sh-ch
+    ipa: null
+    translationVi: Hãy xem tôi rửa bát.
+    minimalPair: wash / watch
+    tipVi: wash kết thúc bằng /ʃ/, watch bằng /tʃ/. Với wash, giữ hơi ma sát đi ra liên tục. Với watch,
+      có một nhịp chặn hơi rồi nhả sang phần ma sát. dishes có /ʃ/ ở giữa từ; đừng đổi âm này thành
+      /s/.
+  - slug: v-van-fan
+    text: There is a small fan in the van.
+    cefr: A1
+    focus: v
+    ipa: null
+    translationVi: Có một chiếc quạt nhỏ trong xe tải nhỏ.
+    minimalPair: van / fan
+    tipVi: /v/ và /f/ đều dùng răng cửa trên chạm nhẹ môi dưới. Khác biệt là /v/ làm dây thanh rung, /f/
+      thì không. Tập kéo dài âm đầu của van và fan rồi đọc cả từ, giữ nguyên tư thế môi và răng.
+  - slug: v-vet-wet
+    text: The vet dried the wet puppy.
+    cefr: A2
+    focus: v
+    ipa: null
+    translationVi: Bác sĩ thú y lau khô chú chó con bị ướt.
+    minimalPair: vet / wet
+    tipVi: "vet bắt đầu bằng /v/: răng trên chạm môi dưới và tạo tiếng ma sát có rung. wet bắt đầu bằng
+      /w/: tròn hai môi rồi mở ra, răng không chạm môi. Tập chuyển giữa hai tư thế để tránh đọc vet
+      thành wet."
+  - slug: cluster-spring-street
+    text: In spring, flowers grow along our street.
+    cefr: B1
+    focus: cluster
+    ipa: null
+    translationVi: Vào mùa xuân, hoa mọc dọc con phố của chúng tôi.
+    minimalPair: null
+    tipVi: spring bắt đầu bằng /spr/, street bằng /str/, grow bằng /ɡr/. Tập từ cụm ngắn /pr/ hoặc /tr/,
+      rồi thêm /s/ phía trước. Ghép các phụ âm liền nhau, không chèn nguyên âm “ờ” vào giữa thành
+      nhiều âm tiết.
+  - slug: cluster-next-class
+    text: Our next class starts at six.
+    cefr: B1
+    focus: cluster
+    ipa: null
+    translationVi: Buổi học tiếp theo của chúng tôi bắt đầu lúc sáu giờ.
+    minimalPair: null
+    tipVi: next kết thúc bằng /kst/, class bắt đầu bằng /kl/, starts bắt đầu bằng /st/ và kết thúc bằng
+      /ts/. Tập riêng từng từ rồi nối next class chậm rãi. Giữ các phụ âm khi luyện đọc rõ, không chèn
+      thêm âm tiết giữa chúng.
+  - slug: plural-s-cups-plates-spoons
+    text: We need cups, plates, and spoons.
+    cefr: A1
+    focus: plural-s
+    ipa: null
+    translationVi: Chúng ta cần cốc, đĩa và thìa.
+    minimalPair: null
+    tipVi: cups và plates có đuôi /s/ vì âm cuối của từ gốc là /p/ và /t/ vô thanh. spoons có đuôi /z/
+      sau /n/ hữu thanh. Cả ba từ đều chỉ có một âm tiết; không đọc đuôi số nhiều thành một âm tiết
+      riêng.
+  - slug: plural-s-washes-dishes
+    text: He washes dishes and cleans the tables.
+    cefr: A2
+    focus: plural-s
+    ipa: null
+    translationVi: Anh ấy rửa bát và lau các bàn.
+    minimalPair: null
+    tipVi: washes và dishes có đuôi /ɪz/ sau /ʃ/, nên mỗi từ có hai âm tiết. cleans và tables có đuôi
+      /z/ sau các âm hữu thanh. Quy tắc đọc đuôi này áp dụng cho cả danh từ số nhiều và động từ ngôi
+      thứ ba số ít.
+  - slug: past-ed-packed-cleaned-waited
+    text: We packed our bags, cleaned the room, and waited outside.
+    cefr: B1
+    focus: past-ed
+    ipa: null
+    translationVi: Chúng tôi xếp đồ vào túi, dọn phòng rồi đợi ở bên ngoài.
+    minimalPair: null
+    tipVi: packed có đuôi /t/ sau /k/, cleaned có đuôi /d/ sau /n/, waited có đuôi /ɪd/ sau /t/. packed
+      và cleaned mỗi từ một âm tiết, waited có hai âm tiết. Đừng dùng cách đọc /ɪd/ cho cả ba từ.
+  - slug: past-ed-needed-helped-played
+    text: She needed help, so we helped her before we played.
+    cefr: B1
+    focus: past-ed
+    ipa: null
+    translationVi: Cô ấy cần giúp đỡ nên chúng tôi đã giúp cô ấy trước khi chơi.
+    minimalPair: null
+    tipVi: needed thêm /ɪd/ vì need kết thúc bằng /d/. helped thêm /t/ sau /p/ vô thanh, played thêm /d/
+      sau nguyên âm hữu thanh. needed có hai âm tiết, helped và played mỗi từ chỉ có một âm tiết.
+  - slug: stress-present-noun-verb
+    text: They will present a present to the winner.
+    cefr: B1
+    focus: stress
+    ipa: null
+    translationVi: Họ sẽ trao một món quà cho người chiến thắng.
+    minimalPair: null
+    tipVi: Động từ preSENT nhấn âm tiết thứ hai, danh từ PREsent nhấn âm tiết thứ nhất. Đọc âm tiết mang
+      trọng âm nổi bật hơn và giảm nhẹ âm còn lại. Luyện riêng từng từ theo nghĩa rồi ghép vào câu.
+  - slug: stress-economy-economic
+    text: The report explains the economic changes in our economy.
+    cefr: B2
+    focus: stress
+    ipa: null
+    translationVi: Báo cáo giải thích những thay đổi về kinh tế trong nền kinh tế của chúng ta.
+    minimalPair: null
+    tipVi: economy nhấn âm tiết thứ hai, còn economic nhấn âm tiết thứ ba. Tách theo nhịp e-CON-o-my và
+      e-co-NOM-ic rồi đọc liền từ. Không giữ nguyên vị trí trọng âm của economy khi chuyển sang
+      economic.
+  - slug: intonation-checking-a-plan
+    text: Are we meeting outside the library?
+    cefr: A2
+    focus: intonation
+    ipa: null
+    translationVi: Chúng ta gặp nhau ở bên ngoài thư viện phải không?
+    minimalPair: null
+    tipVi: Trong tình huống chưa chắc địa điểm và muốn xác nhận, thử lên giọng nhẹ ở cuối câu. Nhấn
+      outside nếu chính vị trí bên ngoài là điều cần kiểm tra. Đây là một cách đọc theo ngữ cảnh; câu
+      hỏi Yes/No không phải lúc nào cũng bắt buộc lên giọng.
+  - slug: intonation-choosing-tea-or-coffee
+    text: Would you like tea or coffee?
+    cefr: A2
+    focus: intonation
+    ipa: null
+    translationVi: Bạn muốn uống trà hay cà phê?
+    minimalPair: null
+    tipVi: Khi đưa ra hai lựa chọn và chờ người nghe chọn một, lên giọng ở tea rồi xuống giọng ở coffee.
+      Nhấn hai tên đồ uống, đọc nhẹ or. Tập mẫu ngữ điệu này trong vai người phục vụ đang hỏi khách
+      chọn đồ uống.

@@ -1,0 +1,413 @@
+[
+  {
+    "id": "reading-part7-t1",
+    "skill": "reading",
+    "title": "Part 7 — Triple passage 1: schedule, email and reply",
+    "format": "TOEIC Reading — Part 7 · Triple passage (câu 186–190)",
+    "instructionsVi": "Bộ ba văn bản, 5 câu. Ít nhất hai câu đòi hỏi ghép thông tin từ hai văn bản khác nhau.",
+    "promptEn": "Refer to the following schedule, email and reply, then answer the questions.",
+    "passage": "SCHEDULE\nKIRBY HARBOUR FESTIVAL — Saturday 6 July\n\n09:00–10:00  Setup for stallholders (vehicles permitted on the quay)\n10:00  Festival opens to the public\n12:00–12:45  Lifeboat demonstration (quay closed to pedestrians)\n13:00–14:00  Live music, Harbour Stage\n16:00  Festival closes\n16:00–17:00  Breakdown (vehicles permitted on the quay)\n\nNote: No vehicle movement on the quay between 10:00 and 16:00 under any circumstances.\n\n---\n\nEMAIL\nFrom: r.beck@kestrelfoods.example\nTo: stalls@kirbyfestival.example\nDate: 28 June\nSubject: Stall 14 — delivery question\n\nHello,\n\nWe have stall 14 at the festival. Our chilled van cannot arrive before 9.40, which I hope is still within the setup window.\n\nMy bigger worry is restocking. We expect to sell out of the first batch by early afternoon and would want to bring more stock in around two o'clock. Is there any way to get a vehicle onto the quay at that time?\n\nAlso, will our stall be affected by the lifeboat demonstration?\n\nRegards,\nRowan Beck\n\n---\n\nREPLY\nFrom: stalls@kirbyfestival.example\nTo: r.beck@kestrelfoods.example\nDate: 29 June\nSubject: RE: Stall 14 — delivery question\n\nDear Mr Beck,\n\n9.40 is fine, though it leaves you twenty minutes, so please have everything ready to unload.\n\nOn restocking, I am afraid the answer is no — that rule is set by the harbour authority and we cannot make exceptions. Several stallholders use a trolley from the Ellis Street car park, which is a four-minute walk.\n\nStall 14 is on the eastern side, so the demonstration will not block your access, but footfall does drop noticeably for that three-quarters of an hour.\n\nRegards,\nFestival Office",
+    "timeLimitSec": 375,
+    "questions": [
+      {
+        "id": "p7-186",
+        "kind": "mcq",
+        "prompt": "186. How long will Mr Beck have to unload?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Ten minutes"
+          },
+          {
+            "id": "b",
+            "text": "Forty minutes"
+          },
+          {
+            "id": "c",
+            "text": "Twenty minutes"
+          },
+          {
+            "id": "d",
+            "text": "One hour"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "Xe tới 9.40, xe phải rời quay lúc 10.00 — hai mươi phút. Bên tổ chức cũng nói rõ 'it leaves you twenty minutes'."
+      },
+      {
+        "id": "p7-187",
+        "kind": "mcq",
+        "prompt": "187. Why is restocking by vehicle refused?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The harbour authority prohibits vehicles between 10:00 and 16:00."
+          },
+          {
+            "id": "b",
+            "text": "The festival office has no staff available."
+          },
+          {
+            "id": "c",
+            "text": "Stall 14 is too far from the road."
+          },
+          {
+            "id": "d",
+            "text": "The lifeboat demonstration blocks the quay."
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "Ghi chú trên lịch cấm xe trên quay từ 10:00 đến 16:00, và thư trả lời nói quy định do cảng đặt ra."
+      },
+      {
+        "id": "p7-188",
+        "kind": "mcq",
+        "prompt": "188. What alternative is suggested?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Storing extra stock at the stall"
+          },
+          {
+            "id": "b",
+            "text": "Using a trolley from a nearby car park"
+          },
+          {
+            "id": "c",
+            "text": "Restocking during the music performance"
+          },
+          {
+            "id": "d",
+            "text": "Sharing a van with another stallholder"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'Several stallholders use a trolley from the Ellis Street car park, which is a four-minute walk'."
+      },
+      {
+        "id": "p7-189",
+        "kind": "mcq",
+        "prompt": "189. How will the lifeboat demonstration affect stall 14?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Access will be blocked."
+          },
+          {
+            "id": "b",
+            "text": "The stall must close."
+          },
+          {
+            "id": "c",
+            "text": "It will not be affected in any way."
+          },
+          {
+            "id": "d",
+            "text": "Fewer customers will pass during that period."
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'the demonstration will not block your access, but footfall does drop noticeably for that three-quarters of an hour'. (C) bỏ mất vế thứ hai."
+      },
+      {
+        "id": "p7-190",
+        "kind": "mcq",
+        "prompt": "190. How long does the lifeboat demonstration last?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Forty-five minutes"
+          },
+          {
+            "id": "b",
+            "text": "Thirty minutes"
+          },
+          {
+            "id": "c",
+            "text": "One hour"
+          },
+          {
+            "id": "d",
+            "text": "Two hours"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "Lịch ghi 12:00–12:45, và thư trả lời gọi đó là 'that three-quarters of an hour'."
+      }
+    ]
+  },
+  {
+    "id": "reading-part7-t2",
+    "skill": "reading",
+    "title": "Part 7 — Triple passage 2: job advert, application and note",
+    "format": "TOEIC Reading — Part 7 · Triple passage (câu 191–195)",
+    "instructionsVi": "Bộ ba văn bản. Câu hỏi buộc đối chiếu yêu cầu tuyển dụng với hồ sơ ứng viên.",
+    "promptEn": "Refer to the following advertisement, email and note, then answer the questions.",
+    "passage": "ADVERTISEMENT\nOFFICE COORDINATOR — Meridian House, Fairport\n\nFull time, Monday to Friday, 9 a.m. to 5 p.m. Permanent.\n\nEssential: two years' administrative experience; confident with spreadsheets; able to start within four weeks of offer.\nDesirable: experience of managing supplier contracts; a second language.\n\nSalary £27,000–£30,000 depending on experience.\nApplications close 12 May. Interviews 20–21 May.\n\n---\n\nEMAIL\nFrom: a.diallo@example.com\nTo: recruitment@meridianhouse.example\nDate: 9 May\nSubject: Office Coordinator application\n\nDear Recruitment team,\n\nPlease find my CV attached for the Office Coordinator role.\n\nI have three years' administrative experience, the last eighteen months at a logistics firm where I took over management of our cleaning and stationery contracts. I use spreadsheets daily, including pivot tables and lookups. I also speak French and Wolof.\n\nI am available for interview on either date. I am currently in a role with a four-week notice period, so I could start in mid-June.\n\nRegards,\nAmara Diallo\n\n---\n\nINTERVIEW NOTE — 21 May\nCandidate: A. Diallo · Panel: I. Duarte, S. Mehta\n\nExcellent on the practical questions; the spreadsheet exercise was completed faster and more accurately than any other candidate this week.\n\nThe supplier contract experience is a genuine bonus — we had listed it as desirable but it is closer to essential in practice, given how much of this role is chasing suppliers.\n\nNo concerns about the start date; four weeks was always going to be the norm for anyone in work. S. Mehta to draft an offer at the upper end of the range.",
+    "timeLimitSec": 375,
+    "questions": [
+      {
+        "id": "p7-191",
+        "kind": "mcq",
+        "prompt": "191. Does Ms Diallo meet all the essential requirements?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Yes"
+          },
+          {
+            "id": "b",
+            "text": "No — she has too little experience."
+          },
+          {
+            "id": "c",
+            "text": "No — she cannot start in time."
+          },
+          {
+            "id": "d",
+            "text": "No — she is not confident with spreadsheets."
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "Ba năm kinh nghiệm (yêu cầu hai), thành thạo bảng tính, và bắt đầu được sau bốn tuần — đúng giới hạn cho phép."
+      },
+      {
+        "id": "p7-192",
+        "kind": "mcq",
+        "prompt": "192. Which desirable criteria does she meet?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Neither"
+          },
+          {
+            "id": "b",
+            "text": "Supplier contracts only"
+          },
+          {
+            "id": "c",
+            "text": "Both"
+          },
+          {
+            "id": "d",
+            "text": "A second language only"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "Cô ấy quản lý hợp đồng nhà cung cấp VÀ nói được tiếng Pháp và Wolof."
+      },
+      {
+        "id": "p7-193",
+        "kind": "mcq",
+        "prompt": "193. What does the panel say about the supplier contract experience?",
+        "options": [
+          {
+            "id": "a",
+            "text": "It is less useful than expected."
+          },
+          {
+            "id": "b",
+            "text": "It should be removed from future adverts."
+          },
+          {
+            "id": "c",
+            "text": "It was not tested at interview."
+          },
+          {
+            "id": "d",
+            "text": "It is in practice closer to essential than desirable."
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'we had listed it as desirable but it is closer to essential in practice'."
+      },
+      {
+        "id": "p7-194",
+        "kind": "mcq",
+        "prompt": "194. What salary is likely to be offered?",
+        "options": [
+          {
+            "id": "a",
+            "text": "£27,000"
+          },
+          {
+            "id": "b",
+            "text": "Close to £30,000"
+          },
+          {
+            "id": "c",
+            "text": "£28,500"
+          },
+          {
+            "id": "d",
+            "text": "Above the advertised range"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'draft an offer at the upper end of the range', và quảng cáo ghi khoảng £27.000–£30.000."
+      },
+      {
+        "id": "p7-195",
+        "kind": "mcq",
+        "prompt": "195. What is implied about the other candidates?",
+        "options": [
+          {
+            "id": "a",
+            "text": "None of them spoke a second language."
+          },
+          {
+            "id": "b",
+            "text": "They could all start immediately."
+          },
+          {
+            "id": "c",
+            "text": "They performed less well on the spreadsheet exercise."
+          },
+          {
+            "id": "d",
+            "text": "They were interviewed on a different date."
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'completed faster and more accurately than any other candidate this week'. Ba phương án kia không có căn cứ trong văn bản."
+      }
+    ]
+  },
+  {
+    "id": "reading-part7-t3",
+    "skill": "reading",
+    "title": "Part 7 — Triple passage 3: invoice, email and reply",
+    "format": "TOEIC Reading — Part 7 · Triple passage (câu 196–200)",
+    "instructionsVi": "Bộ ba văn bản cuối. Có một câu tính toán nhiều bước và một câu hỏi hàm ý.",
+    "promptEn": "Refer to the following invoice, email and reply, then answer the questions.",
+    "passage": "INVOICE 8812 — Northline Components\nDate: 4 March · Customer: Delta Manufacturing · Ref: PO-2290\n\nBracket type A, 500 units @ £2.40 ....... £1,200.00\nBracket type B, 200 units @ £3.10 ......... £620.00\nExpress carriage ............................ £85.00\nTOTAL .................................... £1,905.00\n\nTerms: 30 days. Late payment attracts interest at 4% above base rate.\n\n---\n\nEMAIL\nFrom: y.kaya@deltamanufacturing.example\nTo: accounts@northlinecomp.example\nDate: 6 March\nSubject: Invoice 8812\n\nHello,\n\nTwo points on this invoice.\n\nWe ordered 500 of type A and 200 of type B, so those are correct. However, our purchase order specified standard carriage, not express. We did not request express and the goods arrived on the normal schedule in any case.\n\nSecond, our agreement from January gives us 5% off bracket orders above 600 units in a single order. This order is 700 units in total, so that should have applied.\n\nCould you reissue?\n\nRegards,\nYusuf Kaya\n\n---\n\nREPLY\nFrom: accounts@northlinecomp.example\nTo: y.kaya@deltamanufacturing.example\nDate: 7 March\nSubject: RE: Invoice 8812\n\nDear Mr Kaya,\n\nYou are right on both counts and I have credited the carriage in full.\n\nOn the discount, I should clarify how it works: the 5% applies to the bracket lines only, not to carriage. Since the carriage has been removed anyway, that makes no practical difference here.\n\nA corrected invoice is attached. Our thirty-day term runs from the corrected invoice date, not the original.\n\nRegards,\nLena Fischer",
+    "timeLimitSec": 375,
+    "questions": [
+      {
+        "id": "p7-196",
+        "kind": "mcq",
+        "prompt": "196. What was wrong with the carriage charge?",
+        "options": [
+          {
+            "id": "a",
+            "text": "It was charged at the wrong rate."
+          },
+          {
+            "id": "b",
+            "text": "Express carriage was not ordered."
+          },
+          {
+            "id": "c",
+            "text": "The goods were delivered late."
+          },
+          {
+            "id": "d",
+            "text": "Carriage should have been free."
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'our purchase order specified standard carriage, not express. We did not request express'."
+      },
+      {
+        "id": "p7-197",
+        "kind": "mcq",
+        "prompt": "197. Why does the volume discount apply?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The order totals 700 bracket units."
+          },
+          {
+            "id": "b",
+            "text": "The order value exceeds £1,500."
+          },
+          {
+            "id": "c",
+            "text": "Delta is a long-standing customer."
+          },
+          {
+            "id": "d",
+            "text": "Express carriage was used."
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "Thoả thuận cho 5% với đơn trên 600 đơn vị; 500 + 200 = 700."
+      },
+      {
+        "id": "p7-198",
+        "kind": "mcq",
+        "prompt": "198. What will the corrected total be?",
+        "options": [
+          {
+            "id": "a",
+            "text": "£1,749.00"
+          },
+          {
+            "id": "b",
+            "text": "£1,809.75"
+          },
+          {
+            "id": "c",
+            "text": "£1,820.00"
+          },
+          {
+            "id": "d",
+            "text": "£1,729.00"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "Bỏ £85 phí vận chuyển còn £1.820; giảm 5% trên phần bracket (£1.820 × 0,95) = £1.729. Phải làm hai bước theo đúng thứ tự."
+      },
+      {
+        "id": "p7-199",
+        "kind": "mcq",
+        "prompt": "199. Why does Ms Fischer say the discount clarification makes no practical difference?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The discount has been withdrawn."
+          },
+          {
+            "id": "b",
+            "text": "The order does not qualify after all."
+          },
+          {
+            "id": "c",
+            "text": "The carriage charge has already been removed."
+          },
+          {
+            "id": "d",
+            "text": "Delta has agreed to pay the original amount."
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "Giảm giá không áp cho cước vận chuyển, nhưng cước đã bị xoá hoàn toàn nên phân biệt đó không đổi kết quả."
+      },
+      {
+        "id": "p7-200",
+        "kind": "mcq",
+        "prompt": "200. When does the payment period now start?",
+        "options": [
+          {
+            "id": "a",
+            "text": "4 March, the original invoice date"
+          },
+          {
+            "id": "b",
+            "text": "From the corrected invoice date"
+          },
+          {
+            "id": "c",
+            "text": "6 March, the date of the query"
+          },
+          {
+            "id": "d",
+            "text": "Thirty days after delivery"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'Our thirty-day term runs from the corrected invoice date, not the original'."
+      }
+    ]
+  }
+]

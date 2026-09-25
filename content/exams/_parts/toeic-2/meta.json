@@ -1,0 +1,174 @@
+{
+  "examId": "toeic",
+  "levelId": "2",
+  "vocabulary": [
+    {
+      "id": "negotiate",
+      "term": "negotiate",
+      "ipa": "/nɪˈɡəʊʃieɪt/",
+      "meaningVi": "đàm phán, thương lượng",
+      "definitionEn": "To discuss something in order to reach an agreement.",
+      "example": "We negotiated a longer payment period with the supplier.",
+      "exampleVi": "Chúng tôi đã thương lượng được kỳ hạn thanh toán dài hơn với nhà cung cấp.",
+      "collocations": [
+        "negotiate a contract",
+        "negotiate terms",
+        "under negotiation"
+      ]
+    },
+    {
+      "id": "allocate",
+      "term": "allocate",
+      "ipa": "/ˈæləkeɪt/",
+      "meaningVi": "phân bổ",
+      "definitionEn": "To give a share of something for a particular purpose.",
+      "example": "Half the budget has been allocated to staff training.",
+      "exampleVi": "Một nửa ngân sách đã được phân bổ cho đào tạo nhân sự.",
+      "collocations": [
+        "allocate funds",
+        "allocate resources",
+        "budget allocation"
+      ]
+    },
+    {
+      "id": "comply",
+      "term": "comply",
+      "ipa": "/kəmˈplaɪ/",
+      "meaningVi": "tuân thủ",
+      "definitionEn": "To act in accordance with a rule or request.",
+      "example": "All contractors must comply with the site safety rules.",
+      "exampleVi": "Mọi nhà thầu phải tuân thủ quy định an toàn công trường.",
+      "collocations": [
+        "comply with",
+        "in compliance with",
+        "failure to comply"
+      ]
+    },
+    {
+      "id": "outstanding",
+      "term": "outstanding",
+      "ipa": "/aʊtˈstændɪŋ/",
+      "meaningVi": "chưa thanh toán; xuất sắc",
+      "definitionEn": "Not yet paid or dealt with; or extremely good.",
+      "example": "There are two outstanding invoices on the account.",
+      "exampleVi": "Tài khoản còn hai hoá đơn chưa thanh toán.",
+      "collocations": [
+        "outstanding balance",
+        "outstanding payment",
+        "outstanding performance"
+      ]
+    },
+    {
+      "id": "revise",
+      "term": "revise",
+      "ipa": "/rɪˈvaɪz/",
+      "meaningVi": "sửa đổi, điều chỉnh",
+      "definitionEn": "To change something in order to correct or improve it.",
+      "example": "The forecast has been revised downwards twice this quarter.",
+      "exampleVi": "Dự báo đã được điều chỉnh giảm hai lần trong quý này.",
+      "collocations": [
+        "revise a figure",
+        "revised estimate",
+        "revise upwards"
+      ]
+    },
+    {
+      "id": "procurement",
+      "term": "procurement",
+      "ipa": "/prəˈkjʊəmənt/",
+      "meaningVi": "hoạt động mua sắm, thu mua",
+      "definitionEn": "The process of buying goods and services for an organisation.",
+      "example": "Procurement requires three quotations for any order above ten thousand.",
+      "exampleVi": "Bộ phận thu mua yêu cầu ba báo giá cho mọi đơn trên mười nghìn.",
+      "collocations": [
+        "procurement process",
+        "procurement policy",
+        "central procurement"
+      ]
+    },
+    {
+      "id": "premises",
+      "term": "premises",
+      "ipa": "/ˈpremɪsɪz/",
+      "meaningVi": "mặt bằng, cơ sở",
+      "definitionEn": "The building and land occupied by a business.",
+      "example": "The company is moving to larger premises in March.",
+      "exampleVi": "Công ty sẽ chuyển sang mặt bằng lớn hơn vào tháng Ba.",
+      "collocations": [
+        "business premises",
+        "on the premises",
+        "vacate the premises"
+      ]
+    },
+    {
+      "id": "reimburse",
+      "term": "reimburse",
+      "ipa": "/ˌriːɪmˈbɜːs/",
+      "meaningVi": "hoàn trả chi phí",
+      "definitionEn": "To pay someone back money they have spent.",
+      "example": "Travel costs will be reimbursed within two weeks.",
+      "exampleVi": "Chi phí đi lại sẽ được hoàn trả trong vòng hai tuần.",
+      "collocations": [
+        "reimburse expenses",
+        "fully reimbursed",
+        "reimbursement form"
+      ]
+    },
+    {
+      "id": "prospective",
+      "term": "prospective",
+      "ipa": "/prəˈspektɪv/",
+      "meaningVi": "tiềm năng, sắp tới",
+      "definitionEn": "Likely to become or do something in the future.",
+      "example": "Prospective tenants must provide two references.",
+      "exampleVi": "Người thuê tiềm năng phải cung cấp hai thư giới thiệu.",
+      "collocations": [
+        "prospective client",
+        "prospective employee",
+        "prospective buyer"
+      ]
+    },
+    {
+      "id": "streamline",
+      "term": "streamline",
+      "ipa": "/ˈstriːmlaɪn/",
+      "meaningVi": "tinh gọn, đơn giản hoá quy trình",
+      "definitionEn": "To make a process simpler and more efficient.",
+      "example": "The new system streamlines approval from five steps to two.",
+      "exampleVi": "Hệ thống mới rút quy trình duyệt từ năm bước xuống hai.",
+      "collocations": [
+        "streamline a process",
+        "streamline operations",
+        "streamlined workflow"
+      ]
+    },
+    {
+      "id": "quotation",
+      "term": "quotation",
+      "ipa": "/kwəʊˈteɪʃn/",
+      "meaningVi": "báo giá",
+      "definitionEn": "A statement of how much a job or product will cost.",
+      "example": "Their quotation was the lowest but excluded installation.",
+      "exampleVi": "Báo giá của họ thấp nhất nhưng chưa gồm lắp đặt.",
+      "collocations": [
+        "request a quotation",
+        "submit a quotation",
+        "written quotation"
+      ]
+    },
+    {
+      "id": "subsequent",
+      "term": "subsequent",
+      "ipa": "/ˈsʌbsɪkwənt/",
+      "meaningVi": "tiếp theo sau đó",
+      "definitionEn": "Happening after something else.",
+      "example": "The error was corrected in all subsequent editions.",
+      "exampleVi": "Lỗi này đã được sửa trong mọi ấn bản sau đó.",
+      "collocations": [
+        "subsequent to",
+        "in subsequent years",
+        "subsequent meeting"
+      ]
+    }
+  ]
+}

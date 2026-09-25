@@ -1,0 +1,65 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+env:
+  DATABASE_URL: postgresql://sprout:sprout@127.0.0.1:5432/sprout
+  COOKIE_SECRET: ci-cookie-secret-value-not-secret
+  WEB_ORIGIN: http://localhost:3000
+  NEXT_PUBLIC_API_URL: http://localhost:4000/api/v1
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+
+    services:
+      postgres:
+        image: postgres:16-alpine
+        env:
+          POSTGRES_USER: sprout
+          POSTGRES_PASSWORD: sprout
+          POSTGRES_DB: sprout
+        ports: ['5432:5432']
+        options: >-
+          --health-cmd "pg_isready -U sprout"
+          --health-interval 5s
+          --health-timeout 5s
+          --health-retries 10
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 9
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+
+      - run: pnpm install --frozen-lockfile
+
+      - name: Generate Prisma client
+        run: pnpm --filter @sprout/api exec prisma generate
+
+      - name: Build shared packages
+        run: pnpm --filter "./packages/*" build
+
+      - name: Typecheck
+        run: pnpm typecheck
+
+      - name: Migrate database
+        run: pnpm --filter @sprout/api exec prisma migrate deploy
+
+      - name: Seed content
+        run: pnpm --filter @sprout/api run seed
+
+      - name: Unit and integration tests
+        run: pnpm test
+
+      - name: Build applications
+        run: pnpm build

@@ -1,0 +1,434 @@
+[
+  {
+    "id": "reading-part5-incomplete-sentences",
+    "skill": "reading",
+    "title": "Part 5 — Incomplete Sentences",
+    "format": "TOEIC Reading — Part 5 · Incomplete Sentences, 30 câu (101–130)",
+    "instructionsVi": "Ở mục tiêu 900, Part 5 trộn ba dạng khó: đảo ngữ và giả định thức, phân biệt từ gần nghĩa trong văn phong pháp lý, và cấu trúc song song. Vẫn phải giữ nhịp 18 giây/câu — Part 7 mức 900 dài tới mức không còn thời gian bù.",
+    "promptEn": "Select the best word or phrase to complete each sentence.",
+    "passage": "101. Had the discrepancy ______ earlier, the restatement would not have been necessary.\n102. The board approved the merger ______ the regulator raising no objection.\n103. ______ approved by the committee, the revised terms take effect immediately.\n104. The clause entitles the buyer to a refund, ______ the goods are returned unused.\n105. Only after the third audit ______ the true scale of the shortfall.\n106. The report recommends that the policy ______ reviewed annually.\n107. The tribunal declined to ______ the earlier ruling.\n108. The consultant's brief was to ______ the process, not to redesign it.\n109. ______ in 1974, the plant is the oldest in the group.\n110. An ______ error in the spreadsheet went undetected for six months.\n111. The two sets of figures are difficult to reconcile ______ each other.\n112. The reporting terms were so ______ that three bidders withdrew.\n113. Neither the contractor nor the subcontractors ______ willing to accept liability.\n114. The manufacturer has agreed to ______ the cost of the recall.\n115. The figures, ______ were published last week, have since been withdrawn.\n116. Attendance is ______ for supervisors and optional for everyone else.\n117. The delay was ______ attributable to the supplier's documentation error.\n118. ______ the shortfall persist beyond December, the bonus scheme will be suspended.\n119. The report drew a careful ______ between honest error and misconduct.\n120. The parties agreed to ______ the dispute to arbitration.\n121. Access to the archive is granted at the ______ of the curator.\n122. The role involves drafting contracts, advising the board and ______ external counsel.\n123. The auditors found nothing to ______ the allegation.\n124. The more detail the specification contains, ______ disputes arise later.\n125. The clause was deleted because it was ______ with the data-protection annex.\n126. The internal auditor is answerable ______ the audit committee, not to the board.\n127. All prices quoted are ______ to change without notice.\n128. Staff turnover has been ______ high since the relocation.\n129. The 2027 handbook ______ the previous edition in its entirety.\n130. Not until the invoice was queried ______ the duplicate payment discovered.",
+    "timeLimitSec": 540,
+    "questions": [
+      {
+        "id": "p5-101",
+        "kind": "mcq",
+        "prompt": "101. Had the discrepancy ______ earlier, the restatement would not have been necessary.",
+        "options": [
+          { "id": "a", "text": "been identified" },
+          { "id": "b", "text": "identified" },
+          { "id": "c", "text": "being identified" },
+          { "id": "d", "text": "to identify" }
+        ],
+        "answer": "a",
+        "explanationVi": "Câu điều kiện loại 3 đảo ngữ: 'Had + S + PII'. Chênh lệch được PHÁT HIỆN chứ không tự phát hiện, nên phải bị động: had been identified.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p5-102",
+        "kind": "mcq",
+        "prompt": "102. The board approved the merger ______ the regulator raising no objection.",
+        "options": [
+          { "id": "a", "text": "subject to" },
+          { "id": "b", "text": "regardless of" },
+          { "id": "c", "text": "in spite of" },
+          { "id": "d", "text": "on behalf of" }
+        ],
+        "answer": "a",
+        "explanationVi": "'subject to' = với điều kiện là. (B) và (C) đảo ngược logic: phê duyệt phụ thuộc vào việc cơ quan quản lý không phản đối.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p5-103",
+        "kind": "mcq",
+        "prompt": "103. ______ approved by the committee, the revised terms take effect immediately.",
+        "options": [
+          { "id": "a", "text": "Once" },
+          { "id": "b", "text": "Whether" },
+          { "id": "c", "text": "Despite" },
+          { "id": "d", "text": "During" }
+        ],
+        "answer": "a",
+        "explanationVi": "Mệnh đề rút gọn 'Once (they are) approved'. 'Despite' và 'During' là giới từ, không đi với phân từ theo nghĩa thời gian này.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p5-104",
+        "kind": "mcq",
+        "prompt": "104. The clause entitles the buyer to a refund, ______ the goods are returned unused.",
+        "options": [
+          { "id": "a", "text": "as though" },
+          { "id": "b", "text": "provided that" },
+          { "id": "c", "text": "so that" },
+          { "id": "d", "text": "now that" }
+        ],
+        "answer": "b",
+        "explanationVi": "'provided that' nêu điều kiện bắt buộc. (C) chỉ mục đích, (D) chỉ nguyên nhân đã xảy ra — cả hai đều không phải quan hệ điều kiện.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p5-105",
+        "kind": "mcq",
+        "prompt": "105. Only after the third audit ______ the true scale of the shortfall.",
+        "options": [
+          { "id": "a", "text": "the directors appreciated" },
+          { "id": "b", "text": "appreciated the directors" },
+          { "id": "c", "text": "did the directors appreciate" },
+          { "id": "d", "text": "the directors did appreciate" }
+        ],
+        "answer": "c",
+        "explanationVi": "Trạng ngữ 'Only after…' đứng đầu câu buộc đảo ngữ bằng trợ động từ: did + S + V nguyên thể.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p5-106",
+        "kind": "mcq",
+        "prompt": "106. The report recommends that the policy ______ reviewed annually.",
+        "options": [
+          { "id": "a", "text": "is" },
+          { "id": "b", "text": "be" },
+          { "id": "c", "text": "will be" },
+          { "id": "d", "text": "has been" }
+        ],
+        "answer": "b",
+        "explanationVi": "Giả định thức sau 'recommend that': động từ ở dạng nguyên thể không 'to', kể cả với chủ ngữ số ít.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p5-107",
+        "kind": "mcq",
+        "prompt": "107. The tribunal declined to ______ the earlier ruling.",
+        "options": [
+          { "id": "a", "text": "overtake" },
+          { "id": "b", "text": "overrun" },
+          { "id": "c", "text": "overturn" },
+          { "id": "d", "text": "overhaul" }
+        ],
+        "answer": "c",
+        "explanationVi": "'overturn a ruling' = huỷ bỏ phán quyết. 'overtake' là vượt qua, 'overrun' là vượt quá thời gian/ngân sách, 'overhaul' là đại tu.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p5-108",
+        "kind": "mcq",
+        "prompt": "108. The consultant's brief was to ______ the process, not to redesign it.",
+        "options": [
+          { "id": "a", "text": "streamline" },
+          { "id": "b", "text": "stream" },
+          { "id": "c", "text": "strengthen" },
+          { "id": "d", "text": "stipulate" }
+        ],
+        "answer": "a",
+        "explanationVi": "'streamline' = tinh gọn quy trình có sẵn, đối lập với 'redesign' trong vế sau. Vế 'not to redesign it' chính là gợi ý.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p5-109",
+        "kind": "mcq",
+        "prompt": "109. ______ in 1974, the plant is the oldest in the group.",
+        "options": [
+          { "id": "a", "text": "Commissioning" },
+          { "id": "b", "text": "Commissioned" },
+          { "id": "c", "text": "Having commissioned" },
+          { "id": "d", "text": "To commission" }
+        ],
+        "answer": "b",
+        "explanationVi": "Nhà máy được đưa vào vận hành, tức bị động → phân từ quá khứ. (A) và (C) biến nhà máy thành chủ thể hành động.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p5-110",
+        "kind": "mcq",
+        "prompt": "110. An ______ error in the spreadsheet went undetected for six months.",
+        "options": [
+          { "id": "a", "text": "inadmissible" },
+          { "id": "b", "text": "inadvisable" },
+          { "id": "c", "text": "indefensible" },
+          { "id": "d", "text": "inadvertent" }
+        ],
+        "answer": "d",
+        "explanationVi": "'inadvertent' = vô ý. Ba từ kia đều hàm ý phán xét: không được chấp nhận làm chứng cứ, không nên làm, không thể bào chữa.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p5-111",
+        "kind": "mcq",
+        "prompt": "111. The two sets of figures are difficult to reconcile ______ each other.",
+        "options": [
+          { "id": "a", "text": "with" },
+          { "id": "b", "text": "for" },
+          { "id": "c", "text": "into" },
+          { "id": "d", "text": "over" }
+        ],
+        "answer": "a",
+        "explanationVi": "'reconcile A with B' là kết hợp cố định khi đối chiếu hai bộ số liệu.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p5-112",
+        "kind": "mcq",
+        "prompt": "112. The reporting terms were so ______ that three bidders withdrew.",
+        "options": [
+          { "id": "a", "text": "generous" },
+          { "id": "b", "text": "onerous" },
+          { "id": "c", "text": "numerous" },
+          { "id": "d", "text": "ponderous" }
+        ],
+        "answer": "b",
+        "explanationVi": "'onerous' = nặng nề, gây gánh nặng — hợp với việc nhà thầu rút lui. (D) 'ponderous' là nặng nề theo nghĩa chậm chạp, buồn tẻ, không dùng cho điều khoản.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p5-113",
+        "kind": "mcq",
+        "prompt": "113. Neither the contractor nor the subcontractors ______ willing to accept liability.",
+        "options": [
+          { "id": "a", "text": "was" },
+          { "id": "b", "text": "is" },
+          { "id": "c", "text": "were" },
+          { "id": "d", "text": "being" }
+        ],
+        "answer": "c",
+        "explanationVi": "Với 'neither… nor…', động từ chia theo chủ ngữ GẦN NHẤT — ở đây là 'subcontractors' số nhiều.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p5-114",
+        "kind": "mcq",
+        "prompt": "114. The manufacturer has agreed to ______ the cost of the recall.",
+        "options": [
+          { "id": "a", "text": "absolve" },
+          { "id": "b", "text": "abstain" },
+          { "id": "c", "text": "abridge" },
+          { "id": "d", "text": "absorb" }
+        ],
+        "answer": "d",
+        "explanationVi": "'absorb the cost' = tự gánh chi phí, không chuyển sang khách hàng. 'absolve' là miễn trách, 'abridge' là rút gọn văn bản.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p5-115",
+        "kind": "mcq",
+        "prompt": "115. The figures, ______ were published last week, have since been withdrawn.",
+        "options": [
+          { "id": "a", "text": "which" },
+          { "id": "b", "text": "that" },
+          { "id": "c", "text": "what" },
+          { "id": "d", "text": "whose" }
+        ],
+        "answer": "a",
+        "explanationVi": "Mệnh đề quan hệ không xác định (có dấu phẩy) không dùng 'that'. 'what' không làm đại từ quan hệ, 'whose' cần danh từ theo sau.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p5-116",
+        "kind": "mcq",
+        "prompt": "116. Attendance is ______ for supervisors and optional for everyone else.",
+        "options": [
+          { "id": "a", "text": "mandatory" },
+          { "id": "b", "text": "momentary" },
+          { "id": "c", "text": "monetary" },
+          { "id": "d", "text": "mediatory" }
+        ],
+        "answer": "a",
+        "explanationVi": "Đối lập với 'optional' ở vế sau → bắt buộc. Ba từ kia gần giống về âm nhưng nghĩa hoàn toàn khác.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p5-117",
+        "kind": "mcq",
+        "prompt": "117. The delay was ______ attributable to the supplier's documentation error.",
+        "options": [
+          { "id": "a", "text": "large" },
+          { "id": "b", "text": "largely" },
+          { "id": "c", "text": "largest" },
+          { "id": "d", "text": "enlarge" }
+        ],
+        "answer": "b",
+        "explanationVi": "Cần trạng từ bổ nghĩa cho tính từ 'attributable'. Dạng từ là điểm ăn nhanh nhất ở Part 5 — nhìn chỗ trống nằm cạnh gì trước khi đọc nghĩa.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p5-118",
+        "kind": "mcq",
+        "prompt": "118. ______ the shortfall persist beyond December, the bonus scheme will be suspended.",
+        "options": [
+          { "id": "a", "text": "Would" },
+          { "id": "b", "text": "Might" },
+          { "id": "c", "text": "Should" },
+          { "id": "d", "text": "Ought" }
+        ],
+        "answer": "c",
+        "explanationVi": "'Should + S + V' là dạng đảo ngữ trang trọng của 'If… happens to…'. Động từ 'persist' ở nguyên thể xác nhận cấu trúc này.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p5-119",
+        "kind": "mcq",
+        "prompt": "119. The report drew a careful ______ between honest error and misconduct.",
+        "options": [
+          { "id": "a", "text": "distinction" },
+          { "id": "b", "text": "distortion" },
+          { "id": "c", "text": "distraction" },
+          { "id": "d", "text": "distribution" }
+        ],
+        "answer": "a",
+        "explanationVi": "'draw a distinction between A and B' = phân biệt rạch ròi. Giới từ 'between' là dấu hiệu nhận biết.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p5-120",
+        "kind": "mcq",
+        "prompt": "120. The parties agreed to ______ the dispute to arbitration.",
+        "options": [
+          { "id": "a", "text": "reflect" },
+          { "id": "b", "text": "refer" },
+          { "id": "c", "text": "refuse" },
+          { "id": "d", "text": "refund" }
+        ],
+        "answer": "b",
+        "explanationVi": "'refer a dispute to arbitration' = đưa tranh chấp ra trọng tài. Kết hợp cố định trong văn bản hợp đồng.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p5-121",
+        "kind": "mcq",
+        "prompt": "121. Access to the archive is granted at the ______ of the curator.",
+        "options": [
+          { "id": "a", "text": "discretion" },
+          { "id": "b", "text": "discrepancy" },
+          { "id": "c", "text": "discipline" },
+          { "id": "d", "text": "disclosure" }
+        ],
+        "answer": "a",
+        "explanationVi": "'at the discretion of' = tuỳ theo quyết định riêng của ai. (B) là chênh lệch số liệu — từ này xuất hiện nhiều ở đề nên dễ chọn theo quán tính.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p5-122",
+        "kind": "mcq",
+        "prompt": "122. The role involves drafting contracts, advising the board and ______ external counsel.",
+        "options": [
+          { "id": "a", "text": "to instruct" },
+          { "id": "b", "text": "instruct" },
+          { "id": "c", "text": "instructed" },
+          { "id": "d", "text": "instructing" }
+        ],
+        "answer": "d",
+        "explanationVi": "Cấu trúc song song: drafting… advising… instructing. Hai danh động từ trước quyết định dạng của từ thứ ba.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p5-123",
+        "kind": "mcq",
+        "prompt": "123. The auditors found nothing to ______ the allegation.",
+        "options": [
+          { "id": "a", "text": "substitute" },
+          { "id": "b", "text": "substantiate" },
+          { "id": "c", "text": "subordinate" },
+          { "id": "d", "text": "subscribe" }
+        ],
+        "answer": "b",
+        "explanationVi": "'substantiate' = chứng minh bằng bằng chứng. (A) là thay thế — hình thức gần giống, nghĩa không liên quan.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p5-124",
+        "kind": "mcq",
+        "prompt": "124. The more detail the specification contains, ______ disputes arise later.",
+        "options": [
+          { "id": "a", "text": "the fewer" },
+          { "id": "b", "text": "fewer" },
+          { "id": "c", "text": "the less" },
+          { "id": "d", "text": "less" }
+        ],
+        "answer": "a",
+        "explanationVi": "Cấu trúc 'The more…, the fewer…'. 'Disputes' đếm được số nhiều nên dùng 'fewer', và vế hai bắt buộc có 'the'.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p5-125",
+        "kind": "mcq",
+        "prompt": "125. The clause was deleted because it was ______ with the data-protection annex.",
+        "options": [
+          { "id": "a", "text": "incompatible" },
+          { "id": "b", "text": "incomparable" },
+          { "id": "c", "text": "incomplete" },
+          { "id": "d", "text": "incoherent" }
+        ],
+        "answer": "a",
+        "explanationVi": "'incompatible with' = mâu thuẫn, không tương thích với. Chỉ (A) và (B) đi được với 'with', và (B) nghĩa là 'không thể so sánh nổi' — thường mang nghĩa khen.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p5-126",
+        "kind": "mcq",
+        "prompt": "126. The internal auditor is answerable ______ the audit committee, not to the board.",
+        "options": [
+          { "id": "a", "text": "for" },
+          { "id": "b", "text": "to" },
+          { "id": "c", "text": "with" },
+          { "id": "d", "text": "at" }
+        ],
+        "answer": "b",
+        "explanationVi": "'answerable to somebody' = chịu trách nhiệm trước ai. Vế 'not to the board' ở cuối câu đã lộ giới từ cần dùng.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p5-127",
+        "kind": "mcq",
+        "prompt": "127. All prices quoted are ______ to change without notice.",
+        "options": [
+          { "id": "a", "text": "prone" },
+          { "id": "b", "text": "liable" },
+          { "id": "c", "text": "subject" },
+          { "id": "d", "text": "vulnerable" }
+        ],
+        "answer": "c",
+        "explanationVi": "'subject to change without notice' là công thức cố định trên bảng giá. 'liable to' cũng đi với 'to' nhưng thường mang nghĩa rủi ro tiêu cực.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p5-128",
+        "kind": "mcq",
+        "prompt": "128. Staff turnover has been ______ high since the relocation.",
+        "options": [
+          { "id": "a", "text": "consistently" },
+          { "id": "b", "text": "consistent" },
+          { "id": "c", "text": "consisting" },
+          { "id": "d", "text": "consistency" }
+        ],
+        "answer": "a",
+        "explanationVi": "Cần trạng từ bổ nghĩa cho tính từ 'high'. Nếu điền tính từ (B) thì câu có hai tính từ đứng cạnh nhau mà không có liên từ.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p5-129",
+        "kind": "mcq",
+        "prompt": "129. The 2027 handbook ______ the previous edition in its entirety.",
+        "options": [
+          { "id": "a", "text": "surpasses" },
+          { "id": "b", "text": "supervises" },
+          { "id": "c", "text": "supplements" },
+          { "id": "d", "text": "supersedes" }
+        ],
+        "answer": "d",
+        "explanationVi": "'supersede' = thay thế và làm mất hiệu lực bản cũ. (C) 'supplement' là BỔ SUNG thêm vào, trái hẳn với 'in its entirety'.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p5-130",
+        "kind": "mcq",
+        "prompt": "130. Not until the invoice was queried ______ the duplicate payment discovered.",
+        "options": [
+          { "id": "a", "text": "was" },
+          { "id": "b", "text": "it was" },
+          { "id": "c", "text": "were" },
+          { "id": "d", "text": "had" }
+        ],
+        "answer": "a",
+        "explanationVi": "'Not until…' đầu câu gây đảo ngữ ở mệnh đề chính: was + S + PII. Chủ ngữ 'the duplicate payment' số ít nên chọn 'was', không phải 'were'.",
+        "difficulty": "hard"
+      }
+    ]
+  }
+]

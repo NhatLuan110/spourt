@@ -1,0 +1,190 @@
+[
+  {
+    "id": "listening-part1-photographs",
+    "skill": "listening",
+    "title": "Part 1 — Photographs",
+    "format": "TOEIC Listening — Part 1 · Photographs, 6 câu, bốn lựa chọn, chỉ nghe không có chữ",
+    "instructionsVi": "Nhìn ảnh rồi nghe bốn câu mô tả, chọn câu đúng nhất. Trong đề thi thật bốn lựa chọn KHÔNG in trên giấy. Ảnh ở đây được mô tả bằng chữ để luyện; bẫy chính là câu dùng đúng từ có trong ảnh nhưng sai hành động.",
+    "promptEn": "Look at each photograph and listen to the four statements. Select the statement that best describes what you see.\n\nPHOTO 1: A man in an apron stands behind a bakery counter, placing a loaf of bread into a paper bag. Trays of pastries are arranged in front of him. No customers are visible.\n\nPHOTO 2: Two women sit opposite each other at an outdoor café table. One is pointing at a document on the table; the other is holding a pen. Two cups sit at the edge of the table.\n\nPHOTO 3: A row of bicycles is parked along a railing on a city street. None of them is being ridden. A pedestrian walks past in the background.\n\nPHOTO 4: A worker on a ladder is repairing a light fixture on a ceiling. Below him, a second worker holds the ladder steady with both hands.\n\nPHOTO 5: A crowded platform at a train station. People are standing behind a yellow line, several looking down the track. A train is not yet visible.\n\nPHOTO 6: An empty meeting room. Chairs are arranged around a long table, a projector screen is pulled down, and bottles of water have been placed at each seat.",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "Photo 1",
+        "text": "(A) He's putting bread into a bag. (B) He's eating a pastry. (C) He's cleaning the counter. (D) He's serving a customer."
+      },
+      {
+        "speaker": "Photo 2",
+        "text": "(A) They're drinking from the same cup. (B) They're looking at a document. (C) They're standing near a table. (D) They're writing on a whiteboard."
+      },
+      {
+        "speaker": "Photo 3",
+        "text": "(A) Bicycles are being repaired. (B) A man is riding a bicycle. (C) Bicycles have been parked in a row. (D) People are removing a railing."
+      },
+      {
+        "speaker": "Photo 4",
+        "text": "(A) One of the men is climbing down. (B) A ladder is being held by a worker. (C) They're carrying a light fixture. (D) The ceiling is being painted."
+      },
+      {
+        "speaker": "Photo 5",
+        "text": "(A) Passengers are boarding a train. (B) People are waiting on a platform. (C) The platform has been closed. (D) A train is pulling into the station."
+      },
+      {
+        "speaker": "Photo 6",
+        "text": "(A) A meeting is in progress. (B) Chairs are being stacked. (C) The room has been prepared for a meeting. (D) Someone is adjusting the screen."
+      }
+    ],
+    "timeLimitSec": 180,
+    "questions": [
+      {
+        "id": "p1-1",
+        "kind": "mcq",
+        "prompt": "Photo 1",
+        "options": [
+          {
+            "id": "a",
+            "text": "He's putting bread into a bag."
+          },
+          {
+            "id": "b",
+            "text": "He's eating a pastry."
+          },
+          {
+            "id": "c",
+            "text": "He's cleaning the counter."
+          },
+          {
+            "id": "d",
+            "text": "He's serving a customer."
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "Ảnh cho thấy người đàn ông đang bỏ bánh mì vào túi giấy. (D) sai vì ảnh ghi rõ không có khách nào — bẫy suy diễn từ bối cảnh tiệm bánh."
+      },
+      {
+        "id": "p1-2",
+        "kind": "mcq",
+        "prompt": "Photo 2",
+        "options": [
+          {
+            "id": "a",
+            "text": "They're drinking from the same cup."
+          },
+          {
+            "id": "b",
+            "text": "They're standing near a table."
+          },
+          {
+            "id": "c",
+            "text": "They're writing on a whiteboard."
+          },
+          {
+            "id": "d",
+            "text": "They're looking at a document."
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "Một người chỉ vào tài liệu, người kia cầm bút. (B) sai vì họ NGỒI chứ không đứng — Part 1 rất hay bẫy ở động từ tư thế."
+      },
+      {
+        "id": "p1-3",
+        "kind": "mcq",
+        "prompt": "Photo 3",
+        "options": [
+          {
+            "id": "a",
+            "text": "Bicycles are being repaired."
+          },
+          {
+            "id": "b",
+            "text": "A man is riding a bicycle."
+          },
+          {
+            "id": "c",
+            "text": "Bicycles have been parked in a row."
+          },
+          {
+            "id": "d",
+            "text": "People are removing a railing."
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "Ảnh không có người nào đang tác động tới xe, nên phải dùng thì hoàn thành bị động 'have been parked'. (A) dùng 'are being repaired' đòi hỏi phải có người đang sửa trong ảnh."
+      },
+      {
+        "id": "p1-4",
+        "kind": "mcq",
+        "prompt": "Photo 4",
+        "options": [
+          {
+            "id": "a",
+            "text": "One of the men is climbing down."
+          },
+          {
+            "id": "b",
+            "text": "A ladder is being held by a worker."
+          },
+          {
+            "id": "c",
+            "text": "They're carrying a light fixture."
+          },
+          {
+            "id": "d",
+            "text": "The ceiling is being painted."
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "Người thứ hai đang giữ thang bằng hai tay, nên 'is being held' đúng vì có người thực hiện hành động. (A) sai vì người trên thang đang SỬA đèn, không leo xuống."
+      },
+      {
+        "id": "p1-5",
+        "kind": "mcq",
+        "prompt": "Photo 5",
+        "options": [
+          {
+            "id": "a",
+            "text": "Passengers are boarding a train."
+          },
+          {
+            "id": "b",
+            "text": "The platform has been closed."
+          },
+          {
+            "id": "c",
+            "text": "A train is pulling into the station."
+          },
+          {
+            "id": "d",
+            "text": "People are waiting on a platform."
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "Ảnh ghi rõ tàu CHƯA xuất hiện, nên (A) và (C) đều loại. Đây là bẫy kinh điển: nghe thấy 'train station' rồi chọn phương án có từ 'train'."
+      },
+      {
+        "id": "p1-6",
+        "kind": "mcq",
+        "prompt": "Photo 6",
+        "options": [
+          {
+            "id": "a",
+            "text": "A meeting is in progress."
+          },
+          {
+            "id": "b",
+            "text": "The room has been prepared for a meeting."
+          },
+          {
+            "id": "c",
+            "text": "Chairs are being stacked."
+          },
+          {
+            "id": "d",
+            "text": "Someone is adjusting the screen."
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "Phòng trống nên mọi phương án có người đang hành động đều sai. Ảnh không người thì đáp án gần như luôn ở thì hoàn thành bị động."
+      }
+    ]
+  }
+]

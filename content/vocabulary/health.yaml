@@ -1,0 +1,1385 @@
+# Chủ đề Sức khoẻ (§12.1). Nguồn: Wiktionary (CC BY-SA), WordNet, Tatoeba (CC BY).
+topic: health
+words:
+  - lemma: symptom
+    cefr: B1
+    frequencyRank: 7000
+    ipaUs: /ˈsɪmptəm/
+    ipaUk: /ˈsɪmptəm/
+    syllables: symp·tom
+    stressPattern: '10'
+    subtopics: [symptoms]
+    senses:
+      - pos: NOUN
+        definitionEn: A sign in your body that shows you may be ill.
+        definitionVi: Triệu chứng; dấu hiệu trên cơ thể cho thấy bạn có thể bị bệnh.
+        examples:
+          - en: A dry cough is the first symptom for many people.
+            vi: Ho khan là triệu chứng đầu tiên ở nhiều người.
+          - en: Tell the doctor about every symptom, even small ones.
+            vi: Hãy kể với bác sĩ mọi triệu chứng, kể cả những dấu hiệu nhỏ.
+
+  - lemma: prescription
+    cefr: B1
+    frequencyRank: 10700
+    ipaUs: /prɪˈskrɪpʃn̩/
+    ipaUk: /prɪˈskrɪpʃn̩/
+    syllables: pre·scrip·tion
+    stressPattern: '010'
+    subtopics: [medicine, doctor-visit]
+    senses:
+      - pos: NOUN
+        definitionEn: A written order from a doctor for a medicine.
+        definitionVi: Đơn thuốc; giấy bác sĩ viết để mua thuốc.
+        examples:
+          - en: You cannot buy this without a prescription.
+            vi: Bạn không mua được thuốc này nếu không có đơn.
+          - en: The prescription is valid for one month.
+            vi: Đơn thuốc có giá trị trong một tháng.
+
+  - lemma: appointment
+    cefr: A2
+    frequencyRank: 5000
+    ipaUs: /əˈpɔɪntmənt/
+    ipaUk: /əˈpɔɪntmənt/
+    syllables: ap·point·ment
+    stressPattern: '010'
+    subtopics: [doctor-visit]
+    senses:
+      - pos: NOUN
+        definitionEn: An arrangement to meet someone at a set time.
+        definitionVi: Cuộc hẹn; thoả thuận gặp ai đó vào giờ đã định.
+        examples:
+          - en: I have an appointment with the dentist at four.
+            vi: Tôi có hẹn với nha sĩ lúc bốn giờ.
+          - en: Please cancel the appointment if you cannot come.
+            vi: Vui lòng huỷ cuộc hẹn nếu bạn không tới được.
+
+  - lemma: nutrition
+    cefr: B2
+    frequencyRank: 11000
+    ipaUs: /nuˈtrɪʃn̩/
+    ipaUk: /njuˈtrɪʃn̩/
+    syllables: nu·tri·tion
+    stressPattern: '010'
+    subtopics: [nutrition]
+    senses:
+      - pos: NOUN
+        definitionEn: The food you eat and the way it keeps you healthy.
+        definitionVi: Dinh dưỡng; thức ăn bạn ăn và cách nó giữ cho bạn khoẻ.
+        examples:
+          - en: Good nutrition matters more than any supplement.
+            vi: Dinh dưỡng tốt quan trọng hơn bất kỳ thực phẩm bổ sung nào.
+          - en: The clinic gives free nutrition advice to mothers.
+            vi: Phòng khám tư vấn dinh dưỡng miễn phí cho các bà mẹ.
+
+  - lemma: nutritious
+    cefr: B2
+    frequencyRank: 19100
+    ipaUs: /nuˈtrɪʃəs/
+    ipaUk: /njuˈtrɪʃəs/
+    syllables: nu·tri·tious
+    stressPattern: '010'
+    subtopics: [nutrition]
+    senses:
+      - pos: ADJECTIVE
+        definitionEn: Containing substances the body needs to stay healthy.
+        definitionVi: Bổ dưỡng; chứa chất cơ thể cần để khoẻ mạnh.
+        examples:
+          - en: Brown rice is more nutritious than white rice.
+            vi: Gạo lứt bổ dưỡng hơn gạo trắng.
+          - en: She packs a nutritious lunch for the children.
+            vi: Cô ấy chuẩn bị bữa trưa bổ dưỡng cho các con.
+
+  - lemma: infection
+    cefr: B1
+    frequencyRank: 6000
+    ipaUs: /ɪnˈfekʃn̩/
+    ipaUk: /ɪnˈfekʃn̩/
+    syllables: in·fec·tion
+    stressPattern: '010'
+    subtopics: [symptoms]
+    senses:
+      - pos: NOUN
+        definitionEn: An illness caused by bacteria or a virus entering the body.
+        definitionVi: Sự nhiễm trùng; bệnh do vi khuẩn hoặc virus xâm nhập cơ thể.
+        examples:
+          - en: The cut turned into a small infection.
+            vi: Vết cắt chuyển thành một chỗ nhiễm trùng nhỏ.
+          - en: Wash your hands to stop the infection spreading.
+            vi: Rửa tay để ngăn nhiễm trùng lan rộng.
+
+  - lemma: recover
+    cefr: B1
+    frequencyRank: 3600
+    ipaUs: /rɪˈkʌvər/
+    ipaUk: /rɪˈkʌvə/
+    syllables: re·cov·er
+    stressPattern: '010'
+    subtopics: [symptoms]
+    senses:
+      - pos: VERB
+        definitionEn: To become well again after being ill or hurt.
+        definitionVi: Hồi phục; khoẻ lại sau khi ốm hay bị thương.
+        examples:
+          - en: He recovered quickly after the operation.
+            vi: Anh ấy hồi phục nhanh sau ca mổ.
+          - en: It takes two weeks to recover from this flu.
+            vi: Mất hai tuần để hồi phục sau đợt cúm này.
+
+  - lemma: recovery
+    cefr: B2
+    frequencyRank: 4100
+    ipaUs: /rɪˈkʌvəri/
+    ipaUk: /rɪˈkʌvəri/
+    syllables: re·cov·er·y
+    stressPattern: '0100'
+    subtopics: [symptoms, fitness]
+    senses:
+      - pos: NOUN
+        definitionEn: The process of getting well again.
+        definitionVi: Sự hồi phục; quá trình khoẻ trở lại.
+        examples:
+          - en: Sleep is the most important part of recovery.
+            vi: Giấc ngủ là phần quan trọng nhất của quá trình hồi phục.
+          - en: Her recovery took longer than the doctors expected.
+            vi: Quá trình hồi phục của cô lâu hơn bác sĩ dự đoán.
+
+  - lemma: anxiety
+    cefr: B2
+    frequencyRank: 6800
+    ipaUs: /æŋˈzaɪəti/
+    ipaUk: /æŋˈzaɪəti/
+    syllables: anx·i·e·ty
+    stressPattern: '0100'
+    subtopics: [mental-health]
+    senses:
+      - pos: NOUN
+        definitionEn: A strong feeling of worry about what may happen.
+        definitionVi: Sự lo âu; cảm giác lo lắng mạnh về điều có thể xảy ra.
+        examples:
+          - en: Exam anxiety kept her awake all night.
+            vi: Nỗi lo thi cử khiến cô thức trắng đêm.
+          - en: Talking to someone reduces anxiety.
+            vi: Trò chuyện với ai đó làm giảm lo âu.
+
+  - lemma: stress
+    cefr: B1
+    frequencyRank: 2000
+    ipaUs: /stres/
+    ipaUk: /stres/
+    syllables: stress
+    stressPattern: '1'
+    subtopics: [mental-health]
+    senses:
+      - pos: NOUN
+        definitionEn: Pressure or worry caused by a difficult situation.
+        definitionVi: Căng thẳng; áp lực hay lo lắng do hoàn cảnh khó khăn gây ra.
+        examples:
+          - en: Too much stress makes it hard to sleep.
+            vi: Quá nhiều căng thẳng khiến bạn khó ngủ.
+          - en: Walking after work lowers my stress.
+            vi: Đi bộ sau giờ làm giúp tôi giảm căng thẳng.
+
+  - lemma: exercise
+    cefr: A1
+    frequencyRank: 1800
+    ipaUs: /ˈeksərsaɪz/
+    ipaUk: /ˈeksəsaɪz/
+    syllables: ex·er·cise
+    stressPattern: '100'
+    subtopics: [fitness]
+    senses:
+      - pos: NOUN
+        definitionEn: Physical activity done to stay healthy and strong.
+        definitionVi: Việc tập thể dục; hoạt động thể chất để giữ sức khoẻ.
+        examples:
+          - en: Thirty minutes of exercise a day is enough.
+            vi: Ba mươi phút tập thể dục mỗi ngày là đủ.
+          - en: Swimming is gentle exercise for the knees.
+            vi: Bơi là bài tập nhẹ nhàng cho đầu gối.
+
+  - lemma: vaccine
+    cefr: B2
+    frequencyRank: 9000
+    ipaUs: /vækˈsiːn/
+    ipaUk: /ˈvæksiːn/
+    syllables: vac·cine
+    stressPattern: '01'
+    subtopics: [medicine]
+    senses:
+      - pos: NOUN
+        definitionEn: A substance given to protect the body against a disease.
+        definitionVi: Vắc xin; chế phẩm đưa vào cơ thể để phòng bệnh.
+        examples:
+          - en: The vaccine is free for children under five.
+            vi: Vắc xin miễn phí cho trẻ dưới năm tuổi.
+          - en: One dose of the vaccine lasts a year.
+            vi: Một liều vắc xin có tác dụng một năm.
+
+  - lemma: surgery
+    cefr: B1
+    frequencyRank: 4900
+    ipaUs: /ˈsɜːrdʒəri/
+    ipaUk: /ˈsɜːdʒəri/
+    syllables: sur·ger·y
+    stressPattern: '100'
+    subtopics: [doctor-visit]
+    senses:
+      - pos: NOUN
+        definitionEn: Medical treatment in which a doctor cuts open the body.
+        definitionVi: Phẫu thuật; điều trị y khoa trong đó bác sĩ mổ vào cơ thể.
+        examples:
+          - en: He needs surgery on his left knee.
+            vi: Anh ấy cần phẫu thuật đầu gối trái.
+          - en: The surgery lasted three hours.
+            vi: Ca phẫu thuật kéo dài ba tiếng.
+
+  - lemma: allergy
+    cefr: B1
+    frequencyRank: 14600
+    ipaUs: /ˈælərdʒi/
+    ipaUk: /ˈælədʒi/
+    syllables: al·ler·gy
+    stressPattern: '100'
+    subtopics: [symptoms]
+    senses:
+      - pos: NOUN
+        definitionEn: A bad reaction of the body to a food, animal or plant.
+        definitionVi: Dị ứng; phản ứng xấu của cơ thể với thức ăn, động vật hay cây cỏ.
+        examples:
+          - en: She has an allergy to peanuts.
+            vi: Cô ấy bị dị ứng đậu phộng.
+          - en: My allergy gets worse in the dry season.
+            vi: Bệnh dị ứng của tôi nặng hơn vào mùa khô.
+
+  - lemma: muscle
+    cefr: B1
+    frequencyRank: 4300
+    ipaUs: /ˈmʌsl̩/
+    ipaUk: /ˈmʌsl̩/
+    syllables: mus·cle
+    stressPattern: '10'
+    subtopics: [human-body, fitness]
+    senses:
+      - pos: NOUN
+        definitionEn: A part of the body that tightens to make you move.
+        definitionVi: Cơ, bắp thịt; phần cơ thể co lại để giúp bạn cử động.
+        examples:
+          - en: My leg muscles ache after the run.
+            vi: Cơ chân tôi đau nhức sau buổi chạy.
+          - en: Stretch every muscle before you swim.
+            vi: Hãy giãn mọi nhóm cơ trước khi bơi.
+
+  - lemma: breathe
+    cefr: A2
+    frequencyRank: 4500
+    ipaUs: /briːð/
+    ipaUk: /briːð/
+    syllables: breathe
+    stressPattern: '1'
+    subtopics: [human-body, mental-health]
+    senses:
+      - pos: VERB
+        definitionEn: To take air into your lungs and let it out again.
+        definitionVi: Thở; hít không khí vào phổi rồi thở ra.
+        examples:
+          - en: Breathe slowly through your nose.
+            vi: Hãy thở chậm bằng mũi.
+          - en: It was hard to breathe in the smoke.
+            vi: Rất khó thở trong khói.
+
+  - lemma: painkiller
+    cefr: B1
+    frequencyRank: 20200
+    ipaUs: /ˈpeɪnkɪlər/
+    ipaUk: /ˈpeɪnkɪlə/
+    syllables: pain·kill·er
+    stressPattern: '100'
+    subtopics: [medicine]
+    senses:
+      - pos: NOUN
+        definitionEn: A medicine that reduces pain.
+        definitionVi: Thuốc giảm đau; thuốc làm dịu cơn đau.
+        examples:
+          - en: Take one painkiller after food.
+            vi: Uống một viên thuốc giảm đau sau khi ăn.
+          - en: The painkiller wore off after four hours.
+            vi: Thuốc giảm đau hết tác dụng sau bốn tiếng.
+
+  - lemma: diagnose
+    cefr: B2
+    frequencyRank: 12300
+    ipaUs: /ˈdaɪəɡnoʊs/
+    ipaUk: /ˈdaɪəɡnəʊz/
+    syllables: di·ag·nose
+    stressPattern: '100'
+    subtopics: [doctor-visit]
+    senses:
+      - pos: VERB
+        definitionEn: To say what illness a person has after examining them.
+        definitionVi: Chẩn đoán; xác định bệnh sau khi thăm khám.
+        examples:
+          - en: The doctor diagnosed a chest infection.
+            vi: Bác sĩ chẩn đoán bị nhiễm trùng phổi.
+          - en: It can be hard to diagnose without a blood test.
+            vi: Rất khó chẩn đoán nếu không xét nghiệm máu.
+
+  - lemma: therapy
+    cefr: B2
+    frequencyRank: 5400
+    ipaUs: /ˈθerəpi/
+    ipaUk: /ˈθerəpi/
+    syllables: ther·a·py
+    stressPattern: '100'
+    subtopics: [mental-health]
+    senses:
+      - pos: NOUN
+        definitionEn: Treatment that helps someone get better, often by talking.
+        definitionVi: Liệu pháp trị liệu; cách chữa giúp người bệnh khá hơn, thường qua trò chuyện.
+        examples:
+          - en: She has been in therapy since the accident.
+            vi: Cô ấy đi trị liệu từ sau vụ tai nạn.
+          - en: Group therapy meets every Thursday evening.
+            vi: Nhóm trị liệu gặp nhau vào tối thứ Năm hằng tuần.
+
+  - lemma: sleep
+    cefr: A1
+    frequencyRank: 1400
+    ipaUs: /sliːp/
+    ipaUk: /sliːp/
+    syllables: sleep
+    stressPattern: '1'
+    subtopics: [mental-health, fitness]
+    senses:
+      - pos: NOUN
+        definitionEn: The natural rest in which you are unconscious for hours.
+        definitionVi: Giấc ngủ; trạng thái nghỉ tự nhiên khi bạn không tỉnh táo trong nhiều giờ.
+        examples:
+          - en: Seven hours of sleep is enough for most adults.
+            vi: Bảy tiếng ngủ là đủ với hầu hết người lớn.
+          - en: Coffee after five ruins my sleep.
+            vi: Cà phê sau năm giờ chiều làm hỏng giấc ngủ của tôi.
+
+  - lemma: immune
+    cefr: B2
+    frequencyRank: 8400
+    ipaUs: /ɪˈmjuːn/
+    ipaUk: /ɪˈmjuːn/
+    syllables: im·mune
+    stressPattern: '01'
+    subtopics: [medicine]
+    senses:
+      - pos: ADJECTIVE
+        definitionEn: Protected against a disease, or relating to that protection.
+        definitionVi: Miễn dịch; được bảo vệ khỏi bệnh, hoặc liên quan đến sự bảo vệ đó.
+        examples:
+          - en: Sleep keeps the immune system strong.
+            vi: Ngủ đủ giúp hệ miễn dịch khoẻ.
+          - en: You are immune once you have had the illness.
+            vi: Bạn miễn dịch sau khi đã mắc bệnh này.
+
+  - lemma: dose
+    cefr: B1
+    frequencyRank: 6900
+    ipaUs: /doʊs/
+    ipaUk: /dəʊs/
+    syllables: dose
+    stressPattern: '1'
+    subtopics: [medicine]
+    senses:
+      - pos: NOUN
+        definitionEn: The amount of medicine to take at one time.
+        definitionVi: Liều; lượng thuốc uống trong một lần.
+        examples:
+          - en: Take one dose after each meal.
+            vi: Uống một liều sau mỗi bữa ăn.
+          - en: Never double the dose if you forget one.
+            vi: Đừng uống gấp đôi liều nếu bạn quên một lần.
+
+  - lemma: fever
+    cefr: A2
+    frequencyRank: 5600
+    ipaUs: /ˈfiːvər/
+    ipaUk: /ˈfiːvə/
+    syllables: fe·ver
+    stressPattern: '10'
+    subtopics: [symptoms]
+    senses:
+      - pos: NOUN
+        definitionEn: A body temperature higher than normal, usually from illness.
+        definitionVi: Sốt; thân nhiệt cao hơn bình thường, thường do bệnh.
+        examples:
+          - en: She has had a fever since Tuesday.
+            vi: Cô ấy sốt từ hôm thứ Ba.
+          - en: The fever went down after the medicine.
+            vi: Cơn sốt hạ sau khi uống thuốc.
+
+  - lemma: injury
+    cefr: B1
+    frequencyRank: 4200
+    ipaUs: /ˈɪndʒəri/
+    ipaUk: /ˈɪndʒəri/
+    syllables: in·ju·ry
+    stressPattern: '100'
+    subtopics: [doctor-visit]
+    senses:
+      - pos: NOUN
+        definitionEn: Physical harm to the body.
+        definitionVi: Chấn thương; tổn thương về thể chất.
+        examples:
+          - en: A knee injury kept him off the pitch for a month.
+            vi: Chấn thương đầu gối khiến anh ấy nghỉ đá một tháng.
+          - en: Most kitchen injuries are cuts and burns.
+            vi: Phần lớn chấn thương trong bếp là đứt tay và bỏng.
+
+  - lemma: hygiene
+    cefr: B1
+    frequencyRank: 10600
+    ipaUs: /ˈhaɪdʒiːn/
+    ipaUk: /ˈhaɪdʒiːn/
+    syllables: hy·giene
+    stressPattern: '10'
+    subtopics: [medicine]
+    senses:
+      - pos: NOUN
+        definitionEn: Keeping yourself and your surroundings clean to stay healthy.
+        definitionVi: Vệ sinh; giữ bản thân và môi trường sạch để khoẻ mạnh.
+        examples:
+          - en: Hand hygiene stops most stomach bugs.
+            vi: Vệ sinh tay ngăn được phần lớn bệnh đường ruột.
+          - en: The restaurant lost points for kitchen hygiene.
+            vi: Nhà hàng bị trừ điểm vì vệ sinh bếp.
+
+  - lemma: chronic
+    cefr: B2
+    frequencyRank: 7800
+    ipaUs: /ˈkrɑːnɪk/
+    ipaUk: /ˈkrɒnɪk/
+    syllables: chron·ic
+    stressPattern: '10'
+    subtopics: [medicine]
+    senses:
+      - pos: ADJECTIVE
+        definitionEn: Lasting a long time, of an illness.
+        definitionVi: Mãn tính; bệnh kéo dài dai dẳng.
+        examples:
+          - en: Chronic back pain runs in my family.
+            vi: Đau lưng mãn tính là bệnh di truyền trong nhà tôi.
+          - en: Chronic conditions need regular check-ups.
+            vi: Bệnh mãn tính cần khám định kỳ.
+        antonyms: [acute]
+
+  - lemma: posture
+    cefr: B2
+    frequencyRank: 11700
+    ipaUs: /ˈpɑːstʃər/
+    ipaUk: /ˈpɒstʃə/
+    syllables: pos·ture
+    stressPattern: '10'
+    subtopics: [fitness]
+    senses:
+      - pos: NOUN
+        definitionEn: The way you hold your body when sitting or standing.
+        definitionVi: Tư thế; cách giữ cơ thể khi ngồi hoặc đứng.
+        examples:
+          - en: Bad posture at a desk causes neck pain.
+            vi: Tư thế ngồi bàn sai gây đau cổ.
+          - en: Yoga improved my posture within a month.
+            vi: Yoga cải thiện tư thế của tôi trong một tháng.
+
+  - lemma: dizzy
+    cefr: A2
+    frequencyRank: 14300
+    ipaUs: /ˈdɪzi/
+    ipaUk: /ˈdɪzi/
+    syllables: diz·zy
+    stressPattern: '10'
+    subtopics: [symptoms]
+    senses:
+      - pos: ADJECTIVE
+        definitionEn: Feeling that everything is spinning.
+        definitionVi: Chóng mặt; cảm giác mọi thứ quay tròn.
+        examples:
+          - en: I felt dizzy when I stood up too fast.
+            vi: Tôi thấy chóng mặt khi đứng dậy quá nhanh.
+          - en: Tell the doctor if you get dizzy again.
+            vi: Báo bác sĩ nếu bạn lại bị chóng mặt.
+
+  - lemma: swollen
+    cefr: B1
+    frequencyRank: 13500
+    ipaUs: /ˈswoʊlən/
+    ipaUk: /ˈswəʊlən/
+    syllables: swol·len
+    stressPattern: '10'
+    subtopics: [symptoms]
+    senses:
+      - pos: ADJECTIVE
+        definitionEn: Bigger than normal because of injury or illness.
+        definitionVi: Sưng; to hơn bình thường do chấn thương hoặc bệnh.
+        examples:
+          - en: His ankle is still swollen after a week.
+            vi: Mắt cá chân anh ấy vẫn sưng sau một tuần.
+          - en: Put ice on the swollen area.
+            vi: Chườm đá lên chỗ sưng.
+
+  - lemma: hospital
+    cefr: A1
+    ipaUs: /ˈhɑːspɪtəl/
+    senses:
+      - pos: NOUN
+        definitionEn: A large medical institution where sick or injured people receive treatment.
+        definitionVi: bệnh viện
+        examples:
+          - en: The injured driver was rushed to the nearest hospital for emergency surgery.
+            vi: Tài xế bị thương đã được đưa gấp đến bệnh viện gần nhất để phẫu thuật khẩn cấp.
+          - en: She works as a dedicated pediatric nurse in a large city hospital.
+            vi: Cô ấy làm việc như một y tá nhi khoa tận tụy ở bệnh viện lớn trong thành phố.
+  - lemma: patient
+    cefr: A1
+    ipaUs: /ˈpeɪʃənt/
+    senses:
+      - pos: NOUN
+        definitionEn: A person receiving medical care or treatment from a doctor or hospital.
+        definitionVi: bệnh nhân
+        examples:
+          - en: The doctor examined every patient in the waiting room with great care.
+            vi: Bác sĩ đã khám cho từng bệnh nhân trong phòng chờ với sự chăm sóc chu đáo.
+          - en: Every patient must follow the strict medication schedule prescribed by their specialist.
+            vi: Mọi bệnh nhân phải tuân theo lịch trình uống thuốc nghiêm ngặt do chuyên gia của họ kê đơn.
+  - lemma: doctor
+    cefr: A1
+    ipaUs: /ˈdɑːktər/
+    senses:
+      - pos: NOUN
+        definitionEn: A qualified professional trained to treat sick or injured people.
+        definitionVi: bác sĩ
+        examples:
+          - en: You should consult a doctor if your persistent symptoms do not improve.
+            vi: Bạn nên tham khảo ý kiến của bác sĩ nếu các triệu chứng kéo dài không cải thiện.
+          - en: The doctor advised him to get more daily exercise and eat healthier food.
+            vi: Bác sĩ khuyên anh ấy nên tập thể dục nhiều hơn mỗi ngày và ăn uống lành mạnh hơn.
+  - lemma: nurse
+    cefr: A1
+    ipaUs: /nɜːrs/
+    senses:
+      - pos: NOUN
+        definitionEn: A trained medical professional whose job is to care for the sick.
+        definitionVi: y tá
+        examples:
+          - en: The kind nurse checked his blood pressure before the surgeon arrived today.
+            vi: Nữ y tá tốt bụng đã kiểm tra huyết áp cho anh ấy trước khi bác sĩ phẫu thuật đến hôm nay.
+          - en: A friendly nurse handed me a glass of water after the blood test.
+            vi: Một y tá thân thiện đã đưa cho tôi một cốc nước sau khi xét nghiệm máu xong.
+  - lemma: clinic
+    cefr: A2
+    ipaUs: /ˈklɪnɪk/
+    senses:
+      - pos: NOUN
+        definitionEn: A small facility where people go to receive medical treatment or advice.
+        definitionVi: phòng khám
+        examples:
+          - en: She visited a local dental clinic to get her painful wisdom tooth removed.
+            vi: Cô ấy đã đến một phòng khám nha khoa địa phương để nhổ chiếc răng khôn bị đau của mình.
+          - en: The community health clinic provides free vaccinations for children under five years old.
+            vi: Phòng khám sức khỏe cộng đồng cung cấp tiêm chủng miễn phí cho trẻ em dưới năm tuổi.
+  - lemma: medicine
+    cefr: A1
+    ipaUs: /ˈmɛdɪsən/
+    senses:
+      - pos: NOUN
+        definitionEn: A substance used for treating illness or relieving pain.
+        definitionVi: thuốc
+        examples:
+          - en: The doctor told him to take this medicine three times daily.
+            vi: Bác sĩ bảo anh ấy uống loại thuốc này ba lần mỗi ngày.
+          - en: She keeps all her family medicine in a secure cabinet.
+            vi: Cô ấy giữ tất cả thuốc gia đình trong một chiếc tủ an toàn.
+  - lemma: pill
+    cefr: A2
+    ipaUs: /pɪl/
+    senses:
+      - pos: NOUN
+        definitionEn: A small solid piece of medicine that you swallow whole.
+        definitionVi: viên thuốc
+        examples:
+          - en: Swallow the small white pill whole with water without chewing it first.
+            vi: Nuốt trọn viên thuốc màu trắng nhỏ với nước mà không nhai nó trước.
+          - en: He forgot to take his morning vitamin pill before leaving for work today.
+            vi: Anh ấy quên uống viên thuốc vitamin buổi sáng trước khi đi làm hôm nay.
+  - lemma: tablet
+    cefr: A2
+    ipaUs: /ˈtæblət/
+    senses:
+      - pos: NOUN
+        definitionEn: A small compressed disc of medicine that dissolves or is swallowed.
+        definitionVi: viên thuốc nén
+        examples:
+          - en: Dissolve the effervescent tablet in a glass of cold water before drinking it.
+            vi: Hòa tan viên thuốc sủi bọt trong một cốc nước lạnh trước khi uống nó.
+          - en: The doctor prescribed one pain-relief tablet every six hours as needed.
+            vi: Bác sĩ kê đơn một viên thuốc giảm đau cứ sau sáu giờ khi cần thiết.
+  - lemma: capsule
+    cefr: B1
+    ipaUs: /ˈkæpsuːl/
+    senses:
+      - pos: NOUN
+        definitionEn: A small soluble container enclosing a dose of medicine.
+        definitionVi: viên nang thuốc
+        examples:
+          - en: This red and yellow capsule contains a strong antibiotic for your severe infection.
+            vi: Viên nang màu đỏ và vàng này chứa một loại kháng sinh mạnh cho bệnh nhiễm trùng nặng của bạn.
+          - en: Open the capsule and mix the powder inside with a little sweet juice.
+            vi: Mở viên nang ra và trộn bột bên trong với một ít nước trái cây ngọt.
+  - lemma: cough
+    cefr: A2
+    ipaUs: /kɔːf/
+    senses:
+      - pos: VERB
+        definitionEn: To expel air from the lungs suddenly with a sharp sound.
+        definitionVi: ho
+        examples:
+          - en: He started to cough violently because of the thick smoke in the room.
+            vi: Anh ấy bắt đầu ho dữ dội vì làn khói dày đặc trong phòng.
+          - en: If you cough constantly at night, you should drink some warm honey tea.
+            vi: Nếu bạn ho liên tục vào ban đêm, bạn nên uống một ít trà mật ong ấm.
+  - lemma: cold
+    cefr: A1
+    ipaUs: /koʊld/
+    senses:
+      - pos: NOUN
+        definitionEn: A common viral infection causing a runny nose and sneezing.
+        definitionVi: cảm lạnh
+        examples:
+          - en: She caught a bad cold during her winter vacation in the snowy mountains.
+            vi: Cô ấy bị cảm lạnh nặng trong kỳ nghỉ mùa đông ở vùng núi có tuyết.
+          - en: Rest in bed and drink plenty of fluids to recover from this nasty cold.
+            vi: Nghỉ ngơi trên giường và uống nhiều chất lỏng để hồi phục khỏi cơn cảm lạnh khó chịu này.
+  - lemma: flu
+    cefr: A2
+    ipaUs: /fluː/
+    senses:
+      - pos: NOUN
+        definitionEn: A contagious viral respiratory illness with fever and body aches.
+        definitionVi: bệnh cúm
+        examples:
+          - en: Millions of people get the seasonal flu shot every autumn to prevent illness.
+            vi: Hàng triệu người tiêm phòng cúm theo mùa mỗi mùa thu để phòng bệnh.
+          - en: Symptoms of the flu include high fever, severe body aches, and extreme fatigue.
+            vi: Các triệu chứng của cúm bao gồm sốt cao, đau nhức cơ thể dữ dội và mệt mỏi cực độ.
+  - lemma: headache
+    cefr: A2
+    ipaUs: /ˈheddeɪk/
+    senses:
+      - pos: NOUN
+        definitionEn: A continuous pain felt in the head.
+        definitionVi: đau đầu
+        examples:
+          - en: Staring at the computer screen all day gave me a terrible throbbing headache.
+            vi: Nhìn chằm chằm vào màn hình máy tính cả ngày khiến tôi bị đau đầu dữ dội.
+          - en: She took a short nap to get rid of the dull headache from stress.
+            vi: Cô ấy đã chợp mắt một lúc để xua tan cơn đau đầu âm ỉ do căng thẳng.
+  - lemma: stomachache
+    cefr: B1
+    ipaUs: /ˈstʌməkˌeɪk/
+    senses:
+      - pos: NOUN
+        definitionEn: Pain in or around the stomach area.
+        definitionVi: đau bụng
+        examples:
+          - en: Eating too many green apples gave the young boy a severe stomachache.
+            vi: Ăn quá nhiều táo xanh đã khiến cậu bé bị đau bụng dữ dội.
+          - en: If your stomachache persists after eating, you must see a doctor immediately.
+            vi: Nếu cơn đau bụng của bạn vẫn tiếp diễn sau khi ăn, bạn phải đi khám bác sĩ ngay lập tức.
+  - lemma: toothache
+    cefr: B1
+    ipaUs: /ˈtuːθeɪk/
+    senses:
+      - pos: NOUN
+        definitionEn: Pain in or around a tooth.
+        definitionVi: đau răng
+        examples:
+          - en: The terrible toothache kept him awake for the entire night without any sleep.
+            vi: Cơn đau răng tồi tệ đã giữ anh ấy thức suốt đêm mà không chợp mắt được chút nào.
+          - en: She booked an emergency dental appointment because her toothache was completely unbearable.
+            vi: Cô ấy đã đặt lịch hẹn nha khoa khẩn cấp vì cơn đau răng của cô ấy hoàn toàn không thể chịu nổi.
+  - lemma: backache
+    cefr: B1
+    ipaUs: /ˈbækˌeɪk/
+    senses:
+      - pos: NOUN
+        definitionEn: Prolonged pain in the back muscles or spine.
+        definitionVi: đau lưng
+        examples:
+          - en: Lifting heavy boxes incorrectly at the warehouse caused his chronic lower backache.
+            vi: Nâng những chiếc hộp nặng không đúng cách ở kho hàng đã gây ra chứng đau lưng mãn tính của anh
+              ấy.
+          - en: Office workers often suffer from a mild backache due to poor sitting postures.
+            vi: Nhân viên văn phòng thường bị đau lưng nhẹ do tư thế ngồi không đúng cách.
+  - lemma: sore
+    cefr: A2
+    ipaUs: /sɔːr/
+    senses:
+      - pos: ADJECTIVE
+        definitionEn: Painful or aching, typically as a result of a condition or overuse.
+        definitionVi: đau nhức
+        examples:
+          - en: My muscles feel very sore after running the marathon in the hot weather.
+            vi: Cơ bắp của tôi cảm thấy rất đau nhức sau khi chạy marathon trong thời tiết nắng nóng.
+          - en: She drank warm tea because she had a sore throat from the cold wind.
+            vi: Cô ấy uống trà ấm vì cô ấy bị đau họng do gió lạnh.
+  - lemma: rash
+    cefr: B1
+    ipaUs: /ræʃ/
+    senses:
+      - pos: NOUN
+        definitionEn: An area of red spots on the skin caused by illness or an allergy.
+        definitionVi: phát ban
+        examples:
+          - en: The allergic reaction caused an itchy red rash to appear on his arms.
+            vi: Phản ứng dị ứng đã khiến một vết phát ban đỏ ngứa xuất hiện trên cánh tay anh ấy.
+          - en: If the mysterious skin rash spreads further, apply this soothing medicated cream.
+            vi: Nếu vết phát ban da bí ẩn lan rộng hơn, hãy bôi loại kem thuốc làm dịu này.
+  - lemma: burn
+    cefr: A2
+    ipaUs: /bɜːrn/
+    senses:
+      - pos: NOUN
+        definitionEn: An injury caused by heat, fire, chemicals, or electricity.
+        definitionVi: vết bỏng
+        examples:
+          - en: He suffered a painful second-degree burn when he touched the hot stove accidentally.
+            vi: Anh ấy bị bỏng độ hai đau đớn khi vô tình chạm vào bếp nóng.
+          - en: Run cool water over a minor kitchen burn immediately to reduce the swelling.
+            vi: Xả nước mát lên vết bỏng nhỏ trong nhà bếp ngay lập tức để giảm sưng.
+  - lemma: cut
+    cefr: A2
+    ipaUs: /kʌt/
+    senses:
+      - pos: NOUN
+        definitionEn: An opening or incision made in the skin by something sharp.
+        definitionVi: vết cắt
+        examples:
+          - en: Clean the deep cut on your finger thoroughly with antiseptic soap and water.
+            vi: Rửa sạch vết đứt sâu trên ngón tay của bạn bằng xà phòng sát trùng và nước.
+          - en: Be careful with sharp kitchen knives so you do not cut your hand.
+            vi: Hãy cẩn thận với dao làm bếp sắc bén để bạn không cắt phải tay mình.
+  - lemma: bleed
+    cefr: A2
+    ipaUs: /bliːd/
+    senses:
+      - pos: VERB
+        definitionEn: to lose blood from the body
+        definitionVi: chảy máu
+        examples:
+          - en: If you cut your finger, it might bleed for a while.
+            vi: Nếu bạn đứt tay, nó có thể chảy máu một lúc.
+          - en: Deep cuts can cause a person to bleed heavily without help.
+            vi: Những vết cắt sâu có thể khiến một người chảy máu nhiều nếu không giúp đỡ.
+  - lemma: wound
+    cefr: B1
+    ipaUs: /wuːnd/
+    senses:
+      - pos: NOUN
+        definitionEn: an injury to living tissue caused by a cut or blow
+        definitionVi: vết thương
+        examples:
+          - en: The deep wound on his arm required several stitches.
+            vi: Vết thương sâu trên tay anh ấy cần vài mũi khâu.
+          - en: Clean the wound carefully before you apply a fresh bandage.
+            vi: Hãy rửa sạch vết thương cẩn thận trước khi băng bó mới.
+  - lemma: fracture
+    cefr: B2
+    ipaUs: /ˈfræk.tʃɚ/
+    senses:
+      - pos: NOUN
+        definitionEn: a crack or break in a bone
+        definitionVi: vết nứt xương
+        examples:
+          - en: The doctor found a small fracture in her left wrist.
+            vi: Bác sĩ tìm thấy một vết nứt nhỏ ở cổ tay trái cô ấy.
+          - en: A severe fracture usually takes many weeks to heal completely.
+            vi: Một vết gãy xương nặng thường mất nhiều tuần để lành hẳn.
+  - lemma: cast
+    cefr: B1
+    ipaUs: /kæst/
+    senses:
+      - pos: NOUN
+        definitionEn: a hard bandage used to keep a broken bone in place
+        definitionVi: bó bột
+        examples:
+          - en: He had to wear a plaster cast for six weeks.
+            vi: Anh ấy phải mang một lớp bột bó trong sáu tuần.
+          - en: Everyone signed his heavy white cast after the accident.
+            vi: Mọi người đã ký tên lên lớp bột trắng dày của anh sau tai nạn.
+  - lemma: x-ray
+    cefr: A2
+    ipaUs: /ˈeks.reɪ/
+    senses:
+      - pos: NOUN
+        definitionEn: a photographic image of the inside of the body
+        definitionVi: phim chụp X-quang
+        examples:
+          - en: The dentist took an x-ray to check your teeth.
+            vi: Nha sĩ đã chụp một tấm x-quang để kiểm tra răng của bạn.
+          - en: The doctor ordered an x-ray to examine my broken arm.
+            vi: Bác sĩ yêu cầu chụp x-quang để kiểm tra cánh tay bị gãy của tôi.
+  - lemma: scan
+    cefr: B1
+    ipaUs: /skæn/
+    senses:
+      - pos: NOUN
+        definitionEn: a medical image produced by scanning equipment
+        definitionVi: ảnh chụp quét
+        examples:
+          - en: The brain scan showed no signs of serious injury.
+            vi: Kết quả chụp não không cho thấy dấu hiệu chấn thương nặng.
+          - en: She is waiting for the scan results from the hospital.
+            vi: Cô ấy đang đợi kết quả chụp từ bệnh viện.
+  - lemma: test
+    cefr: A2
+    ipaUs: /test/
+    senses:
+      - pos: NOUN
+        definitionEn: a medical examination of a part of the body
+        definitionVi: xét nghiệm
+        examples:
+          - en: You need to do a blood test tomorrow morning.
+            vi: Bạn cần làm một xét nghiệm máu vào sáng mai.
+          - en: The lab test results will be ready by next Friday.
+            vi: Kết quả xét nghiệm phòng lab sẽ có vào thứ Sáu tới.
+  - lemma: blood
+    cefr: A2
+    ipaUs: /blʌd/
+    senses:
+      - pos: NOUN
+        definitionEn: the red liquid that flows inside the body
+        definitionVi: máu
+        examples:
+          - en: White blood cells help your body fight dangerous infections.
+            vi: Tế bào bạch cầu giúp cơ thể bạn chống lại nhiễm trùng nguy hiểm.
+          - en: Donating blood at the local clinic saves many lives.
+            vi: Hiến máu tại phòng khám địa phương cứu sống rất nhiều người.
+  - lemma: pressure
+    cefr: B1
+    ipaUs: /ˈpreʃ.ɚ/
+    senses:
+      - pos: NOUN
+        definitionEn: the force with which blood flows through the body
+        definitionVi: huyết áp
+        examples:
+          - en: High blood pressure can lead to serious heart problems.
+            vi: Huyết áp cao có thể dẫn đến các vấn đề tim mạch nghiêm trọng.
+          - en: The nurse checked his blood pressure before the operation.
+            vi: Y tá đo huyết áp cho anh ấy trước ca phẫu thuật.
+  - lemma: heart
+    cefr: A1
+    ipaUs: /hɑːrt/
+    senses:
+      - pos: NOUN
+        definitionEn: the organ that pumps blood through the body
+        definitionVi: trái tim
+        examples:
+          - en: Regular exercise is very good for your heart health.
+            vi: Tập thể dục thường xuyên rất tốt cho sức khỏe tim mạch của bạn.
+          - en: His heart beat very fast after running up the hill.
+            vi: Tim anh ấy đập rất nhanh sau khi chạy lên đồi.
+  - lemma: pulse
+    cefr: B1
+    ipaUs: /pʌls/
+    senses:
+      - pos: NOUN
+        definitionEn: the regular beating of blood through the arteries
+        definitionVi: mạch
+        examples:
+          - en: The doctor checked her pulse to see how she felt.
+            vi: Bác sĩ bắt mạch cô ấy để xem cô ấy cảm thấy thế nào.
+          - en: A normal resting pulse rate varies between different people.
+            vi: Tần số mạch nghỉ ngơi bình thường khác nhau tùy theo từng người.
+  - lemma: lung
+    cefr: B1
+    ipaUs: /lʌŋ/
+    senses:
+      - pos: NOUN
+        definitionEn: one of the two organs used for breathing
+        definitionVi: phổi
+        examples:
+          - en: Smoking causes severe damage to human lung tissue.
+            vi: Hút thuốc gây tổn thương nghiêm trọng cho mô phổi con người.
+          - en: Fresh mountain air fills each lung with clean oxygen.
+            vi: Không khí núi trong lành lấp đầy mỗi lá phổi bằng oxy sạch.
+  - lemma: organ
+    cefr: B2
+    ipaUs: /ˈɔːr.ɡən/
+    senses:
+      - pos: NOUN
+        definitionEn: a part of the body that performs a specific function
+        definitionVi: cơ quan nội tạng
+        examples:
+          - en: The liver is a vital organ that cleans our blood.
+            vi: Gan là một cơ quan quan trọng làm sạch máu của chúng ta.
+          - en: Organ donation can give another person a second chance.
+            vi: Hiến tạng có thể trao cho người khác một cơ hội thứ hai.
+  - lemma: liver
+    cefr: B2
+    ipaUs: /ˈlɪv.ɚ/
+    senses:
+      - pos: NOUN
+        definitionEn: a large organ that cleans blood and helps digestion
+        definitionVi: gan
+        examples:
+          - en: The liver processes nutrients and filters toxins from the body.
+            vi: Gan xử lý chất dinh dưỡng và lọc độc tố khỏi cơ thể.
+          - en: Heavy drinking can damage your liver over a long time.
+            vi: Uống nhiều rượu có thể làm hỏng gan của bạn trong thời gian dài.
+  - lemma: kidney
+    cefr: B2
+    ipaUs: /ˈkɪd.ni/
+    senses:
+      - pos: NOUN
+        definitionEn: one of two organs that clean waste from blood
+        definitionVi: thận
+        examples:
+          - en: Each human kidney filters waste products from the bloodstream.
+            vi: Mỗi quả thận người lọc các sản phẩm thải từ dòng máu.
+          - en: Drinking enough water keeps your kidney functioning properly.
+            vi: Uống đủ nước giúp thận của bạn hoạt động bình thường.
+  - lemma: stomach
+    cefr: A2
+    ipaUs: /ˈstʌm.ək/
+    senses:
+      - pos: NOUN
+        definitionEn: the organ where food goes after you eat
+        definitionVi: dạ dày
+        examples:
+          - en: Eating too fast can upset your stomach and cause pain.
+            vi: Ăn quá nhanh có thể làm đau dạ dày và gây khó chịu.
+          - en: Food is broken down inside the stomach by acids.
+            vi: Thức ăn được phân hủy bên trong dạ dày bởi các axit.
+  - lemma: intestine
+    cefr: B2
+    ipaUs: /ɪnˈtes.tɪn/
+    senses:
+      - pos: NOUN
+        definitionEn: the long tube where food is digested and absorbed
+        definitionVi: ruột
+        examples:
+          - en: The small intestine absorbs most nutrients from digested food.
+            vi: Ruột non hấp thụ hầu hết chất dinh dưỡng từ thức ăn đã tiêu hóa.
+          - en: Food passes from the stomach into the long intestine.
+            vi: Thức ăn đi từ dạ dày vào ống ruột dài.
+  - lemma: bone
+    cefr: A2
+    ipaUs: /boʊn/
+    senses:
+      - pos: NOUN
+        definitionEn: one of the hard parts forming the skeleton
+        definitionVi: xương
+        examples:
+          - en: Calcium is essential for building strong bone structure.
+            vi: Canxi rất cần thiết để xây dựng cấu trúc xương chắc khỏe.
+          - en: Dogs love to chew on a large beef bone.
+            vi: Những chú chó thích gặm một khúc xương bò lớn.
+  - lemma: joint
+    cefr: B1
+    ipaUs: /dʒɔɪnt/
+    senses:
+      - pos: NOUN
+        definitionEn: the place where two bones are connected
+        definitionVi: khớp xương
+        examples:
+          - en: Arthritis causes painful swelling in every hand joint.
+            vi: Viêm khớp gây ra sưng đau ở mọi khớp tay.
+          - en: Knees and elbows are a type of movable joint.
+            vi: Đầu gối và khuỷu tay là một loại khớp có thể chuyển động.
+  - lemma: tendon
+    cefr: C1
+    ipaUs: /ˈten.dən/
+    senses:
+      - pos: NOUN
+        definitionEn: a strong cord connecting muscle to bone
+        definitionVi: gân
+        examples:
+          - en: He tore a tendon in his leg while running.
+            vi: Anh ấy bị đứt gân ở chân trong khi đang chạy.
+          - en: A damaged tendon requires months of careful physical therapy.
+            vi: Gân bị tổn thương đòi hỏi nhiều tháng vật lý trị liệu cẩn thận.
+  - lemma: ligament
+    cefr: B2
+    ipaUs: /ˈlɪɡəmənt/
+    senses:
+      - pos: NOUN
+        definitionEn: A tough band of tissue connecting bones together.
+        definitionVi: dây chằng
+        examples:
+          - en: She tore a ligament in her knee during the soccer match.
+            vi: Cô ấy bị rách dây chằng ở đầu gối trong trận đấu bóng đá.
+          - en: Doctors must repair the damaged ligament to restore full leg movement.
+            vi: Các bác sĩ phải phẫu thuật sửa chữa dây chằng bị tổn thương để phục hồi khả năng di chuyển của
+              chân.
+  - lemma: skin
+    cefr: A1
+    ipaUs: /skɪn/
+    senses:
+      - pos: NOUN
+        definitionEn: The natural outer covering of the human body.
+        definitionVi: da
+        examples:
+          - en: Protect your sensitive skin from harsh sunlight using high SPF sunscreen.
+            vi: Hãy bảo vệ làn da nhạy cảm của bạn khỏi ánh nắng gắt bằng kem chống nắng có chỉ số SPF cao.
+          - en: A sudden rash on her skin indicated a mild allergic reaction.
+            vi: Vết phát ban đột ngột trên da cho thấy cô ấy bị dị ứng nhẹ.
+  - lemma: nerve
+    cefr: B1
+    ipaUs: /nɜrv/
+    senses:
+      - pos: NOUN
+        definitionEn: A fiber transmitting impulses of sensation through the body.
+        definitionVi: dây thần kinh
+        examples:
+          - en: The dentist hit a sensitive nerve while filling my aching tooth.
+            vi: Nha sĩ đã chạm vào dây thần kinh nhạy cảm khi hàn chiếc răng đang đau của tôi.
+          - en: Chronic back pain often results from a pinched nerve near the spine.
+            vi: Đau lưng mãn tính thường do dây thần kinh bị chèn ép gần cột sống.
+  - lemma: brain
+    cefr: A2
+    ipaUs: /breɪn/
+    senses:
+      - pos: NOUN
+        definitionEn: The organ of soft nervous tissue inside the skull.
+        definitionVi: não
+        examples:
+          - en: The human brain consumes a large amount of energy every single day.
+            vi: Bộ não con người tiêu thụ một lượng lớn năng lượng mỗi ngày.
+          - en: Doctors perform complex surgery to treat injuries deep inside the human brain.
+            vi: Các bác sĩ thực hiện phẫu thuật phức tạp để điều trị chấn thương sâu bên trong bộ não con người.
+  - lemma: disease
+    cefr: B1
+    ipaUs: /dɪˈziːz/
+    senses:
+      - pos: NOUN
+        definitionEn: A disorder of structure or function in a human.
+        definitionVi: bệnh tật
+        examples:
+          - en: Scientists work hard to find a lasting cure for this deadly disease.
+            vi: Các nhà khoa học làm việc chăm chỉ để tìm ra phương pháp chữa trị lâu dài cho căn bệnh chết
+              người này.
+          - en: Regular physical exercise helps prevent chronic heart disease as you age.
+            vi: Tập thể dục thường xuyên giúp ngăn ngừa bệnh tim mãn tính khi bạn già đi.
+  - lemma: illness
+    cefr: A2
+    ipaUs: /ˈɪlnɪs/
+    senses:
+      - pos: NOUN
+        definitionEn: A disease or period of sickness affecting the body.
+        definitionVi: sự ốm đau
+        examples:
+          - en: She took a week off work to recover from a viral illness.
+            vi: Cô ấy đã nghỉ làm một tuần để hồi phục sau một trận ốm do virus.
+          - en: Mental illness requires as much professional care as physical health conditions.
+            vi: Bệnh tâm thần đòi hỏi sự chăm sóc chuyên nghiệp nhiều như các tình trạng sức khỏe thể chất.
+  - lemma: virus
+    cefr: A2
+    ipaUs: /ˈvaɪrəs/
+    senses:
+      - pos: NOUN
+        definitionEn: An infective agent that typically consists of a nucleic acid molecule in a protein coat.
+        definitionVi: vi-rút
+        examples:
+          - en: This new flu virus spreads rapidly through the local school community.
+            vi: Loại virus cúm mới này lây lan nhanh chóng qua cộng đồng trường học địa phương.
+          - en: Antibiotics cannot cure infections caused by a dangerous microscopic virus.
+            vi: Thuốc kháng sinh không thể chữa khỏi các bệnh nhiễm trùng do một loại vi-rút vi mô nguy hiểm gây
+              ra.
+  - lemma: bacteria
+    cefr: B1
+    ipaUs: /bækˈtɪriə/
+    senses:
+      - pos: NOUN
+        definitionEn: Microscopic living organisms that can cause disease or fermentation.
+        definitionVi: vi khuẩn
+        examples:
+          - en: Harmful bacteria in spoiled food can cause severe stomach poisoning.
+            vi: Vi khuẩn có hại trong thức ăn ôi thiu có thể gây ngộ độc dạ dày nghiêm trọng.
+          - en: Doctors prescribe strong antibiotics to kill harmful bacteria inside the patient.
+            vi: Bác sĩ kê đơn thuốc kháng sinh mạnh để tiêu diệt vi khuẩn có hại bên trong cơ thể bệnh nhân.
+  - lemma: germ
+    cefr: B2
+    ipaUs: /dʒɜrm/
+    senses:
+      - pos: NOUN
+        definitionEn: A microorganism that causes disease.
+        definitionVi: mầm bệnh
+        examples:
+          - en: Wash your hands thoroughly with soap to remove every hidden germ.
+            vi: Hãy rửa tay thật kỹ bằng xà phòng để loại bỏ mọi mầm bệnh ẩn giấu.
+          - en: Children often pick up a germ while playing outside in dirt.
+            vi: Trẻ em thường nhiễm mầm bệnh khi chơi đùa bên ngoài đất cát.
+  - lemma: epidemic
+    cefr: B2
+    ipaUs: /ˌepɪˈdemɪk/
+    senses:
+      - pos: NOUN
+        definitionEn: A widespread occurrence of an infectious disease in a community.
+        definitionVi: dịch bệnh
+        examples:
+          - en: The government declared a national emergency to control the sudden flu epidemic.
+            vi: Chính phủ tuyên bố tình trạng khẩn cấp quốc gia để kiểm soát dịch bệnh cúm bùng phát đột ngột.
+          - en: Public health officials took urgent measures to stop the dangerous cholera epidemic.
+            vi: Các quan chức y tế công cộng đã thực hiện các biện pháp khẩn cấp để ngăn chặn dịch bệnh tả nguy
+              hiểm.
+  - lemma: quarantine
+    cefr: B2
+    ipaUs: /ˈkwɔrəntin/
+    senses:
+      - pos: NOUN
+        definitionEn: A state of isolation imposed to prevent the spread of disease.
+        definitionVi: sự cách ly
+        examples:
+          - en: International travelers had to spend two weeks in strict quarantine upon arrival.
+            vi: Du khách quốc tế phải dành hai tuần để cách ly nghiêm ngặt ngay sau khi đến nơi.
+          - en: Pets brought into the country must complete a mandatory quarantine period.
+            vi: Thú cưng mang vào nước này phải hoàn thành thời gian cách ly bắt buộc.
+  - lemma: treatment
+    cefr: B1
+    ipaUs: /ˈtriːtmənt/
+    senses:
+      - pos: NOUN
+        definitionEn: Medical care given to a patient for an illness or injury.
+        definitionVi: sự điều trị
+        examples:
+          - en: Early cancer treatment significantly increases the chances of complete recovery.
+            vi: Điều trị ung thư sớm làm tăng đáng kể cơ hội hồi phục hoàn toàn.
+          - en: The hospital offers advanced medical treatment for patients with severe injuries.
+            vi: Bệnh viện cung cấp phương pháp điều trị y tế tiên tiến cho bệnh nhân bị thương nặng.
+  - lemma: healing
+    cefr: C1
+    ipaUs: /ˈhiːlɪŋ/
+    senses:
+      - pos: NOUN
+        definitionEn: The process of making or becoming sound or healthy again.
+        definitionVi: quá trình chữa lành
+        examples:
+          - en: Proper nutrition and rest accelerate the natural healing of broken bones.
+            vi: Dinh dưỡng và nghỉ ngơi hợp lý thúc đẩy quá trình chữa lành tự nhiên của xương gãy.
+          - en: Emotional healing after a major loss takes time and professional support.
+            vi: Quá trình chữa lành cảm xúc sau một mất mát lớn cần có thời gian và sự hỗ trợ chuyên nghiệp.
+  - lemma: remedy
+    cefr: B2
+    ipaUs: /ˈremədi/
+    senses:
+      - pos: NOUN
+        definitionEn: A medicine or treatment for a disease or injury.
+        definitionVi: phương thuốc
+        examples:
+          - en: Honey and lemon provide a traditional home remedy for a sore throat.
+            vi: Mật ong và chanh cung cấp một phương thuốc dân gian truyền thống chữa đau họng.
+          - en: She searched for a natural remedy to relieve her chronic headaches.
+            vi: Cô ấy tìm kiếm một phương thuốc tự nhiên để giảm những cơn đau đầu mãn tính.
+  - lemma: ointment
+    cefr: B2
+    ipaUs: /ˈɔɪntmənt/
+    senses:
+      - pos: NOUN
+        definitionEn: A smooth substance rubbed on the skin for healing or as a cosmetic.
+        definitionVi: thuốc mỡ
+        examples:
+          - en: Apply this soothing ointment twice daily to heal your skin rash.
+            vi: Thoa loại thuốc mỡ làm dịu này hai lần mỗi ngày để chữa lành vết phát ban trên da.
+          - en: The pharmacist recommended a medicated ointment for the painful burn.
+            vi: Dược sĩ đã giới thiệu một loại thuốc mỡ y tế dành cho vết bỏng đau rát.
+  - lemma: cream
+    cefr: A2
+    ipaUs: /kriːm/
+    senses:
+      - pos: NOUN
+        definitionEn: A thick liquid or substance applied to the skin.
+        definitionVi: kem bôi da
+        examples:
+          - en: Rub this moisturizing cream gently onto your dry hands every night.
+            vi: Thoa nhẹ nhàng loại kem dưỡng ẩm này lên đôi tay khô của bạn mỗi tối.
+          - en: The doctor prescribed a steroid cream to reduce the itchy inflammation.
+            vi: Bác sĩ kê đơn một loại kem chứa steroid để giảm tình trạng viêm ngứa.
+  - lemma: bandage
+    cefr: A2
+    ipaUs: /ˈbændɪdʒ/
+    senses:
+      - pos: NOUN
+        definitionEn: A strip of woven material used to bind up a wound.
+        definitionVi: băng y tế
+        examples:
+          - en: He wrapped a clean bandage around his injured bleeding finger.
+            vi: Anh ấy quấn một dải băng y tế sạch quanh ngón tay bị thương đang chảy máu.
+          - en: She applied a sterile bandage to cover the deep cut.
+            vi: Cô ấy dán một miếng băng y tế vô trùng để che vết cắt sâu.
+  - lemma: gauze
+    cefr: C1
+    ipaUs: /ɡɔːz/
+    senses:
+      - pos: NOUN
+        definitionEn: A thin, transparent fabric used for dressings and bandages.
+        definitionVi: vải gạc
+        examples:
+          - en: Cover the open wound with sterile gauze before taping it down.
+            vi: Phủ lên vết thương hở bằng vải gạc vô trùng trước khi dán băng dính lại.
+          - en: The surgeon used absorbent gauze to clean blood from the incision.
+            vi: Bác sĩ phẫu thuật đã dùng vải gạc thấm hút để lau sạch máu ở vết mổ.
+  - lemma: plaster
+    cefr: B1
+    ipaUs: /ˈplæstər/
+    senses:
+      - pos: NOUN
+        definitionEn: A small adhesive strip used to cover minor cuts and wounds.
+        definitionVi: băng cá nhân
+        examples:
+          - en: Put a small adhesive plaster over that tiny cut on your finger.
+            vi: Hãy dán một miếng băng cá nhân nhỏ lên vết cắt tí hon trên ngón tay bạn.
+          - en: She placed a colorful plaster on her son's scraped knee.
+            vi: Cô ấy dán một miếng băng cá nhân đầy màu sắc lên đầu gối bị trầy xước của con trai.
+  - lemma: stretcher
+    cefr: B2
+    ipaUs: /ˈstrɛtʃər/
+    senses:
+      - pos: NOUN
+        definitionEn: An apparatus used for moving a sick or injured person.
+        definitionVi: cáng cứu thương
+        examples:
+          - en: Paramedics carefully placed the injured skier onto a sturdy metal stretcher.
+            vi: Các nhân viên y tế cẩn thận đặt vận động viên trượt tuyết bị thương lên một chiếc cáng cứu
+              thương kim loại chắc chắn.
+          - en: The rescue team carried the wounded hiker down the mountain on a stretcher.
+            vi: Đội cứu hộ đã khiêng người đi bộ đường dài bị thương xuống núi bằng một chiếc cáng cứu thương.
+  - lemma: wheelchair
+    cefr: A2
+    ipaUs: /ˈwiːl.tʃer/
+    senses:
+      - pos: NOUN
+        definitionEn: A chair with wheels used by people who cannot walk.
+        definitionVi: Xe lăn
+        examples:
+          - en: He had to use a wheelchair after breaking both of his legs.
+            vi: Anh ấy phải dùng xe lăn sau khi bị gãy cả hai chân.
+          - en: The hospital provides a wheelchair for elderly patients upon arrival.
+            vi: Bệnh viện cung cấp xe lăn cho bệnh nhân lớn tuổi khi đến.
+  - lemma: crutch
+    cefr: B1
+    ipaUs: /krʌtʃ/
+    senses:
+      - pos: NOUN
+        definitionEn: A stick that you put under your arm to help you walk when injured.
+        definitionVi: Nạng chống
+        examples:
+          - en: She walked across the room carefully using a single crutch.
+            vi: Cô ấy cẩn thận bước qua phòng bằng một chiếc nạng chống.
+          - en: He learned how to move around smoothly with a crutch.
+            vi: Anh ấy đã học cách di chuyển trôi chảy bằng một chiếc nạng.
+  - lemma: ambulance
+    cefr: A2
+    ipaUs: /ˈæm.bjə.ləns/
+    senses:
+      - pos: NOUN
+        definitionEn: A vehicle equipped to take sick or injured people to the hospital.
+        definitionVi: Xe cứu thương
+        examples:
+          - en: An ambulance rushed the severe accident victim to the emergency room.
+            vi: Một chiếc xe cứu thương đã đưa nạn nhân tai nạn nặng đến phòng cấp cứu.
+          - en: We heard the loud siren of an ambulance approaching the street.
+            vi: Chúng tôi nghe thấy tiếng còi lớn của một chiếc xe cứu thương đang đến gần.
+  - lemma: paramedic
+    cefr: B1
+    ipaUs: /ˌper.əˈmed.ɪk/
+    senses:
+      - pos: NOUN
+        definitionEn: A trained medical professional who provides emergency care before hospital treatment.
+        definitionVi: Nhân viên y tế cấp cứu
+        examples:
+          - en: The paramedic gave him oxygen while driving to the medical center.
+            vi: Nhân viên y tế cấp cứu đã cho anh ấy thở oxy trong lúc lái xe đến trung tâm y tế.
+          - en: A skilled paramedic can save lives during unexpected medical emergencies outside.
+            vi: Một nhân viên y tế cấp cứu lành nghề có thể cứu mạng trong các trường hợp khẩn cấp bất ngờ bên
+              ngoài.
+  - lemma: surgeon
+    cefr: B1
+    ipaUs: /ˈsɝː.dʒən/
+    senses:
+      - pos: NOUN
+        definitionEn: A doctor who is specially trained to perform operations in a hospital.
+        definitionVi: Bác sĩ phẫu thuật
+        examples:
+          - en: The leading surgeon successfully completed the complex heart operation this morning.
+            vi: Bác sĩ phẫu thuật hàng đầu đã hoàn thành thành công ca phẫu thuật tim phức tạp sáng nay.
+          - en: She decided to train hard to become a qualified orthopedic surgeon.
+            vi: Cô ấy quyết định luyện tập chăm chỉ để trở thành một bác sĩ phẫu thuật chỉnh hình đủ điều kiện.
+  - lemma: dentist
+    cefr: A1
+    ipaUs: /ˈden.tɪst/
+    senses:
+      - pos: NOUN
+        definitionEn: A doctor who is trained to examine and treat teeth and gums.
+        definitionVi: Nha sĩ
+        examples:
+          - en: You should visit your dentist every six months for a routine cleaning.
+            vi: Bạn nên đến gặp nha sĩ sáu tháng một lần để làm sạch định kỳ.
+          - en: The friendly dentist explained every step before pulling out her bad tooth.
+            vi: Nha sĩ thân thiện đã giải thích từng bước trước khi nhổ chiếc răng sâu của cô ấy.
+  - lemma: specialist
+    cefr: B1
+    ipaUs: /ˈspeʃ.əl.ɪst/
+    senses:
+      - pos: NOUN
+        definitionEn: A doctor who focuses on one particular area of medical science.
+        definitionVi: Bác sĩ chuyên khoa
+        examples:
+          - en: My family doctor referred me to a heart specialist for further tests.
+            vi: Bác sĩ gia đình đã giới thiệu tôi đến một bác sĩ chuyên khoa tim để kiểm tra thêm.
+          - en: Finding the right medical specialist can take several weeks of waiting.
+            vi: Việc tìm kiếm đúng bác sĩ chuyên khoa y tế có thể mất vài tuần chờ đợi.
+  - lemma: pharmacist
+    cefr: B1
+    ipaUs: /ˈfɑːr.mə.sɪst/
+    senses:
+      - pos: NOUN
+        definitionEn: A person who is professionally qualified to prepare and dispense medications.
+        definitionVi: Dược sĩ
+        examples:
+          - en: The helpful pharmacist explained how to take the prescribed antibiotic safely.
+            vi: Dược sĩ nhiệt tình đã giải thích cách uống thuốc kháng sinh theo toa một cách an toàn.
+          - en: Always consult a pharmacist if you have questions about over-the-counter pills.
+            vi: Luôn tham khảo ý kiến dược sĩ nếu bạn có thắc mắc về các loại thuốc không kê đơn.
+  - lemma: checkup
+    cefr: B1
+    ipaUs: /ˈtʃek.ʌp/
+    senses:
+      - pos: NOUN
+        definitionEn: A general medical examination to check your overall health status.
+        definitionVi: Buổi khám sức khỏe định kỳ
+        examples:
+          - en: He goes for a physical checkup at the clinic once a year.
+            vi: Anh ấy đi khám sức khỏe định kỳ tại phòng khám một lần mỗi năm.
+          - en: The annual health checkup helps discover potential issues early on.
+            vi: Buổi khám sức khỏe định kỳ hàng năm giúp phát hiện các vấn đề tiềm ẩn từ sớm.
+  - lemma: screening
+    cefr: B2
+    ipaUs: /ˈskriː.nɪŋ/
+    senses:
+      - pos: NOUN
+        definitionEn: Testing people for diseases before they show any physical symptoms.
+        definitionVi: Sàng lọc bệnh
+        examples:
+          - en: Early cancer screening can significantly improve treatment outcomes for patients.
+            vi: Sàng lọc ung thư sớm có thể cải thiện đáng kể kết quả điều trị cho bệnh nhân.
+          - en: The community center offers free cholesterol screening for senior citizens.
+            vi: Trung tâm cộng đồng cung cấp dịch vụ sàng lọc cholesterol miễn phí cho người cao tuổi.
+  - lemma: first aid
+    cefr: B1
+    ipaUs: /ˈfɝːst.eɪd/
+    senses:
+      - pos: NOUN
+        definitionEn: Basic medical treatment given to someone before a doctor arrives.
+        definitionVi: Sơ cứu
+        examples:
+          - en: Knowing basic first-aid skills can help you save someone in danger.
+            vi: Việc nắm vững các kỹ năng sơ cứu cơ bản có thể giúp bạn cứu ai đó đang gặp nguy hiểm.
+          - en: The teacher applied first-aid to the student who scraped his knee.
+            vi: Giáo viên đã thực hiện sơ cứu cho học sinh bị trầy đầu gối.

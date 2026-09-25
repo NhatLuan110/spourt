@@ -1,0 +1,561 @@
+[
+  {
+    "id": "reading-part7-s1",
+    "skill": "reading",
+    "title": "Part 7 — Single passage 1: text message chain",
+    "format": "TOEIC Reading — Part 7 · Single passage (câu 147–148)",
+    "instructionsVi": "Chuỗi tin nhắn, có một câu hỏi hàm ý về một câu nói cụ thể.",
+    "promptEn": "Refer to the following text message chain and answer the questions.",
+    "passage": "Priya Nair (11:02 a.m.)\nThe lab result is in. Within tolerance on all thirty samples.\n\nRowan Beck (11:04 a.m.)\nSo our gauge was the problem, not the line.\n\nPriya Nair (11:05 a.m.)\nLooks that way. It was calibrated in March, but the certificate is for the wrong serial number — I've just noticed.\n\nRowan Beck (11:07 a.m.)\nAh. So it may not have been calibrated at all.\n\nPriya Nair (11:08 a.m.)\nExactly. I'll release the four batches now so the Friday shipment goes, and book a proper calibration for Monday.\n\nRowan Beck (11:09 a.m.)\nGood. And let's check the certificates for the other three gauges while we're at it.",
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p7-147",
+        "kind": "mcq",
+        "prompt": "147. What did the lab result show?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Four batches were faulty."
+          },
+          {
+            "id": "b",
+            "text": "All thirty samples were within tolerance."
+          },
+          {
+            "id": "c",
+            "text": "The line was out of tolerance."
+          },
+          {
+            "id": "d",
+            "text": "The samples were contaminated."
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'Within tolerance on all thirty samples'."
+      },
+      {
+        "id": "p7-148",
+        "kind": "mcq",
+        "prompt": "148. At 11:07 a.m., what does Mr Beck mean by 'So it may not have been calibrated at all'?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The calibration was scheduled but cancelled."
+          },
+          {
+            "id": "b",
+            "text": "The gauge is too old to calibrate."
+          },
+          {
+            "id": "c",
+            "text": "The calibration was done on a different instrument."
+          },
+          {
+            "id": "d",
+            "text": "The lab did not calibrate anything."
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "Chứng chỉ hiệu chuẩn ghi số sê-ri KHÁC, nên rất có thể thiết bị họ đang dùng chưa từng được hiệu chuẩn."
+      }
+    ]
+  },
+  {
+    "id": "reading-part7-s2",
+    "skill": "reading",
+    "title": "Part 7 — Single passage 2: policy notice",
+    "format": "TOEIC Reading — Part 7 · Single passage (câu 149–150)",
+    "instructionsVi": "Thông báo chính sách. Câu hỏi nhắm vào ngoại lệ và hệ quả.",
+    "promptEn": "Refer to the following notice and answer the questions.",
+    "passage": "NOTICE — Purchase approval thresholds, effective 1 April\n\nAll purchases above £2,000 require a second signature from a budget holder outside the requesting department. This applies to the total order value, not to individual line items; splitting an order to stay below the threshold is treated as a breach.\n\nPurchases under £2,000 require only the requesting manager's approval, except where the supplier is not on the approved list. In that case a second signature is required regardless of value.\n\nEmergency purchases may proceed without a second signature, but must be retrospectively approved within five working days. An emergency is defined as a situation in which delay would stop production or create a safety risk. Cost alone does not make a purchase an emergency.\n\nBreaches are reported to the audit committee quarterly.",
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p7-149",
+        "kind": "mcq",
+        "prompt": "149. A manager orders £1,500 of goods from a supplier not on the approved list. What is required?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Only the manager's approval"
+          },
+          {
+            "id": "b",
+            "text": "Audit committee approval"
+          },
+          {
+            "id": "c",
+            "text": "A second signature"
+          },
+          {
+            "id": "d",
+            "text": "No approval, as it is under £2,000"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'except where the supplier is not on the approved list. In that case a second signature is required regardless of value'."
+      },
+      {
+        "id": "p7-150",
+        "kind": "mcq",
+        "prompt": "150. What does the notice say about cost and emergencies?",
+        "options": [
+          {
+            "id": "a",
+            "text": "High cost automatically makes a purchase an emergency."
+          },
+          {
+            "id": "b",
+            "text": "Emergency purchases need no approval at all."
+          },
+          {
+            "id": "c",
+            "text": "Emergencies must be approved in advance."
+          },
+          {
+            "id": "d",
+            "text": "Cost alone does not make a purchase an emergency."
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'Cost alone does not make a purchase an emergency'. Mua khẩn cấp vẫn phải được duyệt bổ sung trong 5 ngày."
+      }
+    ]
+  },
+  {
+    "id": "reading-part7-s3",
+    "skill": "reading",
+    "title": "Part 7 — Single passage 3: email",
+    "format": "TOEIC Reading — Part 7 · Single passage (câu 151–152)",
+    "instructionsVi": "Email nội bộ. Câu hỏi hàm ý nhắm vào lý do thật đằng sau đề xuất.",
+    "promptEn": "Refer to the following email and answer the questions.",
+    "passage": "From: i.duarte@meridianhouse.example\nTo: department-heads@meridianhouse.example\nDate: 3 February\nSubject: Reporting pack — proposal\n\nColleagues,\n\nThe weekly reporting pack currently takes one analyst two full days to produce. That is forty per cent of one person's week, every week.\n\nBefore anyone suggests automating it, I want to ask a prior question: how much of it is read? Of the eleven sections, our access logs show that three are opened by more than five people. Four have not been opened by anyone outside Finance in six months.\n\nMy proposal is to move to a monthly pack of the three sections that are read, with the remainder available on request. If a section turns out to be missed, we can reinstate it — that is a much cheaper mistake than the one we are currently making.\n\nI would welcome objections before Friday.\n\nIna",
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p7-151",
+        "kind": "mcq",
+        "prompt": "151. What does Ms Duarte argue should be considered before automating?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The cost of the software"
+          },
+          {
+            "id": "b",
+            "text": "Whether the analyst agrees"
+          },
+          {
+            "id": "c",
+            "text": "Which department owns the report"
+          },
+          {
+            "id": "d",
+            "text": "How much of the pack is actually read"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'Before anyone suggests automating it, I want to ask a prior question: how much of it is read?'"
+      },
+      {
+        "id": "p7-152",
+        "kind": "mcq",
+        "prompt": "152. What does she mean by 'a much cheaper mistake than the one we are currently making'?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Automation would be cheaper than manual work."
+          },
+          {
+            "id": "b",
+            "text": "The analyst should be replaced."
+          },
+          {
+            "id": "c",
+            "text": "Reinstating a section costs less than continuing to produce unread ones."
+          },
+          {
+            "id": "d",
+            "text": "Monthly reporting is more accurate."
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "Sai lầm hiện tại là tốn hai ngày mỗi tuần cho phần không ai đọc; khôi phục một mục bị cắt nhầm rẻ hơn nhiều."
+      }
+    ]
+  },
+  {
+    "id": "reading-part7-s4",
+    "skill": "reading",
+    "title": "Part 7 — Single passage 4: review",
+    "format": "TOEIC Reading — Part 7 · Single passage (câu 153–155)",
+    "instructionsVi": "Bài đánh giá có câu hỏi chèn câu. Đọc câu trước và câu sau mỗi vị trí đánh dấu.",
+    "promptEn": "Refer to the following review and answer the questions.",
+    "passage": "Review of Kestrel Ledger (invoice software) — posted by A. Diallo, Finance Manager\n\nWe moved 4,000 invoices a month onto Kestrel in March. Nine months on, I would recommend it, with one significant caveat.\n\n— [1] — The capture accuracy is genuinely good. We were told to expect ninety-five per cent and we are running at ninety-seven, which means my team touches about a hundred invoices a month rather than four thousand.\n\nApproval routing is where it struggles. — [2] — The rules engine handles a simple hierarchy well, but our approval limits vary by category as well as by value, and expressing that took three attempts and a call to their support team.\n\n— [3] — Support, incidentally, was excellent — a named engineer, not a ticket queue.\n\nThe migration is the caveat. It was quoted at four weeks and took nine. — [4] — Budget for double whatever you are told, and do not schedule the go-live for a month-end.",
+    "timeLimitSec": 200,
+    "questions": [
+      {
+        "id": "p7-153",
+        "kind": "mcq",
+        "prompt": "153. What does the reviewer say about capture accuracy?",
+        "options": [
+          {
+            "id": "a",
+            "text": "It is below what was promised."
+          },
+          {
+            "id": "b",
+            "text": "It exceeds what was promised."
+          },
+          {
+            "id": "c",
+            "text": "It has not been measured."
+          },
+          {
+            "id": "d",
+            "text": "It varies by category."
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'We were told to expect ninety-five per cent and we are running at ninety-seven'."
+      },
+      {
+        "id": "p7-154",
+        "kind": "mcq",
+        "prompt": "154. What made approval routing difficult?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The support team was unavailable."
+          },
+          {
+            "id": "b",
+            "text": "The hierarchy was too simple."
+          },
+          {
+            "id": "c",
+            "text": "The software does not support routing."
+          },
+          {
+            "id": "d",
+            "text": "Approval limits vary by category as well as by value."
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'our approval limits vary by category as well as by value, and expressing that took three attempts'."
+      },
+      {
+        "id": "p7-155",
+        "kind": "mcq",
+        "prompt": "155. In which of the positions marked [1], [2], [3] and [4] does the following sentence best belong?\n\n'None of that delay was caused by the software itself.'",
+        "options": [
+          {
+            "id": "a",
+            "text": "[4]"
+          },
+          {
+            "id": "b",
+            "text": "[1]"
+          },
+          {
+            "id": "c",
+            "text": "[2]"
+          },
+          {
+            "id": "d",
+            "text": "[3]"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'That delay' phải trỏ về việc di chuyển dữ liệu mất chín tuần thay vì bốn, nêu ngay trước [4]. Ba vị trí kia chưa có 'delay' nào để trỏ tới."
+      }
+    ]
+  },
+  {
+    "id": "reading-part7-s5",
+    "skill": "reading",
+    "title": "Part 7 — Single passage 5: article",
+    "format": "TOEIC Reading — Part 7 · Single passage (câu 156–158)",
+    "instructionsVi": "Bài báo có lập luận nhiều lớp và một câu hỏi NOT.",
+    "promptEn": "Refer to the following article and answer the questions.",
+    "passage": "KIRBY — The council's tool library, opened in March, has lent 1,400 items and has a waiting list for eleven of them. On the face of it, an unambiguous success.\n\nThe more interesting figure is elsewhere. Of the 640 residents who have borrowed at least once, 71 per cent had not previously held a library card of any kind. The tool library has, in effect, been a recruitment channel for the main library, and 190 of those borrowers have since taken out a book.\n\nThat was not the intention. The scheme was justified to councillors purely on waste reduction, and the business case made no mention of library membership at all. Officers now describe the membership effect as the stronger argument of the two, though it was discovered rather than designed.\n\nThe council has ordered a second set of the most requested tools and is considering extending the scheme to two branch libraries, subject to funding. It has not committed to a date.",
+    "timeLimitSec": 200,
+    "questions": [
+      {
+        "id": "p7-156",
+        "kind": "mcq",
+        "prompt": "156. What does the writer consider the more interesting finding?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The number of items lent"
+          },
+          {
+            "id": "b",
+            "text": "The length of the waiting list"
+          },
+          {
+            "id": "c",
+            "text": "That most borrowers were new to the library"
+          },
+          {
+            "id": "d",
+            "text": "The reduction in household waste"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'The more interesting figure is elsewhere' rồi nêu 71% người mượn chưa từng có thẻ thư viện."
+      },
+      {
+        "id": "p7-157",
+        "kind": "mcq",
+        "prompt": "157. What is implied about the original business case?",
+        "options": [
+          {
+            "id": "a",
+            "text": "It overstated the waste reduction."
+          },
+          {
+            "id": "b",
+            "text": "It was rejected by councillors."
+          },
+          {
+            "id": "c",
+            "text": "It focused on library membership."
+          },
+          {
+            "id": "d",
+            "text": "It did not anticipate the membership effect."
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'the business case made no mention of library membership at all… discovered rather than designed'."
+      },
+      {
+        "id": "p7-158",
+        "kind": "mcq",
+        "prompt": "158. What is NOT stated about the council's plans?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Expansion will begin next spring."
+          },
+          {
+            "id": "b",
+            "text": "It has ordered more of the popular tools."
+          },
+          {
+            "id": "c",
+            "text": "It is considering two branch libraries."
+          },
+          {
+            "id": "d",
+            "text": "Expansion depends on funding."
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "Bài nói rõ 'It has not committed to a date'. Ba ý kia đều có ở đoạn cuối."
+      }
+    ]
+  },
+  {
+    "id": "reading-part7-s6",
+    "skill": "reading",
+    "title": "Part 7 — Single passage 6: procedure",
+    "format": "TOEIC Reading — Part 7 · Single passage (câu 159–161)",
+    "instructionsVi": "Quy trình xử lý sự cố. Câu hỏi nhắm vào thứ tự bước và điều bị cấm.",
+    "promptEn": "Refer to the following procedure and answer the questions.",
+    "passage": "PROCEDURE — Responding to a suspected data breach\n\n1. Contain first, investigate second. Disconnect the affected system from the network. Do not switch it off — powering down destroys evidence held in memory.\n2. Notify the Data Protection Officer within one hour of discovery. This applies even if you believe the breach is minor; the assessment of severity is not yours to make.\n3. Preserve logs. Do not attempt to delete or clean any file, even one you are confident is malicious.\n4. Record what you did and when, as you go. Reconstructing a timeline afterwards is unreliable and will be challenged.\n5. Do not contact the individuals affected. Notification to data subjects is made centrally, and an early informal message can prejudice the formal notice.\n\nThe regulator must be informed within 72 hours where there is a risk to individuals. That clock starts at discovery, not at the end of the investigation.",
+    "timeLimitSec": 200,
+    "questions": [
+      {
+        "id": "p7-159",
+        "kind": "mcq",
+        "prompt": "159. Why should the affected system not be switched off?",
+        "options": [
+          {
+            "id": "a",
+            "text": "It would alert the attacker."
+          },
+          {
+            "id": "b",
+            "text": "It would breach the 72-hour rule."
+          },
+          {
+            "id": "c",
+            "text": "It cannot be restarted afterwards."
+          },
+          {
+            "id": "d",
+            "text": "It would destroy evidence held in memory."
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'powering down destroys evidence held in memory'."
+      },
+      {
+        "id": "p7-160",
+        "kind": "mcq",
+        "prompt": "160. What must an employee NOT do?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Contact affected individuals directly"
+          },
+          {
+            "id": "b",
+            "text": "Disconnect the system from the network"
+          },
+          {
+            "id": "c",
+            "text": "Notify the Data Protection Officer"
+          },
+          {
+            "id": "d",
+            "text": "Record their actions as they go"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'Do not contact the individuals affected. Notification to data subjects is made centrally'."
+      },
+      {
+        "id": "p7-161",
+        "kind": "mcq",
+        "prompt": "161. When does the 72-hour clock start?",
+        "options": [
+          {
+            "id": "a",
+            "text": "When the investigation is complete"
+          },
+          {
+            "id": "b",
+            "text": "When the regulator asks"
+          },
+          {
+            "id": "c",
+            "text": "At the point of discovery"
+          },
+          {
+            "id": "d",
+            "text": "When the DPO is notified"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'That clock starts at discovery, not at the end of the investigation'."
+      }
+    ]
+  },
+  {
+    "id": "reading-part7-s7",
+    "skill": "reading",
+    "title": "Part 7 — Single passage 7: online chat, four writers",
+    "format": "TOEIC Reading — Part 7 · Single passage (câu 162–165)",
+    "instructionsVi": "Hội thoại nhóm. Một người chất vấn tiền đề của cuộc thảo luận — câu hỏi hàm ý nhắm vào đó.",
+    "promptEn": "Refer to the following online chat discussion and answer the questions.",
+    "passage": "Sanjay Mehta (10:31 a.m.)\nCustomer complaints are up eighteen per cent this quarter. We need a plan.\n\nAmara Diallo (10:33 a.m.)\nBefore we plan — up compared with what? We put the in-app reporting button live in February.\n\nSanjay Mehta (10:34 a.m.)\nAnd the rise starts in February.\n\nTomas Berg (10:36 a.m.)\nSo we may be measuring reporting, not failures. Those need very different responses.\n\nAmara Diallo (10:37 a.m.)\nWarranty claims would tell us. Those are logged independently of the button.\n\nSanjay Mehta (10:39 a.m.)\nGood point. If warranty claims are flat while complaints rise, the product is fine and we've simply become easier to complain to.\n\nTomas Berg (10:41 a.m.)\nWhich would be a result, not a problem. I'll pull the warranty numbers this afternoon.\n\nAmara Diallo (10:42 a.m.)\nAnd let's not brief the board until we know which it is.",
+    "timeLimitSec": 240,
+    "questions": [
+      {
+        "id": "p7-162",
+        "kind": "mcq",
+        "prompt": "162. What does Ms Diallo question?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The accuracy of the complaint figures"
+          },
+          {
+            "id": "b",
+            "text": "Whether the board should be informed"
+          },
+          {
+            "id": "c",
+            "text": "The cost of the reporting button"
+          },
+          {
+            "id": "d",
+            "text": "Whether the rise reflects more failures or easier reporting"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'up compared with what? We put the in-app reporting button live in February'."
+      },
+      {
+        "id": "p7-163",
+        "kind": "mcq",
+        "prompt": "163. Why are warranty claims useful here?",
+        "options": [
+          {
+            "id": "a",
+            "text": "They are cheaper to analyse."
+          },
+          {
+            "id": "b",
+            "text": "They are reported to the board anyway."
+          },
+          {
+            "id": "c",
+            "text": "They are logged independently of the reporting button."
+          },
+          {
+            "id": "d",
+            "text": "They include customer comments."
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'Those are logged independently of the button' — nên không bị ảnh hưởng bởi thay đổi cách phản ánh."
+      },
+      {
+        "id": "p7-164",
+        "kind": "mcq",
+        "prompt": "164. At 10:41 a.m., what does Mr Berg mean by 'Which would be a result, not a problem'?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The complaint rise would be evidence of success in gathering feedback."
+          },
+          {
+            "id": "b",
+            "text": "The product has definitely deteriorated."
+          },
+          {
+            "id": "c",
+            "text": "The warranty data will be inconclusive."
+          },
+          {
+            "id": "d",
+            "text": "The board will not be interested."
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "Nếu bảo hành đi ngang mà khiếu nại tăng, nghĩa là công ty chỉ đang lắng nghe được nhiều hơn — đó là thành quả."
+      },
+      {
+        "id": "p7-165",
+        "kind": "mcq",
+        "prompt": "165. What do they agree to do?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Brief the board immediately"
+          },
+          {
+            "id": "b",
+            "text": "Check warranty data before briefing the board"
+          },
+          {
+            "id": "c",
+            "text": "Remove the reporting button"
+          },
+          {
+            "id": "d",
+            "text": "Commission a customer survey"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'I'll pull the warranty numbers this afternoon' — 'let's not brief the board until we know which it is'."
+      }
+    ]
+  }
+]

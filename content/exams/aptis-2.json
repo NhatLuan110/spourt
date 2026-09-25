@@ -1,0 +1,973 @@
+{
+  "examId": "aptis",
+  "levelId": "2",
+  "vocabulary": [
+    {
+      "id": "apply",
+      "term": "apply",
+      "ipa": "/əˈplaɪ/",
+      "meaningVi": "nộp đơn; áp dụng",
+      "definitionEn": "To make a formal request, or to use something in a situation.",
+      "example": "I applied for the assistant role last week.",
+      "exampleVi": "Tuần trước tôi đã nộp đơn vào vị trí trợ lý.",
+      "collocations": [
+        "apply for a job",
+        "apply to a college",
+        "application form"
+      ]
+    },
+    {
+      "id": "manage",
+      "term": "manage",
+      "ipa": "/ˈmænɪdʒ/",
+      "meaningVi": "xoay xở được; quản lý",
+      "definitionEn": "To succeed in doing something difficult, or to be in charge of something.",
+      "example": "I managed to finish the report before the deadline.",
+      "exampleVi": "Tôi xoay xở xong báo cáo trước hạn.",
+      "collocations": [
+        "manage to do",
+        "manage a team",
+        "manageable workload"
+      ]
+    },
+    {
+      "id": "complain",
+      "term": "complain",
+      "ipa": "/kəmˈpleɪn/",
+      "meaningVi": "phàn nàn, khiếu nại",
+      "definitionEn": "To say that you are unhappy about something.",
+      "example": "Several residents complained about the noise.",
+      "exampleVi": "Một số cư dân đã phàn nàn về tiếng ồn.",
+      "collocations": [
+        "complain about",
+        "make a complaint",
+        "complain to"
+      ]
+    },
+    {
+      "id": "reliable",
+      "term": "reliable",
+      "ipa": "/rɪˈlaɪəbl/",
+      "meaningVi": "đáng tin cậy",
+      "definitionEn": "Able to be trusted to work well or behave as expected.",
+      "example": "The bus service here is cheap but not very reliable.",
+      "exampleVi": "Xe buýt ở đây rẻ nhưng không đáng tin cậy lắm.",
+      "collocations": [
+        "a reliable source",
+        "reliable service",
+        "unreliable"
+      ]
+    },
+    {
+      "id": "convenient",
+      "term": "convenient",
+      "ipa": "/kənˈviːniənt/",
+      "meaningVi": "tiện lợi",
+      "definitionEn": "Useful because it saves you time or effort.",
+      "example": "The new opening hours are much more convenient for people who work.",
+      "exampleVi": "Giờ mở cửa mới tiện hơn nhiều cho người đi làm.",
+      "collocations": [
+        "convenient location",
+        "at a convenient time",
+        "inconvenient"
+      ]
+    },
+    {
+      "id": "encourage",
+      "term": "encourage",
+      "ipa": "/ɪnˈkʌrɪdʒ/",
+      "meaningVi": "khuyến khích",
+      "definitionEn": "To give someone confidence or a reason to do something.",
+      "example": "My teacher encouraged me to enter the competition.",
+      "exampleVi": "Giáo viên khuyến khích tôi dự thi.",
+      "collocations": [
+        "encourage someone to",
+        "encourage participation",
+        "encouraging results"
+      ]
+    },
+    {
+      "id": "opportunity",
+      "term": "opportunity",
+      "ipa": "/ˌɒpəˈtjuːnəti/",
+      "meaningVi": "cơ hội",
+      "definitionEn": "A situation in which it is possible to do something you want.",
+      "example": "Living abroad gave me the opportunity to use English every day.",
+      "exampleVi": "Sống ở nước ngoài cho tôi cơ hội dùng tiếng Anh mỗi ngày.",
+      "collocations": [
+        "take the opportunity",
+        "a great opportunity",
+        "opportunity to"
+      ]
+    },
+    {
+      "id": "responsible",
+      "term": "responsible",
+      "ipa": "/rɪˈspɒnsəbl/",
+      "meaningVi": "chịu trách nhiệm",
+      "definitionEn": "Having a duty to deal with something, or being the cause of something.",
+      "example": "She is responsible for booking the venue.",
+      "exampleVi": "Cô ấy chịu trách nhiệm đặt địa điểm.",
+      "collocations": [
+        "responsible for",
+        "take responsibility",
+        "a responsible attitude"
+      ]
+    },
+    {
+      "id": "particular",
+      "term": "particular",
+      "ipa": "/pəˈtɪkjələ(r)/",
+      "meaningVi": "cụ thể, riêng biệt",
+      "definitionEn": "Used to refer to one specific thing rather than others.",
+      "example": "Was there a particular date you had in mind?",
+      "exampleVi": "Bạn có nhắm ngày cụ thể nào không?",
+      "collocations": [
+        "in particular",
+        "a particular problem",
+        "particularly useful"
+      ]
+    },
+    {
+      "id": "attend",
+      "term": "attend",
+      "ipa": "/əˈtend/",
+      "meaningVi": "tham dự",
+      "definitionEn": "To be present at an event or class.",
+      "example": "About forty people attended the meeting.",
+      "exampleVi": "Khoảng bốn mươi người đã dự cuộc họp.",
+      "collocations": [
+        "attend a course",
+        "attendance",
+        "unable to attend"
+      ]
+    },
+    {
+      "id": "avoid",
+      "term": "avoid",
+      "ipa": "/əˈvɔɪd/",
+      "meaningVi": "tránh",
+      "definitionEn": "To stay away from something, or to prevent it happening.",
+      "example": "I leave early to avoid the traffic.",
+      "exampleVi": "Tôi đi sớm để tránh tắc đường.",
+      "collocations": [
+        "avoid doing",
+        "hard to avoid",
+        "in order to avoid"
+      ]
+    },
+    {
+      "id": "suggestion",
+      "term": "suggestion",
+      "ipa": "/səˈdʒestʃən/",
+      "meaningVi": "đề xuất, gợi ý",
+      "definitionEn": "An idea or plan you offer for someone to consider.",
+      "example": "Thank you for your suggestion about the timetable.",
+      "exampleVi": "Cảm ơn đề xuất của bạn về thời khoá biểu.",
+      "collocations": [
+        "make a suggestion",
+        "a helpful suggestion",
+        "open to suggestions"
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "id": "reading-part1-workplace",
+      "skill": "reading",
+      "title": "Part 1 — Sentence comprehension",
+      "format": "Aptis Reading — Part 1 · Điền từ vào một đoạn văn ngắn",
+      "instructionsVi": "Chọn từ đúng cho mỗi chỗ trống. Ở mức B1, các phương án sai đều đúng ngữ pháp và gần nghĩa — phải dựa vào cả câu, không chỉ vào từ liền kề.",
+      "promptEn": "Read the text and choose the best word for each gap.",
+      "passage": "Hi Duc,\n\nThanks for telling me about the training course. I've decided to (1) ______ for it, though the deadline is Friday so I need to be quick.\n\nOne thing I'm not sure about is the timing. It runs from two until five on Wednesdays, which isn't very (2) ______ for me because I usually pick my son up at four.\n\nI've asked whether I can join the Saturday group instead. If they say no, I'll have to (3) ______ something with my neighbour. She's very (4) ______ , so I'm sure she'd help if she can.\n\nI'll let you know how it goes.\n\nHuong",
+      "timeLimitSec": 200,
+      "questions": [
+        {
+          "id": "b1",
+          "kind": "mcq",
+          "prompt": "Gap (1)",
+          "options": [
+            {
+              "id": "a",
+              "text": "attend"
+            },
+            {
+              "id": "b",
+              "text": "apply"
+            },
+            {
+              "id": "c",
+              "text": "join"
+            },
+            {
+              "id": "d",
+              "text": "enter"
+            }
+          ],
+          "answer": "b",
+          "explanationVi": "'apply FOR' là cụm đi với giới từ 'for' ngay sau chỗ trống. 'attend' và 'join' không dùng với 'for'."
+        },
+        {
+          "id": "b2",
+          "kind": "mcq",
+          "prompt": "Gap (2)",
+          "options": [
+            {
+              "id": "a",
+              "text": "convenient"
+            },
+            {
+              "id": "b",
+              "text": "reliable"
+            },
+            {
+              "id": "c",
+              "text": "responsible"
+            },
+            {
+              "id": "d",
+              "text": "particular"
+            }
+          ],
+          "answer": "a",
+          "explanationVi": "Giờ học trùng giờ đón con nên KHÔNG TIỆN. 'reliable' nói về độ tin cậy, không hợp với lịch trình cá nhân."
+        },
+        {
+          "id": "b3",
+          "kind": "mcq",
+          "prompt": "Gap (3)",
+          "options": [
+            {
+              "id": "a",
+              "text": "manage"
+            },
+            {
+              "id": "b",
+              "text": "avoid"
+            },
+            {
+              "id": "c",
+              "text": "arrange"
+            },
+            {
+              "id": "d",
+              "text": "encourage"
+            }
+          ],
+          "answer": "c",
+          "explanationVi": "'arrange something with someone' = thu xếp việc gì với ai. 'manage something with' không mang nghĩa đó."
+        },
+        {
+          "id": "b4",
+          "kind": "mcq",
+          "prompt": "Gap (4)",
+          "options": [
+            {
+              "id": "a",
+              "text": "convenient"
+            },
+            {
+              "id": "b",
+              "text": "particular"
+            },
+            {
+              "id": "c",
+              "text": "responsible"
+            },
+            {
+              "id": "d",
+              "text": "helpful"
+            }
+          ],
+          "answer": "d",
+          "explanationVi": "Câu sau nói 'she'd help if she can', nên tính từ mô tả người hàng xóm phải là 'helpful'. Đây là chỗ phải đọc câu tiếp theo mới chọn đúng."
+        }
+      ]
+    },
+    {
+      "id": "reading-part3-opinions-transport",
+      "skill": "reading",
+      "title": "Part 3 — Opinion matching",
+      "format": "Aptis Reading — Part 3 · Nối ý kiến với người nói",
+      "instructionsVi": "Bốn người nói về cùng chủ đề. Ở mức B1, hai người thường nêu cùng một vấn đề nhưng đưa ra giải pháp khác nhau — đọc kỹ vế sau của mỗi đoạn.",
+      "promptEn": "Four people talk about cycling in their city. Decide who says each of the following.",
+      "passage": "MAI: I cycle to work every day and I've done it for six years. The roads are honestly not safe, but I've learned which streets to avoid. My route is three kilometres longer than the direct one and I'd still choose it every time.\n\nTOM: I used to cycle and I stopped after a car pulled out in front of me last spring. Nothing happened, but it shook me. I'd start again tomorrow if there were separated lanes, and I don't think anything less will bring me back.\n\nSOFIA: I don't cycle myself — I have a knee problem — but I'm strongly in favour of the new lanes. The traffic is worse every year and something has to change. My only complaint is that the works have taken eighteen months on one road.\n\nRAFA: I cycle at weekends but never to work, because there's nowhere secure to leave a bike at my office. I've asked twice. Until that's solved, the state of the roads is not really my problem.",
+      "timeLimitSec": 240,
+      "questions": [
+        {
+          "id": "p1",
+          "kind": "mcq",
+          "prompt": "Who has stopped cycling because of a frightening experience?",
+          "options": [
+            {
+              "id": "a",
+              "text": "Mai"
+            },
+            {
+              "id": "b",
+              "text": "Sofia"
+            },
+            {
+              "id": "c",
+              "text": "Tom"
+            },
+            {
+              "id": "d",
+              "text": "Rafa"
+            }
+          ],
+          "answer": "c",
+          "explanationVi": "Tom: 'I stopped after a car pulled out in front of me last spring... it shook me'."
+        },
+        {
+          "id": "p2",
+          "kind": "mcq",
+          "prompt": "Who supports cycling improvements but does not cycle?",
+          "options": [
+            {
+              "id": "a",
+              "text": "Mai"
+            },
+            {
+              "id": "b",
+              "text": "Tom"
+            },
+            {
+              "id": "c",
+              "text": "Rafa"
+            },
+            {
+              "id": "d",
+              "text": "Sofia"
+            }
+          ],
+          "answer": "d",
+          "explanationVi": "Sofia: 'I don't cycle myself... but I'm strongly in favour of the new lanes'. Tom cũng không đạp xe hiện tại nhưng anh ta TỪNG đạp và muốn quay lại."
+        },
+        {
+          "id": "p3",
+          "kind": "mcq",
+          "prompt": "Whose main obstacle is not related to the roads?",
+          "options": [
+            {
+              "id": "a",
+              "text": "Rafa"
+            },
+            {
+              "id": "b",
+              "text": "Mai"
+            },
+            {
+              "id": "c",
+              "text": "Tom"
+            },
+            {
+              "id": "d",
+              "text": "Sofia"
+            }
+          ],
+          "answer": "a",
+          "explanationVi": "Rafa: vấn đề là không có chỗ gửi xe an toàn ở cơ quan, và anh ta nói thẳng 'the state of the roads is not really my problem'."
+        },
+        {
+          "id": "p4",
+          "kind": "mcq",
+          "prompt": "Who accepts a longer journey in exchange for safety?",
+          "options": [
+            {
+              "id": "a",
+              "text": "Tom"
+            },
+            {
+              "id": "b",
+              "text": "Mai"
+            },
+            {
+              "id": "c",
+              "text": "Sofia"
+            },
+            {
+              "id": "d",
+              "text": "Rafa"
+            }
+          ],
+          "answer": "b",
+          "explanationVi": "Mai: 'My route is three kilometres longer than the direct one and I'd still choose it every time'."
+        }
+      ]
+    },
+    {
+      "id": "reading-part4-headings-shop",
+      "skill": "reading",
+      "title": "Part 4 — Long text heading matching",
+      "format": "Aptis Reading — Part 4 · Nối tiêu đề với đoạn trong bài dài",
+      "instructionsVi": "Mỗi đoạn chọn một tiêu đề, số tiêu đề nhiều hơn số đoạn. Ở mức B1 các tiêu đề sai thường mô tả đúng MỘT CHI TIẾT trong đoạn nhưng không phải ý chính.",
+      "promptEn": "The text has four paragraphs, A–D. Choose the most suitable heading for each paragraph.",
+      "passage": "A. Trang had worked in a bakery for nine years when the owner announced he was retiring and closing the shop. She had never considered running a business, but she had watched the ordering, the accounts and the early mornings from close up for almost a decade. Within a week she had decided to try to buy it.\n\nB. Raising the money was the hardest part. Two banks refused her because she had no property to offer as security. In the end she borrowed from four family members and a former customer who had known her since she started, and agreed to repay all of them within three years.\n\nC. Her first change was not to the bread. It was to the opening hours. The shop had always closed at two in the afternoon, which suited the previous owner but meant losing every customer who finished work later. Staying open until six increased daily takings by almost a third within two months.\n\nD. Three years on, the loans are repaid and Trang employs two people. She says the thing that surprised her most was how little of the job is baking. Most of her week goes on ordering, staffing and paperwork, and she now spends only two mornings a week actually making bread.",
+      "timeLimitSec": 240,
+      "questions": [
+        {
+          "id": "q1",
+          "kind": "mcq",
+          "prompt": "Paragraph A",
+          "options": [
+            {
+              "id": "a",
+              "text": "Learning to bake bread"
+            },
+            {
+              "id": "b",
+              "text": "Why the owner retired"
+            },
+            {
+              "id": "c",
+              "text": "An unexpected decision"
+            },
+            {
+              "id": "d",
+              "text": "Problems with the accounts"
+            }
+          ],
+          "answer": "c",
+          "explanationVi": "Đoạn A: Trang chưa từng nghĩ tới việc kinh doanh nhưng chỉ trong một tuần đã quyết định mua lại tiệm."
+        },
+        {
+          "id": "q2",
+          "kind": "mcq",
+          "prompt": "Paragraph B",
+          "options": [
+            {
+              "id": "a",
+              "text": "Finding the money"
+            },
+            {
+              "id": "b",
+              "text": "Choosing a new location"
+            },
+            {
+              "id": "c",
+              "text": "Hiring the first employee"
+            },
+            {
+              "id": "d",
+              "text": "Dealing with the banks' paperwork"
+            }
+          ],
+          "answer": "a",
+          "explanationVi": "Cả đoạn B nói về việc huy động vốn: ngân hàng từ chối, phải vay người thân và khách quen."
+        },
+        {
+          "id": "q3",
+          "kind": "mcq",
+          "prompt": "Paragraph C",
+          "options": [
+            {
+              "id": "a",
+              "text": "A new recipe"
+            },
+            {
+              "id": "b",
+              "text": "The change that made the biggest difference"
+            },
+            {
+              "id": "c",
+              "text": "Why customers stopped coming"
+            },
+            {
+              "id": "d",
+              "text": "Competition from other bakeries"
+            }
+          ],
+          "answer": "b",
+          "explanationVi": "Đoạn C: đổi giờ mở cửa làm doanh thu tăng gần một phần ba. Câu đầu nói rõ thay đổi đầu tiên KHÔNG phải về bánh mì."
+        },
+        {
+          "id": "q4",
+          "kind": "mcq",
+          "prompt": "Paragraph D",
+          "options": [
+            {
+              "id": "a",
+              "text": "Plans to open a second shop"
+            },
+            {
+              "id": "b",
+              "text": "How the loans were repaid"
+            },
+            {
+              "id": "c",
+              "text": "Training new staff"
+            },
+            {
+              "id": "d",
+              "text": "What the job turned out to involve"
+            }
+          ],
+          "answer": "d",
+          "explanationVi": "Đoạn D: điều khiến Trang bất ngờ nhất là công việc có rất ít phần làm bánh, phần lớn là đặt hàng, nhân sự và giấy tờ."
+        }
+      ]
+    },
+    {
+      "id": "listening-part1-messages-b1",
+      "skill": "listening",
+      "title": "Listening — Short messages (2)",
+      "format": "Aptis Listening — Đoạn ghi âm ngắn, nghe hai lần, chọn một trong ba",
+      "instructionsVi": "Mỗi đoạn một câu hỏi, nghe hai lần. Ở mức B1 xuất hiện thông tin được sửa lại giữa chừng và số liệu gần giống nhau — lần nghe thứ hai dùng để kiểm tra chi tiết.",
+      "promptEn": "Listen to each short recording and answer the question.",
+      "accent": "uk",
+      "transcript": [
+        {
+          "speaker": "Message 1",
+          "text": "Hello, this is the surgery calling about your appointment with Dr Iqbal. It was booked for Tuesday the eighth at eleven, but Dr Iqbal is now away that week. We've moved it to Tuesday the fifteenth, same time. Please call if that doesn't suit."
+        },
+        {
+          "speaker": "Message 2",
+          "text": "Hi, it's Ben from the flat downstairs. The water's been turned off in the whole building — apparently there's a burst pipe on the ground floor. They're saying it should be back by six this evening, but I wouldn't count on it. I've filled a couple of bottles if you need any."
+        },
+        {
+          "speaker": "Message 3",
+          "text": "Good morning. This is a reminder that the community centre car park will be closed all day Saturday for resurfacing. There's a free public car park on Ellis Street, about four minutes' walk. The centre itself is open as normal."
+        },
+        {
+          "speaker": "Message 4",
+          "text": "Hi Huong, it's Duc. About the course — I checked and the Saturday group is full, but the tutor said she can add you to the waiting list. There's usually one or two drop-outs in the first fortnight, so it's worth doing. Shall I put your name down?"
+        }
+      ],
+      "timeLimitSec": 280,
+      "questions": [
+        {
+          "id": "n1",
+          "kind": "mcq",
+          "prompt": "Message 1: When is the appointment now?",
+          "options": [
+            {
+              "id": "a",
+              "text": "Tuesday the 8th"
+            },
+            {
+              "id": "b",
+              "text": "Tuesday the 15th"
+            },
+            {
+              "id": "c",
+              "text": "It has been cancelled."
+            }
+          ],
+          "answer": "b",
+          "explanationVi": "'It was booked for Tuesday the eighth... We've moved it to Tuesday the fifteenth'. Ngày 8 là lịch cũ."
+        },
+        {
+          "id": "n2",
+          "kind": "mcq",
+          "prompt": "Message 2: What does Ben say about the water?",
+          "options": [
+            {
+              "id": "a",
+              "text": "It may return at six, but he is doubtful."
+            },
+            {
+              "id": "b",
+              "text": "It will definitely return at six."
+            },
+            {
+              "id": "c",
+              "text": "It will be off for several days."
+            }
+          ],
+          "answer": "a",
+          "explanationVi": "'They're saying it should be back by six... but I wouldn't count on it' — anh ta nghi ngờ mốc thời gian đó."
+        },
+        {
+          "id": "n3",
+          "kind": "mcq",
+          "prompt": "Message 3: What is closed on Saturday?",
+          "options": [
+            {
+              "id": "a",
+              "text": "The community centre"
+            },
+            {
+              "id": "b",
+              "text": "The Ellis Street car park"
+            },
+            {
+              "id": "c",
+              "text": "The centre's car park only"
+            }
+          ],
+          "answer": "c",
+          "explanationVi": "'the car park will be closed... The centre itself is open as normal'. Bẫy là nghe thấy 'community centre' rồi kết luận cả trung tâm đóng cửa."
+        },
+        {
+          "id": "n4",
+          "kind": "mcq",
+          "prompt": "Message 4: What does Duc suggest?",
+          "options": [
+            {
+              "id": "a",
+              "text": "Putting her name on a waiting list"
+            },
+            {
+              "id": "b",
+              "text": "Joining the Wednesday group instead"
+            },
+            {
+              "id": "c",
+              "text": "Applying again next term"
+            }
+          ],
+          "answer": "a",
+          "explanationVi": "'she can add you to the waiting list... Shall I put your name down?'"
+        }
+      ]
+    },
+    {
+      "id": "listening-part2-conversations-b1",
+      "skill": "listening",
+      "title": "Listening — Short conversations",
+      "format": "Aptis Listening — Hội thoại ngắn, nghe hai lần, chọn một trong ba",
+      "instructionsVi": "Câu hỏi hỏi về kết quả cuối cùng của cuộc trao đổi. Ở mức B1, người nói thường đổi ý một hoặc hai lần — luôn nghe tới lượt nói cuối cùng.",
+      "promptEn": "Listen to each conversation and answer the question.",
+      "accent": "uk",
+      "transcript": [
+        {
+          "speaker": "Conversation 1 — Man",
+          "text": "Shall I bring a dessert on Saturday?"
+        },
+        {
+          "speaker": "Conversation 1 — Woman",
+          "text": "Linh's already making one. Bring some bread if you're passing the bakery — otherwise don't worry, we've got plenty."
+        },
+        {
+          "speaker": "Conversation 2 — Woman",
+          "text": "I'm thinking of taking the train rather than driving."
+        },
+        {
+          "speaker": "Conversation 2 — Man",
+          "text": "It's a lot more expensive on a Friday. Mind you, if you're staying the night you'd pay for parking too, so it might work out about the same."
+        },
+        {
+          "speaker": "Conversation 3 — Man",
+          "text": "Did you manage to fix the printer?"
+        },
+        {
+          "speaker": "Conversation 3 — Woman",
+          "text": "I got it printing again, but it's still jamming every ten pages or so. I've logged it with IT rather than keep fiddling with it."
+        },
+        {
+          "speaker": "Conversation 4 — Woman",
+          "text": "Do we need to book for the exhibition?"
+        },
+        {
+          "speaker": "Conversation 4 — Man",
+          "text": "Not on weekdays. Weekends you do, and it's often full by Thursday, so if we're going Saturday I'd do it now."
+        }
+      ],
+      "timeLimitSec": 280,
+      "questions": [
+        {
+          "id": "s1",
+          "kind": "mcq",
+          "prompt": "Conversation 1: What should the man bring?",
+          "options": [
+            {
+              "id": "a",
+              "text": "Bread, but only if convenient"
+            },
+            {
+              "id": "b",
+              "text": "A dessert"
+            },
+            {
+              "id": "c",
+              "text": "Nothing at all"
+            }
+          ],
+          "answer": "a",
+          "explanationVi": "'Bring some bread if you're passing the bakery — otherwise don't worry'. Có điều kiện, nên (A) đúng hơn (C)."
+        },
+        {
+          "id": "s2",
+          "kind": "mcq",
+          "prompt": "Conversation 2: What does the man conclude about the cost?",
+          "options": [
+            {
+              "id": "a",
+              "text": "The train is definitely cheaper."
+            },
+            {
+              "id": "b",
+              "text": "The two may cost about the same."
+            },
+            {
+              "id": "c",
+              "text": "Driving is definitely cheaper."
+            }
+          ],
+          "answer": "b",
+          "explanationVi": "Anh ta nói tàu đắt hơn rồi tự điều chỉnh: 'Mind you, if you're staying the night... it might work out about the same'."
+        },
+        {
+          "id": "s3",
+          "kind": "mcq",
+          "prompt": "Conversation 3: What is the situation with the printer?",
+          "options": [
+            {
+              "id": "a",
+              "text": "It is fully repaired."
+            },
+            {
+              "id": "b",
+              "text": "It cannot print at all."
+            },
+            {
+              "id": "c",
+              "text": "It works but still has a problem, and IT have been informed."
+            }
+          ],
+          "answer": "c",
+          "explanationVi": "'I got it printing again, but it's still jamming... I've logged it with IT'. Sửa được một phần, không phải xong hẳn."
+        },
+        {
+          "id": "s4",
+          "kind": "mcq",
+          "prompt": "Conversation 4: What does the man advise?",
+          "options": [
+            {
+              "id": "a",
+              "text": "Not booking, because it is never necessary"
+            },
+            {
+              "id": "b",
+              "text": "Going on a weekday instead"
+            },
+            {
+              "id": "c",
+              "text": "Booking now, because they plan to go at the weekend"
+            }
+          ],
+          "answer": "c",
+          "explanationVi": "'Weekends you do, and it's often full by Thursday, so if we're going Saturday I'd do it now'."
+        }
+      ]
+    },
+    {
+      "id": "listening-part3-longer-b1",
+      "skill": "listening",
+      "title": "Listening — Longer recording: a job interview arrangement",
+      "format": "Aptis Listening — Đoạn ghi âm dài hơn, nghe hai lần",
+      "instructionsVi": "Bốn câu hỏi cho một đoạn dài. Có hai chi tiết bị sửa lại và một yêu cầu chuẩn bị — ghi nhanh ngay lần nghe đầu.",
+      "promptEn": "Listen to the conversation and answer the four questions.",
+      "accent": "uk",
+      "transcript": [
+        {
+          "speaker": "HR",
+          "text": "Hello, is that Huong Pham? This is Claire from Brightside Recruitment."
+        },
+        {
+          "speaker": "Huong",
+          "text": "Yes, speaking."
+        },
+        {
+          "speaker": "HR",
+          "text": "Good news — they'd like to see you for an interview. We were looking at Thursday, but the manager is now away until the following week, so it would be Monday the twelfth instead. Ten o'clock."
+        },
+        {
+          "speaker": "Huong",
+          "text": "Monday the twelfth at ten. That's fine."
+        },
+        {
+          "speaker": "HR",
+          "text": "Lovely. It's at their Kingsbury office, not the city centre one. That catches people out, so do check the address I'll email you."
+        },
+        {
+          "speaker": "Huong",
+          "text": "Kingsbury. Is there anything I should prepare?"
+        },
+        {
+          "speaker": "HR",
+          "text": "Yes — they've asked all candidates to bring a short example of previous work. It doesn't need to be long, five minutes to talk through is plenty. And bring photo ID for building security."
+        },
+        {
+          "speaker": "Huong",
+          "text": "How long will the interview last?"
+        },
+        {
+          "speaker": "HR",
+          "text": "About forty-five minutes, though they sometimes run over. There may also be a short written task afterwards, but they'll tell you on the day whether that applies to your role."
+        }
+      ],
+      "timeLimitSec": 280,
+      "questions": [
+        {
+          "id": "j1",
+          "kind": "short-answer",
+          "prompt": "On which date is the interview? Give the day of the month. (A NUMBER)",
+          "answer": "12",
+          "accepted": [
+            "12th",
+            "twelfth",
+            "Monday 12"
+          ],
+          "explanationVi": "Ban đầu nhắc thứ Năm rồi đổi: 'it would be Monday the twelfth instead'."
+        },
+        {
+          "id": "j2",
+          "kind": "mcq",
+          "prompt": "Where will the interview take place?",
+          "options": [
+            {
+              "id": "a",
+              "text": "The city centre office"
+            },
+            {
+              "id": "b",
+              "text": "The Kingsbury office"
+            },
+            {
+              "id": "c",
+              "text": "Brightside Recruitment's office"
+            }
+          ],
+          "answer": "b",
+          "explanationVi": "'It's at their Kingsbury office, not the city centre one'. Câu phủ định ngay sau là chỗ phân biệt."
+        },
+        {
+          "id": "j3",
+          "kind": "mcq",
+          "prompt": "What must she bring?",
+          "options": [
+            {
+              "id": "a",
+              "text": "A written report and references"
+            },
+            {
+              "id": "b",
+              "text": "Nothing, everything is provided"
+            },
+            {
+              "id": "c",
+              "text": "An example of previous work and photo ID"
+            }
+          ],
+          "answer": "c",
+          "explanationVi": "'bring a short example of previous work... And bring photo ID for building security'."
+        },
+        {
+          "id": "j4",
+          "kind": "mcq",
+          "prompt": "What does Claire say about the written task?",
+          "options": [
+            {
+              "id": "a",
+              "text": "They will confirm on the day whether it applies."
+            },
+            {
+              "id": "b",
+              "text": "It is definitely part of the interview."
+            },
+            {
+              "id": "c",
+              "text": "It has been cancelled."
+            }
+          ],
+          "answer": "a",
+          "explanationVi": "'they'll tell you on the day whether that applies to your role' — chưa chắc chắn."
+        }
+      ]
+    },
+    {
+      "id": "writing-part3-chat-b1",
+      "skill": "writing",
+      "title": "Part 3 — Three responses in a chat",
+      "format": "Aptis Writing — Part 3 · Trả lời ba câu hỏi trong khung chat, mỗi câu 30–40 từ",
+      "instructionsVi": "Bạn vừa đăng ký một khoá học và người điều phối hỏi trong khung chat. Trả lời cả ba câu, mỗi câu 30–40 từ, giọng thân mật nhưng lịch sự.",
+      "promptEn": "You have signed up for an evening course at a community college. The course coordinator is asking you some questions in the college's online chat. Reply to all three questions. Write 30–40 words for each answer.\n\n1. Welcome to the course! Why did you choose this subject?\n2. Have you studied anything similar before? Tell us a little about it.\n3. Is there anything that would make it difficult for you to attend regularly?",
+      "timeLimitSec": 900,
+      "minWords": 90,
+      "maxWords": 130,
+      "sampleAnswer": "1. Thanks! I chose accounting because I've been helping run a small family shop for two years and I keep making the same mistakes with the records. I'd rather learn it properly than keep guessing every month.\n\n2. Not formally, no. I did a short online course last year, about six hours in total, which covered the basics of invoicing. It was useful but very general, and it didn't cover anything about tax, which is what I actually need.\n\n3. The main thing is Thursdays. My shop stays open until seven on Thursdays and I'm the only person who can close it. If a session ever moves to a Thursday, I'd probably have to miss it, so I wanted to mention it now.",
+      "rubricVi": [
+        "Trả lời đủ ba câu, mỗi câu 30–40 từ. Đây là hai tiêu chí bị trừ điểm nhiều nhất ở Part 3.",
+        "Câu 1 và 2 phải có LÝ DO hoặc chi tiết, không chỉ trả lời có/không.",
+        "Câu 3 nên nêu vấn đề CỤ THỂ kèm giải thích, thay vì 'no, nothing'. Trả lời phủ định trơn làm mất cơ hội thể hiện ngôn ngữ.",
+        "Giọng thân mật nhưng vẫn lịch sự — đây là chat với nhà trường, không phải với bạn thân.",
+        "Dùng đa dạng thì: hiện tại hoàn thành cho kinh nghiệm, quá khứ cho khoá học cũ, điều kiện cho tình huống giả định ở câu 3."
+      ]
+    },
+    {
+      "id": "writing-part4-email-b1",
+      "skill": "writing",
+      "title": "Part 4 — Two emails: informal and formal",
+      "format": "Aptis Writing — Part 4 · Thư thân mật ~50 từ và thư trang trọng 120–150 từ",
+      "instructionsVi": "Cùng một tình huống, viết hai thư hai văn phong. Tiêu chí chấm chính là bạn có ĐỔI được giọng văn không, chứ không phải viết dài hay dùng từ khó.",
+      "promptEn": "You are a member of a community college. You have received this notice:\n\n'From next term, all evening courses will be reduced from ten weeks to eight weeks. Course fees will stay the same. The college says this is necessary because of a reduction in its funding.'\n\nTASK 1: Write an email to a friend on the same course. Tell them how you feel about the change. Write about 50 words.\n\nTASK 2: Write an email to the college administration. Explain your concerns and suggest what could be done. Write 120–150 words.",
+      "timeLimitSec": 1500,
+      "minWords": 170,
+      "maxWords": 210,
+      "sampleAnswer": "TASK 1 — to a friend\n\nHi Duc,\n\nHave you seen the notice? Eight weeks instead of ten, and the same price! That's two whole sessions gone. I'm annoyed, mostly because we were already behind on the syllabus last term. Are you going to say anything? I think a few of us should.\n\nSee you Wednesday,\nHuong\n\n---\n\nTASK 2 — to the college\n\nDear Sir or Madam,\n\nI am writing about the notice regarding the reduction of evening courses from ten weeks to eight from next term.\n\nI understand that the college has faced a reduction in its funding, and I appreciate that difficult decisions have had to be made. However, I am concerned that the fee has remained unchanged while the number of sessions has fallen by twenty per cent. On my own course, we were already unable to cover the final topic within ten weeks.\n\nMay I suggest two possible alternatives? The college could either adjust the fee to reflect the shorter course, or make the missing material available as recorded sessions so that students can still complete the syllabus.\n\nI would be grateful if you could let me know whether either option is being considered.\n\nYours faithfully,\nHuong Pham",
+      "rubricVi": [
+        "Hai thư phải khác rõ về văn phong: thư bạn bè dùng câu ngắn, dấu chấm than, viết tắt; thư nhà trường dùng câu đầy đủ và cách nói giảm nhẹ.",
+        "Thư trang trọng phải ghi nhận lý do của nhà trường trước khi nêu lo ngại. Vào thẳng phàn nàn là sai đăng ký ngôn ngữ.",
+        "Phải có đề xuất cụ thể, và ở mức B1 nên có hai phương án để thể hiện dải ngôn ngữ.",
+        "Đúng độ dài từng thư. Viết thư bạn bè dài 120 từ là hiểu sai yêu cầu.",
+        "Dùng đúng cặp mở/kết: 'Hi… / See you…' và 'Dear Sir or Madam… / Yours faithfully'. Sai cặp này bị trừ điểm ngay."
+      ]
+    },
+    {
+      "id": "speaking-part1-personal-b1",
+      "skill": "speaking",
+      "title": "Part 1 — Personal information",
+      "format": "Aptis Speaking — Part 1 · Ba câu hỏi về bản thân, mỗi câu 30 giây",
+      "instructionsVi": "Ba câu hỏi ngắn, mỗi câu 30 giây. Ở mức B1 hãy thêm một chi tiết đối lập hoặc một lý do để câu trả lời có chiều sâu, thay vì chỉ liệt kê.",
+      "promptEn": "Answer each question. You have 30 seconds for each answer.\n1. Tell me about your work or studies.\n2. What is something you have learned recently?\n3. Tell me about a place you would like to visit.",
+      "timeLimitSec": 90,
+      "preparationSec": 0,
+      "sampleAnswer": "1. I help run my family's shop — we sell household goods in a small town about an hour from the city. I mainly do the ordering and the accounts now. It wasn't what I planned to do, but I've grown to like the responsibility.\n\n2. I've been learning basic accounting, partly out of necessity. Last year I realised I didn't understand our own figures well enough to spot a problem early, which felt uncomfortable. I'm doing an evening course now and it's already changed how I read our monthly numbers.\n\n3. I'd like to go to Japan, particularly outside the big cities. A friend went last autumn and showed me photographs of small towns in the mountains. What appeals to me is that it looks quiet in a way that's hard to find near where I live.",
+      "rubricVi": [
+        "Nói đủ 30 giây mỗi câu. Ở B1, cách kéo dài tự nhiên là thêm lý do rồi thêm một nhận xét cá nhân.",
+        "Dùng ít nhất một cấu trúc nâng cao hơn hiện tại đơn: hiện tại hoàn thành tiếp diễn, mệnh đề quan hệ, hoặc 'what appeals to me is…'.",
+        "Câu 2 nên nêu VÌ SAO học chứ không chỉ học gì. Động cơ là phần cho thấy khả năng diễn đạt.",
+        "Trả lời thật và cụ thể. Chi tiết nhỏ (một tiếng từ thành phố, mùa thu năm ngoái) làm bài nghe thuyết phục.",
+        "Bắt đầu ngay, không im lặng nghĩ. Nếu cần thời gian, mở bằng một cụm dẫn ngắn."
+      ]
+    },
+    {
+      "id": "speaking-part2-picture-b1",
+      "skill": "speaking",
+      "title": "Part 2 — Describe a picture and answer questions",
+      "format": "Aptis Speaking — Part 2 · Tả tranh rồi trả lời hai câu, mỗi phần 45 giây",
+      "instructionsVi": "Ba phần liên tiếp 45 giây mỗi phần. Ở mức B1, phần 3 thường hỏi ý kiến chứ không hỏi trải nghiệm — phải chuyển được từ kể sang bàn luận.",
+      "promptEn": "Look at the scene, then answer the three parts. You have 45 seconds for each.\n\nSCENE: A busy train station café in the morning. At the counter, a member of staff hands a paper cup to a customer who is looking at the departure board through the window. At a table by the window, a woman works on a laptop with a coffee beside her. Two colleagues stand near the door talking, both holding bags. A child sits with an older man, eating a pastry. The café is nearly full and there is a short queue at the counter.\n\n1. Describe what you can see in the picture.\n2. Tell me about a time you had to wait somewhere for a long time.\n3. Do you think it is a good idea to work in public places like cafés? Why?",
+      "timeLimitSec": 135,
+      "preparationSec": 60,
+      "sampleAnswer": "1. This picture shows a café inside a train station, and it looks like the morning rush. At the counter, a member of staff is handing a paper cup to a customer, who is looking at the departure board through the window at the same time. By the window, a woman is working on a laptop with a coffee next to her. Near the door, two colleagues are standing and talking, both holding bags, and there's a child sitting with an older man eating a pastry. The café is nearly full and there's a short queue.\n\n2. The longest I've waited was at an airport two years ago. My flight was delayed by seven hours because of a storm somewhere else, and they kept announcing a new departure time every hour, which was worse than being told the truth once. I read most of a book and gave up on being annoyed after the third announcement.\n\n3. I think it depends on the kind of work. For anything that needs real concentration, I find cafés too distracting — I look up every time the door opens. But for routine tasks, like answering emails, the background noise actually helps me, and it gets me out of the house. So I'd say yes, but not for everything.",
+      "rubricVi": [
+        "Phần 1 chỉ mô tả, dùng hiện tại tiếp diễn liên tục và ngôn ngữ vị trí.",
+        "Phần 2 kể trải nghiệm có mốc thời gian, nguyên nhân và cảm xúc — đủ ba yếu tố mới đầy 45 giây.",
+        "Phần 3 là câu hỏi Ý KIẾN. Trả lời theo kiểu 'it depends on…' rồi phân loại hai trường hợp là cách được điểm cao ở B1.",
+        "Mỗi phần nói đủ 45 giây, không dừng sớm ở phần 1 vì tưởng đã tả xong.",
+        "Chuyển thì đúng theo từng phần: hiện tại tiếp diễn, quá khứ đơn, hiện tại đơn."
+      ]
+    },
+    {
+      "id": "speaking-part4-abstract-b1",
+      "skill": "speaking",
+      "title": "Part 4 — Speak about an abstract topic",
+      "format": "Aptis Speaking — Part 4 · 1 phút chuẩn bị, 2 phút nói, ba câu hỏi trong một lượt",
+      "instructionsVi": "Ba câu hỏi cùng lúc, 1 phút chuẩn bị, 2 phút nói liên tục. Chia khoảng 40 giây mỗi câu. Đây là phần quyết định trình độ trong Aptis Speaking.",
+      "promptEn": "You have one minute to prepare, then two minutes to answer all three questions.\n\nLook at this photograph: a person studying at a kitchen table late at night, with a laptop and notes spread out.\n\n1. Describe a time when you studied or worked for something outside your normal hours.\n2. Why do you think many adults find it difficult to keep studying?\n3. What could employers or colleges do to make studying easier for working adults?",
+      "timeLimitSec": 120,
+      "preparationSec": 60,
+      "sampleAnswer": "1. Last year I studied for a bookkeeping certificate while working full time in our shop. I did most of it between nine and eleven at night, at the kitchen table, three or four evenings a week for about four months. It wasn't the best time of day to learn anything, but it was the only time nobody needed me.\n\n2. I think the honest answer is that studying competes with things that feel more urgent. A customer complaint or a child who can't sleep will always win against a chapter you could read tomorrow. And unlike school, nobody notices if an adult stops — there's no teacher asking where your work is, so it's very easy to quietly give up.\n\n3. Following on from that, I think the most useful thing is making the commitment visible to someone else. Employers could give a few paid hours a week for study, which is not expensive but changes how serious it feels. Colleges could record sessions so a missed evening doesn't become the reason someone drops out, because in my experience that's usually how it ends — not a decision, just missing one week and then never going back.",
+      "rubricVi": [
+        "Trả lời cả ba câu trong 2 phút, khoảng 40 giây mỗi câu. Kể quá dài ở câu 1 rồi cụt câu 3 là lỗi phổ biến nhất.",
+        "Câu 1 kể trải nghiệm cụ thể, câu 2 và 3 chuyển sang bàn luận chung. Đây là bước chuyển mà Part 4 chấm.",
+        "Nối các phần với nhau ('Following on from that…') để bài liền mạch.",
+        "Câu 3 phải đưa giải pháp CỤ THỂ và giải thích vì sao nó có tác dụng, không chỉ nói 'họ nên hỗ trợ nhiều hơn'.",
+        "Dùng hết 2 phút. Dùng 1 phút chuẩn bị để ghi ba từ khoá, mỗi câu một từ."
+      ]
+    }
+  ]
+}

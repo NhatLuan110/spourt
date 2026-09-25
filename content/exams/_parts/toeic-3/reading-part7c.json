@@ -1,0 +1,413 @@
+[
+  {
+    "id": "reading-part7-t1",
+    "skill": "reading",
+    "title": "Part 7 — Triple passage 1: tender notice, bid and evaluation note",
+    "format": "TOEIC Reading — Part 7 · Triple passage (câu 186–190)",
+    "instructionsVi": "Bộ ba văn bản. Ít nhất hai câu đòi hỏi ghép tiêu chí ở văn bản 1 với nội dung hồ sơ ở văn bản 2 để hiểu kết quả ở văn bản 3.",
+    "promptEn": "Refer to the following notice, bid summary and evaluation note, then answer the questions.",
+    "passage": "TENDER NOTICE\nKIRBY COUNCIL — Depot maintenance contract, three years\n\nEvaluation weighting:\nPrice — 50%\nTechnical capability — 30%\nSocial value — 20%\n\nMinimum requirements (pass/fail): valid public liability insurance of £5m; two references from contracts of similar size; response time of four hours or better for emergency call-outs.\n\nTenders close 30 April. Award expected mid-June.\n\n---\n\nBID SUMMARY — Okafor Facilities\n\nPrice: £412,000 over three years\nEmergency response: 3 hours\nInsurance: £10m public liability\nReferences: three, all contracts above £300,000\nSocial value: two apprenticeships per year, local supply chain commitment of 60%\n\n---\n\nEVALUATION NOTE — 2 June\n\nSix compliant tenders received; one excluded for failing the response-time requirement.\n\nOkafor Facilities scored highest on technical capability and social value, and placed third on price. The winning tender was approximately eleven per cent cheaper.\n\nPanel comment: on the weightings as published, price was decisive. Had social value carried thirty per cent rather than twenty, the outcome would have reversed. The panel has recommended that weightings be reviewed before the next procurement, but that does not affect this award.",
+    "timeLimitSec": 375,
+    "questions": [
+      {
+        "id": "p7-186",
+        "kind": "mcq",
+        "prompt": "186. Did Okafor Facilities meet the minimum requirements?",
+        "options": [
+          {
+            "id": "a",
+            "text": "No — insurance was insufficient."
+          },
+          {
+            "id": "b",
+            "text": "No — response time was too slow."
+          },
+          {
+            "id": "c",
+            "text": "Yes, all three"
+          },
+          {
+            "id": "d",
+            "text": "No — too few references."
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "Bảo hiểm £10m (yêu cầu £5m), phản hồi 3 giờ (yêu cầu 4 giờ hoặc nhanh hơn), ba thư giới thiệu (yêu cầu hai). Phải đối chiếu từng dòng."
+      },
+      {
+        "id": "p7-187",
+        "kind": "mcq",
+        "prompt": "187. Why was one tender excluded?",
+        "options": [
+          {
+            "id": "a",
+            "text": "It failed the response-time requirement."
+          },
+          {
+            "id": "b",
+            "text": "Its price was too high."
+          },
+          {
+            "id": "c",
+            "text": "It arrived after the deadline."
+          },
+          {
+            "id": "d",
+            "text": "It offered no apprenticeships."
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'one excluded for failing the response-time requirement'. Đây là tiêu chí pass/fail, không phải tiêu chí chấm điểm."
+      },
+      {
+        "id": "p7-188",
+        "kind": "mcq",
+        "prompt": "188. On which criteria did Okafor score highest?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Price and technical capability"
+          },
+          {
+            "id": "b",
+            "text": "Technical capability and social value"
+          },
+          {
+            "id": "c",
+            "text": "Price only"
+          },
+          {
+            "id": "d",
+            "text": "Social value only"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'scored highest on technical capability and social value, and placed third on price'."
+      },
+      {
+        "id": "p7-189",
+        "kind": "mcq",
+        "prompt": "189. What would have changed the outcome?",
+        "options": [
+          {
+            "id": "a",
+            "text": "A lower price from Okafor only"
+          },
+          {
+            "id": "b",
+            "text": "Excluding a further tender"
+          },
+          {
+            "id": "c",
+            "text": "Extending the contract to five years"
+          },
+          {
+            "id": "d",
+            "text": "Social value weighted at 30% instead of 20%"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'Had social value carried thirty per cent rather than twenty, the outcome would have reversed'."
+      },
+      {
+        "id": "p7-190",
+        "kind": "mcq",
+        "prompt": "190. What does the panel recommend?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Reviewing the weightings before the next procurement"
+          },
+          {
+            "id": "b",
+            "text": "Re-running this procurement"
+          },
+          {
+            "id": "c",
+            "text": "Awarding to Okafor after all"
+          },
+          {
+            "id": "d",
+            "text": "Removing the pass/fail requirements"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'recommended that weightings be reviewed before the next procurement, but that does not affect this award'."
+      }
+    ]
+  },
+  {
+    "id": "reading-part7-t2",
+    "skill": "reading",
+    "title": "Part 7 — Triple passage 2: policy, incident log and email",
+    "format": "TOEIC Reading — Part 7 · Triple passage (câu 191–195)",
+    "instructionsVi": "Bộ ba văn bản. Câu hỏi buộc áp dụng quy trình ở văn bản 1 vào nhật ký sự cố ở văn bản 2 để đánh giá phản hồi ở văn bản 3.",
+    "promptEn": "Refer to the following procedure, incident log and email, then answer the questions.",
+    "passage": "PROCEDURE — Data breach response (extract)\n\n1. Disconnect the affected system from the network. Do not power it down.\n2. Notify the Data Protection Officer within one hour of discovery.\n3. Preserve all logs; delete nothing.\n4. Do not contact affected individuals directly.\n5. The regulator must be notified within 72 hours of discovery where there is a risk to individuals.\n\n---\n\nINCIDENT LOG — Ref BR-114\n\n09:12 Tue — Unusual outbound traffic noticed on server FS-2 by night supervisor.\n09:20 Tue — Server disconnected from network. Left powered on.\n09:55 Tue — DPO notified.\n11:30 Tue — Supervisor emailed three customers whose files appeared in the traffic, advising them to change passwords.\n14:00 Wed — Forensic review begins.\n16:20 Thu — Review concludes: 240 customer records exposed.\n\n---\n\nEMAIL\nFrom: dpo@meridianhouse.example\nTo: site-managers@meridianhouse.example\nDate: Friday\nSubject: BR-114 — lessons\n\nColleagues,\n\nThe technical handling of BR-114 was good. Containment was fast, the server was left powered on, and I was notified inside the hour.\n\nOne action was outside procedure and I want to be clear about why it matters. Contacting the three customers directly was well intentioned, but notification is made centrally for a reason: an informal warning that later conflicts with the formal notice damages our credibility and can be treated by the regulator as evidence of a disorganised response.\n\nWe notified the regulator on Wednesday afternoon, within the 72-hour window measured from Tuesday morning. Note that the clock runs from discovery, not from the conclusion of the review — had we waited for Thursday's findings, we would have been late.\n\nIna Duarte, DPO",
+    "timeLimitSec": 375,
+    "questions": [
+      {
+        "id": "p7-191",
+        "kind": "mcq",
+        "prompt": "191. Which procedural step was breached?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Step 4 — customers were contacted directly."
+          },
+          {
+            "id": "b",
+            "text": "Step 1 — the server was powered down."
+          },
+          {
+            "id": "c",
+            "text": "Step 2 — the DPO was notified late."
+          },
+          {
+            "id": "d",
+            "text": "Step 5 — the regulator was notified late."
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "11:30 thứ Ba: giám sát viên tự gửi email cho ba khách hàng, trái với bước 4. Ba bước kia đều được thực hiện đúng."
+      },
+      {
+        "id": "p7-192",
+        "kind": "mcq",
+        "prompt": "192. Was the DPO notified within the required time?",
+        "options": [
+          {
+            "id": "a",
+            "text": "No — it took over two hours."
+          },
+          {
+            "id": "b",
+            "text": "Yes — but only after the review concluded."
+          },
+          {
+            "id": "c",
+            "text": "Yes — 43 minutes after discovery"
+          },
+          {
+            "id": "d",
+            "text": "The log does not say."
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "Phát hiện 09:12, báo DPO 09:55 — 43 phút, trong hạn một giờ."
+      },
+      {
+        "id": "p7-193",
+        "kind": "mcq",
+        "prompt": "193. Why does the DPO say the direct contact matters?",
+        "options": [
+          {
+            "id": "a",
+            "text": "It revealed confidential information."
+          },
+          {
+            "id": "b",
+            "text": "It delayed the forensic review."
+          },
+          {
+            "id": "c",
+            "text": "It breached the 72-hour rule."
+          },
+          {
+            "id": "d",
+            "text": "An informal warning may conflict with the formal notice."
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'an informal warning that later conflicts with the formal notice damages our credibility'."
+      },
+      {
+        "id": "p7-194",
+        "kind": "mcq",
+        "prompt": "194. Why would waiting for Thursday's findings have been a problem?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The forensic team would have been unavailable."
+          },
+          {
+            "id": "b",
+            "text": "The 72-hour clock runs from discovery, not from the review."
+          },
+          {
+            "id": "c",
+            "text": "The server would have been powered down."
+          },
+          {
+            "id": "d",
+            "text": "The customers would have complained."
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'the clock runs from discovery, not from the conclusion of the review — had we waited for Thursday's findings, we would have been late'."
+      },
+      {
+        "id": "p7-195",
+        "kind": "mcq",
+        "prompt": "195. What is the DPO's overall assessment?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The response was entirely inadequate."
+          },
+          {
+            "id": "b",
+            "text": "The procedure itself needs rewriting."
+          },
+          {
+            "id": "c",
+            "text": "The technical handling was good but one action was outside procedure."
+          },
+          {
+            "id": "d",
+            "text": "No breach actually occurred."
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'The technical handling of BR-114 was good… One action was outside procedure'."
+      }
+    ]
+  },
+  {
+    "id": "reading-part7-t3",
+    "skill": "reading",
+    "title": "Part 7 — Triple passage 3: price list, order and credit note",
+    "format": "TOEIC Reading — Part 7 · Triple passage (câu 196–200)",
+    "instructionsVi": "Bộ ba văn bản cuối. Có hai phép tính nhiều bước và một câu hỏi về thứ tự áp dụng chiết khấu.",
+    "promptEn": "Refer to the following price list, order and credit note, then answer the questions.",
+    "passage": "PRICE LIST — Northline Components (trade)\n\nBracket A — £2.40 each\nBracket B — £3.10 each\nBracket C — £4.75 each\n\nVolume discount: 5% on orders of more than 600 bracket units in total.\nLoyalty discount: a further 3% for accounts open more than five years, applied after the volume discount.\nCarriage: standard £0; express £85. Discounts do not apply to carriage.\n\n---\n\nORDER PO-3310 — Delta Manufacturing (account opened 2016)\n\nBracket A — 500 units\nBracket B — 200 units\nCarriage — standard\nRequested delivery: 20 May\n\n---\n\nCREDIT NOTE CN-441 — issued 26 May\n\nAgainst invoice 9014 for PO-3310.\n\nReason: 40 units of Bracket B arrived damaged and were returned on 24 May. Credit is calculated at the unit price actually charged, that is, after both discounts.\n\nCredit: £114.28\nNote: carriage was not charged on this order, so no adjustment to carriage is required.",
+    "timeLimitSec": 375,
+    "questions": [
+      {
+        "id": "p7-196",
+        "kind": "mcq",
+        "prompt": "196. Does the order qualify for the volume discount?",
+        "options": [
+          {
+            "id": "a",
+            "text": "No — only 500 units of one type"
+          },
+          {
+            "id": "b",
+            "text": "Yes — 700 units in total"
+          },
+          {
+            "id": "c",
+            "text": "No — the threshold is 800 units"
+          },
+          {
+            "id": "d",
+            "text": "Only if express carriage is used"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "500 + 200 = 700, vượt ngưỡng 600. Ngưỡng tính trên TỔNG số đơn vị bracket, không tính riêng từng loại."
+      },
+      {
+        "id": "p7-197",
+        "kind": "mcq",
+        "prompt": "197. Does the account qualify for the loyalty discount?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Yes — the account was opened in 2016."
+          },
+          {
+            "id": "b",
+            "text": "No — it must be open ten years."
+          },
+          {
+            "id": "c",
+            "text": "No — it applies only to Bracket C."
+          },
+          {
+            "id": "d",
+            "text": "Only on express orders"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "Tài khoản mở năm 2016, hơn năm năm tính tới thời điểm đơn hàng."
+      },
+      {
+        "id": "p7-198",
+        "kind": "mcq",
+        "prompt": "198. In what order are the discounts applied?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Loyalty first, then volume"
+          },
+          {
+            "id": "b",
+            "text": "Both applied to the original price and added together"
+          },
+          {
+            "id": "c",
+            "text": "Only the larger of the two applies."
+          },
+          {
+            "id": "d",
+            "text": "Volume first, then loyalty"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'a further 3%… applied after the volume discount'. Thứ tự này thay đổi kết quả cuối cùng."
+      },
+      {
+        "id": "p7-199",
+        "kind": "mcq",
+        "prompt": "199. Approximately what unit price was used for the credit on Bracket B?",
+        "options": [
+          {
+            "id": "a",
+            "text": "£3.10"
+          },
+          {
+            "id": "b",
+            "text": "£2.95"
+          },
+          {
+            "id": "c",
+            "text": "£2.86"
+          },
+          {
+            "id": "d",
+            "text": "£3.01"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "£114,28 ÷ 40 = £2,857 → làm tròn £2,86. Kiểm chứng: £3,10 × 0,95 (giảm số lượng, vì 500 + 200 = 700 > 600 đơn vị) × 0,97 (giảm khách quen) = £2,857. Các phương án nhiễu là giá chưa giảm (£3,10), chỉ giảm 5% (£2,95) và chỉ giảm 3% (£3,01)."
+      },
+      {
+        "id": "p7-200",
+        "kind": "mcq",
+        "prompt": "200. Why is no carriage adjustment required?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Carriage is refunded automatically."
+          },
+          {
+            "id": "b",
+            "text": "Standard carriage was used and cost nothing."
+          },
+          {
+            "id": "c",
+            "text": "Carriage is never refundable."
+          },
+          {
+            "id": "d",
+            "text": "The goods were collected by the customer."
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "Đơn dùng carriage tiêu chuẩn (£0), nên không có gì để điều chỉnh — credit note nói rõ điều này."
+      }
+    ]
+  }
+]

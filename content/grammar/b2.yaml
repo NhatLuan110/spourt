@@ -1,0 +1,578 @@
+# Ngữ pháp B2 — hai cấu trúc phân biệt người dùng thành thạo.
+cefr: B2
+lessons:
+  - slug: reported-speech
+    title: Reported Speech
+    titleVi: Câu tường thuật
+    summary: Thuật lại lời người khác — lùi thì, đổi đại từ, đổi trạng ngữ.
+    estimatedMinutes: 18
+    xpReward: 35
+    order: 1
+    prerequisites: [past-simple, present-perfect]
+    sections:
+      - kind: theory
+        title: Ba thứ phải đổi cùng lúc
+        body: |
+          Khi thuật lại lời nói với động từ tường thuật ở **quá khứ** (`said`, `told`),
+          ba thứ đổi cùng lúc: **thì**, **đại từ**, **trạng ngữ**.
+
+          **1. Lùi thì một bậc**
+
+          | Lời trực tiếp | Tường thuật |
+          |---|---|
+          | hiện tại đơn | quá khứ đơn |
+          | hiện tại tiếp diễn | quá khứ tiếp diễn |
+          | quá khứ đơn / hiện tại hoàn thành | quá khứ hoàn thành |
+          | will | would |
+          | can | could |
+          | must | had to |
+
+          **2. Đổi đại từ theo người kể**
+          "**I** lost **my** key," she said → She said **she** had lost **her** key.
+
+          **3. Đổi trạng ngữ chỉ thời gian và nơi chốn**
+
+          | | |
+          |---|---|
+          | now → then | today → that day |
+          | yesterday → the day before | tomorrow → the next day |
+          | here → there | this → that |
+          | last week → the week before | ago → before |
+      - kind: examples
+        title: Ví dụ
+        body: |
+          - "I **am** tired," he said. → He said he **was** tired.
+            *"Tôi mệt," anh ấy nói. → Anh ấy nói anh ấy mệt.*
+          - "We **will call** you **tomorrow**." → They said they **would call** me
+            **the next day**.
+          - "**Did** you **finish** the report?" she asked. → She asked **whether I had
+            finished** the report.
+          - "**Don't open** the window." → He told me **not to open** the window.
+      - kind: tips
+        title: Câu hỏi và câu mệnh lệnh
+        body: |
+          **Câu hỏi tường thuật trở về trật tự câu kể** — không đảo, không `do/does/did`:
+
+          - "Where **do you live**?" → She asked me where **I lived**.
+            *(không phải where did I live)*
+          - Câu hỏi Yes/No thêm **if** hoặc **whether**:
+            "Are you ready?" → He asked **if I was ready**.
+
+          **Câu mệnh lệnh** dùng `tell somebody (not) to do`:
+
+          - "Wait here." → She told me **to wait** there.
+          - "Don't be late." → She told me **not to be** late.
+
+          **Không lùi thì** khi điều được nói vẫn còn đúng, hoặc là sự thật hiển nhiên:
+          He said water **boils** at 100 degrees.
+      - kind: common-mistakes
+        title: Lỗi người Việt hay mắc
+        body: |
+          | Sai | Đúng | Vì sao |
+          |---|---|---|
+          | She asked me where did I live. | She asked me where **I lived**. | Câu hỏi tường thuật không đảo |
+          | He said me that... | He **told** me that... / He **said** that... | say không có tân ngữ người trực tiếp |
+          | She said she will come. | She said she **would** come. | will lùi thành would |
+          | He told to me. | He told **me**. | Sau tell không có to trước tân ngữ người |
+          | She asked if did I want tea. | She asked **if I wanted** tea. | Không dùng did trong câu tường thuật |
+    exercises:
+      - type: MCQ
+        prompt: "\"I am waiting for the bus,\" she said. → She said she ____ for the bus."
+        promptVi: Chọn dạng đúng.
+        options: [was waiting, is waiting, has been waiting, would wait]
+        answer: was waiting
+        explanationVi: "Hiện tại tiếp diễn lùi một bậc thành quá khứ tiếp diễn: was waiting."
+      - type: MCQ
+        prompt: "\"Where do you work?\" he asked. → He asked me where ____."
+        promptVi: Chọn dạng đúng.
+        options: [I worked, did I work, do I work, I did work]
+        answer: I worked
+        explanationVi: "Câu hỏi tường thuật trở về trật tự câu kể và bỏ did: where I worked."
+      - type: GAP_FILL
+        prompt: "\"I will help you tomorrow.\" → He said he ____ ____ me the next day."
+        promptVi: "Điền hai từ."
+        answer: would help
+        accept: ["would help"]
+        explanationVi: "will lùi thành would, động từ giữ nguyên thể: would help."
+      - type: GAP_FILL
+        prompt: "\"Don't touch the screen,\" she said. → She told me ____ ____ ____ the screen."
+        promptVi: "Điền ba từ."
+        answer: not to touch
+        accept: ["not to touch"]
+        explanationVi: "Mệnh lệnh phủ định tường thuật bằng tell somebody not to do."
+      - type: TRUE_FALSE
+        prompt: Câu sau đúng ngữ pháp hay sai?
+        statement: He said me that he was busy.
+        answer: false
+        explanationVi: "Sai. say không đi thẳng với tân ngữ người. Đúng là He told me
+          that he was busy, hoặc He said that he was busy."
+      - type: REORDER
+        prompt: Sắp xếp thành một câu tường thuật đúng.
+        chunks: ["She asked", "whether", "I had finished", "the report"]
+        explanationVi: "Câu hỏi Yes/No tường thuật dùng whether hoặc if, rồi đến mệnh
+          đề theo trật tự câu kể."
+      - type: SHORT_ANSWER
+        prompt: "Tường thuật lại: \"I saw him yesterday,\" she said."
+        accept: ["She said she had seen him the day before",
+                 "She said that she had seen him the day before"]
+        explanationVi: "Quá khứ đơn lùi thành quá khứ hoàn thành, và yesterday đổi
+          thành the day before."
+      - type: MCQ
+        prompt: '"I can repair it," Ben said. → Ben said he ____ repair it.'
+        promptVi: Tường thuật và lùi thì theo quy tắc của bài.
+        options:
+          - could
+          - can
+          - will
+          - has
+        answer: could
+        explanationVi: Khi lùi thì theo yêu cầu, can đổi thành could; đại từ I đổi thành he.
+      - type: MCQ
+        prompt: '"We have finished," the workers said. → The workers said they ____.'
+        promptVi: Tường thuật và lùi thì theo quy tắc của bài.
+        options:
+          - had finished
+          - finish
+          - will finish
+          - have finished
+        answer: had finished
+        explanationVi: Hiện tại hoàn thành have finished lùi thành quá khứ hoàn thành had finished.
+      - type: MCQ
+        prompt: '"Are you hungry?" Mia asked me. → Mia asked me ____ hungry.'
+        promptVi: Tường thuật và lùi thì.
+        options:
+          - if was I
+          - am I
+          - if I was
+          - was I
+        answer: if I was
+        explanationVi: Câu hỏi có/không được dẫn bằng if hoặc whether. Trật tự phía sau là chủ ngữ I rồi động từ was.
+      - type: MCQ
+        prompt: '"Please sit down," the teacher said to us. → The teacher asked us ____.'
+        promptVi: Chọn phương án đúng.
+        options:
+          - that sit down
+          - sitting down
+          - to sit down
+          - sit down
+        answer: to sit down
+        explanationVi: Lời yêu cầu lịch sự được tường thuật bằng ask + người nghe + to V.
+      - type: MCQ
+        prompt: '"Do not leave your bags here," the guard told us. → The guard told us ____ our bags there.'
+        promptVi: Chọn phương án đúng.
+        options:
+          - do not leave
+          - not leave
+          - not to leave
+          - to not leaving
+        answer: not to leave
+        explanationVi: Mệnh lệnh phủ định dùng tell somebody not to do something. Here đổi thành there khi
+          thuật lại ở nơi khác.
+      - type: MCQ
+        prompt: '"I bought this yesterday," she said. → She said she had bought that ____.'
+        promptVi: Thuật lại vào một ngày sau đó, dùng trạng ngữ tương ứng với yesterday.
+        options:
+          - the day before
+          - the next day
+          - today
+          - tomorrow
+        answer: the day before
+        explanationVi: Khi thuật lại vào ngày khác, yesterday đổi thành the day before; bought được lùi
+          thành had bought.
+      - type: MCQ
+        prompt: '"I will send the file," Omar told me. → Omar told me he ____ the file.'
+        promptVi: Tường thuật và lùi thì theo quy tắc của bài.
+        options:
+          - sent
+          - had sent
+          - will send
+          - would send
+        answer: would send
+        explanationVi: Will đổi thành would khi lùi thì. Told giữ tân ngữ me, còn I trong lời gốc trở thành he.
+      - type: MCQ
+        prompt: Which sentence correctly reports a question?
+        promptVi: Chọn phương án đúng.
+        options:
+          - She asked me what do I need.
+          - She asked me what did I need.
+          - She asked me what I needed.
+          - She asked me what needed I.
+        answer: She asked me what I needed.
+        explanationVi: Sau từ hỏi what, câu tường thuật dùng trật tự câu kể I needed. Không dùng do hoặc did.
+      - type: MCQ
+        prompt: He ____ me that the shop was closed.
+        promptVi: Chọn phương án đúng.
+        options:
+          - said
+          - told
+          - spoke
+          - talked
+        answer: told
+        explanationVi: "Tell đi trực tiếp với người nghe: told me. Say cần said to me nếu nêu người nghe."
+      - type: MCQ
+        prompt: '"I am cooking," Dad said. → Dad said he ____.'
+        promptVi: Tường thuật và lùi thì theo quy tắc của bài.
+        options:
+          - cooks
+          - was cooking
+          - had cooked
+          - is cooking
+        answer: was cooking
+        explanationVi: Hiện tại tiếp diễn am cooking lùi thành quá khứ tiếp diễn was cooking.
+      - type: GAP_FILL
+        prompt: '"I lost my passport," he said. → He said he ____ his passport.'
+        promptVi: Điền lose ở thì quá khứ hoàn thành.
+        answer: had lost
+        accept:
+          - had lost
+        explanationVi: Quá khứ đơn lost lùi thành quá khứ hoàn thành had lost; my đổi thành his.
+      - type: GAP_FILL
+        prompt: '"Where is the station?" she asked me. → She asked me where the station ____.'
+        promptVi: Lùi thì động từ be một bậc.
+        answer: was
+        accept:
+          - was
+        explanationVi: Câu hỏi Wh- tường thuật đưa chủ ngữ the station trước động từ. Is lùi thành was.
+      - type: GAP_FILL
+        prompt: '"Wait outside," the nurse told him. → The nurse told him ____ outside.'
+        promptVi: Điền wait ở dạng dùng sau tell somebody.
+        answer: to wait
+        accept:
+          - to wait
+        explanationVi: Mệnh lệnh khẳng định dùng tell + người nghe + to V. Không giữ dạng câu mệnh lệnh trực tiếp.
+      - type: GAP_FILL
+        prompt: '"I must leave," she said. → She said she ____ leave.'
+        promptVi: Dùng have to ở quá khứ để tường thuật nghĩa vụ.
+        answer: had to
+        accept:
+          - had to
+        explanationVi: Must mang nghĩa bắt buộc được đổi thành had to khi thuật lại nghĩa vụ trong quá khứ.
+      - type: GAP_FILL
+        prompt: '"We are leaving tomorrow," they said. → They said they were leaving ____.'
+        promptVi: Đổi trạng ngữ tomorrow khi thuật lại vào một ngày sau đó.
+        answer: the next day
+        accept:
+          - the next day
+          - the following day
+        explanationVi: Tomorrow đổi thành the next day hoặc the following day khi thuật lại vào ngày khác.
+      - type: GAP_FILL
+        prompt: '"Have you paid?" he asked me. → He asked me ____ I had paid.'
+        promptVi: Điền từ nối thích hợp cho câu hỏi có/không.
+        answer: whether
+        accept:
+          - whether
+          - if
+        explanationVi: Câu hỏi có/không được mở bằng whether hoặc if, sau đó dùng trật tự câu kể.
+      - type: TRUE_FALSE
+        prompt: Câu sau có đúng ngữ pháp không?
+        statement: She told me to bring my notebook.
+        answer: true
+        explanationVi: Đúng. Told có tân ngữ me và theo sau là to bring để thuật lại lời dặn.
+        promptVi: Câu sau có đúng ngữ pháp không?
+      - type: TRUE_FALSE
+        prompt: Câu sau có đúng ngữ pháp không?
+        statement: He asked me where was the library.
+        answer: false
+        explanationVi: "Sai. Câu hỏi gián tiếp cần trật tự the library was: He asked me where the library was."
+        promptVi: Câu sau có đúng ngữ pháp không?
+      - type: REORDER
+        prompt: Sắp xếp thành câu bắt đầu bằng "The coach" và kết thúc bằng "give up.".
+        chunks:
+          - The coach
+          - told us
+          - not to
+          - give up.
+        explanationVi: Dặn ai không làm gì dùng tell somebody not to + động từ nguyên thể.
+      - type: REORDER
+        prompt: Sắp xếp thành câu bắt đầu bằng "She asked" và kết thúc bằng "a table.".
+        chunks:
+          - She asked
+          - whether
+          - we had booked
+          - a table.
+        explanationVi: Whether dẫn câu hỏi có/không. Sau đó là trật tự câu kể we had booked.
+
+  - slug: third-conditional-and-wish
+    title: Third Conditional and Wish
+    titleVi: Câu điều kiện loại 3 và cấu trúc wish
+    summary: Nói về điều đã không xảy ra, và điều mình tiếc.
+    estimatedMinutes: 16
+    xpReward: 35
+    order: 2
+    prerequisites: [conditionals-1-2, present-perfect]
+    sections:
+      - kind: theory
+        title: Tiếc về quá khứ
+        body: |
+          **Điều kiện loại 3 — trái với quá khứ, không sửa được nữa**
+
+          `If + had + V3, ... would have + V3`
+
+          - **If** I **had studied** harder, I **would have passed** the exam.
+            *Nếu tôi đã học chăm hơn thì tôi đã đỗ.* (thực tế: không học chăm, và trượt)
+
+          Thay `would have` bằng `could have` (đã có thể) hoặc `might have` (có lẽ đã)
+          để nói nhẹ hơn.
+
+          **Cấu trúc wish — ước, và lùi một bậc so với sự thật**
+
+          | Ước về | Cấu trúc | Ví dụ |
+          |---|---|---|
+          | hiện tại | wish + quá khứ đơn | I wish I **had** more time. |
+          | quá khứ | wish + quá khứ hoàn thành | I wish I **had known** earlier. |
+          | tương lai, phàn nàn | wish + would | I wish he **would stop** talking. |
+
+          `If only` dùng y hệt `wish` nhưng mạnh hơn:
+          **If only** I had listened to you.
+      - kind: examples
+        title: Ví dụ
+        body: |
+          - If we **had left** earlier, we **wouldn't have missed** the flight.
+            *Nếu chúng ta đi sớm hơn thì đã không lỡ chuyến bay.*
+          - I wish I **spoke** Japanese. *(hiện tại: tôi không biết tiếng Nhật)*
+            *Ước gì tôi biết tiếng Nhật.*
+          - She wishes she **had accepted** the offer. *(quá khứ: cô ấy đã từ chối)*
+            *Cô ấy ước gì đã nhận lời đề nghị đó.*
+          - I wish it **would stop** raining. *(phàn nàn về việc đang diễn ra)*
+      - kind: tips
+        title: Câu điều kiện hỗn hợp
+        body: |
+          Khi nguyên nhân ở **quá khứ** nhưng hậu quả ở **hiện tại**, trộn loại 3 với
+          loại 2:
+
+          - If I **had taken** that job *(quá khứ)*, I **would be** in Singapore now
+            *(hiện tại)*.
+            *Nếu hồi đó tôi nhận công việc ấy thì bây giờ tôi đang ở Singapore.*
+
+          Rút gọn bằng đảo ngữ, dùng trong văn viết trang trọng — bỏ `if`, đảo `had`
+          lên đầu:
+          **Had I known**, I would have called you.
+      - kind: common-mistakes
+        title: Lỗi người Việt hay mắc
+        body: |
+          | Sai | Đúng | Vì sao |
+          |---|---|---|
+          | If I would have known... | If I **had** known... | Mệnh đề if không dùng would |
+          | I wish I have more money. | I wish I **had** more money. | wish lùi một bậc: hiện tại → quá khứ |
+          | I wish I would be taller. | I wish I **were** taller. | Ước về bản thân ở hiện tại không dùng would |
+          | If she had come, she will meet him. | ... she **would have** met him. | Loại 3 dùng would have + V3 |
+          | I wish I didn't say that. | I wish I **hadn't said** that. | Tiếc về quá khứ dùng quá khứ hoàn thành |
+    exercises:
+      - type: MCQ
+        prompt: "If they ____ the map, they wouldn't have got lost."
+        promptVi: Chọn dạng đúng.
+        options: [had brought, brought, would bring, have brought]
+        answer: had brought
+        explanationVi: "Điều kiện loại 3: mệnh đề if dùng had + V3."
+      - type: MCQ
+        prompt: "I wish I ____ how to drive."
+        promptVi: Chọn dạng đúng.
+        options: [knew, know, would know, had known]
+        answer: knew
+        explanationVi: "Ước về hiện tại (bây giờ tôi không biết lái xe) nên lùi một bậc
+          thành quá khứ đơn: knew."
+      - type: GAP_FILL
+        prompt: "If she had seen the message, she ____ ____ ____ back."
+        promptVi: "Điền ba từ."
+        answer: would have called
+        accept: ["would have called"]
+        explanationVi: "Mệnh đề chính của loại 3 là would have + V3."
+      - type: GAP_FILL
+        prompt: "I wish I ____ ____ (not / eat) so much last night."
+        promptVi: "Điền hai từ."
+        answer: had not eaten
+        accept: ["had not eaten", "hadn't eaten"]
+        explanationVi: "Tiếc về một việc đã xảy ra trong quá khứ nên dùng
+          wish + quá khứ hoàn thành."
+      - type: TRUE_FALSE
+        prompt: Câu sau đúng ngữ pháp hay sai?
+        statement: If I would have studied medicine, I would be a doctor now.
+        answer: false
+        explanationVi: "Sai. Mệnh đề if không dùng would: If I had studied medicine,
+          I would be a doctor now — đây là câu điều kiện hỗn hợp."
+      - type: REORDER
+        prompt: Sắp xếp thành một câu đúng.
+        chunks: ["Had I known", "about the traffic", "I would have taken", "the train"]
+        explanationVi: "Đảo ngữ trang trọng: bỏ if và đưa had lên đầu câu."
+      - type: SHORT_ANSWER
+        prompt: "Viết lại bằng wish: \"I didn't book the tickets early, and I regret it.\""
+        accept: ["I wish I had booked the tickets early",
+                 "I wish I had booked the tickets earlier"]
+        explanationVi: "Tiếc về quá khứ: wish + had + V3 — I wish I had booked the
+          tickets early."
+      - type: MCQ
+        prompt: If the alarm had worked, we ____ on time yesterday.
+        promptVi: Chọn dạng kết quả của câu điều kiện loại 3.
+        options:
+          - wake up
+          - will wake up
+          - would have woken up
+          - would wake up
+        answer: would have woken up
+        explanationVi: Điều kiện trái quá khứ dùng had + V3 trong mệnh đề if và would have + V3 trong mệnh đề kết quả.
+      - type: MCQ
+        prompt: If I ____ the receipt, I could have returned the shoes.
+        promptVi: Chọn phương án đúng.
+        options:
+          - had kept
+          - would keep
+          - have kept
+          - keep
+        answer: had kept
+        explanationVi: Kết quả could have returned chỉ khả năng đã không xảy ra. Điều kiện trong quá khứ dùng had kept.
+      - type: MCQ
+        prompt: I cannot speak French. I wish I ____ French.
+        promptVi: Chọn phương án đúng.
+        options:
+          - spoke
+          - will speak
+          - speak
+          - had spoken
+        answer: spoke
+        explanationVi: Ước trái hiện tại dùng quá khứ đơn sau wish. Spoke ở đây không kể việc đã xảy ra.
+      - type: MCQ
+        prompt: I sent the email to the wrong person yesterday. I wish I ____ more careful.
+        promptVi: Chọn phương án đúng.
+        options:
+          - would be
+          - am
+          - had been
+          - will be
+        answer: had been
+        explanationVi: "Tiếc về việc gửi nhầm thư hôm qua dùng wish + quá khứ hoàn thành: had been."
+      - type: MCQ
+        prompt: I wish the neighbours ____ making so much noise.
+        promptVi: Chọn cấu trúc wish + would để phàn nàn về hành vi của người khác.
+        options:
+          - will stop
+          - stop
+          - would stop
+          - have stopped
+        answer: would stop
+        explanationVi: Wish + would diễn tả mong muốn người khác thay đổi hành vi đang gây khó chịu.
+      - type: MCQ
+        prompt: ____ I checked the address, I would not have gone to the wrong building.
+        promptVi: Chọn phương án đúng.
+        options:
+          - Would
+          - Did
+          - Have
+          - Had
+        answer: Had
+        explanationVi: "Câu điều kiện loại 3 có thể bỏ if và đảo had lên trước chủ ngữ: Had I checked."
+      - type: MCQ
+        prompt: If she had accepted the scholarship, she ____ abroad now.
+        promptVi: Chọn mệnh đề kết quả ở hiện tại trong câu điều kiện hỗn hợp.
+        options:
+          - will be
+          - is
+          - would be
+          - would have been
+        answer: would be
+        explanationVi: Nguyên nhân thuộc quá khứ nhưng kết quả ở hiện tại, thể hiện qua now. Câu điều kiện
+          hỗn hợp dùng would be.
+      - type: MCQ
+        prompt: We missed the final goal. If only we ____ early!
+        promptVi: Chọn phương án đúng.
+        options:
+          - would not leave
+          - do not leave
+          - will not leave
+          - had not left
+        answer: had not left
+        explanationVi: If only + quá khứ hoàn thành diễn tả tiếc nuối về việc rời đi sớm đã xảy ra.
+      - type: MCQ
+        prompt: I wish I ____ taller; I cannot reach that cupboard.
+        promptVi: Chọn phương án đúng.
+        options:
+          - were
+          - have been
+          - will be
+          - would have been
+        answer: were
+        explanationVi: Ước về chiều cao hiện tại dùng were sau wish. Không dùng would khi ước thay đổi trạng
+          thái hiện tại của chính mình.
+      - type: MCQ
+        prompt: If they had left at six, they might ____ the traffic jam.
+        promptVi: Chọn phương án đúng.
+        options:
+          - have avoided
+          - avoided
+          - had avoided
+          - avoid
+        answer: have avoided
+        explanationVi: Might have + V3 diễn tả một kết quả có thể đã xảy ra trong điều kiện khác ở quá khứ.
+      - type: GAP_FILL
+        prompt: If you ____ (tell) me earlier, I would have helped.
+        promptVi: Chia tell trong câu điều kiện loại 3.
+        answer: had told
+        accept:
+          - had told
+        explanationVi: Mệnh đề if của loại 3 dùng had + V3; phân từ của tell là told.
+      - type: GAP_FILL
+        prompt: She wishes she ____ (not / buy) that expensive phone last month.
+        promptVi: Dùng quá khứ hoàn thành phủ định.
+        answer: had not bought
+        accept:
+          - had not bought
+          - hadn't bought
+        explanationVi: Last month chỉ việc đã xảy ra; wish + had not bought diễn tả tiếc nuối.
+      - type: GAP_FILL
+        prompt: I wish I ____ (have) more free time these days.
+        promptVi: Dùng cấu trúc wish diễn tả ước muốn trái hiện tại.
+        answer: had
+        accept:
+          - had
+        explanationVi: These days cho biết ước trái với hiện tại. Have lùi thành had sau wish.
+      - type: GAP_FILL
+        prompt: If we had seen the sign, we ____ (not / park) there yesterday.
+        promptVi: Dùng would trong mệnh đề kết quả loại 3.
+        answer: would not have parked
+        accept:
+          - would not have parked
+          - wouldn't have parked
+        explanationVi: "Điều kiện loại 3 có kết quả phủ định: would not have + V3. Park thêm -ed thành parked."
+      - type: GAP_FILL
+        prompt: If only I ____ (save) a copy before my computer crashed!
+        promptVi: Dùng quá khứ hoàn thành sau if only.
+        answer: had saved
+        accept:
+          - had saved
+        explanationVi: Người nói tiếc vì đã không lưu bản sao trước khi máy hỏng. If only dùng had saved cho
+          điều ước trái quá khứ.
+      - type: GAP_FILL
+        prompt: If I had taken the earlier train, I ____ (be) at home now.
+        promptVi: Hoàn thành câu điều kiện hỗn hợp với would.
+        answer: would be
+        accept:
+          - would be
+        explanationVi: Mốc now xác định kết quả ở hiện tại dù điều kiện nói về chuyến tàu trong quá khứ. Dùng would be.
+      - type: TRUE_FALSE
+        prompt: Câu sau có đúng ngữ pháp không?
+        statement: I wish I had not forgotten your birthday yesterday.
+        answer: true
+        explanationVi: Đúng. Sự quên đã xảy ra hôm qua nên điều ước dùng quá khứ hoàn thành had not forgotten.
+        promptVi: Câu sau có đúng ngữ pháp không?
+      - type: TRUE_FALSE
+        prompt: Câu sau có đúng ngữ pháp không?
+        statement: Had she knew the answer, she would have raised her hand.
+        answer: false
+        explanationVi: "Sai. Sau had phải dùng phân từ known, không dùng quá khứ đơn knew: Had she known the answer..."
+        promptVi: Câu sau có đúng ngữ pháp không?
+      - type: REORDER
+        prompt: Sắp xếp thành câu bắt đầu bằng "If I had charged" và kết thúc bằng "a taxi.".
+        chunks:
+          - If I had charged
+          - my phone,
+          - I could have called
+          - a taxi.
+        explanationVi: Had charged nêu điều kiện trái quá khứ; could have called nêu khả năng đã không thực hiện được.
+      - type: REORDER
+        prompt: Sắp xếp thành câu bắt đầu bằng "I wish" và kết thúc bằng "before signing the contract.".
+        chunks:
+          - I wish
+          - I had listened
+          - to your advice
+          - before signing the contract.
+        explanationVi: Wish + had listened diễn tả tiếc nuối về việc không nghe lời khuyên trước khi ký.
+

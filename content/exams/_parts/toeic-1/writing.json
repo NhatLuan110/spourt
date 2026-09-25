@@ -1,0 +1,40 @@
+[
+  {
+    "id": "writing-respond-request",
+    "skill": "writing",
+    "title": "Writing Q6–7 — Respond to a written request",
+    "format": "TOEIC Writing — Respond to a Written Request · 10 phút, email công việc",
+    "instructionsVi": "Viết email trả lời, 50–120 từ. Đề thi TOEIC Writing luôn yêu cầu làm ĐỦ SỐ VIỆC được nêu (thường là hai hoặc ba). Thiếu một việc là bị trừ nặng dù email viết hay.",
+    "promptEn": "Read the email below and respond.\n\nFrom: Priya Raman, Facilities Manager\nTo: All department coordinators\nSubject: Furniture for the new meeting room\n\nWe are furnishing the meeting room on the second floor next month. Please reply with what your department would find most useful in that room, and let me know whether anyone on your team is available to help test the room layout on 12 May.\n\n---\n\nDIRECTIONS: Respond to the email. In your reply, make ONE suggestion about the furniture, ask ONE question about the room, and give ONE piece of information about your team's availability on 12 May.",
+    "timeLimitSec": 600,
+    "minWords": 50,
+    "maxWords": 120,
+    "sampleAnswer": "Dear Ms Raman,\n\nThank you for consulting us about the new meeting room.\n\nOur department would find a large wall-mounted screen the most useful addition, as most of our meetings involve reviewing documents together and the current portable monitor is too small for a group of eight.\n\nCould you let me know whether the room will have a hybrid conference system? That would affect where we recommend placing the table.\n\nRegarding 12 May, two members of my team, Long Vu and Anna Petrova, are available that afternoon from two o'clock onwards. Neither is free in the morning.\n\nPlease let me know if you need anything further.\n\nBest regards,\nDinh Tran\nOffice Manager",
+    "rubricVi": [
+      "Làm ĐỦ ba việc đề yêu cầu: một đề xuất, một câu hỏi, một thông tin về lịch rảnh. Đây là tiêu chí chấm số một của TOEIC Writing, quan trọng hơn cả độ hay.",
+      "Giữ đúng thể thức email công việc: chào hỏi, nội dung, câu kết, ký tên. TOEIC chấm cả tính phù hợp văn phong.",
+      "Câu hỏi phải là câu hỏi THẬT, có ích cho công việc, không hỏi lấy lệ.",
+      "Nêu chi tiết cụ thể (tên người, khung giờ) thay vì 'some people may be available'. Thông tin mơ hồ bị coi là chưa hoàn thành nhiệm vụ.",
+      "50–120 từ là đủ. Viết dài không cộng điểm, mà còn tăng nguy cơ sai ngữ pháp."
+    ]
+  },
+  {
+    "id": "writing-opinion-essay",
+    "skill": "writing",
+    "title": "Writing Q8 — Write an opinion essay",
+    "format": "TOEIC Writing — Opinion Essay · 30 phút, tối thiểu 300 từ",
+    "instructionsVi": "Viết 300–380 từ. Khác IELTS, TOEIC Writing chấm cấu trúc rõ ràng và ví dụ cụ thể hơn là chấm sắc thái lập luận. Nêu quan điểm dứt khoát và chống đỡ bằng hai tới ba lý do có ví dụ.",
+    "promptEn": "Some companies allow employees to choose their own working hours, while others require everyone to work the same fixed schedule.\n\nWhich approach do you think is better for a company? Use specific reasons and examples to support your opinion.",
+    "timeLimitSec": 1800,
+    "minWords": 300,
+    "maxWords": 380,
+    "sampleAnswer": "In my opinion, allowing employees to choose their own working hours is better for most companies, provided that some overlap is required. I hold this view for three reasons: productivity, retention, and coverage.\n\nFirst, people are productive at different times of day, and a fixed schedule ignores this entirely. At my previous company, our accounting team worked from nine to five, and our two most accurate staff members regularly said they did their best checking work before eight in the morning. When the company introduced flexible start times between seven and ten, the error rate on monthly reports fell noticeably within one quarter. The work had not changed; only the timing had.\n\nSecond, flexibility helps a company keep experienced staff. Employees with young children, long commutes, or evening study frequently leave jobs that cannot accommodate them, and replacing a trained employee is expensive. A colleague of mine resigned from a logistics firm purely because the fixed eight o'clock start made it impossible to take her daughter to school. She now does very similar work for a competitor that allows a nine-thirty start. The first company lost six years of experience over ninety minutes.\n\nThird, some businesses actually gain wider coverage from flexible hours. If staff choose start times across a four-hour range, the office is effectively staffed for longer without paying overtime, which is useful for any company serving customers in more than one time zone.\n\nHowever, flexibility should not be unlimited. Teams still need reliable time together, so I would require all employees to be present during a core period, for example between ten and three. Without such a rule, meetings become difficult to arrange and colleagues begin to work in isolation.\n\nIn conclusion, I believe flexible hours benefit companies more than fixed schedules, because they raise productivity, reduce staff turnover, and extend coverage. A defined core period is the condition that makes these advantages possible while protecting teamwork.",
+    "rubricVi": [
+      "Nêu quan điểm rõ ràng ở mở bài và nhắc lại ở kết bài. TOEIC Writing chấm cấu trúc rất chặt, không thích bài lập lờ.",
+      "Ít nhất ba lý do, mỗi lý do MỘT đoạn và có ví dụ cụ thể. Đề ghi rõ 'specific reasons and examples' — thiếu ví dụ là mất điểm trực tiếp.",
+      "Dùng từ nối rõ ràng: First, Second, Third, However, In conclusion. Ở TOEIC đây là ưu điểm, khác với IELTS band cao nơi nhồi từ nối bị chê.",
+      "Đủ 300 từ. Đây là ngưỡng cứng, dưới ngưỡng thì bị hạ điểm bất kể chất lượng.",
+      "Nêu điều kiện hoặc giới hạn cho quan điểm của mình (khoảng giờ lõi bắt buộc). Bài chỉ khen một chiều thường bị chấm là thiếu chiều sâu."
+    ]
+  }
+]

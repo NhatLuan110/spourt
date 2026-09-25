@@ -1,0 +1,615 @@
+cefr: B1
+passages:
+  - slug: saving-the-family-photographs
+    title: Saving the Family Photographs
+    titleVi: Lưu giữ những bức ảnh gia đình
+    topic: daily-life
+    estimatedMinutes: 5
+    source: Sprout original
+    glossary:
+      - word: digitise
+        meaningVi: số hóa
+        context: They borrowed a high-resolution scanner to digitise every image.
+      - word: fallible
+        meaningVi: có thể sai sót
+        context: Acknowledging that memory is fallible.
+    body: >-
+      Last weekend, Lan and her brother Minh decided to rescue their grandparents' fading photo
+      collection stored in a damp cardboard box in the garage. They borrowed a high-resolution
+      scanner to digitise every image before the colors deteriorated completely.
+
+
+      As they placed the first batch onto the glass bed, excitement quickly turned into debate. They
+      found a black-and-white picture of a beach picnic taken in the late nineteen-seventies. Lan
+      insisted the smiling woman in the striped cardigan was their Aunt Mai, pointing out the
+      distinctive birthmark on her wrist. However, Minh strongly disagreed, arguing it was actually
+      their mother because the haircut matched an old school portrait. Neither sibling wanted to
+      yield, and their mother was away on a business trip, unable to settle the argument
+      immediately.
+
+
+      To avoid spreading inaccurate family history, they created a digital subfolder labeled
+      "Unverified Identities" rather than guessing. They scanned the back of the photo, which
+      contained faded pencil handwriting that simply said "Da Nang, July." Instead of forcing a
+      false certainty, they appended a text document detailing both hypotheses side by side,
+      acknowledging that memory is fallible.
+
+
+      They spent four hours sorting over two hundred pictures, organizing them chronologically by
+      decade. For images where dates were completely missing, they used clothing styles and car
+      models in the background to suggest a possible five-year range, clearly marked as an estimate.
+
+
+      By evening, they had backed up the entire library onto an external hard drive and shared the
+      links with their wider family. Their uncle pointed out the Aunt Mai error instantly the next
+      day, confirming Minh was right all along. Because Lan and Minh had left the label honest and
+      flexible, correcting the metadata took only a few seconds. They learned that preserving
+      history requires patience and a willingness to admit when details are unclear, ensuring future
+      generations receive authentic records instead of convenient fabrications.
+    questions:
+      - type: MCQ
+        prompt: Where were the old photographs originally stored?
+        promptVi: Những bức ảnh cũ ban đầu được cất giữ ở đâu?
+        options:
+          - On a high-resolution scanner bed
+          - In a damp cardboard box in the garage
+          - Inside an external hard drive
+          - Within a digital subfolder
+        answer: In a damp cardboard box in the garage
+        explanationVi: Bài đọc nêu rõ rằng bộ sưu tập ảnh được cất giữ trong một chiếc hộp các-tông ẩm ướt ở
+          nhà để xe ('stored in a damp cardboard box in the garage').
+      - type: MCQ
+        prompt: What did Lan use to support her claim that the woman in the photo was Aunt Mai?
+        promptVi: Lan đã dùng gì để chứng minh cho khẳng định rằng người phụ nữ trong bức ảnh là dì Mai?
+        options:
+          - Faded pencil handwriting on the back
+          - An old school portrait from her youth
+          - A distinctive birthmark on her wrist
+          - A tight five-year window of clothing styles
+        answer: A distinctive birthmark on her wrist
+        explanationVi: Lan khẳng định đó là dì Mai và chỉ vào vết bớt đặc biệt trên cổ tay của người phụ nữ
+          ('pointing out the distinctive birthmark on her wrist').
+      - type: MCQ
+        prompt: How did Lan and Minh handle the photo with the disputed identity?
+        promptVi: Lan và Minh đã xử lý bức ảnh có danh tính bị tranh chấp như thế nào?
+        options:
+          - They deleted the image to avoid spreading false history
+          - They asked their mother immediately during her business trip
+          - They guessed it was their mother based on the haircut
+          - They placed it in an "Unverified Identities" folder with both hypotheses
+        answer: They placed it in an "Unverified Identities" folder with both hypotheses
+        explanationVi: Họ đã tạo một thư mục con kỹ thuật số có nhãn 'Unverified Identities' và đính kèm văn
+          bản chi tiết cả hai giả thuyết ('created a digital subfolder labeled "Unverified
+          Identities"... detailing both hypotheses').
+      - type: MCQ
+        prompt: How did the siblings estimate the year for images with missing dates?
+        promptVi: Hai anh em đã ước tính năm cho những bức ảnh bị thiếu ngày tháng bằng cách nào?
+        options:
+          - By examining clothing styles and car models in the background
+          - By asking their uncle via text message the next day
+          - By reading the pencil handwriting on the back
+          - By guessing a tight five-year window randomly
+        answer: By examining clothing styles and car models in the background
+        explanationVi: Với ảnh không ghi ngày, họ dựa vào quần áo và mẫu xe để đề xuất khoảng năm, nhưng vẫn
+          đánh dấu đó chỉ là ước tính.
+      - type: TRUE_FALSE
+        prompt: Lan and Minh borrowed a high-resolution scanner to digitise their grandparents' fading photo
+          collection.
+        promptVi: Lan và Minh đã mượn một máy quét độ phân giải cao để số hóa bộ sưu tập ảnh đang phai màu
+          của ông bà họ.
+        answer: true
+        explanationVi: Câu đầu tiên của đoạn văn xác nhận họ đã mượn một máy quét độ phân giải cao để số hóa
+          bộ sưu tập ('borrowed a high-resolution scanner to digitise every image').
+        statement: Lan and Minh borrowed a high-resolution scanner to digitise their grandparents' fading
+          photo collection.
+      - type: TRUE_FALSE
+        prompt: The uncle confirmed that Lan's guess about the woman in the beach picture was completely
+          correct.
+        promptVi: Người chú đã xác nhận rằng phỏng đoán của Lan về người phụ nữ trong bức ảnh bãi biển là
+          hoàn toàn chính xác.
+        answer: false
+        explanationVi: Người chú đã chỉ ra lỗi sai và xác nhận rằng Minh mới là người đúng ('confirming Minh
+          was right all along').
+        statement: The uncle confirmed that Lan's guess about the woman in the beach picture was completely
+          correct.
+      - type: SHORT_ANSWER
+        prompt: Write the exact location name written in faded pencil handwriting on the back of the beach
+          picnic photo. (1-3 words)
+        promptVi: Viết chính xác tên địa điểm được viết bằng bút chì mờ ở mặt sau của bức ảnh dã ngoại bãi
+          biển. (1-3 từ)
+        accept:
+          - Da Nang
+        explanationVi: Phần cuối văn bản nhắc đến chữ viết tay bằng bút chì mờ ở mặt sau bức ảnh ghi rõ "Da
+          Nang, July".
+      - type: SHORT_ANSWER
+        prompt: State the exact number of hours the siblings spent sorting the pictures. (1-2 words)
+        promptVi: Nêu chính xác số giờ mà hai anh em đã dành ra để phân loại những bức ảnh. (1-2 từ)
+        accept:
+          - four hours
+          - 4 hours
+          - four
+          - "4"
+        explanationVi: Văn bản nêu rõ thời gian họ bỏ ra là bốn giờ ('They spent four hours sorting over two
+          hundred pictures').
+  - slug: a-community-seed-exchange
+    title: A Community Seed Exchange
+    titleVi: Một buổi trao đổi hạt giống cộng đồng
+    topic: environment
+    estimatedMinutes: 5
+    source: Sprout original
+    glossary:
+      - word: novice
+        meaningVi: người mới bắt đầu
+        context: Novice gardeners wandered between wooden tables looking overwhelmed.
+      - word: standardizing
+        meaningVi: tiêu chuẩn hóa
+        context: Standardizing the packaging system so that every envelope provided guidance.
+    body: >-
+      The annual district seed exchange event at the community center started with great enthusiasm
+      last spring, but organizers soon noticed a recurring problem. Novice gardeners wandered
+      between wooden tables looking overwhelmed, staring at tiny packets marked only with botanical
+      Latin names or vague local nicknames. Many participants took home delicate heirloom tomato
+      seeds without realizing they required specialized greenhouse care, leading to widespread
+      seedling failure and frustrated emails later. Furthermore, experienced growers complained that
+      seed packets were frequently misplaced, making it hard to find drought-tolerant beans or
+      robust winter squash.
+
+
+      Realizing that enthusiasm alone could not sustain the program, the committee held an open
+      feedback session in July to address these operational flaws. Local gardeners suggested
+      standardizing the packaging system so that every envelope provided immediate, practical
+      guidance.
+
+
+      Acting on this constructive input, the committee completely redesigned their layout for the
+      autumn fair. They introduced color-coded paper packets where green labels indicated
+      easy-to-grow varieties suitable for window boxes, while yellow labels marked plants needing
+      careful frost protection. Additionally, they set up a dedicated "Beginners Table" near the
+      entrance, staffed by experienced master gardeners who offered free planting guides and
+      answered questions patiently. To prevent clutter, they implemented a strict categorical
+      sorting system on all display shelves, separating herbs from root vegetables clearly.
+
+
+      When the autumn exchange opened last Saturday, first-time attendees immediately gravitated
+      toward the welcoming beginners section, picking up correctly labeled bush beans and radishes
+      with total confidence. Experienced growers also praised the organized layout, noting that
+      finding rare seed varieties took minutes instead of hours. By listening closely to community
+      feedback and turning criticism into practical action, the exchange successfully transformed
+      from a chaotic gathering into an accessible, educational hub for everyone.
+    questions:
+      - type: MCQ
+        prompt: What caused novice gardeners to struggle during the spring seed exchange?
+        promptVi: Điều gì khiến những người làm vườn mới bắt đầu gặp khó khăn trong buổi trao đổi hạt giống
+          mùa xuân?
+        options:
+          - Experienced growers misplaced all the drought-tolerant beans
+          - The green labels indicated plants needing careful frost protection
+          - Seed packets were marked only with botanical Latin names or vague nicknames
+          - The master gardeners refused to answer any questions at the entrance
+        answer: Seed packets were marked only with botanical Latin names or vague nicknames
+        explanationVi: Bài đọc giải thích những người mới bắt đầu bối rối vì các gói hạt chỉ ghi tên tiếng
+          Latinh thực vật hoặc biệt danh mơ hồ ('marked only with botanical Latin names or vague
+          nicknames').
+      - type: MCQ
+        prompt: When did the committee hold an open feedback session to address the program's flaws?
+        promptVi: Ban tổ chức đã tổ chức một buổi góp ý mở để giải quyết các thiếu sót của chương trình vào
+          khi nào?
+        options:
+          - In autumn
+          - Last spring
+          - Last Saturday
+          - In July
+        answer: In July
+        explanationVi: Ủy ban đã tổ chức một buổi lấy ý kiến phản hồi vào tháng bảy ('held an open feedback
+          session in July').
+      - type: MCQ
+        prompt: What did the green labels signify on the newly redesigned autumn seed packets?
+        promptVi: Nhãn xanh lá trên các gói hạt giống được thiết kế lại cho đợt trao đổi mùa thu biểu thị
+          điều gì?
+        options:
+          - Easy-to-grow varieties suitable for window boxes
+          - Rare seed varieties that required specialized greenhouse care
+          - Plants needing careful frost protection
+          - Drought-tolerant beans and robust winter squash
+        answer: Easy-to-grow varieties suitable for window boxes
+        explanationVi: Nhãn màu xanh lá biểu thị các giống cây dễ trồng phù hợp với hộp cửa sổ ('green
+          labels indicated easy-to-grow varieties suitable for window boxes').
+      - type: MCQ
+        prompt: Where was the dedicated "Beginners Table" positioned in the redesigned layout?
+        promptVi: '"Bàn dành cho người mới bắt đầu" được đặt ở vị trí nào trong sơ đồ bố trí mới?'
+        options:
+          - On the display shelves with root vegetables
+          - Near the entrance
+          - Next to the greenhouse care station
+          - Behind the strict categorical sorting system
+        answer: Near the entrance
+        explanationVi: Bàn dành cho người mới bắt đầu được đặt ở gần lối ra vào ('set up a dedicated
+          "Beginners Table" near the entrance').
+      - type: TRUE_FALSE
+        prompt: The committee introduced color-coded paper packets with yellow labels marking plants needing
+          careful frost protection.
+        promptVi: Ban tổ chức đã giới thiệu các túi giấy được mã hóa màu bằng nhãn vàng đánh dấu những loại
+          cây cần được bảo vệ cẩn thận khỏi sương giá.
+        answer: true
+        explanationVi: Văn bản xác nhận nhãn màu vàng đánh dấu các loài cây cần bảo vệ chống sương giá cẩn
+          thận ('yellow labels marked plants needing careful frost protection').
+        statement: The committee introduced color-coded paper packets with yellow labels marking plants
+          needing careful frost protection.
+      - type: TRUE_FALSE
+        prompt: First-time attendees at the autumn exchange avoided the beginners section because it lacked
+          proper guidance.
+        promptVi: Những người tham dự lần đầu tại buổi trao đổi mùa thu đã tránh khu vực dành cho người mới
+          bắt đầu vì nơi này thiếu hướng dẫn thích hợp.
+        answer: false
+        explanationVi: Những người tham dự lần đầu đã tiến về phía khu vực chào đón này chứ không hề né
+          tránh ('gravitated toward the welcoming beginners section').
+        statement: First-time attendees at the autumn exchange avoided the beginners section because it
+          lacked proper guidance.
+      - type: SHORT_ANSWER
+        prompt: State one vegetable picked up by first-time attendees at the autumn exchange. (1-2 words)
+        promptVi: Nêu tên một loại rau mà những người tham gia lần đầu đã chọn tại buổi trao đổi mùa thu.
+          (1-2 từ)
+        accept:
+          - bush beans
+          - radishes
+        explanationVi: Bài đọc nêu rõ những người tham gia lần đầu đã lấy hạt đậu bụi hoặc củ cải ('bush
+          beans and radishes').
+      - type: SHORT_ANSWER
+        prompt: Which plant group was kept separate from root vegetables on the shelves? Copy one word.
+        promptVi: Nhóm cây nào được xếp riêng với rau lấy củ trên kệ? Chép một từ.
+        accept:
+          - herbs
+        explanationVi: Ban tổ chức xếp riêng herbs (rau thơm) và root vegetables (rau lấy củ).
+  - slug: the-student-radio-pilot
+    title: The Student Radio Pilot
+    titleVi: Chương trình phát thanh thử nghiệm của học sinh
+    topic: education
+    estimatedMinutes: 5
+    source: Sprout original
+    glossary: []
+    body: >-
+      Last month, Linh and her classmates launched a two-week student radio pilot called Wave 99.
+      Broadcasting from a small converted storage room at Greenwood High, the team aimed to deliver
+      engaging campus news and local community interviews. Securing formal written permission from
+      the school principal was their first major hurdle; they had to submit a detailed schedule and
+      promise never to disrupt morning classes.
+
+
+      Once approved, the four students carefully divided their daily tasks. Linh managed the
+      technical audio equipment, while Minh prepared interview questions for local business owners
+      and teachers. Before recording each interview, Minh explained where the audio would be played
+      and asked the speaker for permission. Contributors could also ask to leave a comment out.
+
+
+      Their biggest challenge arose during a report about the town's oldest family-run bookstore.
+      Minh interviewed the shop owner, Mr. Tuan, who casually mentioned that the building had
+      operated continuously since 1952. Eager to broadcast the piece quickly, Minh drafted the
+      script and planned to air it on Thursday morning.
+
+
+      However, Linh insisted on checking the historical archive records at the municipal library
+      before letting the microphone go live. She discovered that the bookstore had actually closed
+      for three years during a major street renovation in the late nineteen-seventies, invalidating
+      the claim of continuous operation.
+
+
+      Instead of dropping the segment, the students quickly revised the script to highlight how the
+      bookstore survived that difficult closure and reopened stronger. This clever compromise
+      maintained their journalistic integrity while still celebrating the shop's rich heritage.
+      Listeners responded warmly to the corrected story, praising the young reporters for their
+      remarkable thoroughness. The pilot proved so successful that the administration officially
+      extended their permission to broadcast for the entire semester, turning a temporary experiment
+      into a permanent school club.
+    questions:
+      - type: MCQ
+        prompt: Where did the students broadcast their radio pilot from?
+        promptVi: Học sinh phát sóng chương trình phát thanh thử nghiệm từ đâu?
+        options:
+          - The school main hall
+          - A municipal library
+          - A local bookstore
+          - A converted storage room
+        answer: A converted storage room
+        explanationVi: Đoạn văn nêu rõ nhóm phát sóng từ một phòng chứa đồ nhỏ đã được cải tạo tại trường
+          Greenwood High ('Broadcasting from a small converted storage room at Greenwood High').
+      - type: MCQ
+        prompt: What was required before the students could start broadcasting?
+        promptVi: Điều gì là bắt buộc trước khi học sinh có thể bắt đầu phát sóng?
+        options:
+          - Securing formal written permission
+          - Buying expensive audio gear
+          - Hiring a professional editor
+          - Completing a community survey
+        answer: Securing formal written permission
+        explanationVi: Đoạn văn đề cập rằng việc xin phép bằng văn bản chính thức từ hiệu trưởng là rào cản
+          lớn đầu tiên của họ ('Securing formal written permission from the school principal was
+          their first major hurdle').
+      - type: MCQ
+        prompt: What did Mr. Tuan claim about his bookstore?
+        promptVi: Ông Tuấn đã khẳng định điều gì về hiệu sách của mình?
+        options:
+          - It was founded in 1945
+          - It operated continuously since 1952
+          - It survived a major fire
+          - It was the largest shop in town
+        answer: It operated continuously since 1952
+        explanationVi: Minh phỏng vấn chủ cửa hàng, người đã vô tình nhắc rằng tòa nhà đã hoạt động liên tục
+          từ năm 1952 ('operated continuously since 1952').
+      - type: MCQ
+        prompt: What did Linh discover at the municipal library?
+        promptVi: Linh đã phát hiện ra điều gì tại thư viện thành phố?
+        options:
+          - Mr. Tuan was not the real owner
+          - The building was originally a school
+          - The bookstore closed for three years
+          - The archive records were missing
+        answer: The bookstore closed for three years
+        explanationVi: Linh phát hiện ra hiệu sách thực tế đã đóng cửa ba năm trong đợt nâng cấp đường ('the
+          bookstore had actually closed for three years').
+      - type: TRUE_FALSE
+        prompt: The students revised their script after checking historical archive records.
+        promptVi: Học sinh đã chỉnh sửa kịch bản của mình sau khi kiểm tra các hồ sơ lưu trữ lịch sử.
+        answer: true
+        explanationVi: Đoạn văn xác nhận học sinh đã sửa đổi kịch bản sau khi Linh kiểm tra hồ sơ lưu trữ
+          ('the students quickly revised the script... after checking the historical archive
+          records').
+        statement: The students revised their script after checking historical archive records.
+      - type: TRUE_FALSE
+        prompt: The administration cancelled the students' permission to broadcast after the corrected
+          report.
+        promptVi: Nhà trường đã hủy quyền phát sóng của học sinh sau bản tin đã chỉnh sửa.
+        answer: false
+        explanationVi: Nhà trường gia hạn cho nhóm tiếp tục phát sóng cả học kỳ, không hủy hoạt động.
+        statement: The administration cancelled the students' permission to broadcast after the corrected
+          report.
+      - type: SHORT_ANSWER
+        prompt: What is the exact name of the student radio pilot? (Provide a 1-4 word phrase)
+        promptVi: Tên chính xác của chương trình phát thanh thử nghiệm của học sinh là gì? (Cung cấp cụm từ
+          1-4 từ)
+        accept:
+          - Wave 99
+          - wave 99
+        explanationVi: Văn bản nêu tên chương trình phát thanh là Wave 99 ('a two-week student radio pilot
+          called Wave 99').
+      - type: SHORT_ANSWER
+        prompt: How many weeks was the radio pilot originally scheduled to last? Write a number.
+        promptVi: Ban đầu chương trình phát thanh được dự kiến thử nghiệm trong mấy tuần? Viết số.
+        accept:
+          - two
+          - "2"
+        explanationVi: Bài mở đầu nói đây là a two-week student radio pilot, tức chương trình thử nghiệm hai tuần.
+  - slug: quiet-hours-in-a-shared-studio
+    title: Quiet Hours in a Shared Studio
+    titleVi: Giờ yên tĩnh trong một xưởng vẽ chung
+    topic: work
+    estimatedMinutes: 5
+    source: Sprout original
+    glossary: []
+    body: >-
+      Sharing a spacious industrial loft in District 4, four independent artists recently tested a
+      structured quiet-hours policy to solve growing friction in their creative workspace. Maya, a
+      ceramicist who relied on loud pottery wheels and heavy machinery, frequently clashed with
+      Julian, a classical illustrator who required absolute silence for detailed brushwork.
+      Meanwhile, printmakers Liam and Zoe needed a balanced environment with moderate talking during
+      collaborative printing sessions. Tension peaked when Maya operated her noisy kiln ventilation
+      system during Julian's crucial morning concentration hours.
+
+
+      To prevent the studio from splitting up, the group decided to run a two-week trial. They
+      established dedicated quiet hours from nine to twelve every morning, during which all noisy
+      equipment and loud music were strictly prohibited. During this morning block, Julian worked
+      undisturbed while Liam and Zoe focused on sketching and digital planning. After noon, the
+      studio transitioned into an open collaborative space where Maya could run her loud machinery
+      and music played freely.
+
+
+      Initially, Maya worried the morning restriction would ruin her productivity schedule, but she
+      soon realized she could handle administrative tasks and glazing during those quiet blocks.
+      Julian also adjusted his daily routine, reserving his afternoons for client meetings and
+      varnishing.
+
+
+      By the end of the trial, each artist reported fewer interruptions. They kept a shared notebook
+      recording completed tasks and interrupted sessions. Maya also noted when an order needed
+      urgent machine work, so the others could agree on an exception beforehand. The log helped them
+      discuss specific problems instead of blaming one another. They measured success not by
+      eliminating noise completely, but by respecting each other's focused workflow windows. The
+      artists officially adopted the schedule permanently, proving that diverse creative needs could
+      successfully coexist through mutual compromise and structured communication.
+    questions:
+      - type: MCQ
+        prompt: Where is the artists' shared loft located?
+        promptVi: Căn gác xép chung của các nghệ sĩ nằm ở đâu?
+        options:
+          - District 4
+          - District 3
+          - District 1
+          - District 7
+        answer: District 4
+        explanationVi: Đoạn văn nêu rõ các nghệ sĩ chia sẻ một gác xép công nghiệp ở Quận 4 ('Sharing a
+          spacious industrial loft in District 4').
+      - type: MCQ
+        prompt: What was the main source of tension between Maya and Julian?
+        promptVi: Nguồn gốc căng thẳng chính giữa Maya và Julian là gì?
+        options:
+          - Julian's loud classical music
+          - Maya's noisy kiln ventilation system
+          - Disagreements over monthly rent
+          - Sharing the same painting supplies
+        answer: Maya's noisy kiln ventilation system
+        explanationVi: Căng thẳng đạt đỉnh khi Maya vận hành hệ thống thông gió lò nung ồn ào vào giờ tập
+          trung của Julian ('Maya operated her noisy kiln ventilation system during Julian's crucial
+          morning concentration hours').
+      - type: MCQ
+        prompt: When were the dedicated quiet hours established during the trial?
+        promptVi: Giờ yên tĩnh chuyên biệt trong thời gian thử nghiệm được ấn định vào lúc nào?
+        options:
+          - From six to nine every morning
+          - From one to four every afternoon
+          - From nine to twelve every morning
+          - From two to five every afternoon
+        answer: From nine to twelve every morning
+        explanationVi: Nhóm thiết lập giờ yên tĩnh từ chín đến mười hai giờ mỗi buổi sáng ('quiet hours from
+          nine to twelve every morning').
+      - type: MCQ
+        prompt: How did Maya adapt her work schedule during the morning quiet hours?
+        promptVi: Maya đã điều chỉnh lịch làm việc của mình như thế nào trong giờ yên tĩnh buổi sáng?
+        options:
+          - She stopped working completely
+          - She switched to digital painting
+          - She moved her equipment outside
+          - She focused on administrative tasks and glazing
+        answer: She focused on administrative tasks and glazing
+        explanationVi: Maya nhận ra cô có thể xử lý các công việc hành chính và tráng men trong những khung
+          giờ yên tĩnh đó ('handle administrative tasks and glazing during those quiet blocks').
+      - type: TRUE_FALSE
+        prompt: The artists officially adopted the quiet-hours schedule permanently after the trial.
+        promptVi: Các nghệ sĩ đã chính thức áp dụng lịch giờ yên tĩnh vĩnh viễn sau thời gian thử nghiệm.
+        answer: true
+        explanationVi: Đoạn văn xác nhận các nghệ sĩ đã chính thức áp dụng lịch trình này vĩnh viễn ('The
+          artists officially adopted the schedule permanently').
+        statement: The artists officially adopted the quiet-hours schedule permanently after the trial.
+      - type: TRUE_FALSE
+        prompt: Julian spent his mornings conducting client meetings and varnishing artwork.
+        promptVi: Julian dành buổi sáng của mình để gặp gỡ khách hàng và phủ bóng tác phẩm nghệ thuật.
+        answer: false
+        explanationVi: Bài viết nêu rõ Julian dành buổi chiều cho việc gặp khách hàng và phủ bóng, còn buổi
+          sáng anh làm việc không bị làm phiền ('reserving his afternoons for client meetings and
+          varnishing').
+        statement: Julian spent his mornings conducting client meetings and varnishing artwork.
+      - type: SHORT_ANSWER
+        prompt: What type of artist is Maya? (Provide a 1-4 word phrase)
+        promptVi: Maya là nghệ sĩ làm nghề gì? (Cung cấp cụm từ 1-4 từ)
+        accept:
+          - ceramicist
+          - a ceramicist
+        explanationVi: Văn bản giới thiệu Maya là một thợ gốm ('Maya, a ceramicist').
+      - type: SHORT_ANSWER
+        prompt: How long did the artists' trial period last? (Provide a 1-4 word phrase)
+        promptVi: Thời gian thử nghiệm của các nghệ sĩ kéo dài trong bao lâu? (Cung cấp cụm từ 1-4 từ)
+        accept:
+          - two weeks
+          - 2 weeks
+          - a two-week trial
+        explanationVi: Nhóm quyết định chạy một thử nghiệm kéo dài hai tuần ('run a two-week trial').
+  - slug: rethinking-a-charity-run-route
+    title: Rethinking a Charity Run Route
+    titleVi: Xem xét lại lộ trình cuộc đua từ thiện
+    topic: daily-life
+    estimatedMinutes: 4
+    source: Sprout original
+    glossary:
+      - term: bottleneck
+        definitionVi: nút cổ chai, điểm tắc nghẽn giao thông
+      - term: reroute
+        definitionVi: đổi lộ trình, chuyển hướng đường đi
+    body: >-
+      Organising the annual Maple City Charity Run always requires careful planning, but this year's
+      committee faced an unexpected challenge regarding the main course. Initially, the race
+      directors mapped a five-kilometer path that looped through Oak Street and past the old market
+      square. They believed this scenic route would attract more spectators and provide plenty of
+      space for runners. However, a group of local volunteers and residents raised serious concerns
+      after walking the proposed path during a busy Saturday morning simulation.
+
+
+      During the test run, participants quickly discovered major bottlenecks. The narrow pavement
+      near the historic bakeries could not safely accommodate both heavy weekend foot traffic and
+      hundreds of fast-moving runners. Furthermore, delivery vans regularly blocked the loading zone
+      on Oak Street around nine o'clock, creating a dangerous obstacle for anyone trying to maintain
+      a steady pace. Residents also worried that closing the market square would completely trap
+      local shop owners and shoppers, cutting off access to essential parking spaces.
+
+
+      Listening closely to this valuable feedback, the planning committee decided to make a swift
+      adjustment. They collaborated with the city council to reroute the second half of the race.
+      Instead of turning down Oak Street, the updated path now guides participants north along River
+      Road, passing through the quieter Green Park before rejoining the final straightaway.
+
+
+      River Road offers wider lanes, fewer morning commercial deliveries, and ample room for water
+      stations. This thoughtful revision prevents congestion and keeps local businesses happy while
+      still maintaining the exact same total distance for the competitors. Registration numbers have
+      already reached a record high, although organisers cannot attribute that increase to the route
+      change alone. They plan to record delays and ask local businesses for feedback after the
+      event.
+    questions:
+      - type: MCQ
+        prompt: What was the original plan for the race's path?
+        promptVi: Kế hoạch ban đầu cho đường chạy của cuộc đua là gì?
+        options:
+          - North along River Road and through Green Park
+          - Through Oak Street and past the old market square
+          - Around the industrial estate and the central station
+          - Straight down the riverside avenue and the sports complex
+        answer: Through Oak Street and past the old market square
+        explanationVi: Đoạn văn nêu rõ ban đầu các giám đốc cuộc đua đã vạch ra con đường đi qua phố Oak và
+          qua quảng trường chợ cũ ('looped through Oak Street and past the old market square').
+      - type: MCQ
+        prompt: Why did volunteers and residents raise concerns about the original route?
+        promptVi: Tại sao tình nguyện viên và cư dân lại nêu lên lo ngại về lộ trình ban đầu?
+        options:
+          - It was too short for a proper five-kilometer race
+          - It lacked enough water stations for the runners
+          - It caused bottlenecks near bakeries and delivery blocks on Saturday mornings
+          - It crossed private property without the owner's permission
+        answer: It caused bottlenecks near bakeries and delivery blocks on Saturday mornings
+        explanationVi: Đoạn văn giải thích rằng con đường gây ra tắc nghẽn gần các tiệm bánh và các phương
+          tiện giao hàng vào sáng thứ Bảy ('bottlenecks near the historic bakeries... delivery vans
+          regularly blocked...').
+      - type: MCQ
+        prompt: What time of day did delivery vans regularly block the loading zone on Oak Street?
+        promptVi: Vào thời gian nào trong ngày xe giao hàng thường xuyên chặn khu vực bốc dỡ hàng trên phố
+          Oak?
+        options:
+          - Late in the afternoon
+          - Around seven o'clock
+          - Around midday
+          - Around nine o'clock
+        answer: Around nine o'clock
+        explanationVi: Bài đọc chỉ rõ xe giao hàng thường xuyên chặn khu vực bốc dỡ vào khoảng chín giờ
+          ('around nine o'clock').
+      - type: MCQ
+        prompt: Where does the updated path guide participants instead of Oak Street?
+        promptVi: Lộ trình cập nhật hướng dẫn người tham gia đi đâu thay vì phố Oak?
+        options:
+          - North along River Road
+          - South toward the harbour
+          - East past the railway station
+          - West through the industrial park
+        answer: North along River Road
+        explanationVi: Đoạn văn nêu rằng đường đi mới hướng dẫn người tham gia đi về phía bắc dọc theo đường
+          River ('guides participants north along River Road').
+      - type: TRUE_FALSE
+        prompt: The planning committee collaborated with the city council to reroute the second half of the
+          race.
+        promptVi: Ban tổ chức đã phối hợp với hội đồng thành phố để đổi lộ trình nửa sau của cuộc đua.
+        answer: true
+        explanationVi: Bài đọc xác nhận ban tổ chức phối hợp với hội đồng thành phố để đổi lộ trình nửa sau
+          cuộc đua.
+        statement: The planning committee collaborated with the city council to reroute the second half of
+          the race.
+      - type: TRUE_FALSE
+        prompt: The updated route changes the total distance of the charity run for competitors.
+        promptVi: Lộ trình mới thay đổi tổng quãng đường của cuộc đua từ thiện đối với các vận động viên.
+        answer: false
+        explanationVi: Bài đọc khẳng định lộ trình mới vẫn giữ nguyên tổng quãng đường ('maintaining the
+          exact same total distance').
+        statement: The updated route changes the total distance of the charity run for competitors.
+      - type: SHORT_ANSWER
+        prompt: What park does the updated path pass through? (Name the park, exactly 1-2 words)
+        promptVi: Đường chạy mới đi qua công viên nào? (Nêu tên công viên, chính xác 1-2 từ)
+        accept:
+          - Green Park
+        explanationVi: Đoạn văn nêu rõ đường chạy đi qua Green Park ('passing through the quieter Green Park').
+      - type: SHORT_ANSWER
+        prompt: What is the total race distance after the route change? Give a number and unit.
+        promptVi: Sau khi đổi lộ trình, tổng quãng đường chạy là bao nhiêu? Viết số và đơn vị.
+        accept:
+          - five kilometers
+          - five kilometres
+          - 5 kilometers
+          - 5 kilometres
+          - 5 km
+          - five km
+        explanationVi: Đường chạy ban đầu dài five kilometers và phần cuối bài nói lộ trình mới giữ nguyên
+          tổng quãng đường.

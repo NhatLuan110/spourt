@@ -1,0 +1,36 @@
+node_modules/
+dist/
+.next/
+out/
+coverage/
+.turbo/
+*.tsbuildinfo
+.env
+.env.local
+.env*.local
+.env.*
+!.env.example
+.pgdata/
+.storage/
+.DS_Store
+Thumbs.db
+apps/api/prisma/generated/
+
+# Local PostgreSQL cluster started by scripts/local-postgres.mjs
+.pgpass.tmp
+
+# Development JWT key pair, generated on first boot
+apps/api/.keys/
+.keys/
+.claude/
+.vercel/
+.deploy/
+*.log
+
+# Local media storage when STORAGE_DRIVER=local
+
+# Playwright artefacts
+screenshots/
+test-results/
+playwright-report/
+.cache/

@@ -1,0 +1,1459 @@
+# HSK 1 — 150 từ (HSK 2.0).
+# Nguồn: complete-hsk-vocabulary (MIT), VietPhrase, Thiều Chửu, hanviet-pinyin-wordlist.
+# Tệp này do scripts/chinese/build-content.mjs sinh ra — sửa tay sẽ mất khi dựng lại.
+# Muốn đổi nghĩa tiếng Việt thì sửa scripts/chinese/overrides.json.
+hskLevel: 1
+words:
+  - simplified: '的'
+    pinyin: 'de'
+    pinyinNumeric: 'de5'
+    hanViet: 'đích'
+    meaningVi: 'của (trợ từ sở hữu); trợ từ định ngữ'
+    meaningEn: 'of; ~''s (possessive particle); (used after an attribute); (used to form a nominal expression)'
+    pos: ['u', 'n']
+    frequencyRank: 1
+    radical: '白'
+  - simplified: '了'
+    pinyin: 'le'
+    pinyinNumeric: 'le5'
+    hanViet: 'liễu'
+    meaningVi: 'trợ từ chỉ việc đã xong hoặc có thay đổi'
+    meaningEn: '(completed action marker); (modal particle indicating change of state, situation now); (modal particle intensifying preceding clause)'
+    pos: ['y', 'u', 'v']
+    frequencyRank: 3
+    radical: '亅'
+  - simplified: '我'
+    pinyin: 'wǒ'
+    pinyinNumeric: 'wo3'
+    hanViet: 'ngã'
+    meaningVi: 'ta'
+    meaningEn: 'I; me; my'
+    pos: ['r']
+    frequencyRank: 3
+    radical: '戈'
+  - simplified: '是'
+    pinyin: 'shì'
+    pinyinNumeric: 'shi4'
+    hanViet: 'thị'
+    meaningVi: 'là; đúng'
+    meaningEn: 'to be (followed by substantives only); correct; right; true; (respectful acknowledgement of a command) very well'
+    pos: ['v']
+    frequencyRank: 4
+    radical: '日'
+  - simplified: '你'
+    pinyin: 'nǐ'
+    pinyinNumeric: 'ni3'
+    hanViet: 'nễ'
+    meaningVi: 'ngươi'
+    meaningEn: 'you (informal, as opposed to courteous 您)'
+    pos: ['r']
+    frequencyRank: 5
+    radical: '亻'
+  - simplified: '在'
+    pinyin: 'zài'
+    pinyinNumeric: 'zai4'
+    hanViet: 'tại'
+    meaningVi: 'ở'
+    meaningEn: 'to exist; to be alive; (of sb or sth) to be (located) at; (used before a verb to indicate an action in progress)'
+    pos: ['p', 'v', 'd']
+    frequencyRank: 5
+    radical: '土'
+  - simplified: '不'
+    pinyin: 'bù'
+    pinyinNumeric: 'bu4'
+    hanViet: 'bất'
+    meaningVi: 'không'
+    meaningEn: 'no; not so; (bound form) not; un-'
+    pos: ['d']
+    frequencyRank: 9
+    radical: '一'
+  - simplified: '有'
+    pinyin: 'yǒu'
+    pinyinNumeric: 'you3'
+    hanViet: 'hữu'
+    meaningVi: 'có'
+    meaningEn: 'to have; there is; (bound form) having; with; -ful; -ed; -al (as in 意 intentional)'
+    pos: ['v']
+    frequencyRank: 9
+    radical: '月'
+  - simplified: '他'
+    pinyin: 'tā'
+    pinyinNumeric: 'ta1'
+    hanViet: 'tha'
+    meaningVi: 'hắn'
+    meaningEn: 'he; him (used for either sex when the sex is unknown or unimportant); (used before sb''s name for emphasis); (used as a meaningless mock object)'
+    pos: ['r']
+    frequencyRank: 10
+    radical: '亻'
+  - simplified: '这'
+    traditional: '這'
+    pinyin: 'zhè'
+    pinyinNumeric: 'zhe4'
+    hanViet: 'giá'
+    meaningVi: 'này; vậy; đây'
+    meaningEn: '(pronoun) this; these; (bound form) this; the (followed by a noun); (bound form) this; these (followed by a classifier) (in this sense, commonly pr. [zhèi], esp. in Beijing)'
+    pos: ['r']
+    frequencyRank: 11
+    radical: '辶'
+  - simplified: '个'
+    traditional: '個'
+    pinyin: 'gè'
+    pinyinNumeric: 'ge4'
+    hanViet: 'cá'
+    meaningVi: 'cái; một'
+    meaningEn: '(classifier used before a noun that has no specific classifier); (bound form) individual'
+    pos: ['q', 'g']
+    frequencyRank: 19
+    radical: '丨'
+  - simplified: '和'
+    pinyin: 'hé'
+    pinyinNumeric: 'he2'
+    hanViet: 'hoà'
+    meaningVi: 'cùng; hòa; và'
+    meaningEn: '(joining two nouns) and; together with; with (Taiwan pr. [hàn]); (math.) sum; to make peace'
+    pos: ['cc', 'p', 'v', 'qv', 'g', 'n']
+    frequencyRank: 19
+    radical: '口'
+  - simplified: '人'
+    pinyin: 'rén'
+    pinyinNumeric: 'ren2'
+    hanViet: 'nhân'
+    meaningVi: 'người'
+    meaningEn: 'person; people'
+    pos: ['n']
+    classifiers: ['个', '位']
+    frequencyRank: 19
+    radical: '人'
+  - simplified: '我们'
+    traditional: '我們'
+    pinyin: 'wǒ men'
+    pinyinNumeric: 'wo3 men5'
+    hanViet: 'ngã môn'
+    meaningVi: 'chúng ta; chúng tôi; chúng tao; chúng tớ'
+    meaningEn: 'we; us; ourselves'
+    pos: ['r']
+    frequencyRank: 19
+    radical: '戈'
+  - simplified: '好'
+    pinyin: 'hǎo'
+    pinyinNumeric: 'hao3'
+    hanViet: 'hảo'
+    meaningVi: 'được; tốt'
+    meaningEn: 'good; appropriate; proper; all right!'
+    pos: ['a', 'd', 'v']
+    frequencyRank: 20
+    radical: '女'
+  - simplified: '一'
+    pinyin: 'yī'
+    pinyinNumeric: 'yi1'
+    hanViet: 'nhất'
+    meaningVi: 'một'
+    meaningEn: 'one; single; a (article)'
+    pos: ['m', 'd', 't']
+    frequencyRank: 21
+    radical: '一'
+  - simplified: '会'
+    traditional: '會'
+    pinyin: 'huì'
+    pinyinNumeric: 'hui4'
+    hanViet: 'hội'
+    meaningVi: 'sẽ; lại; phải'
+    meaningEn: 'can; to have the skill; to know how to; to be likely to; to be sure to; to meet; to get together'
+    pos: ['v', 'n']
+    frequencyRank: 23
+    radical: '人'
+  - simplified: '都'
+    pinyin: 'dōu'
+    pinyinNumeric: 'dou1'
+    hanViet: 'đô'
+    meaningVi: 'đều; cũng'
+    meaningEn: 'all; both; entirely; (used for emphasis) even; already'
+    pos: ['d', 'g']
+    frequencyRank: 25
+    radical: '阝'
+  - simplified: '上'
+    pinyin: 'shàng'
+    pinyinNumeric: 'shang4'
+    hanViet: 'thượng'
+    meaningVi: 'trên'
+    meaningEn: '(bound form) up; upper; above; previous; first (of multiple parts); to climb; to get onto; to go up'
+    pos: ['f', 'v', 'g']
+    frequencyRank: 29
+    radical: '一'
+  - simplified: '来'
+    traditional: '來'
+    pinyin: 'lái'
+    pinyinNumeric: 'lai2'
+    hanViet: 'lai'
+    meaningVi: 'đến; tới'
+    meaningEn: 'to come; (used as a substitute for a more specific verb); hither (directional complement for motion toward the speaker, as in 回来)'
+    pos: ['v', 'f', 'm', 'u', 'y']
+    frequencyRank: 31
+    radical: '木'
+  - simplified: '很'
+    pinyin: 'hěn'
+    pinyinNumeric: 'hen3'
+    hanViet: 'ngận'
+    meaningVi: 'thực; rất'
+    meaningEn: '(adverb of degree); quite; very'
+    pos: ['d']
+    frequencyRank: 35
+    radical: '彳'
+  - simplified: '去'
+    pinyin: 'qù'
+    pinyinNumeric: 'qu4'
+    hanViet: 'khứ'
+    meaningVi: 'đi'
+    meaningEn: 'to go; to go to (a place); (of a time etc) last'
+    pos: ['v']
+    frequencyRank: 38
+    radical: '厶'
+  - simplified: '她'
+    pinyin: 'tā'
+    pinyinNumeric: 'ta1'
+    hanViet: 'tha'
+    meaningVi: 'nàng'
+    meaningEn: 'she'
+    pos: ['r']
+    frequencyRank: 38
+    radical: '女'
+  - simplified: '想'
+    pinyin: 'xiǎng'
+    pinyinNumeric: 'xiang3'
+    hanViet: 'tưởng'
+    meaningVi: 'nghĩ muốn; nghĩ; muốn; nhớ'
+    meaningEn: 'to think (about); to think of; to devise; to think (that); to believe (that)'
+    pos: ['v']
+    frequencyRank: 44
+    radical: '心'
+  - simplified: '能'
+    pinyin: 'néng'
+    pinyinNumeric: 'neng2'
+    hanViet: 'năng'
+    meaningVi: 'có thể'
+    meaningEn: 'can; to be able to; might possibly'
+    pos: ['v', 'g']
+    frequencyRank: 46
+    radical: '⺼'
+  - simplified: '那'
+    pinyin: 'nà'
+    pinyinNumeric: 'na4'
+    hanViet: 'na'
+    meaningVi: 'kia; nọ; vậy'
+    meaningEn: '(specifier) that; the; those (colloquial pr. [nèi]); (pronoun) that (referring to persons, things or situations); then (in that case)'
+    pos: ['r', 'c']
+    frequencyRank: 48
+    radical: '阝'
+  - simplified: '看'
+    pinyin: 'kān'
+    pinyinNumeric: 'kan1'
+    hanViet: 'khán'
+    meaningVi: 'xem; nhìn'
+    meaningEn: 'to look after; to take care of; to watch'
+    pos: ['v', 'u']
+    frequencyRank: 52
+    radical: '目'
+  - simplified: '做'
+    pinyin: 'zuò'
+    pinyinNumeric: 'zuo4'
+    hanViet: 'tố'
+    meaningVi: 'làm'
+    meaningEn: 'to make; to produce; to write; to compose; to do; to engage in; to hold (a party etc)'
+    pos: ['v']
+    frequencyRank: 53
+    radical: '亻'
+  - simplified: '什么'
+    traditional: '什麼'
+    pinyin: 'shén me'
+    pinyinNumeric: 'shen2 me5'
+    hanViet: 'thậm yêu'
+    meaningVi: 'cái gì; gì; nào; gì đó'
+    meaningEn: 'what?; something; anything'
+    pos: ['r']
+    frequencyRank: 55
+    radical: '亻'
+  - simplified: '点'
+    traditional: '點'
+    pinyin: 'diǎn'
+    pinyinNumeric: 'dian3'
+    hanViet: 'điểm'
+    meaningVi: 'chút; giờ'
+    meaningEn: 'point; dot; drop'
+    pos: ['qt', 'n', 't', 'v']
+    frequencyRank: 58
+    radical: '灬'
+  - simplified: '没'
+    traditional: '沒'
+    pinyin: 'méi'
+    pinyinNumeric: 'mei2'
+    hanViet: 'một'
+    meaningVi: 'không'
+    meaningEn: '(negative prefix for verbs) have not; not'
+    pos: ['d', 'v']
+    frequencyRank: 63
+    radical: '氵'
+  - simplified: '大'
+    pinyin: 'dà'
+    pinyinNumeric: 'da4'
+    hanViet: 'đại'
+    meaningVi: 'lớn'
+    meaningEn: 'big; large; great; older (than another person); eldest (as in 姐)'
+    pos: ['a', 'd', 'n', 'g']
+    frequencyRank: 66
+    radical: '大'
+  - simplified: '下'
+    pinyin: 'xià'
+    pinyinNumeric: 'xia4'
+    hanViet: 'hạ'
+    meaningVi: 'dưới, phía dưới; xuống'
+    meaningEn: 'down; downwards; below'
+    pos: ['v', 'f', 'qt', 'g']
+    frequencyRank: 70
+    radical: '一'
+  - simplified: '里'
+    traditional: '裡'
+    pinyin: 'lǐ'
+    pinyinNumeric: 'li3'
+    hanViet: 'lý'
+    meaningVi: 'dặm; trong'
+    meaningEn: 'lining; interior; inside'
+    pos: ['f', 'q']
+    frequencyRank: 75
+    radical: '里'
+  - simplified: '现在'
+    traditional: '現在'
+    pinyin: 'xiàn zài'
+    pinyinNumeric: 'xian4 zai4'
+    hanViet: 'hiện tại'
+    meaningVi: 'hiện nay; bây giờ'
+    meaningEn: 'now; at present; at the moment'
+    pos: ['t']
+    frequencyRank: 77
+    radical: '王'
+  - simplified: '年'
+    pinyin: 'nián'
+    pinyinNumeric: 'nian2'
+    hanViet: 'niên'
+    meaningVi: 'năm'
+    meaningEn: 'year'
+    pos: ['qt', 't', 'n']
+    classifiers: ['个']
+    frequencyRank: 79
+    radical: '干'
+  - simplified: '多'
+    pinyin: 'duō'
+    pinyinNumeric: 'duo1'
+    hanViet: 'đa'
+    meaningVi: 'nhiều'
+    meaningEn: 'many; much; too many; in excess; (after a numeral) ... odd'
+    pos: ['a', 'm', 'ad', 'd', 'v', 'g']
+    frequencyRank: 80
+    radical: '夕'
+  - simplified: '吗'
+    traditional: '嗎'
+    pinyin: 'má'
+    pinyinNumeric: 'ma2'
+    hanViet: 'ma'
+    meaningVi: 'sao không; mạ; không; sao'
+    meaningEn: '(coll.) what?'
+    pos: ['y']
+    frequencyRank: 83
+    radical: '口'
+  - simplified: '太'
+    pinyin: 'tài'
+    pinyinNumeric: 'tai4'
+    hanViet: 'thái'
+    meaningVi: 'rất; quá'
+    meaningEn: 'highest; greatest; too (much)'
+    pos: ['d', 'b']
+    frequencyRank: 87
+    radical: '大'
+  - simplified: '呢'
+    pinyin: 'ne'
+    pinyinNumeric: 'ne5'
+    hanViet: 'ni'
+    meaningVi: 'đâu; mà; đây; mất'
+    meaningEn: 'particle indicating that a previously asked question is to be applied to the preceding word ("What about ...?", "And ...?"); particle for inquiring about location ("Where is ...?"); particle signaling a pause, to emphasize the preceding words and allow the listener time to take them on board ("ok?", "are you with me?")'
+    pos: ['y']
+    frequencyRank: 96
+    radical: '口'
+  - simplified: '小'
+    pinyin: 'xiǎo'
+    pinyinNumeric: 'xiao3'
+    hanViet: 'tiểu'
+    meaningVi: 'nhỏ'
+    meaningEn: 'small; tiny; few'
+    pos: ['a', 'ad']
+    frequencyRank: 100
+    radical: '小'
+  - simplified: '时候'
+    traditional: '時候'
+    pinyin: 'shí hou'
+    pinyinNumeric: 'shi2 hou5'
+    hanViet: 'thời hậu'
+    meaningVi: 'thời điểm; thời gian; lúc; khi'
+    meaningEn: 'time; length of time; moment'
+    pos: ['n']
+    frequencyRank: 107
+    radical: '日'
+  - simplified: '工作'
+    pinyin: 'gōng zuò'
+    pinyinNumeric: 'gong1 zuo4'
+    hanViet: 'công tác'
+    meaningVi: 'làm việc; việc làm; nghề nghiệp; công việc'
+    meaningEn: 'to work; (of a machine) to operate; job'
+    pos: ['vn', 'v', 'n']
+    classifiers: ['个', '份', '项']
+    frequencyRank: 111
+    radical: '工'
+  - simplified: '家'
+    pinyin: 'jiā'
+    pinyinNumeric: 'jia1'
+    hanViet: 'gia'
+    meaningVi: 'nhà'
+    meaningEn: 'home; family; (polite) my (sister, uncle etc)'
+    pos: ['n', 'q']
+    classifiers: ['个']
+    frequencyRank: 124
+    radical: '宀'
+  - simplified: '怎么'
+    traditional: '怎麼'
+    pinyin: 'zěn me'
+    pinyinNumeric: 'zen3 me5'
+    hanViet: 'chẩm yêu'
+    meaningVi: 'như thế nào; thế nào; sao; làm sao'
+    meaningEn: 'how?; what?; why?'
+    pos: ['r']
+    frequencyRank: 128
+    radical: '心'
+  - simplified: '爱'
+    traditional: '愛'
+    pinyin: 'ài'
+    pinyinNumeric: 'ai4'
+    hanViet: 'ái'
+    meaningVi: 'yêu'
+    meaningEn: 'to love; to be fond of; to like; affection; to be inclined (to do sth); to tend to (happen)'
+    pos: ['v', 'vn', 'b']
+    frequencyRank: 130
+    radical: '爫'
+  - simplified: '喜欢'
+    traditional: '喜歡'
+    pinyin: 'xǐ huan'
+    pinyinNumeric: 'xi3 huan5'
+    hanViet: 'hỷ hoan'
+    meaningVi: 'thích; yêu mến; ưa thích; vui mừng'
+    meaningEn: 'to like; to be fond of'
+    pos: ['v', 'vn']
+    frequencyRank: 139
+    radical: '口'
+  - simplified: '吃'
+    pinyin: 'chī'
+    pinyinNumeric: 'chi1'
+    hanViet: 'cật'
+    meaningVi: 'ăn'
+    meaningEn: 'to eat; to consume; to eat at (a cafeteria etc); to eradicate; to destroy'
+    pos: ['v']
+    frequencyRank: 142
+    radical: '口'
+  - simplified: '谁'
+    traditional: '誰'
+    pinyin: 'shéi'
+    pinyinNumeric: 'shei2'
+    hanViet: 'thuỳ'
+    meaningVi: 'ai; thùy; người nào; đó'
+    meaningEn: 'who; also pr. [shuí]'
+    pos: ['r']
+    frequencyRank: 142
+    radical: '讠'
+  - simplified: '今天'
+    pinyin: 'jīn tiān'
+    pinyinNumeric: 'jin1 tian1'
+    hanViet: 'kim thiên'
+    meaningVi: 'hôm nay; ngày hôm nay; hiện tại; trước mắt'
+    meaningEn: 'today; at the present; now'
+    pos: ['t']
+    frequencyRank: 155
+    radical: '人'
+  - simplified: '月'
+    pinyin: 'yuè'
+    pinyinNumeric: 'yue4'
+    hanViet: 'nguyệt'
+    meaningVi: 'tháng; trăng'
+    meaningEn: 'moon; month; monthly'
+    pos: ['n', 't']
+    classifiers: ['个', '轮']
+    frequencyRank: 161
+    radical: '月'
+  - simplified: '几'
+    pinyin: 'jī'
+    pinyinNumeric: 'ji1'
+    hanViet: 'cơ'
+    meaningVi: 'mấy; kỷ; vài'
+    meaningEn: 'small table'
+    pos: ['m', 'd']
+    frequencyRank: 178
+    radical: '几'
+  - simplified: '听'
+    pinyin: 'yǐn'
+    pinyinNumeric: 'yin3'
+    hanViet: 'dẫn'
+    meaningVi: 'nghe; thính'
+    meaningEn: 'smile (archaic)'
+    pos: ['v']
+    frequencyRank: 190
+    radical: '口'
+  - simplified: '开'
+    traditional: '開'
+    pinyin: 'kāi'
+    pinyinNumeric: 'kai1'
+    hanViet: 'khai'
+    meaningVi: 'mở. trái lại với chữ bế'
+    meaningEn: 'to open (transitive or intransitive); (of ships, vehicles, troops etc) to start; to turn on; to put in operation; to operate; to run'
+    pos: ['v', 'q']
+    frequencyRank: 195
+    radical: '廾'
+  - simplified: '叫'
+    pinyin: 'jiào'
+    pinyinNumeric: 'jiao4'
+    hanViet: 'khiếu'
+    meaningVi: 'kêu; gọi; bảo; làm'
+    meaningEn: 'to shout; to call; to order'
+    pos: ['v', 'p', 'n']
+    frequencyRank: 200
+    radical: '口'
+  - simplified: '请'
+    traditional: '請'
+    pinyin: 'qǐng'
+    pinyinNumeric: 'qing3'
+    hanViet: 'thỉnh'
+    meaningVi: 'xin; mời'
+    meaningEn: 'to ask; to invite; please (do sth)'
+    pos: ['v']
+    frequencyRank: 216
+    radical: '讠'
+  - simplified: '钱'
+    traditional: '錢'
+    pinyin: 'qián'
+    pinyinNumeric: 'qian2'
+    hanViet: 'tiền'
+    meaningVi: 'tiễn'
+    meaningEn: 'coin; money; unit of weight, one tenth of a tael 两'
+    pos: ['n', 'nr']
+    classifiers: ['笔']
+    frequencyRank: 218
+    radical: '钅'
+  - simplified: '本'
+    pinyin: 'běn'
+    pinyinNumeric: 'ben3'
+    hanViet: 'bản'
+    meaningVi: 'vốn'
+    meaningEn: 'root; stem; origin'
+    pos: ['r', 'q', 'd', 'n']
+    frequencyRank: 222
+    radical: '木'
+  - simplified: '回'
+    pinyin: 'huí'
+    pinyinNumeric: 'hui2'
+    hanViet: 'hồi'
+    meaningVi: 'quay về'
+    meaningEn: 'to circle; to go back; to turn around'
+    pos: ['v', 'qv']
+    frequencyRank: 225
+    radical: '囗'
+  - simplified: '东西'
+    traditional: '東西'
+    pinyin: 'dōng xī'
+    pinyinNumeric: 'dong1 xi1'
+    hanViet: 'đông tây'
+    meaningVi: 'đồ vật này nọ; phía đông và phía tây; từ đông sang tây; đồ'
+    meaningEn: 'east and west'
+    pos: ['n', 'f', 'nr']
+    frequencyRank: 226
+    radical: '一'
+  - simplified: '三'
+    pinyin: 'sān'
+    pinyinNumeric: 'san1'
+    hanViet: 'tam'
+    meaningVi: 'ba'
+    meaningEn: 'three; 3'
+    pos: ['m', 't']
+    frequencyRank: 233
+    radical: '一'
+  - simplified: '买'
+    traditional: '買'
+    pinyin: 'mǎi'
+    pinyinNumeric: 'mai3'
+    hanViet: 'mãi'
+    meaningVi: 'mua'
+    meaningEn: 'to buy; to purchase'
+    pos: ['v']
+    frequencyRank: 240
+    radical: '大'
+  - simplified: '岁'
+    traditional: '歲'
+    pinyin: 'suì'
+    pinyinNumeric: 'sui4'
+    hanViet: 'tuế'
+    meaningVi: 'tuổi'
+    meaningEn: 'classifier for years (of age); year; year (of crop harvests)'
+    pos: ['qt']
+    frequencyRank: 266
+    radical: '山'
+  - simplified: '朋友'
+    pinyin: 'péng you'
+    pinyinNumeric: 'peng2 you5'
+    hanViet: 'bằng hữu'
+    meaningVi: 'bạn bè; bạn; người yêu'
+    meaningEn: 'friend'
+    pos: ['n']
+    classifiers: ['个', '位']
+    frequencyRank: 280
+    radical: '月'
+  - simplified: '住'
+    pinyin: 'zhù'
+    pinyinNumeric: 'zhu4'
+    hanViet: 'trú'
+    meaningVi: 'thôi'
+    meaningEn: 'to live; to dwell; to stay'
+    pos: ['v']
+    frequencyRank: 280
+    radical: '亻'
+  - simplified: '水'
+    pinyin: 'shuǐ'
+    pinyinNumeric: 'shui3'
+    hanViet: 'thuỷ'
+    meaningVi: 'thủy; nước'
+    meaningEn: 'water; river; liquid'
+    pos: ['n']
+    frequencyRank: 335
+    radical: '水'
+  - simplified: '写'
+    traditional: '寫'
+    pinyin: 'xiě'
+    pinyinNumeric: 'xie3'
+    hanViet: 'tả'
+    meaningVi: 'viết'
+    meaningEn: 'to write'
+    pos: ['v']
+    frequencyRank: 352
+    radical: '冖'
+  - simplified: '日'
+    pinyin: 'rì'
+    pinyinNumeric: 'ri4'
+    hanViet: 'nhật'
+    meaningVi: 'ngày'
+    meaningEn: 'sun; day; date, day of the month'
+    pos: ['t', 'g', 'b', 'qt']
+    frequencyRank: 395
+    radical: '日'
+  - simplified: '喝'
+    pinyin: 'hē'
+    pinyinNumeric: 'he1'
+    hanViet: 'húp'
+    meaningVi: 'uống; hát; quát'
+    meaningEn: 'to drink; variant of 嗬'
+    pos: ['g', 'vn']
+    frequencyRank: 428
+    radical: '口'
+  - simplified: '学校'
+    traditional: '學校'
+    pinyin: 'xué xiào'
+    pinyinNumeric: 'xue2 xiao4'
+    hanViet: 'học hiệu'
+    meaningVi: 'trường học; nhà trường'
+    meaningEn: 'school'
+    pos: ['n']
+    classifiers: ['所']
+    frequencyRank: 430
+    radical: '子'
+  - simplified: '坐'
+    pinyin: 'zuò'
+    pinyinNumeric: 'zuo4'
+    hanViet: 'toạ'
+    meaningVi: 'tọa; ngồi'
+    meaningEn: 'to sit; to take a seat; to take (a bus, airplane etc)'
+    pos: ['v']
+    frequencyRank: 435
+    radical: '土'
+  - simplified: '认识'
+    traditional: '認識'
+    pinyin: 'rèn shi'
+    pinyinNumeric: 'ren4 shi5'
+    hanViet: 'nhận thức'
+    meaningVi: 'biết; nhận biết'
+    meaningEn: 'to know; to recognize; to be familiar with'
+    pos: ['v', 'n', 'vn']
+    frequencyRank: 463
+    radical: '讠'
+  - simplified: '分钟'
+    traditional: '分鐘'
+    pinyin: 'fēn zhōng'
+    pinyinNumeric: 'fen1 zhong1'
+    hanViet: 'phân chung'
+    meaningVi: 'phút'
+    meaningEn: 'minute'
+    pos: ['qt']
+    frequencyRank: 465
+    radical: '刀'
+  - simplified: '明天'
+    pinyin: 'míng tiān'
+    pinyinNumeric: 'ming2 tian1'
+    hanViet: 'minh thiên'
+    meaningVi: 'ngày mai; mai đây; mai kia; tương lai'
+    meaningEn: 'tomorrow'
+    pos: ['t']
+    frequencyRank: 469
+    radical: '日'
+  - simplified: '四'
+    pinyin: 'sì'
+    pinyinNumeric: 'si4'
+    hanViet: 'tứ'
+    meaningVi: 'bốn'
+    meaningEn: 'four; 4'
+    pos: ['m', 't']
+    frequencyRank: 481
+    radical: '囗'
+  - simplified: '块'
+    traditional: '塊'
+    pinyin: 'kuài'
+    pinyinNumeric: 'kuai4'
+    hanViet: 'khối'
+    meaningVi: 'hòn, phàm vật gì tích dần lại thành từng hòn gọi là khối. 2 khối nhiên lù vậy. ðứng trơ trọi một mình không cầu chi gọi là khối nhiên'
+    meaningEn: 'lump; chunk; piece; classifier for pieces of cloth, cake, soap etc; (coll.) classifier for money and currency units'
+    pos: ['q', 'g']
+    frequencyRank: 483
+    radical: '土'
+  - simplified: '谢谢'
+    traditional: '謝謝'
+    pinyin: 'xiè xie'
+    pinyinNumeric: 'xie4 xie5'
+    hanViet: 'tạ tạ'
+    meaningVi: 'cám ơn; cảm tạ; cảm ơn; tạ ơn'
+    meaningEn: 'to thank; thanks; thank you'
+    pos: ['v']
+    frequencyRank: 520
+    radical: '讠'
+  - simplified: '多少'
+    pinyin: 'duō shǎo'
+    pinyinNumeric: 'duo1 shao3'
+    hanViet: 'đa thiểu'
+    meaningVi: 'nhiều ít; bao nhiêu; hoặc nhiều hoặc ít; hoặc ít hoặc nhiều'
+    meaningEn: 'number; amount; somewhat'
+    pos: ['r']
+    frequencyRank: 526
+    radical: '夕'
+  - simplified: '妈妈'
+    traditional: '媽媽'
+    pinyin: 'mā ma'
+    pinyinNumeric: 'ma1 ma5'
+    hanViet: 'má má'
+    meaningVi: 'mụ mụ; mẹ; má; me'
+    meaningEn: 'mama; mommy; mother'
+    pos: ['n']
+    classifiers: ['个', '位']
+    frequencyRank: 527
+    radical: '女'
+  - simplified: '少'
+    pinyin: 'shǎo'
+    pinyinNumeric: 'shao3'
+    hanViet: 'thiểu'
+    meaningVi: 'ít'
+    meaningEn: 'few; less; to lack'
+    pos: ['a', 'ad', 'v', 'd', 'g']
+    frequencyRank: 538
+    radical: '小'
+  - simplified: '电影'
+    traditional: '電影'
+    pinyin: 'diàn yǐng'
+    pinyinNumeric: 'dian4 ying3'
+    hanViet: 'điện ảnh'
+    meaningVi: 'phim; chiếu bóng'
+    meaningEn: 'movie; film'
+    pos: ['n']
+    classifiers: ['部', '片', '幕', '场']
+    frequencyRank: 546
+    radical: '曰'
+  - simplified: '哪'
+    pinyin: 'nǎ'
+    pinyinNumeric: 'na3'
+    hanViet: 'nả'
+    meaningVi: 'na; chưa'
+    meaningEn: 'how; which'
+    pos: ['r', 'y']
+    frequencyRank: 547
+    radical: '口'
+  - simplified: '昨天'
+    pinyin: 'zuó tiān'
+    pinyinNumeric: 'zuo2 tian1'
+    hanViet: 'tạc thiên'
+    meaningVi: 'ngày hôm qua; hôm qua; đã qua; trước kia'
+    meaningEn: 'yesterday'
+    pos: ['t']
+    frequencyRank: 557
+    radical: '日'
+  - simplified: '书'
+    traditional: '書'
+    pinyin: 'shū'
+    pinyinNumeric: 'shu1'
+    hanViet: 'thư'
+    meaningVi: 'sách'
+    meaningEn: 'book; letter; document'
+    pos: ['n', 'g']
+    classifiers: ['本', '册', '部']
+    frequencyRank: 560
+    radical: '丨'
+  - simplified: '五'
+    pinyin: 'wǔ'
+    pinyinNumeric: 'wu3'
+    hanViet: 'ngũ'
+    meaningVi: 'năm'
+    meaningEn: 'five; 5'
+    pos: ['m', 't']
+    frequencyRank: 563
+    radical: '二'
+  - simplified: '先生'
+    pinyin: 'xiān sheng'
+    pinyinNumeric: 'xian1 sheng5'
+    hanViet: 'tiên sinh'
+    meaningVi: 'thầy; thầy giáo; ngài; chồng'
+    meaningEn: 'teacher; gentleman; sir; mister (Mr.); husband'
+    pos: ['n']
+    classifiers: ['位']
+    frequencyRank: 586
+    radical: '儿'
+  - simplified: '医院'
+    traditional: '醫院'
+    pinyin: 'yī yuàn'
+    pinyinNumeric: 'yi1 yuan4'
+    hanViet: 'y viện'
+    meaningVi: 'bệnh viện; nhà thương'
+    meaningEn: 'hospital'
+    pos: ['n']
+    classifiers: ['所', '家', '座']
+    frequencyRank: 608
+    radical: '匸'
+  - simplified: '些'
+    pinyin: 'xiē'
+    pinyinNumeric: 'xie1'
+    hanViet: 'ta'
+    meaningVi: 'chút; những; nhiều'
+    meaningEn: 'classifier indicating a small amount or small number greater than 1: some, a few, several'
+    pos: ['q']
+    frequencyRank: 611
+    radical: '二'
+  - simplified: '狗'
+    pinyin: 'gǒu'
+    pinyinNumeric: 'gou3'
+    hanViet: 'cẩu'
+    meaningVi: 'chó; con chó'
+    meaningEn: 'dog'
+    pos: ['n']
+    classifiers: ['只', '条']
+    frequencyRank: 620
+    radical: '犭'
+  - simplified: '学生'
+    traditional: '學生'
+    pinyin: 'xué sheng'
+    pinyinNumeric: 'xue2 sheng5'
+    hanViet: 'học sinh'
+    meaningVi: 'đệ tử; học trò; con trai'
+    meaningEn: 'student; schoolchild'
+    pos: ['n']
+    frequencyRank: 651
+    radical: '子'
+  - simplified: '二'
+    pinyin: 'èr'
+    pinyinNumeric: 'er4'
+    hanViet: 'nhị'
+    meaningVi: 'hai'
+    meaningEn: 'two; 2; (Beijing dialect) stupid'
+    pos: ['m', 't']
+    frequencyRank: 664
+    radical: '二'
+  - simplified: '儿子'
+    traditional: '兒子'
+    pinyin: 'ér zi'
+    pinyinNumeric: 'er2 zi5'
+    hanViet: 'nhân tử'
+    meaningVi: 'đứa con; nhi tử; con trai; người con'
+    meaningEn: 'son'
+    pos: ['n']
+    frequencyRank: 665
+    radical: '儿'
+  - simplified: '中国'
+    traditional: '中國'
+    pinyin: 'Zhōng guó'
+    pinyinNumeric: 'Zhong1 guo2'
+    hanViet: 'trung quốc'
+    meaningVi: 'trung hoa trung quốc; china; nước cộng hoà nhân dân trung hoa'
+    meaningEn: 'China'
+    pos: ['ns']
+    frequencyRank: 729
+    radical: '丨'
+  - simplified: '电视'
+    traditional: '電視'
+    pinyin: 'diàn shì'
+    pinyinNumeric: 'dian4 shi4'
+    hanViet: 'điện thị'
+    meaningVi: 'tv; truyền hình; ti-vi; máy truyền hình'
+    meaningEn: 'television; TV'
+    pos: ['n']
+    classifiers: ['台', '个']
+    frequencyRank: 779
+    radical: '曰'
+  - simplified: '下午'
+    pinyin: 'xià wǔ'
+    pinyinNumeric: 'xia4 wu3'
+    hanViet: 'hạ ngọ'
+    meaningVi: 'buổi chiều'
+    meaningEn: 'afternoon; p.m.'
+    pos: ['t']
+    classifiers: ['个']
+    frequencyRank: 782
+    radical: '一'
+  - simplified: '学习'
+    traditional: '學習'
+    pinyin: 'xué xí'
+    pinyinNumeric: 'xue2 xi2'
+    hanViet: 'học tập'
+    meaningVi: 'học'
+    meaningEn: 'to learn; to study'
+    pos: ['v', 'vn']
+    frequencyRank: 789
+    radical: '子'
+  - simplified: '老师'
+    traditional: '老師'
+    pinyin: 'lǎo shī'
+    pinyinNumeric: 'lao3 shi1'
+    hanViet: 'lão sư'
+    meaningVi: 'thầy cô giáo; bậc thầy'
+    meaningEn: 'teacher'
+    pos: ['n']
+    classifiers: ['个', '位']
+    frequencyRank: 799
+    radical: '老'
+  - simplified: '六'
+    pinyin: 'liù'
+    pinyinNumeric: 'liu4'
+    hanViet: 'lục'
+    meaningVi: 'sáu'
+    meaningEn: 'six; 6'
+    pos: ['m', 't']
+    frequencyRank: 802
+    radical: '八'
+  - simplified: '医生'
+    traditional: '醫生'
+    pinyin: 'yī shēng'
+    pinyinNumeric: 'yi1 sheng1'
+    hanViet: 'y sinh'
+    meaningVi: 'thầy thuốc; bác sĩ'
+    meaningEn: 'doctor'
+    pos: ['n']
+    classifiers: ['个', '位', '名']
+    frequencyRank: 827
+    radical: '匸'
+  - simplified: '名字'
+    pinyin: 'míng zi'
+    pinyinNumeric: 'ming2 zi5'
+    hanViet: 'danh tự'
+    meaningVi: 'tên'
+    meaningEn: 'name (of a person or thing)'
+    pos: ['n']
+    classifiers: ['个']
+    frequencyRank: 829
+    radical: '口'
+  - simplified: '十'
+    pinyin: 'shí'
+    pinyinNumeric: 'shi2'
+    hanViet: 'thập'
+    meaningVi: 'mười'
+    meaningEn: 'ten; 10'
+    pos: ['m', 't']
+    frequencyRank: 865
+    radical: '十'
+  - simplified: '看见'
+    traditional: '看見'
+    pinyin: 'kàn jiàn'
+    pinyinNumeric: 'kan4 jian4'
+    hanViet: 'khán kiến'
+    meaningVi: 'thấy; trông thấy; thấy được; nhìn thấy'
+    meaningEn: 'to see; to catch sight of'
+    pos: ['v']
+    frequencyRank: 870
+    radical: '目'
+  - simplified: '女儿'
+    traditional: '女兒'
+    pinyin: 'nǚ ér'
+    pinyinNumeric: 'nü3 er2'
+    hanViet: 'nữ nhân'
+    meaningVi: 'nữ nhi; con gái'
+    meaningEn: 'daughter'
+    pos: ['n']
+    frequencyRank: 879
+    radical: '女'
+  - simplified: '说话'
+    traditional: '說話'
+    pinyin: 'shuō huà'
+    pinyinNumeric: 'shuo1 hua4'
+    hanViet: 'thuyết thoại'
+    meaningVi: 'nói chuyện; nói; nói ra; trò chuyện'
+    meaningEn: 'to speak; to say; to talk'
+    pos: ['v', 'vn']
+    frequencyRank: 880
+    radical: '讠'
+  - simplified: '爸爸'
+    pinyin: 'bà ba'
+    pinyinNumeric: 'ba4 ba5'
+    hanViet: 'ba ba'
+    meaningVi: 'bố, ba, cha'
+    meaningEn: '(coll.) father; dad'
+    pos: ['n']
+    classifiers: ['个', '位']
+    frequencyRank: 908
+    radical: '父'
+  - simplified: '字'
+    pinyin: 'zì'
+    pinyinNumeric: 'zi4'
+    hanViet: 'tự'
+    meaningVi: 'chữ'
+    meaningEn: 'letter; symbol; character'
+    pos: ['n']
+    classifiers: ['个']
+    frequencyRank: 913
+    radical: '子'
+  - simplified: '漂亮'
+    pinyin: 'piào liang'
+    pinyinNumeric: 'piao4 liang5'
+    hanViet: 'phiếu lượng'
+    meaningVi: 'xinh đẹp; đẹp; xinh xắn'
+    meaningEn: 'pretty; beautiful'
+    pos: ['a']
+    frequencyRank: 915
+    radical: '氵'
+  - simplified: '高兴'
+    traditional: '高興'
+    pinyin: 'gāo xìng'
+    pinyinNumeric: 'gao1 xing4'
+    hanViet: 'cao hứng'
+    meaningVi: 'vui vẻ; vui mừng; phấn chấn; thích'
+    meaningEn: 'happy; glad; willing (to do sth)'
+    pos: ['a', 'an']
+    frequencyRank: 920
+    radical: '高'
+  - simplified: '热'
+    traditional: '熱'
+    pinyin: 'rè'
+    pinyinNumeric: 're4'
+    hanViet: 'nhiệt'
+    meaningVi: 'nóng'
+    meaningEn: 'to warm up; to heat up; hot (of weather)'
+    pos: ['a', 'n', 'k', 'v', 'ad', 'an']
+    frequencyRank: 938
+    radical: '灬'
+  - simplified: '睡觉'
+    traditional: '睡覺'
+    pinyin: 'shuì jiào'
+    pinyinNumeric: 'shui4 jiao4'
+    hanViet: 'thuỵ giáo'
+    meaningVi: 'ngủ; đi ngủ'
+    meaningEn: 'to go to bed; to sleep'
+    pos: ['v']
+    frequencyRank: 944
+    radical: '目'
+  - simplified: '电脑'
+    traditional: '電腦'
+    pinyin: 'diàn nǎo'
+    pinyinNumeric: 'dian4 nao3'
+    hanViet: 'điện não'
+    meaningVi: 'máy tính; máy vi tính'
+    meaningEn: 'computer'
+    pos: ['n']
+    classifiers: ['台']
+    frequencyRank: 946
+    radical: '曰'
+  - simplified: '读'
+    traditional: '讀'
+    pinyin: 'dòu'
+    pinyinNumeric: 'dou4'
+    hanViet: 'đậu'
+    meaningVi: 'đọc; độc'
+    meaningEn: 'comma; phrase marked by pause'
+    pos: ['v']
+    frequencyRank: 1013
+    radical: '讠'
+  - simplified: '冷'
+    pinyin: 'lěng'
+    pinyinNumeric: 'leng3'
+    hanViet: 'lạnh'
+    meaningVi: 'lãnh'
+    meaningEn: 'cold'
+    pos: ['a', 'ad', 'g']
+    frequencyRank: 1027
+    radical: '冫'
+  - simplified: '飞机'
+    traditional: '飛機'
+    pinyin: 'fēi jī'
+    pinyinNumeric: 'fei1 ji1'
+    hanViet: 'phi cơ'
+    meaningVi: 'máy bay; trực thăng'
+    meaningEn: 'airplane'
+    pos: ['n']
+    classifiers: ['架']
+    frequencyRank: 1067
+    radical: '飞'
+  - simplified: '猫'
+    traditional: '貓'
+    pinyin: 'māo'
+    pinyinNumeric: 'mao1'
+    hanViet: 'miêu'
+    meaningVi: 'con mèo'
+    meaningEn: 'cat; (dialect) to hide oneself; (coll.) modem'
+    pos: ['n', 'v']
+    classifiers: ['只']
+    frequencyRank: 1150
+    radical: '犭'
+  - simplified: '打电话'
+    traditional: '打電話'
+    pinyin: 'dǎ diàn huà'
+    pinyinNumeric: 'da3 dian4 hua4'
+    hanViet: 'đả điện thoại'
+    meaningVi: 'gọi điện thoại; gọi điện'
+    meaningEn: 'to make a telephone call'
+    pos: ['v']
+    frequencyRank: 1218
+    radical: '扌'
+  - simplified: '后面'
+    traditional: '後面'
+    pinyin: 'hòu mian'
+    pinyinNumeric: 'hou4 mian5'
+    hanViet: 'hậu diện'
+    meaningVi: 'mặt sau; phía; phía sau; đằng sau'
+    meaningEn: 'the back; the rear; the last bit; behind; near the end; at the back; later; afterwards'
+    pos: ['f']
+    frequencyRank: 1300
+    radical: '口'
+  - simplified: '喂'
+    pinyin: 'wéi'
+    pinyinNumeric: 'wei2'
+    hanViet: 'uy'
+    meaningVi: 'này'
+    meaningEn: 'hello (when answering the phone)'
+    pos: ['v', 'e']
+    frequencyRank: 1301
+    radical: '口'
+  - simplified: '八'
+    pinyin: 'bā'
+    pinyinNumeric: 'ba1'
+    hanViet: 'bát'
+    meaningVi: 'tám'
+    meaningEn: 'eight; 8'
+    pos: ['m', 't']
+    frequencyRank: 1362
+    radical: '八'
+  - simplified: '怎么样'
+    traditional: '怎麼樣'
+    pinyin: 'zěn me yàng'
+    pinyinNumeric: 'zen3 me5 yang4'
+    hanViet: 'chẩm yêu dạng'
+    meaningVi: 'thế nào; ra làm sao; làm gì'
+    meaningEn: 'how?; how about?; how was it?'
+    pos: ['r']
+    frequencyRank: 1367
+    radical: '心'
+  - simplified: '七'
+    pinyin: 'qī'
+    pinyinNumeric: 'qi1'
+    hanViet: 'thất'
+    meaningVi: 'bảy'
+    meaningEn: 'seven; 7'
+    pos: ['m', 't']
+    frequencyRank: 1419
+    radical: '一'
+  - simplified: '菜'
+    pinyin: 'cài'
+    pinyinNumeric: 'cai4'
+    hanViet: 'thái'
+    meaningVi: 'đồ ăn; rau; món ăn'
+    meaningEn: 'dish (type of food); vegetable; cuisine'
+    pos: ['n']
+    classifiers: ['盘', '道']
+    frequencyRank: 1448
+    radical: '艹'
+  - simplified: '衣服'
+    pinyin: 'yī fu'
+    pinyinNumeric: 'yi1 fu5'
+    hanViet: 'y phục'
+    meaningVi: 'quần áo'
+    meaningEn: 'clothes'
+    pos: ['n']
+    classifiers: ['件', '套']
+    frequencyRank: 1472
+    radical: '衣'
+  - simplified: '小姐'
+    pinyin: 'xiǎo jie'
+    pinyinNumeric: 'xiao3 jie5'
+    hanViet: 'tiểu tỷ'
+    meaningVi: 'tiểu thư; cô'
+    meaningEn: 'young lady; miss; (slang) prostitute'
+    pos: ['n']
+    classifiers: ['个', '位']
+    frequencyRank: 1575
+    radical: '小'
+  - simplified: '对不起'
+    traditional: '對不起'
+    pinyin: 'duì bu qǐ'
+    pinyinNumeric: 'dui4 bu5 qi3'
+    hanViet: 'đối bất khởi'
+    meaningVi: 'thực xin lỗi; xin lỗi; có lỗi với..'
+    meaningEn: 'I''m sorry; excuse me; I beg your pardon; to let (sb) down; to disappoint'
+    pos: ['v']
+    frequencyRank: 1577
+    radical: '寸'
+  - simplified: '天气'
+    traditional: '天氣'
+    pinyin: 'tiān qì'
+    pinyinNumeric: 'tian1 qi4'
+    hanViet: 'thiên khí'
+    meaningVi: 'thời tiết; khí trời; thời gian'
+    meaningEn: 'weather'
+    pos: ['n']
+    frequencyRank: 1675
+    radical: '大'
+  - simplified: '前面'
+    pinyin: 'qián miàn'
+    pinyinNumeric: 'qian2 mian4'
+    hanViet: 'tiền diện'
+    meaningVi: 'phía trước; đằng trước; phần đầu'
+    meaningEn: 'ahead; in front; preceding'
+    pos: ['f']
+    frequencyRank: 1789
+    radical: '刂'
+  - simplified: '同学'
+    traditional: '同學'
+    pinyin: 'tóng xué'
+    pinyinNumeric: 'tong2 xue2'
+    hanViet: 'đồng học'
+    meaningVi: 'cùng học; học chung; bạn học; đồng môn'
+    meaningEn: 'to study at the same school; fellow student; classmate'
+    pos: ['n']
+    classifiers: ['位', '个']
+    frequencyRank: 1828
+    radical: '口'
+  - simplified: '茶'
+    pinyin: 'chá'
+    pinyinNumeric: 'cha2'
+    hanViet: 'trà'
+    meaningVi: 'cây chè (trà), lá dùng chế ra các thứ chè uống'
+    meaningEn: 'tea; tea plant'
+    pos: ['n', 'g']
+    classifiers: ['杯', '壶']
+    frequencyRank: 1910
+    radical: '艹'
+  - simplified: '星期'
+    pinyin: 'xīng qī'
+    pinyinNumeric: 'xing1 qi1'
+    hanViet: 'tinh kỳ'
+    meaningVi: 'cuối tuần; tuần lễ; ngày thứ; chủ nhật'
+    meaningEn: 'week; day of the week; Sunday'
+    pos: ['n']
+    classifiers: ['个']
+    frequencyRank: 1956
+    radical: '日'
+  - simplified: '九'
+    pinyin: 'jiǔ'
+    pinyinNumeric: 'jiu3'
+    hanViet: 'cửu'
+    meaningVi: 'chín'
+    meaningEn: 'nine; 9'
+    pos: ['m', 't', 'b']
+    frequencyRank: 2040
+    radical: '乙'
+  - simplified: '上午'
+    pinyin: 'shàng wǔ'
+    pinyinNumeric: 'shang4 wu3'
+    hanViet: 'thượng ngọ'
+    meaningVi: 'buổi sáng'
+    meaningEn: 'morning'
+    pos: ['t']
+    classifiers: ['个']
+    frequencyRank: 2188
+    radical: '一'
+  - simplified: '再见'
+    traditional: '再見'
+    pinyin: 'zài jiàn'
+    pinyinNumeric: 'zai4 jian4'
+    hanViet: 'tái kiến'
+    meaningVi: 'tạm biệt; chào tạm biệt'
+    meaningEn: 'goodbye; see you again later'
+    pos: ['v']
+    frequencyRank: 2487
+    radical: '冂'
+  - simplified: '苹果'
+    traditional: '蘋果'
+    pinyin: 'píng guǒ'
+    pinyinNumeric: 'ping2 guo3'
+    hanViet: 'bình quả'
+    meaningVi: 'cây táo; quả táo; trái táo'
+    meaningEn: 'apple'
+    pos: ['n']
+    classifiers: ['个', '颗']
+    frequencyRank: 2562
+    radical: '艹'
+  - simplified: '中午'
+    pinyin: 'zhōng wǔ'
+    pinyinNumeric: 'zhong1 wu3'
+    hanViet: 'trung ngọ'
+    meaningVi: 'giữa trưa; buổi trưa; đứng bóng'
+    meaningEn: 'noon; midday'
+    pos: ['t']
+    classifiers: ['个']
+    frequencyRank: 2600
+    radical: '丨'
+  - simplified: '出租车'
+    traditional: '出租車'
+    pinyin: 'chū zū chē'
+    pinyinNumeric: 'chu1 zu1 che1'
+    hanViet: 'xuất tô xa'
+    meaningVi: 'xe taxi'
+    meaningEn: 'taxi; (Tw) rental car'
+    pos: ['n']
+    frequencyRank: 2677
+    radical: '凵'
+  - simplified: '水果'
+    pinyin: 'shuǐ guǒ'
+    pinyinNumeric: 'shui3 guo3'
+    hanViet: 'thuỷ quả'
+    meaningVi: 'hoa quả; trái cây'
+    meaningEn: 'fruit'
+    pos: ['n']
+    classifiers: ['个']
+    frequencyRank: 3271
+    radical: '水'
+  - simplified: '商店'
+    pinyin: 'shāng diàn'
+    pinyinNumeric: 'shang1 dian4'
+    hanViet: 'thương điếm'
+    meaningVi: 'cửa hàng; hiệu buôn'
+    meaningEn: 'store; shop'
+    pos: ['n']
+    classifiers: ['家', '个']
+    frequencyRank: 3479
+    radical: '口'
+  - simplified: '没关系'
+    traditional: '沒關係'
+    pinyin: 'méi guān xi'
+    pinyinNumeric: 'mei2 guan1 xi5'
+    hanViet: 'một quan hệ'
+    meaningVi: 'không quan hệ; không sao; không việc gì; đừng ngại'
+    meaningEn: 'it doesn''t matter'
+    pos: ['v']
+    frequencyRank: 3541
+    radical: '氵'
+  - simplified: '零'
+    pinyin: 'líng'
+    pinyinNumeric: 'ling2'
+    hanViet: 'linh'
+    meaningVi: 'lẻ'
+    meaningEn: 'zero; nought; zero sign'
+    pos: ['m', 't', 'g']
+    frequencyRank: 3623
+    radical: '雨'
+  - simplified: '桌子'
+    pinyin: 'zhuō zi'
+    pinyinNumeric: 'zhuo1 zi5'
+    hanViet: 'trác tử'
+    meaningVi: 'cái bàn; bàn'
+    meaningEn: 'table; desk'
+    pos: ['n']
+    classifiers: ['张', '套']
+    frequencyRank: 3639
+    radical: '木'
+  - simplified: '椅子'
+    pinyin: 'yǐ zi'
+    pinyinNumeric: 'yi3 zi5'
+    hanViet: 'ỷ tử'
+    meaningVi: 'ghế dựa; cái ghế; ghế tựa'
+    meaningEn: 'chair'
+    pos: ['n']
+    classifiers: ['把', '套']
+    frequencyRank: 4472
+    radical: '木'
+  - simplified: '北京'
+    pinyin: 'Běi jīng'
+    pinyinNumeric: 'Bei3 jing1'
+    hanViet: 'bắc kinh'
+    meaningVi: 'beijing'
+    meaningEn: 'Beijing, capital of the People''s Republic of China'
+    pos: ['ns']
+    frequencyRank: 4799
+    radical: '匕'
+  - simplified: '下雨'
+    pinyin: 'xià yǔ'
+    pinyinNumeric: 'xia4 yu3'
+    hanViet: 'hạ vũ'
+    meaningVi: 'trời mưa'
+    meaningEn: 'to rain'
+    pos: ['v']
+    frequencyRank: 5648
+    radical: '一'
+  - simplified: '杯子'
+    pinyin: 'bēi zi'
+    pinyinNumeric: 'bei1 zi5'
+    hanViet: 'bôi tử'
+    meaningVi: 'cái chén; cốc; chén; ly'
+    meaningEn: 'cup; glass'
+    pos: ['n']
+    classifiers: ['个', '只']
+    frequencyRank: 6162
+    radical: '木'
+  - simplified: '火车站'
+    traditional: '火車站'
+    pinyin: 'huǒ chē zhàn'
+    pinyinNumeric: 'huo3 che1 zhan4'
+    hanViet: 'hoả xa trạm'
+    meaningVi: 'nhà ga; trạm xe lửa'
+    meaningEn: 'train station'
+    pos: ['n']
+    frequencyRank: 7270
+    radical: '火'
+  - simplified: '米饭'
+    traditional: '米飯'
+    pinyin: 'mǐ fàn'
+    pinyinNumeric: 'mi3 fan4'
+    hanViet: 'mễ phạn'
+    meaningVi: 'cơm; cơm tẻ'
+    meaningEn: '(cooked) rice'
+    pos: ['n']
+    frequencyRank: 10194
+    radical: '米'
+  - simplified: '汉语'
+    traditional: '漢語'
+    pinyin: 'Hàn yǔ'
+    pinyinNumeric: 'Han4 yu3'
+    hanViet: 'hán ngữ'
+    meaningVi: 'tiếng hán; tiếng hoa; tiếng trung quốc'
+    meaningEn: 'Chinese language'
+    pos: ['nz']
+    classifiers: ['门']
+    frequencyRank: 13422
+    radical: '氵'
+  - simplified: '饭馆'
+    traditional: '飯館'
+    pinyin: 'fàn guǎn'
+    pinyinNumeric: 'fan4 guan3'
+    hanViet: 'phạn quán'
+    meaningVi: 'tiệm cơm; quán cơm; hiệu ăn'
+    meaningEn: 'restaurant'
+    pos: ['n']
+    classifiers: ['家']
+    frequencyRank: 16449
+    radical: '饣'
+  - simplified: '不客气'
+    traditional: '不客氣'
+    pinyin: 'bù kè qi'
+    pinyinNumeric: 'bu4 ke4 qi5'
+    hanViet: 'bất khách khí'
+    meaningVi: 'không khách khí'
+    meaningEn: 'you''re welcome; don''t mention it; impolite'
+    frequencyRank: 16723
+    radical: '一'

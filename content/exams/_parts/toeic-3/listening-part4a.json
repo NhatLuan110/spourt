@@ -1,0 +1,547 @@
+[
+  {
+    "id": "listening-part4-t1",
+    "skill": "listening",
+    "title": "Part 4 — Talk 1: results briefing",
+    "format": "TOEIC Listening — Part 4 · Talk 1 (câu 71–73)",
+    "instructionsVi": "Ở mục tiêu 800, Part 4 có câu hỏi hàm ý: người nói nêu hai sự việc cạnh nhau và để người nghe tự nối.",
+    "promptEn": "Listen to the briefing and answer questions 71 through 73.",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "Speaker",
+        "text": "Right, the customer survey. Two hundred and forty responses, our best return yet."
+      },
+      {
+        "speaker": "Speaker",
+        "text": "Satisfaction with the product is up two points. Satisfaction with support is down, and down most sharply among customers who have been with us longest."
+      },
+      {
+        "speaker": "Speaker",
+        "text": "We moved support onto the new ticketing system in March, and long-standing customers are precisely the ones who used to phone a named person. I'll leave you to join those two facts up."
+      },
+      {
+        "speaker": "Speaker",
+        "text": "What I want from this meeting is a decision: restore a direct line for accounts over a certain size, or invest in making the ticket system faster for everyone."
+      },
+      {
+        "speaker": "Speaker",
+        "text": "Both cost money. Doing neither also costs money, just later, and to someone else's budget."
+      }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p4-71",
+        "kind": "mcq",
+        "prompt": "71. What is the overall trend in product satisfaction?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Down two points"
+          },
+          {
+            "id": "b",
+            "text": "Unchanged"
+          },
+          {
+            "id": "c",
+            "text": "Not measured this year"
+          },
+          {
+            "id": "d",
+            "text": "Up two points"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'Satisfaction with the product is up two points'. Cái GIẢM là hạng mục hỗ trợ."
+      },
+      {
+        "id": "p4-72",
+        "kind": "mcq",
+        "prompt": "72. What does the speaker imply by 'I'll leave you to join those two facts up'?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The survey may be unreliable."
+          },
+          {
+            "id": "b",
+            "text": "Long-standing customers are hard to please."
+          },
+          {
+            "id": "c",
+            "text": "The new ticketing system is probably behind the drop."
+          },
+          {
+            "id": "d",
+            "text": "More data is needed first."
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "Hai sự việc đặt cạnh nhau: đổi hệ thống vào tháng Ba, và nhóm khách cũ vốn quen gọi thẳng một người."
+      },
+      {
+        "id": "p4-73",
+        "kind": "mcq",
+        "prompt": "73. What does the speaker mean about doing nothing?",
+        "options": [
+          {
+            "id": "a",
+            "text": "It is the cheapest option."
+          },
+          {
+            "id": "b",
+            "text": "It has a cost that appears later elsewhere."
+          },
+          {
+            "id": "c",
+            "text": "It is not permitted by the board."
+          },
+          {
+            "id": "d",
+            "text": "It would improve satisfaction."
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'Doing neither also costs money, just later, and to someone else's budget'."
+      }
+    ]
+  },
+  {
+    "id": "listening-part4-t2",
+    "skill": "listening",
+    "title": "Part 4 — Talk 2: voicemail about a claim",
+    "format": "TOEIC Listening — Part 4 · Talk 2 (câu 74–76)",
+    "instructionsVi": "Tin nhắn thoại có điều kiện lồng nhau và một mốc hạn. Bỏ một vế điều kiện là chọn sai.",
+    "promptEn": "Listen to the telephone message and answer questions 74 through 76.",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "Caller",
+        "text": "Hello Mr Kaya, this is Lena Fischer at Northline, returning your call about the rejected expense claim."
+      },
+      {
+        "speaker": "Caller",
+        "text": "The claim was declined because taxi fares aren't reimbursed where public transport runs on the route. That's the standard rule."
+      },
+      {
+        "speaker": "Caller",
+        "text": "However, there's an exception when no service was running, and from what you described, your flight landed after midnight. That exception wasn't recorded on the original claim, which is why it failed."
+      },
+      {
+        "speaker": "Caller",
+        "text": "If you resubmit with the flight arrival time shown, it will go through. The booking confirmation is enough — you don't need the boarding pass."
+      },
+      {
+        "speaker": "Caller",
+        "text": "One thing to watch: resubmit by the fifth to make this month's payment run. After that it rolls to next month, and I can't bring it forward."
+      }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p4-74",
+        "kind": "mcq",
+        "prompt": "74. Why was the claim originally declined?",
+        "options": [
+          {
+            "id": "a",
+            "text": "It was submitted after the deadline."
+          },
+          {
+            "id": "b",
+            "text": "The amount exceeded the limit."
+          },
+          {
+            "id": "c",
+            "text": "No receipt was attached."
+          },
+          {
+            "id": "d",
+            "text": "Taxi fares are not reimbursed where public transport runs."
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'taxi fares aren't reimbursed where public transport runs on the route'."
+      },
+      {
+        "id": "p4-75",
+        "kind": "mcq",
+        "prompt": "75. What must be included when resubmitting?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The boarding pass"
+          },
+          {
+            "id": "b",
+            "text": "A manager's approval"
+          },
+          {
+            "id": "c",
+            "text": "The flight arrival time"
+          },
+          {
+            "id": "d",
+            "text": "The taxi driver's details"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'resubmit with the flight arrival time shown… you don't need the boarding pass'."
+      },
+      {
+        "id": "p4-76",
+        "kind": "mcq",
+        "prompt": "76. What happens if the claim is resubmitted after the fifth?",
+        "options": [
+          {
+            "id": "a",
+            "text": "It will be rejected again."
+          },
+          {
+            "id": "b",
+            "text": "It will be paid the following month."
+          },
+          {
+            "id": "c",
+            "text": "It will need a new reference number."
+          },
+          {
+            "id": "d",
+            "text": "It will be paid immediately."
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'After that it rolls to next month, and I can't bring it forward'."
+      }
+    ]
+  },
+  {
+    "id": "listening-part4-t3",
+    "skill": "listening",
+    "title": "Part 4 — Talk 3: conference session introduction",
+    "format": "TOEIC Listening — Part 4 · Talk 3 (câu 77–79)",
+    "instructionsVi": "Bài giới thiệu. Có một chỗ đính chính chương trình in trên tài liệu.",
+    "promptEn": "Listen to the introduction and answer questions 77 through 79.",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "Chair",
+        "text": "Good afternoon and welcome to the second session of the supply chain forum."
+      },
+      {
+        "speaker": "Chair",
+        "text": "A change to your programme: the panel on warehouse automation has swapped with the customs workshop, so automation is now at two and customs at half three. Your printed sheets show the old order."
+      },
+      {
+        "speaker": "Chair",
+        "text": "Our panellists this afternoon are Dr Amina Sesay, who leads the supply chain group at Northfield, and Tomas Berg, who spent twelve years running distribution before moving into consultancy."
+      },
+      {
+        "speaker": "Chair",
+        "text": "We'll take questions from the floor for the last twenty minutes. There are cards on each table if you'd rather write yours down — a steward will collect them during the session."
+      },
+      {
+        "speaker": "Chair",
+        "text": "The recording will be available to delegates only, and not until the week after the conference."
+      }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p4-77",
+        "kind": "mcq",
+        "prompt": "77. What time is the automation panel now?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Half past three"
+          },
+          {
+            "id": "b",
+            "text": "Two o'clock"
+          },
+          {
+            "id": "c",
+            "text": "It has been cancelled."
+          },
+          {
+            "id": "d",
+            "text": "It is unchanged."
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'automation is now at two and customs at half three'. Tài liệu in ra ghi thứ tự CŨ."
+      },
+      {
+        "id": "p4-78",
+        "kind": "mcq",
+        "prompt": "78. What did Mr Berg do before consultancy?",
+        "options": [
+          {
+            "id": "a",
+            "text": "He led a university research group."
+          },
+          {
+            "id": "b",
+            "text": "He worked in customs."
+          },
+          {
+            "id": "c",
+            "text": "He ran distribution operations."
+          },
+          {
+            "id": "d",
+            "text": "He chaired the forum."
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'spent twelve years running distribution before moving into consultancy'. Nhóm nghiên cứu đại học là của Dr Sesay."
+      },
+      {
+        "id": "p4-79",
+        "kind": "mcq",
+        "prompt": "79. What is said about the recording?",
+        "options": [
+          {
+            "id": "a",
+            "text": "It is available to delegates a week later."
+          },
+          {
+            "id": "b",
+            "text": "It will be published online immediately."
+          },
+          {
+            "id": "c",
+            "text": "There will be no recording."
+          },
+          {
+            "id": "d",
+            "text": "It can be purchased at the desk."
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'available to delegates only, and not until the week after the conference'."
+      }
+    ]
+  },
+  {
+    "id": "listening-part4-t4",
+    "skill": "listening",
+    "title": "Part 4 — Talk 4: product recall notice",
+    "format": "TOEIC Listening — Part 4 · Talk 4 (câu 80–82)",
+    "instructionsVi": "Thông báo thu hồi. Chú ý phân biệt phạm vi áp dụng và điều được miễn.",
+    "promptEn": "Listen to the announcement and answer questions 80 through 82.",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "Speaker",
+        "text": "This is a customer safety announcement from Meridian regarding the TK-9 travel kettle."
+      },
+      {
+        "speaker": "Speaker",
+        "text": "Testing has identified a fault in a small number of units where the cut-off switch may not operate once the water boils. No injuries have been reported."
+      },
+      {
+        "speaker": "Speaker",
+        "text": "Because we cannot identify which individual units are affected, we are recalling the entire batch sold between January and April."
+      },
+      {
+        "speaker": "Speaker",
+        "text": "Please stop using the product and return it to any branch for a full refund. A receipt is not required — the serial number on the base is enough."
+      },
+      {
+        "speaker": "Speaker",
+        "text": "If you bought the kettle as a gift, please pass this message on. Units bought after April are a different production run and are not affected."
+      }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p4-80",
+        "kind": "mcq",
+        "prompt": "80. Why is the whole batch being recalled?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Every unit is faulty."
+          },
+          {
+            "id": "b",
+            "text": "The affected units cannot be identified individually."
+          },
+          {
+            "id": "c",
+            "text": "Injuries have been reported."
+          },
+          {
+            "id": "d",
+            "text": "The product has been discontinued."
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'Because we cannot identify which individual units are affected'. Bài nói rõ chỉ một số ít bị lỗi và chưa có thương tích."
+      },
+      {
+        "id": "p4-81",
+        "kind": "mcq",
+        "prompt": "81. What is needed for a refund?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The original receipt"
+          },
+          {
+            "id": "b",
+            "text": "Proof of address"
+          },
+          {
+            "id": "c",
+            "text": "The original packaging"
+          },
+          {
+            "id": "d",
+            "text": "The serial number on the base"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'A receipt is not required — the serial number on the base is enough'."
+      },
+      {
+        "id": "p4-82",
+        "kind": "mcq",
+        "prompt": "82. Which units are unaffected?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Those bought after April"
+          },
+          {
+            "id": "b",
+            "text": "Those bought in January"
+          },
+          {
+            "id": "c",
+            "text": "Those bought as gifts"
+          },
+          {
+            "id": "d",
+            "text": "Those still in their packaging"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'Units bought after April are a different production run and are not affected'."
+      }
+    ]
+  },
+  {
+    "id": "listening-part4-t5",
+    "skill": "listening",
+    "title": "Part 4 — Talk 5: automated banking line",
+    "format": "TOEIC Listening — Part 4 · Talk 5 (câu 83–85)",
+    "instructionsVi": "Tổng đài tự động có một hướng dẫn phủ định quan trọng nằm giữa danh sách lựa chọn.",
+    "promptEn": "Listen to the recorded message and answer questions 83 through 85.",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "Recording",
+        "text": "Thank you for calling Fairport Business Banking. Please listen carefully as our menu has changed."
+      },
+      {
+        "speaker": "Recording",
+        "text": "For balance and transactions, press one. To make a payment, press two. For lending and overdrafts, press three."
+      },
+      {
+        "speaker": "Recording",
+        "text": "If you are calling to report suspected fraud, do not use the menu. Stay on the line and you will be connected directly to our security team, who are available twenty-four hours."
+      },
+      {
+        "speaker": "Recording",
+        "text": "Please note that we will never ask you to confirm a full password or move money to a safe account. Anyone doing so is not from this bank."
+      },
+      {
+        "speaker": "Recording",
+        "text": "Calls are recorded. Wait times are currently longer than usual on weekday mornings."
+      }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p4-83",
+        "kind": "mcq",
+        "prompt": "83. What should a caller reporting fraud do?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Stay on the line without using the menu"
+          },
+          {
+            "id": "b",
+            "text": "Press one"
+          },
+          {
+            "id": "c",
+            "text": "Press three"
+          },
+          {
+            "id": "d",
+            "text": "Call back outside working hours"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'do not use the menu. Stay on the line'. Câu phủ định đứng giữa danh sách lựa chọn, rất dễ bỏ qua."
+      },
+      {
+        "id": "p4-84",
+        "kind": "mcq",
+        "prompt": "84. What does the bank say it will never do?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Record calls"
+          },
+          {
+            "id": "b",
+            "text": "Connect callers to the security team"
+          },
+          {
+            "id": "c",
+            "text": "Ask for a full password or to move money"
+          },
+          {
+            "id": "d",
+            "text": "Change the telephone menu"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'we will never ask you to confirm a full password or move money to a safe account'."
+      },
+      {
+        "id": "p4-85",
+        "kind": "mcq",
+        "prompt": "85. When are wait times longest?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Weekday evenings"
+          },
+          {
+            "id": "b",
+            "text": "Weekends"
+          },
+          {
+            "id": "c",
+            "text": "Wait times are always the same."
+          },
+          {
+            "id": "d",
+            "text": "Weekday mornings"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'Wait times are currently longer than usual on weekday mornings'."
+      }
+    ]
+  }
+]

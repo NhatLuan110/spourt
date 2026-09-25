@@ -1,0 +1,961 @@
+{
+  "examId": "ielts",
+  "levelId": "3",
+  "vocabulary": [
+    {
+      "id": "contentious",
+      "term": "contentious",
+      "ipa": "/kənˈtenʃəs/",
+      "meaningVi": "gây tranh cãi",
+      "definitionEn": "Likely to cause disagreement between people.",
+      "example": "The dating of the earliest sites remains contentious.",
+      "exampleVi": "Việc xác định niên đại các di chỉ sớm nhất vẫn còn gây tranh cãi.",
+      "collocations": [
+        "a contentious issue",
+        "deeply contentious",
+        "contentious claim"
+      ]
+    },
+    {
+      "id": "plausible",
+      "term": "plausible",
+      "ipa": "/ˈplɔːzəbl/",
+      "meaningVi": "nghe có lý, khả tín",
+      "definitionEn": "Seeming reasonable or probable, though not proven.",
+      "example": "Both explanations are plausible, but only one is testable.",
+      "exampleVi": "Cả hai cách giải thích đều nghe có lý, nhưng chỉ một cái kiểm chứng được.",
+      "collocations": [
+        "a plausible explanation",
+        "entirely plausible",
+        "plausible but unproven"
+      ]
+    },
+    {
+      "id": "counterintuitive",
+      "term": "counterintuitive",
+      "ipa": "/ˌkaʊntərɪnˈtjuːɪtɪv/",
+      "meaningVi": "trái với trực giác",
+      "definitionEn": "Opposite to what you would naturally expect.",
+      "example": "The counterintuitive result was that wider roads increased delays.",
+      "exampleVi": "Kết quả trái trực giác là đường rộng hơn lại làm tăng ùn tắc.",
+      "collocations": [
+        "a counterintuitive finding",
+        "seem counterintuitive",
+        "counterintuitive result"
+      ]
+    },
+    {
+      "id": "confound",
+      "term": "confound",
+      "ipa": "/kənˈfaʊnd/",
+      "meaningVi": "gây nhiễu, làm sai lệch kết luận",
+      "definitionEn": "To make a result unclear because a second factor is also acting.",
+      "example": "Income confounds the relationship between diet and health.",
+      "exampleVi": "Thu nhập gây nhiễu cho mối liên hệ giữa chế độ ăn và sức khoẻ.",
+      "collocations": [
+        "confounding variable",
+        "confound the results",
+        "difficult to disentangle"
+      ]
+    },
+    {
+      "id": "robust",
+      "term": "robust",
+      "ipa": "/rəʊˈbʌst/",
+      "meaningVi": "vững chắc, đứng vững trước kiểm tra",
+      "definitionEn": "Strong enough to remain valid when tested in different ways.",
+      "example": "The finding proved robust across all four datasets.",
+      "exampleVi": "Kết quả này đứng vững trên cả bốn bộ dữ liệu.",
+      "collocations": [
+        "robust evidence",
+        "statistically robust",
+        "robust to changes in"
+      ]
+    },
+    {
+      "id": "precedent",
+      "term": "precedent",
+      "ipa": "/ˈpresɪdənt/",
+      "meaningVi": "tiền lệ",
+      "definitionEn": "An earlier case used as a guide for what to do now.",
+      "example": "There is no precedent for regulating a technology this quickly.",
+      "exampleVi": "Chưa có tiền lệ nào cho việc quản lý một công nghệ nhanh đến vậy.",
+      "collocations": [
+        "set a precedent",
+        "without precedent",
+        "historical precedent"
+      ]
+    },
+    {
+      "id": "nuance",
+      "term": "nuance",
+      "ipa": "/ˈnjuːɑːns/",
+      "meaningVi": "sắc thái tinh tế",
+      "definitionEn": "A very small difference in meaning or opinion.",
+      "example": "The summary lost the nuance of the original argument.",
+      "exampleVi": "Bản tóm tắt đánh mất sắc thái tinh tế của lập luận gốc.",
+      "collocations": [
+        "subtle nuance",
+        "lose the nuance",
+        "nuanced position"
+      ]
+    },
+    {
+      "id": "arbitrary",
+      "term": "arbitrary",
+      "ipa": "/ˈɑːbɪtrəri/",
+      "meaningVi": "tuỳ tiện, không dựa trên lý do rõ ràng",
+      "definitionEn": "Chosen without a clear reason or system.",
+      "example": "The cut-off age of sixty-five is largely arbitrary.",
+      "exampleVi": "Mốc tuổi sáu mươi lăm phần lớn là tuỳ tiện.",
+      "collocations": [
+        "an arbitrary threshold",
+        "seemingly arbitrary",
+        "arbitrary distinction"
+      ]
+    },
+    {
+      "id": "aggregate",
+      "term": "aggregate",
+      "ipa": "/ˈæɡrɪɡət/",
+      "meaningVi": "tổng gộp, gộp chung",
+      "definitionEn": "A total formed by combining separate amounts.",
+      "example": "In aggregate the effect is small, though it varies widely by region.",
+      "exampleVi": "Tính gộp lại thì tác động nhỏ, dù chênh lệch rất lớn giữa các vùng.",
+      "collocations": [
+        "in aggregate",
+        "aggregate demand",
+        "aggregate the data"
+      ]
+    },
+    {
+      "id": "attrition",
+      "term": "attrition",
+      "ipa": "/əˈtrɪʃn/",
+      "meaningVi": "sự rơi rụng dần, hao hụt",
+      "definitionEn": "A gradual reduction in numbers, especially of participants leaving a study.",
+      "example": "Attrition after year three left only half the original sample.",
+      "exampleVi": "Sự rơi rụng sau năm thứ ba chỉ còn lại một nửa mẫu ban đầu.",
+      "collocations": [
+        "high attrition",
+        "attrition rate",
+        "attrition bias"
+      ]
+    },
+    {
+      "id": "converge",
+      "term": "converge",
+      "ipa": "/kənˈvɜːdʒ/",
+      "meaningVi": "hội tụ, tiến lại gần nhau",
+      "definitionEn": "To come together or become similar over time.",
+      "example": "The two estimates converge once the outliers are removed.",
+      "exampleVi": "Hai ước lượng hội tụ khi loại bỏ các giá trị ngoại lai.",
+      "collocations": [
+        "converge on",
+        "gradually converge",
+        "convergence of evidence"
+      ]
+    },
+    {
+      "id": "provisional",
+      "term": "provisional",
+      "ipa": "/prəˈvɪʒənl/",
+      "meaningVi": "tạm thời, chưa chính thức",
+      "definitionEn": "Arranged for now but likely to be changed later.",
+      "example": "These are provisional figures and may be revised.",
+      "exampleVi": "Đây là số liệu tạm thời và có thể được điều chỉnh.",
+      "collocations": [
+        "provisional conclusion",
+        "provisional results",
+        "remain provisional"
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "id": "reading-induced-demand",
+      "skill": "reading",
+      "title": "The road that filled up again",
+      "format": "IELTS Academic Reading — Passage 1 · Multiple choice + Sentence completion",
+      "instructionsVi": "Đọc bài rồi trả lời 5 câu. Ở mức này không câu nào trả lời được bằng cách dò từ khoá; mỗi đáp án đòi hỏi đọc hiểu quan hệ nhân quả hoặc thái độ của tác giả.",
+      "promptEn": "Read the passage and answer the five questions that follow.",
+      "passage": "In 1962 the economist Anthony Downs published a short paper describing what he called the law of peak-hour traffic congestion: on urban commuter routes, peak-hour travel time rises until it reaches a level that drivers are unwilling to tolerate, and then stabilises there. Widening the road, in this account, does not reduce that time. It simply allows more people to travel at the tolerable maximum.\n\nThe idea was resisted for decades, partly because it is genuinely counterintuitive and partly because the early evidence was weak. Before-and-after studies of individual road schemes were confounded by everything else that changes in a growing city. A new lane opens; five years later traffic has risen; whether the lane caused the rise or merely accommodated growth that would have happened anyway is not answerable from that data alone.\n\nThe question was reopened in 2011 by Duranton and Turner, who compared metropolitan areas across the United States rather than individual roads. Their finding was blunt: over the period studied, vehicle kilometres travelled rose almost exactly in proportion to lane kilometres built. An elasticity close to one implies that new capacity is absorbed entirely. They also examined whether public transport investment reduced road traffic and found essentially no effect, a result that pleased nobody.\n\nWhy the extra traffic appears is less mysterious than it sounds, and it is worth separating three mechanisms that are often collapsed into one. Some of it is diverted: drivers who used a different route switch to the improved one. Some is retimed: journeys that had been made at seven or ten move into the peak. Only the third portion is genuinely new travel — trips that would not have been made at all. The three have very different implications, and a road scheme that mostly diverts traffic is not obviously a failure, since congestion elsewhere falls.\n\nWhat the literature does establish is narrower than the slogan it has produced. 'Building roads makes traffic worse' overstates it. The defensible claim is that in a growing urban area, road capacity cannot be expected to deliver a lasting reduction in peak travel time, because the price of that time is paid in delay rather than money. Where a genuine price exists — a congestion charge, or scarce and expensive parking — the relationship weakens considerably, which is itself a clue about what is really doing the work.",
+      "timeLimitSec": 375,
+      "questions": [
+        {
+          "id": "q1",
+          "kind": "mcq",
+          "prompt": "According to Downs, what happens to peak travel time on a widened road?",
+          "options": [
+            {
+              "id": "a",
+              "text": "It falls permanently once capacity increases."
+            },
+            {
+              "id": "b",
+              "text": "It settles at the level drivers are prepared to accept."
+            },
+            {
+              "id": "c",
+              "text": "It rises without limit as the city grows."
+            },
+            {
+              "id": "d",
+              "text": "It becomes impossible to measure reliably."
+            }
+          ],
+          "answer": "b",
+          "explanationVi": "Đoạn 1: thời gian đi lại tăng tới ngưỡng tài xế không chịu nổi rồi 'stabilises there'. Đáp án C sai vì bài nói nó ổn định, không tăng vô hạn."
+        },
+        {
+          "id": "q2",
+          "kind": "mcq",
+          "prompt": "Why were early before-and-after studies unconvincing?",
+          "options": [
+            {
+              "id": "a",
+              "text": "They measured travel time incorrectly."
+            },
+            {
+              "id": "b",
+              "text": "They covered too short a period after opening."
+            },
+            {
+              "id": "c",
+              "text": "They were funded by road-building companies."
+            },
+            {
+              "id": "d",
+              "text": "They could not separate the road's effect from general urban growth."
+            }
+          ],
+          "answer": "d",
+          "explanationVi": "Đoạn 2: không trả lời được làn đường gây ra mức tăng hay chỉ đáp ứng mức tăng vốn đã xảy ra — đó là vấn đề nhiễu."
+        },
+        {
+          "id": "q3",
+          "kind": "mcq",
+          "prompt": "What is implied by an elasticity 'close to one'?",
+          "options": [
+            {
+              "id": "a",
+              "text": "New capacity is taken up completely by additional traffic."
+            },
+            {
+              "id": "b",
+              "text": "Traffic grows at half the rate of road building."
+            },
+            {
+              "id": "c",
+              "text": "Public transport and roads have equal effects."
+            },
+            {
+              "id": "d",
+              "text": "The measurement contains a large margin of error."
+            }
+          ],
+          "answer": "a",
+          "explanationVi": "'An elasticity close to one implies that new capacity is absorbed entirely'. Bài giải thích ngay sau con số, không cần biết kinh tế lượng."
+        },
+        {
+          "id": "q4",
+          "kind": "mcq",
+          "prompt": "Why does the writer distinguish three mechanisms?",
+          "options": [
+            {
+              "id": "a",
+              "text": "To show that all three are equally harmful"
+            },
+            {
+              "id": "b",
+              "text": "To argue that road schemes should never be built"
+            },
+            {
+              "id": "c",
+              "text": "Because they carry different implications, so lumping them together misleads"
+            },
+            {
+              "id": "d",
+              "text": "Because only diverted traffic has been measured"
+            }
+          ],
+          "answer": "c",
+          "explanationVi": "'The three have very different implications, and a road scheme that mostly diverts traffic is not obviously a failure'."
+        },
+        {
+          "id": "q5",
+          "kind": "mcq",
+          "prompt": "What does the writer suggest by mentioning congestion charges in the final paragraph?",
+          "options": [
+            {
+              "id": "a",
+              "text": "The effect depends on delay being the only cost of driving."
+            },
+            {
+              "id": "b",
+              "text": "Congestion charging has failed wherever it was tried."
+            },
+            {
+              "id": "c",
+              "text": "Road building should be funded by charges on drivers."
+            },
+            {
+              "id": "d",
+              "text": "Parking policy is more important than road capacity."
+            }
+          ],
+          "answer": "a",
+          "explanationVi": "Khi có giá tiền thật thì quan hệ 'weakens considerably' — hàm ý cơ chế vận hành là việc chi phí được trả bằng thời gian chờ chứ không bằng tiền."
+        }
+      ]
+    },
+    {
+      "id": "reading-ynng-authorship",
+      "skill": "reading",
+      "title": "Statistical authorship attribution",
+      "format": "IELTS Academic Reading — Passage 2 · Identifying information (True/False/Not Given)",
+      "instructionsVi": "Dạng này hỏi về QUAN ĐIỂM của tác giả, không phải về sự kiện. YES nếu khớp quan điểm tác giả, NO nếu trái, NOT GIVEN nếu tác giả không bày tỏ. Đây là dạng khó nhất của Reading.",
+      "promptEn": "Do the following statements agree with the claims of the writer? Choose YES, NO or NOT GIVEN.",
+      "passage": "Attributing an anonymous text to an author by statistical means has a longer history than most people assume, and a more chequered one. The technique rests on a reasonable premise: writers have habits below the level of conscious choice — the frequency of 'of', the length of sentences, the preference for 'while' over 'whilst' — and these habits are more stable and harder to imitate than vocabulary or subject matter.\n\nWhere the field has repeatedly gone wrong is in its confidence. A method that separates two known authors with ninety-five per cent accuracy sounds impressive until one asks how it behaves when the true author is not among the candidates offered. Many published attributions have been produced by systems that were required to choose, and which therefore chose. Closed-set testing of this kind flatters the method, and for most of the twentieth century it was the norm.\n\nThe genuine advances have come from taking that criticism seriously rather than from better algorithms. Modern practice asks first whether a text is even attributable — whether it is long enough, and whether the candidate set is plausible — before asking who wrote it. Verification framing, in which the question is 'did this specific author write this?' rather than 'which of these five did?', is far less prone to producing a confident answer to a badly posed question.\n\nI would go further than most practitioners are willing to. The stylometric signal in a text of fewer than about a thousand words is weak enough that any result should be treated as a hypothesis to be corroborated by other evidence, not as a finding in its own right. This is unfashionable, because the cases that attract public attention — a disputed letter, a pseudonymous novel — are precisely the short ones. But a method's usefulness cannot be decided by the interest of the questions people want to ask of it.",
+      "timeLimitSec": 375,
+      "questions": [
+        {
+          "id": "y1",
+          "kind": "mcq",
+          "prompt": "The writer accepts that unconscious writing habits are relatively stable.",
+          "options": [
+            {
+              "id": "a",
+              "text": "NO"
+            },
+            {
+              "id": "b",
+              "text": "YES"
+            },
+            {
+              "id": "c",
+              "text": "NOT GIVEN"
+            }
+          ],
+          "answer": "b",
+          "explanationVi": "Đoạn 1: tác giả gọi tiền đề này là 'a reasonable premise' và nói các thói quen đó 'more stable and harder to imitate'."
+        },
+        {
+          "id": "y2",
+          "kind": "mcq",
+          "prompt": "The writer believes closed-set testing gives an unrealistically favourable impression of these methods.",
+          "options": [
+            {
+              "id": "a",
+              "text": "NO"
+            },
+            {
+              "id": "b",
+              "text": "NOT GIVEN"
+            },
+            {
+              "id": "c",
+              "text": "YES"
+            }
+          ],
+          "answer": "c",
+          "explanationVi": "'Closed-set testing of this kind flatters the method' — 'flatters' chính là đánh giá của tác giả."
+        },
+        {
+          "id": "y3",
+          "kind": "mcq",
+          "prompt": "The writer credits improved algorithms as the main source of progress.",
+          "options": [
+            {
+              "id": "a",
+              "text": "NO"
+            },
+            {
+              "id": "b",
+              "text": "YES"
+            },
+            {
+              "id": "c",
+              "text": "NOT GIVEN"
+            }
+          ],
+          "answer": "a",
+          "explanationVi": "Đoạn 3 nói ngược: tiến bộ đến từ việc tiếp thu phê bình 'rather than from better algorithms'."
+        },
+        {
+          "id": "y4",
+          "kind": "mcq",
+          "prompt": "The writer's view on short texts is more cautious than that of most people working in the field.",
+          "options": [
+            {
+              "id": "a",
+              "text": "NO"
+            },
+            {
+              "id": "b",
+              "text": "NOT GIVEN"
+            },
+            {
+              "id": "c",
+              "text": "YES"
+            }
+          ],
+          "answer": "c",
+          "explanationVi": "'I would go further than most practitioners are willing to' — tác giả tự nhận mình thận trọng hơn số đông."
+        },
+        {
+          "id": "y5",
+          "kind": "mcq",
+          "prompt": "The writer thinks courts should not admit stylometric evidence at all.",
+          "options": [
+            {
+              "id": "a",
+              "text": "YES"
+            },
+            {
+              "id": "b",
+              "text": "NOT GIVEN"
+            },
+            {
+              "id": "c",
+              "text": "NO"
+            }
+          ],
+          "answer": "b",
+          "explanationVi": "Bài không nhắc gì tới toà án hay chứng cứ pháp lý. Suy diễn từ thái độ thận trọng của tác giả là bẫy — NOT GIVEN."
+        }
+      ]
+    },
+    {
+      "id": "reading-summary-antibiotics",
+      "skill": "reading",
+      "title": "Why new antibiotics are rare",
+      "format": "IELTS Academic Reading — Passage 3 · Matching headings / Matching information",
+      "instructionsVi": "Điền vào chỗ trống trong bản tóm tắt, TỐI ĐA HAI TỪ lấy nguyên văn từ bài. Bản tóm tắt diễn đạt lại nội dung nên không thể dò theo thứ tự câu chữ của bài.",
+      "promptEn": "Complete the summary below using NO MORE THAN TWO WORDS from the passage for each answer.\n\nSummary: Antibiotic development is unusual because a successful new drug is deliberately kept in (1) ____ rather than sold widely. Companies therefore cannot recover costs through volume, and several firms have entered (2) ____ despite having approved products. One proposed remedy is a (3) ____ model, under which health systems pay an annual fee regardless of quantity used. Critics note that this must be funded internationally, since resistance does not respect (4) ____.",
+      "passage": "The pipeline for new antibiotics has been thin for three decades, and the reason is not primarily scientific. It is that the economics of antibiotics are the reverse of the economics of almost every other drug.\n\nA successful new cancer therapy is prescribed as widely as its evidence supports. A successful new antibiotic is not. Because bacterial resistance emerges through use, a genuinely novel antibiotic is held in reserve — kept for infections that nothing else will treat — and stewardship programmes in hospitals exist specifically to restrict its use. The better the drug, the less of it is sold.\n\nThe consequence is that development costs cannot be recovered through volume. Bringing an antibiotic to market costs something in the region of a billion dollars, while annual sales for a reserved agent may be a few million. Two firms that obtained approval for new antibiotics in recent years went into bankruptcy within eighteen months of launch, having succeeded scientifically and failed commercially.\n\nThe policy response most often proposed is a subscription model. A health system pays a fixed annual sum for guaranteed access, regardless of how many courses it actually uses, so that the developer's revenue is decoupled from volume. England began piloting such contracts in 2020, and several other countries have announced similar schemes.\n\nWhether this is sufficient is unclear. The sums so far committed are small relative to development costs, and a national subscription only solves the problem for the country paying it. Resistance crosses borders, so a drug reserved and funded in one health system is of limited value if it is used freely elsewhere. Any durable answer has to be paid for collectively, and that is a considerably harder thing to arrange than a domestic contract.",
+      "timeLimitSec": 300,
+      "questions": [
+        {
+          "id": "sm1",
+          "kind": "short-answer",
+          "prompt": "Gap 1 (NO MORE THAN TWO WORDS)",
+          "answer": "reserve",
+          "accepted": [
+            "in reserve"
+          ],
+          "explanationVi": "Đoạn 2: kháng sinh mới thật sự thì 'is held in reserve'."
+        },
+        {
+          "id": "sm2",
+          "kind": "short-answer",
+          "prompt": "Gap 2 (NO MORE THAN TWO WORDS)",
+          "answer": "bankruptcy",
+          "accepted": [
+            "into bankruptcy"
+          ],
+          "explanationVi": "Đoạn 3: hai công ty 'went into bankruptcy within eighteen months of launch'."
+        },
+        {
+          "id": "sm3",
+          "kind": "short-answer",
+          "prompt": "Gap 3 (NO MORE THAN TWO WORDS)",
+          "answer": "subscription",
+          "accepted": [
+            "subscription model"
+          ],
+          "explanationVi": "Đoạn 4: 'The policy response most often proposed is a subscription model'."
+        },
+        {
+          "id": "sm4",
+          "kind": "short-answer",
+          "prompt": "Gap 4 (NO MORE THAN TWO WORDS)",
+          "answer": "borders",
+          "accepted": [
+            "national borders"
+          ],
+          "explanationVi": "Đoạn cuối: 'Resistance crosses borders'. Bản tóm tắt diễn đạt lại thành 'does not respect ____'."
+        }
+      ]
+    },
+    {
+      "id": "listening-conference-registration",
+      "skill": "listening",
+      "title": "Conference registration enquiry",
+      "format": "IELTS Listening — Section 1 · Hội thoại đời thường, hai người, form completion",
+      "instructionsVi": "Nghe rồi trả lời 4 câu. Ở mức này thông tin đi kèm điều kiện ('nếu… thì…'), nên nghe đúng con số vẫn có thể chọn sai nếu bỏ qua điều kiện.",
+      "promptEn": "Listen to the conversation and answer the questions.",
+      "accent": "uk",
+      "transcript": [
+        {
+          "speaker": "Organiser",
+          "text": "Northern Linguistics Conference, how can I help?"
+        },
+        {
+          "speaker": "Caller",
+          "text": "I'd like to register. I'm a postgraduate student — is there a reduced rate?"
+        },
+        {
+          "speaker": "Organiser",
+          "text": "There is. Standard registration is two hundred and forty pounds, student rate is one hundred and thirty. But note the student rate closes on the fifteenth of March; after that everyone pays the standard fee."
+        },
+        {
+          "speaker": "Caller",
+          "text": "That's next week. And does that cover the whole three days?"
+        },
+        {
+          "speaker": "Organiser",
+          "text": "It covers Thursday and Friday. Saturday is the workshop day and that's a separate forty pounds, whichever rate you're on."
+        },
+        {
+          "speaker": "Caller",
+          "text": "I'll take the workshop as well. Is lunch included?"
+        },
+        {
+          "speaker": "Organiser",
+          "text": "Lunch on Thursday and Friday, yes. Not Saturday — the workshops run through, and people usually bring something."
+        },
+        {
+          "speaker": "Caller",
+          "text": "Understood. One more thing: I'm presenting a poster. Does that change anything?"
+        },
+        {
+          "speaker": "Organiser",
+          "text": "Presenters still pay, I'm afraid. But if you're presenting you must register by the eighth of March, a week earlier than everyone else, because we print the abstract book."
+        },
+        {
+          "speaker": "Caller",
+          "text": "The eighth. That's tighter than I thought."
+        },
+        {
+          "speaker": "Organiser",
+          "text": "It is, sorry. Register online and tick the presenter box, otherwise your abstract won't be included."
+        }
+      ],
+      "timeLimitSec": 280,
+      "questions": [
+        {
+          "id": "c1",
+          "kind": "short-answer",
+          "prompt": "How much will the caller pay in total, in pounds? (A NUMBER)",
+          "answer": "170",
+          "accepted": [
+            "£170",
+            "170 pounds"
+          ],
+          "explanationVi": "Giá sinh viên 130 cộng workshop 40 = 170. Phải ghép hai con số ở hai chỗ khác nhau, và 240 là giá tiêu chuẩn không áp dụng."
+        },
+        {
+          "id": "c2",
+          "kind": "short-answer",
+          "prompt": "By which date must the caller register? Give the day of March. (A NUMBER)",
+          "answer": "8",
+          "accepted": [
+            "8th",
+            "eighth",
+            "March 8",
+            "8 March"
+          ],
+          "explanationVi": "Ngày 15 là hạn chung cho giá sinh viên, nhưng người trình bày poster phải đăng ký trước ngày 8 — điều kiện riêng, đúng bẫy của bài."
+        },
+        {
+          "id": "c3",
+          "kind": "mcq",
+          "prompt": "Which days include lunch?",
+          "options": [
+            {
+              "id": "a",
+              "text": "All three days"
+            },
+            {
+              "id": "b",
+              "text": "Thursday and Friday only"
+            },
+            {
+              "id": "c",
+              "text": "Saturday only"
+            },
+            {
+              "id": "d",
+              "text": "No lunch is provided"
+            }
+          ],
+          "answer": "b",
+          "explanationVi": "'Lunch on Thursday and Friday, yes. Not Saturday'."
+        },
+        {
+          "id": "c4",
+          "kind": "mcq",
+          "prompt": "What does presenting a poster mean for the caller?",
+          "options": [
+            {
+              "id": "a",
+              "text": "Registration becomes free."
+            },
+            {
+              "id": "b",
+              "text": "They receive a discount on the workshop."
+            },
+            {
+              "id": "c",
+              "text": "They must register earlier than other delegates."
+            },
+            {
+              "id": "d",
+              "text": "They must attend all three days."
+            }
+          ],
+          "answer": "c",
+          "explanationVi": "'Presenters still pay... you must register by the eighth of March, a week earlier than everyone else'."
+        }
+      ]
+    },
+    {
+      "id": "listening-radio-rewilding",
+      "skill": "listening",
+      "title": "Radio feature — rewilding a valley",
+      "format": "IELTS Listening — Section 2 · Độc thoại đời thường",
+      "instructionsVi": "Nghe phóng sự rồi trả lời 4 câu. Người nói trình bày cả ý ủng hộ lẫn phản đối; câu hỏi kiểm tra bạn có phân biệt được quan điểm của từng bên hay không.",
+      "promptEn": "Listen to the radio feature and answer the questions.",
+      "accent": "uk",
+      "transcript": [
+        {
+          "speaker": "Presenter",
+          "text": "The Glenbrae estate covers eleven thousand hectares of upland Scotland, and for two centuries it was managed for sheep and deer. Since 2016 it has been managed for almost nothing at all — and that, its owners say, is the point."
+        },
+        {
+          "speaker": "Presenter",
+          "text": "Rewilding means removing or reducing the pressures that keep a landscape in its current state, then letting natural processes take over. At Glenbrae that has meant cutting deer numbers by roughly seventy per cent and removing sheep entirely."
+        },
+        {
+          "speaker": "Manager",
+          "text": "The visible change in the first three years was almost entirely regeneration. Birch, willow, rowan — species that were always in the seed bank but never got past knee height because they were eaten. Take the browsing pressure off and they simply appear."
+        },
+        {
+          "speaker": "Presenter",
+          "text": "Not everyone locally is persuaded. The estate employed eleven people in 2015 and employs four now, and the neighbouring farms argue that deer displaced from Glenbrae have increased grazing damage on their land."
+        },
+        {
+          "speaker": "Farmer",
+          "text": "Nobody here is against trees. What we object to is the idea that a decision on one estate has no consequences over the fence. Our fencing costs have gone up considerably and nobody's compensating us for that."
+        },
+        {
+          "speaker": "Presenter",
+          "text": "The estate disputes the displacement figures but accepts the employment point, and says visitor numbers should eventually replace the jobs lost. That, so far, remains a projection rather than a result."
+        }
+      ],
+      "timeLimitSec": 280,
+      "questions": [
+        {
+          "id": "r1",
+          "kind": "short-answer",
+          "prompt": "By approximately what percentage were deer numbers cut? (A NUMBER)",
+          "answer": "70",
+          "accepted": [
+            "70%",
+            "seventy",
+            "seventy per cent"
+          ],
+          "explanationVi": "'cutting deer numbers by roughly seventy per cent'."
+        },
+        {
+          "id": "r2",
+          "kind": "mcq",
+          "prompt": "According to the manager, why did trees appear so quickly?",
+          "options": [
+            {
+              "id": "a",
+              "text": "New seedlings were planted across the estate."
+            },
+            {
+              "id": "b",
+              "text": "The climate became warmer after 2016."
+            },
+            {
+              "id": "c",
+              "text": "The seeds were already present but shoots were being eaten."
+            },
+            {
+              "id": "d",
+              "text": "Fencing protected the young trees."
+            }
+          ],
+          "answer": "c",
+          "explanationVi": "'species that were always in the seed bank but never got past knee height because they were eaten'. Đáp án A trái với ý 'they simply appear'."
+        },
+        {
+          "id": "r3",
+          "kind": "mcq",
+          "prompt": "What is the farmer's main objection?",
+          "options": [
+            {
+              "id": "a",
+              "text": "That trees should not be grown in upland areas"
+            },
+            {
+              "id": "b",
+              "text": "That the estate's decision imposes uncompensated costs on neighbours"
+            },
+            {
+              "id": "c",
+              "text": "That deer numbers were not reduced enough"
+            },
+            {
+              "id": "d",
+              "text": "That visitors damage farmland"
+            }
+          ],
+          "answer": "b",
+          "explanationVi": "'Nobody here is against trees' — nông dân nói rõ không phản đối cây, mà phản đối việc hàng xóm gánh chi phí rào chắn mà không được đền bù."
+        },
+        {
+          "id": "r4",
+          "kind": "mcq",
+          "prompt": "How does the presenter characterise the estate's claim about visitor numbers?",
+          "options": [
+            {
+              "id": "a",
+              "text": "As already demonstrated by the figures"
+            },
+            {
+              "id": "b",
+              "text": "As rejected by independent researchers"
+            },
+            {
+              "id": "c",
+              "text": "As the main reason for the project"
+            },
+            {
+              "id": "d",
+              "text": "As a forecast that has not yet been borne out"
+            }
+          ],
+          "answer": "d",
+          "explanationVi": "Câu cuối: 'remains a projection rather than a result' — mới là dự báo, chưa thành kết quả."
+        }
+      ]
+    },
+    {
+      "id": "listening-lecture-memory",
+      "skill": "listening",
+      "title": "Lecture — why eyewitness memory fails",
+      "format": "IELTS Listening — Section 4 · Bài giảng học thuật, không nghỉ giữa chừng",
+      "instructionsVi": "Nghe bài giảng rồi trả lời 4 câu. Bài giảng nêu ba khái niệm gần giống nhau và cố tình phân biệt chúng; nghe lướt là lẫn ngay.",
+      "promptEn": "Listen to the lecture extract and answer the questions.",
+      "accent": "uk",
+      "transcript": [
+        {
+          "speaker": "Lecturer",
+          "text": "The intuitive model of memory is a recording: something happens, it is stored, and later it is played back with some loss of quality. Almost every element of that picture is wrong, and the errors matter most in exactly the setting where we rely on memory most heavily — the courtroom."
+        },
+        {
+          "speaker": "Lecturer",
+          "text": "Memory is reconstructive. Each retrieval rebuilds the event from fragments plus expectation, and — this is the crucial part — the rebuilt version is what gets stored again. So recalling something is not a neutral act. It can modify what you will recall next time."
+        },
+        {
+          "speaker": "Lecturer",
+          "text": "Three distinct effects are often confused. The misinformation effect is where information encountered after the event, such as a leading question, is incorporated into the memory. Source monitoring failure is different: you remember the content correctly but misattribute where it came from — you saw it on the news, not at the scene. And unconscious transference is where a face familiar from another context is placed into the event."
+        },
+        {
+          "speaker": "Lecturer",
+          "text": "The uncomfortable finding for legal practice is that confidence and accuracy are only weakly related once a witness has been through an identification procedure. Confidence measured immediately, before any feedback, is a reasonable guide. Confidence measured at trial, months later and after the witness has been told they picked the suspect, is close to worthless."
+        }
+      ],
+      "timeLimitSec": 280,
+      "questions": [
+        {
+          "id": "e1",
+          "kind": "mcq",
+          "prompt": "Why does the lecturer say that recalling a memory is 'not a neutral act'?",
+          "options": [
+            {
+              "id": "a",
+              "text": "Because it takes conscious effort"
+            },
+            {
+              "id": "b",
+              "text": "Because witnesses may lie about what they remember"
+            },
+            {
+              "id": "c",
+              "text": "Because memories fade at a constant rate"
+            },
+            {
+              "id": "d",
+              "text": "Because the rebuilt version replaces what was stored"
+            }
+          ],
+          "answer": "d",
+          "explanationVi": "'the rebuilt version is what gets stored again... It can modify what you will recall next time'."
+        },
+        {
+          "id": "e2",
+          "kind": "mcq",
+          "prompt": "A witness correctly remembers a detail but wrongly believes they saw it at the scene rather than on television. Which effect is this?",
+          "options": [
+            {
+              "id": "a",
+              "text": "The misinformation effect"
+            },
+            {
+              "id": "b",
+              "text": "Source monitoring failure"
+            },
+            {
+              "id": "c",
+              "text": "Unconscious transference"
+            },
+            {
+              "id": "d",
+              "text": "Reconstructive encoding"
+            }
+          ],
+          "answer": "b",
+          "explanationVi": "Đúng định nghĩa: 'you remember the content correctly but misattribute where it came from'. Phải phân biệt với hai hiệu ứng kia."
+        },
+        {
+          "id": "e3",
+          "kind": "mcq",
+          "prompt": "What is unconscious transference?",
+          "options": [
+            {
+              "id": "a",
+              "text": "Placing a face familiar from elsewhere into the event"
+            },
+            {
+              "id": "b",
+              "text": "Forgetting an event entirely"
+            },
+            {
+              "id": "c",
+              "text": "Adopting another witness's account"
+            },
+            {
+              "id": "d",
+              "text": "Recalling events in the wrong order"
+            }
+          ],
+          "answer": "a",
+          "explanationVi": "'a face familiar from another context is placed into the event'."
+        },
+        {
+          "id": "e4",
+          "kind": "mcq",
+          "prompt": "When is a witness's confidence a reasonable guide to accuracy?",
+          "options": [
+            {
+              "id": "a",
+              "text": "At trial, once they have had time to reflect"
+            },
+            {
+              "id": "b",
+              "text": "Whenever the witness is certain"
+            },
+            {
+              "id": "c",
+              "text": "Immediately after identification, before any feedback"
+            },
+            {
+              "id": "d",
+              "text": "Confidence is never informative"
+            }
+          ],
+          "answer": "c",
+          "explanationVi": "'Confidence measured immediately, before any feedback, is a reasonable guide'. Đáp án D quá tuyệt đối, bài không nói vậy."
+        }
+      ]
+    },
+    {
+      "id": "writing-task1-mixed",
+      "skill": "writing",
+      "title": "Task 1 — Two charts on research funding",
+      "format": "IELTS Academic Writing — Task 1 · 20 phút, tối thiểu 150 từ",
+      "instructionsVi": "Viết 150–200 từ. Đề cho HAI nguồn dữ liệu; bài phải liên hệ hai nguồn chứ không mô tả tách rời. Đây là dạng khó nhất của Task 1.",
+      "promptEn": "The charts below show the share of national research funding by field in one country in 2005 and 2020, and the change in the number of researchers employed in each field over the same period. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\nShare of funding (%) — 2005 → 2020:\nMedicine 31 → 38; Engineering 24 → 22; Physical sciences 19 → 13; Environmental 9 → 17; Social sciences 17 → 10\n\nChange in researcher numbers, 2005–2020 (%):\nMedicine +42; Engineering +9; Physical sciences −18; Environmental +75; Social sciences −4",
+      "timeLimitSec": 1200,
+      "minWords": 150,
+      "maxWords": 200,
+      "sampleAnswer": "The charts show how national research funding was distributed across five fields in 2005 and 2020, together with the change in researcher numbers over the same fifteen years.\n\nOverall, funding shifted markedly towards medicine and environmental research and away from the physical and social sciences, and staffing broadly followed the money — though not in equal proportion.\n\nEnvironmental research saw the sharpest movement on both measures. Its funding share nearly doubled, from 9 to 17 per cent, while researcher numbers rose by 75 per cent, the largest workforce increase of any field. Medicine, already the best-funded field in 2005 at 31 per cent, strengthened its position to 38 per cent and expanded its workforce by 42 per cent.\n\nThe declining fields diverged. Physical sciences lost both funding share, falling from 19 to 13 per cent, and staff, down 18 per cent. Social sciences lost proportionally more funding, from 17 to 10 per cent, yet their workforce contracted by only 4 per cent. Engineering was the most stable field on both measures.",
+      "rubricVi": [
+        "Liên hệ HAI biểu đồ với nhau ngay ở câu tổng quan. Bài mô tả riêng từng biểu đồ rồi thôi sẽ bị chấm là không nắm được nhiệm vụ.",
+        "Chỉ ra chỗ hai biểu đồ KHÔNG khớp nhau — khoa học xã hội mất nhiều kinh phí nhưng nhân sự gần như giữ nguyên. Nhìn ra điểm bất thường là dấu hiệu band 7+.",
+        "Phân biệt rõ 'tỉ trọng' (%) với 'mức thay đổi' (%). Lẫn hai loại phần trăm này là lỗi nội dung nghiêm trọng.",
+        "Không suy đoán nguyên nhân chính sách hay xu hướng tương lai.",
+        "Đủ 150 từ, có câu tổng quan riêng, không gộp tổng quan vào mở bài."
+      ]
+    },
+    {
+      "id": "writing-task2-technology",
+      "skill": "writing",
+      "title": "Task 2 — Automation and employment",
+      "format": "IELTS Academic Writing — Task 2 · 40 phút, tối thiểu 250 từ, chiếm 2/3 điểm Writing",
+      "instructionsVi": "Viết 250–320 từ. Đề hỏi cả hệ quả lẫn giải pháp; giải pháp phải nối trực tiếp với hệ quả đã nêu. Ở mức này bài chỉ nêu giải pháp chung chung sẽ bị hạ điểm.",
+      "promptEn": "Automation is replacing an increasing number of jobs, including skilled ones.\n\nWhat problems does this create, and what measures could governments take to address them?",
+      "timeLimitSec": 2400,
+      "minWords": 250,
+      "maxWords": 320,
+      "sampleAnswer": "Automation has moved beyond the assembly line into work that was long assumed to be safe, from drafting contracts to reading scans. The disruption this causes is real, but it is often described imprecisely, and imprecise diagnosis produces weak policy.\n\nThe central problem is not that there will be too few jobs. Previous waves of automation destroyed occupations and created others, and there is little evidence that the total quantity of work is falling. The problem is distribution and timing. The people displaced are rarely the people who fill the new roles, the new roles frequently appear in different places, and the transition takes years that a mid-career worker does not have. A second problem follows from the first: when the losses are concentrated in particular towns, the effect is not merely individual unemployment but the erosion of an entire local economy.\n\nGovernments therefore need measures aimed at transition rather than at automation itself. Attempts to slow the technology tend to fail and simply move the activity elsewhere. What works better is making retraining genuinely feasible: funded not as a short course but as income support over one to two years, since a displaced worker with a mortgage cannot afford to study on savings. Sweden's job security councils, which support workers from the point of redundancy rather than after a period of unemployment, offer a workable precedent.\n\nA second measure is regional rather than individual. Where a single industry dominates a town, its decline requires deliberate investment in transport links and public institutions to make the area viable for other employers, because private capital does not arrive on its own.\n\nAutomation is best treated as a distributional question. The gains are broad and largely automatic; the losses are narrow and severe, and it is those that public policy exists to address.",
+      "rubricVi": [
+        "Nêu vấn đề CỤ THỂ thay vì 'mọi người sẽ thất nghiệp'. Bài mẫu chỉ ra vấn đề thật là phân bổ và thời gian chuyển đổi — đây là mức tư duy band 7+.",
+        "Giải pháp phải khớp với vấn đề đã nêu. Nêu vấn đề phân bổ rồi đề xuất 'cấm robot' là lệch, mất điểm Task Response.",
+        "Có ít nhất một ví dụ hoặc tiền lệ cụ thể (hội đồng an sinh việc làm Thuỵ Điển). Giải pháp không có ví dụ nghe như khẩu hiệu.",
+        "Dám bác bỏ một cách hiểu sai phổ biến ('không phải là thiếu việc làm'). Điều này cho thấy làm chủ đề tài chứ không lặp lại ý có sẵn.",
+        "Đủ 250 từ, mỗi đoạn một ý, kết bài nêu lại lập trường chứ không tóm tắt máy móc."
+      ]
+    },
+    {
+      "id": "speaking-part1-study",
+      "skill": "speaking",
+      "title": "Part 1 — Study, reading and news",
+      "format": "IELTS Speaking — Part 1 · Introduction and interview, 4–5 phút",
+      "instructionsVi": "Trả lời từng câu 2–3 câu, không chuẩn bị trước. Part 1 hỏi về bản thân và thói quen hằng ngày; mục đích là làm quen và đo phản xạ, nên đừng trả lời như bài luận.",
+      "promptEn": "Answer each question in two or three sentences.\n1. What subject are you studying, or what did you study?\n2. Do you prefer studying alone or in a group?\n3. How much do you read outside your studies or work?\n4. Where do you get most of your news?\n5. Do you think people your age follow the news more or less than their parents did?",
+      "timeLimitSec": 300,
+      "preparationSec": 0,
+      "sampleAnswer": "1. I studied environmental engineering, and I've stayed fairly close to it — I work on water treatment now, so a lot of what I learned turned out to be directly useful, which I gather isn't always the case.\n\n2. Alone for anything that needs concentration, and in a group for anything I don't understand yet. I've found that explaining something badly to another person exposes the gaps much faster than rereading does.\n\n3. Less than I'd like. Maybe one book every six weeks, plus a fair amount of long-form journalism. I go through phases — if I'm busy at work the reading is the first thing that disappears.\n\n4. Mostly from two or three newsletters I subscribed to deliberately, rather than from social media. I made that switch about two years ago because I noticed I was getting angry at things that turned out not to be true.\n\n5. Differently rather than less, I'd say. My parents watched the evening news at a fixed time and that was that. We get much more of it and much less of a sense of when it stops, and I'm not sure the larger quantity actually leaves us better informed.",
+      "rubricVi": [
+        "Ở mức này Part 1 nên có câu trả lời vừa cụ thể vừa có một nhận xét nhỏ, ví dụ vì sao đổi cách đọc tin. Đó là thứ nâng band ngay ở phần dễ nhất.",
+        "Câu so sánh thế hệ nên trả lời bằng cách phân loại ('differently rather than less') thay vì chọn nhiều hay ít. Tránh trả lời một chiều.",
+        "Vẫn giữ độ dài 2–3 câu. Part 1 nói quá dài sẽ bị cắt và mất thiện cảm.",
+        "Dùng cách nói giảm nhẹ và tự đánh giá: less than I'd like, I'm not sure, I gather. Đây là ngôn ngữ tự nhiên của người dùng tiếng Anh thành thạo.",
+        "Không dùng từ vựng học thuật của Part 3 ở đây. Sai đăng ký ngôn ngữ cũng bị trừ điểm."
+      ]
+    },
+    {
+      "id": "speaking-part2-skill",
+      "skill": "speaking",
+      "title": "Part 2 — Something you learned that changed how you think",
+      "format": "IELTS Speaking — Part 2 · Long turn, 1 phút chuẩn bị, 1–2 phút nói",
+      "instructionsVi": "Chuẩn bị 1 phút rồi nói 2 phút. Đề trừu tượng hơn dạng tả người tả vật, buộc bạn vừa kể vừa lập luận — đúng thứ phân biệt band 6 với band 7.",
+      "promptEn": "Describe something you learned that changed the way you think about a subject. You should say:\n- what it was\n- how and when you learned it\n- what you believed before\n\nand explain why it changed your view.",
+      "timeLimitSec": 120,
+      "preparationSec": 60,
+      "sampleAnswer": "The thing I'd pick is fairly technical, but it changed how I read almost everything: the difference between correlation and causation, and more specifically the idea of a confounding variable.\n\nI came across it properly in a statistics module in my second year, though I'd heard the phrase 'correlation isn't causation' repeated since school without it meaning very much. What made it land was a single example the lecturer used. Ice cream sales and drowning deaths rise together, and the reason is obviously temperature — but she then showed us a set of published health claims where the confounder was much less obvious, and I couldn't spot it in any of them.\n\nBefore that, I think I assumed that if a study found a relationship and the researchers were competent, the relationship was probably real and probably causal. I trusted the conclusion because I trusted the process.\n\nWhat changed was that I started reading for the design rather than the finding. Now the first question I ask about any claim is what else could produce this pattern, and how would the researchers have ruled it out. It's made me slower to be convinced, which I'd say is mostly an improvement — although it does make reading the news considerably more tiring than it used to be.",
+      "rubricVi": [
+        "Chọn được ví dụ cụ thể chứ không nói chung chung. Đề trừu tượng nhưng câu trả lời phải bám vào một sự việc có thật.",
+        "Phải nêu rõ 'trước kia tin gì' và 'giờ nghĩ khác thế nào'. Thiếu phần đối chiếu này là bỏ mất trọng tâm của đề.",
+        "Dùng cấu trúc nhấn mạnh và bình luận: 'What made it land was...', 'which I'd say is mostly an improvement'. Đây là dấu hiệu ngôn ngữ tự nhiên ở band cao.",
+        "Kết bằng một nhận xét có sắc thái (chậm bị thuyết phục hơn, nhưng đọc tin mệt hơn) thay vì kết luận một chiều.",
+        "Giữ đủ 2 phút. Nếu hết ý, mở rộng sang một trường hợp khác mà kiến thức đó có ích."
+      ]
+    },
+    {
+      "id": "speaking-part3-evidence",
+      "skill": "speaking",
+      "title": "Part 3 — Discussion: evidence and belief",
+      "format": "IELTS Speaking — Part 3 · Two-way discussion, 4–5 phút",
+      "instructionsVi": "Trả lời mỗi câu thành đoạn 4–6 câu. Câu cuối cố tình nêu quan điểm ngược để xem bạn có bảo vệ được lập luận không — đây là mức độ vặn hỏi của band 7 trở lên.",
+      "promptEn": "Answer each question in turn.\n1. Why do people continue to believe things that evidence contradicts?\n2. How much responsibility do the media have for public misunderstanding of science?\n3. Some argue that scientists should stay out of public debate entirely and simply publish their findings. Would you agree?",
+      "timeLimitSec": 330,
+      "preparationSec": 0,
+      "sampleAnswer": "1. I think the main reason is that beliefs aren't held in isolation — they're attached to identity and to the people around you. Abandoning one often means separating yourself from a group, and that cost is immediate and social, whereas being wrong about a fact usually costs nothing at all. There's also the sheer difficulty of evaluating evidence outside your own field; most of us are choosing which experts to trust rather than assessing the data ourselves.\n\n2. Some, but I'd say the incentives matter more than any individual journalist. A finding that is provisional, hedged and consistent with previous work is not a story, so the coverage systematically selects for the dramatic and the reversal. That produces a public impression that science constantly contradicts itself, when in fact what's being reported is the noisy edge of a fairly stable body of knowledge. I'd put more blame on press offices, actually — university communications teams frequently overstate results before a journalist ever sees them.\n\n3. No, I'd push back on that quite firmly. The argument sounds like a defence of objectivity, but publishing is itself a form of participation, and staying silent while your work is misrepresented isn't neutral — it just cedes the interpretation to whoever is willing to speak. That said, I'd accept a distinction: a researcher speaking about the limits of their own findings is on very different ground from one making political recommendations that their data don't support, and conflating those two is what makes people suspicious in the first place.",
+      "rubricVi": [
+        "Với câu 3, phải BẢO VỆ lập trường trước quan điểm ngược thay vì đổi ý. Câu 'No, I'd push back on that quite firmly' rồi lập luận là cách xử lý đúng.",
+        "Có ít nhất một chỗ tự điều chỉnh hoặc thêm điều kiện ('That said, I'd accept a distinction'). Band cao đòi hỏi thấy được sắc thái, không phải nói cứng.",
+        "Dám nêu ý riêng đi ngược số đông ('I'd put more blame on press offices') và giải thích được vì sao.",
+        "Câu trả lời dài 4–6 câu, có ý chính và ý chống đỡ. Trả lời 2 câu rồi dừng là quá ngắn cho Part 3 ở mức này.",
+        "Dùng ngôn ngữ lập luận trừu tượng: incentives, systematically, cedes the interpretation. Đây là dải từ vựng mà band 7+ cần thể hiện."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "speaking-describe-picture-warehouse",
+    "skill": "speaking",
+    "title": "Speaking Q3 — Describe a picture",
+    "format": "TOEIC Speaking — Describe a Picture · 45 giây chuẩn bị, 45 giây nói",
+    "instructionsVi": "Cảnh ở mức này có nhiều lớp và một chi tiết bất thường. Người chấm mong bạn nêu được cả bố cục lẫn chi tiết đáng chú ý, không chỉ liệt kê người và vật.",
+    "promptEn": "Describe the scene below in as much detail as you can. You have 45 seconds to prepare and 45 seconds to speak.\n\nSCENE: A distribution warehouse. In the foreground, two workers in high-visibility vests and hard hats are loading sealed boxes onto a wheeled trolley; one is checking items against a tablet. Behind them, tall metal shelving units stretch into the distance, stacked with pallets. On the left, a forklift truck is lifting a pallet to an upper shelf, and a third worker is standing well back, watching. A yellow line is painted on the floor separating the walking area from the vehicle area. High windows near the ceiling provide most of the light.",
+    "timeLimitSec": 45,
+    "preparationSec": 45,
+    "sampleAnswer": "This picture shows the inside of a large distribution warehouse, and it looks like a busy working environment.\n\nIn the foreground, two workers are loading sealed boxes onto a wheeled trolley. Both of them are wearing high-visibility vests and hard hats, and one of them is checking the items against a tablet, so they are probably recording what is being moved.\n\nBehind them, I can see tall metal shelving units that stretch into the distance. They are stacked with pallets, which suggests the warehouse is close to full.\n\nOn the left-hand side, a forklift truck is lifting a pallet up to one of the higher shelves. A third worker is standing well back and watching, which is what safety procedures would require.\n\nOne detail I noticed is a yellow line painted on the floor. It appears to separate the area where people walk from the area where vehicles operate. The light comes mainly from high windows near the ceiling.",
+    "rubricVi": [
+      "Nêu được chi tiết có ý nghĩa (vạch vàng phân làn, người đứng lùi ra xa) chứ không chỉ đếm người. Ở mức 800 đây là điểm phân biệt.",
+      "Giải thích chức năng của chi tiết bằng ngôn ngữ phỏng đoán: 'which suggests', 'it appears to'.",
+      "Trật tự không gian rõ ràng: tiền cảnh → hậu cảnh → bên trái → chi tiết → ánh sáng.",
+      "Hiện tại tiếp diễn cho mọi hành động đang diễn ra, dùng liên tục và chính xác.",
+      "Dùng hết 45 giây. Nếu còn thời gian, thêm một câu về ấn tượng chung của bức ảnh."
+    ]
+  },
+  {
+    "id": "speaking-respond-information-conference",
+    "skill": "speaking",
+    "title": "Speaking Q7–9 — Respond using information provided",
+    "format": "TOEIC Speaking — Respond Using Information Provided · 30 giây đọc bảng",
+    "instructionsVi": "Ở mức này bảng có nhiều cột hơn và câu hỏi thứ hai thường chứa thông tin sai cần đính chính. Đọc kỹ 30 giây, đặc biệt là các dòng có giờ trùng nhau.",
+    "promptEn": "You have 30 seconds to read the programme below. Then answer the three questions using the information given.\n\nNORTHERN SUPPLY CHAIN FORUM — 22 May, Delaney Hotel\n\n09:15–10:00  Opening keynote: 'Resilience after disruption' — Dr Amina Sesay (Grand Hall)\n10:15–11:15  Panel: Warehouse automation — moderated by Tomas Berg (Grand Hall)\n11:15–11:45  Coffee\n11:45–12:45  Workshop A: Supplier risk assessment — Dr Amina Sesay (Room 3)\n11:45–12:45  Workshop B: Customs documentation — Priya Nair (Room 4)\n12:45–14:00  Lunch (Terrace Restaurant)\n14:00–15:30  Case study session — Tomas Berg (Grand Hall)\n\nNote: Workshops A and B run at the same time. Delegates must choose one.\n\nQuestions:\n1. What time does the forum start, and who gives the opening talk?\n2. I'd like to attend both workshops — can I do that?\n3. Could you tell me everything Tomas Berg is involved in?",
+    "timeLimitSec": 60,
+    "preparationSec": 30,
+    "sampleAnswer": "1. The forum starts at nine fifteen in the morning, and the opening keynote is given by Dr Amina Sesay. It's called 'Resilience after disruption' and it takes place in the Grand Hall.\n\n2. I'm afraid that isn't possible. Workshops A and B both run from eleven forty-five to twelve forty-five, so they overlap completely. You will need to choose one of the two.\n\n3. Of course. Tomas Berg is involved in two sessions. First, he moderates the panel on warehouse automation, which runs from ten fifteen to eleven fifteen in the Grand Hall. Second, he leads the case study session in the afternoon, from two o'clock until half past three, also in the Grand Hall.",
+    "rubricVi": [
+      "Câu 2 là thông tin sai cần đính chính. Phải nói rõ không thể và GIẢI THÍCH vì sao (trùng giờ), không chỉ trả lời 'no'.",
+      "Câu 3 phải liệt kê đủ cả hai phiên của người được hỏi, kèm giờ và phòng. Thiếu một phiên là mất điểm.",
+      "Đọc giờ tự nhiên: 'nine fifteen', 'half past three'.",
+      "Dùng cụm giảm nhẹ khi báo tin không thuận: 'I'm afraid that isn't possible'. Đây là ngôn ngữ dịch vụ khách hàng mà TOEIC đánh giá cao.",
+      "Chỉ dùng thông tin trong bảng, không thêm bớt."
+    ]
+  },
+  {
+    "id": "speaking-propose-solution-staffing",
+    "skill": "speaking",
+    "title": "Speaking Q10 — Propose a solution",
+    "format": "TOEIC Speaking — Propose a Solution · 30 giây chuẩn bị, 60 giây nói",
+    "instructionsVi": "Vấn đề ở mức này có hai mặt cùng lúc, và giải pháp phải xử lý cả hai. Cấu trúc: xác nhận vấn đề đầy đủ → giải pháp → bước tiếp theo.",
+    "promptEn": "Listen to the voicemail describing a problem, then leave a message proposing a solution.\n\nVOICEMAIL: 'Hello, this is Marcus Feld, the shift supervisor at the Eastgate site. Two things. First, three of my night staff have handed in notice this week, all on the same day, and I'm now short-staffed from the fifteenth. Second, when I asked them why, all three mentioned the new shift-swap system — apparently they can't get swaps approved in time and they've been refused leave twice. I think these two things are connected. I need to know what support I can get. My number is 0161 288 4470.'",
+    "timeLimitSec": 60,
+    "preparationSec": 30,
+    "sampleAnswer": "Hello Marcus, this is Ngozi Eze from HR, returning your call.\n\nThank you for flagging this. To confirm I've understood: you have three night staff leaving from the fifteenth, which leaves you short-staffed, and all three cited the new shift-swap system, having been refused leave twice. I agree those two things are very likely connected.\n\nHere's what I propose. For the immediate gap, I'll release agency cover for the night shift from the fifteenth for four weeks, which gives us time to recruit properly rather than rushing it. For the underlying cause, I'd like to suspend the automatic refusal rule in the swap system while we review it, so your remaining staff don't hit the same problem in the meantime.\n\nI'll also want to speak to the three leavers before they finish, if they're willing. Could you call me back today to confirm the agency shift pattern you need? I'm on this number until six.",
+    "rubricVi": [
+      "Nhắc lại ĐỦ CẢ HAI vấn đề trước khi đề xuất. Bỏ một mặt là mất điểm hoàn thành nhiệm vụ.",
+      "Giải pháp phải xử lý cả hai: bù người trước mắt VÀ sửa nguyên nhân gốc. Chỉ giải quyết một mặt là chưa đủ ở mức này.",
+      "Nêu bước tiếp theo cụ thể có mốc thời gian ('gọi lại hôm nay', 'tôi trực tới sáu giờ').",
+      "Xưng tên và bộ phận ngay đầu tin nhắn.",
+      "Dùng hết 60 giây với nhịp đều. Cấu trúc ba phần giúp không bị hụt hơi ở cuối."
+    ]
+  }
+]

@@ -1,0 +1,543 @@
+[
+  {
+    "id": "listening-part4-t1",
+    "skill": "listening",
+    "title": "Part 4 — Talk 1: store announcement",
+    "format": "TOEIC Listening — Part 4 · Talk 1 (câu 71–73)",
+    "instructionsVi": "Bài nói một chiều, không có ai hỏi lại nên mọi thông tin chỉ xuất hiện một lần. Ba câu theo thứ tự đầu, giữa, cuối bài.",
+    "promptEn": "Listen to the announcement and answer questions 71 through 73.",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "Announcer",
+        "text": "Attention shoppers. The store will be closing in thirty minutes, at eight o'clock."
+      },
+      {
+        "speaker": "Announcer",
+        "text": "Please note that the customer service desk closes fifteen minutes earlier than the store, so if you need a return or an exchange, please make your way there now."
+      },
+      {
+        "speaker": "Announcer",
+        "text": "A reminder that our sale on winter clothing continues until Sunday, with a further ten per cent off already reduced items when you use a loyalty card."
+      },
+      {
+        "speaker": "Announcer",
+        "text": "Finally, the lift to the car park is out of service this evening. The stairs at the north end of the building remain open, and staff are available at the exit if you need assistance. Thank you for shopping with us."
+      }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p4-71",
+        "kind": "mcq",
+        "prompt": "71. When does the customer service desk close?",
+        "options": [
+          {
+            "id": "a",
+            "text": "At 8:00"
+          },
+          {
+            "id": "b",
+            "text": "At 8:15"
+          },
+          {
+            "id": "c",
+            "text": "At 8:30"
+          },
+          {
+            "id": "d",
+            "text": "At 7:45"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "Cửa hàng đóng lúc 8 giờ, quầy dịch vụ đóng 'fifteen minutes earlier' — tức 7:45. Phải tự tính, con số không được đọc ra."
+      },
+      {
+        "id": "p4-72",
+        "kind": "mcq",
+        "prompt": "72. What is required for the extra discount?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Spending over a certain amount"
+          },
+          {
+            "id": "b",
+            "text": "Shopping before Sunday only"
+          },
+          {
+            "id": "c",
+            "text": "Using a loyalty card"
+          },
+          {
+            "id": "d",
+            "text": "Buying two or more items"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'a further ten per cent off already reduced items when you use a loyalty card'."
+      },
+      {
+        "id": "p4-73",
+        "kind": "mcq",
+        "prompt": "73. What problem is mentioned?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The car park is full."
+          },
+          {
+            "id": "b",
+            "text": "The lift is out of service."
+          },
+          {
+            "id": "c",
+            "text": "The stairs are closed."
+          },
+          {
+            "id": "d",
+            "text": "The sale has ended early."
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'the lift to the car park is out of service this evening'. Cầu thang được nói rõ là VẪN mở, nên (C) sai."
+      }
+    ]
+  },
+  {
+    "id": "listening-part4-t2",
+    "skill": "listening",
+    "title": "Part 4 — Talk 2: voicemail from a dentist",
+    "format": "TOEIC Listening — Part 4 · Talk 2 (câu 74–76)",
+    "instructionsVi": "Tin nhắn thoại. Dạng này gần như luôn có một yêu cầu hành động ở cuối và ít nhất một thông tin bị sửa lại giữa chừng.",
+    "promptEn": "Listen to the telephone message and answer questions 74 through 76.",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "Caller",
+        "text": "Good morning, this is Sandra calling from Fairview Dental Practice for Mr Adeyemi."
+      },
+      {
+        "speaker": "Caller",
+        "text": "I'm calling about your appointment with Dr Lin, which was booked for Thursday the ninth at four fifteen."
+      },
+      {
+        "speaker": "Caller",
+        "text": "Unfortunately Dr Lin is now attending a training course that week. We can offer you the same time on Thursday the sixteenth, or an earlier slot on Tuesday the seventh at nine in the morning."
+      },
+      {
+        "speaker": "Caller",
+        "text": "Please call us back on 0161 447 2290 to let us know which you prefer. If we don't hear from you by Friday, we'll release the slot to someone on the waiting list."
+      },
+      {
+        "speaker": "Caller",
+        "text": "One other thing — please remember to bring the list of medication we asked for last time. Thank you."
+      }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p4-74",
+        "kind": "mcq",
+        "prompt": "74. Why is the appointment being changed?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The patient asked to move it."
+          },
+          {
+            "id": "b",
+            "text": "The practice is closed that week."
+          },
+          {
+            "id": "c",
+            "text": "An emergency has arisen."
+          },
+          {
+            "id": "d",
+            "text": "The dentist will be on a training course."
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'Dr Lin is now attending a training course that week'."
+      },
+      {
+        "id": "p4-75",
+        "kind": "mcq",
+        "prompt": "75. What happens if the patient does not reply by Friday?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The original appointment stands."
+          },
+          {
+            "id": "b",
+            "text": "A charge will be applied."
+          },
+          {
+            "id": "c",
+            "text": "The slot will be offered to someone else."
+          },
+          {
+            "id": "d",
+            "text": "The practice will call again."
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'we'll release the slot to someone on the waiting list'."
+      },
+      {
+        "id": "p4-76",
+        "kind": "mcq",
+        "prompt": "76. What is the patient reminded to bring?",
+        "options": [
+          {
+            "id": "a",
+            "text": "An insurance card"
+          },
+          {
+            "id": "b",
+            "text": "A list of medication"
+          },
+          {
+            "id": "c",
+            "text": "Payment for the last visit"
+          },
+          {
+            "id": "d",
+            "text": "Previous X-rays"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'please remember to bring the list of medication we asked for last time'."
+      }
+    ]
+  },
+  {
+    "id": "listening-part4-t3",
+    "skill": "listening",
+    "title": "Part 4 — Talk 3: radio traffic report",
+    "format": "TOEIC Listening — Part 4 · Talk 3 (câu 77–79)",
+    "instructionsVi": "Bản tin giao thông. Nhiều địa danh và con số nối nhau rất nhanh; ghi nhanh trong lúc nghe thay vì cố nhớ.",
+    "promptEn": "Listen to the traffic report and answer questions 77 through 79.",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "Reporter",
+        "text": "And now the travel news at half past eight."
+      },
+      {
+        "speaker": "Reporter",
+        "text": "There are long delays on the eastbound A40 following an earlier collision near junction twelve. Two lanes are now open, but traffic is queuing back around four miles."
+      },
+      {
+        "speaker": "Reporter",
+        "text": "Drivers heading into the city are advised to leave at junction ten and follow the ring road instead. That adds about fifteen minutes but avoids the queue entirely."
+      },
+      {
+        "speaker": "Reporter",
+        "text": "On the railways, services between Central and Hartwell are running normally again after yesterday's signal failure."
+      },
+      {
+        "speaker": "Reporter",
+        "text": "And a reminder that the Bridge Street car park is closed all week for resurfacing. The nearest alternative is the multi-storey on Ellis Road."
+      }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p4-77",
+        "kind": "mcq",
+        "prompt": "77. What has caused the delays on the A40?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Roadworks"
+          },
+          {
+            "id": "b",
+            "text": "An earlier collision"
+          },
+          {
+            "id": "c",
+            "text": "A signal failure"
+          },
+          {
+            "id": "d",
+            "text": "Bad weather"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'following an earlier collision near junction twelve'. Signal failure là chuyện của đường sắt — bẫy ghép sai nguyên nhân."
+      },
+      {
+        "id": "p4-78",
+        "kind": "mcq",
+        "prompt": "78. What are drivers advised to do?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Leave at junction twelve"
+          },
+          {
+            "id": "b",
+            "text": "Wait until the lanes reopen"
+          },
+          {
+            "id": "c",
+            "text": "Leave at junction ten and use the ring road"
+          },
+          {
+            "id": "d",
+            "text": "Travel by train instead"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'leave at junction ten and follow the ring road instead'. Junction 12 là nơi xảy ra tai nạn."
+      },
+      {
+        "id": "p4-79",
+        "kind": "mcq",
+        "prompt": "79. What is said about the Bridge Street car park?",
+        "options": [
+          {
+            "id": "a",
+            "text": "It is closed all week."
+          },
+          {
+            "id": "b",
+            "text": "It has reopened after resurfacing."
+          },
+          {
+            "id": "c",
+            "text": "It is free this week."
+          },
+          {
+            "id": "d",
+            "text": "It closes at half past eight."
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'the Bridge Street car park is closed all week for resurfacing'."
+      }
+    ]
+  },
+  {
+    "id": "listening-part4-t4",
+    "skill": "listening",
+    "title": "Part 4 — Talk 4: introducing a speaker",
+    "format": "TOEIC Listening — Part 4 · Talk 4 (câu 80–82)",
+    "instructionsVi": "Bài giới thiệu diễn giả. Câu hỏi thường hỏi nghề nghiệp, thành tựu, và việc sẽ diễn ra ngay sau đó.",
+    "promptEn": "Listen to the introduction and answer questions 80 through 82.",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "Host",
+        "text": "Good evening and welcome to the Riverside Business Forum."
+      },
+      {
+        "speaker": "Host",
+        "text": "It's my pleasure to introduce tonight's speaker, Dr Amara Sesay. Dr Sesay spent twelve years in logistics before moving into research, and she now leads the supply chain group at Northfield University."
+      },
+      {
+        "speaker": "Host",
+        "text": "Her book on resilience after disruption was published last spring and has since been translated into six languages."
+      },
+      {
+        "speaker": "Host",
+        "text": "She'll be speaking for about forty minutes, and we'll then take questions for a further twenty. If you'd like to ask something, there are cards on each table — write your question down and a steward will collect them during the talk."
+      },
+      {
+        "speaker": "Host",
+        "text": "Please join me in welcoming Dr Sesay."
+      }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p4-80",
+        "kind": "mcq",
+        "prompt": "80. What did the speaker do before entering research?",
+        "options": [
+          {
+            "id": "a",
+            "text": "She taught at a university."
+          },
+          {
+            "id": "b",
+            "text": "She worked in logistics."
+          },
+          {
+            "id": "c",
+            "text": "She ran a publishing company."
+          },
+          {
+            "id": "d",
+            "text": "She worked as a translator."
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'Dr Sesay spent twelve years in logistics before moving into research'."
+      },
+      {
+        "id": "p4-81",
+        "kind": "mcq",
+        "prompt": "81. What is said about her book?",
+        "options": [
+          {
+            "id": "a",
+            "text": "It will be published next spring."
+          },
+          {
+            "id": "b",
+            "text": "It is available at the entrance."
+          },
+          {
+            "id": "c",
+            "text": "It was written with colleagues."
+          },
+          {
+            "id": "d",
+            "text": "It has been translated into six languages."
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'published last spring and has since been translated into six languages'. Chú ý 'last', không phải 'next'."
+      },
+      {
+        "id": "p4-82",
+        "kind": "mcq",
+        "prompt": "82. How should the audience ask questions?",
+        "options": [
+          {
+            "id": "a",
+            "text": "By writing them on cards during the talk"
+          },
+          {
+            "id": "b",
+            "text": "By raising their hands after the talk"
+          },
+          {
+            "id": "c",
+            "text": "By emailing them in advance"
+          },
+          {
+            "id": "d",
+            "text": "By speaking to a steward at the end"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'write your question down and a steward will collect them during the talk'."
+      }
+    ]
+  },
+  {
+    "id": "listening-part4-t5",
+    "skill": "listening",
+    "title": "Part 4 — Talk 5: automated telephone message",
+    "format": "TOEIC Listening — Part 4 · Talk 5 (câu 83–85)",
+    "instructionsVi": "Tin nhắn tự động của tổng đài. Nhiều lựa chọn bấm phím nối nhau; câu hỏi hỏi phải bấm số nào cho tình huống cụ thể.",
+    "promptEn": "Listen to the recorded message and answer questions 83 through 85.",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "Recording",
+        "text": "Thank you for calling Halcyon Insurance. Please listen carefully as our options have changed."
+      },
+      {
+        "speaker": "Recording",
+        "text": "To make a new claim, press one. To check the status of an existing claim, press two. For renewals and changes to your policy, press three."
+      },
+      {
+        "speaker": "Recording",
+        "text": "If you are calling about a payment that has failed, please do not press any of these options — stay on the line and you will be connected directly to our accounts team."
+      },
+      {
+        "speaker": "Recording",
+        "text": "Please note that our offices are closed on public holidays, and that calls are recorded for training purposes."
+      },
+      {
+        "speaker": "Recording",
+        "text": "You can also manage most policy changes yourself through the customer portal on our website, which is available at any time."
+      }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p4-83",
+        "kind": "mcq",
+        "prompt": "83. What should a caller do about a failed payment?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Stay on the line"
+          },
+          {
+            "id": "b",
+            "text": "Press one"
+          },
+          {
+            "id": "c",
+            "text": "Press three"
+          },
+          {
+            "id": "d",
+            "text": "Call back after a public holiday"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'please do not press any of these options — stay on the line'. Câu phủ định ngay trước là chỗ quyết định."
+      },
+      {
+        "id": "p4-84",
+        "kind": "mcq",
+        "prompt": "84. Which option is for changing a policy?",
+        "options": [
+          {
+            "id": "a",
+            "text": "One"
+          },
+          {
+            "id": "b",
+            "text": "Two"
+          },
+          {
+            "id": "c",
+            "text": "Three"
+          },
+          {
+            "id": "d",
+            "text": "No option is given."
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'For renewals and changes to your policy, press three'."
+      },
+      {
+        "id": "p4-85",
+        "kind": "mcq",
+        "prompt": "85. What alternative does the message suggest?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Visiting an office in person"
+          },
+          {
+            "id": "b",
+            "text": "Writing a letter"
+          },
+          {
+            "id": "c",
+            "text": "Calling a different number"
+          },
+          {
+            "id": "d",
+            "text": "Using the online customer portal"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'manage most policy changes yourself through the customer portal on our website'."
+      }
+    ]
+  }
+]

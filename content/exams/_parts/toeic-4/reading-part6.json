@@ -1,0 +1,274 @@
+[
+  {
+    "id": "reading-part6-t1",
+    "skill": "reading",
+    "title": "Part 6 — Text 1: memo on site-visit waivers",
+    "format": "TOEIC Reading — Part 6 · Text Completion 1 (câu 131–134)",
+    "instructionsVi": "Ở mức 900, câu chèn luôn có hai phương án đúng ngữ pháp và đúng chủ đề. Phân biệt bằng đại từ và từ nối: câu đúng phải trỏ được về danh từ ở câu trước.",
+    "promptEn": "Read the memo and choose the best option for each numbered blank.",
+    "passage": "INTERNAL MEMORANDUM\nTo: All site hosts\nFrom: Health and Safety\nSubject: Visitor waivers — change of practice\n\nFrom 1 October, every visitor entering a production area must have returned a signed liability waiver before arrival. Waivers signed at the gate will no longer be accepted, (131) ______ the visitor has completed the safety briefing that morning.\n\nWe are aware that this creates work for hosts, and we have tried to keep it (132) ______ . The form is one page and can be signed electronically.\n\n(133) ______ Group employees visiting from another site are covered by the group insurance policy, but insurance is not the point of the waiver; the waiver is what records that the visitor has been told the rules.\n\nHosts should send the form with the visit confirmation rather than the day before. Experience suggests that a form sent a week ahead is returned; a form sent at short notice is (134) ______ .",
+    "timeLimitSec": 240,
+    "questions": [
+      {
+        "id": "p6-131",
+        "kind": "mcq",
+        "prompt": "131.",
+        "options": [
+          { "id": "a", "text": "unless" },
+          { "id": "b", "text": "because" },
+          { "id": "c", "text": "whereas" },
+          { "id": "d", "text": "so that" }
+        ],
+        "answer": "a",
+        "explanationVi": "'unless' nêu ngoại lệ duy nhất cho quy định vừa nêu. (C) 'whereas' dùng để đối chiếu hai vế ngang hàng, không tạo ra ngoại lệ.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p6-132",
+        "kind": "mcq",
+        "prompt": "132.",
+        "options": [
+          { "id": "a", "text": "burdensome" },
+          { "id": "b", "text": "light" },
+          { "id": "c", "text": "confidential" },
+          { "id": "d", "text": "provisional" }
+        ],
+        "answer": "b",
+        "explanationVi": "Câu sau giải thích: một trang, ký điện tử được — tức khối lượng việc NHẸ. (A) trái nghĩa với chính ý định của người viết.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p6-133",
+        "kind": "mcq",
+        "prompt": "133.",
+        "options": [
+          { "id": "a", "text": "One question has come up repeatedly since the draft was circulated." },
+          { "id": "b", "text": "Visitor numbers have fallen sharply over the past two quarters." },
+          { "id": "c", "text": "The insurance policy is renewed every January by the group treasurer." },
+          { "id": "d", "text": "Production areas will be closed to all visitors during October." }
+        ],
+        "answer": "a",
+        "explanationVi": "Câu sau chỗ trống trả lời một thắc mắc ('… are covered by the group insurance policy, but…'), nên câu chèn phải giới thiệu thắc mắc đó. (C) nhắc bảo hiểm nhưng lạc sang chuyện gia hạn, (D) mâu thuẫn với cả bản ghi nhớ.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p6-134",
+        "kind": "mcq",
+        "prompt": "134.",
+        "options": [
+          { "id": "a", "text": "chased" },
+          { "id": "b", "text": "filed" },
+          { "id": "c", "text": "waived" },
+          { "id": "d", "text": "signed" }
+        ],
+        "answer": "a",
+        "explanationVi": "Cấu trúc đối lập 'a form sent a week ahead is returned; a form sent at short notice is ______' đòi hỏi một kết quả xấu. 'chased' = phải đi đòi. (D) làm câu mất hẳn ý đối lập.",
+        "difficulty": "hard"
+      }
+    ]
+  },
+  {
+    "id": "reading-part6-t2",
+    "skill": "reading",
+    "title": "Part 6 — Text 2: email about a late delivery",
+    "format": "TOEIC Reading — Part 6 · Text Completion 2 (câu 135–138)",
+    "instructionsVi": "Thư thương mại có giọng nhận lỗi. Chú ý thì của động từ: việc đã làm, việc đang làm và việc đề nghị nằm ở ba câu khác nhau.",
+    "promptEn": "Read the email and choose the best option for each numbered blank.",
+    "passage": "From: d.abbey@sentro-components.com\nTo: n.okafor@larkwell.example\nSubject: Order 7742 — revised delivery and credit\n\nDear Ms Okafor,\n\nFurther to my message this morning, I am writing to confirm in writing what I set out by telephone.\n\nOrder 7742 cleared customs on Monday but was held at the inland depot because our documentation showed an incorrect consignee address. The error was (135) ______ ours. Corrected papers were lodged today and delivery is now expected on Thursday.\n\nUnder clause 9 a delay exceeding two working days entitles you to a credit calculated on a prorated basis against the value of the affected line. I have asked our accounts team to raise that credit — approximately $410 — without waiting for a claim from you. (136) ______\n\nI would be grateful if you could confirm whether Thursday remains workable. (137) ______ , we can split the consignment and air-freight 200 units for Wednesday at our expense. That only makes sense if a single day is material to your line, so please tell me either way.\n\nI am sorry for the disruption, which was (138) ______ avoidable.\n\nDorian Abbey\nCustomer Operations",
+    "timeLimitSec": 240,
+    "questions": [
+      {
+        "id": "p6-135",
+        "kind": "mcq",
+        "prompt": "135.",
+        "options": [
+          { "id": "a", "text": "arguably" },
+          { "id": "b", "text": "entirely" },
+          { "id": "c", "text": "partly" },
+          { "id": "d", "text": "allegedly" }
+        ],
+        "answer": "b",
+        "explanationVi": "Cả bức thư nhận trách nhiệm và tự nguyện cấp tín dụng, nên phải là nhận lỗi dứt khoát. (A) và (D) đều cài nghi ngờ vào chính lời nhận lỗi của mình.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p6-136",
+        "kind": "mcq",
+        "prompt": "136.",
+        "options": [
+          { "id": "a", "text": "It will appear on your next statement rather than as a separate payment." },
+          { "id": "b", "text": "Please submit the claim form within twenty-eight days of delivery." },
+          { "id": "c", "text": "Clause 9 was amended when the contract was renewed last year." },
+          { "id": "d", "text": "We are unable to offer compensation for delays caused by customs." }
+        ],
+        "answer": "a",
+        "explanationVi": "Câu trước đã nói tự cấp tín dụng mà không cần khách yêu cầu, nên (B) mâu thuẫn trực tiếp và (D) mâu thuẫn với cả đoạn. (A) là bước tiếp theo hợp lý: khoản đó xuất hiện ở đâu.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p6-137",
+        "kind": "mcq",
+        "prompt": "137.",
+        "options": [
+          { "id": "a", "text": "Consequently" },
+          { "id": "b", "text": "If not" },
+          { "id": "c", "text": "Even so" },
+          { "id": "d", "text": "In addition" }
+        ],
+        "answer": "b",
+        "explanationVi": "Câu trước hỏi thứ Năm có ổn không; câu sau đưa ra phương án dự phòng — quan hệ điều kiện phủ định. (A) và (D) đều biến phương án dự phòng thành hệ quả hoặc bổ sung.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p6-138",
+        "kind": "mcq",
+        "prompt": "138.",
+        "options": [
+          { "id": "a", "text": "barely" },
+          { "id": "b", "text": "hardly" },
+          { "id": "c", "text": "wholly" },
+          { "id": "d", "text": "rarely" }
+        ],
+        "answer": "c",
+        "explanationVi": "'wholly avoidable' = hoàn toàn có thể tránh được, tức tự nhận lỗi thêm lần nữa. (A) và (B) mang nghĩa phủ định, biến câu xin lỗi thành lời bào chữa.",
+        "difficulty": "hard"
+      }
+    ]
+  },
+  {
+    "id": "reading-part6-t3",
+    "skill": "reading",
+    "title": "Part 6 — Text 3: notice on a committee's terms of reference",
+    "format": "TOEIC Reading — Part 6 · Text Completion 3 (câu 139–142)",
+    "instructionsVi": "Văn bản quản trị doanh nghiệp: các từ 'remit', 'terms of reference', 'resolve', 'recommend' mang nghĩa kỹ thuật và quyết định đáp án.",
+    "promptEn": "Read the notice and choose the best option for each numbered blank.",
+    "passage": "NOTICE — Steering Committee, terms of reference\n\nFollowing questions raised at the September meeting, the company secretary has been asked to restate the committee's remit.\n\nThe committee may consider any matter affecting the delivery of the trial programme, and it may make recommendations to the executive on any such matter. It (139) ______ decide pricing. Pricing sits with the pricing group and has done since 2024.\n\nThe minutes of 14 September record the committee as having 'resolved' to reduce the trial price by fifteen per cent. That wording will be (140) ______ to read 'recommended'. No criticism of the committee is intended: the terms of reference are two years old and have never been reissued.\n\n(141) ______ The recommendation itself has been passed to the pricing group and will be considered on its merits at the October meeting.\n\nMembers who would like the remit (142) ______ should write to the company secretary before the end of the month.",
+    "timeLimitSec": 240,
+    "questions": [
+      {
+        "id": "p6-139",
+        "kind": "mcq",
+        "prompt": "139.",
+        "options": [
+          { "id": "a", "text": "may not" },
+          { "id": "b", "text": "need not" },
+          { "id": "c", "text": "does not have to" },
+          { "id": "d", "text": "might not" }
+        ],
+        "answer": "a",
+        "explanationVi": "'may not' = không được phép. (B) và (C) chỉ nghĩa 'không bắt buộc', tức vẫn được làm nếu muốn — sai hoàn toàn với ý cấm thẩm quyền.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p6-140",
+        "kind": "mcq",
+        "prompt": "140.",
+        "options": [
+          { "id": "a", "text": "withdrawn" },
+          { "id": "b", "text": "amended" },
+          { "id": "c", "text": "translated" },
+          { "id": "d", "text": "certified" }
+        ],
+        "answer": "b",
+        "explanationVi": "Câu nói rõ sẽ sửa một từ thành từ khác, tức chỉnh sửa biên bản chứ không rút lại. (A) sẽ xoá cả nội dung, mâu thuẫn với đoạn sau nói khuyến nghị vẫn được chuyển đi.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p6-141",
+        "kind": "mcq",
+        "prompt": "141.",
+        "options": [
+          { "id": "a", "text": "The correction is procedural and does not affect the substance of what was proposed." },
+          { "id": "b", "text": "The committee will be dissolved at the end of the financial year." },
+          { "id": "c", "text": "Members are reminded that the meeting was not quorate." },
+          { "id": "d", "text": "The fifteen per cent reduction took effect on 1 October." }
+        ],
+        "answer": "a",
+        "explanationVi": "Câu tiếp theo bắt đầu bằng 'The recommendation itself…', tức đang tách bạch giữa thủ tục và nội dung. (D) mâu thuẫn: giá chưa được quyết. (C) đưa vào một lý do vô hiệu hoàn toàn mới, không được nhắc ở đâu khác.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p6-142",
+        "kind": "mcq",
+        "prompt": "142.",
+        "options": [
+          { "id": "a", "text": "broaden" },
+          { "id": "b", "text": "broadening" },
+          { "id": "c", "text": "broadened" },
+          { "id": "d", "text": "to broaden" }
+        ],
+        "answer": "c",
+        "explanationVi": "'would like something done' — phạm vi trách nhiệm được mở rộng bởi người khác, nên dùng phân từ quá khứ bị động. (D) sẽ khiến chính 'the remit' trở thành chủ thể đi mở rộng.",
+        "difficulty": "hard"
+      }
+    ]
+  },
+  {
+    "id": "reading-part6-t4",
+    "skill": "reading",
+    "title": "Part 6 — Text 4: article on a break clause",
+    "format": "TOEIC Reading — Part 6 · Text Completion 4 (câu 143–146)",
+    "instructionsVi": "Bài báo kinh doanh: chỗ trống cuối thường kiểm tra khả năng đọc thái độ của người viết chứ không phải ngữ pháp.",
+    "promptEn": "Read the article and choose the best option for each numbered blank.",
+    "passage": "OFFICE MARKET — Tenants keep their options open\n\nA growing number of occupiers are serving break notices they have no firm intention of acting on, according to letting agents in three regional cities.\n\nA break clause typically allows a tenant to end a lease early on a fixed date, provided written notice is (143) ______ six months beforehand. Miss the date and the right disappears until the next break, which may be years away.\n\n(144) ______ Serving the notice costs nothing, preserves the option and, in a soft market, brings the landlord to the table.\n\nAgents report that roughly two thirds of tenants who served notices last year (145) ______ in the same building on renegotiated terms. Landlords, for their part, have begun asking for longer notice periods in new leases.\n\nWhether that will hold is (146) ______ . A clause that protects the landlord in a weak market becomes hard to let in a strong one.",
+    "timeLimitSec": 240,
+    "questions": [
+      {
+        "id": "p6-143",
+        "kind": "mcq",
+        "prompt": "143.",
+        "options": [
+          { "id": "a", "text": "sending" },
+          { "id": "b", "text": "given" },
+          { "id": "c", "text": "gave" },
+          { "id": "d", "text": "giving" }
+        ],
+        "answer": "b",
+        "explanationVi": "'notice is given' là kết hợp cố định ở dạng bị động. (A) và (D) để chủ ngữ 'notice' tự đi thông báo.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p6-144",
+        "kind": "mcq",
+        "prompt": "144.",
+        "options": [
+          { "id": "a", "text": "That asymmetry explains the tactic." },
+          { "id": "b", "text": "Rents in the three cities rose by four per cent last quarter." },
+          { "id": "c", "text": "Most leases in the sector run for fifteen years." },
+          { "id": "d", "text": "Break clauses were introduced in the 1980s." }
+        ],
+        "answer": "a",
+        "explanationVi": "Câu trước nêu sự bất đối xứng: gửi thông báo thì không mất gì, bỏ lỡ hạn thì mất quyền nhiều năm. Câu sau giải thích cái lợi của việc gửi. Câu chèn phải là bản lề nối hai ý đó.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p6-145",
+        "kind": "mcq",
+        "prompt": "145.",
+        "options": [
+          { "id": "a", "text": "will remain" },
+          { "id": "b", "text": "remained" },
+          { "id": "c", "text": "are remaining" },
+          { "id": "d", "text": "would have remained" }
+        ],
+        "answer": "b",
+        "explanationVi": "'last year' buộc dùng quá khứ đơn. Đây là chỗ trống ăn điểm nhanh: xác định mốc thời gian trước, đừng đọc cả đoạn.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p6-146",
+        "kind": "mcq",
+        "prompt": "146.",
+        "options": [
+          { "id": "a", "text": "certain" },
+          { "id": "b", "text": "doubtful" },
+          { "id": "c", "text": "irrelevant" },
+          { "id": "d", "text": "mandatory" }
+        ],
+        "answer": "b",
+        "explanationVi": "Câu cuối giải thích vì sao điều khoản đó khó duy trì khi thị trường mạnh lên — người viết tỏ ý hoài nghi. (A) ngược hẳn với lập luận ngay sau đó.",
+        "difficulty": "hard"
+      }
+    ]
+  }
+]

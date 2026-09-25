@@ -1,0 +1,1775 @@
+prompts:
+  - slug: invite-neighbour-dinner
+    kind: email
+    cefr: A2
+    title: Mời hàng xóm đến ăn tối
+    instructionsVi: "Viết một email cho người hàng xóm mới của bạn, ông Davis. Mời ông ấy đến ăn tối tại
+      căn hộ của bạn (số 4B) vào lúc 7 giờ tối thứ Sáu này. Trong email, bạn phải: 1. Giải thích
+      rằng bạn muốn chào đón ông ấy và ăn tối cùng nhau, 2. Nêu rõ ngày, giờ và địa điểm cụ thể, 3.
+      Hỏi xem ông ấy có bị dị ứng đồ ăn nào không."
+    instructionsEn: "Write an email to your new neighbour, Mr. Davis. Invite him to dinner at your flat
+      (number 4B) this Friday at 7 PM. In your email, you must: 1. Explain that you want to welcome
+      him and have dinner together, 2. Give the exact date, time, and location, 3. Ask if he has any
+      food allergies."
+    minWords: 60
+    maxWords: 100
+    timeLimitMin: 15
+    outlineVi: Chào ông Davis, bày tỏ mong muốn được chào đón ông ấy đến khu phố mới bằng một bữa tối
+      tại nhà, nêu rõ thời gian (7 giờ tối thứ Sáu) và địa điểm (căn hộ 4B), hỏi về tình trạng dị
+      ứng thực phẩm để chuẩn bị chu đáo, và ký tên thân thiện.
+    sampleAnswer: >-
+      Dear Mr. Davis,
+
+
+      I hope you are doing well. Since you moved into apartment 4A last month, I would love to
+      welcome you to our building with a home-cooked dinner.
+
+
+      Would you like to come to my flat, number 4B, this Friday at 7 PM? We can chat and get to know
+      each other better. Please let me know if you have any food allergies so I can prepare the meal
+      safely.
+
+
+      I look forward to hearing from you soon.
+
+
+      Best wishes,
+
+      Alex
+  - slug: ask-teacher-missed-class
+    kind: email
+    cefr: A2
+    title: Hỏi giáo viên về buổi học vắng mặt
+    instructionsVi: "Viết một email cho giáo viên tiếng Anh của bạn, cô Smith. Bạn đã vắng mặt trong lớp
+      học của cô vào thứ Ba vì bị ốm. Trong email, bạn phải: 1. Xin lỗi vì đã bỏ lỡ buổi học do bị
+      bệnh, 2. Hỏi xem bài tập về nhà được giao là gì, 3. Hỏi thời hạn cần nộp bài."
+    instructionsEn: "Write an email to your English teacher, Mrs. Smith. You missed her class on Tuesday
+      because you were sick. In your email, you must: 1. Apologize for missing the lesson due to
+      illness, 2. Ask what homework was assigned, 3. Ask when you need to hand it in."
+    minWords: 60
+    maxWords: 100
+    timeLimitMin: 15
+    outlineVi: Chào cô Smith, gửi lời xin lỗi vì vắng mặt vào thứ Ba do bị ốm nặng, hỏi chi tiết về bài
+      tập về nhà đã được giao trong buổi đó, hỏi rõ thời hạn cần nộp bài để hoàn thành đúng hạn, và
+      gửi lời cảm ơn.
+    sampleAnswer: >-
+      Dear Mrs. Smith,
+
+
+      I am writing to apologize for missing your English class on Tuesday. Unfortunately, I was very
+      sick with the flu and had to stay in bed all day.
+
+
+      Could you please tell me what homework was assigned during that lesson? Also, please let me
+      know when I need to hand it in. I want to make sure I do not fall behind with my studies.
+
+
+      Thank you very much for your understanding and help.
+
+
+      Sincerely,
+
+      David
+  - slug: thank-friend-pet-sitting
+    kind: email
+    cefr: A2
+    title: Cảm ơn bạn vì đã chăm sóc thú cưng
+    instructionsVi: "Viết một email cho người bạn của bạn là Tom. Anh ấy đã chăm sóc con mèo Luna của
+      bạn trong lúc bạn đi nghỉ mát. Trong email, bạn phải: 1. Cảm ơn anh ấy vì đã chăm sóc Luna, 2.
+      Nhắc đến việc con mèo trông rất vui vẻ và khỏe mạnh, 3. Mời anh ấy đến nhà ăn tối để cảm ơn."
+    instructionsEn: "Write an email to your friend Tom. He looked after your cat, Luna, while you were
+      away on holiday. In your email, you must: 1. Thank him for taking care of Luna, 2. Mention
+      that the cat looks very happy and healthy, 3. Invite him to dinner at your house to say thank
+      you properly."
+    minWords: 60
+    maxWords: 100
+    timeLimitMin: 15
+    outlineVi: Chào Tom, gửi lời cảm ơn chân thành vì đã chăm sóc mèo Luna khi bạn đi nghỉ mát, chia sẻ
+      rằng chú mèo rất vui vẻ và khỏe mạnh khi bạn về nhà, mời Tom đến ăn tối vào tối thứ Bảy để cảm
+      ơn.
+    sampleAnswer: >-
+      Hi Tom,
+
+
+      I am writing to say a huge thank you for looking after my cat, Luna, while I was away on
+      holiday last week. You did an amazing job!
+
+
+      When I got home, Luna looked extremely happy, relaxed, and very healthy. I am so grateful for
+      your help. To say thank you properly, I would love to invite you to dinner at my house this
+      Saturday evening. Let me know if you are free.
+
+
+      Best,
+
+      Sarah
+  - slug: change-hairdresser-appointment
+    kind: email
+    cefr: A2
+    title: Đổi lịch hẹn làm tóc
+    instructionsVi: "Viết một email cho tiệm làm tóc để đổi lịch hẹn của bạn. Bạn hiện có lịch đặt vào
+      thứ Năm lúc 10 giờ sáng. Trong email, bạn phải: 1. Nêu chi tiết lịch hẹn hiện tại của bạn, 2.
+      Giải thích lý do cần đổi vì có cuộc họp công việc, 3. Hỏi xem có thể chuyển sang sáng thứ Bảy
+      được không."
+    instructionsEn: "Write an email to your hair salon to change your appointment. You currently have a
+      booking for Thursday at 10 AM. In your email, you must: 1. State the details of your current
+      booking, 2. Explain that you need to change it because of a work meeting, 3. Ask if you can
+      change it to Saturday morning instead."
+    minWords: 60
+    maxWords: 100
+    timeLimitMin: 15
+    outlineVi: Chào tiệm làm tóc, thông báo về lịch hẹn hiện tại vào lúc 10 giờ sáng thứ Năm, giải thích
+      lý do phải thay đổi do bận cuộc họp công việc đột xuất, đề xuất dời lịch sang sáng thứ Bảy và
+      hỏi các khung giờ trống.
+    sampleAnswer: >-
+      Dear Salon Team,
+
+
+      I am writing to change my hair appointment. Currently, I have a booking scheduled for this
+      Thursday at 10 AM with Anna.
+
+
+      Unfortunately, I have an urgent work meeting at that time and cannot make it. Could I please
+      change my appointment to Saturday morning instead? Please let me know what times are available
+      on that day.
+
+
+      Thank you for your help, and I am sorry for any inconvenience caused.
+
+
+      Regards,
+
+      Emma
+  - slug: email-room-rent-inquiry
+    kind: email
+    cefr: A2
+    title: Hỏi thông tin về phòng cho thuê
+    instructionsEn: "Write an email to a landlord named Mr. John about a room for rent. Include three
+      things: ask if the room is still available, ask about the monthly rent and bills, and ask to
+      visit the room this Saturday."
+    instructionsVi: "Viết một email cho chủ nhà tên là John về phòng cho thuê. Bao gồm ba nội dung: hỏi
+      phòng còn trống không, hỏi về tiền thuê hàng tháng và hóa đơn, và xin lịch đến xem phòng vào
+      thứ Bảy này."
+    minWords: 60
+    maxWords: 100
+    timeLimitMin: 15
+    outlineVi: Chào chủ nhà -> Hỏi phòng còn trống không -> Hỏi giá thuê và hóa đơn điện nước -> Đề nghị
+      lịch xem phòng vào thứ Bảy -> Ký tên.
+    sampleAnswer: >-
+      Dear Mr. John,
+
+
+      I am writing to ask about the small room for rent that I saw online. Is the room still
+      available for a new tenant? Could you please tell me how much the monthly rent is and if bills
+      like electricity and water are included? I am very interested in your place. Can I come and
+      visit the room this Saturday afternoon?
+
+
+      I look forward to hearing from you soon.
+
+
+      Best regards,
+
+      Nam
+  - slug: email-cousin-new-hobby
+    kind: email
+    cefr: A2
+    title: Kể với họ hàng về sở thích mới
+    instructionsEn: "Write an email to your cousin Anna about your new hobby. Include three things: say
+      what your new hobby is, explain why you started it, and invite her to try some food you made."
+    instructionsVi: "Viết một email cho người em họ tên là Anna về sở thích mới của bạn. Bao gồm ba nội
+      dung: nói sở thích mới là gì, giải thích lý do bắt đầu, và mời cô ấy thử món ăn bạn nấu."
+    minWords: 60
+    maxWords: 100
+    timeLimitMin: 15
+    outlineVi: Chào Anna -> Kể về sở thích nấu ăn mới -> Giải thích lý do vì muốn ăn ngon hơn -> Mời đến
+      nhà thử món ăn cuối tuần này -> Chào thân ái.
+    sampleAnswer: >-
+      Dear Anna,
+
+
+      How are you? I am writing to tell you about my new hobby. Recently, I started learning how to
+      cook traditional Vietnamese food. I decided to start this hobby because I want to eat
+      healthier meals and save money instead of buying fast food every day. It is really fun and
+      relaxing. Next weekend, I am going to make some spring rolls. Would you like to come over to
+      my house and try some food that I made?
+
+
+      Love,
+
+      Linh
+  - slug: email-shop-opening-hours
+    kind: email
+    cefr: A2
+    title: Hỏi cửa hàng về giờ mở cửa
+    instructionsEn: "Write an email to a bookstore called BookWorld to ask about their opening hours.
+      Include three things: ask about opening and closing times on weekdays, ask if they are open on
+      Sundays, and ask if they sell used books."
+    instructionsVi: "Viết một email tới cửa hàng sách BookWorld để hỏi về giờ mở cửa. Bao gồm ba nội
+      dung: hỏi giờ mở cửa và đóng cửa vào các ngày trong tuần, hỏi cửa hàng có mở cửa vào Chủ Nhật
+      không, và hỏi có bán sách cũ không."
+    minWords: 60
+    maxWords: 100
+    timeLimitMin: 15
+    outlineVi: Chào BookWorld -> Hỏi giờ mở cửa và đóng cửa ngày thường -> Hỏi có mở cửa Chủ Nhật không
+      -> Hỏi về việc bán sách cũ -> Ký tên.
+    sampleAnswer: >-
+      Dear BookWorld team,
+
+
+      I am writing to ask for some information about your lovely store. Could you please tell me
+      what time you open and close on weekdays? Also, are you open on Sundays because I am usually
+      very busy from Monday to Saturday? Finally, I would like to know if you sell used books or
+      only new ones. I am looking for some old novels for my class.
+
+
+      Thank you for your help.
+
+
+      Best wishes,
+
+      Hung
+  - slug: email-collect-lost-jacket
+    kind: email
+    cefr: A2
+    title: Sắp xếp để nhận lại chiếc áo khoác bị mất
+    instructionsEn: "Write an email to a coffee shop manager named Mr. David to arrange to collect a
+      lost jacket. Include three things: describe the jacket's color and brand, state when and where
+      you left it, and ask when you can come to pick it up."
+    instructionsVi: "Viết một email cho quản lý quán cà phê tên là David để sắp xếp nhận lại chiếc áo
+      khoác bị mất. Bao gồm ba nội dung: mô tả màu sắc và hãng áo, nêu thời gian và nơi để quên, và
+      hỏi khi nào có thể đến lấy."
+    minWords: 60
+    maxWords: 100
+    timeLimitMin: 15
+    outlineVi: Chào Mr. David -> Mô tả áo khoác màu xanh và hiệu Adidas -> Kể lại thời gian và vị trí để
+      quên hôm qua -> Hỏi thời gian có thể đến nhận lại -> Cảm ơn và ký tên.
+    sampleAnswer: >-
+      Dear Mr. David,
+
+
+      I am writing about a jacket that I left at your coffee shop yesterday afternoon. It is a dark
+      blue Adidas jacket with a small white logo on the chest. I sat at the corner table near the
+      window, and I think I forgot it on the chair when I left around 4 PM. Could you please let me
+      know when I can come to the shop to pick it up?
+
+
+      Thank you very much.
+
+
+      Sincerely,
+
+      Phong
+  - slug: describe-favourite-room
+    kind: paragraph
+    cefr: A2
+    title: Mô tả căn phòng yêu thích của bạn
+    instructionsVi: "Viết một đoạn văn gửi nhóm học tiếng Anh trực tuyến của bạn về căn phòng yêu thích
+      trong ngôi nhà của bạn. Bạn phải: 1. Nêu tên căn phòng và lý do bạn thích nó nhất. 2. Mô tả
+      hai đồ vật chính bên trong phòng. 3. Giải thích bạn thường làm gì ở đó."
+    instructionsEn: "Write a paragraph for your online English learning group about your favourite room
+      in your house. You must: 1. Name the room and say why you like it most. 2. Describe two main
+      things inside the room. 3. Explain what you usually do there."
+    minWords: 60
+    maxWords: 100
+    timeLimitMin: 15
+    outlineVi: Giới thiệu căn phòng yêu thích và lý do thích nó - Mô tả hai đồ vật chính - Nêu các hoạt
+      động bạn thường làm ở đó
+    sampleAnswer: My favourite room in my house is my bedroom because it is very quiet and comfortable.
+      Inside the room, I have a big brown wooden bed near the window and a small desk for my
+      computer. Every evening, I sit at my desk to finish my homework and study English. On
+      weekends, I love reading interesting comic books on my bed. This cozy room is my special place
+      to relax after a long, tiring day at school. I really love spending time here.
+  - slug: how-i-get-to-school
+    kind: paragraph
+    cefr: A2
+    title: Giải thích cách bạn đến trường
+    instructionsVi: "Viết một đoạn văn gửi bạn qua thư tín về cách bạn di chuyển đến trường mỗi ngày.
+      Bạn phải: 1. Nêu rõ phương tiện hoặc cách thức bạn dùng để đến trường. 2. Mô tả hành trình mất
+      bao lâu và bạn nhìn thấy gì trên đường đi. 3. Giải thích cảm xúc của bạn về chuyến đi hàng
+      ngày này."
+    instructionsEn: "Write a paragraph for your penpal about how you travel to school every day. You
+      must: 1. State what vehicle or method you use to get to school. 2. Describe how long the
+      journey takes and what you see on the way. 3. Explain how you feel about this daily trip."
+    minWords: 60
+    maxWords: 100
+    timeLimitMin: 15
+    outlineVi: Nêu phương tiện di chuyển đến trường - Mô tả thời gian đi và cảnh vật trên đường - Nêu
+      cảm nhận của bạn về chuyến đi
+    sampleAnswer: Every morning, I ride my red bicycle to school because it is good for my health. The
+      journey takes about fifteen minutes, and on the way, I always cycle past a green park with
+      many tall trees and a busy bakery. I love looking at the morning flowers and listening to the
+      singing birds. Even when it is raining, I feel very happy and energetic during this short
+      ride. It is a wonderful way to start my busy school day with a fresh mind.
+  - slug: describe-helpful-neighbour
+    kind: paragraph
+    cefr: A2
+    title: Mô tả một người hàng xóm tốt bụng
+    instructionsVi: "Viết một đoạn văn cho tờ tạp chí của trường về một người hàng xóm tốt bụng mà bạn
+      biết. Bạn phải: 1. Giới thiệu người hàng xóm và nêu tên hoặc mối quan hệ của họ với bạn. 2. Mô
+      tả một lần cụ thể họ đã giúp đỡ bạn hoặc gia đình bạn. 3. Giải thích tại sao bạn quý trọng
+      người này."
+    instructionsEn: "Write a paragraph for your school magazine about a helpful neighbour you know. You
+      must: 1. Introduce the neighbour and state their name or relation to you. 2. Describe one
+      specific time when they helped you or your family. 3. Explain why you appreciate this person."
+    minWords: 60
+    maxWords: 100
+    timeLimitMin: 15
+    outlineVi: Giới thiệu tên và mối quan hệ với người hàng xóm - Kể một lần cụ thể họ giúp đỡ gia đình
+      bạn - Nêu lý do bạn quý trọng họ
+    sampleAnswer: My neighbour, Mr. Nam, is a kind and helpful man who lives next door. Last month, I
+      forgot my front door key while my parents were away for the afternoon. Mr. Nam invited me into
+      his house and helped me call my mother. He gave me a snack while we waited for her to return.
+      I appreciate him because he listened to my problem and made me feel welcome. Now I always
+      check for my key before leaving home.
+  - slug: a-small-mistake-story
+    kind: paragraph
+    cefr: A2
+    title: Kể chuyện về một lỗi lầm nhỏ
+    instructionsVi: "Viết một đoạn văn cho blog tuổi trẻ kể một câu chuyện về một lỗi lầm nhỏ bạn đã mắc
+      phải. Bạn phải: 1. Nêu rõ lỗi lầm đó là gì và xảy ra khi nào. 2. Mô tả kết quả của lỗi lầm đó.
+      3. Giải thích những gì bạn đã học được từ trải nghiệm này."
+    instructionsEn: "Write a paragraph for a youth blog telling a story about a small mistake you made.
+      You must: 1. State what the mistake was and when it happened. 2. Describe what happened as a
+      result of that mistake. 3. Explain what you learned from this experience."
+    minWords: 60
+    maxWords: 100
+    timeLimitMin: 15
+    outlineVi: Nêu lỗi lầm nhỏ và thời điểm xảy ra - Kể lại hậu quả của lỗi lầm đó - Nêu bài học rút ra
+      từ trải nghiệm
+    sampleAnswer: Last week, I made a small mistake by forgetting to charge my phone before going to
+      bed. As a result, my alarm did not ring in the morning, and I woke up thirty minutes late for
+      my first class. I had to rush through breakfast and run all the way to school, missing the
+      beginning of my math lesson. From this experience, I learned that I must always prepare my
+      things the night before to avoid unnecessary stress.
+  - slug: describe-family-meal
+    kind: paragraph
+    cefr: A2
+    title: Bữa ăn gia đình cuối tuần
+    instructionsEn: "Write a paragraph for your lifestyle blog describing a recent family meal. You must
+      include these three points: 1) What food was cooked, 2) Who helped prepare the meal, and 3)
+      How everyone felt during the time together. Write between 60 and 100 words."
+    instructionsVi: "Viết một đoạn văn cho blog lối sống của bạn để mô tả một bữa ăn gia đình gần đây.
+      Bạn phải bao gồm ba điểm sau: 1) Thức ăn nào được nấu, 2) Ai đã giúp chuẩn bị bữa ăn, và 3)
+      Mọi người cảm thấy thế nào trong thời gian quây quần bên nhau. Viết từ 60 đến 100 từ."
+    minWords: 60
+    maxWords: 100
+    timeLimitMin: 15
+    outlineVi: Giới thiệu thời gian và dịp bữa ăn - Kể tên các món ăn và người nấu cùng - Nêu cảm xúc
+      của mọi người khi ăn
+    sampleAnswer: Last Sunday, my family had a wonderful dinner together to celebrate my mother's
+      birthday. My sister and I cooked a big meal with chicken soup, fried spring rolls, and sweet
+      rice. We spent two hours in the kitchen working happily. When our parents sat down at the
+      table, they smiled brightly and loved the food so much. We talked, laughed, and shared stories
+      about our week. It was a warm and unforgettable evening for all of us because we enjoyed
+      delicious food and lovely family moments.
+  - slug: compare-two-shops
+    kind: paragraph
+    cefr: A2
+    title: Mua sắm ở chợ truyền thống và siêu thị
+    instructionsEn: "Write a paragraph for your school magazine comparing shopping at a local market and
+      a supermarket. You must include these three points: 1) Name the two places, 2) Compare their
+      prices, and 3) State which place you prefer to visit and why. Write between 60 and 100 words."
+    instructionsVi: "Viết một đoạn văn cho tạp chí trường học so sánh việc mua sắm ở chợ địa phương và
+      siêu thị. Bạn phải bao gồm ba điểm sau: 1) Nêu tên hai địa điểm, 2) So sánh giá cả của chúng,
+      và 3) Nêu rõ địa điểm bạn thích ghé thăm hơn và lý do. Viết từ 60 đến 100 từ."
+    minWords: 60
+    maxWords: 100
+    timeLimitMin: 15
+    outlineVi: Giới thiệu chợ địa phương và siêu thị - So sánh giá rẻ ở chợ và sự đắt đỏ ở siêu thị -
+      Nêu lựa chọn yêu thích của bạn
+    sampleAnswer: I usually buy food at both the local wet market and the big supermarket near my house.
+      The local market has very cheap vegetables and fresh fish, but the supermarket is more
+      expensive for the same vegetables I usually buy. However, the supermarket is cleaner and
+      offers many imported fruits. I prefer shopping at the local market because I can save a lot of
+      money and chat with friendly sellers every weekend morning. It is much more convenient and
+      lively for my daily grocery shopping needs.
+  - slug: simple-weekend-plan
+    kind: paragraph
+    cefr: A2
+    title: Kế hoạch cuối tuần đơn giản
+    instructionsEn: "Write a paragraph to a friend explaining your simple weekend plan. You must include
+      these three points: 1) State where you are going, 2) Mention the exact time you will meet, and
+      3) List one activity you will do together there. Write between 60 and 100 words."
+    instructionsVi: "Viết một đoạn văn gửi cho một người bạn giải thích kế hoạch cuối tuần đơn giản của
+      bạn. Bạn phải bao gồm ba điểm sau: 1) Nêu rõ bạn sẽ đi đâu, 2) Đề cập thời gian chính xác bạn
+      sẽ gặp nhau, và 3) Liệt kê một hoạt động bạn sẽ làm cùng nhau ở đó. Viết từ 60 đến 100 từ."
+    minWords: 60
+    maxWords: 100
+    timeLimitMin: 15
+    outlineVi: Nói về địa điểm sẽ đến vào cuối tuần - Thông báo thời gian gặp mặt cụ thể - Gợi ý hoạt
+      động sẽ làm cùng nhau
+    sampleAnswer: Hi Nam, let us go to the Central Park this coming Saturday for a relaxing day. We
+      should meet at the main gate at nine o'clock in the morning because the weather will be very
+      cool then. We can rent a double bicycle and ride around the green trees together for two
+      hours. After that, we will buy some ice cream and sit on the grass to chat. Please tell me if
+      this time works well for you so we can prepare everything.
+  - slug: describe-something-repaired
+    kind: paragraph
+    cefr: A2
+    title: Sửa chữa chiếc đèn bàn cũ
+    instructionsEn: "Write a paragraph for a DIY online forum describing something you repaired
+      recently. You must include these three points: 1) Name the item you fixed, 2) Explain what was
+      broken on it, and 3) Describe how you successfully repaired it. Write between 60 and 100
+      words."
+    instructionsVi: "Viết một đoạn văn cho một diễn đàn trực tuyến về tự làm đồ thủ công (DIY) mô tả một
+      vật dụng bạn đã sửa chữa gần đây. Bạn phải bao gồm ba điểm sau: 1) Nêu tên món đồ bạn đã sửa,
+      2) Giải thích điều gì đã bị hỏng ở nó, và 3) Mô tả cách bạn đã sửa chữa nó thành công. Viết từ
+      60 đến 100 từ."
+    minWords: 60
+    maxWords: 100
+    timeLimitMin: 15
+    outlineVi: Giới thiệu chiếc ghế gỗ bị lỏng một chân. Kể cách kiểm tra và siết lại vít bằng tua vít.
+      Nêu kết quả sau khi đặt ghế lại và kiểm tra độ chắc chắn.
+    sampleAnswer: Last week, I repaired my wooden desk chair because one leg was loose. The chair moved
+      from side to side whenever I sat down. I turned it over on an old blanket and looked at the
+      screws underneath. One screw had almost come out. I used a screwdriver to tighten it, then
+      checked the other screws too. Finally, I put the chair upright and tested it carefully. It no
+      longer moved, and I was pleased that such a small repair had made it useful again.
+  - slug: broken-chair-replacement
+    kind: email
+    cefr: B1
+    title: Yêu cầu đổi ghế gãy chân
+    instructionsVi: >-
+      Viết một email gửi cho bộ phận dịch vụ khách hàng để yêu cầu đổi một chiếc ghế văn phòng bị
+      hỏng.
+
+      Trong email của bạn, hãy:
+
+      1. Nêu số đơn hàng (HO-88921) và ngày mua (thứ Ba tuần trước).
+
+      2. Mô tả rõ vấn đề (chân ghế phía sau bên trái bị gãy, không an toàn khi ngồi).
+
+      3. Yêu cầu đổi mới miễn phí trước thứ Sáu này và hỏi cách trả lại chiếc ghế hỏng.
+    instructionsEn: |-
+      Write an email to customer service requesting a replacement for a broken office chair.
+      In your email, you must:
+      1. State your order number (HO-88921) and purchase date (last Tuesday).
+      2. Describe the problem clearly (the left back leg is broken and unsafe to sit on).
+      3. Ask for a free replacement by this Friday and how to return the broken chair.
+    minWords: 100
+    maxWords: 160
+    timeLimitMin: 25
+    outlineVi: |-
+      • Chào hỏi và nêu lý do viết thư kèm số đơn hàng và ngày mua
+      • Mô tả chi tiết tình trạng hỏng hóc của ghế
+      • Đưa ra yêu cầu đổi trả, thời gian giao hàng và cách thức hoàn trả
+    sampleAnswer: >-
+      Dear Customer Service Team,
+
+
+      I am writing to request a replacement for an ergonomic office chair I purchased from your
+      online store, order number HO-88921, last Tuesday.
+
+
+      When the delivery package arrived at my apartment yesterday, I immediately discovered a
+      serious safety issue.
+
+
+      Specifically, the left back leg of the chair is completely broken, so it is impossible to sit
+      on safely.
+
+
+      Since I desperately need a proper seat for my remote work duties, I would like to request a
+      free replacement delivered by this Friday.
+
+
+      Please also inform me how your delivery staff can pick up this broken item when they bring the
+      new one.
+
+
+      I have already attached clear photos of the damage for your reference.
+
+
+      I look forward to your quick response and a prompt solution.
+
+
+      Best regards,
+
+      David Smith
+  - slug: volunteer-local-event
+    kind: email
+    cefr: B1
+    title: Đăng ký tình nguyện sự kiện địa phương
+    instructionsVi: >-
+      Viết một email gửi ban tổ chức để đăng ký tham gia tình nguyện tại một sự kiện cộng đồng sắp
+      diễn ra.
+
+      Trong email của bạn, hãy:
+
+      1. Nêu vị trí bạn muốn làm (quản lý gian hàng tái chế) và lý do.
+
+      2. Nhắc đến kinh nghiệm từng giúp đỡ tại một buổi dọn dẹp cộng đồng năm ngoái.
+
+      3. Xác nhận thời gian rảnh từ 8 giờ sáng đến 2 giờ chiều vào thứ Bảy, ngày 15 tháng 5.
+    instructionsEn: |-
+      Write an email to the event committee applying to volunteer at an upcoming community event.
+      In your email, you must:
+      1. State the role you want (managing the recycling booth) and why.
+      2. Mention your past experience helping at a community clean-up last year.
+      3. Confirm your availability from 8 AM to 2 PM on Saturday, May 15th.
+    minWords: 100
+    maxWords: 160
+    timeLimitMin: 25
+    outlineVi: |-
+      • Giới thiệu mục đích viết email đăng ký tình nguyện
+      • Nêu rõ vị trí mong muốn và lý do yêu thích công việc đó
+      • Chia sẻ kinh nghiệm cũ và xác nhận thời gian rảnh cụ thể
+    sampleAnswer: >-
+      Dear Festival Committee,
+
+
+      I am writing to apply to volunteer at the upcoming Green City Festival scheduled for Saturday,
+      May 15th.
+
+
+      I would love to help manage the recycling booth during the event because I am deeply
+      passionate about environmental protection and community education.
+
+
+      Last year, I gained valuable experience by helping out at a local neighborhood clean-up
+      campaign, where I successfully coordinated waste sorting and guided visitors.
+
+
+      Therefore, I am confident I can handle these responsibilities efficiently.
+
+
+      Regarding my schedule, I can confirm that I am completely available to work from 8 AM to 2 PM
+      on that festival day.
+
+
+      Please let me know if you need any additional information or forms from my side.
+
+
+      I look forward to hearing from you very soon with good news.
+
+
+      Best wishes,
+
+      Anna Tran
+  - slug: work-rota-change
+    kind: email
+    cefr: B1
+    title: Đề xuất đổi lịch làm việc
+    instructionsVi: |-
+      Viết một email gửi cho quản lý của bạn để xin đổi lịch làm việc trong tuần tới.
+      Trong email của bạn, hãy:
+      1. Yêu cầu đổi ca sáng (8 giờ sáng - 12 giờ trưa) vào thứ Tư sang thứ Sáu tuần tới.
+      2. Nêu rõ lý do (cuộc hẹn y tế gia đình không thể thay đổi).
+      3. Xác nhận đồng nghiệp Sarah đã đồng ý nhận thay ca cho bạn.
+    instructionsEn: |-
+      Write an email to your manager to request a change to your work schedule for next week.
+      In your email, you must:
+      1. Ask to change your morning shift (8 AM - 12 PM) on Wednesday to next Friday.
+      2. Give a clear reason (a family medical appointment that cannot be changed).
+      3. State that coworker Sarah has already agreed to cover your shift.
+    minWords: 100
+    maxWords: 160
+    timeLimitMin: 25
+    outlineVi: |-
+      • Nêu yêu cầu thay đổi ca làm việc cụ thể
+      • Giải thích lý do chính đáng về việc cá nhân
+      • Đảm bảo việc đã đổi ca với đồng nghiệp và gửi lời cảm ơn
+    sampleAnswer: >-
+      Dear Mr. Davis,
+
+
+      I am writing to formally request a small change to our team work rota for next week.
+
+
+      Could I please change my morning shift, scheduled from 8 AM to 12 PM on Wednesday, to next
+      Friday instead?
+
+
+      The primary reason for this request is that I have a very important family medical appointment
+      on Wednesday morning that absolutely cannot be rescheduled.
+
+
+      I have already spoken with our coworker Sarah, and she has very kindly agreed to cover my
+      Wednesday morning shift completely.
+
+
+      I will also make sure all my pending tasks are fully completed before this change takes place.
+
+
+      Thank you very much for your kind understanding and help with this schedule matter.
+
+
+      Please let me know if this shift adjustment is acceptable to you.
+
+
+      Best regards,
+
+      Mark Taylor
+  - slug: library-accessible-book-request
+    kind: email
+    cefr: B1
+    title: Yêu cầu thư viện mua sách dễ tiếp cận
+    instructionsVi: >-
+      Viết một email gửi người quản lý thư viện thành phố để đề xuất mua một cuốn sách mới có định
+      dạng dễ tiếp cận.
+
+      Trong email của bạn, hãy:
+
+      1. Yêu cầu cuốn sách cụ thể ("The Midnight Library" của tác giả Matt Haig).
+
+      2. Giải thích lý do cần các định dạng chữ in lớn và sách nói cho thành viên khiếm thị.
+
+      3. Hỏi khi nào các định dạng này có sẵn để mượn.
+    instructionsEn: >-
+      Write an email to the city library manager to suggest buying a new accessible book for the
+      collection.
+
+      In your email, you must:
+
+      1. Request the specific book ("The Midnight Library" by Matt Haig).
+
+      2. Explain why large-print and audiobook formats are needed for visually impaired members.
+
+      3. Ask when these formats might be available for borrowing.
+    minWords: 100
+    maxWords: 160
+    timeLimitMin: 25
+    outlineVi: |-
+      • Nêu mục đích đề xuất mua sách mới cho thư viện
+      • Đề cập tên sách và giải thích nhu cầu sách nói, chữ lớn cho người khiếm thị
+      • Hỏi thời gian dự kiến sách có sẵn để mượn và cảm ơn
+    sampleAnswer: >-
+      Dear Library Manager,
+
+
+      I am writing to politely request that our City Central Library purchase a specific new book
+      for our community collection.
+
+
+      Specifically, I would love the library to buy "The Midnight Library" written by Matt Haig.
+
+
+      I am requesting this because both large-print and audiobook formats are urgently needed for
+      visually impaired members, including several elderly patrons in our local neighborhood club.
+
+
+      Providing these accessible formats would help everyone enjoy popular literature equally
+      without encountering any reading barriers.
+
+
+      Could you please let me know if the library plans to buy these editions and approximately when
+      they might be available for borrowing?
+
+
+      Thank you very much for your time, continuous support, and dedication to our local community
+      readers.
+
+
+      I look forward to hearing from you soon.
+
+
+      Best regards,
+
+      Emily Watson
+  - slug: email-missed-project-deadline
+    kind: email
+    cefr: B1
+    title: Email giải thích việc chậm trễ hạn chót dự án
+    instructionsVi: Viết một email cho quản lý của bạn, ông Davis. Xin lỗi vì đã bỏ lỡ hạn chót nộp báo
+      cáo thiết kế lại trang web ngày hôm qua. Giải thích rằng bạn gặp sự cố phần mềm bất ngờ và mất
+      kết nối internet. Cuối cùng, đề xuất một ngày nộp mới vào thứ Sáu tuần này.
+    instructionsEn: Write an email to your manager, Mr. Davis. Apologize for missing the website
+      redesign report deadline yesterday. Explain that you had an unexpected software crash and an
+      internet outage. Finally, propose a new submission date this Friday.
+    minWords: 100
+    maxWords: 160
+    timeLimitMin: 25
+    outlineVi: Chào ông Davis - Xin lỗi vì chậm trễ - Giải thích sự cố phần mềm và mất mạng - Đề xuất
+      hạn chót mới vào thứ Sáu - Cảm ơn và mong thông cảm.
+    sampleAnswer: >-
+      Dear Mr. Davis,
+
+
+      I am writing to sincerely apologize for failing to submit the website redesign report by the
+      strict deadline yesterday afternoon.
+
+
+      Unfortunately, I faced a major technical problem when my work laptop experienced an unexpected
+      software crash, and at the same time, our office building suffered a sudden internet outage
+      for several hours. Because of this unfortunate situation, I lost some of my latest data and
+      could not upload the final file on time.
+
+
+      I have already fixed the issue with our IT support team and am currently working extra hours
+      to finish the remaining sections. I promise to send you the complete report by this Friday
+      morning at the latest.
+
+
+      Thank you very much for your prompt assistance and kind understanding with this delay.
+
+
+      Best regards,
+
+      Alex
+  - slug: email-request-evening-course-details
+    kind: email
+    cefr: B1
+    title: Email hỏi thông tin chi tiết khóa học buổi tối
+    instructionsVi: Viết một email cho điều phối viên trường ngôn ngữ, cô Lopez. Nêu rõ bạn quan tâm đến
+      lớp tiếng Tây Ban Nha trung cấp buổi tối. Hỏi về lịch học cụ thể gồm ngày và giờ, cũng như
+      tổng học phí. Cuối cùng, hỏi xem bạn có cần làm bài kiểm tra xếp lớp trước khi đăng ký hay
+      không.
+    instructionsEn: Write an email to a language school coordinator, Ms. Lopez. State that you are
+      interested in the Intermediate Spanish evening class. Ask about the exact schedule, including
+      days and times, as well as the total course fee. Finally, ask if you need to take a placement
+      test before enrolling.
+    minWords: 100
+    maxWords: 160
+    timeLimitMin: 25
+    outlineVi: Kính gửi cô Lopez - Quan tâm lớp tiếng Tây Ban Nha trung cấp - Hỏi lịch học, thời gian và
+      học phí - Hỏi về bài kiểm tra xếp lớp - Mong sớm nhận phản hồi.
+    sampleAnswer: >-
+      Dear Ms. Lopez,
+
+
+      I hope this email finds you well. I am writing to express my strong interest in joining the
+      Intermediate Spanish evening class at your famous language center.
+
+
+      Could you please provide me with more details about the exact weekly schedule? I would like to
+      know precisely which days of the week the lessons take place and what time they start and
+      finish each evening. Additionally, please let me know the total course fee and whether there
+      are any extra costs for textbooks or digital materials.
+
+
+      Finally, I would like to ask if new students are required to take a spoken placement test
+      before officially enrolling in this level.
+
+
+      I look forward to hearing from you soon with all the necessary information.
+
+
+      Sincerely,
+
+      David
+  - slug: email-resolve-booking-date
+    kind: email
+    cefr: B1
+    title: Email giải quyết hiểu lầm về ngày đặt phòng
+    instructionsVi: Viết một email cho quản lý đặt phòng khách sạn. Nêu số tham chiếu đặt phòng của bạn
+      (B-7892) và đề cập đến ngày hiện tại bị sai. Giải thích rằng bạn định đặt ngày 15 tháng 7 thay
+      vì ngày 15 tháng 6. Cuối cùng, yêu cầu thay đổi ngày và hỏi xem có bất kỳ khoản phí phụ thu
+      nào không.
+    instructionsEn: Write an email to a hotel reservation manager. State your booking reference number
+      (B-7892) and mention the current incorrect date. Explain that you meant to book for July 15th
+      instead of June 15th. Finally, request to change the date and ask if there are any extra fees.
+    minWords: 100
+    maxWords: 160
+    timeLimitMin: 25
+    outlineVi: Gửi quản lý khách sạn - Đề cập mã đặt phòng B-7892 - Giải thích nhầm ngày 15/6 thành 15/7
+      - Yêu cầu đổi ngày và hỏi phí phát sinh - Cảm ơn.
+    sampleAnswer: >-
+      Dear Reservation Manager,
+
+
+      I am writing regarding my recent hotel reservation at your wonderful property, with the
+      booking reference number B-7892.
+
+
+      When I carefully checked my confirmation email this morning, I noticed a significant mistake
+      with the scheduled dates. My reservation is currently booked for June 15th, but this is
+      completely incorrect because I actually meant to book our room for July 15th instead.
+
+
+      I would like to kindly request that you change my arrival date to July 15th for a standard
+      double room for two nights. Could you please let me know if this date change is currently
+      possible and if there are any extra fees for modifying my booking at this stage?
+
+
+      Thank you very much for your prompt assistance and kind understanding with this accidental
+      mistake.
+
+
+      Best regards,
+
+      Sarah
+  - slug: email-invite-colleague-local-activity
+    kind: email
+    cefr: B1
+    title: Email mời đồng nghiệp tham gia hoạt động địa phương
+    instructionsVi: Viết một email cho đồng nghiệp đến thăm, Mark. Chào mừng anh ấy đến thành phố và mời
+      anh ấy tham gia tour ẩm thực địa phương vào thứ Bảy này. Cung cấp chi tiết về thời gian lúc 2
+      giờ chiều và địa điểm gặp mặt tại sảnh khách sạn. Cuối cùng, yêu cầu anh ấy cho bạn biết trước
+      thứ Năm nếu anh ấy có thể đến.
+    instructionsEn: Write an email to your visiting colleague, Mark. Welcome him to the city and invite
+      him to join you for a local food tour this Saturday. Give details about the time, which is 2
+      PM, and the meeting place at the hotel lobby. Finally, ask him to let you know by Thursday if
+      he can come.
+    minWords: 100
+    maxWords: 160
+    timeLimitMin: 25
+    outlineVi: Chào Mark - Chào mừng đến thành phố - Mời đi tour ẩm thực thứ Bảy lúc 2 giờ chiều tại
+      sảnh khách sạn - Nhờ báo lại trước thứ Năm - Mong gặp.
+    sampleAnswer: >-
+      Hi Mark,
+
+
+      Welcome to our beautiful city! I truly hope your flight and journey here went well.
+
+
+      Since you have some free time this coming weekend, I would love to warmly invite you to join
+      me for a fantastic local food tour this Saturday afternoon.
+
+
+      We can try some delicious traditional street food and walk around the historic downtown area
+      together. Let us meet at 2 PM sharp right in your hotel lobby so we can start our wonderful
+      afternoon adventure.
+
+
+      Could you please let me know by this Thursday afternoon if you are free and can make it? That
+      way, I can easily reserve all our tour tickets in advance without any problems.
+
+
+      Looking forward to seeing you very soon!
+
+
+      Best wishes,
+
+      Tom
+  - slug: learn-cooking-skill
+    kind: paragraph
+    cefr: B1
+    title: Học nấu một món ăn mới qua luyện tập
+    instructionsVi: "Viết một đoạn văn cho blog lối sống của một người bạn về một kỹ năng bạn đã học
+      được qua quá trình luyện tập. Bao gồm ba điểm sau: nêu tên kỹ năng cụ thể bạn đã học, giải
+      thích việc luyện tập thường xuyên giúp bạn tiến bộ như thế nào, và mô tả một sai lầm bạn từng
+      mắc phải và cách bạn vượt qua nó. Viết từ 100-160 từ."
+    instructionsEn: "Write a paragraph for a friend's lifestyle blog about a skill you learned through
+      practice. Include the following three points: name the specific skill you learned, explain how
+      regular practice helped you improve, and describe a mistake you made and how you overcame it.
+      Write 100-160 words."
+    minWords: 100
+    maxWords: 160
+    timeLimitMin: 25
+    outlineVi: Giới thiệu kỹ năng nấu ăn đã học - Chia sẻ quá trình luyện tập mỗi tuần - Kể về một lần
+      thất bại và cách khắc phục
+    sampleAnswer: Learning to bake bread completely changed my view on patience and regular practice.
+      Last year, I decided to master sourdough bread making for my family. At first, my loaves were
+      dense and hard like bricks because I rushed the fermentation process. However, by practicing
+      every weekend and adjusting the water temperature, I slowly improved my technique. The biggest
+      mistake I made was ignoring the room temperature, which ruined my dough twice. I overcame this
+      by buying a small digital thermometer and keeping a detailed baking journal to track every
+      batch. Now, my weekend loaves rise perfectly with a crispy crust and soft texture. Baking
+      taught me that consistency is far more important than natural talent. I am proud of this
+      delicious skill and love sharing warm slices with my neighbors every Sunday.
+  - slug: share-housework-effectively
+    kind: paragraph
+    cefr: B1
+    title: Phương pháp chia sẻ việc nhà hiệu quả
+    instructionsVi: "Viết một đoạn văn cho diễn đàn cộng đồng gia đình giải thích cách chia sẻ việc nhà
+      hiệu quả. Bao gồm ba điểm sau: đề xuất một hệ thống luân phiên cụ thể để phân chia công việc,
+      giải thích cách xử lý các thành viên trong gia đình bỏ bê nhiệm vụ, và nêu lợi ích của hệ
+      thống này đối với sự hòa thuận trong gia đình. Viết từ 100-160 từ."
+    instructionsEn: "Write a paragraph for a family community forum explaining an effective way to share
+      housework. Include the following three points: propose a specific rotation system for dividing
+      chores, explain how to handle family members who skip their tasks, and mention the benefit of
+      this system for family harmony. Write 100-160 words."
+    minWords: 100
+    maxWords: 160
+    timeLimitMin: 25
+    outlineVi: Đề xuất hệ thống phân công việc nhà xoay vòng - Cách giải quyết khi có người quên hoặc
+      trốn việc - Lợi ích mang lại cho sự hòa thuận gia đình
+    sampleAnswer: Dividing household chores fairly requires a clear system that everyone in the family
+      can easily follow without arguments. My household uses a weekly rotating task chart posted on
+      the kitchen fridge, where cooking, cleaning, and laundry responsibilities switch every Monday
+      morning. If a family member skips their assigned task due to sudden fatigue or a busy
+      schedule, we simply use a friendly swap system rather than arguing. Another person can cover
+      the duty, provided the favor is returned during the following weekend. This flexible yet
+      organized approach has brought remarkable peace and cooperation to our daily routine. Because
+      everyone knows exactly what to do and when to do it, we avoid daily stress and enjoy much more
+      quality time together. Ultimately, sharing housework properly strengthens mutual respect and
+      keeps our home happy and clean.
+  - slug: review-local-community-event
+    kind: paragraph
+    cefr: B1
+    title: Đánh giá sự kiện cộng đồng địa phương
+    instructionsVi: "Viết một đoạn văn cho bản tin thị trấn địa phương đánh giá một sự kiện cộng đồng mà
+      bạn mới tham gia. Bao gồm ba điểm sau: nêu tên và mô tả lễ hội hoặc buổi tụ họp địa phương,
+      nhấn mạnh một hoạt động mà bạn thích nhất, và gợi ý một cải tiến nhỏ cho những lần tổ chức
+      sau. Viết từ 100-160 từ."
+    instructionsEn: "Write a paragraph for the local town newsletter reviewing a community event you
+      recently attended. Include the following three points: name and describe the local festival or
+      gathering, highlight one activity that you enjoyed the most, and suggest one small improvement
+      for future editions. Write 100-160 words."
+    minWords: 100
+    maxWords: 160
+    timeLimitMin: 25
+    outlineVi: Giới thiệu hội chợ ẩm thực mùa hè ở địa phương - Nêu bật hoạt động biểu diễn âm nhạc đặc
+      sắc - Đề xuất cải thiện vấn đề chỗ để xe
+    sampleAnswer: Last weekend, I attended the annual Green Leaf Summer Fair held at the central town
+      square to celebrate local environmental awareness. The vibrant event featured numerous booths
+      displaying handmade crafts, organic food, and educational recycling workshops for families.
+      Out of all the interesting activities, I enjoyed the evening acoustic music concert the most
+      because local teenage bands performed original songs about protecting nature with incredible
+      passion and energy. The relaxing atmosphere under the fairy lights created a wonderful sense
+      of unity among neighbors. However, one small improvement for next year would be organizing a
+      larger designated parking area for bicycles and cars, as the current space became too crowded
+      by late afternoon. Overall, the fair was a fantastic success that brought our community closer
+      together, and I eagerly look forward to participating again next summer.
+  - slug: compare-studying-alone-and-group
+    kind: paragraph
+    cefr: B1
+    title: So sánh học tập một mình và học theo nhóm
+    instructionsVi: "Viết một đoạn văn cho tạp chí giáo dục trực tuyến so sánh việc học một mình và học
+      theo nhóm. Bao gồm ba điểm sau: nêu lợi ích chính của việc học một mình, nêu lợi ích chính của
+      việc học theo nhóm, và kết luận phương pháp nào phù hợp nhất với phong cách học tập cá nhân
+      của bạn. Viết từ 100-160 từ."
+    instructionsEn: "Write a paragraph for an online education magazine comparing studying alone and
+      studying in a group. Include the following three points: state the main benefit of studying
+      alone, state the main benefit of studying in a group, and conclude which method works best for
+      your personal learning style. Write 100-160 words."
+    minWords: 100
+    maxWords: 160
+    timeLimitMin: 25
+    outlineVi: Nêu ưu điểm tập trung khi học một mình - Nhấn mạnh lợi ích trao đổi ý tưởng khi học nhóm
+      - Kết luận phương pháp cá nhân yêu thích
+    sampleAnswer: Choosing between studying alone and studying in a group depends heavily on personal
+      preferences and academic goals. Studying alone offers the great advantage of complete
+      concentration and flexibility, allowing students to progress through difficult materials at
+      their own pace without any distractions. On the other hand, studying in a group provides
+      diverse perspectives and deeper understanding through lively discussions, making complex
+      problems much easier to solve together. While both approaches have clear merits, I strongly
+      believe that combining both is ideal. However, if I had to choose just one, studying alone
+      works best for my personal learning style because it gives me the quiet environment needed to
+      memorize facts effectively and build strong self-discipline. Ultimately, understanding how to
+      balance solitary revision with collaborative group sessions leads to the best academic results
+      for any ambitious student.
+  - slug: story-about-misunderstanding
+    kind: paragraph
+    cefr: B1
+    title: Câu chuyện về một sự hiểu lầm nhỏ
+    instructionsEn: "Write a paragraph for your personal blog about a time you misunderstood your
+      neighbor's note. You must: 1. Explain what the note said about the package. 2. Describe your
+      reaction and what you wrongly assumed. 3. State how the situation was cleared up. Write
+      between 100 and 160 words."
+    instructionsVi: "Viết một đoạn văn cho blog cá nhân về lần bạn hiểu lầm tờ giấy nhắn của người hàng
+      xóm. Bạn phải: 1. Giải thích nội dung tờ giấy nhắn nói về gói hàng. 2. Mô tả phản ứng của bạn
+      và điều bạn đã hiểu lầm. 3. Nêu cách tình huống được làm sáng tỏ. Viết từ 100 đến 160 từ."
+    minWords: 100
+    maxWords: 160
+    timeLimitMin: 25
+    outlineVi: Giải thích nội dung tờ giấy nhắn về gói hàng - Mô tả phản ứng và điều bạn hiểu lầm - Nêu
+      cách giải quyết sự việc.
+    sampleAnswer: Last month, I found a yellow sticky note from my next-door neighbor, Mrs. Green,
+      saying she took my delivery because I was out, which completely confused me. At first, I
+      panicked and wrongly assumed she was complaining about my loud music and hiding my online
+      shopping parcel to punish me. I even drafted an angry reply in my head before checking my
+      tracking app. Later that evening, I knocked on her door to ask for the box back, and she
+      warmly smiled, explaining she only wanted to keep my fragile glass vase safe from the heavy
+      afternoon rain. I felt extremely embarrassed for jumping to conclusions so quickly. We both
+      laughed about my silly mistake, and I thanked her for being so kind and thoughtful.
+  - slug: solved-a-travel-problem
+    kind: paragraph
+    cefr: B1
+    title: Cách tôi giải quyết sự cố khi đi du lịch
+    instructionsEn: "Write a paragraph for a travel forum about a time you lost your train ticket in a
+      foreign city. You must: 1. Describe how you realized the ticket was missing. 2. Explain the
+      steps you took at the station office. 3. State how you finally reached your destination. Write
+      between 100 and 160 words."
+    instructionsVi: "Viết một đoạn văn cho diễn đàn du lịch về lần bạn mất vé tàu ở một thành phố nước
+      ngoài. Bạn phải: 1. Mô tả cách bạn nhận ra mình mất vé. 2. Giải thích các bước bạn đã làm tại
+      phòng vé nhà ga. 3. Nêu cách bạn cuối cùng đã đến được điểm đến. Viết từ 100 đến 160 từ."
+    minWords: 100
+    maxWords: 160
+    timeLimitMin: 25
+    outlineVi: Mô tả thời điểm phát hiện mất vé - Giải thích các bước xử lý tại phòng vé nhà ga - Nêu
+      cách bạn đến nơi an toàn.
+    sampleAnswer: During my trip to Kyoto last spring, I suddenly realized my return train ticket was
+      missing right when I reached the departure gate. Panic set in because my Japanese is very
+      limited, but I quickly walked back to the customer service office to ask for help. I showed
+      the friendly staff member my digital booking confirmation email and my passport as
+      identification. After checking the system and verifying my purchase, the officer kindly
+      printed a replacement ticket for a very small administrative fee. I was immensely relieved and
+      rushed to catch the next available bullet train, arriving at my hotel just in time for dinner.
+      This unexpected hiccup taught me to always keep digital backups of important travel documents
+      on my smartphone.
+  - slug: personal-plan-to-reduce-waste
+    kind: paragraph
+    cefr: B1
+    title: Kế hoạch cá nhân nhằm giảm thiểu rác thải
+    instructionsEn: "Write a paragraph for a school environmental newsletter explaining your new routine
+      to cut down on plastic waste. You must: 1. State two specific changes you are making to your
+      daily habits. 2. Explain how these changes will save money or resources. 3. Describe the
+      expected impact on your household. Write between 100 and 160 words."
+    instructionsVi: "Viết một đoạn văn cho bản tin môi trường của trường giải thích thói quen mới của
+      bạn nhằm cắt giảm rác thải nhựa. Bạn phải: 1. Nêu hai thay đổi cụ thể bạn đang thực hiện trong
+      thói quen hàng ngày. 2. Giải thích cách những thay đổi này tiết kiệm tiền hoặc tài nguyên. 3.
+      Mô tả tác động dự kiến đối với gia đình bạn. Viết từ 100 đến 160 từ."
+    minWords: 100
+    maxWords: 160
+    timeLimitMin: 25
+    outlineVi: Nêu hai thay đổi cụ thể trong thói quen hàng ngày - Giải thích cách các thay đổi tiết
+      kiệm tài nguyên - Mô tả tác động dự kiến đối với gia đình.
+    sampleAnswer: Starting next month, I am launching a personal plan to significantly reduce household
+      plastic waste by bringing reusable cloth bags to the supermarket and buying dry foods in bulk.
+      These simple changes will drastically cut down on single-use plastic packaging and save a
+      noticeable amount of money on grocery bills over time. By avoiding unnecessary containers, my
+      family will produce at least half a bag less rubbish each week, which feels like a meaningful
+      contribution to our local environment. My younger sister has also agreed to join this
+      eco-friendly challenge, making it a fun shared goal for everyone living under our roof. I
+      truly believe that small daily habits can eventually create massive positive transformations
+      for our planet's future.
+  - slug: what-makes-a-good-teammate
+    kind: paragraph
+    cefr: B1
+    title: Những tố chất của một người đồng đội tốt
+    instructionsEn: "Write a paragraph for a university magazine sharing your views on group work
+      qualities. You must: 1. Identify the most important personality trait of a great teammate. 2.
+      Explain why active listening matters during group discussions. 3. Describe how supporting
+      others helps the project succeed. Write between 100 and 160 words."
+    instructionsVi: "Viết một đoạn văn cho tạp chí trường đại học chia sẻ quan điểm của bạn về phẩm chất
+      làm việc nhóm. Bạn phải: 1. Xác định phẩm chất tính cách quan trọng nhất của một người đồng
+      đội tuyệt vời. 2. Giải thích lý do tại sao lắng nghe tích cực lại quan trọng trong các cuộc
+      thảo luận nhóm. 3. Mô tả cách hỗ trợ người khác giúp dự án thành công. Viết từ 100 đến 160
+      từ."
+    minWords: 100
+    maxWords: 160
+    timeLimitMin: 25
+    outlineVi: Xác định phẩm chất quan trọng nhất của người đồng đội - Giải thích tầm quan trọng của
+      việc lắng nghe tích cực - Mô tả cách hỗ trợ người khác giúp dự án thành công.
+    sampleAnswer: In my opinion, reliability is the absolute most crucial personality trait that makes
+      someone a truly exceptional team member. When people consistently complete their assigned
+      tasks on time, it builds deep trust and eliminates unnecessary stress for everyone else.
+      Furthermore, active listening is essential during group discussions because it ensures all
+      diverse ideas are genuinely heard, respected, and incorporated rather than ignored. Supporting
+      struggling peers by offering constructive help instead of criticism also keeps morale high and
+      prevents group conflicts from escalating. Ultimately, a successful project relies not just on
+      individual brilliance, but on how well teammates encourage one another through patience, clear
+      communication, and shared responsibility.
+  - slug: town-centre-pedestrianisation
+    kind: essay
+    cefr: B2
+    title: Có nên cấm xe cộ ở trung tâm thị trấn?
+    instructionsVi: "Viết một bài luận đăng trên tạp chí hội đồng địa phương về việc liệu thị trấn có
+      nên cấm xe cộ ở khu vực trung tâm hay không. Trong bài viết, bạn cần: 1. Thảo luận tác động
+      đối với các doanh nghiệp địa phương; 2. Phân tích lợi ích môi trường; 3. Đề xuất một giải pháp
+      cụ thể cho vấn đề đỗ xe."
+    instructionsEn: "Write an essay for the local council magazine discussing whether the town should
+      pedestrianise its centre. In your essay, you must: 1. Discuss the impact on local businesses;
+      2. Examine the environmental benefits; 3. Propose a specific solution for parking."
+    minWords: 180
+    maxWords: 250
+    timeLimitMin: 40
+    outlineVi: "Mở bài: Nêu chủ đề và khẳng định việc cấm xe mang lại lợi ích lâu dài. Thân bài 1: Giảm
+      ô nhiễm không khí và tiếng ồn, thu hút người đi bộ mua sắm. Thân bài 2: Tác động đến cửa hàng
+      nhỏ và giải pháp xây bãi đỗ xe ngoại ô kèm xe điện miễn phí. Kết bài: Tóm tắt lợi ích và đề
+      xuất thực hiện chính sách từng bước."
+    sampleAnswer: >-
+      Many towns today face the ongoing dilemma of whether to restrict vehicle access in their busy
+      commercial districts. In my view, pedestrianising the town centre brings remarkable long-term
+      benefits to both residents and the local economy, provided that proper infrastructure is
+      established.
+
+
+      First, banning cars significantly reduces air pollution and noise levels, creating a much more
+      pleasant environment for everyday shoppers. Families and tourists will undoubtedly spend more
+      time walking around safely, which naturally boosts foot traffic for nearby retail shops,
+      restaurants, and independent cafes across the municipality.
+
+
+      Second, while some shop owners worry about losing customers who prefer to drive, global
+      experience shows that pedestrian zones actually encourage leisurely browsing and longer visits
+      by tourists and locals alike. To address valid parking concerns, the local council should
+      build affordable multi-storey car parks on the outskirts of the central district and provide a
+      frequent, free electric shuttle service. This creative solution ensures easy access without
+      urban traffic congestion during peak hours.
+
+
+      In conclusion, transforming the town centre into a pedestrian zone improves public health,
+      revitalises local commerce, and modernises our community space. The local government should
+      implement this vital policy gradually with strong public support, transparent communication,
+      and careful urban planning to ensure long-term success for everyone living in the town.
+  - slug: flexible-working-hours
+    kind: essay
+    cefr: B2
+    title: Ưu và nhược điểm của giờ làm việc linh hoạt
+    instructionsVi: "Viết một bài luận đăng trên blog quản trị doanh nghiệp về ưu điểm và nhược điểm của
+      giờ làm việc linh hoạt. Trong bài viết, bạn cần: 1. Phân tích năng suất của nhân viên; 2. Thảo
+      luận các thách thức trong việc phối hợp công việc; 3. Nêu quan điểm tổng thể của bạn về sự cân
+      bằng giữa công việc và cuộc sống."
+    instructionsEn: "Write an essay for a business management blog about the advantages and drawbacks of
+      flexible working hours. In your essay, you must: 1. Analyze employee productivity; 2. Discuss
+      coordination challenges; 3. State your overall view on work-life balance."
+    minWords: 180
+    maxWords: 250
+    timeLimitMin: 40
+    outlineVi: "Mở bài: Giới thiệu giờ làm việc linh hoạt trong doanh nghiệp hiện đại. Thân bài 1: Năng
+      suất tăng, giảm căng thẳng đi lại và dễ cân bằng cuộc sống. Thân bài 2: Khó khăn trong phối
+      hợp nhóm và theo dõi tiến độ công việc. Thân bài 3: Ý kiến cá nhân ủng hộ mô hình kết hợp
+      (hybrid). Kết bài: Tổng kết tầm quan trọng của việc giữ chân nhân tài."
+    sampleAnswer: >-
+      Flexible working hours have become increasingly popular in modern corporate environments,
+      offering both distinct advantages and notable drawbacks for companies and staff members alike
+      in today's competitive job market.
+
+
+      On the positive side, schedule flexibility significantly boosts employee productivity and
+      overall job satisfaction. Workers can easily manage vital personal responsibilities, such as
+      childcare or professional development pursuits, while completing their professional duties
+      during their most energetic hours. Furthermore, this progressive approach reduces daily
+      commuting stress, leading to much better mental health and considerably lower rates of
+      employee burnout across various departments within the organisation.
+
+
+      However, there are several coordination challenges that businesses must face. Communication
+      often becomes fragmented when team members operate on completely different schedules, making
+      spontaneous daily collaboration rather difficult. Managers also find it harder to monitor
+      individual performance accurately and ensure equitable workloads without strict core hours.
+
+
+      In my opinion, the benefits of flexible working clearly outweigh the drawbacks if implemented
+      correctly. Companies should establish mandatory core hours for meetings while allowing
+      autonomy for independent tasks. This hybrid model successfully balances personal freedom with
+      essential team coordination, creating a sustainable workplace for everyone. Ultimately,
+      adapting to flexible arrangements is essential for modern businesses wishing to attract and
+      retain top talent in a rapidly changing world.
+  - slug: libraries-lending-tools
+    kind: essay
+    cefr: B2
+    title: Thư viện có nên cho mượn dụng cụ gia đình không?
+    instructionsVi: "Viết một bài luận đăng trên diễn đàn phát triển cộng đồng về việc liệu thư viện có
+      nên cho mượn dụng cụ gia đình hay không. Trong bài viết, bạn cần: 1. Giải thích cách dịch vụ
+      này hỗ trợ các hộ gia đình thu nhập thấp; 2. Giải quyết các vấn đề bảo trì tiềm ẩn; 3. Đề xuất
+      một quy định về giới hạn mượn."
+    instructionsEn: "Write an essay for a community development forum discussing whether libraries
+      should lend household tools. In your essay, you must: 1. Explain how this service helps
+      low-income households; 2. Address potential maintenance issues; 3. Suggest a rule for
+      borrowing limits."
+    minWords: 180
+    maxWords: 250
+    timeLimitMin: 40
+    outlineVi: "Mở bài: Nêu ý tưởng thư viện cho mượn dụng cụ gia đình và khẳng định sự ủng hộ. Thân bài
+      1: Giúp hộ thu nhập thấp tiết kiệm tiền mua thiết bị sửa chữa nhà cửa. Thân bài 2: Giải pháp
+      bảo trì thông qua phí thành viên nhỏ và kiểm tra an toàn. Thân bài 3: Quy định giới hạn mượn
+      tối đa hai dụng cụ trong một tuần. Kết bài: Thư viện trở thành trung tâm chia sẻ cộng đồng bền
+      vững."
+    sampleAnswer: >-
+      Public libraries have traditionally lent books, but expanding their collections to include
+      household tools like drills and ladders is an innovative idea. In my opinion, libraries should
+      definitely offer this practical service to benefit the entire community.
+
+
+      First, lending tools significantly helps low-income households by saving them substantial
+      amounts of money. Buying expensive equipment for a single home repair is wasteful, so
+      borrowing items free of charge allows families with tight budgets to maintain their homes
+      properly without facing severe financial strain.
+
+
+      Second, potential maintenance and equipment damage issues can be managed effectively through
+      careful oversight. The library could charge a small annual membership fee or a refundable
+      deposit to cover minor repairs, while dedicated staff members can inspect returned tools for
+      safety before putting them back on public shelves.
+
+
+      Finally, to ensure fair access for every resident, the library must implement a strict
+      borrowing limit. Users should only be allowed to borrow up to two tools at a time for a
+      maximum period of one week.
+
+
+      In conclusion, lending household tools transforms libraries into versatile community hubs. By
+      supporting low-income families and managing maintenance wisely, this initiative promotes a
+      sustainable sharing economy that significantly strengthens local neighborhoods. Furthermore,
+      this service fosters a sense of trust and cooperation among neighbors, proving that modern
+      libraries can adapt to changing societal needs effectively.
+  - slug: fairer-group-assessment
+    kind: essay
+    cefr: B2
+    title: Làm thế nào để đánh giá nhóm ở đại học công bằng hơn?
+    instructionsVi: "Viết một bài luận cho bản tin hội sinh viên đại học đề xuất các biện pháp làm cho
+      việc đánh giá nhóm công bằng hơn. Trong bài viết, bạn cần: 1. Thảo luận về vấn đề sinh viên ỷ
+      lại; 2. Đề xuất cơ chế đánh giá chéo; 3. Gợi ý các thành phần điểm cá nhân."
+    instructionsEn: "Write an essay for the university student union newsletter proposing ways to make
+      group assessment fairer. In your essay, you must: 1. Discuss the problem of free-riders; 2.
+      Propose a peer-review mechanism; 3. Suggest additional individual grading components."
+    minWords: 180
+    maxWords: 250
+    timeLimitMin: 40
+    outlineVi: "Mở bài: Nêu thực trạng bất cập trong đánh giá bài tập nhóm ở đại học. Thân bài 1: Phân
+      tích vấn đề sinh viên ỷ lại hưởng điểm chung. Thân bài 2: Đề xuất cơ chế đánh giá chéo
+      (peer-review) bảo mật để điều chỉnh điểm. Thân bài 3: Gợi ý thêm thành phần điểm cá nhân như
+      báo cáo phản hồi hoặc thuyết trình riêng. Kết bài: Tóm tắt giải pháp mang lại tính công bằng
+      và động lực học tập."
+    sampleAnswer: >-
+      Group assignments are common at university, yet students frequently complain about unfair
+      grading systems. To make group assessments truly equitable, universities need to reform their
+      grading policies significantly.
+
+
+      The most persistent issue in collaborative tasks is the free-rider problem, where certain
+      students contribute little to nothing while still receiving the same high grade as hardworking
+      peers. This creates immense frustration and undermines the educational value of teamwork.
+
+
+      To solve this, institutions should introduce a mandatory peer-review mechanism. At the end of
+      each project, members must confidentially evaluate each other's contributions regarding
+      effort, communication, and reliability. These confidential ratings can then be used to adjust
+      individual scores proportionally, preventing personal conflicts from ruining team morale.
+
+
+      Additionally, instructors should incorporate distinct individual grading components into the
+      overall assessment. For instance, students could submit individual reflection reports or
+      deliver a graded personal presentation explaining their specific section of the project.
+
+
+      In conclusion, tackling free-riders through peer evaluations and individual grading components
+      ensures that hard work is properly recognised. By implementing these practical reforms,
+      universities can foster genuine accountability and fairness in all collaborative academic
+      tasks.
+  - slug: repair-services-waste-reduction
+    kind: essay
+    cefr: B2
+    title: Vai trò của dịch vụ sửa chữa trong việc giảm thiểu rác thải
+    instructionsVi: "Bạn hãy viết một bài luận gửi cho giáo viên môn Nghiên cứu Môi trường của bạn, thầy
+      Davis, trong đó thảo luận về cách các cửa hàng sửa chữa địa phương giúp hạn chế rác thải tiêu
+      dùng. Bài viết của bạn cần bao gồm đúng ba nội dung sau: 1. Giải thích việc vứt bỏ đồ đạc ảnh
+      hưởng như thế nào đến các bãi chôn lấp. 2. Thảo luận về lợi ích kinh tế và sinh thái của việc
+      sửa chữa hàng hóa bị hỏng. 3. Đề xuất một biện pháp mà chính quyền địa phương có thể thực hiện
+      để hỗ trợ các doanh nghiệp sửa chữa."
+    instructionsEn: "Write an essay for your environmental studies teacher, Mr. Davis, discussing how
+      local repair shops help curb consumer waste. Your writing must include exactly these three
+      content requirements: 1. Explain how discarding items affects landfills. 2. Discuss the
+      economic and ecological benefits of fixing broken goods. 3. Suggest a measure local councils
+      can take to support repair businesses."
+    minWords: 180
+    maxWords: 250
+    timeLimitMin: 40
+    outlineVi: "Mở bài: Giới thiệu tầm quan trọng của dịch vụ sửa chữa dưới góc nhìn môi trường. Thân
+      bài: 1. Phân tích tác động tiêu cực của rác thải và bãi chôn lấp. 2. Nêu lợi ích kinh tế và
+      sinh thái khi sửa đồ thay vì mua mới. 3. Đề xuất chính quyền hỗ trợ thợ sửa chữa qua thuế hoặc
+      hội thảo. Kết bài: Tóm tắt lại tầm quan trọng của việc thay đổi tư duy tiêu dùng."
+    sampleAnswer: >-
+      In modern society, the habit of throwing away broken items instead of fixing them has created
+      a massive environmental crisis. As a student writing for Mr. Davis in my environmental studies
+      class, I truly believe local repair services play a vital role in reducing waste.
+
+
+      First, discarding household goods and electronics rapidly fills local landfills, releasing
+      toxic materials into the soil and groundwater. Manufacturing brand-new products also consumes
+      vast amounts of natural resources and generates severe carbon emissions daily. Therefore,
+      keeping our existing possessions operational is a crucial step toward true sustainability.
+
+
+      Second, repairing broken items offers both financial savings for consumers and ecological
+      benefits for the community. When people choose to mend appliances rather than buy
+      replacements, they save money and decrease the demand for continuous mass production. This
+      circular economy model preserves energy and reduces the overall volume of municipal garbage
+      effectively.
+
+
+      Finally, local councils should actively support repair businesses by offering tax reductions
+      or organizing special community workshop events. Such initiatives would encourage more
+      citizens to learn basic fixing skills instead of discarding items.
+
+
+      In conclusion, supporting local repair shops is essential for building a greener future. By
+      shifting our mindset from disposable consumption to preservation, we can significantly reduce
+      waste and protect our planet for upcoming generations today.
+  - slug: community-festivals-visitor-limits
+    kind: essay
+    cefr: B2
+    title: Giới hạn lượng khách tham dự tại các lễ hội cộng đồng
+    instructionsVi: "Bạn hãy viết một bài luận gửi cho hội đồng du lịch thành phố, đánh giá việc liệu
+      các lễ hội văn hóa địa phương có nên giới hạn số lượng khách tham quan hằng ngày hay không.
+      Bài viết của bạn cần bao gồm đúng ba nội dung sau: 1. Miêu tả những tác động tiêu cực của tình
+      trạng quá tải đối với các di tích lễ hội lịch sử. 2. Phân tích việc giới hạn khách có thể bảo
+      tồn các truyền thống văn hóa đích thực như thế nào. 3. Đề xuất một hệ thống bán vé công bằng
+      để quản lý quy mô đám đông một cách hiệu quả."
+    instructionsEn: "Write an essay for the city tourism board, evaluating whether local cultural
+      festivals should cap the number of daily visitors. Your writing must include exactly these
+      three content requirements: 1. Describe the negative impacts of overcrowding on historical
+      festival sites. 2. Analyze how limiting visitors can preserve authentic cultural traditions.
+      3. Propose a fair ticketing system to manage crowd sizes effectively."
+    minWords: 180
+    maxWords: 250
+    timeLimitMin: 40
+    outlineVi: "Mở bài: Đặt vấn đề về du lịch quá tải tại các lễ hội cộng đồng. Thân bài: 1. Miêu tả tác
+      động xấu của đám đông lớn tới di tích và môi trường. 2. Phân tích lợi ích của việc giới hạn
+      khách giúp bảo tồn bản sắc văn hóa. 3. Đề xuất hệ thống vé điện tử đặt trước với hạn ngạch hợp
+      lý. Kết bài: Khẳng định sự cân bằng giữa phát triển du lịch và bảo tồn di sản."
+    sampleAnswer: >-
+      Cultural events bring immense joy and unity to our neighborhoods, but uncontrolled tourism
+      often causes severe damage. Writing for the city tourism board, I strongly believe that
+      community festivals must implement strict limits on visitor numbers to protect our local
+      heritage today.
+
+
+      Overcrowding at historical festival sites leads to severe physical erosion, excessive
+      littering, and extreme noise pollution that disturbs local residents. When thousands of
+      tourists suddenly flood narrow historic streets, venues lose their original charm and safety
+      hazards increase dramatically for everyone involved in the celebration.
+
+
+      Limiting daily visitors helps preserve authentic cultural traditions by preventing excessive
+      commercialization. Smaller crowds allow organizers to focus on genuine traditional artistic
+      performances and meaningful rituals rather than frantically catering to massive, rushed
+      tourist groups. This creates a much more intimate, respectful environment for both locals and
+      travelers alike.
+
+
+      To manage crowd sizes effectively without disappointing people, the city council should
+      introduce a free online advance ticketing system featuring a reasonable daily capacity quota.
+      This ensures fair, organized access while preventing public spaces from becoming dangerously
+      packed during peak hours.
+
+
+      In conclusion, capping festival attendance is a necessary step to balance tourism growth with
+      cultural preservation. Protecting our heritage ensures that future generations can enjoy these
+      vibrant traditions without environmental destruction or the complete loss of local identity.
+  - slug: convenience-vs-personal-data
+    kind: essay
+    cefr: B2
+    title: Đánh đổi sự tiện lợi để chia sẻ dữ liệu cá nhân
+    instructionsVi: "Bạn hãy viết một bài luận gửi cho giáo sư đạo đức kỹ thuật số của bạn, tiến sĩ
+      Evans, xem xét việc liệu sự tiện lợi kỹ thuật số hiện đại có thực sự đáng để đánh đổi bằng
+      việc chia sẻ dữ liệu cá nhân hay không. Bài viết của bạn cần bao gồm đúng ba nội dung sau: 1.
+      Giải thích cách các ứng dụng thu thập thông tin cá nhân để phục vụ sự tiện lợi hằng ngày. 2.
+      Thảo luận về các rủi ro của việc rò rỉ dữ liệu và mất quyền riêng tư đối với người dùng trung
+      bình. 3. Đánh giá xem lợi ích của sự tiện lợi kỹ thuật số có thực sự vượt trội hơn các chi phí
+      bảo mật ẩn giấu này hay không."
+    instructionsEn: "Write an essay for your digital ethics professor, Dr. Evans, examining whether
+      modern digital convenience justifies giving up private data. Your writing must include exactly
+      these three content requirements: 1. Explain how apps and online services collect personal
+      information for daily convenience. 2. Discuss the risks of data breaches and privacy loss for
+      average users. 3. Evaluate whether the benefits of digital convenience truly outweigh these
+      hidden security costs."
+    minWords: 180
+    maxWords: 250
+    timeLimitMin: 40
+    outlineVi: "Mở bài: Nêu thực trạng người dùng chia sẻ dữ liệu lấy sự tiện lợi. Thân bài: 1. Giải
+      thích cách ứng dụng thu thập vị trí và thói quen để phục vụ người dùng. 2. Nêu hiểm họa rò rỉ
+      dữ liệu, đánh cắp danh tính và quảng cáo nhắm mục tiêu. 3. Đánh giá chi phí bảo mật lớn hơn
+      lợi ích bề nổi. Kết bài: Kêu gọi luật bảo vệ dữ liệu nghiêm ngặt hơn từ công ty công nghệ."
+    sampleAnswer: >-
+      In today's fast-paced digital era, people willingly surrender their private information every
+      single day in exchange for seamless online experiences. Writing for my digital ethics
+      professor, Dr. Evans, I will examine whether this modern convenience is truly worth sharing
+      personal data with large corporations.
+
+
+      Smartphones and online platforms constantly track our daily locations, shopping habits, and
+      browsing history to provide personalized recommendations and instant services. While this
+      makes routine tasks remarkably fast and efficient, it creates significant vulnerability for
+      everyone involved.
+
+
+      The risks associated with widespread data collection are truly alarming. Average users face
+      constant threats of devastating data breaches, identity theft, and intrusive targeted
+      advertising that manipulates consumer behavior without explicit consent. Once personal records
+      leak onto the dark web, individuals lose control over their own digital footprint permanently
+      and dangerously.
+
+
+      Evaluating this modern trade-off carefully, the hidden security costs heavily outweigh the
+      superficial benefits of instant convenience. Trading long-term privacy for a slightly faster
+      food delivery app or a tailored playlist is a dangerous bargain that compromises fundamental
+      human rights in society.
+
+
+      In conclusion, digital convenience should never come at the expense of our personal security.
+      Society must demand stricter data protection laws and greater transparency from technology
+      corporations to ensure our private lives remain genuinely safe and protected.
+  - slug: schools-balancing-individual-group-projects
+    kind: essay
+    cefr: B2
+    title: Cách nhà trường cân bằng giữa dự án cá nhân và nhóm
+    instructionsVi: "Bạn hãy viết một bài luận gửi cho hiệu trưởng nhà trường, cô Harrison, phân tích
+      cách các cơ sở giáo dục nên cân bằng giữa các bài tập cá nhân và bài tập nhóm. Bài viết của
+      bạn cần bao gồm đúng ba nội dung sau: 1. Giải thích giá trị của các dự án cá nhân trong việc
+      xây dựng tính tự chịu trách nhiệm. 2. Thảo luận về cách các bài tập nhóm thúc đẩy các kỹ năng
+      làm việc nhóm và giao tiếp thiết yếu. 3. Đề xuất một tỷ lệ phần trăm hoặc phương pháp lập lịch
+      tối ưu để phân công cả hai loại công việc này."
+    instructionsEn: "Write an essay for the school principal, Ms. Harrison, analyzing how educational
+      institutions should balance individual and group assignments. Your writing must include
+      exactly these three content requirements: 1. Explain the value of individual projects in
+      building personal accountability. 2. Discuss how group tasks foster essential teamwork and
+      communication skills. 3. Suggest an optimal percentage ratio or scheduling method for
+      assigning both types of work."
+    minWords: 180
+    maxWords: 250
+    timeLimitMin: 40
+    outlineVi: "Mở bài: Đặt vấn đề chuẩn bị cho học sinh qua các dự án cá nhân và nhóm. Thân bài: 1. Nêu
+      giá trị dự án cá nhân giúp xây dựng tính tự lập và chịu trách nhiệm. 2. Phân tích lợi ích bài
+      tập nhóm trong việc rèn luyện giao tiếp và kỹ năng làm việc chung. 3. Đề xuất tỷ lệ 60-40 cùng
+      phương pháp lập lịch hợp lý. Kết bài: Tổng kết cách tiếp cận kép giúp phát triển toàn diện học
+      sinh."
+    sampleAnswer: >-
+      Modern education must successfully prepare students for both independent challenges and modern
+      collaborative workplaces. Writing for our school principal, Ms. Harrison, I will evaluate how
+      educational institutions can effectively balance individual and group projects to maximize
+      overall learning outcomes.
+
+
+      Individual projects are vital because they build strong personal accountability, creativity,
+      and self-reliance among learners. When students work entirely alone, they must conduct their
+      own research, manage their schedules efficiently, and take full responsibility for the final
+      academic outcome without relying on classmates.
+
+
+      Conversely, group tasks foster essential teamwork, leadership, and communication skills.
+      Collaborating closely with peers allows students to share diverse perspectives, resolve
+      creative conflicts constructively, and accomplish larger complex goals that would be
+      impossible to achieve completely alone.
+
+
+      To achieve an ideal balance, schools should adopt a sensible workload ratio, such as sixty
+      percent individual tasks and forty percent group assignments throughout the academic semester.
+      Teachers can also schedule collaborative modules only after students have mastered
+      foundational independent research skills thoroughly.
+
+
+      In conclusion, a harmonious blend of both project types ensures comprehensive student
+      development today. By nurturing independent problem-solvers who can also collaborate smoothly,
+      schools will effectively prepare learners for future academic and professional success in a
+      highly competitive world. This dual approach ultimately bridges the gap between individual
+      excellence and collective teamwork.
+  - slug: public-space-advertising-essay
+    kind: essay
+    cefr: B2
+    title: Quảng cáo thương mại ở không gian công cộng
+    instructionsVi: Viết một bài luận gửi hội đồng thành phố của bạn để tranh luận về việc liệu không
+      gian công cộng có nên cho phép quảng cáo thương mại hay không. Bạn phải thảo luận về lợi ích
+      kinh tế cho thành phố, giải quyết vấn đề ô nhiễm thị giác và sự xao lãng gây ra cho người dân,
+      đồng thời đưa ra khuyến nghị rõ ràng của riêng bạn về việc nên cấm hay quản lý các quảng cáo
+      đó.
+    instructionsEn: Write an essay for your local city council debating whether public spaces should
+      allow commercial advertising. You must discuss the economic benefits for the city, address the
+      visual pollution and distraction caused to citizens, and give your own clear recommendation on
+      whether to ban or regulate such ads.
+    minWords: 180
+    maxWords: 250
+    timeLimitMin: 40
+    outlineVi: "Mở bài: Giới thiệu vấn đề và nêu quan điểm cá nhân. Thân bài 1: Phân tích lợi ích kinh
+      tế từ quảng cáo thương mại cho ngân sách thành phố. Thân bài 2: Trình bày tác động tiêu cực về
+      ô nhiễm thị giác và sự mất tập trung cho người đi đường. Kết bài: Đưa ra đề xuất giải pháp
+      quản lý hoặc cấm đoán phù hợp."
+    sampleAnswer: >-
+      Modern cities are increasingly debating whether commercial advertising should be permitted in
+      public areas such as parks, streets, and public squares. This essay will examine both sides of
+      the issue and provide a clear recommendation for the municipal council.
+
+
+      On the one hand, allowing advertisements in public spaces offers significant economic
+      advantages. Revenue generated from these corporate displays can be directly reinvested by the
+      city council into public infrastructure, park maintenance, and community programs. For
+      instance, funds from bus stop advertisements often help subsidize public transportation costs,
+      easing the financial burden on local taxpayers.
+
+
+      On the other hand, widespread commercial posters and digital screens create severe visual
+      pollution. They clutter natural landscapes and historic architecture, diminishing the
+      aesthetic value of the city. Furthermore, flashing billboards and prominent product placements
+      can severely distract pedestrians and drivers, potentially increasing safety hazards on busy
+      streets.
+
+
+      In conclusion, while the financial gains for our growing city are undeniable, the negative
+      impact on public aesthetics and traffic safety cannot be ignored. Rather than imposing a total
+      ban, the municipal council should implement strict regulations regarding the size, brightness,
+      and placement of advertisements. This balanced approach ensures necessary municipal income
+      while preserving the unique beauty and tranquility of our shared urban environments.
+  - slug: museums-local-voices-essay
+    kind: essay
+    cefr: B2
+    title: Đưa tiếng nói cộng đồng vào bảo tàng địa phương
+    instructionsVi: Viết một bài luận cho một tạp chí di sản văn hóa thảo luận về cách các bảo tàng có
+      thể đưa tiếng nói địa phương vào các cuộc triển lãm của họ một cách hiệu quả. Bạn phải đề xuất
+      các cách để lồng ghép cư dân bình thường vào công tác tuyển chọn, giải thích điều này làm tăng
+      sự gắn kết cộng đồng như thế nào, đồng thời đánh giá các thách thức tiềm ẩn như thiếu kinh phí
+      hoặc đại diện đa dạng.
+    instructionsEn: Write an essay for a cultural heritage magazine discussing how museums can
+      effectively include local voices in their exhibits. You must suggest ways to involve ordinary
+      residents in curation, explain how this increases community engagement, and evaluate potential
+      challenges such as lack of funding or diverse representation.
+    minWords: 180
+    maxWords: 250
+    timeLimitMin: 40
+    outlineVi: "Mở bài: Đặt vấn đề về tầm quan trọng của việc đưa tiếng nói người dân vào bảo tàng. Thân
+      bài 1: Đề xuất các phương pháp hợp tác với cộng đồng trong việc xây dựng nội dung trưng bày.
+      Thân bài 2: Phân tích lợi ích mang lại sự gắn kết sâu sắc hơn giữa bảo tàng và công chúng.
+      Thân bài 3: Đánh giá những khó khăn về nguồn lực và cách khắc phục. Kết bài: Tóm tắt lại giá
+      trị cốt lõi."
+    sampleAnswer: >-
+      Modern cultural institutions must evolve to remain relevant to the communities they serve.
+      This essay explores how regional museums can successfully integrate local voices into their
+      permanent and temporary exhibitions.
+
+
+      To begin with, museums can actively involve ordinary residents by establishing community
+      advisory panels and organizing interactive storytelling workshops. These collaborative
+      platforms allow everyday citizens to share personal artifacts, oral histories, and family
+      memories, ensuring that exhibits reflect authentic grassroots experiences rather than strictly
+      academic perspectives.
+
+
+      This grassroots approach significantly increases community engagement. When people see their
+      own histories and stories recognized within public galleries, they feel a much stronger sense
+      of ownership and pride. Consequently, local visitor numbers naturally rise because the museum
+      transforms from a distant educational building into a vibrant, shared cultural hub.
+
+
+      Nevertheless, several significant challenges may arise during this collaborative process.
+      Securing adequate funding for community-led projects is frequently difficult, and ensuring
+      fair representation across diverse cultural groups requires careful planning and coordination.
+      Museum directors must actively seek government grants and build strong partnerships with local
+      grassroots organizations to overcome these financial and logistical barriers.
+
+
+      In conclusion, incorporating local voices thoroughly revitalizes museums. By addressing
+      resource challenges and empowering everyday residents, cultural centers can foster deep
+      connections and truly celebrate diverse community heritage.
+  - slug: rewrite-past-sentence-antonym
+    kind: sentence
+    cefr: A2
+    title: Viết lại câu với dạng phủ định rút gọn
+    instructionsVi: Viết lại câu "Lan did not enjoy the movie." bằng dạng rút gọn "didn't", giữ nguyên
+      nghĩa. Viết MỘT câu bắt đầu bằng "Lan".
+    instructionsEn: Rewrite "Lan did not enjoy the movie." using the contraction "didn't", preserving
+      the meaning. Write ONE sentence beginning with "Lan".
+    minWords: 4
+    maxWords: 40
+    timeLimitMin: 5
+    outlineVi: Rút gọn did not thành didn't; giữ động từ chính ở dạng nguyên mẫu.
+    sampleAnswer: Lan didn't enjoy the movie.
+  - slug: rewrite-question-how-often
+    kind: sentence
+    cefr: A2
+    title: Viết lại câu hỏi thì hiện tại đơn với How often
+    instructionsVi: 'Viết lại câu hỏi ở thì hiện tại đơn sau đây bằng cách sử dụng "how often", giữ
+      nguyên nghĩa. Câu nguồn: "How many times a week do you play tennis?" Bắt đầu câu của bạn với:
+      "How often". Viết MỘT câu.'
+    instructionsEn: 'Rewrite the following present simple question using "how often", preserving the
+      exact meaning. Source sentence: "How many times a week do you play tennis?" Start your
+      sentence with: "How often". Write ONE sentence.'
+    minWords: 4
+    maxWords: 40
+    timeLimitMin: 5
+    outlineVi: Thay thế cụm từ chỉ tần suất cụ thể bằng trạng từ hỏi How often kết hợp với trợ động từ
+      và chủ ngữ để tạo câu hỏi tương đương.
+    sampleAnswer: How often do you play tennis each week?
+  - slug: combine-descriptions-and
+    kind: sentence
+    cefr: A2
+    title: Kết hợp hai câu miêu tả với từ and
+    instructionsVi: 'Kết hợp hai câu miêu tả sau thành một câu duy nhất sử dụng "and", giữ nguyên nghĩa.
+      Câu nguồn: "My room is small. My room is clean." Bắt đầu câu của bạn với: "My room". Viết MỘT
+      câu.'
+    instructionsEn: 'Combine the following two descriptions into one sentence using "and", preserving
+      the exact meaning. Source sentences: "My room is small. My room is clean." Start your sentence
+      with: "My room". Write ONE sentence.'
+    minWords: 4
+    maxWords: 40
+    timeLimitMin: 5
+    outlineVi: Dùng từ liên kết and để nối hai tính từ miêu tả chủ ngữ trong cùng một câu đơn gọn gàng.
+    sampleAnswer: My room is small and clean.
+  - slug: rewrite-comparison-not-as-tall-as
+    kind: sentence
+    cefr: A2
+    title: Viết lại câu so sánh với not as tall as
+    instructionsVi: 'Viết lại câu so sánh sau đây bằng cách sử dụng "not as tall as", giữ nguyên nghĩa.
+      Câu nguồn: "John is shorter than Peter." Bắt đầu câu của bạn với: "John is". Viết MỘT câu.'
+    instructionsEn: 'Rewrite the following comparison using "not as tall as", preserving the exact
+      meaning. Source sentence: "John is shorter than Peter." Start your sentence with: "John is".
+      Write ONE sentence.'
+    minWords: 4
+    maxWords: 40
+    timeLimitMin: 5
+    outlineVi: Thay shorter than bằng not as tall as; giữ nguyên vị trí hai người được so sánh.
+    sampleAnswer: John is not as tall as Peter.
+  - slug: active-to-passive-playground
+    kind: sentence
+    cefr: B1
+    title: Chuyển đổi câu chủ động sang bị động
+    instructionsVi: 'Viết lại câu chủ động sau sang câu bị động, bắt đầu bằng "A new playground...". Câu
+      gốc: "The local council built a new playground in the park last year."'
+    instructionsEn: 'Rewrite the following active sentence into the passive voice, starting with "A new
+      playground...". Source sentence: "The local council built a new playground in the park last
+      year."'
+    minWords: 4
+    maxWords: 40
+    timeLimitMin: 5
+    outlineVi: Xác định tân ngữ của câu chủ động để làm chủ ngữ mới, chuyển động từ sang dạng bị động
+      (was/were + V3) và giữ nguyên các thành phần trạng ngữ.
+    sampleAnswer: A new playground was built in the park by the local council last year.
+  - slug: defining-relative-clause-musician
+    kind: sentence
+    cefr: B1
+    title: Kết hợp câu với mệnh đề quan hệ xác định
+    instructionsVi: 'Kết hợp hai câu sau thành một câu sử dụng mệnh đề quan hệ xác định, bắt đầu bằng "I
+      met a talented musician...". Câu gốc: "I met a talented musician. She plays the piano
+      brilliantly."'
+    instructionsEn: 'Combine the following two sentences into one using a defining relative clause,
+      starting with "I met a talented musician...". Source sentences: "I met a talented musician.
+      She plays the piano brilliantly."'
+    minWords: 4
+    maxWords: 40
+    timeLimitMin: 5
+    outlineVi: Thay đại từ chủ ngữ She bằng đại từ quan hệ who hoặc that để nối thông tin về người nhạc công.
+    sampleAnswer: I met a talented musician who plays the piano brilliantly.
+  - slug: rewrite-with-unless-exam
+    kind: sentence
+    cefr: B1
+    title: Viết lại câu dùng từ unless
+    instructionsVi: 'Viết lại câu sau sử dụng từ "unless" mà không làm thay đổi nghĩa, bắt đầu bằng "You
+      will not pass the exam unless...". Câu gốc: "You will not pass the exam if you do not study
+      harder."'
+    instructionsEn: 'Rewrite the following sentence using "unless" without changing its meaning,
+      starting with "You will not pass the exam unless...". Source sentence: "You will not pass the
+      exam if you do not study harder."'
+    minWords: 4
+    maxWords: 40
+    timeLimitMin: 5
+    outlineVi: Thay thế cụm "if... not" bằng "unless" và chuyển đổi mệnh đề phía sau sang thể khẳng định
+      để giữ nguyên ý nghĩa.
+    sampleAnswer: You will not pass the exam unless you study harder.
+  - slug: past-habit-used-to-football
+    kind: sentence
+    cefr: B1
+    title: Diễn tả thói quen trong quá khứ với used to
+    instructionsVi: 'Viết lại câu sau để diễn tả thói quen trong quá khứ dùng "used to", bắt đầu bằng
+      "When he was a child, he used to...". Câu gốc: "When he was a child, he regularly played
+      football every weekend, but he no longer does."'
+    instructionsEn: 'Rewrite the following sentence to express a past habit using "used to", starting
+      with "When he was a child, he used to...". Source sentence: "When he was a child, he regularly
+      played football every weekend, but he no longer does."'
+    minWords: 4
+    maxWords: 40
+    timeLimitMin: 5
+    outlineVi: Thay thế động từ ở thì quá khứ đơn bằng cấu trúc "used to" kết hợp với động từ nguyên mẫu
+      để diễn tả thói quen đã từng làm.
+    sampleAnswer: When he was a child, he used to play football every weekend, but he no longer does.
+  - slug: rewrite-purpose-so-that
+    kind: sentence
+    cefr: B1
+    title: Viết lại câu diễn tả mục đích
+    instructionsEn: 'Rewrite the following sentence using "so that" to express purpose. You must begin
+      your rewritten sentence with: "He bought a new laptop so that". Original sentence: "He bought
+      a new laptop to study online more effectively."'
+    instructionsVi: 'Viết lại câu sau đây bằng cách sử dụng "so that" để diễn tả mục đích. Bạn phải bắt
+      đầu câu viết lại của mình bằng: "He bought a new laptop so that". Câu gốc: "He bought a new
+      laptop to study online more effectively."'
+    minWords: 4
+    maxWords: 40
+    timeLimitMin: 5
+    outlineVi: Chuyển đổi cụm từ chỉ mục đích thành mệnh đề trạng ngữ chỉ mục đích bằng cách dùng 'so
+      that' đi kèm với chủ ngữ và động từ thích hợp (thường dùng can/could).
+    sampleAnswer: He bought a new laptop so that he could study online more effectively.
+  - slug: rewrite-contrast-although
+    kind: sentence
+    cefr: B1
+    title: Viết lại câu thể hiện sự tương phản
+    instructionsEn: 'Rewrite the following sentence using "although" to show contrast. You must begin
+      your rewritten sentence with: "Although". Original sentence: "Despite the heavy rain, they
+      decided to go hiking in the national park."'
+    instructionsVi: 'Viết lại câu sau đây bằng cách sử dụng "although" để chỉ sự tương phản. Bạn phải
+      bắt đầu câu viết lại của mình bằng: "Although". Câu gốc: "Despite the heavy rain, they decided
+      to go hiking in the national park."'
+    minWords: 4
+    maxWords: 40
+    timeLimitMin: 5
+    outlineVi: Sau although cần mệnh đề có chủ ngữ và động từ. Chuyển the heavy rain thành it rained
+      heavily và giữ nguyên mệnh đề chính.
+    sampleAnswer: Although it rained heavily, they decided to go hiking in the national park.
+  - slug: reported-speech-work-promise
+    kind: sentence
+    cefr: B2
+    title: Lời hứa công việc gián tiếp
+    instructionsEn: 'Rewrite the following direct speech into reported speech, keeping the exact meaning
+      and participants: "I will finish the quarterly report by tomorrow," Mark promised his manager.
+      Start your sentence with: "Mark promised his manager that..." Report this promise from a later
+      week, using a past reporting verb.'
+    instructionsVi: 'Viết lại câu trực tiếp sau đây thành câu gián tiếp, giữ nguyên ý nghĩa và các bên
+      tham gia: "I will finish the quarterly report by tomorrow," Mark promised his manager. Bắt đầu
+      câu của bạn với: "Mark promised his manager that..." Tường thuật lời hứa vào một tuần sau đó,
+      dùng động từ tường thuật ở quá khứ.'
+    minWords: 4
+    maxWords: 40
+    timeLimitMin: 5
+    outlineVi: Lùi thì của động từ (will thành would) và thay đổi trạng ngữ chỉ thời gian (tomorrow
+      thành the next day) phù hợp với ngữ cảnh tường thuật.
+    sampleAnswer: Mark promised his manager that he would finish the quarterly report by the next day.
+  - slug: third-conditional-missed-flight
+    kind: sentence
+    cefr: B2
+    title: Câu điều kiện loại ba về chuyến bay
+    instructionsEn: "Rewrite the following past cause and result using a third conditional sentence:
+      Because Sarah didn't leave her house earlier, she missed her morning flight to Tokyo. Start
+      your sentence with: \"If Sarah...\""
+    instructionsVi: "Viết lại nguyên nhân và kết quả trong quá khứ sau đây bằng câu điều kiện loại ba:
+      Because Sarah didn't leave her house earlier, she missed her morning flight to Tokyo. Bắt đầu
+      câu của bạn với: \"If Sarah...\""
+    minWords: 4
+    maxWords: 40
+    timeLimitMin: 5
+    outlineVi: Sử dụng cấu trúc if + quá khứ hoàn thành (had left) trong mệnh đề điều kiện và would have
+      + phân từ hai trong mệnh đề chính để diễn tả một giả thiết trái ngược với quá khứ.
+    sampleAnswer: If Sarah had left her house earlier, she wouldn't have missed her morning flight to Tokyo.
+  - slug: wish-past-regret-exams
+    kind: sentence
+    cefr: B2
+    title: Điều ước về sự hối tiếc trong quá khứ
+    instructionsEn: 'Rewrite the following sentence expressing a past regret using "wish": I regret not
+      studying harder for the final university entrance exams last year. Start your sentence with:
+      "I wish..."'
+    instructionsVi: 'Viết lại câu thể hiện sự hối tiếc trong quá khứ sau đây bằng cấu trúc "wish": I
+      regret not studying harder for the final university entrance exams last year. Bắt đầu câu của
+      bạn với: "I wish..."'
+    minWords: 4
+    maxWords: 40
+    timeLimitMin: 5
+    outlineVi: Dùng cấu trúc wish + quá khứ hoàn thành (had studied) để diễn tả một mong ước trái ngược
+      với sự việc đã xảy ra trong quá khứ.
+    sampleAnswer: I wish I had studied harder for the final university entrance exams last year.
+  - slug: despite-noun-phrase-stormy-weather
+    kind: sentence
+    cefr: B2
+    title: Viết lại câu với Despite và cụm danh từ
+    instructionsEn: 'Rewrite the following sentence using "despite" followed by a noun phrase: Although
+      the weather was extremely stormy and cold, the hikers completed their mountain trail. Start
+      your sentence with: "Despite..."'
+    instructionsVi: 'Viết lại câu sau đây bằng cách sử dụng "despite" theo sau là một cụm danh từ:
+      Although the weather was extremely stormy and cold, the hikers completed their mountain trail.
+      Bắt đầu câu của bạn với: "Despite..."'
+    minWords: 4
+    maxWords: 40
+    timeLimitMin: 5
+    outlineVi: Chuyển mệnh đề chỉ sự nhượng bộ (Although + chủ ngữ + động từ) thành một cụm danh từ
+      (Despite + danh từ/cụm danh từ) và giữ nguyên vế câu chính.
+    sampleAnswer: Despite the extremely stormy and cold weather, the hikers completed their mountain trail.
+  - slug: rewrite-such-that-traffic
+    kind: sentence
+    cefr: B2
+    title: Viết lại câu diễn tả mức độ với cấu trúc such...that
+    instructionsEn: 'Rewrite the following sentence using the structure "such ... that" so that the
+      meaning stays the same, starting with the given phrase. Source sentence: "The traffic was so
+      heavy that we missed the beginning of the concert." Start with: "It was such..."'
+    instructionsVi: 'Viết lại câu sau bằng cách sử dụng cấu trúc "such ... that" sao cho nghĩa không
+      đổi, bắt đầu bằng cụm từ cho sẵn. Câu gốc: "The traffic was so heavy that we missed the
+      beginning of the concert." Bắt đầu với: "It was such..."'
+    minWords: 4
+    maxWords: 40
+    timeLimitMin: 5
+    outlineVi: Thay so + tính từ bằng such + tính từ + danh từ. Traffic là danh từ không đếm được nên
+      không dùng a/an.
+    sampleAnswer: It was such heavy traffic that we missed the beginning of the concert.
+  - slug: rewrite-would-rather-subject
+    kind: sentence
+    cefr: B2
+    title: Viết lại câu diễn tả mong muốn với would rather và chủ ngữ khác
+    instructionsEn: "Rewrite the following sentence using \"would rather\" with a different subject so
+      that the meaning stays the same, starting with the given phrase. Source sentence: \"I don't
+      want you to invite him to the party.\" Start with: \"I would rather you...\""
+    instructionsVi: "Viết lại câu sau bằng cách sử dụng \"would rather\" với một chủ ngữ khác sao cho
+      nghĩa không đổi, bắt đầu bằng cụm từ cho sẵn. Câu gốc: \"I don't want you to invite him to the
+      party.\" Bắt đầu với: \"I would rather you...\""
+    minWords: 4
+    maxWords: 40
+    timeLimitMin: 5
+    outlineVi: Sử dụng cấu trúc "would rather + chủ ngữ mới + động từ chia ở thì quá khứ đơn" để diễn tả
+      mong muốn ai đó không làm việc gì ở hiện tại.
+    sampleAnswer: I would rather you didn't invite him to the party.

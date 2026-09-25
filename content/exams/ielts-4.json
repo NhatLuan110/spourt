@@ -1,0 +1,975 @@
+{
+  "examId": "ielts",
+  "levelId": "4",
+  "vocabulary": [
+    {
+      "id": "equivocal",
+      "term": "equivocal",
+      "ipa": "/ɪˈkwɪvəkl/",
+      "meaningVi": "mập mờ, không dứt khoát",
+      "definitionEn": "Open to more than one interpretation; deliberately unclear.",
+      "example": "The minister's answer was equivocal enough to satisfy both factions.",
+      "exampleVi": "Câu trả lời của bộ trưởng đủ mập mờ để làm hài lòng cả hai phe.",
+      "collocations": [
+        "equivocal evidence",
+        "an equivocal response",
+        "remain equivocal"
+      ]
+    },
+    {
+      "id": "tenuous",
+      "term": "tenuous",
+      "ipa": "/ˈtenjuəs/",
+      "meaningVi": "mong manh, thiếu vững chắc",
+      "definitionEn": "Weak, thin or without a firm basis.",
+      "example": "The link between the two events is tenuous at best.",
+      "exampleVi": "Mối liên hệ giữa hai sự kiện, nói nhẹ nhất, là rất mong manh.",
+      "collocations": [
+        "a tenuous connection",
+        "tenuous grounds",
+        "at best tenuous"
+      ]
+    },
+    {
+      "id": "ostensibly",
+      "term": "ostensibly",
+      "ipa": "/ɒˈstensəbli/",
+      "meaningVi": "bề ngoài là, danh nghĩa là",
+      "definitionEn": "Apparently, according to what is stated, though possibly not truly.",
+      "example": "The fund was ostensibly for training, but most of it went on consultants.",
+      "exampleVi": "Quỹ này danh nghĩa là để đào tạo, nhưng phần lớn chi cho tư vấn.",
+      "collocations": [
+        "ostensibly neutral",
+        "ostensibly for",
+        "ostensibly independent"
+      ]
+    },
+    {
+      "id": "corroborate",
+      "term": "corroborate",
+      "ipa": "/kəˈrɒbəreɪt/",
+      "meaningVi": "chứng thực, củng cố bằng bằng chứng khác",
+      "definitionEn": "To provide evidence that supports a statement or theory.",
+      "example": "No independent source corroborates the original account.",
+      "exampleVi": "Không nguồn độc lập nào chứng thực cho lời kể ban đầu.",
+      "collocations": [
+        "corroborate a claim",
+        "corroborating evidence",
+        "fail to corroborate"
+      ]
+    },
+    {
+      "id": "reductive",
+      "term": "reductive",
+      "ipa": "/rɪˈdʌktɪv/",
+      "meaningVi": "quy giản, đơn giản hoá quá mức",
+      "definitionEn": "Treating something complex as if it were much simpler than it is.",
+      "example": "Calling the conflict purely economic is reductive.",
+      "exampleVi": "Coi cuộc xung đột thuần tuý là kinh tế là cách nhìn quy giản.",
+      "collocations": [
+        "a reductive account",
+        "unhelpfully reductive",
+        "reductive explanation"
+      ]
+    },
+    {
+      "id": "contingent",
+      "term": "contingent",
+      "ipa": "/kənˈtɪndʒənt/",
+      "meaningVi": "phụ thuộc vào điều kiện",
+      "definitionEn": "Depending on something else that may or may not happen.",
+      "example": "Funding is contingent on the pilot showing measurable gains.",
+      "exampleVi": "Kinh phí phụ thuộc vào việc thí điểm cho thấy hiệu quả đo được.",
+      "collocations": [
+        "contingent on",
+        "historically contingent",
+        "contingent factors"
+      ]
+    },
+    {
+      "id": "spurious",
+      "term": "spurious",
+      "ipa": "/ˈspjʊəriəs/",
+      "meaningVi": "giả tạo, không có thật",
+      "definitionEn": "False, or based on faulty reasoning, although it appears genuine.",
+      "example": "Large datasets produce spurious correlations by chance alone.",
+      "exampleVi": "Bộ dữ liệu lớn tự nó sinh ra những tương quan giả chỉ do ngẫu nhiên.",
+      "collocations": [
+        "a spurious correlation",
+        "spurious precision",
+        "spurious reasoning"
+      ]
+    },
+    {
+      "id": "salient",
+      "term": "salient",
+      "ipa": "/ˈseɪliənt/",
+      "meaningVi": "nổi bật, đáng chú ý nhất",
+      "definitionEn": "Most noticeable or important in a particular situation.",
+      "example": "The salient point is not the cost but who bears it.",
+      "exampleVi": "Điểm nổi bật không phải chi phí mà là ai gánh chi phí đó.",
+      "collocations": [
+        "the salient feature",
+        "salient point",
+        "most salient"
+      ]
+    },
+    {
+      "id": "entrenched",
+      "term": "entrenched",
+      "ipa": "/ɪnˈtrentʃt/",
+      "meaningVi": "ăn sâu, khó thay đổi",
+      "definitionEn": "Firmly established and very difficult to change.",
+      "example": "The practice is entrenched in the profession's training.",
+      "exampleVi": "Cách làm này đã ăn sâu vào chương trình đào tạo của ngành.",
+      "collocations": [
+        "deeply entrenched",
+        "entrenched interests",
+        "become entrenched"
+      ]
+    },
+    {
+      "id": "extrapolate",
+      "term": "extrapolate",
+      "ipa": "/ɪkˈstræpəleɪt/",
+      "meaningVi": "ngoại suy",
+      "definitionEn": "To use known facts to make a conclusion about something unknown, often beyond safe limits.",
+      "example": "It is risky to extrapolate from a single cohort to the whole population.",
+      "exampleVi": "Ngoại suy từ một nhóm thuần tập duy nhất ra cả dân số là việc mạo hiểm.",
+      "collocations": [
+        "extrapolate from",
+        "dangerous to extrapolate",
+        "linear extrapolation"
+      ]
+    },
+    {
+      "id": "caveat",
+      "term": "caveat",
+      "ipa": "/ˈkæviæt/",
+      "meaningVi": "lưu ý dè dặt, điều kiện cảnh báo",
+      "definitionEn": "A warning that something is only true under certain conditions.",
+      "example": "The finding comes with an important caveat about sample size.",
+      "exampleVi": "Kết quả này đi kèm một lưu ý quan trọng về cỡ mẫu.",
+      "collocations": [
+        "with the caveat that",
+        "an important caveat",
+        "enter a caveat"
+      ]
+    },
+    {
+      "id": "orthodoxy",
+      "term": "orthodoxy",
+      "ipa": "/ˈɔːθədɒksi/",
+      "meaningVi": "quan điểm chính thống, cách nghĩ được số đông chấp nhận",
+      "definitionEn": "The generally accepted view within a field at a given time.",
+      "example": "The paper challenged an orthodoxy that had stood for forty years.",
+      "exampleVi": "Bài báo thách thức một quan điểm chính thống đã tồn tại bốn mươi năm.",
+      "collocations": [
+        "prevailing orthodoxy",
+        "challenge the orthodoxy",
+        "economic orthodoxy"
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "id": "reading-replication",
+      "skill": "reading",
+      "title": "The replication problem and what it is not",
+      "format": "IELTS Academic Reading — Passage 1 · Multiple choice + Sentence completion",
+      "instructionsVi": "Đọc bài rồi trả lời 5 câu. Ở band 8, mọi phương án nhiễu đều đúng một phần; chọn được đáp án đòi hỏi phân biệt điều tác giả khẳng định với điều tác giả chỉ thuật lại hoặc bác bỏ.",
+      "promptEn": "Read the passage and answer the five questions that follow.",
+      "passage": "In 2015 a collaboration of 270 researchers attempted to repeat one hundred psychology experiments published in leading journals. Fewer than forty produced a result of the same direction and significance as the original. The episode was widely reported as evidence that psychology, and by extension much of science, was unreliable. That framing was convenient for headlines and almost entirely wrong about what had been shown.\n\nA failed replication is not a demonstration that the original finding is false. It is a second sample, with its own noise, its own laboratory conditions and its own sources of error. If the true effect is small and both studies are modestly powered, disagreement between them is the statistically expected outcome, not an anomaly requiring explanation. The correct inference from the 2015 project is that the published literature contains many effects estimated with too little precision to be relied upon individually — a claim about the precision of a body of work, not about the honesty of its authors.\n\nWhat made the problem tractable was that its principal causes turned out to be structural rather than personal. Journals preferred novel positive findings, so null results went unpublished and the visible literature was a biased sample of the research actually conducted. Analytical flexibility — the many defensible choices about which participants to exclude, which covariates to include, when to stop collecting data — allowed a researcher acting in good faith to arrive at a significant result without ever consciously deciding to. Neither of these requires misconduct, and framing the issue as one of fraud misdiagnosed it in a way that delayed the remedies.\n\nThose remedies have been adopted more quickly than most observers predicted. Preregistration, in which the analysis plan is deposited before data collection, removes the flexibility that produced the problem, and registered reports, in which journals accept a study on the strength of its design before results exist, remove the incentive to find something. Where these have been used, replication rates are markedly higher.\n\nThe uncomfortable residue is what to do with the existing literature. Textbooks and policy documents rest on decades of findings produced under the old regime, and re-running all of it is not feasible. Some fields have begun triaging: identifying which claims are load-bearing, and replicating those first. It is a slow, unglamorous process, and it is the only one available.",
+      "timeLimitSec": 375,
+      "questions": [
+        {
+          "id": "q1",
+          "kind": "mcq",
+          "prompt": "What does the writer say about the way the 2015 project was reported?",
+          "options": [
+            {
+              "id": "a",
+              "text": "It exaggerated how many experiments were repeated."
+            },
+            {
+              "id": "b",
+              "text": "It drew a conclusion the results did not support."
+            },
+            {
+              "id": "c",
+              "text": "It failed to mention the number of researchers involved."
+            },
+            {
+              "id": "d",
+              "text": "It was written by people outside the field."
+            }
+          ],
+          "answer": "b",
+          "explanationVi": "'That framing was... almost entirely wrong about what had been shown'. Tác giả bác bỏ cách diễn giải, không bác bỏ số liệu."
+        },
+        {
+          "id": "q2",
+          "kind": "mcq",
+          "prompt": "Why does the writer say disagreement between two studies may be expected?",
+          "options": [
+            {
+              "id": "a",
+              "text": "Because researchers rarely follow the original method"
+            },
+            {
+              "id": "b",
+              "text": "Because journals publish only positive findings"
+            },
+            {
+              "id": "c",
+              "text": "Because a small true effect measured imprecisely will vary between samples"
+            },
+            {
+              "id": "d",
+              "text": "Because psychology differs from other sciences"
+            }
+          ],
+          "answer": "c",
+          "explanationVi": "'If the true effect is small and both studies are modestly powered, disagreement between them is the statistically expected outcome'. Đáp án B đúng nội dung bài nhưng thuộc đoạn 3, không phải lý do ở đây."
+        },
+        {
+          "id": "q3",
+          "kind": "short-answer",
+          "prompt": "The writer argues that the causes of the problem were structural rather than ____. (ONE WORD)",
+          "answer": "personal",
+          "explanationVi": "Đoạn 3: 'its principal causes turned out to be structural rather than personal'."
+        },
+        {
+          "id": "q4",
+          "kind": "mcq",
+          "prompt": "What does the writer imply about describing the issue as fraud?",
+          "options": [
+            {
+              "id": "a",
+              "text": "It slowed down the adoption of solutions."
+            },
+            {
+              "id": "b",
+              "text": "It was accurate in a minority of cases."
+            },
+            {
+              "id": "c",
+              "text": "It was necessary to attract public attention."
+            },
+            {
+              "id": "d",
+              "text": "It originated with the journals themselves."
+            }
+          ],
+          "answer": "a",
+          "explanationVi": "'framing the issue as one of fraud misdiagnosed it in a way that delayed the remedies'."
+        },
+        {
+          "id": "q5",
+          "kind": "mcq",
+          "prompt": "What is the writer's attitude to the triaging approach in the final paragraph?",
+          "options": [
+            {
+              "id": "a",
+              "text": "Enthusiastic — it will resolve the problem quickly."
+            },
+            {
+              "id": "b",
+              "text": "Dismissive — it is too slow to be worth attempting."
+            },
+            {
+              "id": "c",
+              "text": "Neutral — the writer offers no evaluation."
+            },
+            {
+              "id": "d",
+              "text": "Resigned acceptance — unappealing but the only option."
+            }
+          ],
+          "answer": "d",
+          "explanationVi": "'a slow, unglamorous process, and it is the only one available' — vừa chê vừa chấp nhận. Đáp án C sai vì rõ ràng có đánh giá."
+        }
+      ]
+    },
+    {
+      "id": "reading-tfng-heritage",
+      "skill": "reading",
+      "title": "Rebuilding what was destroyed",
+      "format": "IELTS Academic Reading — Passage 2 · Identifying information (True/False/Not Given)",
+      "instructionsVi": "Chọn TRUE, FALSE hoặc NOT GIVEN. Ở band 8, các câu NOT GIVEN được xây từ chính từ vựng của bài nhưng nói về một khía cạnh bài không hề bàn tới — đây là bẫy tinh vi nhất của dạng này.",
+      "promptEn": "Do the following statements agree with the information given in the passage? Choose TRUE, FALSE or NOT GIVEN.",
+      "passage": "After the Second World War, the old town of Warsaw was rebuilt from photographs, paintings and architectural drawings, much of it on the original foundations. The reconstruction was so thorough that in 1980 UNESCO added it to the World Heritage List — a decision that required the organisation to set aside its own general principle that reconstructions do not possess the authenticity that inscription demands. The citation justified the exception by reference to the deliberate nature of the destruction and the role the rebuilding played in national identity.\n\nThe precedent has been invoked repeatedly since, and rarely with the same conditions attached. When the shrines of Timbuktu were rebuilt after 2012, and when reconstruction was proposed for structures destroyed at Palmyra, advocates cited Warsaw as authority. Critics responded that the Warsaw decision had been explicitly framed as exceptional, and that treating an exception as a rule empties the original principle of content.\n\nThe technical arguments have shifted since 1980, largely because the tools have. Photogrammetry allows a destroyed building to be reconstructed geometrically from crowd-sourced tourist photographs to within a few centimetres. What such a model cannot reproduce is the material history of the fabric: the specific stone, the tool marks, the accumulated repairs of eight centuries. A rebuilt structure may be geometrically indistinguishable from the original while being, in the sense conservation charters use, an entirely new building.\n\nA further consideration is who decides. Reconstruction is expensive and highly visible, and it tends to be funded by external bodies with their own reasons for wanting a particular past made visible again. Local communities have sometimes preferred stabilised ruins, or investment in housing, over a faithful rebuilding of a monument. Where those preferences have been recorded at all, they have not always been decisive.",
+      "timeLimitSec": 375,
+      "questions": [
+        {
+          "id": "t1",
+          "kind": "mcq",
+          "prompt": "UNESCO departed from one of its own principles when listing Warsaw.",
+          "options": [
+            {
+              "id": "a",
+              "text": "FALSE"
+            },
+            {
+              "id": "b",
+              "text": "NOT GIVEN"
+            },
+            {
+              "id": "c",
+              "text": "TRUE"
+            }
+          ],
+          "answer": "c",
+          "explanationVi": "Đoạn 1: quyết định 'required the organisation to set aside its own general principle that reconstructions do not possess the authenticity'."
+        },
+        {
+          "id": "t2",
+          "kind": "mcq",
+          "prompt": "Later reconstructions have cited Warsaw while applying the same conditions that justified it.",
+          "options": [
+            {
+              "id": "a",
+              "text": "FALSE"
+            },
+            {
+              "id": "b",
+              "text": "TRUE"
+            },
+            {
+              "id": "c",
+              "text": "NOT GIVEN"
+            }
+          ],
+          "answer": "a",
+          "explanationVi": "Đoạn 2: 'invoked repeatedly since, and rarely with the same conditions attached' — chính là phủ định câu này."
+        },
+        {
+          "id": "t3",
+          "kind": "mcq",
+          "prompt": "Photogrammetry can reproduce the geometry of a lost building to a high degree of accuracy.",
+          "options": [
+            {
+              "id": "a",
+              "text": "FALSE"
+            },
+            {
+              "id": "b",
+              "text": "TRUE"
+            },
+            {
+              "id": "c",
+              "text": "NOT GIVEN"
+            }
+          ],
+          "answer": "b",
+          "explanationVi": "Đoạn 3: 'reconstructed geometrically... to within a few centimetres'."
+        },
+        {
+          "id": "t4",
+          "kind": "mcq",
+          "prompt": "Reconstruction projects cost more than stabilising ruins.",
+          "options": [
+            {
+              "id": "a",
+              "text": "TRUE"
+            },
+            {
+              "id": "b",
+              "text": "NOT GIVEN"
+            },
+            {
+              "id": "c",
+              "text": "FALSE"
+            }
+          ],
+          "answer": "b",
+          "explanationVi": "Bài nói tái dựng 'is expensive' và có nhắc tới phương án giữ phế tích, nhưng KHÔNG hề so sánh chi phí hai phương án. Bẫy dùng đúng từ vựng của bài."
+        },
+        {
+          "id": "t5",
+          "kind": "mcq",
+          "prompt": "Local preferences have always determined whether reconstruction goes ahead.",
+          "options": [
+            {
+              "id": "a",
+              "text": "TRUE"
+            },
+            {
+              "id": "b",
+              "text": "NOT GIVEN"
+            },
+            {
+              "id": "c",
+              "text": "FALSE"
+            }
+          ],
+          "answer": "c",
+          "explanationVi": "Câu cuối: 'they have not always been decisive' — trái với 'always determined'."
+        }
+      ]
+    },
+    {
+      "id": "reading-headings-language",
+      "skill": "reading",
+      "title": "Four positions on language change",
+      "format": "IELTS Academic Reading — Passage 3 · Matching headings / Matching information",
+      "instructionsVi": "Chọn tiêu đề đúng cho từng đoạn. Số tiêu đề nhiều hơn số đoạn, và các tiêu đề sai đều mô tả đúng một chi tiết có thật trong bài — phải chọn theo ý bao trùm của cả đoạn.",
+      "promptEn": "The passage has four paragraphs, A–D. Choose the most suitable heading for each paragraph.",
+      "passage": "A. The prescriptive position holds that a language has a correct form, that this form can be described, and that deviations from it are errors to be corrected. It is the position implicit in most school teaching and in the existence of style guides. Its practical advantage is clarity: a learner given a rule can apply it, whereas a learner told that usage varies has nothing to act on. Its weakness is that the rules it defends are frequently inventions of a particular century, defended long after the usage that produced them has gone.\n\nB. Descriptivism, dominant in academic linguistics since the mid-twentieth century, holds that the object of study is what speakers actually do, and that a rule violated by the majority of educated speakers is not a rule but a fiction. This position is methodologically unavoidable — a science of language cannot begin by declaring most of its data invalid — but it is often overstated in popular accounts, which slide from 'linguists do not judge usage' to 'no usage can be judged', a claim descriptivism does not entail and most linguists would reject.\n\nC. A third position, sometimes called the sociolinguistic view, treats the argument itself as the phenomenon worth studying. Judgements about correct language, on this account, track social boundaries with remarkable fidelity: the features stigmatised in any given period tend to be those associated with groups lacking institutional power, and they lose their stigma when the group acquires it. The claim is not that all judgements are arbitrary, but that their content is far better predicted by social structure than by anything internal to the language.\n\nD. What none of these positions resolves is the practical question faced by anyone who has to advise a writer. A student asking whether a construction is acceptable is not asking a question about grammar in the linguist's sense; they are asking what a reader with power over their future will think. Answering with a description of variation is accurate and useless. The honest answer involves saying which readers object, how strongly, and what it will cost — which is neither prescription nor description, and is what most competent editors do in practice.",
+      "timeLimitSec": 375,
+      "questions": [
+        {
+          "id": "h1",
+          "kind": "mcq",
+          "prompt": "Paragraph A",
+          "options": [
+            {
+              "id": "a",
+              "text": "How style guides are written"
+            },
+            {
+              "id": "b",
+              "text": "Why school teaching has declined"
+            },
+            {
+              "id": "c",
+              "text": "A position whose usefulness and whose historical weakness both come from its firmness"
+            },
+            {
+              "id": "d",
+              "text": "The invention of grammatical rules in the eighteenth century"
+            }
+          ],
+          "answer": "c",
+          "explanationVi": "Đoạn A nêu cả ưu điểm (rõ ràng, áp dụng được) lẫn nhược điểm (luật lệ do một thời kỳ đặt ra). Đáp án D chỉ là một chi tiết ở câu cuối."
+        },
+        {
+          "id": "h2",
+          "kind": "mcq",
+          "prompt": "Paragraph B",
+          "options": [
+            {
+              "id": "a",
+              "text": "How linguists collect data on speech"
+            },
+            {
+              "id": "b",
+              "text": "A necessary method that popular accounts push too far"
+            },
+            {
+              "id": "c",
+              "text": "Why academic linguistics rejects all rules"
+            },
+            {
+              "id": "d",
+              "text": "The decline of prescriptivism after 1950"
+            }
+          ],
+          "answer": "b",
+          "explanationVi": "Đoạn B nói mô tả luận là 'methodologically unavoidable' nhưng 'often overstated in popular accounts'. Đáp án C chính là cách hiểu sai mà đoạn văn bác bỏ."
+        },
+        {
+          "id": "h3",
+          "kind": "mcq",
+          "prompt": "Paragraph C",
+          "options": [
+            {
+              "id": "a",
+              "text": "Judgements about language as a map of social power"
+            },
+            {
+              "id": "b",
+              "text": "A list of stigmatised pronunciations"
+            },
+            {
+              "id": "c",
+              "text": "Evidence that all language judgements are arbitrary"
+            },
+            {
+              "id": "d",
+              "text": "How groups acquire institutional power"
+            }
+          ],
+          "answer": "a",
+          "explanationVi": "Đoạn C: các phán xét ngôn ngữ 'track social boundaries with remarkable fidelity'. Đáp án C bị chính đoạn văn phủ nhận ('The claim is not that all judgements are arbitrary')."
+        },
+        {
+          "id": "h4",
+          "kind": "mcq",
+          "prompt": "Paragraph D",
+          "options": [
+            {
+              "id": "a",
+              "text": "Why editors should follow style guides"
+            },
+            {
+              "id": "b",
+              "text": "Advice for students writing essays"
+            },
+            {
+              "id": "c",
+              "text": "The failure of academic linguistics"
+            },
+            {
+              "id": "d",
+              "text": "A practical question none of the three positions answers"
+            }
+          ],
+          "answer": "d",
+          "explanationVi": "Câu đầu đoạn D: 'What none of these positions resolves is the practical question...'. Đây là ý bao trùm cả đoạn."
+        }
+      ]
+    },
+    {
+      "id": "listening-grant-office",
+      "skill": "listening",
+      "title": "Enquiry about a research grant application",
+      "format": "IELTS Listening — Section 1 · Hội thoại đời thường, hai người, form completion",
+      "instructionsVi": "Nghe rồi trả lời 4 câu. Băng chỉ chạy MỘT lần, đúng như đề thi. Ở mức này có hai chỗ sửa lại thông tin và một điều kiện phụ thuộc — bỏ sót là sai cả câu.",
+      "promptEn": "Listen to the conversation and answer the questions.",
+      "accent": "uk",
+      "transcript": [
+        {
+          "speaker": "Officer",
+          "text": "Research Funding Office, Alan speaking."
+        },
+        {
+          "speaker": "Caller",
+          "text": "Hello. I'm enquiring about the small grants scheme — the one for early-career researchers."
+        },
+        {
+          "speaker": "Officer",
+          "text": "Certainly. The maximum award is eight thousand pounds. Sorry, that was last year's figure — it's twelve thousand for this round."
+        },
+        {
+          "speaker": "Caller",
+          "text": "Twelve. And what's the deadline?"
+        },
+        {
+          "speaker": "Officer",
+          "text": "The thirtieth of April, at four in the afternoon. We're strict on the time, not just the date — the system closes automatically."
+        },
+        {
+          "speaker": "Caller",
+          "text": "Understood. Do I need my head of department to sign anything?"
+        },
+        {
+          "speaker": "Officer",
+          "text": "You need a supporting statement from them, yes. And if you're requesting anything over ten thousand, you also need a costing approved by the finance team, which takes about ten working days, so don't leave it late."
+        },
+        {
+          "speaker": "Caller",
+          "text": "I'll be asking for the full amount, so that applies to me. What about the proposal itself?"
+        },
+        {
+          "speaker": "Officer",
+          "text": "Four pages maximum, excluding references. Two of those should be the methodology — that's where most applications are weakest."
+        },
+        {
+          "speaker": "Caller",
+          "text": "Right. And when would I hear?"
+        },
+        {
+          "speaker": "Officer",
+          "text": "The panel meets in mid-June and decisions go out by the end of that month. Funds are released from the first of September, not before, so don't commit to any spending over the summer."
+        }
+      ],
+      "timeLimitSec": 280,
+      "questions": [
+        {
+          "id": "l1",
+          "kind": "short-answer",
+          "prompt": "What is the maximum award for this round, in pounds? (A NUMBER)",
+          "answer": "12000",
+          "accepted": [
+            "£12000",
+            "12,000",
+            "£12,000",
+            "twelve thousand"
+          ],
+          "explanationVi": "8.000 là con số của năm ngoái, nhân viên tự sửa ngay sau đó thành 12.000."
+        },
+        {
+          "id": "l2",
+          "kind": "mcq",
+          "prompt": "Why does the finance costing apply to this caller?",
+          "options": [
+            {
+              "id": "a",
+              "text": "Because all applicants need it"
+            },
+            {
+              "id": "b",
+              "text": "Because they are requesting more than ten thousand pounds"
+            },
+            {
+              "id": "c",
+              "text": "Because they are an early-career researcher"
+            },
+            {
+              "id": "d",
+              "text": "Because their head of department requires it"
+            }
+          ],
+          "answer": "b",
+          "explanationVi": "'if you're requesting anything over ten thousand, you also need a costing' — và người gọi xin đủ 12.000. Đây là điều kiện phụ thuộc, không áp dụng cho mọi người."
+        },
+        {
+          "id": "l3",
+          "kind": "short-answer",
+          "prompt": "How many pages of the proposal should be methodology? (A NUMBER)",
+          "answer": "2",
+          "accepted": [
+            "two"
+          ],
+          "explanationVi": "'Four pages maximum... Two of those should be the methodology'. Bốn là tổng số trang, dễ chọn nhầm."
+        },
+        {
+          "id": "l4",
+          "kind": "mcq",
+          "prompt": "When can the money actually be spent?",
+          "options": [
+            {
+              "id": "a",
+              "text": "From mid-June"
+            },
+            {
+              "id": "b",
+              "text": "From the end of June"
+            },
+            {
+              "id": "c",
+              "text": "From the thirtieth of April"
+            },
+            {
+              "id": "d",
+              "text": "From the first of September"
+            }
+          ],
+          "answer": "d",
+          "explanationVi": "'Funds are released from the first of September, not before'. Tháng Sáu chỉ là lúc có kết quả, chưa được tiêu."
+        }
+      ]
+    },
+    {
+      "id": "listening-heritage-talk",
+      "skill": "listening",
+      "title": "Talk — running a community archive",
+      "format": "IELTS Listening — Section 2 · Độc thoại đời thường",
+      "instructionsVi": "Nghe bài nói một chiều rồi trả lời 4 câu. Người nói dùng nhiều cách diễn đạt lại và một câu tự đính chính — dạng độc thoại không có ai hỏi lại nên phải bắt ngay.",
+      "promptEn": "Listen to the talk and answer the questions.",
+      "accent": "uk",
+      "transcript": [
+        {
+          "speaker": "Speaker",
+          "text": "Thanks for coming. I'm going to talk about how we set up the Barrow Lane community archive, and in particular about the mistakes, because those are more useful to you than the successes."
+        },
+        {
+          "speaker": "Speaker",
+          "text": "We started in 2018 with a simple aim: collect photographs of the street before the redevelopment. We expected a few hundred images. We have, at the last count, just over nineteen thousand."
+        },
+        {
+          "speaker": "Speaker",
+          "text": "The first mistake was cataloguing. We photographed everything quickly and intended to describe it later. Later never arrives. An image with no date, no name and no location is very nearly worthless — you cannot find it, so nobody uses it, so nobody adds to it."
+        },
+        {
+          "speaker": "Speaker",
+          "text": "The second was assuming that the people donating material would always be there to explain it. Two of our earliest and largest donors have since died. Whatever they knew about those photographs and did not write down is simply gone."
+        },
+        {
+          "speaker": "Speaker",
+          "text": "What worked — and I'd say this is the single thing I'd do first if I started again — was the listening sessions. We put twenty prints on a table in the community hall once a month and recorded whatever people said about them. Sorry, I should be accurate: it started as once a month, but it's been fortnightly since 2021 because demand was so high."
+        },
+        {
+          "speaker": "Speaker",
+          "text": "Those recordings are now more valuable than the photographs, and they only exist because someone happened to bring a recorder to the first session. That was luck, not planning, and I'd rather you planned it."
+        }
+      ],
+      "timeLimitSec": 280,
+      "questions": [
+        {
+          "id": "a1",
+          "kind": "short-answer",
+          "prompt": "Approximately how many images does the archive now hold? (A NUMBER)",
+          "answer": "19000",
+          "accepted": [
+            "19,000",
+            "nineteen thousand",
+            "just over 19000",
+            "19000+"
+          ],
+          "explanationVi": "'just over nineteen thousand'. Vài trăm là con số họ DỰ KIẾN ban đầu, không phải con số thật."
+        },
+        {
+          "id": "a2",
+          "kind": "mcq",
+          "prompt": "Why does the speaker say an undescribed image is nearly worthless?",
+          "options": [
+            {
+              "id": "a",
+              "text": "Because the image quality degrades over time"
+            },
+            {
+              "id": "b",
+              "text": "Because copyright cannot be established"
+            },
+            {
+              "id": "c",
+              "text": "Because it cannot be found, so it is never used or built on"
+            },
+            {
+              "id": "d",
+              "text": "Because donors will not accept it"
+            }
+          ],
+          "answer": "c",
+          "explanationVi": "'you cannot find it, so nobody uses it, so nobody adds to it' — chuỗi hệ quả này chính là lý do."
+        },
+        {
+          "id": "a3",
+          "kind": "short-answer",
+          "prompt": "How often are the listening sessions held now? (NO MORE THAN TWO WORDS)",
+          "answer": "fortnightly",
+          "accepted": [
+            "every two weeks",
+            "twice a month"
+          ],
+          "explanationVi": "Người nói tự đính chính: bắt đầu là mỗi tháng một lần nhưng 'it's been fortnightly since 2021'."
+        },
+        {
+          "id": "a4",
+          "kind": "mcq",
+          "prompt": "What does the speaker say about the recordings?",
+          "options": [
+            {
+              "id": "a",
+              "text": "They were planned from the start of the project."
+            },
+            {
+              "id": "b",
+              "text": "They are less useful than the photographs."
+            },
+            {
+              "id": "c",
+              "text": "They have been difficult to store."
+            },
+            {
+              "id": "d",
+              "text": "They came about by chance but are now the most valuable material."
+            }
+          ],
+          "answer": "d",
+          "explanationVi": "'more valuable than the photographs, and they only exist because someone happened to bring a recorder... That was luck, not planning'."
+        }
+      ]
+    },
+    {
+      "id": "listening-lecture-risk",
+      "skill": "listening",
+      "title": "Lecture — how people judge risk",
+      "format": "IELTS Listening — Section 4 · Bài giảng học thuật, không nghỉ giữa chừng",
+      "instructionsVi": "Nghe bài giảng rồi trả lời 4 câu. Section 4 chạy liền một mạch, mật độ thuật ngữ cao và mỗi thuật ngữ chỉ được định nghĩa một lần.",
+      "promptEn": "Listen to the lecture extract and answer the questions.",
+      "accent": "uk",
+      "transcript": [
+        {
+          "speaker": "Lecturer",
+          "text": "Public reaction to risk is often described as irrational. I want to argue that it is systematic, which is a different thing, and that once you know the system the reactions become predictable."
+        },
+        {
+          "speaker": "Lecturer",
+          "text": "Start with the availability heuristic. People estimate how likely an event is by how easily an example comes to mind. Because vivid events are covered more and remembered better, air accidents feel more probable than they are, while diseases that kill quietly are systematically underestimated."
+        },
+        {
+          "speaker": "Lecturer",
+          "text": "Then there is dread. Slovic's work in the seventies mapped perceived risk along two dimensions, and the stronger of the two was not probability at all. It was dread — whether a hazard is uncontrollable, catastrophic, involuntary and unfairly distributed. Radiation scores high on every one of those. Driving scores low on all four, which is why we accept a risk from driving that we would never accept from a power station."
+        },
+        {
+          "speaker": "Lecturer",
+          "text": "The third factor is trust, and it is the one institutions most often get wrong. If people do not trust the body issuing a reassurance, additional information does not reassure them. In several studies it made matters worse, because the effort put into reassurance was itself read as evidence that something was being concealed."
+        },
+        {
+          "speaker": "Lecturer",
+          "text": "The practical implication is uncomfortable for technical experts. Communicating numbers more clearly addresses only the first of these three factors. If the objection is about dread or about trust, better statistics are not a response to it at all."
+        }
+      ],
+      "timeLimitSec": 280,
+      "questions": [
+        {
+          "id": "r1",
+          "kind": "mcq",
+          "prompt": "What distinction does the lecturer draw at the start?",
+          "options": [
+            {
+              "id": "a",
+              "text": "Between reactions being irrational and being systematic"
+            },
+            {
+              "id": "b",
+              "text": "Between risk and uncertainty"
+            },
+            {
+              "id": "c",
+              "text": "Between public and expert opinion"
+            },
+            {
+              "id": "d",
+              "text": "Between rare and common hazards"
+            }
+          ],
+          "answer": "a",
+          "explanationVi": "'often described as irrational. I want to argue that it is systematic, which is a different thing'."
+        },
+        {
+          "id": "r2",
+          "kind": "mcq",
+          "prompt": "According to the availability heuristic, why do air accidents feel more likely than they are?",
+          "options": [
+            {
+              "id": "a",
+              "text": "Because they are genuinely increasing"
+            },
+            {
+              "id": "b",
+              "text": "Because examples come to mind easily"
+            },
+            {
+              "id": "c",
+              "text": "Because passengers have no control"
+            },
+            {
+              "id": "d",
+              "text": "Because airlines conceal data"
+            }
+          ],
+          "answer": "b",
+          "explanationVi": "'People estimate how likely an event is by how easily an example comes to mind'. Đáp án C thuộc yếu tố 'dread', không phải heuristic này."
+        },
+        {
+          "id": "r3",
+          "kind": "short-answer",
+          "prompt": "Which factor did Slovic find stronger than probability? (ONE WORD)",
+          "answer": "dread",
+          "explanationVi": "'the stronger of the two was not probability at all. It was dread'."
+        },
+        {
+          "id": "r4",
+          "kind": "mcq",
+          "prompt": "Why can additional information sometimes make things worse?",
+          "options": [
+            {
+              "id": "a",
+              "text": "Because the public cannot understand statistics"
+            },
+            {
+              "id": "b",
+              "text": "Because it contradicts earlier statements"
+            },
+            {
+              "id": "c",
+              "text": "Because it increases the perceived probability"
+            },
+            {
+              "id": "d",
+              "text": "Because the effort to reassure is read as concealment"
+            }
+          ],
+          "answer": "d",
+          "explanationVi": "'the effort put into reassurance was itself read as evidence that something was being concealed'. Điều kiện đi kèm là người dân không tin cơ quan phát ngôn."
+        }
+      ]
+    },
+    {
+      "id": "writing-task1-maps",
+      "skill": "writing",
+      "title": "Task 1 — Changes to a hospital site, 1990 and 2024",
+      "format": "IELTS Academic Writing — Task 1 · 20 phút, tối thiểu 150 từ",
+      "instructionsVi": "Viết 150–200 từ. Dạng bản đồ đòi hỏi ngôn ngữ vị trí và thì quá khứ đối chiếu hiện tại. Nhiều thí sinh band 7 mất điểm ở đây vì chỉ liệt kê thay đổi mà không nêu xu hướng chung.",
+      "promptEn": "The two maps below show the Ashfield Hospital site in 1990 and in 2024. Summarise the information by selecting and reporting the main features, and make comparisons where relevant.\n\n1990: A single four-storey ward block occupies the centre. To its north, a large surface car park. To the west, a boiler house and laundry. To the east, open lawn with mature trees. A single entrance from Ashfield Road on the south side. Total built footprint: about 35% of the site.\n\n2024: The ward block remains but has been extended eastwards into part of the former lawn. The boiler house and laundry have been demolished; a three-storey outpatient centre stands in their place. The surface car park has been replaced by a multi-storey car park occupying half its former area, with the remainder now a landscaped garden. A second entrance has been added on the north side. Total built footprint: about 55% of the site.",
+      "timeLimitSec": 1200,
+      "minWords": 150,
+      "maxWords": 200,
+      "sampleAnswer": "The two maps illustrate how the Ashfield Hospital site was redeveloped between 1990 and 2024.\n\nOverall, the site became considerably more built up, with the proportion covered by buildings rising from roughly a third to over a half. The most striking change is that development moved upwards rather than outwards: parking and services were consolidated into taller structures, releasing ground for a garden and for an extension to the main block.\n\nIn 1990 a four-storey ward block stood at the centre, with a surface car park to the north, a boiler house and laundry to the west, and open lawn with mature trees to the east. Access was from Ashfield Road to the south only.\n\nBy 2024 the ward block had been retained but extended eastwards over part of the former lawn. The boiler house and laundry had been demolished and replaced by a three-storey outpatient centre. The surface car park had given way to a multi-storey structure covering half the previous area, the remainder becoming landscaped garden, and a second entrance had been opened to the north.",
+      "rubricVi": [
+        "Câu tổng quan phải nêu xu hướng bao trùm — phát triển theo chiều cao thay vì chiều rộng — chứ không chỉ nói 'có nhiều thay đổi'. Đây là chỗ tách band 7 khỏi band 8.",
+        "Dùng ngôn ngữ vị trí chính xác: to the north, eastwards, in its place, the remainder. Thiếu mảng từ này là mất điểm Lexical Resource ở dạng bản đồ.",
+        "Thì phải đúng: quá khứ đơn cho mốc 1990, quá khứ hoàn thành cho những gì đã xảy ra tính đến 2024 ('had been demolished').",
+        "Nêu được con số tỉ lệ xây dựng (35% → 55%) để định lượng thay đổi, thay vì chỉ mô tả định tính.",
+        "Không suy đoán lý do bệnh viện cải tạo. Task 1 chỉ mô tả những gì bản đồ cho thấy."
+      ]
+    },
+    {
+      "id": "writing-task2-expertise",
+      "skill": "writing",
+      "title": "Task 2 — Experts and public decisions",
+      "format": "IELTS Academic Writing — Task 2 · 40 phút, tối thiểu 250 từ, chiếm 2/3 điểm Writing",
+      "instructionsVi": "Viết 250–320 từ. Đề dạng 'to what extent do you agree' đòi hỏi nêu MỨC ĐỘ đồng ý, không phải đồng ý hay không. Trả lời nhị phân ở dạng này sẽ bị giới hạn điểm Task Response.",
+      "promptEn": "Some people believe that important decisions affecting society should be made by experts rather than by elected politicians.\n\nTo what extent do you agree or disagree?",
+      "timeLimitSec": 2400,
+      "minWords": 250,
+      "maxWords": 320,
+      "sampleAnswer": "The case for expert decision-making rests on a real observation: many public questions have technical components that most voters, and most politicians, are not equipped to evaluate. I agree with that observation, but only partially with the conclusion drawn from it, because it conflates two kinds of question that need separating.\n\nTechnical questions have answers that expertise can supply. Whether a bridge design will carry a given load, or whether a drug reduces mortality, are matters where the informed judgement of specialists is simply better than public opinion, and treating them as open to vote produces worse bridges and worse medicine. To this extent the argument is sound, and the institutional expression of it — independent regulators, central banks, medical licensing bodies — is largely uncontroversial.\n\nThe difficulty is that few real decisions are purely technical. A question such as how much to spend on flood defence, and which areas to protect first, contains a technical element that engineers can settle and a distributional element that they cannot. Deciding whose homes are defended and whose are not is a judgement about whose interests count, and there is no expertise that generates an answer to it. Handing such decisions to specialists does not remove the value judgement; it relocates it to people who were not chosen for it and cannot be removed for making it badly.\n\nMy position is therefore that expertise should be decisive on questions of fact and mechanism, and advisory on questions of priority. The strongest argument for elected decision-makers is not that they know more, because they generally know less. It is that a decision about competing interests requires a legitimacy that technical competence cannot confer, and that the people affected must retain some means of reversing it.",
+      "rubricVi": [
+        "Trả lời rõ MỨC ĐỘ đồng ý ngay mở bài ('partially', 'to a limited extent'), rồi giữ nhất quán. Trả lời hoàn toàn đồng ý hoặc hoàn toàn phản đối ở đề này thường bị chấm là đơn giản hoá.",
+        "Phân tách khái niệm là kỹ thuật ăn điểm cao nhất: tách câu hỏi kỹ thuật khỏi câu hỏi phân bổ lợi ích. Bài chỉ liệt kê ưu nhược sẽ không lên được band 8.",
+        "Ví dụ phải cụ thể và có chức năng lập luận (đê chắn lũ, ngân hàng trung ương), không phải ví dụ trang trí.",
+        "Kết bài đưa ra lập trường có điều kiện rõ ràng — quyết định ở đâu, tư vấn ở đâu — thay vì tóm tắt lại thân bài.",
+        "Đủ 250 từ, ngữ pháp phức tạp nhưng chính xác. Ở band 8, một lỗi ngữ pháp gây hiểu nhầm tốn kém hơn nhiều so với một câu đơn giản mà đúng."
+      ]
+    },
+    {
+      "id": "speaking-part1-work",
+      "skill": "speaking",
+      "title": "Part 1 — Work, learning and change",
+      "format": "IELTS Speaking — Part 1 · Introduction and interview, 4–5 phút",
+      "instructionsVi": "Trả lời từng câu 2–3 câu, không chuẩn bị trước. Part 1 chấm phản xạ và sự tự nhiên; ở band 8 điểm khác biệt nằm ở chỗ câu trả lời vẫn ngắn nhưng ngôn ngữ chính xác và có sắc thái.",
+      "promptEn": "Answer each question in two or three sentences.\n1. What do you do for a living?\n2. What part of your work do you find most demanding?\n3. Have you learned anything useful recently outside of work?\n4. Do you prefer working to a fixed routine or varying your day?\n5. How has the way you work changed since you started?",
+      "timeLimitSec": 300,
+      "preparationSec": 0,
+      "sampleAnswer": "1. I work in public health, specifically on programme evaluation — essentially working out whether the interventions we fund actually do what they were meant to do.\n\n2. Probably delivering findings people don't want. If an evaluation shows a popular programme isn't working, the analysis is the easy half; the difficult half is presenting it in a way that gets acted on rather than filed away.\n\n3. I've been teaching myself a bit of Spanish, mostly badly. What's been genuinely useful, though, is that it's reminded me what it's like to be a beginner, which I think makes me less impatient with people learning our systems at work.\n\n4. A loose routine, I'd say. I keep mornings fixed for anything analytical because that's when I'm sharp, and leave the afternoons open. Total unpredictability I find exhausting; total repetition I find deadening.\n\n5. Enormously, though less in the tools than in the questions. When I started I was mostly asked whether a programme had been delivered. Now I'm asked whether it should have been, which is a harder question and, I think, a better one.",
+      "rubricVi": [
+        "Ở band 8, Part 1 vẫn ngắn nhưng phải chính xác. Câu trả lời dài dòng ở phần này thể hiện không nắm được đăng ký ngôn ngữ của từng Part.",
+        "Dùng cấu trúc đối lập gọn: 'the analysis is the easy half; the difficult half is...'. Đây là dấu hiệu ngôn ngữ tự nhiên rõ nhất.",
+        "Câu hỏi về thay đổi buộc dùng hiện tại hoàn thành và quá khứ đối chiếu. Đây là điểm ngữ pháp Part 1 luôn kiểm tra.",
+        "Được phép tự trào ('mostly badly'). Giọng điệu tự nhiên nâng ấn tượng chung nhiều hơn người học tưởng.",
+        "Không chuẩn bị và không học thuộc. Ở band 8 giám khảo sẽ hỏi vặn ngay nếu nghi bài đã soạn sẵn."
+      ]
+    },
+    {
+      "id": "speaking-part2-disagreement",
+      "skill": "speaking",
+      "title": "Part 2 — A time you changed your mind about something",
+      "format": "IELTS Speaking — Part 2 · Long turn, 1 phút chuẩn bị, 1–2 phút nói",
+      "instructionsVi": "Chuẩn bị 1 phút rồi nói liên tục 2 phút. Đề buộc kể chuyện có mốc thời gian rõ và kết bằng đánh giá — cần cả thì quá khứ, hiện tại hoàn thành lẫn câu điều kiện.",
+      "promptEn": "Describe a time when you changed your mind about something important. You should say:\n- what the issue was\n- what you originally thought\n- what made you reconsider\n\nand explain whether you think you were right to change your view.",
+      "timeLimitSec": 120,
+      "preparationSec": 60,
+      "sampleAnswer": "The clearest example I can think of is my view on remote working, which I got almost entirely wrong for about two years.\n\nWhen my organisation first moved to a hybrid model I argued against it fairly loudly. My reasoning was that the informal side of the work — the conversation on the way back from a meeting, someone overhearing a problem and offering a solution — was where most of the useful things actually happened, and that none of it survives a calendar invite. I still think that observation was correct.\n\nWhat made me reconsider was noticing who was defending the old arrangement, and it was almost entirely people like me: no caring responsibilities, a short commute, a quiet place to work at home if needed. Colleagues with young children or a two-hour journey had a completely different account, and their productivity hadn't fallen, which was the thing I'd been most confident about.\n\nSo I'd say I was right to change, though not because my original argument was wrong. It's more that I'd generalised from a position I happened to occupy without noticing that I was doing it. If anything, that's the part I've found most useful since — not the conclusion about remote work, but catching myself doing the same thing in other arguments.",
+      "rubricVi": [
+        "Dùng dải thì rộng: quá khứ đơn, quá khứ hoàn thành ('their productivity hadn't fallen'), hiện tại hoàn thành ('I've found'), điều kiện. Đây là bằng chứng Grammatical Range ở band 8.",
+        "Trả lời cả bốn ý, nhất là ý đánh giá cuối cùng. Ở band 8, câu trả lời nên tinh tế: đúng khi đổi ý nhưng không phải vì lập luận cũ sai.",
+        "Chi tiết cụ thể và có sức nặng lập luận, không phải chi tiết trang trí.",
+        "Nói liền mạch 2 phút với nhịp tự nhiên, được phép ngừng ngắn để chọn từ.",
+        "Kết bằng một nhận thức rộng hơn câu chuyện (nhận ra mình khái quát hoá từ vị trí cá nhân). Đây là thứ nâng bài lên trên mức kể chuyện đơn thuần."
+      ]
+    },
+    {
+      "id": "speaking-part3-authority",
+      "skill": "speaking",
+      "title": "Part 3 — Discussion: expertise, trust and decisions",
+      "format": "IELTS Speaking — Part 3 · Two-way discussion, 4–5 phút",
+      "instructionsVi": "Trả lời mỗi câu 4–6 câu. Ở band 8 giám khảo sẽ phản biện trực tiếp; hãy bảo vệ lập luận hoặc điều chỉnh có lý do, đừng đổi ý chỉ vì bị hỏi lại.",
+      "promptEn": "Answer each question in turn.\n1. Why do people sometimes distrust experts?\n2. Should governments be required to follow expert advice?\n3. Some argue that ordinary people now have access to the same information as experts, so expertise matters less than it did. How would you respond to that?",
+      "timeLimitSec": 330,
+      "preparationSec": 0,
+      "sampleAnswer": "1. I'd separate two things that get merged. Some distrust is about competence — experts have been confidently wrong in public, and people remember it. But much more of it is about interest: a suspicion that the person giving advice benefits from the advice being taken. That second kind is far harder to address, because producing more evidence doesn't touch it at all; if anything it can deepen the suspicion.\n\n2. Required, no — advised by, yes, and required to explain themselves when they depart from it. The reason I'd stop short of a requirement is that expert advice is usually specific to one dimension of a problem, and governments have to weigh dimensions against each other. A public health body optimising for infection will give different advice from an education body optimising for lost schooling, and someone has to make the trade-off. What I would require is transparency: publish the advice, publish the decision, and make the gap between them visible.\n\n3. I'd push back on the premise. Access to information isn't the scarce thing, and arguably never was — what expertise supplies is the ability to judge which information is worth attending to. Reading twenty papers is only useful if you can tell which three are methodologically sound, and that judgement takes years to build and doesn't transfer well between fields. If anything, abundant information raises the value of that filtering rather than lowering it. Where I'd concede ground is that expertise has become worse at explaining itself, and that's a genuine failing rather than a public misunderstanding.",
+      "rubricVi": [
+        "Với câu 3, phản bác tiền đề của câu hỏi là cách trả lời band 8 ('I'd push back on the premise'). Chấp nhận tiền đề sai rồi trả lời sẽ giới hạn điểm.",
+        "Mỗi câu trả lời phải có ít nhất một chỗ phân tách khái niệm hoặc nhượng bộ có kiểm soát ('Where I'd concede ground is...').",
+        "Trả lời câu 2 bằng cách định nghĩa lại mức độ ('Required, no — advised by, yes') thay vì chọn có hoặc không.",
+        "Ngôn ngữ trừu tượng chính xác: interest, trade-off, transparency, methodologically sound. Dùng đúng chỗ chứ không nhồi.",
+        "Giữ lập trường khi bị vặn. Điều chỉnh phải kèm lý do, nếu không giám khảo sẽ đọc là bạn không thật sự có quan điểm."
+      ]
+    }
+  ]
+}

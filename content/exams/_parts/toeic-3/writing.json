@@ -1,0 +1,40 @@
+[
+  {
+    "id": "writing-respond-supplier",
+    "skill": "writing",
+    "title": "Writing Q6–7 — Respond to a written request",
+    "format": "TOEIC Writing — Respond to a Written Request · 10 phút, email đàm phán",
+    "instructionsVi": "Viết 70–140 từ. Ở mức này đề yêu cầu vừa từ chối một phần vừa giữ quan hệ. Phải làm đủ ba việc mà không nghe cứng nhắc hay nhượng bộ hết.",
+    "promptEn": "Read the email below and respond.\n\nFrom: Yusuf Kaya, Procurement Manager, Delta Manufacturing\nTo: Sales, Northline Components\nSubject: Price increase notification\n\nWe received your letter advising a 9% price increase from January. Given that we have ordered from you for six years and our volumes rose 20% last year, we consider this increase difficult to accept. Please explain the reason for it and tell us what flexibility is available.\n\n---\n\nDIRECTIONS: Respond as the sales representative. In your reply, explain ONE reason for the increase, offer ONE form of flexibility, and ask ONE question.",
+    "timeLimitSec": 600,
+    "minWords": 70,
+    "maxWords": 140,
+    "sampleAnswer": "Dear Mr Kaya,\n\nThank you for writing, and I appreciate the length of our working relationship.\n\nThe increase reflects the cost of raw copper, which has risen by more than twenty per cent since last January. We have absorbed that cost for three quarters and can no longer do so without affecting the quality standards you rely on.\n\nI can, however, offer some flexibility. Given your increased volumes, I am able to apply a tiered rate: orders above 5,000 units would be charged at a 4% increase rather than 9%, which for your current pattern would reduce the overall effect considerably.\n\nCould you tell me whether you expect your volumes to remain at last year's level in the coming year? If so, I can prepare a firm twelve-month quotation on that basis.\n\nBest regards,\nLena Fischer\nNorthline Components",
+    "rubricVi": [
+      "Làm đủ ba việc: nêu MỘT lý do, đưa MỘT hình thức linh hoạt, hỏi MỘT câu. Đây vẫn là tiêu chí chấm số một.",
+      "Lý do phải cụ thể và kiểm chứng được (giá đồng tăng hơn 20%), không nói chung chung 'chi phí tăng'.",
+      "Hình thức linh hoạt phải là nhượng bộ THẬT, có con số. Nói 'chúng tôi sẽ xem xét' không tính là nhượng bộ.",
+      "Ghi nhận quan hệ lâu năm mà khách nêu ra. Bỏ qua chi tiết khách đưa là lỗi nội dung.",
+      "Giữ giọng chuyên nghiệp, không xin lỗi quá mức cũng không phòng thủ. 70–140 từ là vừa."
+    ]
+  },
+  {
+    "id": "writing-opinion-training",
+    "skill": "writing",
+    "title": "Writing Q8 — Write an opinion essay",
+    "format": "TOEIC Writing — Opinion Essay · 30 phút, tối thiểu 300 từ",
+    "instructionsVi": "Viết 300–380 từ. Đề ở mức này có hai vế đối lập cụ thể, nên bài phải so sánh trực tiếp chứ không chỉ ca ngợi một bên. Vẫn giữ cấu trúc rõ ràng kiểu TOEIC.",
+    "promptEn": "Do you agree or disagree with the following statement?\n\n'When a company must reduce costs, it is better to cut spending on marketing than to reduce the number of employees.'\n\nUse specific reasons and examples to support your answer.",
+    "timeLimitSec": 1800,
+    "minWords": 300,
+    "maxWords": 380,
+    "sampleAnswer": "I agree that a company facing cost pressure should reduce marketing spending before reducing staff numbers. I hold this view for three reasons: marketing cuts are reversible, staff cuts damage capability, and redundancies carry hidden costs that are often underestimated.\n\nFirst, a marketing budget can be reduced and restored quickly. If a company suspends an advertising campaign for two quarters and conditions improve, it can restart almost immediately. Rebuilding a team is entirely different. A colleague of mine worked for a software firm that cut its support department by a third during a downturn; when demand recovered eight months later, hiring and training replacements took nearly a year, and the company lost two major clients in the meantime because response times had collapsed.\n\nSecond, employees carry knowledge that does not exist anywhere else. Marketing materials can be recreated from files, but an experienced technician's understanding of which machines fail in which conditions is not written down. When that person leaves, the company does not simply lose one worker; it loses the accumulated judgement that made the work efficient. This is especially damaging in small firms, where a single person may be the only one who understands a particular process.\n\nThird, redundancies are more expensive than they appear. There are severance payments, legal costs, and a measurable fall in productivity among the staff who remain, because people who fear losing their jobs spend a considerable amount of time worrying about it. Several studies have found that output drops for months after a redundancy programme, which partly cancels the intended saving.\n\nI would add one qualification. If a company's marketing is genuinely generating more revenue than it costs, cutting it will worsen the financial position rather than improve it. In that situation the correct response is to cut elsewhere.\n\nIn conclusion, I believe reducing marketing is usually the better first step, because it is reversible, it preserves capability, and it avoids costs that redundancy programmes tend to hide.",
+    "rubricVi": [
+      "So sánh TRỰC TIẾP hai phương án mà đề nêu. Bài chỉ nói 'cắt nhân sự là xấu' mà không nhắc marketing là chưa trả lời đúng đề.",
+      "Đúng ba lý do, mỗi lý do một đoạn, mỗi đoạn có ví dụ cụ thể có chi tiết định lượng.",
+      "Nêu một điều kiện giới hạn cho lập trường của mình. Ở mức 800, bài một chiều hoàn toàn bị đánh giá là thiếu chín chắn.",
+      "Từ nối rõ ràng và câu chủ đề đứng đầu mỗi đoạn. TOEIC chấm cấu trúc chặt hơn IELTS.",
+      "Đủ 300 từ, kết bài nhắc lại đủ ba lý do bằng cách diễn đạt khác, không chép lại nguyên câu mở bài."
+    ]
+  }
+]

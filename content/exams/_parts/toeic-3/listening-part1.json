@@ -1,0 +1,190 @@
+[
+  {
+    "id": "listening-part1-photographs",
+    "skill": "listening",
+    "title": "Part 1 — Photographs",
+    "format": "TOEIC Listening — Part 1 · Photographs, 6 câu, bốn lựa chọn, chỉ nghe không có chữ",
+    "instructionsVi": "Ở mục tiêu 800, các phương án sai dùng từ vựng ít gặp và mô tả đúng một phần bức ảnh. Phân biệt được đòi hỏi nghe rõ cả động từ lẫn giới từ chỉ vị trí.",
+    "promptEn": "Look at each photograph and listen to the four statements. Select the statement that best describes what you see.\n\nPHOTO 1: A florist's shop. Buckets of cut flowers stand on the pavement outside. Inside the doorway, a woman is wrapping a bouquet in paper. No customer is visible.\n\nPHOTO 2: A rooftop with solar panels. Two technicians kneel beside one panel; one holds a tablet, the other is tightening a bracket with a spanner. Cables run along the roof edge.\n\nPHOTO 3: A hospital corridor. A trolley loaded with linen has been left against the wall. A sign on a stand reads 'Wet floor'. Nobody is walking through.\n\nPHOTO 4: A busy bakery counter seen from the customer's side. Behind the glass, trays of bread are stacked three high. An assistant reaches into the display with tongs.\n\nPHOTO 5: A conference registration desk. Name badges are laid out in rows on the table. Two staff members stand behind it, one checking a list, the other looking towards the entrance.\n\nPHOTO 6: A riverside path. A bench faces the water. On the bench, a folded newspaper and a coffee cup have been left; no one is sitting down.",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "Photo 1",
+        "text": "(A) She's watering the flowers. (B) Flowers are being delivered. (C) She's wrapping a bouquet. (D) A customer is paying at the counter."
+      },
+      {
+        "speaker": "Photo 2",
+        "text": "(A) Panels are being installed on the ground. (B) One of the technicians is tightening a bracket. (C) They're rolling up the cables. (D) The roof is being cleaned."
+      },
+      {
+        "speaker": "Photo 3",
+        "text": "(A) A trolley is being pushed along the corridor. (B) The floor is being mopped. (C) A trolley has been left against the wall. (D) Patients are queuing in the corridor."
+      },
+      {
+        "speaker": "Photo 4",
+        "text": "(A) The display case is empty. (B) An assistant is reaching into the display. (C) Bread is being taken out of an oven. (D) Customers are being served coffee."
+      },
+      {
+        "speaker": "Photo 5",
+        "text": "(A) Delegates are collecting their badges. (B) Badges have been arranged on the table. (C) The desk is being assembled. (D) A list is being printed."
+      },
+      {
+        "speaker": "Photo 6",
+        "text": "(A) Someone is reading on the bench. (B) The bench is being repainted. (C) Items have been left on a bench. (D) A cup is being filled."
+      }
+    ],
+    "timeLimitSec": 180,
+    "questions": [
+      {
+        "id": "p1-1",
+        "kind": "mcq",
+        "prompt": "Photo 1",
+        "options": [
+          {
+            "id": "a",
+            "text": "She's wrapping a bouquet."
+          },
+          {
+            "id": "b",
+            "text": "She's watering the flowers."
+          },
+          {
+            "id": "c",
+            "text": "Flowers are being delivered."
+          },
+          {
+            "id": "d",
+            "text": "A customer is paying at the counter."
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "Ảnh ghi rõ không có khách nào, nên (D) loại. Hoa đứng sẵn trong xô, không ai đang giao — (C) là bẫy dùng đúng chủ đề nhưng sai hành động."
+      },
+      {
+        "id": "p1-2",
+        "kind": "mcq",
+        "prompt": "Photo 2",
+        "options": [
+          {
+            "id": "a",
+            "text": "Panels are being installed on the ground."
+          },
+          {
+            "id": "b",
+            "text": "They're rolling up the cables."
+          },
+          {
+            "id": "c",
+            "text": "The roof is being cleaned."
+          },
+          {
+            "id": "d",
+            "text": "One of the technicians is tightening a bracket."
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "Cáp CHẠY dọc mép mái, không ai cuộn lại. (A) sai ở giới từ vị trí: công việc diễn ra trên mái, không phải dưới đất."
+      },
+      {
+        "id": "p1-3",
+        "kind": "mcq",
+        "prompt": "Photo 3",
+        "options": [
+          {
+            "id": "a",
+            "text": "A trolley is being pushed along the corridor."
+          },
+          {
+            "id": "b",
+            "text": "The floor is being mopped."
+          },
+          {
+            "id": "c",
+            "text": "A trolley has been left against the wall."
+          },
+          {
+            "id": "d",
+            "text": "Patients are queuing in the corridor."
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "Không có ai trong hành lang, nên mọi phương án bị động tiếp diễn đều sai. Biển 'Wet floor' không có nghĩa là đang có người lau — (B) là bẫy suy diễn."
+      },
+      {
+        "id": "p1-4",
+        "kind": "mcq",
+        "prompt": "Photo 4",
+        "options": [
+          {
+            "id": "a",
+            "text": "The display case is empty."
+          },
+          {
+            "id": "b",
+            "text": "An assistant is reaching into the display."
+          },
+          {
+            "id": "c",
+            "text": "Bread is being taken out of an oven."
+          },
+          {
+            "id": "d",
+            "text": "Customers are being served coffee."
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "(A) trái với ảnh (bánh xếp ba tầng). (C) đổi 'display' thành 'oven' — bẫy đổi địa điểm trong cùng bối cảnh."
+      },
+      {
+        "id": "p1-5",
+        "kind": "mcq",
+        "prompt": "Photo 5",
+        "options": [
+          {
+            "id": "a",
+            "text": "Delegates are collecting their badges."
+          },
+          {
+            "id": "b",
+            "text": "The desk is being assembled."
+          },
+          {
+            "id": "c",
+            "text": "A list is being printed."
+          },
+          {
+            "id": "d",
+            "text": "Badges have been arranged on the table."
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "Thẻ tên đã bày sẵn thành hàng, chưa ai tới lấy. Nhân viên đang KIỂM TRA danh sách chứ không in — (C) sai động từ."
+      },
+      {
+        "id": "p1-6",
+        "kind": "mcq",
+        "prompt": "Photo 6",
+        "options": [
+          {
+            "id": "a",
+            "text": "Someone is reading on the bench."
+          },
+          {
+            "id": "b",
+            "text": "Items have been left on a bench."
+          },
+          {
+            "id": "c",
+            "text": "The bench is being repainted."
+          },
+          {
+            "id": "d",
+            "text": "A cup is being filled."
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "Báo đã GẤP và không có ai ngồi, nên (A) loại. Ảnh không người thì đáp án gần như luôn ở hoàn thành bị động."
+      }
+    ]
+  }
+]

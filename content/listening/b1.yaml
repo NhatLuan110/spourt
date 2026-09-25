@@ -1,0 +1,1150 @@
+# Bài nghe B1 — tốc độ tự nhiên, có thông tin cần suy luận.
+cefr: B1
+tracks:
+  - slug: a-voicemail-about-a-deadline
+    title: A Voicemail About a Deadline
+    titleVi: Tin nhắn thoại về hạn nộp
+    topic: work
+    accent: US
+    format: monologue
+    speakerCount: 1
+    glossary: [deadline, colleague, agenda, attach, workload, schedule, invoice]
+    segments:
+      - speaker: Linh
+        text: Hi Duc, it's Linh. Sorry to call so late on a Friday.
+        vi: Chào Đức, Linh đây. Xin lỗi vì gọi muộn vào tối thứ Sáu.
+      - speaker: Linh
+        text: I wanted to catch you before the weekend about the Nguyen account.
+        vi: Mình muốn nói với bạn về khách hàng Nguyễn trước khi nghỉ cuối tuần.
+      - speaker: Linh
+        text: The client moved the deadline forward. It's now Wednesday morning, not Friday.
+        vi: Khách đã dời hạn lên sớm hơn. Bây giờ là sáng thứ Tư, không phải thứ Sáu nữa.
+      - speaker: Linh
+        text: I know that sounds bad, but I think it's manageable if we change the order of things.
+        vi: Mình biết nghe có vẻ tệ, nhưng mình nghĩ vẫn xoay được nếu đổi thứ tự công việc.
+      - speaker: Linh
+        text: The design review was scheduled for Tuesday. Could we move that to Monday afternoon instead?
+        vi: Buổi duyệt thiết kế đang xếp vào thứ Ba. Mình dời sang chiều thứ Hai được không?
+      - speaker: Linh
+        text: That leaves all of Tuesday for the final numbers, which is the part that always takes longer than we expect.
+        vi: Như vậy cả ngày thứ Ba dành cho phần số liệu cuối, phần luôn tốn thời gian hơn mình tưởng.
+      - speaker: Linh
+        text: I've attached the revised agenda to an email, so have a look when you get a chance.
+        vi: Mình đã đính kèm chương trình họp đã sửa vào email, khi nào rảnh bạn xem nhé.
+      - speaker: Linh
+        text: One more thing. Don't worry about the invoice from the printers. I've already dealt with it.
+        vi: Còn một việc nữa. Bạn đừng lo hoá đơn của nhà in. Mình xử lý xong rồi.
+      - speaker: Linh
+        text: Anyway, enjoy your weekend. Call me Monday morning if the new plan doesn't work for you.
+        vi: Thôi, chúc bạn cuối tuần vui vẻ. Sáng thứ Hai gọi mình nếu kế hoạch mới không hợp với bạn nhé.
+    dictation: [3, 6, 8]
+    questions:
+      - type: MCQ
+        prompt: What has changed about the deadline?
+        options:
+          - It has moved earlier, from Friday to Wednesday
+          - It has moved later, from Wednesday to Friday
+          - It has been cancelled by the client
+          - It is now Monday afternoon
+        answer: It has moved earlier, from Friday to Wednesday
+        explanationVi: "\"It's now Wednesday morning, not Friday\" — hạn được dời lên sớm hơn."
+      - type: MCQ
+        prompt: What does Linh want to move to Monday afternoon?
+        options: [The design review, The final numbers, The client call, The invoice]
+        answer: The design review
+        explanationVi: "\"The design review was scheduled for Tuesday. Could we move that
+          to Monday afternoon instead?\""
+      - type: MCQ
+        prompt: Why does Linh want the whole of Tuesday free?
+        options:
+          - The final numbers always take longer than expected
+          - The client visits the office on Tuesday
+          - The printers deliver on Tuesday
+          - She is out of the office on Wednesday
+        answer: The final numbers always take longer than expected
+        explanationVi: "Cô nói phần số liệu cuối \"always takes longer than we expect\"."
+      - type: TRUE_FALSE
+        prompt: Đúng hay sai theo tin nhắn?
+        statement: Duc still needs to handle the invoice from the printers.
+        answer: false
+        explanationVi: "Sai. Linh nói \"Don't worry about the invoice ... I've already
+          dealt with it.\""
+      - type: TRUE_FALSE
+        prompt: Đúng hay sai theo tin nhắn?
+        statement: Linh sent the revised agenda by email.
+        answer: true
+        explanationVi: "Đúng. \"I've attached the revised agenda to an email.\""
+      - type: SHORT_ANSWER
+        prompt: When does Linh ask Duc to call her if the plan does not work?
+        accept: ["Monday morning", "on Monday morning", "Monday"]
+        explanationVi: "\"Call me Monday morning if the new plan doesn't work for you.\""
+
+  - slug: a-doctors-appointment
+    title: A Doctor's Appointment
+    titleVi: Buổi khám bệnh
+    topic: health
+    accent: UK
+    format: dialogue
+    speakerCount: 2
+    glossary: [symptom, prescription, appointment, infection, recover, painkiller, diagnose]
+    segments:
+      - speaker: Doctor
+        text: Come in and take a seat. What seems to be the trouble?
+        vi: Mời anh vào ngồi. Anh thấy trong người thế nào?
+      - speaker: Patient
+        text: I've had a sore throat for about a week, and since Tuesday I've had a temperature as well.
+        vi: Tôi đau họng khoảng một tuần rồi, và từ thứ Ba thì bị sốt nữa.
+      - speaker: Doctor
+        text: Any cough? Any difficulty swallowing?
+        vi: Anh có ho không? Nuốt có khó không?
+      - speaker: Patient
+        text: A little cough at night. Swallowing is uncomfortable but not painful.
+        vi: Ban đêm ho một chút. Nuốt thì hơi khó chịu nhưng không đau.
+      - speaker: Doctor
+        text: Let me have a look. Open wide for me. Yes, it's quite red, but there's no infection I can see.
+        vi: Để tôi xem nào. Anh há to giúp tôi. Đúng là khá đỏ, nhưng tôi không thấy dấu hiệu nhiễm khuẩn.
+      - speaker: Patient
+        text: So I don't need antibiotics?
+        vi: Vậy tôi không cần kháng sinh phải không ạ?
+      - speaker: Doctor
+        text: No, and they wouldn't help. This looks viral, which means your body will clear it on its own.
+        vi: Không, và kháng sinh cũng không giúp gì. Trường hợp này có vẻ do virus, cơ thể anh sẽ tự khỏi.
+      - speaker: Patient
+        text: How long should it take?
+        vi: Bao lâu thì khỏi ạ?
+      - speaker: Doctor
+        text: Most people recover within ten days. I'll write you a prescription for a stronger painkiller so you can sleep.
+        vi: Phần lớn khỏi trong vòng mười ngày. Tôi sẽ kê cho anh một loại giảm đau mạnh hơn để anh ngủ được.
+      - speaker: Doctor
+        text: But come back if the temperature is still there on Friday, or if it goes above thirty-nine.
+        vi: Nhưng nếu thứ Sáu vẫn còn sốt, hoặc sốt trên ba mươi chín độ, thì anh quay lại nhé.
+      - speaker: Patient
+        text: Right. Should I stay off work?
+        vi: Vâng ạ. Tôi có nên nghỉ làm không?
+      - speaker: Doctor
+        text: Two or three days would be sensible, mostly so you don't pass it around the office.
+        vi: Nghỉ hai ba ngày là hợp lý, chủ yếu để anh không lây cho cả văn phòng.
+    dictation: [2, 7, 10]
+    questions:
+      - type: MCQ
+        prompt: Why does the doctor say antibiotics are not needed?
+        options:
+          - The illness appears to be viral
+          - The patient is allergic to them
+          - The pharmacy has run out
+          - The symptoms are too mild to treat
+        answer: The illness appears to be viral
+        explanationVi: "\"This looks viral, which means your body will clear it on its
+          own\" — kháng sinh không có tác dụng với virus."
+      - type: MCQ
+        prompt: What does the doctor prescribe?
+        options: [A stronger painkiller, Antibiotics, A cough syrup, Nothing at all]
+        answer: A stronger painkiller
+        explanationVi: "\"I'll write you a prescription for a stronger painkiller so you
+          can sleep.\""
+      - type: MCQ
+        prompt: What is the doctor's main reason for suggesting time off work?
+        options:
+          - To avoid infecting colleagues
+          - Because the patient cannot walk
+          - Because the medicine causes drowsiness
+          - To allow time for more tests
+        answer: To avoid infecting colleagues
+        explanationVi: "\"mostly so you don't pass it around the office\" — chủ yếu để
+          không lây cho đồng nghiệp."
+      - type: TRUE_FALSE
+        prompt: Đúng hay sai theo đoạn hội thoại?
+        statement: The patient has had a temperature for a full week.
+        answer: false
+        explanationVi: "Sai. Đau họng một tuần, nhưng sốt chỉ từ thứ Ba."
+      - type: TRUE_FALSE
+        prompt: Đúng hay sai theo đoạn hội thoại?
+        statement: The doctor found signs of a bacterial infection in the throat.
+        answer: false
+        explanationVi: "Sai. Bác sĩ nói họng đỏ nhưng \"there's no infection I can see\"."
+      - type: SHORT_ANSWER
+        prompt: Above what temperature should the patient come back?
+        accept: ["thirty-nine", "39", "thirty nine", "39 degrees", "above thirty-nine"]
+        explanationVi: "\"or if it goes above thirty-nine\" — trên 39 độ."
+
+  - slug: a-call-about-a-late-delivery
+    title: A Call About a Late Delivery
+    titleVi: Gọi điện hỏi đơn hàng đến muộn
+    topic: work
+    accent: US
+    format: dialogue
+    speakerCount: 2
+    glossary: [invoice, deadline, schedule, refund]
+    segments:
+      - speaker: Agent
+        text: Good afternoon, customer support. How can I help?
+        vi: Chào buổi chiều, bộ phận hỗ trợ khách hàng. Tôi giúp gì được ạ?
+      - speaker: Customer
+        text: Hi. I placed an order two weeks ago and it still has not arrived.
+        vi: Chào bạn. Tôi đặt hàng hai tuần trước mà vẫn chưa nhận được.
+      - speaker: Agent
+        text: I am sorry to hear that. Could you give me the order number?
+        vi: Tôi rất tiếc về việc này. Bạn cho tôi xin mã đơn hàng được không?
+      - speaker: Customer
+        text: It is four eight one two zero. The invoice says it shipped on the twelfth.
+        vi: Mã là bốn tám một hai không. Hoá đơn ghi hàng gửi đi ngày mười hai.
+      - speaker: Agent
+        text: Let me check. Yes, it left our warehouse but it seems to be stuck at the sorting centre.
+        vi: Để tôi kiểm tra. Đúng rồi, hàng đã rời kho nhưng có vẻ đang kẹt ở trung tâm phân loại.
+      - speaker: Customer
+        text: Stuck for how long? I needed it before the end of the month.
+        vi: Kẹt bao lâu rồi ạ? Tôi cần hàng trước cuối tháng.
+      - speaker: Agent
+        text: Since Tuesday. I can either send a replacement today or process a full refund.
+        vi: Từ hôm thứ Ba. Tôi có thể gửi hàng thay thế ngay hôm nay, hoặc hoàn tiền toàn bộ.
+      - speaker: Customer
+        text: If you send a replacement, when would it arrive?
+        vi: Nếu gửi hàng thay thế thì bao giờ tới ạ?
+      - speaker: Agent
+        text: Thursday at the latest. And we would not charge you for the delivery.
+        vi: Muộn nhất là thứ Năm. Và chúng tôi sẽ không tính phí giao hàng.
+      - speaker: Customer
+        text: Let's do the replacement then. Could you email me the new tracking number?
+        vi: Vậy gửi hàng thay thế đi ạ. Bạn gửi mã vận đơn mới qua email cho tôi nhé?
+      - speaker: Agent
+        text: Of course. You will have it within the hour.
+        vi: Tất nhiên rồi. Trong vòng một tiếng bạn sẽ nhận được.
+    dictation: [4, 6, 8]
+    questions:
+      - type: MCQ
+        prompt: Where is the parcel currently stuck?
+        options: [At the sorting centre, At the warehouse, At the airport, At the customer's building]
+        answer: At the sorting centre
+        explanationVi: "\"it seems to be stuck at the sorting centre\"."
+      - type: MCQ
+        prompt: What two options does the agent offer?
+        options:
+          - A replacement or a full refund
+          - A discount or a refund
+          - A replacement or a discount
+          - Faster shipping or a refund
+        answer: A replacement or a full refund
+        explanationVi: "\"I can either send a replacement today or process a full refund.\""
+      - type: MCQ
+        prompt: What does the customer ask the agent to email?
+        options: [The new tracking number, A new invoice, A refund receipt, The delivery address]
+        answer: The new tracking number
+        explanationVi: "\"Could you email me the new tracking number?\""
+      - type: TRUE_FALSE
+        prompt: Đúng hay sai theo bài nghe?
+        statement: The customer will have to pay for the replacement delivery.
+        answer: false
+        explanationVi: "Sai. Nhân viên nói \"we would not charge you for the delivery\"."
+      - type: TRUE_FALSE
+        prompt: Đúng hay sai theo bài nghe?
+        statement: The parcel has been stuck since Tuesday.
+        answer: true
+        explanationVi: "Đúng — \"Since Tuesday.\""
+      - type: SHORT_ANSWER
+        prompt: When would the replacement arrive, at the latest?
+        accept: [Thursday, "on Thursday", "Thursday at the latest"]
+        explanationVi: "\"Thursday at the latest.\""
+
+  - slug: moving-a-team-meeting
+    title: Moving a Team Meeting
+    titleVi: Đổi lịch họp nhóm
+    topic: work
+    accent: UK
+    format: dialogue
+    speakerCount: 2
+    glossary: []
+    segments:
+      - speaker: Linh
+        text: David, could we move our planning meeting? The client has asked me to join a call at ten on
+          Tuesday.
+        vi: David, mình đổi lịch họp lập kế hoạch được không? Khách hàng vừa nhờ tôi tham gia cuộc gọi lúc
+          mười giờ thứ Ba.
+      - speaker: David
+        text: That is when we were due to meet. Could you make Tuesday afternoon instead, perhaps at three?
+        vi: Đó là giờ họp mình đã định. Bạn có tham gia được chiều thứ Ba không, khoảng ba giờ chẳng hạn?
+      - speaker: Linh
+        text: I could, but Mai will be visiting the warehouse all afternoon. She needs to explain the stock
+          figures.
+        vi: Tôi thì được, nhưng Mai sẽ đến kho cả buổi chiều. Cô ấy cần giải thích các số liệu hàng tồn.
+      - speaker: David
+        text: Then Wednesday morning sounds better. I have checked the shared calendar, and everyone is free
+          at nine thirty.
+        vi: Vậy sáng thứ Tư có vẻ hợp hơn. Tôi đã xem lịch chung, mọi người đều rảnh lúc chín giờ ba mươi.
+      - speaker: Linh
+        text: That works for me. Our usual room is being painted, though. Could we use the small room
+          upstairs?
+        vi: Giờ đó tôi được. Nhưng phòng họp thường dùng đang sơn lại. Mình dùng phòng nhỏ trên tầng được
+          không?
+      - speaker: David
+        text: It only holds four people, and there are six of us. I will book room twelve instead.
+        vi: Phòng đó chỉ chứa được bốn người mà nhóm có sáu người. Tôi sẽ đặt phòng mười hai.
+      - speaker: Linh
+        text: Good idea. Let us keep the meeting to forty-five minutes so that Mai can leave for another
+          appointment.
+        vi: Ý hay. Mình họp trong bốn mươi lăm phút thôi để Mai kịp đi cuộc hẹn khác.
+      - speaker: David
+        text: Agreed. Please send the agenda by four tomorrow. Everyone can read it before we meet.
+        vi: Đồng ý. Bạn gửi chương trình họp trước bốn giờ ngày mai nhé. Mọi người có thể đọc trước khi họp.
+      - speaker: Linh
+        text: I will attach the sales report too. The new product photographs are not ready, so we can
+          discuss those next week.
+        vi: Tôi sẽ đính kèm cả báo cáo bán hàng. Ảnh sản phẩm mới chưa xong nên để tuần sau mình bàn.
+      - speaker: David
+        text: Fine. I will update the invitation and explain that both the date and the room have changed.
+        vi: Được. Tôi sẽ sửa thư mời và nói rõ cả ngày lẫn phòng họp đều đã thay đổi.
+      - speaker: Linh
+        text: Could you ask everyone to reply? I do not want anyone waiting in the old room on Tuesday.
+        vi: Bạn nhờ mọi người phản hồi được không? Tôi không muốn có ai đợi ở phòng cũ vào thứ Ba.
+      - speaker: David
+        text: Certainly. I will ask them to confirm by the end of today.
+        vi: Được chứ. Tôi sẽ nhờ họ xác nhận trước cuối ngày hôm nay.
+    dictation:
+      - 2
+      - 4
+      - 8
+      - 12
+    questions:
+      - type: MCQ
+        prompt: Why does Linh ask to move the original meeting?
+        options:
+          - She has a client call
+          - She is visiting the warehouse
+          - She is on holiday
+          - The sales report is missing
+        answer: She has a client call
+        explanationVi: Khách hàng cần Linh tham gia cuộc gọi lúc mười giờ thứ Ba, trùng lịch họp cũ.
+      - type: MCQ
+        prompt: Why is Tuesday afternoon unsuitable?
+        options:
+          - David is away
+          - The office closes early
+          - Mai will be at the warehouse
+          - The client is unavailable
+        answer: Mai will be at the warehouse
+        explanationVi: Mai đến kho cả chiều thứ Ba và cần có mặt để giải thích số liệu hàng tồn.
+      - type: MCQ
+        prompt: Why do they reject the small upstairs room?
+        options:
+          - It is being painted
+          - It is too small for six people
+          - It has no windows
+          - It costs too much
+        answer: It is too small for six people
+        explanationVi: Phòng chỉ đủ bốn người trong khi nhóm có sáu người.
+      - type: MCQ
+        prompt: What will they discuss next week instead?
+        options:
+          - The stock figures
+          - The meeting agenda
+          - The sales report
+          - The product photographs
+        answer: The product photographs
+        explanationVi: Ảnh sản phẩm mới chưa hoàn thành nên được để sang tuần sau.
+      - type: TRUE_FALSE
+        prompt: Is the statement true or false?
+        promptVi: Nhận định sau đúng hay sai theo bài nghe?
+        statement: Linh will attach the sales report to the agenda.
+        answer: true
+        explanationVi: Linh nói sẽ đính kèm báo cáo bán hàng.
+      - type: TRUE_FALSE
+        prompt: Is the statement true or false?
+        promptVi: Nhận định sau đúng hay sai theo bài nghe?
+        statement: The team only needs to know that the room has changed.
+        answer: false
+        explanationVi: David sẽ thông báo cả ngày họp lẫn phòng họp thay đổi.
+      - type: SHORT_ANSWER
+        prompt: Which room will David book?
+        accept:
+          - twelve
+          - "12"
+          - room twelve
+          - room 12
+        explanationVi: David chọn phòng mười hai thay cho phòng nhỏ.
+      - type: SHORT_ANSWER
+        prompt: How many minutes will the meeting last?
+        accept:
+          - forty-five
+          - forty five
+          - "45"
+          - forty-five minutes
+          - 45 minutes
+        explanationVi: Hai người thống nhất giới hạn cuộc họp trong bốn mươi lăm phút.
+  - slug: choosing-an-evening-course
+    title: Choosing an Evening Course
+    titleVi: Chọn lớp học buổi tối
+    topic: education
+    accent: UK
+    format: dialogue
+    speakerCount: 2
+    glossary: []
+    segments:
+      - speaker: Learner
+        text: I am looking for an evening English course. I can read quite well, but I struggle to speak in
+          meetings.
+        vi: Tôi đang tìm một khóa tiếng Anh buổi tối. Tôi đọc khá tốt nhưng gặp khó khăn khi nói trong cuộc
+          họp.
+      - speaker: Adviser
+        text: We offer general English and workplace communication. The second course gives you more
+          practice with discussions and presentations.
+        vi: Chúng tôi có tiếng Anh tổng quát và giao tiếp nơi làm việc. Khóa thứ hai cho bạn luyện thảo luận
+          và thuyết trình nhiều hơn.
+      - speaker: Learner
+        text: That sounds useful. I finish work at six, so I would need a class that starts a little later.
+        vi: Nghe có vẻ hữu ích. Tôi tan làm lúc sáu giờ nên cần lớp bắt đầu muộn hơn một chút.
+      - speaker: Adviser
+        text: The workplace course runs on Tuesdays and Thursdays from seven to eight thirty. It starts on
+          the fifth of October.
+        vi: Khóa giao tiếp nơi làm việc học thứ Ba và thứ Năm, từ bảy giờ đến tám giờ ba mươi. Khóa bắt đầu
+          ngày năm tháng Mười.
+      - speaker: Learner
+        text: I can manage those evenings. How many students are usually in a class? I would rather avoid a
+          very large group.
+        vi: Tôi sắp xếp được những tối đó. Mỗi lớp thường có bao nhiêu học viên? Tôi muốn tránh lớp quá
+          đông.
+      - speaker: Adviser
+        text: There are no more than twelve. You work in pairs regularly, and the teacher gives each student
+          individual feedback.
+        vi: Tối đa mười hai người. Bạn thường xuyên làm việc theo cặp và giáo viên nhận xét riêng cho từng
+          học viên.
+      - speaker: Learner
+        text: How much does the course cost, and will I need to buy a textbook separately?
+        vi: Khóa học giá bao nhiêu và tôi có cần mua giáo trình riêng không?
+      - speaker: Adviser
+        text: It is one hundred and eighty pounds for eight weeks. All the worksheets are included, and no
+          textbook is required.
+        vi: Một trăm tám mươi bảng cho tám tuần. Giá đã gồm toàn bộ phiếu bài tập và không cần giáo trình.
+      - speaker: Learner
+        text: I might have to travel for work occasionally. What happens if I miss a lesson?
+        vi: Thỉnh thoảng tôi có thể phải đi công tác. Nếu bỏ lỡ một buổi thì sao?
+      - speaker: Adviser
+        text: We send the materials afterwards, but we do not record the discussions. You can ask the
+          teacher about anything unclear.
+        vi: Chúng tôi gửi tài liệu sau buổi học nhưng không ghi lại phần thảo luận. Bạn có thể hỏi giáo viên
+          về phần chưa rõ.
+      - speaker: Learner
+        text: Before I decide, could I attend a trial lesson to see whether the level is right for me?
+        vi: Trước khi quyết định, tôi có thể học thử để xem trình độ có phù hợp không?
+      - speaker: Adviser
+        text: Yes, there is a free trial next Thursday. I can reserve a place if you give me your email
+          address.
+        vi: Có, thứ Năm tới có buổi học thử miễn phí. Tôi có thể giữ chỗ nếu bạn cho địa chỉ email.
+    dictation:
+      - 2
+      - 4
+      - 8
+      - 12
+    questions:
+      - type: MCQ
+        prompt: What does the learner most want to improve?
+        options:
+          - Reading novels
+          - Writing essays
+          - Speaking in meetings
+          - Understanding films
+        answer: Speaking in meetings
+        explanationVi: Người học nêu khó khăn khi nói trong các cuộc họp.
+      - type: MCQ
+        prompt: Which course does the adviser describe in detail?
+        options:
+          - Workplace communication
+          - Academic writing
+          - General English for children
+          - Exam preparation
+        answer: Workplace communication
+        explanationVi: Khóa được giới thiệu luyện thảo luận và thuyết trình trong môi trường làm việc.
+      - type: MCQ
+        prompt: Which evenings does the course run?
+        options:
+          - Monday and Wednesday
+          - Friday and Saturday
+          - Wednesday and Friday
+          - Tuesday and Thursday
+        answer: Tuesday and Thursday
+        explanationVi: Lớp học vào tối thứ Ba và thứ Năm.
+      - type: MCQ
+        prompt: What will a learner receive after missing a lesson?
+        options:
+          - A recording of every discussion
+          - The lesson materials
+          - A full refund
+          - A private replacement class
+        answer: The lesson materials
+        explanationVi: Trung tâm gửi tài liệu, không ghi âm các cuộc thảo luận.
+      - type: TRUE_FALSE
+        prompt: Is the statement true or false?
+        promptVi: Nhận định sau đúng hay sai theo bài nghe?
+        statement: Learners need to buy a separate textbook.
+        answer: false
+        explanationVi: Không cần giáo trình; phiếu bài tập đã nằm trong học phí.
+      - type: TRUE_FALSE
+        prompt: Is the statement true or false?
+        promptVi: Nhận định sau đúng hay sai theo bài nghe?
+        statement: A free trial lesson is available next Thursday.
+        answer: true
+        explanationVi: Cố vấn đề nghị buổi học thử miễn phí vào thứ Năm tới.
+      - type: SHORT_ANSWER
+        prompt: What is the maximum number of students in a class?
+        accept:
+          - twelve
+          - "12"
+          - twelve students
+          - 12 students
+        explanationVi: Lớp có tối đa mười hai học viên.
+      - type: SHORT_ANSWER
+        prompt: How many weeks does the course last?
+        accept:
+          - eight
+          - "8"
+          - eight weeks
+          - 8 weeks
+        explanationVi: Khóa học kéo dài tám tuần.
+  - slug: arranging-an-appliance-repair
+    title: Arranging an Appliance Repair
+    titleVi: Hẹn sửa thiết bị gia dụng
+    topic: daily-life
+    accent: UK
+    format: dialogue
+    speakerCount: 2
+    glossary: []
+    segments:
+      - speaker: Customer
+        text: Hello. My washing machine stops halfway through every programme. I would like to arrange a
+          repair visit.
+        vi: Xin chào. Máy giặt của tôi dừng giữa chừng ở mọi chương trình. Tôi muốn hẹn thợ đến sửa.
+      - speaker: Agent
+        text: I can help with that. Could you tell me the model number and roughly how old the machine is?
+        vi: Tôi có thể giúp bạn đặt lịch. Bạn cho biết mã máy và máy đã dùng khoảng bao lâu nhé?
+      - speaker: Customer
+        text: The model is W four hundred. I bought it last November, so it is less than a year old.
+        vi: Mã máy là W bốn trăm. Tôi mua tháng Mười Một năm ngoái nên máy chưa được một năm.
+      - speaker: Agent
+        text: Thank you. Please have the receipt ready so our technician can check whether the repair is
+          covered by your guarantee.
+        vi: Cảm ơn. Hãy chuẩn bị hóa đơn để kỹ thuật viên kiểm tra việc sửa chữa có được bảo hành không.
+      - speaker: Customer
+        text: I still have the email receipt. Can the technician come on Wednesday? I work from home that
+          day.
+        vi: Tôi vẫn giữ hóa đơn qua email. Kỹ thuật viên đến thứ Tư được không? Hôm đó tôi làm ở nhà.
+      - speaker: Agent
+        text: Our next Wednesday slot is between one and four in the afternoon. The technician will call
+          thirty minutes before arriving.
+        vi: Lịch còn trống vào thứ Tư là từ một đến bốn giờ chiều. Kỹ thuật viên sẽ gọi trước khi đến ba
+          mươi phút.
+      - speaker: Customer
+        text: That is fine. The machine is in the kitchen, but there are some boxes blocking the doorway at
+          the moment.
+        vi: Được. Máy nằm trong bếp, nhưng hiện có vài thùng đồ chắn cửa.
+      - speaker: Agent
+        text: Please move those before the visit so there is enough space to reach the machine safely.
+        vi: Bạn chuyển các thùng đó trước buổi hẹn để có đủ chỗ tiếp cận máy an toàn nhé.
+      - speaker: Customer
+        text: I will. If a new part is needed, will you tell me the cost before ordering it?
+        vi: Tôi sẽ chuyển. Nếu cần linh kiện mới, bên bạn sẽ báo giá trước khi đặt chứ?
+      - speaker: Agent
+        text: Certainly. We will explain any charges and ask you to approve them before work that is not
+          covered by the guarantee.
+        vi: Chắc chắn rồi. Chúng tôi sẽ giải thích các khoản phí và xin bạn đồng ý trước khi làm phần việc
+          ngoài bảo hành.
+      - speaker: Customer
+        text: Good. Please send the appointment details by text rather than email, as I will be away from my
+          computer.
+        vi: Tốt. Bạn nhắn tin chi tiết cuộc hẹn thay vì gửi email nhé vì tôi sẽ không ở cạnh máy tính.
+      - speaker: Agent
+        text: Of course. I have booked Wednesday afternoon and will send the confirmation to your mobile
+          now.
+        vi: Được. Tôi đã đặt lịch chiều thứ Tư và sẽ gửi xác nhận đến điện thoại của bạn ngay.
+    dictation:
+      - 2
+      - 4
+      - 8
+      - 12
+    questions:
+      - type: MCQ
+        prompt: What problem does the customer report?
+        options:
+          - The door is scratched
+          - The machine stops during a programme
+          - The machine is missing
+          - The receipt is incorrect
+        answer: The machine stops during a programme
+        explanationVi: Máy dừng giữa chừng trong các chương trình giặt.
+      - type: MCQ
+        prompt: Why does the agent ask for the receipt?
+        options:
+          - To change the delivery address
+          - To order another machine
+          - To check guarantee coverage
+          - To cancel the booking
+        answer: To check guarantee coverage
+        explanationVi: Hóa đơn giúp kỹ thuật viên kiểm tra việc sửa chữa có thuộc bảo hành không.
+      - type: MCQ
+        prompt: Why does Wednesday suit the customer?
+        options:
+          - They work from home that day
+          - The machine only fails on Wednesdays
+          - The guarantee ends that day
+          - A neighbour requested it
+        answer: They work from home that day
+        explanationVi: Khách làm việc tại nhà vào thứ Tư.
+      - type: MCQ
+        prompt: What must the customer move before the visit?
+        options:
+          - The refrigerator
+          - The kitchen table
+          - The washing machine
+          - Boxes blocking the doorway
+        answer: Boxes blocking the doorway
+        explanationVi: Khách cần dọn các thùng đồ đang chắn cửa vào bếp.
+      - type: TRUE_FALSE
+        prompt: Is the statement true or false?
+        promptVi: Nhận định sau đúng hay sai theo bài nghe?
+        statement: The customer has lost the receipt.
+        answer: false
+        explanationVi: Khách vẫn còn hóa đơn trong email.
+      - type: TRUE_FALSE
+        prompt: Is the statement true or false?
+        promptVi: Nhận định sau đúng hay sai theo bài nghe?
+        statement: The company will ask for approval before doing work outside the guarantee.
+        answer: true
+        explanationVi: Nhân viên hứa giải thích phí và xin đồng ý trước khi sửa phần ngoài bảo hành.
+      - type: SHORT_ANSWER
+        prompt: How many minutes before arriving will the technician call?
+        accept:
+          - thirty
+          - "30"
+          - thirty minutes
+          - 30 minutes
+        explanationVi: Kỹ thuật viên sẽ gọi trước ba mươi phút.
+      - type: SHORT_ANSWER
+        prompt: How will the customer receive the confirmation?
+        accept:
+          - by text
+          - text
+          - text message
+          - a text message
+          - SMS
+          - by SMS
+        explanationVi: Khách yêu cầu tin nhắn điện thoại và nhân viên đồng ý.
+  - slug: organising-a-river-cleanup
+    title: Organising a River Cleanup
+    titleVi: Tổ chức buổi nhặt rác ven sông
+    topic: environment
+    accent: UK
+    format: dialogue
+    speakerCount: 2
+    glossary: []
+    segments:
+      - speaker: An
+        text: We have eighteen people signed up for Saturday’s river cleanup. Shall we meet by the old
+          bridge again?
+        vi: Có mười tám người đăng ký buổi nhặt rác ven sông thứ Bảy. Mình lại gặp ở cầu cũ nhé?
+      - speaker: Maya
+        text: The path there is closed for repairs. Let us meet outside the rowing club, where there is
+          space for everyone.
+        vi: Lối đi ở đó đang đóng để sửa. Mình gặp bên ngoài câu lạc bộ chèo thuyền, chỗ đó đủ rộng cho mọi
+          người.
+      - speaker: An
+        text: Good idea. We can start at nine and finish at eleven, before the riverside gets too busy.
+        vi: Ý hay. Mình có thể bắt đầu lúc chín giờ và xong lúc mười một giờ, trước khi ven sông quá đông.
+      - speaker: Maya
+        text: I have asked the council for rubbish bags and gloves. Volunteers should bring their own water
+          and wear strong shoes.
+        vi: Tôi đã xin hội đồng địa phương túi rác và găng tay. Tình nguyện viên nên mang nước uống và đi
+          giày chắc chắn.
+      - speaker: An
+        text: What should people do if they find broken glass? Last time someone nearly picked up a sharp
+          bottle.
+        vi: Nếu thấy kính vỡ thì mọi người nên làm gì? Lần trước có người suýt nhặt một chai sắc cạnh.
+      - speaker: Maya
+        text: Tell a team leader and leave it where it is. We will have trained staff with the right
+          equipment for sharp items.
+        vi: Báo cho trưởng nhóm và để nguyên ở đó. Sẽ có nhân viên được hướng dẫn và có dụng cụ phù hợp xử
+          lý vật sắc nhọn.
+      - speaker: An
+        text: Shall we separate plastic bottles from the general waste? There are recycling bins behind the
+          club.
+        vi: Mình tách chai nhựa khỏi rác thường nhé? Có thùng tái chế sau câu lạc bộ.
+      - speaker: Maya
+        text: Yes, but only empty bottles accepted by those bins. I will put simple sorting instructions on
+          each bag.
+        vi: Có, nhưng chỉ chai rỗng thuộc loại các thùng đó nhận. Tôi sẽ dán hướng dẫn phân loại đơn giản
+          lên từng túi.
+      - speaker: An
+        text: The forecast mentions heavy rain. Do we need a backup plan in case the river path becomes
+          slippery?
+        vi: Dự báo có nhắc đến mưa lớn. Mình cần phương án dự phòng nếu đường ven sông trơn không?
+      - speaker: Maya
+        text: If conditions are unsafe, we will postpone. I will text everyone by seven thirty on Saturday
+          morning.
+        vi: Nếu điều kiện không an toàn thì mình hoãn. Tôi sẽ nhắn cho mọi người trước bảy giờ ba mươi sáng
+          thứ Bảy.
+      - speaker: An
+        text: Afterwards, could we take a group photograph to thank the volunteers? We should ask before
+          including anyone.
+        vi: Sau đó mình chụp ảnh chung để cảm ơn tình nguyện viên được không? Mình nên hỏi trước khi đưa ai
+          vào ảnh.
+      - speaker: Maya
+        text: Absolutely. People who do not want to be photographed can step aside. I will explain that at
+          the start.
+        vi: Được chứ. Ai không muốn chụp có thể đứng sang một bên. Tôi sẽ nói rõ điều đó lúc bắt đầu.
+    dictation:
+      - 2
+      - 4
+      - 8
+      - 12
+    questions:
+      - type: MCQ
+        prompt: Why can they not meet at the old bridge?
+        options:
+          - It is too far from the river
+          - The rowing club has closed
+          - The path is being repaired
+          - There are too few volunteers
+        answer: The path is being repaired
+        explanationVi: Lối đi gần cầu cũ đang đóng để sửa chữa.
+      - type: MCQ
+        prompt: What should volunteers bring themselves?
+        options:
+          - Rubbish bags
+          - Water
+          - Glass containers
+          - Sorting signs
+        answer: Water
+        explanationVi: Túi rác và găng tay được xin từ hội đồng; tình nguyện viên mang nước riêng.
+      - type: MCQ
+        prompt: What should volunteers do with broken glass?
+        options:
+          - Tell a leader and leave it alone
+          - Put it in a pocket
+          - Carry it to the club by hand
+          - Throw it into the river
+        answer: Tell a leader and leave it alone
+        explanationVi: Maya dặn báo trưởng nhóm và để nhân viên có dụng cụ xử lý.
+      - type: MCQ
+        prompt: What will happen if conditions are unsafe?
+        options:
+          - The cleanup will move into the river
+          - The event will continue for longer
+          - Only new volunteers will leave
+          - The event will be postponed
+        answer: The event will be postponed
+        explanationVi: Maya nói sẽ hoãn nếu điều kiện không an toàn.
+      - type: TRUE_FALSE
+        prompt: Is the statement true or false?
+        promptVi: Nhận định sau đúng hay sai theo bài nghe?
+        statement: They plan to finish the cleanup at eleven.
+        answer: true
+        explanationVi: An đề xuất làm từ chín giờ đến mười một giờ.
+      - type: TRUE_FALSE
+        prompt: Is the statement true or false?
+        promptVi: Nhận định sau đúng hay sai theo bài nghe?
+        statement: Every volunteer must appear in the group photograph.
+        answer: false
+        explanationVi: Ai không muốn chụp có thể đứng sang một bên; ban tổ chức sẽ hỏi trước.
+      - type: SHORT_ANSWER
+        prompt: How many people have signed up?
+        accept:
+          - eighteen
+          - "18"
+          - eighteen people
+          - 18 people
+        explanationVi: Có mười tám người đăng ký.
+      - type: SHORT_ANSWER
+        prompt: Where will the group meet?
+        accept:
+          - outside the rowing club
+          - the rowing club
+          - rowing club
+        explanationVi: Điểm gặp mới là bên ngoài câu lạc bộ chèo thuyền.
+  - slug: resolving-a-hotel-booking-mixup
+    title: Resolving a Hotel Booking Mixup
+    titleVi: Giải quyết nhầm lẫn khi đặt phòng
+    topic: travel
+    accent: UK
+    format: dialogue
+    speakerCount: 2
+    glossary: []
+    segments:
+      - speaker: Guest
+        text: Hello. I have just checked into room two eighteen, but it has one double bed. I booked a twin
+          room.
+        vi: Xin chào. Tôi vừa nhận phòng hai mười tám nhưng phòng có một giường đôi. Tôi đã đặt phòng hai
+          giường đơn.
+      - speaker: Receptionist
+        text: I am sorry about that. Could I see your confirmation email? I will check the details against
+          our system.
+        vi: Tôi xin lỗi. Cho tôi xem email xác nhận nhé? Tôi sẽ kiểm tra với thông tin trong hệ thống.
+      - speaker: Guest
+        text: Here it is. It says two single beds for three nights. I am travelling with a colleague.
+        vi: Đây. Email ghi hai giường đơn trong ba đêm. Tôi đi cùng một đồng nghiệp.
+      - speaker: Receptionist
+        text: You are right. The booking was entered incorrectly. We have a twin room available, but it is
+          not ready yet.
+        vi: Bạn nói đúng. Đặt phòng đã được nhập sai. Chúng tôi còn một phòng hai giường đơn nhưng chưa dọn
+          xong.
+      - speaker: Guest
+        text: How long would we have to wait? We need to leave for a conference at half past three.
+        vi: Chúng tôi phải đợi bao lâu? Chúng tôi cần đi dự hội nghị lúc ba giờ rưỡi.
+      - speaker: Receptionist
+        text: Housekeeping can have it ready by two thirty. In the meantime, you are welcome to wait in the
+          lounge.
+        vi: Bộ phận buồng phòng có thể chuẩn bị xong trước hai giờ ba mươi. Trong lúc chờ, bạn có thể ngồi ở
+          phòng khách chung.
+      - speaker: Guest
+        text: That should give us enough time. Will the replacement room cost more than the one we booked?
+        vi: Như vậy vẫn đủ thời gian. Phòng thay thế có đắt hơn phòng chúng tôi đã đặt không?
+      - speaker: Receptionist
+        text: No, the price will stay the same. We will also offer you both a free drink while you wait.
+        vi: Không, giá giữ nguyên. Chúng tôi cũng mời mỗi bạn một đồ uống miễn phí trong lúc chờ.
+      - speaker: Guest
+        text: Thank you. Could we leave our suitcases with you? They are still unpacked in the original
+          room.
+        vi: Cảm ơn. Chúng tôi gửi vali ở quầy được không? Vali vẫn chưa mở trong phòng ban đầu.
+      - speaker: Receptionist
+        text: Certainly. A porter can bring them down now and move them to the new room once it is ready.
+        vi: Được chứ. Nhân viên có thể mang xuống ngay rồi chuyển đến phòng mới khi phòng sẵn sàng.
+      - speaker: Guest
+        text: Please do that. Also, does our original breakfast booking carry over to the new room?
+        vi: Phiền bạn giúp vậy. Ngoài ra, phần ăn sáng đã đặt ban đầu có được chuyển sang phòng mới không?
+      - speaker: Receptionist
+        text: Yes, breakfast remains included for both guests. I will call your mobile as soon as the keys
+          are ready.
+        vi: Có, cả hai khách vẫn được bao gồm bữa sáng. Tôi sẽ gọi vào điện thoại của bạn ngay khi có chìa
+          khóa.
+    dictation:
+      - 2
+      - 4
+      - 8
+      - 12
+    questions:
+      - type: MCQ
+        prompt: What is wrong with the original room?
+        options:
+          - It has one double bed
+          - It is on the wrong floor
+          - It has no windows
+          - It is too noisy
+        answer: It has one double bed
+        explanationVi: Khách đặt hai giường đơn nhưng nhận phòng một giường đôi.
+      - type: MCQ
+        prompt: Who is travelling with the guest?
+        options:
+          - A brother
+          - A tour guide
+          - A child
+          - A colleague
+        answer: A colleague
+        explanationVi: Khách nói mình đi cùng đồng nghiệp.
+      - type: MCQ
+        prompt: Why is the replacement room not immediately available?
+        options:
+          - It has been cancelled
+          - Housekeeping has not finished preparing it
+          - The keys are lost
+          - Another guest refuses to leave
+        answer: Housekeeping has not finished preparing it
+        explanationVi: Lễ tân nói phòng chưa sẵn sàng và bộ phận buồng phòng sẽ chuẩn bị xong lúc 2:30.
+      - type: MCQ
+        prompt: What can the guests receive while waiting?
+        options:
+          - A conference ticket
+          - A free dinner
+          - A free drink each
+          - A train ticket
+        answer: A free drink each
+        explanationVi: Lễ tân mời mỗi khách một đồ uống miễn phí.
+      - type: TRUE_FALSE
+        prompt: Is the statement true or false?
+        promptVi: Nhận định sau đúng hay sai theo bài nghe?
+        statement: The hotel will charge more for the twin room.
+        answer: false
+        explanationVi: Lễ tân xác nhận giá giữ nguyên.
+      - type: TRUE_FALSE
+        prompt: Is the statement true or false?
+        promptVi: Nhận định sau đúng hay sai theo bài nghe?
+        statement: Breakfast will still be included for both guests.
+        answer: true
+        explanationVi: Đặt ăn sáng được giữ cho cả hai khách sau khi đổi phòng.
+      - type: SHORT_ANSWER
+        prompt: How many nights did the guest book?
+        accept:
+          - three
+          - "3"
+          - three nights
+          - 3 nights
+        explanationVi: Email xác nhận ghi ba đêm.
+      - type: SHORT_ANSWER
+        prompt: By what time will the new room be ready?
+        accept:
+          - two thirty
+          - 2:30
+          - "2.30"
+          - 2:30 pm
+          - 14:30
+          - half past two
+        explanationVi: Buồng phòng có thể chuẩn bị xong trước hai giờ ba mươi chiều.
+  - slug: giving-feedback-on-a-presentation
+    title: Giving Feedback on a Presentation
+    titleVi: Góp ý cho bài thuyết trình
+    topic: work
+    accent: UK
+    format: dialogue
+    speakerCount: 2
+    glossary: []
+    segments:
+      - speaker: Presenter
+        text: Thanks for watching my practice presentation. Did the explanation of our new booking system
+          make sense to you?
+        vi: Cảm ơn bạn đã xem tôi tập thuyết trình. Phần giải thích hệ thống đặt chỗ mới có dễ hiểu không?
+      - speaker: Colleague
+        text: Mostly, yes. The example with the customer was clear, but you introduced three technical terms
+          before explaining them.
+        vi: Phần lớn là có. Ví dụ về khách hàng rõ ràng, nhưng bạn đưa ra ba thuật ngữ chuyên môn trước khi
+          giải thích.
+      - speaker: Presenter
+        text: I was worried about going over the time limit. I have only ten minutes, including the
+          demonstration.
+        vi: Tôi lo vượt thời gian cho phép. Tôi chỉ có mười phút, tính cả phần trình diễn.
+      - speaker: Colleague
+        text: You finished in eight minutes, so you have some room. A short definition for each term would
+          help the audience.
+        vi: Bạn kết thúc trong tám phút nên vẫn còn thời gian. Một định nghĩa ngắn cho mỗi thuật ngữ sẽ giúp
+          người nghe.
+      - speaker: Presenter
+        text: That is useful. What about the slides? I tried to include all the details people might ask
+          about.
+        vi: Góp ý hữu ích đấy. Còn các trang trình chiếu thì sao? Tôi cố đưa đủ chi tiết mọi người có thể
+          hỏi.
+      - speaker: Colleague
+        text: Slide four is quite crowded. Keep the main figures on screen and put the detailed table in the
+          handout.
+        vi: Trang số bốn khá chật. Hãy giữ số liệu chính trên màn hình và chuyển bảng chi tiết sang tài liệu
+          phát tay.
+      - speaker: Presenter
+        text: I can do that. I also noticed I kept looking at the screen rather than at you during the
+          demonstration.
+        vi: Tôi có thể làm vậy. Tôi cũng nhận thấy mình cứ nhìn màn hình thay vì nhìn bạn trong phần trình
+          diễn.
+      - speaker: Colleague
+        text: Try pausing after each step and turning back to the audience. You do not need to speak while
+          clicking every button.
+        vi: Thử dừng sau mỗi bước rồi quay về phía người nghe. Bạn không cần vừa nói vừa bấm từng nút.
+      - speaker: Presenter
+        text: Good point. Should I begin with the background information or with the customer’s problem?
+        vi: Đúng đấy. Tôi nên bắt đầu bằng thông tin nền hay vấn đề của khách hàng?
+      - speaker: Colleague
+        text: Start with the problem. It gives people a reason to care about the system before you explain
+          how it works.
+        vi: Hãy bắt đầu bằng vấn đề. Như vậy người nghe có lý do quan tâm đến hệ thống trước khi bạn giải
+          thích cách hoạt động.
+      - speaker: Presenter
+        text: I will revise those parts tonight. Could you watch one more practice tomorrow at lunchtime?
+        vi: Tối nay tôi sẽ sửa những phần đó. Bạn xem tôi tập thêm lần nữa vào giờ trưa mai được không?
+      - speaker: Colleague
+        text: Yes, at twelve thirty. Bring the new handout too, so I can check that the figures match the
+          slides.
+        vi: Được, lúc mười hai giờ ba mươi. Nhớ mang tài liệu phát tay mới để tôi kiểm tra số liệu có khớp
+          với trang trình chiếu không.
+    dictation:
+      - 2
+      - 4
+      - 8
+      - 12
+    questions:
+      - type: MCQ
+        prompt: What needs explaining earlier in the presentation?
+        options:
+          - The meeting location
+          - Three technical terms
+          - The speaker’s name
+          - The lunch menu
+        answer: Three technical terms
+        explanationVi: Đồng nghiệp nhận xét ba thuật ngữ xuất hiện trước khi được giải thích.
+      - type: MCQ
+        prompt: What should happen to the detailed table?
+        options:
+          - It should go in the handout
+          - It should replace the demonstration
+          - It should appear on every slide
+          - It should be read aloud twice
+        answer: It should go in the handout
+        explanationVi: Đề xuất chuyển bảng chi tiết sang tài liệu phát tay để trang số bốn bớt chật.
+      - type: MCQ
+        prompt: What should the presenter do after each demonstration step?
+        options:
+          - Add another technical term
+          - Skip the next slide
+          - Speak faster
+          - Pause and face the audience
+        answer: Pause and face the audience
+        explanationVi: Đồng nghiệp khuyên dừng sau từng bước và quay về phía người nghe.
+      - type: MCQ
+        prompt: How should the presentation begin?
+        options:
+          - With all the background details
+          - With the full data table
+          - With the customer’s problem
+          - With the final summary
+        answer: With the customer’s problem
+        explanationVi: Mở đầu bằng vấn đề của khách hàng giúp người nghe hiểu lý do cần hệ thống.
+      - type: TRUE_FALSE
+        prompt: Is the statement true or false?
+        promptVi: Nhận định sau đúng hay sai theo bài nghe?
+        statement: The practice presentation was longer than the time limit.
+        answer: false
+        explanationVi: Phần tập kéo dài tám phút, ít hơn giới hạn mười phút.
+      - type: TRUE_FALSE
+        prompt: Is the statement true or false?
+        promptVi: Nhận định sau đúng hay sai theo bài nghe?
+        statement: The colleague found the customer example clear.
+        answer: true
+        explanationVi: Đồng nghiệp nói ví dụ về khách hàng rõ ràng.
+      - type: SHORT_ANSWER
+        prompt: Which slide is too crowded?
+        accept:
+          - four
+          - "4"
+          - slide four
+          - slide 4
+        explanationVi: Trang trình chiếu số bốn có quá nhiều nội dung.
+      - type: SHORT_ANSWER
+        prompt: At what time will they practise again tomorrow?
+        accept:
+          - twelve thirty
+          - 12:30
+          - "12.30"
+          - 12:30 pm
+          - half past twelve
+        explanationVi: Hai người hẹn tập lại lúc mười hai giờ ba mươi trưa mai.
+  - slug: planning-a-community-exercise-class
+    title: Planning a Community Exercise Class
+    titleVi: Lên kế hoạch lớp vận động cộng đồng
+    topic: health
+    accent: UK
+    format: dialogue
+    speakerCount: 2
+    glossary: []
+    segments:
+      - speaker: Organiser
+        text: We would like to offer a gentle exercise class at the community centre. Several residents have
+          asked for a morning session.
+        vi: Chúng tôi muốn mở lớp vận động nhẹ ở trung tâm cộng đồng. Một số cư dân đã đề nghị học vào buổi
+          sáng.
+      - speaker: Instructor
+        text: I could lead a beginner class on Mondays. It would include simple movements that people can do
+          standing or sitting.
+        vi: Tôi có thể hướng dẫn lớp cho người mới vào thứ Hai, gồm những động tác đơn giản có thể làm khi
+          đứng hoặc ngồi.
+      - speaker: Organiser
+        text: That flexibility would be useful. Some residents are nervous because they have not joined any
+          exercise class before.
+        vi: Có lựa chọn như vậy sẽ hữu ích. Một số cư dân lo vì trước đây chưa từng tham gia lớp vận động.
+      - speaker: Instructor
+        text: We can explain that everyone works at their own pace. There will be no competition and no
+          pressure to copy every movement.
+        vi: Mình có thể giải thích rằng mỗi người tập theo khả năng riêng. Không thi đua và không ép ai làm
+          theo mọi động tác.
+      - speaker: Organiser
+        text: Would ten in the morning suit you? The main hall is free then, and the entrance has a ramp.
+        vi: Mười giờ sáng có phù hợp không? Lúc đó hội trường chính trống và lối vào có đường dốc.
+      - speaker: Instructor
+        text: That is ideal. I suggest forty minutes for the first session, with a short break in the
+          middle.
+        vi: Rất phù hợp. Tôi đề xuất buổi đầu bốn mươi phút, có nghỉ ngắn ở giữa.
+      - speaker: Organiser
+        text: We can provide chairs and drinking water. Should participants bring any equipment or wear
+          special clothing?
+        vi: Chúng tôi có thể chuẩn bị ghế và nước uống. Người tham gia cần mang dụng cụ hay mặc đồ đặc biệt
+          không?
+      - speaker: Instructor
+        text: No equipment is needed. Comfortable clothes and suitable shoes are enough. I will send a short
+          information sheet beforehand.
+        vi: Không cần dụng cụ. Quần áo thoải mái và giày phù hợp là đủ. Tôi sẽ gửi tờ thông tin ngắn trước
+          buổi học.
+      - speaker: Organiser
+        text: How many places should we offer? We want enough room for people to move without bumping into
+          each other.
+        vi: Mình nên nhận bao nhiêu người? Tôi muốn đủ chỗ để mọi người vận động mà không va vào nhau.
+      - speaker: Instructor
+        text: Let us start with fifteen. We can review the numbers after the first month rather than fill
+          the hall immediately.
+        vi: Bắt đầu với mười lăm người nhé. Mình có thể xem lại số lượng sau tháng đầu thay vì nhận kín hội
+          trường ngay.
+      - speaker: Organiser
+        text: Agreed. The first session will be free. After that, we will ask for two pounds per class to
+          cover the room costs.
+        vi: Đồng ý. Buổi đầu miễn phí. Sau đó mỗi buổi thu hai bảng để trả chi phí phòng.
+      - speaker: Instructor
+        text: That sounds reasonable. Please ask people to book by phone so we know how many chairs to
+          arrange.
+        vi: Như vậy hợp lý. Hãy nhờ mọi người đăng ký qua điện thoại để mình biết cần xếp bao nhiêu ghế.
+    dictation:
+      - 2
+      - 4
+      - 8
+      - 12
+    questions:
+      - type: MCQ
+        prompt: Who is the proposed class designed for?
+        options:
+          - Professional athletes
+          - Experienced dancers only
+          - People training for a race
+          - Beginners in the community
+        answer: Beginners in the community
+        explanationVi: Lớp dành cho người mới trong cộng đồng, có người chưa từng tham gia lớp vận động.
+      - type: MCQ
+        prompt: What choice will participants have?
+        options:
+          - Training outdoors or online
+          - Moving while standing or sitting
+          - Swimming or running
+          - Taking an exam or a race
+        answer: Moving while standing or sitting
+        explanationVi: Giảng viên đề xuất động tác có thể tập ở tư thế đứng hoặc ngồi.
+      - type: MCQ
+        prompt: Why does the main hall suit the class?
+        options:
+          - It is free at that time and has a ramp at the entrance
+          - It has a swimming pool
+          - It can only be entered by stairs
+          - It is already full of equipment
+        answer: It is free at that time and has a ramp at the entrance
+        explanationVi: Hội trường trống vào mười giờ và lối vào có đường dốc.
+      - type: MCQ
+        prompt: How should people book a place?
+        options:
+          - By posting a letter
+          - Through a ticket machine
+          - By phone
+          - By visiting a gym
+        answer: By phone
+        explanationVi: Cuối hội thoại, giảng viên đề nghị đăng ký qua điện thoại.
+      - type: TRUE_FALSE
+        prompt: Is the statement true or false?
+        promptVi: Nhận định sau đúng hay sai theo bài nghe?
+        statement: Participants must bring their own exercise equipment.
+        answer: false
+        explanationVi: Giảng viên nói không cần mang dụng cụ.
+      - type: TRUE_FALSE
+        prompt: Is the statement true or false?
+        promptVi: Nhận định sau đúng hay sai theo bài nghe?
+        statement: The first session will be free.
+        answer: true
+        explanationVi: Người tổ chức nói rõ buổi đầu miễn phí; sau đó mới thu hai bảng mỗi buổi.
+      - type: SHORT_ANSWER
+        prompt: How many places will the class offer at first?
+        accept:
+          - fifteen
+          - "15"
+          - fifteen places
+          - 15 places
+        explanationVi: Lớp bắt đầu với mười lăm chỗ.
+      - type: SHORT_ANSWER
+        prompt: How many minutes will the first session last?
+        accept:
+          - forty
+          - "40"
+          - forty minutes
+          - 40 minutes
+        explanationVi: Buổi đầu dự kiến dài bốn mươi phút, có nghỉ ngắn ở giữa.

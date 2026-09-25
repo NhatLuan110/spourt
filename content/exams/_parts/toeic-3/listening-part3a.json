@@ -1,0 +1,813 @@
+[
+  {
+    "id": "listening-part3-c1",
+    "skill": "listening",
+    "title": "Part 3 — Conversation 1: renegotiating a maintenance contract",
+    "format": "TOEIC Listening — Part 3 · Conversation 1 (câu 32–34)",
+    "instructionsVi": "Ở mục tiêu 800, Part 3 có câu hỏi về hàm ý của một câu nói cụ thể, không chỉ hỏi sự việc.",
+    "promptEn": "Listen to the conversation and answer questions 32 through 34.",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "M",
+        "text": "Thanks for seeing me. We'd like to extend the maintenance contract, but your quote is well above what we budgeted."
+      },
+      {
+        "speaker": "W",
+        "text": "What figure did you have in mind?"
+      },
+      {
+        "speaker": "M",
+        "text": "About ninety thousand a year. Your quote is a hundred and twelve."
+      },
+      {
+        "speaker": "W",
+        "text": "I can't reach ninety at the current service level. That would mean losing the four-hour response guarantee, and I don't think you'd want that."
+      },
+      {
+        "speaker": "M",
+        "text": "No — the response time is the reason we're with you."
+      },
+      {
+        "speaker": "W",
+        "text": "Then let's look at scope instead. You have quarterly inspections at all fourteen sites. Half of them have had no issues in three years. Move those to twice a year and I can get to ninety-eight."
+      },
+      {
+        "speaker": "M",
+        "text": "Ninety-eight I could defend internally. Send me the list of sites you'd reclassify and I'll take it to the finance committee."
+      }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p3-32",
+        "kind": "mcq",
+        "prompt": "32. What is the main obstacle?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The response guarantee is too slow."
+          },
+          {
+            "id": "b",
+            "text": "The quoted price exceeds the budget."
+          },
+          {
+            "id": "c",
+            "text": "Too few sites are covered."
+          },
+          {
+            "id": "d",
+            "text": "The contract has already expired."
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'your quote is well above what we budgeted' — 112 so với 90 nghìn."
+      },
+      {
+        "id": "p3-33",
+        "kind": "mcq",
+        "prompt": "33. What does the woman mean when she says, 'I don't think you'd want that'?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The client should reduce the number of sites."
+          },
+          {
+            "id": "b",
+            "text": "She is refusing to negotiate further."
+          },
+          {
+            "id": "c",
+            "text": "The client would reject a slower response time."
+          },
+          {
+            "id": "d",
+            "text": "She doubts the client can pay."
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "Câu trước nói giá 90 nghìn đồng nghĩa mất bảo đảm phản hồi 4 giờ; người đàn ông xác nhận ngay sau đó."
+      },
+      {
+        "id": "p3-34",
+        "kind": "mcq",
+        "prompt": "34. What will the man do next?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Cancel the contract"
+          },
+          {
+            "id": "b",
+            "text": "Visit all fourteen sites"
+          },
+          {
+            "id": "c",
+            "text": "Request a further discount"
+          },
+          {
+            "id": "d",
+            "text": "Take a revised proposal to a committee"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'I'll take it to the finance committee' sau khi nhận danh sách các điểm được phân loại lại."
+      }
+    ]
+  },
+  {
+    "id": "listening-part3-c2",
+    "skill": "listening",
+    "title": "Part 3 — Conversation 2: an audit finding",
+    "format": "TOEIC Listening — Part 3 · Conversation 2, ba người nói (câu 35–37)",
+    "instructionsVi": "Ba người nói, có nói giảm mang tính mỉa. Nghĩa thật thường ngược với nghĩa đen của câu chữ.",
+    "promptEn": "Listen to the conversation among three speakers and answer questions 35 through 37.",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "W1",
+        "text": "The auditors have flagged the approvals process. Fourteen purchases over the threshold went through without a second signature."
+      },
+      {
+        "speaker": "M",
+        "text": "Fourteen out of how many? Fourteen out of nine hundred is a different conversation from fourteen out of twenty."
+      },
+      {
+        "speaker": "W1",
+        "text": "Fourteen out of thirty-one."
+      },
+      {
+        "speaker": "M",
+        "text": "Ah. Well, that's certainly a number."
+      },
+      {
+        "speaker": "W2",
+        "text": "In fairness, the second-signature rule only came in during March and nobody was told. I found out because I read the intranet, which I don't think anyone else does."
+      },
+      {
+        "speaker": "W1",
+        "text": "That's a reasonable point, and it changes what we recommend. If the rule wasn't communicated, the finding is about our rollout, not about people ignoring controls."
+      },
+      {
+        "speaker": "M",
+        "text": "I'd still want the fourteen reviewed individually before we conclude that."
+      }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p3-35",
+        "kind": "mcq",
+        "prompt": "35. What does the man mean by 'that's certainly a number'?",
+        "options": [
+          {
+            "id": "a",
+            "text": "He needs the figure repeated."
+          },
+          {
+            "id": "b",
+            "text": "He believes the audit was inaccurate."
+          },
+          {
+            "id": "c",
+            "text": "He considers the problem minor."
+          },
+          {
+            "id": "d",
+            "text": "He thinks the proportion is alarmingly high."
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "Nói giảm mang tính mỉa. Ông ta vừa lập luận rằng tỉ lệ mới quan trọng; 14 trên 31 là gần một nửa."
+      },
+      {
+        "id": "p3-36",
+        "kind": "mcq",
+        "prompt": "36. What point does the second woman make?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The rule was never approved."
+          },
+          {
+            "id": "b",
+            "text": "The auditors reviewed the wrong period."
+          },
+          {
+            "id": "c",
+            "text": "Staff were not informed when the rule changed."
+          },
+          {
+            "id": "d",
+            "text": "The threshold is too low."
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'the second-signature rule only came in during March and nobody was told'."
+      },
+      {
+        "id": "p3-37",
+        "kind": "mcq",
+        "prompt": "37. Why does the man still want the cases reviewed?",
+        "options": [
+          {
+            "id": "a",
+            "text": "To confirm the auditors' arithmetic"
+          },
+          {
+            "id": "b",
+            "text": "In case some are irregular for other reasons"
+          },
+          {
+            "id": "c",
+            "text": "Because suppliers have complained"
+          },
+          {
+            "id": "d",
+            "text": "To prepare a report for the intranet"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'I'd still want the fourteen reviewed individually before we conclude that' — tức trước khi kết luận nguyên nhân chỉ là do phổ biến kém."
+      }
+    ]
+  },
+  {
+    "id": "listening-part3-c3",
+    "skill": "listening",
+    "title": "Part 3 — Conversation 3: a warranty claim",
+    "format": "TOEIC Listening — Part 3 · Conversation 3 (câu 38–40)",
+    "instructionsVi": "Nghe rồi trả lời 3 câu. Có một điều khoản kèm ngoại lệ; câu hỏi nhắm đúng vào ngoại lệ.",
+    "promptEn": "Listen to the conversation and answer questions 38 through 40.",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "W",
+        "text": "I'm calling about a compressor that failed. It's two years and one month old, so I assume we're outside warranty."
+      },
+      {
+        "speaker": "M",
+        "text": "Standard cover is twenty-four months, yes. But do you hold an annual service plan?"
+      },
+      {
+        "speaker": "W",
+        "text": "We do — both services completed on time."
+      },
+      {
+        "speaker": "M",
+        "text": "Then you're on the extended term, which is thirty-six months. You're still covered."
+      },
+      {
+        "speaker": "W",
+        "text": "There's one complication. The chamber reached forty-six degrees overnight, and I know there's an exclusion above forty."
+      },
+      {
+        "speaker": "M",
+        "text": "There is. But why did it reach forty-six?"
+      },
+      {
+        "speaker": "W",
+        "text": "The thermostat stopped regulating. It's your unit — supplied with the compressor."
+      },
+      {
+        "speaker": "M",
+        "text": "Then the exclusion doesn't apply. There's a clause covering excursions caused by our own equipment. Submit the claim and reference the thermostat."
+      }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p3-38",
+        "kind": "mcq",
+        "prompt": "38. Why is the unit still under warranty?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Standard cover lasts three years."
+          },
+          {
+            "id": "b",
+            "text": "The fault was reported within 30 days."
+          },
+          {
+            "id": "c",
+            "text": "The customer is a long-standing client."
+          },
+          {
+            "id": "d",
+            "text": "The customer holds a service plan with all services completed."
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "Gói bảo dưỡng năm kéo dài cover từ 24 lên 36 tháng, và cả hai lần bảo dưỡng đều hoàn thành."
+      },
+      {
+        "id": "p3-39",
+        "kind": "mcq",
+        "prompt": "39. Why does the temperature exclusion not apply?",
+        "options": [
+          {
+            "id": "a",
+            "text": "46 degrees is within the permitted range."
+          },
+          {
+            "id": "b",
+            "text": "The excursion happened overnight."
+          },
+          {
+            "id": "c",
+            "text": "It was caused by the supplier's own thermostat."
+          },
+          {
+            "id": "d",
+            "text": "The exclusion was removed last year."
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'There's a clause covering excursions caused by our own equipment'."
+      },
+      {
+        "id": "p3-40",
+        "kind": "mcq",
+        "prompt": "40. What is the woman told to do?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Return the compressor"
+          },
+          {
+            "id": "b",
+            "text": "Submit a claim referencing the thermostat"
+          },
+          {
+            "id": "c",
+            "text": "Buy an extended warranty"
+          },
+          {
+            "id": "d",
+            "text": "Wait for an engineer to call"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'Submit the claim and reference the thermostat'."
+      }
+    ]
+  },
+  {
+    "id": "listening-part3-c4",
+    "skill": "listening",
+    "title": "Part 3 — Conversation 4: a hiring dilemma",
+    "format": "TOEIC Listening — Part 3 · Conversation 4 (câu 41–43)",
+    "instructionsVi": "Nghe rồi trả lời 3 câu. Hai bên có quan điểm khác nhau và cùng thừa nhận điểm mạnh của phía kia.",
+    "promptEn": "Listen to the conversation and answer questions 41 through 43.",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "M",
+        "text": "We're down to two for the analyst role. Mensah has the stronger technical test; Vasquez interviews better."
+      },
+      {
+        "speaker": "W",
+        "text": "How much stronger on the test?"
+      },
+      {
+        "speaker": "M",
+        "text": "Substantially. Ninety-one against sixty-eight."
+      },
+      {
+        "speaker": "W",
+        "text": "That's not a small gap. My hesitation is that this role spends half its time explaining findings to people who don't want to hear them, and the test doesn't measure that at all."
+      },
+      {
+        "speaker": "M",
+        "text": "Agreed. Though I'd rather teach communication to someone who can do the analysis than teach analysis to someone who can't."
+      },
+      {
+        "speaker": "W",
+        "text": "That's fair. Let's offer Mensah, but I'd want a development plan for the presenting side written into the first six months."
+      }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p3-41",
+        "kind": "mcq",
+        "prompt": "41. What is the woman's concern about Ms Mensah?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Her technical score is too low."
+          },
+          {
+            "id": "b",
+            "text": "She is unavailable for six months."
+          },
+          {
+            "id": "c",
+            "text": "She has no relevant experience."
+          },
+          {
+            "id": "d",
+            "text": "The test does not measure communication."
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'this role spends half its time explaining findings… and the test doesn't measure that at all'."
+      },
+      {
+        "id": "p3-42",
+        "kind": "mcq",
+        "prompt": "42. What is the man's argument?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The interview matters more than the test."
+          },
+          {
+            "id": "b",
+            "text": "Communication is easier to teach than analysis."
+          },
+          {
+            "id": "c",
+            "text": "Both candidates should be hired."
+          },
+          {
+            "id": "d",
+            "text": "The role should be redefined."
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'I'd rather teach communication to someone who can do the analysis than teach analysis to someone who can't'."
+      },
+      {
+        "id": "p3-43",
+        "kind": "mcq",
+        "prompt": "43. What condition does the woman attach to the offer?",
+        "options": [
+          {
+            "id": "a",
+            "text": "A second interview"
+          },
+          {
+            "id": "b",
+            "text": "A lower starting salary"
+          },
+          {
+            "id": "c",
+            "text": "A development plan for presenting skills"
+          },
+          {
+            "id": "d",
+            "text": "A six-month probation period"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'I'd want a development plan for the presenting side written into the first six months'."
+      }
+    ]
+  },
+  {
+    "id": "listening-part3-c5",
+    "skill": "listening",
+    "title": "Part 3 — Conversation 5: a data protection query",
+    "format": "TOEIC Listening — Part 3 · Conversation 5 (câu 44–46)",
+    "instructionsVi": "Nghe rồi trả lời 3 câu. Người nói dùng nhiều điều kiện lồng nhau — bỏ một vế là chọn sai.",
+    "promptEn": "Listen to the conversation and answer questions 44 through 46.",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "W",
+        "text": "A former customer has asked us to delete everything we hold on them. Can we just do that?"
+      },
+      {
+        "speaker": "M",
+        "text": "Mostly. You delete the marketing records and anything you kept out of convenience."
+      },
+      {
+        "speaker": "W",
+        "text": "And the transaction history?"
+      },
+      {
+        "speaker": "M",
+        "text": "That you keep. Tax law requires six years, and a deletion request doesn't override a statutory retention period."
+      },
+      {
+        "speaker": "W",
+        "text": "Do I need to tell them that?"
+      },
+      {
+        "speaker": "M",
+        "text": "Yes, and that's the part people get wrong. You must respond within thirty days explaining exactly what you've deleted and what you've retained, and why. Silence is a breach even if the deletion itself was done correctly."
+      }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p3-44",
+        "kind": "mcq",
+        "prompt": "44. What must be deleted?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Marketing records and data kept for convenience"
+          },
+          {
+            "id": "b",
+            "text": "Everything held on the customer"
+          },
+          {
+            "id": "c",
+            "text": "Transaction history only"
+          },
+          {
+            "id": "d",
+            "text": "Nothing, if tax law applies"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'You delete the marketing records and anything you kept out of convenience'."
+      },
+      {
+        "id": "p3-45",
+        "kind": "mcq",
+        "prompt": "45. Why is transaction history retained?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The customer did not ask for it."
+          },
+          {
+            "id": "b",
+            "text": "It is stored on a separate system."
+          },
+          {
+            "id": "c",
+            "text": "It contains no personal data."
+          },
+          {
+            "id": "d",
+            "text": "Tax law requires six years' retention."
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'Tax law requires six years, and a deletion request doesn't override a statutory retention period'."
+      },
+      {
+        "id": "p3-46",
+        "kind": "mcq",
+        "prompt": "46. What does the man say people get wrong?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Deleting too much data"
+          },
+          {
+            "id": "b",
+            "text": "Responding too quickly"
+          },
+          {
+            "id": "c",
+            "text": "Failing to reply explaining what was kept and why"
+          },
+          {
+            "id": "d",
+            "text": "Charging a fee for the request"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'Silence is a breach even if the deletion itself was done correctly'."
+      }
+    ]
+  },
+  {
+    "id": "listening-part3-c6",
+    "skill": "listening",
+    "title": "Part 3 — Conversation 6: a quality hold",
+    "format": "TOEIC Listening — Part 3 · Conversation 6, ba người nói (câu 47–49)",
+    "instructionsVi": "Ba người, có xung đột giữa hai bộ phận. Câu hỏi cuối hỏi phương án giải quyết thế bế tắc.",
+    "promptEn": "Listen to the conversation among three speakers and answer questions 47 through 49.",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "W1",
+        "text": "I've held four batches from line two. Same measurement failed on all four — about eleven thousand units."
+      },
+      {
+        "speaker": "M",
+        "text": "Production says the line is within tolerance and we've got a shipping deadline on Friday."
+      },
+      {
+        "speaker": "W1",
+        "text": "Our gauge was calibrated last month. I don't think the problem is on my side."
+      },
+      {
+        "speaker": "W2",
+        "text": "So we have two instruments disagreeing and a deadline in three days. Arguing about whose gauge is right won't resolve it in time."
+      },
+      {
+        "speaker": "M",
+        "text": "What would?"
+      },
+      {
+        "speaker": "W2",
+        "text": "Send thirty units to the external lab this afternoon. Result tomorrow morning, still inside the deadline, and neither side has to concede anything on trust."
+      },
+      {
+        "speaker": "W1",
+        "text": "I'd accept that. The hold stays until the result comes back."
+      }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p3-47",
+        "kind": "mcq",
+        "prompt": "47. Why have the batches been held?",
+        "options": [
+          {
+            "id": "a",
+            "text": "They failed the same measurement."
+          },
+          {
+            "id": "b",
+            "text": "The shipping deadline has passed."
+          },
+          {
+            "id": "c",
+            "text": "The gauge is uncalibrated."
+          },
+          {
+            "id": "d",
+            "text": "Production requested it."
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'Same measurement failed on all four'."
+      },
+      {
+        "id": "p3-48",
+        "kind": "mcq",
+        "prompt": "48. What does the second woman identify as the real obstacle?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The size of the batch"
+          },
+          {
+            "id": "b",
+            "text": "Two instruments disagreeing with a deadline approaching"
+          },
+          {
+            "id": "c",
+            "text": "The cost of external testing"
+          },
+          {
+            "id": "d",
+            "text": "A shortage of staff"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'we have two instruments disagreeing and a deadline in three days. Arguing about whose gauge is right won't resolve it in time'."
+      },
+      {
+        "id": "p3-49",
+        "kind": "mcq",
+        "prompt": "49. What solution is agreed?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Releasing the batches under protest"
+          },
+          {
+            "id": "b",
+            "text": "Recalibrating both gauges first"
+          },
+          {
+            "id": "c",
+            "text": "Delaying the shipment by a week"
+          },
+          {
+            "id": "d",
+            "text": "Independent testing by an external lab"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'Send thirty units to the external lab this afternoon… neither side has to concede anything on trust'."
+      }
+    ]
+  },
+  {
+    "id": "listening-part3-c7",
+    "skill": "listening",
+    "title": "Part 3 — Conversation 7: an unexpected resignation",
+    "format": "TOEIC Listening — Part 3 · Conversation 7 (câu 50–52)",
+    "instructionsVi": "Nghe rồi trả lời 3 câu. Người nói liên hệ hai sự việc mà không nói thẳng kết luận — câu hỏi hàm ý nhắm vào đó.",
+    "promptEn": "Listen to the conversation and answer questions 50 through 52.",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "M",
+        "text": "Three of the night team resigned this week. All on the same day."
+      },
+      {
+        "speaker": "W",
+        "text": "Same day? Did they say why?"
+      },
+      {
+        "speaker": "M",
+        "text": "All three mentioned the shift-swap system. They've been refused leave twice since it came in."
+      },
+      {
+        "speaker": "W",
+        "text": "The system went live in March, didn't it. And this is the first cluster of resignations we've had on nights in two years."
+      },
+      {
+        "speaker": "M",
+        "text": "I'll leave you to draw the obvious conclusion."
+      },
+      {
+        "speaker": "W",
+        "text": "Right. I'll get agency cover for the immediate gap, but I want the automatic refusal rule suspended while we review it. Otherwise we lose the ones who stayed."
+      }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p3-50",
+        "kind": "mcq",
+        "prompt": "50. What reason did the leavers give?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The shift-swap system and refused leave"
+          },
+          {
+            "id": "b",
+            "text": "Pay levels"
+          },
+          {
+            "id": "c",
+            "text": "Long commutes"
+          },
+          {
+            "id": "d",
+            "text": "A change of manager"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'All three mentioned the shift-swap system. They've been refused leave twice since it came in'."
+      },
+      {
+        "id": "p3-51",
+        "kind": "mcq",
+        "prompt": "51. What does the man imply by 'I'll leave you to draw the obvious conclusion'?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The resignations are unrelated to the system."
+          },
+          {
+            "id": "b",
+            "text": "More data is needed."
+          },
+          {
+            "id": "c",
+            "text": "The new system is very likely the cause."
+          },
+          {
+            "id": "d",
+            "text": "The night team is difficult to manage."
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "Hai sự việc được đặt cạnh nhau — hệ thống mới từ tháng Ba và cụm nghỉ việc đầu tiên trong hai năm — rồi để người nghe tự nối."
+      },
+      {
+        "id": "p3-52",
+        "kind": "mcq",
+        "prompt": "52. What does the woman want to do about the underlying cause?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Replace the system entirely"
+          },
+          {
+            "id": "b",
+            "text": "Suspend the automatic refusal rule during a review"
+          },
+          {
+            "id": "c",
+            "text": "Interview the three leavers"
+          },
+          {
+            "id": "d",
+            "text": "Recruit permanent replacements immediately"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'I want the automatic refusal rule suspended while we review it. Otherwise we lose the ones who stayed'."
+      }
+    ]
+  }
+]

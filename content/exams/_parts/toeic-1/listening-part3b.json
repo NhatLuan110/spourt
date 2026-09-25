@@ -1,0 +1,680 @@
+[
+  {
+    "id": "listening-part3-c8",
+    "skill": "listening",
+    "title": "Part 3 — Conversation 8: an expenses query",
+    "format": "TOEIC Listening — Part 3 · Conversation 8 (câu 53–55)",
+    "instructionsVi": "Nghe rồi trả lời 3 câu. Đoạn này có một quy định kèm ngoại lệ; câu hỏi nhắm đúng vào ngoại lệ đó.",
+    "promptEn": "Listen to the conversation and answer questions 53 through 55.",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "M",
+        "text": "Hi, I'm querying an expense claim that was rejected. The taxi from the airport."
+      },
+      {
+        "speaker": "W",
+        "text": "Let me check the reference… I see. Taxis aren't reimbursed when public transport is available on the route."
+      },
+      {
+        "speaker": "M",
+        "text": "My flight landed at half past midnight. There were no trains."
+      },
+      {
+        "speaker": "W",
+        "text": "Ah — that's the exception, and it wasn't recorded. If you resubmit with the flight arrival time on the claim, it'll go through."
+      },
+      {
+        "speaker": "M",
+        "text": "Do I need the boarding pass as well?"
+      },
+      {
+        "speaker": "W",
+        "text": "The booking confirmation is enough, as long as it shows the arrival time. Resubmit by the fifth and it's in this month's run."
+      }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p3-53",
+        "kind": "mcq",
+        "prompt": "53. Why was the claim originally rejected?",
+        "options": [
+          {
+            "id": "a",
+            "text": "It was submitted after the deadline."
+          },
+          {
+            "id": "b",
+            "text": "No receipt was attached."
+          },
+          {
+            "id": "c",
+            "text": "The amount exceeded the limit."
+          },
+          {
+            "id": "d",
+            "text": "Taxi fares are not reimbursed where public transport runs."
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'Taxis aren't reimbursed when public transport is available on the route'."
+      },
+      {
+        "id": "p3-54",
+        "kind": "mcq",
+        "prompt": "54. What makes this claim an exception?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The flight arrived when no trains were running."
+          },
+          {
+            "id": "b",
+            "text": "The man travelled for a client meeting."
+          },
+          {
+            "id": "c",
+            "text": "The taxi was booked by the company."
+          },
+          {
+            "id": "d",
+            "text": "The man had approval in advance."
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'My flight landed at half past midnight. There were no trains' — 'that's the exception'."
+      },
+      {
+        "id": "p3-55",
+        "kind": "mcq",
+        "prompt": "55. What must the man include when he resubmits?",
+        "options": [
+          {
+            "id": "a",
+            "text": "His boarding pass"
+          },
+          {
+            "id": "b",
+            "text": "A manager's signature"
+          },
+          {
+            "id": "c",
+            "text": "Confirmation showing the arrival time"
+          },
+          {
+            "id": "d",
+            "text": "The taxi driver's details"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'The booking confirmation is enough, as long as it shows the arrival time'. Thẻ lên máy bay được nói rõ là KHÔNG cần."
+      }
+    ]
+  },
+  {
+    "id": "listening-part3-c9",
+    "skill": "listening",
+    "title": "Part 3 — Conversation 9: choosing a caterer",
+    "format": "TOEIC Listening — Part 3 · Conversation 9 (câu 56–58)",
+    "instructionsVi": "Nghe rồi trả lời 3 câu. Có hai lựa chọn kèm ưu nhược; câu hỏi hỏi lý do quyết định chứ không hỏi giá.",
+    "promptEn": "Listen to the conversation and answer questions 56 through 58.",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "W",
+        "text": "We've got two quotes for the launch event. Fenwick is nine hundred, Marchetti is eleven fifty."
+      },
+      {
+        "speaker": "M",
+        "text": "For the same number of guests?"
+      },
+      {
+        "speaker": "W",
+        "text": "Both for eighty. But Marchetti includes staff to serve and clear; with Fenwick we'd be doing that ourselves."
+      },
+      {
+        "speaker": "M",
+        "text": "That changes it. We'd need three people for the evening, and I'd rather they were talking to guests."
+      },
+      {
+        "speaker": "W",
+        "text": "Agreed. Marchetti also did the summer event and there were no complaints."
+      },
+      {
+        "speaker": "M",
+        "text": "Then let's go with them. Can you confirm before Friday? They said the date isn't held after that."
+      }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p3-56",
+        "kind": "mcq",
+        "prompt": "56. What is included in the more expensive quote?",
+        "options": [
+          {
+            "id": "a",
+            "text": "A larger number of guests"
+          },
+          {
+            "id": "b",
+            "text": "Venue hire"
+          },
+          {
+            "id": "c",
+            "text": "Staff to serve and clear"
+          },
+          {
+            "id": "d",
+            "text": "A discount for repeat customers"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'Marchetti includes staff to serve and clear'. Số khách là như nhau (80) nên (A) sai."
+      },
+      {
+        "id": "p3-57",
+        "kind": "mcq",
+        "prompt": "57. Why does the man prefer that option?",
+        "options": [
+          {
+            "id": "a",
+            "text": "It is cheaper overall."
+          },
+          {
+            "id": "b",
+            "text": "Their own staff can talk to guests instead of serving."
+          },
+          {
+            "id": "c",
+            "text": "The food is of higher quality."
+          },
+          {
+            "id": "d",
+            "text": "It can be booked at short notice."
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'We'd need three people for the evening, and I'd rather they were talking to guests'."
+      },
+      {
+        "id": "p3-58",
+        "kind": "mcq",
+        "prompt": "58. What must be done before Friday?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The booking must be confirmed."
+          },
+          {
+            "id": "b",
+            "text": "The guest list must be finalised."
+          },
+          {
+            "id": "c",
+            "text": "A deposit must be paid."
+          },
+          {
+            "id": "d",
+            "text": "A second quote must be obtained."
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'Can you confirm before Friday? They said the date isn't held after that'."
+      }
+    ]
+  },
+  {
+    "id": "listening-part3-c10",
+    "skill": "listening",
+    "title": "Part 3 — Conversation 10: a software rollout",
+    "format": "TOEIC Listening — Part 3 · Conversation 10 (câu 59–61)",
+    "instructionsVi": "Nghe rồi trả lời 3 câu. Người nói dùng cách nói giảm nhẹ để bày tỏ nghi ngờ — câu hỏi hàm ý nhắm vào đó.",
+    "promptEn": "Listen to the conversation and answer questions 59 through 61.",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "M",
+        "text": "The vendor says the whole rollout can be done in two weekends."
+      },
+      {
+        "speaker": "W",
+        "text": "Two weekends. Well, they're certainly optimistic."
+      },
+      {
+        "speaker": "M",
+        "text": "You don't think it's realistic?"
+      },
+      {
+        "speaker": "W",
+        "text": "Not with sixty machines and no test environment. The last upgrade took a month and that was a smaller change."
+      },
+      {
+        "speaker": "M",
+        "text": "So what would you propose?"
+      },
+      {
+        "speaker": "W",
+        "text": "Do one department first — Accounts, they're the smallest — and see what breaks. If that goes cleanly in a weekend, the estimate might hold. If it doesn't, we've learned it cheaply."
+      }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p3-59",
+        "kind": "mcq",
+        "prompt": "59. What does the woman mean when she says, 'they're certainly optimistic'?",
+        "options": [
+          {
+            "id": "a",
+            "text": "She agrees the schedule is achievable."
+          },
+          {
+            "id": "b",
+            "text": "She is pleased with the vendor's attitude."
+          },
+          {
+            "id": "c",
+            "text": "She wants a written guarantee."
+          },
+          {
+            "id": "d",
+            "text": "She thinks the estimate is unrealistic."
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "Cách nói mỉa. Ngay sau đó bà ấy giải thích rõ lý do: 60 máy, không có môi trường thử, lần nâng cấp trước mất một tháng."
+      },
+      {
+        "id": "p3-60",
+        "kind": "mcq",
+        "prompt": "60. What reason does she give for her doubt?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The vendor has failed before."
+          },
+          {
+            "id": "b",
+            "text": "The budget has not been approved."
+          },
+          {
+            "id": "c",
+            "text": "There are sixty machines and no test environment."
+          },
+          {
+            "id": "d",
+            "text": "Staff have not been trained."
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'Not with sixty machines and no test environment'."
+      },
+      {
+        "id": "p3-61",
+        "kind": "mcq",
+        "prompt": "61. What does she propose?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Starting with the smallest department"
+          },
+          {
+            "id": "b",
+            "text": "Cancelling the rollout entirely"
+          },
+          {
+            "id": "c",
+            "text": "Hiring a different vendor"
+          },
+          {
+            "id": "d",
+            "text": "Extending the deadline to a month"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'Do one department first — Accounts, they're the smallest — and see what breaks'."
+      }
+    ]
+  },
+  {
+    "id": "listening-part3-c11",
+    "skill": "listening",
+    "title": "Part 3 — Conversation 11: with a table of options",
+    "format": "TOEIC Listening — Part 3 · Conversation 11, kèm bảng trên đề (câu 62–64)",
+    "instructionsVi": "Dạng 'Look at the graphic'. Người nói KHÔNG đọc ra đáp án, mà mô tả gián tiếp để bạn tự đối chiếu với bảng. Đọc bảng trước khi băng chạy.",
+    "promptEn": "Listen to the conversation and answer questions 62 through 64. Refer to the price list below where indicated.\n\nMEETING ROOM HIRE — half day\nRoom A (8 seats) — £60\nRoom B (16 seats) — £95\nRoom C (24 seats) — £140\nRoom D (40 seats) — £210",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "W",
+        "text": "How many are coming to the supplier briefing?"
+      },
+      {
+        "speaker": "M",
+        "text": "Twenty confirmed, and two more said they'd try."
+      },
+      {
+        "speaker": "W",
+        "text": "So we need something that takes at least twenty-two. The next size up from that is what I'd book."
+      },
+      {
+        "speaker": "M",
+        "text": "Fine. Is that within budget? We were given a hundred and fifty."
+      },
+      {
+        "speaker": "W",
+        "text": "Just about, with ten pounds to spare. Though that's for the room only — tea and coffee is extra."
+      },
+      {
+        "speaker": "M",
+        "text": "Leave the refreshments then. We can put a kettle in the corner."
+      }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p3-62",
+        "kind": "mcq",
+        "prompt": "62. Look at the graphic. Which room will they book?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Room A"
+          },
+          {
+            "id": "b",
+            "text": "Room B"
+          },
+          {
+            "id": "c",
+            "text": "Room D"
+          },
+          {
+            "id": "d",
+            "text": "Room C"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "Cần chỗ cho ít nhất 22 người. Room B chỉ 16, nên phải lên Room C (24 chỗ). Con số phòng không được đọc ra, phải tự đối chiếu bảng."
+      },
+      {
+        "id": "p3-63",
+        "kind": "mcq",
+        "prompt": "63. What is the budget for the room?",
+        "options": [
+          {
+            "id": "a",
+            "text": "£150"
+          },
+          {
+            "id": "b",
+            "text": "£95"
+          },
+          {
+            "id": "c",
+            "text": "£140"
+          },
+          {
+            "id": "d",
+            "text": "£210"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'We were given a hundred and fifty'. 140 là giá phòng, không phải ngân sách — bẫy đổi chỗ hai con số."
+      },
+      {
+        "id": "p3-64",
+        "kind": "mcq",
+        "prompt": "64. What do they decide about refreshments?",
+        "options": [
+          {
+            "id": "a",
+            "text": "To order tea and coffee from the venue"
+          },
+          {
+            "id": "b",
+            "text": "To ask suppliers to bring their own"
+          },
+          {
+            "id": "c",
+            "text": "To skip them and bring a kettle"
+          },
+          {
+            "id": "d",
+            "text": "To request a larger budget"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'Leave the refreshments then. We can put a kettle in the corner'."
+      }
+    ]
+  },
+  {
+    "id": "listening-part3-c12",
+    "skill": "listening",
+    "title": "Part 3 — Conversation 12: a customer complaint call",
+    "format": "TOEIC Listening — Part 3 · Conversation 12 (câu 65–67)",
+    "instructionsVi": "Nghe rồi trả lời 3 câu. Chú ý phân biệt điều khách hàng ĐÒI với điều nhân viên thực sự có thẩm quyền làm.",
+    "promptEn": "Listen to the conversation and answer questions 65 through 67.",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "W",
+        "text": "I've been charged twice for the same subscription. Two payments of forty-nine pounds on the same day."
+      },
+      {
+        "speaker": "M",
+        "text": "I can see both. That's a duplicate — I'm sorry. I'll refund one of them now."
+      },
+      {
+        "speaker": "W",
+        "text": "And I'd like some compensation for the inconvenience. I spent forty minutes on hold earlier."
+      },
+      {
+        "speaker": "M",
+        "text": "I understand, and I've noted the wait time. I can't authorise compensation myself, but I'll pass it to my supervisor and someone will come back to you within two working days."
+      },
+      {
+        "speaker": "W",
+        "text": "How long will the refund take?"
+      },
+      {
+        "speaker": "M",
+        "text": "Three to five working days, depending on your bank. You'll get an email confirming it today."
+      }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p3-65",
+        "kind": "mcq",
+        "prompt": "65. What is the woman's problem?",
+        "options": [
+          {
+            "id": "a",
+            "text": "She was charged twice for one subscription."
+          },
+          {
+            "id": "b",
+            "text": "Her subscription was cancelled by mistake."
+          },
+          {
+            "id": "c",
+            "text": "She was charged the wrong amount."
+          },
+          {
+            "id": "d",
+            "text": "She did not receive a confirmation email."
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'Two payments of forty-nine pounds on the same day' — trùng lặp, không phải sai số tiền."
+      },
+      {
+        "id": "p3-66",
+        "kind": "mcq",
+        "prompt": "66. What does the man say about compensation?",
+        "options": [
+          {
+            "id": "a",
+            "text": "He will add it to the refund immediately."
+          },
+          {
+            "id": "b",
+            "text": "It is not available in this case."
+          },
+          {
+            "id": "c",
+            "text": "He must refer it to his supervisor."
+          },
+          {
+            "id": "d",
+            "text": "She must write in to request it."
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'I can't authorise compensation myself, but I'll pass it to my supervisor'. Ông ta không từ chối, chỉ nói không đủ thẩm quyền."
+      },
+      {
+        "id": "p3-67",
+        "kind": "mcq",
+        "prompt": "67. How long will the refund take?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Same day"
+          },
+          {
+            "id": "b",
+            "text": "Two working days"
+          },
+          {
+            "id": "c",
+            "text": "Up to a month"
+          },
+          {
+            "id": "d",
+            "text": "Three to five working days"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'Three to five working days, depending on your bank'. Hai ngày làm việc là thời hạn phản hồi về BỒI THƯỜNG, không phải hoàn tiền."
+      }
+    ]
+  },
+  {
+    "id": "listening-part3-c13",
+    "skill": "listening",
+    "title": "Part 3 — Conversation 13: planning a staff survey",
+    "format": "TOEIC Listening — Part 3 · Conversation 13 (câu 68–70)",
+    "instructionsVi": "Hội thoại cuối của Part 3. Ba người, có một điểm bất đồng được giải quyết ở lượt nói cuối.",
+    "promptEn": "Listen to the conversation among three speakers and answer questions 68 through 70.",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "M1",
+        "text": "For the staff survey — do we make it anonymous or not?"
+      },
+      {
+        "speaker": "W",
+        "text": "Anonymous. People won't be honest about their manager otherwise."
+      },
+      {
+        "speaker": "M2",
+        "text": "I take that point, but then we can't follow up on anything specific. Last year someone reported a safety issue and we couldn't ask which site."
+      },
+      {
+        "speaker": "W",
+        "text": "Fair. What if it's anonymous by default, with an optional box for people who are happy to be contacted?"
+      },
+      {
+        "speaker": "M2",
+        "text": "That works for me."
+      },
+      {
+        "speaker": "M1",
+        "text": "Good. I'll draft it that way and circulate it Monday. Aim to send it out the first week of next month."
+      }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p3-68",
+        "kind": "mcq",
+        "prompt": "68. What are the speakers deciding?",
+        "options": [
+          {
+            "id": "a",
+            "text": "How many staff to survey"
+          },
+          {
+            "id": "b",
+            "text": "Whether the survey should be anonymous"
+          },
+          {
+            "id": "c",
+            "text": "Which company should run the survey"
+          },
+          {
+            "id": "d",
+            "text": "Whether to hold a survey at all"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'do we make it anonymous or not?' là câu mở đầu và là chủ đề của cả đoạn."
+      },
+      {
+        "id": "p3-69",
+        "kind": "mcq",
+        "prompt": "69. What objection does the second man raise?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Specific issues cannot be followed up."
+          },
+          {
+            "id": "b",
+            "text": "Anonymous surveys take longer to analyse."
+          },
+          {
+            "id": "c",
+            "text": "Staff will not complete the survey."
+          },
+          {
+            "id": "d",
+            "text": "The survey is too long."
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'we can't follow up on anything specific', kèm ví dụ vụ an toàn năm ngoái không biết ở cơ sở nào."
+      },
+      {
+        "id": "p3-70",
+        "kind": "mcq",
+        "prompt": "70. What compromise is agreed?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The survey will not be anonymous."
+          },
+          {
+            "id": "b",
+            "text": "Two separate surveys will be sent."
+          },
+          {
+            "id": "c",
+            "text": "Anonymous by default, with an optional contact box."
+          },
+          {
+            "id": "d",
+            "text": "Only managers will be surveyed."
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'anonymous by default, with an optional box for people who are happy to be contacted'."
+      }
+    ]
+  }
+]

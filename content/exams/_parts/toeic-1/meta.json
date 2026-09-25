@@ -1,0 +1,174 @@
+{
+  "examId": "toeic",
+  "levelId": "1",
+  "vocabulary": [
+    {
+      "id": "confirm",
+      "term": "confirm",
+      "ipa": "/kənˈfɜːm/",
+      "meaningVi": "xác nhận",
+      "definitionEn": "To state or show that something is definitely true or correct.",
+      "example": "Please confirm your attendance by Friday.",
+      "exampleVi": "Vui lòng xác nhận tham dự trước thứ Sáu.",
+      "collocations": [
+        "confirm a booking",
+        "confirm receipt",
+        "confirmation email"
+      ]
+    },
+    {
+      "id": "reschedule",
+      "term": "reschedule",
+      "ipa": "/ˌriːˈʃedjuːl/",
+      "meaningVi": "dời lịch, xếp lại lịch",
+      "definitionEn": "To change the time or date of a planned event.",
+      "example": "We had to reschedule the meeting for Thursday.",
+      "exampleVi": "Chúng tôi phải dời cuộc họp sang thứ Năm.",
+      "collocations": [
+        "reschedule a meeting",
+        "reschedule for",
+        "rescheduled appointment"
+      ]
+    },
+    {
+      "id": "invoice",
+      "term": "invoice",
+      "ipa": "/ˈɪnvɔɪs/",
+      "meaningVi": "hoá đơn",
+      "definitionEn": "A document listing goods or services supplied and the amount owed.",
+      "example": "The invoice was sent to the wrong department.",
+      "exampleVi": "Hoá đơn đã bị gửi nhầm sang phòng khác.",
+      "collocations": [
+        "issue an invoice",
+        "outstanding invoice",
+        "invoice number"
+      ]
+    },
+    {
+      "id": "supplier",
+      "term": "supplier",
+      "ipa": "/səˈplaɪə(r)/",
+      "meaningVi": "nhà cung cấp",
+      "definitionEn": "A company or person that provides goods or services.",
+      "example": "We have switched to a local supplier for packaging.",
+      "exampleVi": "Chúng tôi đã chuyển sang nhà cung cấp bao bì trong nước.",
+      "collocations": [
+        "main supplier",
+        "approved supplier",
+        "supplier agreement"
+      ]
+    },
+    {
+      "id": "shipment",
+      "term": "shipment",
+      "ipa": "/ˈʃɪpmənt/",
+      "meaningVi": "lô hàng, chuyến hàng",
+      "definitionEn": "A quantity of goods sent together to a destination.",
+      "example": "The shipment cleared customs yesterday morning.",
+      "exampleVi": "Lô hàng đã thông quan sáng hôm qua.",
+      "collocations": [
+        "delay a shipment",
+        "track a shipment",
+        "shipment arrives"
+      ]
+    },
+    {
+      "id": "attach",
+      "term": "attach",
+      "ipa": "/əˈtætʃ/",
+      "meaningVi": "đính kèm",
+      "definitionEn": "To send a file together with an email message.",
+      "example": "I have attached the revised floor plan.",
+      "exampleVi": "Tôi đã đính kèm bản vẽ mặt bằng đã sửa.",
+      "collocations": [
+        "attach a file",
+        "please find attached",
+        "attachment"
+      ]
+    },
+    {
+      "id": "vendor",
+      "term": "vendor",
+      "ipa": "/ˈvendə(r)/",
+      "meaningVi": "bên bán, đơn vị bán hàng",
+      "definitionEn": "A company that sells a product or service to another company.",
+      "example": "Three vendors submitted quotations for the contract.",
+      "exampleVi": "Ba bên bán đã nộp báo giá cho hợp đồng này.",
+      "collocations": [
+        "preferred vendor",
+        "vendor quotation",
+        "vendor management"
+      ]
+    },
+    {
+      "id": "deadline",
+      "term": "deadline",
+      "ipa": "/ˈdedlaɪn/",
+      "meaningVi": "hạn chót",
+      "definitionEn": "The latest time by which something must be finished.",
+      "example": "The deadline for expense claims is the fifth of each month.",
+      "exampleVi": "Hạn chót nộp đề nghị hoàn chi phí là ngày 5 hằng tháng.",
+      "collocations": [
+        "meet a deadline",
+        "miss the deadline",
+        "tight deadline"
+      ]
+    },
+    {
+      "id": "refund",
+      "term": "refund",
+      "ipa": "/ˈriːfʌnd/",
+      "meaningVi": "tiền hoàn lại",
+      "definitionEn": "Money returned to a customer, especially for faulty or unwanted goods.",
+      "example": "Customers may request a full refund within thirty days.",
+      "exampleVi": "Khách hàng có thể yêu cầu hoàn tiền đầy đủ trong vòng ba mươi ngày.",
+      "collocations": [
+        "issue a refund",
+        "full refund",
+        "request a refund"
+      ]
+    },
+    {
+      "id": "maintenance",
+      "term": "maintenance",
+      "ipa": "/ˈmeɪntənəns/",
+      "meaningVi": "bảo trì",
+      "definitionEn": "The work of keeping equipment or a building in good condition.",
+      "example": "Routine maintenance is scheduled for the first Sunday of each month.",
+      "exampleVi": "Bảo trì định kỳ được xếp vào Chủ nhật đầu tiên mỗi tháng.",
+      "collocations": [
+        "routine maintenance",
+        "maintenance schedule",
+        "under maintenance"
+      ]
+    },
+    {
+      "id": "receipt",
+      "term": "receipt",
+      "ipa": "/rɪˈsiːt/",
+      "meaningVi": "biên lai; việc nhận được",
+      "definitionEn": "A document proving that goods or money have been received.",
+      "example": "Keep your receipt in case you need to exchange the item.",
+      "exampleVi": "Giữ biên lai phòng khi bạn cần đổi hàng.",
+      "collocations": [
+        "keep the receipt",
+        "on receipt of",
+        "acknowledge receipt"
+      ]
+    },
+    {
+      "id": "available",
+      "term": "available",
+      "ipa": "/əˈveɪləbl/",
+      "meaningVi": "có sẵn; rảnh",
+      "definitionEn": "Able to be used or obtained; free to meet or talk.",
+      "example": "Are you available for a short call at four?",
+      "exampleVi": "Bốn giờ anh có rảnh để gọi ngắn không?",
+      "collocations": [
+        "readily available",
+        "available for",
+        "availability"
+      ]
+    }
+  ]
+}

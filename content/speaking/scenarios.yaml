@@ -1,0 +1,481 @@
+scenarios:
+  - slug: ordering-at-a-cafe
+    title: Ordering at a Cafe
+    titleVi: Gọi đồ ở quán cà phê
+    cefr: A2
+    category: restaurant
+    maxTurns: 10
+    aiPersona: Bạn là nhân viên pha chế ở một quán cà phê nhỏ tại Hà Nội, nói tiếng Anh với khách nước
+      ngoài. Thân thiện nhưng bận, câu ngắn. Hỏi lại khi khách nói chưa rõ. Nếu khách gọi món không
+      có (ví dụ oat milk), hãy nói hết và gợi ý món khác — đừng chiều theo cho xong. Kết thúc khi đã
+      chốt đơn và báo giá.
+    objectives:
+      - Gọi được một đồ uống có nêu rõ cỡ
+      - Trả lời được câu hỏi về sữa hoặc đường
+      - Hỏi được giá tiền
+      - Nói rõ mang đi hay uống tại chỗ
+    usefulPhrases:
+      - en: Could I have a large iced coffee, please?
+        vi: Cho tôi một cà phê đá cỡ lớn nhé.
+        when: Khi gọi đồ
+      - en: To take away, please.
+        vi: Mang đi ạ.
+        when: Khi được hỏi uống tại chỗ hay mang đi
+      - en: Just a little milk, and no sugar.
+        vi: Cho ít sữa thôi, không đường ạ.
+        when: Khi được hỏi về sữa và đường
+      - en: How much is that altogether?
+        vi: Tất cả bao nhiêu tiền ạ?
+        when: Khi muốn hỏi giá
+      - en: Sorry, could you say that again?
+        vi: Xin lỗi, bạn nói lại được không?
+        when: Khi nghe chưa rõ
+  - slug: checking-into-a-hotel
+    title: Checking Into a Hotel
+    titleVi: Nhận phòng khách sạn
+    cefr: A2
+    category: travel
+    maxTurns: 12
+    aiPersona: "Bạn là lễ tân khách sạn ba sao ở Đà Nẵng. Lịch sự, chuyên nghiệp, dùng câu đầy đủ. Yêu
+      cầu hộ chiếu, xác nhận số đêm và loại phòng. Có một trục trặc nhỏ: phòng khách đặt là tầng hai
+      nhưng chỉ còn tầng năm — hãy nêu ra và đợi khách phản ứng. Kết thúc khi đã giao chìa khoá và
+      báo giờ ăn sáng."
+    objectives:
+      - Nói được tên và mã đặt phòng
+      - Xử lý được tình huống đổi phòng
+      - Hỏi được giờ ăn sáng hoặc wifi
+      - Cảm ơn và kết thúc lịch sự
+    usefulPhrases:
+      - en: I have a reservation under the name Minh.
+        vi: Tôi có đặt phòng dưới tên Minh.
+        when: Khi bắt đầu nhận phòng
+      - en: Is there any chance of a lower floor?
+        vi: Có phòng tầng thấp hơn không ạ?
+        when: Khi bị đổi lên tầng cao
+      - en: What time is breakfast served?
+        vi: Mấy giờ có bữa sáng ạ?
+        when: Khi hỏi dịch vụ
+      - en: Could I have the wifi password?
+        vi: Cho tôi xin mật khẩu wifi được không?
+        when: Khi cần wifi
+  - slug: a-job-interview
+    title: A Job Interview
+    titleVi: Phỏng vấn xin việc
+    cefr: B1
+    category: interview
+    maxTurns: 14
+    aiPersona: Bạn là trưởng nhóm marketing tại một công ty công nghệ, đang phỏng vấn ứng viên thực tập.
+      Hỏi từng câu một, không dồn. Sau mỗi câu trả lời hãy hỏi tiếp một câu đào sâu — nếu ứng viên
+      nói chung chung thì yêu cầu ví dụ cụ thể. Thân thiện nhưng không dễ dãi. Kết thúc bằng việc
+      mời ứng viên đặt câu hỏi ngược lại.
+    objectives:
+      - Giới thiệu bản thân trong khoảng một phút
+      - Nêu được một ví dụ cụ thể về việc đã làm
+      - Trả lời được câu hỏi về điểm yếu
+      - Đặt được một câu hỏi ngược cho nhà tuyển dụng
+    usefulPhrases:
+      - en: Thank you for having me.
+        vi: Cảm ơn anh chị đã dành thời gian.
+        when: Khi bắt đầu
+      - en: For example, in my final-year project I…
+        vi: Ví dụ, trong dự án năm cuối tôi đã…
+        when: Khi cần đưa dẫn chứng cụ thể
+      - en: That's something I'm actively working on.
+        vi: Đó là điều tôi đang chủ động cải thiện.
+        when: Khi nói về điểm yếu
+      - en: Could you tell me more about the team I'd be joining?
+        vi: Anh chị nói thêm về nhóm tôi sẽ vào được không?
+        when: Khi được mời đặt câu hỏi
+  - slug: at-the-doctor
+    title: At the Doctor
+    titleVi: Đi khám bệnh
+    cefr: B1
+    category: health
+    maxTurns: 12
+    aiPersona: "Bạn là bác sĩ đa khoa ở phòng khám tại Anh. Hỏi triệu chứng theo trình tự: bị gì, từ bao
+      giờ, có nặng thêm không, có dùng thuốc gì chưa. Nói rõ ràng, không dùng thuật ngữ y khoa khó.
+      Chẩn đoán là viêm họng do virus, không kê kháng sinh — nếu bệnh nhân đòi kháng sinh thì giải
+      thích vì sao không cần. Kết thúc bằng lời dặn và mốc thời gian quay lại."
+    objectives:
+      - Mô tả được triệu chứng và thời gian bị
+      - Trả lời được câu hỏi của bác sĩ
+      - Hỏi được về thuốc hoặc thời gian khỏi
+      - Hiểu được lời dặn cuối
+    usefulPhrases:
+      - en: I've had a sore throat for about a week.
+        vi: Tôi bị đau họng khoảng một tuần rồi.
+        when: Khi mô tả triệu chứng
+      - en: It's been getting worse since Tuesday.
+        vi: Từ thứ Ba thì nặng hơn.
+        when: Khi nói về diễn biến
+      - en: Do I need antibiotics?
+        vi: Tôi có cần kháng sinh không ạ?
+        when: Khi hỏi về thuốc
+      - en: How long should it take to clear up?
+        vi: Bao lâu thì khỏi ạ?
+        when: Khi hỏi thời gian hồi phục
+  - slug: small-talk-with-a-colleague
+    title: Small Talk With a Colleague
+    titleVi: Trò chuyện xã giao với đồng nghiệp
+    cefr: B2
+    category: smalltalk
+    maxTurns: 12
+    aiPersona: Bạn là đồng nghiệp người Úc, gặp người học ở khu pha cà phê trong văn phòng sáng thứ Hai.
+      Nói tự nhiên, có dùng thành ngữ và câu rút gọn. Bắt chuyện về cuối tuần, rồi chuyển sang một
+      chủ đề khác. Nếu người học chỉ trả lời cụt lủn thì hỏi tiếp để họ phải nói dài hơn. Đừng để
+      cuộc trò chuyện thành phỏng vấn — bạn cũng kể chuyện của mình.
+    objectives:
+      - Bắt được chuyện và đáp lại tự nhiên
+      - Kể được một việc đã làm cuối tuần
+      - Hỏi ngược lại đối phương
+      - Kết thúc cuộc trò chuyện lịch sự
+    usefulPhrases:
+      - en: Not bad, thanks. How about you?
+        vi: Cũng ổn, cảm ơn. Còn bạn thì sao?
+        when: Khi được hỏi thăm
+      - en: I ended up just staying in, actually.
+        vi: Cuối cùng tôi chỉ ở nhà thôi.
+        when: Khi kể về cuối tuần
+      - en: Oh really? How did that go?
+        vi: Thật á? Rồi sao nữa?
+        when: Khi muốn đối phương kể tiếp
+      - en: Anyway, I'd better get back to it.
+        vi: Thôi, tôi phải quay lại làm đây.
+        when: Khi muốn kết thúc lịch sự
+  - slug: returning-a-faulty-headset
+    title: Returning a Faulty Headset
+    titleVi: Đổi trả tai nghe bị lỗi
+    cefr: A2
+    category: shopping
+    maxTurns: 12
+    aiPersona: Bạn là nhân viên bán hàng tại một cửa hàng điện tử tên là SoundMax. Bạn đang nói chuyện
+      với khách hàng muốn đổi một chiếc tai nghe Bluetooth màu đen vừa mua hôm qua nhưng không sạc
+      được pin. Trở ngại của bạn là cửa hàng yêu cầu hóa đơn giấy để đổi trả, nhưng khách hàng không
+      có hóa đơn giấy mà chỉ có biên lai điện tử trên điện thoại. Hãy giữ thái độ lịch sự, nói tiếng
+      Anh đơn giản phù hợp trình độ A2. Hãy đưa ra câu hỏi từng câu một. Chỉ kết thúc hội thoại khi
+      khách hàng thuyết phục được bạn chấp nhận biên lai điện tử và hoàn tất việc đổi sản phẩm mới.
+    objectives:
+      - Chào nhân viên và giải thích lý do muốn đổi tai nghe.
+      - Trình bày rằng tai nghe bị lỗi không sạc được pin.
+      - Giải thích lý do không có hóa đơn giấy và chìa biên lai điện tử.
+      - Cảm ơn nhân viên sau khi được đổi sản phẩm mới.
+    usefulPhrases:
+      - en: I'd like to return this headset because it doesn't work.
+        vi: Tôi muốn trả lại chiếc tai nghe này vì nó không hoạt động.
+        when: Dùng khi bắt đầu cuộc trò chuyện đổi trả sản phẩm.
+      - en: The battery doesn't charge at all.
+        vi: Pin hoàn toàn không sạc được.
+        when: Dùng để miêu tả lỗi cụ thể của sản phẩm.
+      - en: I lost my paper receipt, but I have a digital one on my phone.
+        vi: Tôi bị mất hóa đơn giấy, nhưng tôi có hóa đơn điện tử trên điện thoại.
+        when: Dùng khi cửa hàng yêu cầu hóa đơn giấy.
+      - en: Can I get a replacement, please?
+        vi: Tôi có thể đổi sản phẩm mới được không?
+        when: Dùng khi muốn yêu cầu đổi hàng thay vì hoàn tiền.
+      - en: Thank you for your help.
+        vi: Cảm ơn sự giúp đỡ của bạn.
+        when: Dùng để kết thúc giao dịch một cách lịch sự.
+  - slug: buying-a-bus-ticket
+    title: Buying a Bus Ticket
+    titleVi: Mua vé xe buýt
+    cefr: A2
+    category: travel
+    maxTurns: 10
+    aiPersona: Bạn là nhân viên bán vé tại bến xe trung tâm thành phố. Người dùng muốn mua vé đi đến
+      thành phố Đà Lạt vào sáng mai. Trở ngại của bạn là chuyến xe buýt buổi sáng lúc 8 giờ đã hết
+      vé, chỉ còn chuyến lúc 10 giờ sáng hoặc chuyến chiều lúc 2 giờ. Hãy giao tiếp bằng tiếng Anh
+      đơn giản, rõ ràng, phù hợp trình độ A2. Hãy hỏi khách hàng từng câu một để tìm giải pháp. Chỉ
+      kết thúc hội thoại khi khách hàng chọn được chuyến xe phù hợp, thanh toán và nhận vé thành
+      công từ bạn.
+    objectives:
+      - Hỏi mua vé xe buýt đi Đà Lạt vào sáng mai.
+      - Xác nhận thời gian khởi hành mong muốn.
+      - Chọn chuyến xe thay thế khi chuyến 8 giờ đã hết vé.
+      - Hỏi giá vé và hoàn tất việc thanh toán.
+    usefulPhrases:
+      - en: I need a bus ticket to Da Lat for tomorrow morning, please.
+        vi: Tôi cần mua một vé xe buýt đi Đà Lạt vào sáng mai.
+        when: Dùng khi mở đầu yêu cầu mua vé.
+      - en: How much is a one-way ticket?
+        vi: Vé một chiều giá bao nhiêu?
+        when: Dùng để hỏi giá vé.
+      - en: What time is the next available bus?
+        vi: Chuyến xe tiếp theo còn trống khởi hành lúc mấy giờ?
+        when: Dùng khi chuyến xe mong muốn đã hết vé.
+      - en: I will take the ten o'clock bus.
+        vi: Tôi sẽ đi chuyến xe lúc mười giờ.
+        when: Dùng khi quyết định chọn giờ khởi hành mới.
+      - en: Here is my credit card.
+        vi: Đây là thẻ tín dụng của tôi.
+        when: Dùng khi thanh toán tiền vé.
+  - slug: inviting-a-friend-to-dinner
+    title: Inviting a Friend to Dinner
+    titleVi: Mời bạn đi ăn tối
+    cefr: A2
+    category: smalltalk
+    maxTurns: 10
+    aiPersona: Bạn là một người bạn thân tên là Linh. Bạn đang nói chuyện với người dùng, người vừa nhắn
+      tin mời bạn đi ăn tối vào tối thứ Sáu tuần này. Trở ngại của bạn là bạn bị dị ứng với hải sản,
+      vì vậy bạn không thể đi nhà hàng hải sản mà người dùng gợi ý ban đầu. Hãy dùng tiếng Anh thân
+      thiện, trình độ A2, phản hồi tự nhiên, hỏi từng câu một. Chỉ kết thúc hội thoại khi hai bạn đã
+      thống nhất được một nhà hàng món Ý và thời gian cụ thể để gặp nhau vào tối thứ Sáu.
+    objectives:
+      - Mời bạn đi ăn tối vào tối thứ Sáu.
+      - Đề xuất một loại nhà hàng ban đầu.
+      - Lắng nghe phản hồi và đồng ý đổi sang nhà hàng món Ý do bạn đề xuất.
+      - Thống nhất thời gian và địa điểm gặp mặt cụ thể.
+    usefulPhrases:
+      - en: Are you free for dinner this Friday?
+        vi: Bạn có rảnh đi ăn tối vào thứ Sáu tuần này không?
+        when: Dùng để ngỏ lời mời bạn bè.
+      - en: Would you like to try the new seafood restaurant?
+        vi: Bạn có muốn thử nhà hàng hải sản mới không?
+        when: Dùng khi đưa ra gợi ý địa điểm ăn uống.
+      - en: Thanks for telling me. Let's choose an Italian restaurant instead.
+        vi: Cảm ơn bạn đã nói cho mình biết. Vậy mình chọn nhà hàng món Ý nhé.
+        when: Dùng khi người được mời nói họ bị dị ứng hải sản và bạn đồng ý đổi địa điểm.
+      - en: That sounds great! Let's meet at seven.
+        vi: Nghe tuyệt quá! Chúng ta gặp nhau lúc bảy giờ nhé.
+        when: Dùng khi thống nhất thời gian.
+      - en: See you on Friday evening.
+        vi: Hẹn gặp bạn vào tối thứ Sáu nhé.
+        when: Dùng để chào tạm biệt trước khi đi.
+  - slug: joining-a-language-club
+    title: Joining a Language Club
+    titleVi: Tham gia câu lạc bộ ngôn ngữ
+    cefr: A2
+    category: education
+    maxTurns: 12
+    aiPersona: Bạn là người quản lý của Câu lạc bộ Tiếng Anh Sunshine. Bạn đang phỏng vấn ngắn người
+      dùng muốn đăng ký tham gia câu lạc bộ. Trở ngại của bạn là câu lạc bộ yêu cầu thành viên phải
+      tham gia ít nhất hai buổi mỗi tuần, nhưng người dùng chỉ có thể tham gia vào cuối tuần do bận
+      đi làm. Hãy nói tiếng Anh rõ ràng, thân thiện, trình độ A2. Đặt câu hỏi lần lượt từng câu. Chỉ
+      kết thúc khi bạn đưa ra giải pháp tham gia nhóm luyện tập online vào cuối tuần và chào mừng
+      người dùng vào câu lạc bộ.
+    objectives:
+      - Thể hiện mong muốn tham gia Câu lạc bộ Tiếng Anh Sunshine.
+      - Nói về trình độ tiếng Anh hiện tại của bản thân.
+      - Giải thích lý do chỉ có thể tham gia vào các ngày cuối tuần.
+      - Đồng ý với giải pháp học nhóm online vào cuối tuần do quản lý đề xuất.
+    usefulPhrases:
+      - en: I would like to join your English club.
+        vi: Tôi muốn tham gia câu lạc bộ tiếng Anh của bạn.
+        when: Dùng khi bắt đầu đăng ký tham gia.
+      - en: My current level is around elementary.
+        vi: Trình độ hiện tại của tôi khoảng sơ cấp.
+        when: Dùng khi được hỏi về trình độ ngôn ngữ.
+      - en: Can I attend sessions only on weekends?
+        vi: Tôi chỉ có thể tham gia các buổi sinh hoạt vào cuối tuần được không?
+        when: Dùng để giải thích về lịch trình cá nhân.
+      - en: That online weekend group sounds perfect for me.
+        vi: Nhóm học online cuối tuần đó rất phù hợp với tôi.
+        when: Dùng khi chấp nhận giải pháp của quản lý.
+      - en: Thank you, I am excited to join.
+        vi: Cảm ơn bạn, tôi rất hào hứng được tham gia.
+        when: Dùng khi kết thúc buổi phỏng vấn.
+  - slug: rescheduling-a-work-meeting
+    title: Rescheduling a Work Meeting
+    titleVi: Đổi lịch họp công việc
+    cefr: B1
+    category: work
+    maxTurns: 12
+    aiPersona: Bạn là đồng nghiệp tên là David trong một dự án quan trọng. Người dùng gọi điện hoặc nhắn
+      tin để xin đổi lịch cuộc họp dự án đã hẹn vào chiều thứ Ba vì có việc đột xuất. Trở ngại của
+      bạn là bạn đã có lịch họp kín toàn bộ buổi chiều thứ Ba và sáng thứ Tư, do đó bạn chỉ có thể
+      họp vào chiều thứ Tư lúc 3 giờ chiều. Hãy giao tiếp bằng tiếng Anh chuyên nghiệp, tự nhiên,
+      trình độ B1. Đặt câu hỏi từng câu một. Chỉ kết thúc hội thoại khi cả hai thống nhất được thời
+      gian mới vào chiều thứ Tư và xác nhận cập nhật lịch.
+    objectives:
+      - Nêu lý do xin đổi lịch cuộc họp dự án vào chiều thứ Ba.
+      - Đề xuất dời sang sáng thứ Tư nhưng bị từ chối.
+      - Tiếp nhận thông tin lịch trống vào chiều thứ Tư của đồng nghiệp.
+      - Xác nhận chốt thời gian họp mới vào lúc 3 giờ chiều thứ Tư.
+    usefulPhrases:
+      - en: I'm calling to ask if we can reschedule our project meeting on Tuesday afternoon.
+        vi: Tôi gọi để hỏi xem chúng ta có thể dời lịch họp dự án vào chiều thứ Ba lại không.
+        when: Dùng khi bắt đầu đề nghị đổi lịch.
+      - en: Something urgent came up unexpectedly.
+        vi: Có một việc đột xuất phát sinh.
+        when: Dùng để giải thích lý do không thể tham gia đúng hẹn.
+      - en: Would Wednesday morning work for you?
+        vi: Sáng thứ Tư bạn có rảnh không?
+        when: Dùng khi đề xuất một khung giờ mới.
+      - en: If Wednesday morning is busy, would three in the afternoon work?
+        vi: Nếu sáng thứ Tư bạn bận thì ba giờ chiều có được không?
+        when: Dùng khi bạn đề xuất giờ khác sau khi đồng nghiệp không thể họp vào buổi sáng.
+      - en: Let's lock it in for Wednesday at 3 PM.
+        vi: Hãy chốt lịch vào lúc 3 giờ chiều thứ Tư nhé.
+        when: Dùng để xác nhận thời gian cuối cùng.
+  - slug: reporting-a-problem-to-a-landlord
+    title: Reporting a Problem to a Landlord
+    titleVi: Báo cáo vấn đề với chủ nhà
+    cefr: B1
+    category: daily-life
+    maxTurns: 12
+    aiPersona: "Bạn là một chủ nhà lớn tuổi, hơi lãng tai nhưng thân thiện, sở hữu một căn hộ cho thuê ở
+      trung tâm thành phố. Người học là người thuê nhà đang gọi điện trực tiếp để báo cáo về việc
+      bồn rửa nhà bếp bị rò rỉ nước nặng từ hôm qua. Trở ngại cụ thể: Bạn ban đầu nghĩ đó chỉ là rắc
+      rối nhỏ do người thuê tự làm rớt đồ, và bạn muốn họ tự gọi thợ sửa chữa trả tiền, trừ khi họ
+      thuyết phục được bạn rằng đây là lỗi đường ống cũ cần chủ nhà chịu trách nhiệm. Hãy nói tiếng
+      Anh đơn giản, đúng trình độ B1. Hãy đặt một câu hỏi ở mỗi lượt. Kết thúc hội thoại khi bạn
+      đồng ý cử thợ sửa ống nước đến vào sáng ngày mai và thông báo chi phí do bạn chi trả."
+    objectives:
+      - Mô tả chi tiết tình trạng rò rỉ nước ở bồn rửa bếp cho chủ nhà nghe.
+      - Giải thích rõ nguyên nhân không phải do lỗi sử dụng cá nhân mà do hệ thống ống nước cũ.
+      - Đề nghị chủ nhà thanh toán chi phí sửa chữa theo hợp đồng thuê nhà.
+      - Thống nhất thời gian cụ thể để thợ đến sửa vào ngày mai.
+    usefulPhrases:
+      - en: I am calling to report a serious water leak under my kitchen sink.
+        vi: Tôi gọi để báo cáo một sự cố rò rỉ nước nghiêm trọng dưới bồn rửa chén trong bếp.
+        when: Dùng khi bắt đầu cuộc gọi để thông báo sự cố khẩn cấp cho chủ nhà.
+      - en: This issue is caused by old pipes rather than my daily usage.
+        vi: Vấn đề này do đường ống nước cũ chứ không phải do cách sử dụng hàng ngày của tôi.
+        when: Dùng để bảo vệ bản thân và tránh phải chịu chi phí sửa chữa sai quy định.
+      - en: According to our lease agreement, major plumbing repairs are covered by the landlord.
+        vi: Theo hợp đồng thuê nhà của chúng ta, các sửa chữa hệ thống ống nước lớn do chủ nhà chi trả.
+        when: Dùng để nhắc nhở chủ nhà về trách nhiệm pháp lý ghi trong hợp đồng.
+      - en: Could you please send a professional plumber to check it tomorrow morning?
+        vi: Ông/bà có thể cử thợ sửa ống nước chuyên nghiệp đến kiểm tra vào sáng mai được không?
+        when: Dùng khi đề xuất thời gian giải quyết sự cố.
+      - en: Please let me know the exact time the repair person will arrive.
+        vi: Xin vui lòng cho tôi biết chính xác thời gian thợ sửa chữa sẽ đến.
+        when: Dùng để xác nhận lịch hẹn cụ thể trước khi kết thúc cuộc trò chuyện.
+  - slug: asking-about-a-volunteer-role
+    title: Asking About a Volunteer Role
+    titleVi: Tìm hiểu về công việc tình nguyện
+    cefr: B1
+    category: community
+    maxTurns: 12
+    aiPersona: "Bạn là điều phối viên của một tổ chức cộng đồng địa phương chuyên tổ chức lớp học tiếng
+      Anh miễn phí cho trẻ em vùng ven đô. Người học đang hỏi thông tin để tham gia làm tình nguyện
+      viên dạy học hoặc hỗ trợ sự kiện. Trở ngại cụ thể: Bạn đang rất thiếu tình nguyện viên dạy lớp
+      cuối tuần, nhưng lịch học mà người học đề xuất lại trùng vào sáng Chủ Nhật khi lớp đã đủ
+      người; bạn muốn thuyết phục họ đổi sang lớp chiều thứ Bảy hoặc phụ trách khâu chuẩn bị tài
+      liệu. Hãy dùng tiếng Anh cấp độ B1, tự nhiên, rõ ràng. Đặt một câu hỏi cho mỗi lượt. Kết thúc
+      khi hai bên thống nhất được công việc và thời gian tham gia cụ thể."
+    objectives:
+      - Hỏi về các vị trí tình nguyện đang cần người trong tổ chức cộng đồng.
+      - Trình bày lịch rảnh cá nhân và mong muốn tham gia của bản thân.
+      - Thảo luận và thương lượng lại lịch làm việc khi gặp xung đột thời gian.
+      - Xác nhận các bước tiếp theo để chính thức bắt đầu công việc.
+    usefulPhrases:
+      - en: I am very interested in joining your organization as a volunteer teacher.
+        vi: Tôi rất quan tâm đến việc tham gia tổ chức của bạn với tư cách là giáo viên tình nguyện.
+        when: Dùng khi bắt đầu thể hiện nguyện vọng làm tình nguyện viên.
+      - en: Could you tell me what specific roles are currently available?
+        vi: Bạn có thể cho tôi biết những vị trí cụ thể nào hiện đang cần người không?
+        when: Dùng để tìm hiểu nhu cầu nhân sự của tổ chức.
+      - en: I am free on Sunday mornings, but I understand that session already has enough volunteers.
+        vi: Tôi rảnh sáng Chủ Nhật, nhưng tôi hiểu buổi đó đã có đủ tình nguyện viên.
+        when: Dùng để xác nhận lịch rảnh của mình và lý do cần tìm một buổi khác.
+      - en: I would be happy to help with the Saturday afternoon sessions instead.
+        vi: Tôi rất sẵn lòng hỗ trợ các buổi chiều thứ Bảy thay thế.
+        when: Dùng khi đề xuất một giải pháp thời gian thay thế linh hoạt.
+      - en: What are the next steps for me to complete the registration?
+        vi: Các bước tiếp theo để tôi hoàn tất việc đăng ký là gì?
+        when: Dùng khi muốn biết quy trình hành động tiếp theo.
+  - slug: negotiating-project-priorities
+    title: Negotiating Project Priorities
+    titleVi: Thương lượng ưu tiên dự án
+    cefr: B2
+    category: work
+    maxTurns: 14
+    aiPersona: "Bạn là quản lý bộ phận phát triển sản phẩm, đang bận rộn và chịu áp lực từ ban giám đốc.
+      Người học là đồng nghiệp phụ trách chiến lược, muốn yêu cầu dời lịch ra mắt tính năng mới sang
+      tháng sau để hoàn thiện bảo mật. Trở ngại cụ thể: Bạn không muốn lùi deadline vì sợ mất hợp
+      đồng với khách hàng lớn, và bạn yêu cầu người học phải tìm giải pháp cắt giảm một số tính năng
+      phụ để giữ nguyên lịch trình ban đầu. Hãy giao tiếp bằng tiếng Anh chuyên nghiệp cấp độ B2.
+      Đặt đúng một câu hỏi hoặc đưa ra một yêu cầu mỗi lượt. Kết thúc khi đạt được thỏa thuận về
+      phạm vi công việc rút gọn và thời hạn mới hoặc cũ."
+    objectives:
+      - Đề xuất lùi thời hạn ra mắt tính năng mới để kiểm tra bảo mật kỹ hơn.
+      - Phân tích các rủi ro tiềm ẩn nếu tung sản phẩm ra thị trường quá sớm.
+      - Thảo luận về khả năng cắt giảm các tính năng không cốt lõi để giữ tiến độ.
+      - Thống nhất phương án hành động cuối cùng với quản lý dự án.
+    usefulPhrases:
+      - en: I would like to discuss adjusting the timeline for our upcoming product launch.
+        vi: Tôi muốn thảo luận về việc điều chỉnh mốc thời gian cho đợt ra mắt sản phẩm sắp tới của chúng
+          ta.
+        when: Dùng khi bắt đầu cuộc họp thương lượng tiến độ dự án.
+      - en: Pushing the deadline back by two weeks will allow us to run vital security tests.
+        vi: Việc lùi thời hạn lại hai tuần sẽ cho phép chúng ta chạy các bài kiểm tra bảo mật quan trọng.
+        when: Dùng khi đưa ra lý do hợp lý cho đề xuất thay đổi lịch trình.
+      - en: We risk facing severe technical glitches if we rush this release.
+        vi: Chúng ta có nguy cơ gặp phải các sự cố kỹ thuật nghiêm trọng nếu vội vã phát hành bản này.
+        when: Dùng để cảnh báo về rủi ro khi giữ nguyên deadline cũ.
+      - en: To keep the original schedule, we can drop these two minor secondary features.
+        vi: Để giữ nguyên lịch trình ban đầu, chúng ta có thể loại bỏ hai tính năng phụ nhỏ này.
+        when: Dùng khi đưa ra phương án nhượng bộ để cân bằng lợi ích.
+      - en: Let's agree on this reduced feature set for the first release phase.
+        vi: Hãy thống nhất về bộ tính năng đã được rút gọn này cho giai đoạn phát hành đầu tiên.
+        when: Dùng khi chốt lại thỏa thuận cuối cùng với đồng nghiệp.
+  - slug: discussing-a-campus-transport-plan
+    title: Discussing a Campus Transport Plan
+    titleVi: Thảo luận về kế hoạch giao thông trong khuôn viên trường
+    cefr: B2
+    category: education
+    maxTurns: 14
+    aiPersona: "Bạn là giám đốc ban quản lý cơ sở vật chất đại học, đang xem xét kế hoạch cấm xe máy
+      hoàn toàn trong khuôn viên trường từ học kỳ tới. Người học là đại diện hội sinh viên đến để
+      phản đối chính sách này và bảo vệ quyền lợi đi lại của các bạn sinh viên xa trường. Trở ngại
+      cụ thể: Bạn lo ngại về vấn đề khí thải và tai nạn, ban đầu kiên quyết giữ nguyên quyết định
+      cấm, trừ khi người học đưa ra được giải pháp thay thế khả thi như tăng cường xe buýt điện nội
+      khu và bãi giữ xe ngoài cổng trường. Hãy nói tiếng Anh học thuật cấp độ B2. Hỏi một câu mỗi
+      lượt. Kết thúc khi bạn đồng ý thử nghiệm kế hoạch thay thế thay vì cấm đột ngột."
+    objectives:
+      - Nêu rõ những bất cập và khó khăn của sinh viên khi áp dụng lệnh cấm xe máy.
+      - Đề xuất giải pháp giao thông thay thế thân thiện với môi trường nhưng thuận tiện hơn.
+      - Tranh luận về thời gian biểu thực hiện để sinh viên có thời gian thích nghi.
+      - Đạt được thỏa thuận về một buổi đối thoại công khai hoặc chính sách thử nghiệm.
+    usefulPhrases:
+      - en: Many students are deeply concerned about the proposed campus motorcycle ban.
+        vi: Nhiều sinh viên đang rất lo lắng về lệnh cấm xe máy trong khuôn viên trường được đề xuất.
+        when: Dùng khi mở đầu cuộc thảo luận để phản ánh tiếng nói của sinh viên.
+      - en: This policy creates major commuting hurdles for those living far away.
+        vi: Chính sách này tạo ra những trở ngại lớn về việc đi lại cho những bạn ở xa.
+        when: Dùng khi giải thích khó khăn thực tế của sinh viên.
+      - en: Could we consider implementing electric shuttle buses before enforcing total restrictions?
+        vi: Chúng ta có thể xem xét triển khai xe buýt điện đưa đón trước khi áp dụng các hạn chế toàn diện
+          không?
+        when: Dùng khi đưa ra giải pháp thay thế khả thi cho nhà trường.
+      - en: Giving students a one-semester grace period would make a huge difference.
+        vi: Cho sinh viên một học kỳ thời gian ân hạn sẽ tạo ra sự khác biệt lớn.
+        when: Dùng khi thương lượng về mốc thời gian áp dụng chính sách.
+      - en: Can we agree to test this alternative transit plan on a trial basis?
+        vi: Chúng ta có thể đồng ý thử nghiệm kế hoạch giao thông thay thế này trên cơ sở thử nghiệm không?
+        when: Dùng để đề xuất giải pháp thỏa hiệp cuối cùng.
+  - slug: resolving-a-subscription-complaint
+    title: Resolving a Subscription Complaint
+    titleVi: Giải quyết khiếu nại về gói thuê bao
+    cefr: B2
+    category: technology
+    maxTurns: 14
+    aiPersona: "Bạn là nhân viên hỗ trợ khách hàng cao cấp của một nền tảng lưu trữ đám mây trực tuyến.
+      Người học là khách hàng đang vô cùng bức xúc vì tài khoản bị tự động gia hạn gói cước cao cấp
+      với giá đắt đỏ mà không nhận được thông báo trước. Trở ngại cụ thể: Theo điều khoản dịch vụ,
+      việc tự động gia hạn là mặc định và không được hoàn tiền, nhưng bạn có quyền linh hoạt chuyển
+      khoản tiền đó thành điểm tín dụng dịch vụ hoặc giảm giá cho năm tới nếu khách hàng ngừng phàn
+      nàn. Hãy nói tiếng Anh lịch sự, chuyên nghiệp cấp độ B2. Đặt một câu hỏi mỗi lượt. Kết thúc
+      khi giải quyết xong việc hoàn tiền hoặc đổi ưu đãi cho khách."
+    objectives:
+      - Trình bày rõ ràng vấn đề bị trừ tiền tự động không rõ lý do từ gói thuê bao.
+      - Yêu cầu bộ phận hỗ trợ khách hàng hủy gói cước và hoàn lại tiền đầy đủ.
+      - Đàm phán các phương án bồi thường hoặc tín dụng thay thế khi bị từ chối hoàn tiền mặt.
+      - Xác nhận các thay đổi về tài khoản và nhận mã xác nhận khiếu nại thành công.
+    usefulPhrases:
+      - en: I am contacting you because my account was charged for an annual renewal without my consent.
+        vi: Tôi liên hệ với bạn vì tài khoản của tôi bị tính phí gia hạn hàng năm mà không có sự đồng ý của
+          tôi.
+        when: Dùng khi bắt đầu khiếu nại về khoản phí bất thường.
+      - en: I never received any advance notification about this automatic subscription renewal.
+        vi: Tôi chưa bao giờ nhận được bất kỳ thông báo trước nào về việc tự động gia hạn thuê bao này.
+        when: Dùng khi chỉ ra lỗi thiếu minh bạch từ phía nhà cung cấp dịch vụ.
+      - en: I kindly request an immediate cancellation and a full refund of this charge.
+        vi: Tôi kính đề nghị hủy bỏ ngay lập tức và hoàn lại toàn bộ khoản phí này.
+        when: Dùng khi đưa ra yêu cầu giải quyết chính đáng cho khách hàng.
+      - en: If a cash refund is not possible, can this amount be converted into account credits?
+        vi: Nếu không thể hoàn tiền mặt, số tiền này có thể được chuyển thành điểm tín dụng tài khoản không?
+        when: Dùng khi đàm phán giải pháp thay thế khi gặp bế tắc.
+      - en: Please send me a confirmation email once the refund has been processed.
+        vi: Vui lòng gửi cho tôi một email xác nhận sau khi khoản hoàn tiền đã được xử lý.
+        when: Dùng khi yêu cầu bằng chứng hoàn tất giao dịch trước khi kết thúc.

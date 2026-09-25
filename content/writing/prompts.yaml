@@ -1,0 +1,371 @@
+# Đề bài viết, A2 đến B2.
+#
+# Mỗi đề nêu rõ tình huống, người đọc là ai, và phải có những gì — vì tiêu chí
+# "task achievement" chỉ chấm được khi đề bài nói rõ nhiệm vụ.
+prompts:
+  # ---- A2 ----------------------------------------------------------------
+  - slug: introduce-yourself-email
+    kind: email
+    cefr: A2
+    title: Email giới thiệu bản thân
+    instructionsVi: >-
+      Bạn vừa tham gia một câu lạc bộ tiếng Anh trực tuyến. Viết email ngắn giới
+      thiệu bản thân với các thành viên khác. Nêu tên, nơi ở, công việc hoặc việc
+      học, một sở thích, và lý do bạn học tiếng Anh.
+    instructionsEn: >-
+      You have just joined an online English club. Write a short email
+      introducing yourself to the other members. Say your name, where you live,
+      what you do, one hobby, and why you are learning English.
+    minWords: 60
+    maxWords: 100
+    timeLimitMin: 20
+    outlineVi: |
+      - Mở đầu: Hi everyone, / Hello all,
+      - Tên và nơi ở
+      - Công việc hoặc trường học
+      - Một sở thích, kèm một câu giải thích
+      - Vì sao học tiếng Anh
+      - Kết: Looking forward to meeting you all.
+    sampleAnswer: |
+      Hi everyone,
+
+      My name is Lan and I live in Da Nang, in the centre of Vietnam. I work as
+      a nurse at a small hospital near my house, so most of my days are quite
+      busy.
+
+      In my free time I like cooking. I usually try one new recipe every weekend,
+      and my family has to eat the results, good or bad.
+
+      I am learning English because many of the medical articles I need are only
+      in English, and I would like to read them without a dictionary.
+
+      Looking forward to meeting you all.
+
+      Lan
+
+  - slug: my-daily-routine
+    kind: paragraph
+    cefr: A2
+    title: Một ngày bình thường của bạn
+    instructionsVi: >-
+      Viết một đoạn văn kể về một ngày bình thường của bạn. Dùng thì hiện tại
+      đơn và ít nhất ba trạng từ chỉ tần suất (always, usually, often, sometimes,
+      never).
+    instructionsEn: >-
+      Write one paragraph about a typical day. Use the present simple and at
+      least three adverbs of frequency.
+    minWords: 60
+    maxWords: 120
+    timeLimitMin: 15
+    outlineVi: |
+      - Buổi sáng: dậy lúc mấy giờ, làm gì trước tiên
+      - Buổi trưa và chiều: công việc hoặc học
+      - Buổi tối: ăn tối, giải trí, đi ngủ
+      - Một câu về việc gì đó bạn không bao giờ làm
+    sampleAnswer: |
+      I usually wake up at half past six, before the street outside gets noisy.
+      I always drink a cup of tea first, because I never feel awake until I do.
+      I leave the house at half past seven and take a bus to the office, which
+      takes about forty minutes if the traffic is kind. I work until six, and I
+      often stay a little later on Thursdays when we have our team meeting. In
+      the evening I cook something simple, and I sometimes watch a film in
+      English with subtitles. I never look at my phone in bed, because I learned
+      the hard way that it keeps me awake.
+
+  # ---- B1 ----------------------------------------------------------------
+  - slug: complaint-about-a-delivery
+    kind: email
+    cefr: B1
+    title: Email khiếu nại về đơn hàng
+    instructionsVi: >-
+      Bạn đặt mua một chiếc tai nghe trên mạng. Hàng đến muộn năm ngày và hộp bị
+      móp. Viết email cho bộ phận chăm sóc khách hàng. Nêu rõ đơn hàng nào, vấn
+      đề là gì, và bạn muốn họ làm gì. Giữ giọng lịch sự nhưng dứt khoát.
+    instructionsEn: >-
+      You ordered headphones online. They arrived five days late and the box was
+      damaged. Write to customer service. Say which order, what went wrong, and
+      what you want them to do. Stay polite but firm.
+    minWords: 100
+    maxWords: 160
+    timeLimitMin: 25
+    outlineVi: |
+      - Lý do viết, kèm mã đơn hàng và ngày đặt
+      - Vấn đề 1: giao muộn — muộn bao nhiêu
+      - Vấn đề 2: tình trạng hộp khi nhận
+      - Yêu cầu cụ thể: đổi hàng, hoàn tiền, hay giảm giá
+      - Mốc thời gian mong nhận phản hồi
+      - Kết thúc lịch sự
+    sampleAnswer: |
+      Dear Customer Service,
+
+      I am writing about order 48120, which I placed on 12 March.
+
+      The headphones were due to arrive on 16 March but did not reach me until
+      21 March, five days late. I was not told about the delay at any point, and
+      the tracking page still showed the original date until the day it arrived.
+
+      When the parcel did come, the outer box was badly dented on one corner.
+      The headphones themselves appear to work, but the packaging suggests the
+      parcel was not handled carefully, and I am not confident the product is in
+      the condition I paid for.
+
+      I would like a replacement in undamaged packaging. If that is not
+      possible, I would accept a partial refund instead.
+
+      Could you let me know within five working days what you can do?
+
+      Yours faithfully,
+      Nguyen Minh
+
+  - slug: opinion-remote-study
+    kind: essay
+    cefr: B1
+    title: Học trực tuyến có tốt bằng học ở lớp không?
+    instructionsVi: >-
+      Nhiều trường ở Việt Nam giờ dạy cả trực tuyến lẫn trực tiếp. Viết bài nêu ý
+      kiến của bạn. Đưa ít nhất hai lý do ủng hộ quan điểm của mình, và thừa nhận
+      một điểm của phía ngược lại.
+    instructionsEn: >-
+      Many schools now teach both online and in person. Write your opinion. Give
+      at least two reasons for your view, and acknowledge one point on the other
+      side.
+    minWords: 150
+    maxWords: 220
+    timeLimitMin: 30
+    outlineVi: |
+      - Mở bài: nêu rõ quan điểm ngay câu đầu
+      - Lý do 1 + ví dụ cụ thể
+      - Lý do 2 + ví dụ cụ thể
+      - Thừa nhận điểm của phía kia (However, ... / Admittedly, ...)
+      - Kết bài: nhắc lại quan điểm, không lặp nguyên văn mở bài
+    sampleAnswer: null
+
+  # ---- B2 ----------------------------------------------------------------
+  - slug: cover-letter-first-job
+    kind: email
+    cefr: B2
+    title: Thư ứng tuyển công việc đầu tiên
+    instructionsVi: >-
+      Bạn thấy tin tuyển thực tập sinh marketing tại một công ty khởi nghiệp. Bạn
+      chưa có kinh nghiệm làm việc chính thức. Viết thư ứng tuyển biến điều đó
+      thành lợi thế thay vì xin lỗi vì nó. Nêu bạn đã làm gì cụ thể, và vì sao
+      chọn đúng công ty này.
+    instructionsEn: >-
+      You have found a marketing internship at a startup. You have no formal work
+      experience. Write a cover letter that turns that into a strength rather
+      than apologising for it. Say what you have actually done, and why this
+      company specifically.
+    minWords: 180
+    maxWords: 260
+    timeLimitMin: 35
+    outlineVi: |
+      - Vị trí ứng tuyển và biết tin từ đâu
+      - Một việc cụ thể bạn đã làm (dự án lớp, câu lạc bộ, trang cá nhân, làm thêm)
+        kèm kết quả đo được nếu có
+      - Kỹ năng rút ra từ việc đó, nối thẳng vào mô tả công việc
+      - Vì sao là công ty này, không phải công ty nào cũng được
+      - Đề nghị bước tiếp theo
+    sampleAnswer: null
+
+  - slug: summarise-an-argument
+    kind: paragraph
+    cefr: B2
+    title: Tóm tắt một lập luận bạn không đồng ý
+    instructionsVi: >-
+      Chọn một quan điểm bạn không đồng tình về việc học ngoại ngữ (ví dụ "người
+      lớn không thể học phát âm chuẩn"). Tóm tắt lập luận đó một cách công bằng
+      trong 3–4 câu, rồi mới phản bác. Phần tóm tắt phải đủ tử tế để người giữ
+      quan điểm đó gật đầu công nhận.
+    instructionsEn: >-
+      Pick a view about language learning you disagree with. Summarise it fairly
+      in three or four sentences, then answer it. The summary must be good enough
+      that someone holding the view would accept it as accurate.
+    minWords: 120
+    maxWords: 200
+    timeLimitMin: 30
+    outlineVi: |
+      - Nêu quan điểm đối lập bằng giọng trung lập, không mỉa mai
+      - Lý do mạnh nhất của phía đó
+      - Chuyển ý (However, / The difficulty with this is that ...)
+      - Phản bác bằng lý lẽ hoặc bằng chứng, không phải bằng cảm tính
+    sampleAnswer: null
+
+  # ---- A2 thêm --------------------------------------------------------------
+  - slug: postcard-from-a-trip
+    kind: paragraph
+    cefr: A2
+    title: Bưu thiếp gửi bạn
+    instructionsVi: >-
+      Bạn đang đi chơi xa. Viết một tấm bưu thiếp gửi bạn thân. Nói bạn đang ở
+      đâu, thời tiết thế nào, đã làm gì hôm qua, và định làm gì ngày mai. Dùng
+      cả thì quá khứ đơn lẫn cách nói về tương lai.
+    instructionsEn: >-
+      You are away on a trip. Write a postcard to a close friend. Say where you
+      are, what the weather is like, what you did yesterday, and what you plan
+      to do tomorrow.
+    minWords: 60
+    maxWords: 100
+    timeLimitMin: 15
+    outlineVi: |
+      - Chào bạn, nói đang ở đâu
+      - Thời tiết (dùng hiện tại đơn hoặc tiếp diễn)
+      - Hôm qua đã làm gì (quá khứ đơn)
+      - Ngày mai định làm gì (going to / will)
+      - Câu kết ngắn
+    sampleAnswer: |
+      Hi Trang,
+
+      I am in Hoi An and it is much hotter than Hanoi. The old town is full of
+      lanterns at night.
+
+      Yesterday I rented a bicycle and rode out to the beach. It took me forty
+      minutes and I got lost twice, but the water was warm and almost empty.
+
+      Tomorrow I am going to a cooking class in the morning, and then I will
+      take the bus back on Sunday.
+
+      See you next week!
+
+      Minh
+
+  - slug: describe-a-photo
+    kind: paragraph
+    cefr: A2
+    title: Tả một bức ảnh
+    instructionsVi: >-
+      Chọn một bức ảnh trong điện thoại của bạn và tả lại. Nói ảnh chụp ở đâu,
+      có ai trong ảnh, họ đang làm gì, và vì sao bạn giữ tấm ảnh đó. Dùng ít
+      nhất ba giới từ chỉ vị trí (in, on, at, behind, next to, in front of).
+    instructionsEn: >-
+      Pick a photo on your phone and describe it. Say where it was taken, who is
+      in it, what they are doing, and why you keep it. Use at least three
+      prepositions of place.
+    minWords: 70
+    maxWords: 110
+    timeLimitMin: 20
+    outlineVi: |
+      - Ảnh chụp ở đâu, khi nào
+      - Ai trong ảnh, đứng/ngồi chỗ nào (dùng giới từ vị trí)
+      - Họ đang làm gì (hiện tại tiếp diễn)
+      - Vì sao bạn giữ ảnh này
+    sampleAnswer: null
+
+  # ---- B1 thêm --------------------------------------------------------------
+  - slug: email-asking-for-time-off
+    kind: email
+    cefr: B1
+    title: Email xin nghỉ phép
+    instructionsVi: >-
+      Bạn cần nghỉ ba ngày để về quê có việc gia đình. Viết email cho quản lý.
+      Nêu rõ ngày nghỉ, lý do vừa đủ (không cần kể chi tiết riêng tư), bạn đã
+      sắp xếp công việc thế nào, và ai sẽ thay bạn. Giọng lịch sự, chuyên nghiệp.
+    instructionsEn: >-
+      You need three days off for a family matter. Write to your manager. Give
+      the dates, a brief reason, how you have arranged your work, and who will
+      cover. Keep it polite and professional.
+    minWords: 110
+    maxWords: 170
+    timeLimitMin: 25
+    outlineVi: |
+      - Mở đầu nêu thẳng mục đích và ngày nghỉ
+      - Lý do ngắn gọn, không cần chi tiết
+      - Công việc đang dở đã xử lý ra sao
+      - Ai nhận bàn giao
+      - Câu kết lịch sự, sẵn sàng trao đổi thêm
+    sampleAnswer: |
+      Dear Ms Hoa,
+
+      I am writing to request three days of leave, from Wednesday 12 to Friday
+      14 March, for a family matter I need to attend to at home.
+
+      I have finished the March report and sent it to Quang for review. The two
+      client calls in that week have been moved to the following Monday, and
+      both clients have confirmed. Quang has agreed to cover anything urgent
+      and has access to the shared folder.
+
+      I will have my phone with me if something cannot wait.
+
+      Please let me know if you need anything else from me before I go.
+
+      Kind regards,
+      Nguyen Minh
+
+  - slug: review-a-place
+    kind: paragraph
+    cefr: B1
+    title: Viết đánh giá một quán ăn
+    instructionsVi: >-
+      Viết đánh giá một quán ăn hoặc quán cà phê bạn đã tới. Nêu điều bạn thích
+      và điều chưa ổn, và kết bằng lời khuyên rõ ràng cho người đọc. Đừng chỉ
+      khen hoặc chỉ chê — bài đánh giá tốt luôn cân.
+    instructionsEn: >-
+      Review a restaurant or café you have been to. Say what was good and what
+      was not, and end with clear advice for the reader. A useful review is
+      balanced, not all praise or all complaint.
+    minWords: 120
+    maxWords: 180
+    timeLimitMin: 25
+    outlineVi: |
+      - Tên quán, đi khi nào, đi với ai
+      - Hai điểm tốt, có dẫn chứng cụ thể
+      - Một điểm chưa ổn, nói công bằng
+      - Kết: nên đến khi nào / hợp với ai
+    sampleAnswer: null
+
+  - slug: a-problem-you-solved
+    kind: essay
+    cefr: B2
+    title: Một vấn đề bạn đã tự giải quyết
+    instructionsVi: >-
+      Kể về một vấn đề bạn từng gặp và cách bạn xử lý. Cấu trúc bốn phần: vấn đề
+      là gì, bạn đã thử gì mà không được, cuối cùng cái gì hiệu quả, và bạn rút
+      ra điều gì. Phần "thử mà không được" là phần quan trọng nhất — đừng bỏ.
+    instructionsEn: >-
+      Write about a problem you faced and how you dealt with it. Four parts:
+      what the problem was, what you tried that did not work, what finally did,
+      and what you learned. The part that did not work is the most important —
+      do not skip it.
+    minWords: 180
+    maxWords: 260
+    timeLimitMin: 35
+    outlineVi: |
+      - Vấn đề cụ thể, có bối cảnh (khi nào, ở đâu)
+      - Cách làm đầu tiên và vì sao nó thất bại
+      - Cách làm cuối cùng có hiệu quả
+      - Bài học — nói thật, không cần đẹp
+    sampleAnswer: null
+
+  - slug: reply-to-an-invitation
+    kind: email
+    cefr: A2
+    title: Trả lời lời mời
+    instructionsVi: >-
+      Một người bạn mời bạn đi ăn sinh nhật vào tối thứ Bảy, nhưng bạn bận. Viết
+      email từ chối. Cảm ơn lời mời, nói lý do ngắn gọn, và đề nghị một dịp khác.
+      Giữ giọng thân thiện, đừng xin lỗi quá nhiều lần.
+    instructionsEn: >-
+      A friend invites you to a birthday dinner on Saturday evening, but you are
+      busy. Write to decline. Thank them, give a short reason, and suggest
+      another time. Stay warm, and do not apologise more than once.
+    minWords: 60
+    maxWords: 100
+    timeLimitMin: 15
+    outlineVi: |
+      - Cảm ơn lời mời
+      - Nói không đi được, kèm lý do ngắn
+      - Đề nghị dịp khác, càng cụ thể càng tốt
+      - Chúc mừng sinh nhật
+    sampleAnswer: |
+      Hi Trang,
+
+      Thank you so much for the invitation — I would love to be there.
+
+      Unfortunately I am working on Saturday evening. We have a deadline on
+      Monday and I have promised my team I will finish my part over the weekend.
+
+      Could we do lunch the following Saturday instead? I would like to hear
+      about the dinner, and I still owe you a coffee from last month.
+
+      Have a wonderful birthday, and eat a slice of cake for me.
+
+      Minh

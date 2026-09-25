@@ -1,0 +1,174 @@
+{
+  "examId": "toeic",
+  "levelId": "3",
+  "vocabulary": [
+    {
+      "id": "contingency",
+      "term": "contingency",
+      "ipa": "/kənˈtɪndʒənsi/",
+      "meaningVi": "phương án dự phòng; tình huống bất ngờ",
+      "definitionEn": "A future event that may happen, or a plan prepared for it.",
+      "example": "The budget includes a ten per cent contingency for delays.",
+      "exampleVi": "Ngân sách có khoản dự phòng mười phần trăm cho các chậm trễ.",
+      "collocations": [
+        "contingency plan",
+        "contingency fund",
+        "in case of contingency"
+      ]
+    },
+    {
+      "id": "waive",
+      "term": "waive",
+      "ipa": "/weɪv/",
+      "meaningVi": "miễn, bỏ qua (quyền hoặc khoản phí)",
+      "definitionEn": "To decide not to apply a rule, fee or right.",
+      "example": "The bank agreed to waive the transfer fee for corporate clients.",
+      "exampleVi": "Ngân hàng đồng ý miễn phí chuyển khoản cho khách hàng doanh nghiệp.",
+      "collocations": [
+        "waive a fee",
+        "waive the requirement",
+        "waive liability"
+      ]
+    },
+    {
+      "id": "stipulate",
+      "term": "stipulate",
+      "ipa": "/ˈstɪpjuleɪt/",
+      "meaningVi": "quy định rõ trong hợp đồng",
+      "definitionEn": "To state clearly that something must be done, especially in an agreement.",
+      "example": "The lease stipulates that repairs are the tenant's responsibility.",
+      "exampleVi": "Hợp đồng thuê quy định rõ việc sửa chữa thuộc trách nhiệm bên thuê.",
+      "collocations": [
+        "the contract stipulates",
+        "as stipulated",
+        "stipulated deadline"
+      ]
+    },
+    {
+      "id": "discrepancy",
+      "term": "discrepancy",
+      "ipa": "/dɪsˈkrepənsi/",
+      "meaningVi": "sự chênh lệch, sai khác",
+      "definitionEn": "A difference between two things that should be the same.",
+      "example": "There is a discrepancy between the invoice and the delivery note.",
+      "exampleVi": "Có sự chênh lệch giữa hoá đơn và phiếu giao hàng.",
+      "collocations": [
+        "a discrepancy between",
+        "resolve a discrepancy",
+        "minor discrepancy"
+      ]
+    },
+    {
+      "id": "expedite",
+      "term": "expedite",
+      "ipa": "/ˈekspədaɪt/",
+      "meaningVi": "đẩy nhanh",
+      "definitionEn": "To make a process happen more quickly.",
+      "example": "We can expedite the order for an additional fee.",
+      "exampleVi": "Chúng tôi có thể đẩy nhanh đơn hàng với một khoản phí thêm.",
+      "collocations": [
+        "expedite the process",
+        "expedited shipping",
+        "expedite approval"
+      ]
+    },
+    {
+      "id": "provision",
+      "term": "provision",
+      "ipa": "/prəˈvɪʒn/",
+      "meaningVi": "điều khoản; việc cung cấp",
+      "definitionEn": "A condition in an agreement, or the act of supplying something.",
+      "example": "A provision in the contract allows either side to withdraw after a year.",
+      "exampleVi": "Một điều khoản trong hợp đồng cho phép hai bên rút sau một năm.",
+      "collocations": [
+        "make provision for",
+        "under the provisions of",
+        "special provision"
+      ]
+    },
+    {
+      "id": "consolidate",
+      "term": "consolidate",
+      "ipa": "/kənˈsɒlɪdeɪt/",
+      "meaningVi": "hợp nhất, gộp lại",
+      "definitionEn": "To combine several things into one more effective whole.",
+      "example": "The company consolidated three warehouses into a single facility.",
+      "exampleVi": "Công ty gộp ba kho thành một cơ sở duy nhất.",
+      "collocations": [
+        "consolidate operations",
+        "consolidated report",
+        "consolidate debt"
+      ]
+    },
+    {
+      "id": "liability",
+      "term": "liability",
+      "ipa": "/ˌlaɪəˈbɪləti/",
+      "meaningVi": "trách nhiệm pháp lý",
+      "definitionEn": "Legal responsibility for something, especially for costs or damage.",
+      "example": "The clause limits our liability to the value of the order.",
+      "exampleVi": "Điều khoản này giới hạn trách nhiệm của chúng tôi ở mức giá trị đơn hàng.",
+      "collocations": [
+        "limit liability",
+        "liability insurance",
+        "accept liability"
+      ]
+    },
+    {
+      "id": "prerequisite",
+      "term": "prerequisite",
+      "ipa": "/ˌpriːˈrekwəzɪt/",
+      "meaningVi": "điều kiện tiên quyết",
+      "definitionEn": "Something that must exist or happen before something else is possible.",
+      "example": "A signed confidentiality agreement is a prerequisite for site access.",
+      "exampleVi": "Thoả thuận bảo mật đã ký là điều kiện tiên quyết để vào công trường.",
+      "collocations": [
+        "a prerequisite for",
+        "meet the prerequisites",
+        "essential prerequisite"
+      ]
+    },
+    {
+      "id": "defer",
+      "term": "defer",
+      "ipa": "/dɪˈfɜː(r)/",
+      "meaningVi": "hoãn lại",
+      "definitionEn": "To delay something until a later time.",
+      "example": "The board deferred the decision until the audit was complete.",
+      "exampleVi": "Hội đồng hoãn quyết định cho tới khi kiểm toán xong.",
+      "collocations": [
+        "defer a decision",
+        "deferred payment",
+        "defer to a later date"
+      ]
+    },
+    {
+      "id": "incur",
+      "term": "incur",
+      "ipa": "/ɪnˈkɜː(r)/",
+      "meaningVi": "phải chịu, gánh (chi phí, tổn thất)",
+      "definitionEn": "To experience a cost or loss as a result of something you do.",
+      "example": "Late cancellations incur a charge of fifty per cent.",
+      "exampleVi": "Huỷ muộn sẽ phải chịu khoản phí bằng năm mươi phần trăm.",
+      "collocations": [
+        "incur costs",
+        "incur a penalty",
+        "incur liability"
+      ]
+    },
+    {
+      "id": "mitigate",
+      "term": "mitigate",
+      "ipa": "/ˈmɪtɪɡeɪt/",
+      "meaningVi": "giảm nhẹ, hạn chế tác hại",
+      "definitionEn": "To make something less severe or damaging.",
+      "example": "Holding extra stock mitigates the risk of supply interruption.",
+      "exampleVi": "Giữ thêm hàng tồn giúp giảm nhẹ rủi ro gián đoạn nguồn cung.",
+      "collocations": [
+        "mitigate risk",
+        "mitigating factor",
+        "measures to mitigate"
+      ]
+    }
+  ]
+}

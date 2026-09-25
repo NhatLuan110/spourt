@@ -1,0 +1,450 @@
+[
+  {
+    "id": "reading-part6-t1",
+    "skill": "reading",
+    "title": "Part 6 — Text 1: email to a client",
+    "format": "TOEIC Reading — Part 6 · Text Completion 1 (câu 131–134)",
+    "instructionsVi": "Chỗ trống ở Part 6 phụ thuộc vào ngữ cảnh cả đoạn, không chỉ vào câu chứa nó. Mỗi văn bản có một câu hỏi chèn nguyên một câu.",
+    "promptEn": "Read the email and choose the best option for each numbered blank.",
+    "passage": "Dear Ms Beck,\n\nThank you for your enquiry about our maintenance packages.\n\nI have (131) ______ a summary of the three options. The standard package covers two visits a year; the enhanced package covers four and includes a four-hour response guarantee.\n\nMost customers with a single site choose the standard package. (132) ______\n\nOne point worth noting: the response guarantee applies only during working hours. If you need cover at weekends, that is a separate addition, (133) ______ it is rarely necessary for offices.\n\nI would be happy to visit your site and give you a more (134) ______ recommendation. Please let me know a convenient date.\n\nKind regards,\nSanjay Mehta",
+    "timeLimitSec": 240,
+    "questions": [
+      {
+        "id": "p6-131",
+        "kind": "mcq",
+        "prompt": "131.",
+        "options": [
+          {
+            "id": "a",
+            "text": "attached"
+          },
+          {
+            "id": "b",
+            "text": "attaching"
+          },
+          {
+            "id": "c",
+            "text": "attach"
+          },
+          {
+            "id": "d",
+            "text": "attachment"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "Sau 'I have' cần quá khứ phân từ để tạo hiện tại hoàn thành."
+      },
+      {
+        "id": "p6-132",
+        "kind": "mcq",
+        "prompt": "132. — chọn câu phù hợp nhất để chèn vào",
+        "options": [
+          {
+            "id": "a",
+            "text": "We no longer offer a standard package."
+          },
+          {
+            "id": "b",
+            "text": "Those with several locations usually find the enhanced package better value."
+          },
+          {
+            "id": "c",
+            "text": "Neither package includes a response guarantee."
+          },
+          {
+            "id": "d",
+            "text": "Please return the completed form within seven days."
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "Câu trước nói khách một cơ sở chọn gói tiêu chuẩn, nên câu tiếp nối hợp lý là nói về khách nhiều cơ sở. (A) và (C) mâu thuẫn với chính lá thư."
+      },
+      {
+        "id": "p6-133",
+        "kind": "mcq",
+        "prompt": "133.",
+        "options": [
+          {
+            "id": "a",
+            "text": "because"
+          },
+          {
+            "id": "b",
+            "text": "so"
+          },
+          {
+            "id": "c",
+            "text": "although"
+          },
+          {
+            "id": "d",
+            "text": "therefore"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "Vế sau nêu điều làm giảm nhẹ vế trước (hiếm khi cần) — quan hệ tương phản."
+      },
+      {
+        "id": "p6-134",
+        "kind": "mcq",
+        "prompt": "134.",
+        "options": [
+          {
+            "id": "a",
+            "text": "precisely"
+          },
+          {
+            "id": "b",
+            "text": "precision"
+          },
+          {
+            "id": "c",
+            "text": "precising"
+          },
+          {
+            "id": "d",
+            "text": "precise"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "Trước danh từ 'recommendation' cần tính từ."
+      }
+    ]
+  },
+  {
+    "id": "reading-part6-t2",
+    "skill": "reading",
+    "title": "Part 6 — Text 2: staff notice",
+    "format": "TOEIC Reading — Part 6 · Text Completion 2 (câu 135–138)",
+    "instructionsVi": "Thông báo nội bộ. Có một chỗ trống chỉ chọn đúng nếu đọc thông tin nằm cách đó hai câu.",
+    "promptEn": "Read the notice and choose the best option for each numbered blank.",
+    "passage": "NOTICE — Changes to the visitor sign-in procedure\n\nFrom 1 September, all visitors must be registered in advance through the online portal. Visitors who arrive without a registration will be asked to wait in reception while their host is contacted, which may cause a (135) ______ delay.\n\nThe change follows an audit that found we could not (136) ______ who had been on site during an evacuation drill in May.\n\n(137) ______ Reception will continue to issue passes as before, and hosts will still meet their visitors at the barrier.\n\nIf you have visitors booked for the first week of September, please register them now (138) ______ than waiting for the system reminder.",
+    "timeLimitSec": 240,
+    "questions": [
+      {
+        "id": "p6-135",
+        "kind": "mcq",
+        "prompt": "135.",
+        "options": [
+          {
+            "id": "a",
+            "text": "considerate"
+          },
+          {
+            "id": "b",
+            "text": "considerable"
+          },
+          {
+            "id": "c",
+            "text": "considering"
+          },
+          {
+            "id": "d",
+            "text": "considered"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'considerable delay' = chậm trễ đáng kể. 'considerate' nghĩa là chu đáo, sai hẳn nghĩa."
+      },
+      {
+        "id": "p6-136",
+        "kind": "mcq",
+        "prompt": "136.",
+        "options": [
+          {
+            "id": "a",
+            "text": "establish"
+          },
+          {
+            "id": "b",
+            "text": "establishing"
+          },
+          {
+            "id": "c",
+            "text": "established"
+          },
+          {
+            "id": "d",
+            "text": "establishment"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "Sau 'could not' cần động từ nguyên mẫu."
+      },
+      {
+        "id": "p6-137",
+        "kind": "mcq",
+        "prompt": "137. — chọn câu phù hợp nhất để chèn vào",
+        "options": [
+          {
+            "id": "a",
+            "text": "Reception will close from September."
+          },
+          {
+            "id": "b",
+            "text": "Visitors will no longer be issued with passes."
+          },
+          {
+            "id": "c",
+            "text": "Hosts must collect visitors from the car park."
+          },
+          {
+            "id": "d",
+            "text": "Nothing else about the procedure changes."
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "Câu ngay sau liệt kê những gì GIỮ NGUYÊN, nên câu chèn phải mở đầu ý đó. Ba phương án kia mâu thuẫn trực tiếp với câu tiếp theo."
+      },
+      {
+        "id": "p6-138",
+        "kind": "mcq",
+        "prompt": "138.",
+        "options": [
+          {
+            "id": "a",
+            "text": "other"
+          },
+          {
+            "id": "b",
+            "text": "sooner"
+          },
+          {
+            "id": "c",
+            "text": "rather"
+          },
+          {
+            "id": "d",
+            "text": "more"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'rather than' = thay vì, cụm cố định nối hai lựa chọn."
+      }
+    ]
+  },
+  {
+    "id": "reading-part6-t3",
+    "skill": "reading",
+    "title": "Part 6 — Text 3: product recall letter",
+    "format": "TOEIC Reading — Part 6 · Text Completion 3 (câu 139–142)",
+    "instructionsVi": "Thư thu hồi sản phẩm. Giọng văn trang trọng, nhiều cụm cố định của văn bản chính thức.",
+    "promptEn": "Read the letter and choose the best option for each numbered blank.",
+    "passage": "Dear Customer,\n\nWe are writing to inform you of a voluntary recall of the Meridian travel kettle, model TK-9, sold between January and April this year.\n\nRoutine testing has identified a fault in a small number of units in which the cut-off switch may fail to (139) ______ once the water has boiled. Although no injuries have been reported, we have decided to recall the entire batch as a precaution.\n\n(140) ______ Please stop using the product immediately and return it to any branch for a full refund, with or without a receipt.\n\nIf you bought the kettle as a gift and no longer have it, the person now using it should be (141) ______ as soon as possible.\n\nWe apologise for the inconvenience and thank you for your (142) ______ in this matter.\n\nYours faithfully,\nCustomer Safety Team",
+    "timeLimitSec": 240,
+    "questions": [
+      {
+        "id": "p6-139",
+        "kind": "mcq",
+        "prompt": "139.",
+        "options": [
+          {
+            "id": "a",
+            "text": "operation"
+          },
+          {
+            "id": "b",
+            "text": "operating"
+          },
+          {
+            "id": "c",
+            "text": "operated"
+          },
+          {
+            "id": "d",
+            "text": "operate"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "Sau 'may fail to' cần động từ nguyên mẫu."
+      },
+      {
+        "id": "p6-140",
+        "kind": "mcq",
+        "prompt": "140. — chọn câu phù hợp nhất để chèn vào",
+        "options": [
+          {
+            "id": "a",
+            "text": "The fault affects a small proportion of units, but we cannot identify which."
+          },
+          {
+            "id": "b",
+            "text": "Only units bought after May are affected."
+          },
+          {
+            "id": "c",
+            "text": "The product remains safe to use as normal."
+          },
+          {
+            "id": "d",
+            "text": "Refunds are available only with proof of purchase."
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "Câu này giải thích vì sao phải thu hồi CẢ lô dù chỉ một số ít lỗi. (C) và (D) mâu thuẫn trực tiếp với các câu xung quanh."
+      },
+      {
+        "id": "p6-141",
+        "kind": "mcq",
+        "prompt": "141.",
+        "options": [
+          {
+            "id": "a",
+            "text": "inform"
+          },
+          {
+            "id": "b",
+            "text": "informing"
+          },
+          {
+            "id": "c",
+            "text": "informed"
+          },
+          {
+            "id": "d",
+            "text": "information"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'should be informed' — bị động. Người đang dùng là người ĐƯỢC báo."
+      },
+      {
+        "id": "p6-142",
+        "kind": "mcq",
+        "prompt": "142.",
+        "options": [
+          {
+            "id": "a",
+            "text": "cooperate"
+          },
+          {
+            "id": "b",
+            "text": "cooperation"
+          },
+          {
+            "id": "c",
+            "text": "cooperative"
+          },
+          {
+            "id": "d",
+            "text": "cooperatively"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "Sau 'your' cần danh từ. 'thank you for your cooperation' là cụm cố định."
+      }
+    ]
+  },
+  {
+    "id": "reading-part6-t4",
+    "skill": "reading",
+    "title": "Part 6 — Text 4: article about a local scheme",
+    "format": "TOEIC Reading — Part 6 · Text Completion 4 (câu 143–146)",
+    "instructionsVi": "Bài báo ngắn. Có câu hỏi từ vựng theo ngữ cảnh và một câu chèn — hai dạng thường đi cùng nhau ở Part 6.",
+    "promptEn": "Read the article and choose the best option for each numbered blank.",
+    "passage": "FAIRPORT — A scheme allowing residents to borrow tools from the public library has proved more popular than the council (143) ______ .\n\nSince launching in March, the tool library has lent out more than 1,400 items, from drills to wallpaper steamers. Demand has been strongest for items that are expensive to buy but used only once or twice.\n\n(144) ______ The council has since ordered a second set of the most requested tools.\n\nBorrowing is free for library members, though a deposit is (145) ______ for items worth more than fifty pounds. The deposit is returned when the tool comes back undamaged.\n\nThe council says it is now considering (146) ______ the scheme to two branch libraries next year, subject to funding.",
+    "timeLimitSec": 240,
+    "questions": [
+      {
+        "id": "p6-143",
+        "kind": "mcq",
+        "prompt": "143.",
+        "options": [
+          {
+            "id": "a",
+            "text": "expects"
+          },
+          {
+            "id": "b",
+            "text": "expected"
+          },
+          {
+            "id": "c",
+            "text": "expecting"
+          },
+          {
+            "id": "d",
+            "text": "expectation"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "Cả bài dùng thì quá khứ để nói về việc đã xảy ra từ tháng Ba; so sánh với kỳ vọng ban đầu nên dùng quá khứ."
+      },
+      {
+        "id": "p6-144",
+        "kind": "mcq",
+        "prompt": "144. — chọn câu phù hợp nhất để chèn vào",
+        "options": [
+          {
+            "id": "a",
+            "text": "Waiting lists for some tools reached three weeks over the summer."
+          },
+          {
+            "id": "b",
+            "text": "The scheme was closed after two months."
+          },
+          {
+            "id": "c",
+            "text": "Few residents were aware the scheme existed."
+          },
+          {
+            "id": "d",
+            "text": "Tools may only be borrowed by tradespeople."
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "Câu ngay sau nói hội đồng đã đặt thêm bộ dụng cụ thứ hai, nên câu chèn phải nêu lý do — nhu cầu quá cao. (B) và (C) mâu thuẫn với việc scheme đang mở rộng."
+      },
+      {
+        "id": "p6-145",
+        "kind": "mcq",
+        "prompt": "145.",
+        "options": [
+          {
+            "id": "a",
+            "text": "require"
+          },
+          {
+            "id": "b",
+            "text": "requires"
+          },
+          {
+            "id": "c",
+            "text": "requiring"
+          },
+          {
+            "id": "d",
+            "text": "required"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'a deposit is required' — bị động. Khoản đặt cọc là thứ BỊ yêu cầu."
+      },
+      {
+        "id": "p6-146",
+        "kind": "mcq",
+        "prompt": "146.",
+        "options": [
+          {
+            "id": "a",
+            "text": "extend"
+          },
+          {
+            "id": "b",
+            "text": "extended"
+          },
+          {
+            "id": "c",
+            "text": "extending"
+          },
+          {
+            "id": "d",
+            "text": "extension"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "Sau 'considering' cần danh động từ V-ing."
+      }
+    ]
+  }
+]

@@ -1,0 +1,413 @@
+[
+  {
+    "id": "reading-part7-t1",
+    "skill": "reading",
+    "title": "Part 7 — Triple passage 1: course advert, email and schedule",
+    "format": "TOEIC Reading — Part 7 · Triple passage (câu 186–190)",
+    "instructionsVi": "Bộ ba văn bản, 5 câu. Dạng khó nhất của TOEIC Reading: ít nhất hai câu đòi hỏi ghép thông tin từ hai văn bản khác nhau, và một câu tính toán nhiều bước.",
+    "promptEn": "Refer to the following advertisement, email and schedule, then answer the questions.",
+    "passage": "ADVERTISEMENT\nWESTGATE BUSINESS SKILLS — Autumn Short Courses\nAll courses run at our Riverside campus, 9 a.m. to 4 p.m.\n\n· Negotiation Essentials — Tuesdays — $240\n· Data Presentation — Wednesdays — $195\n· Project Scheduling — Thursdays — $260\n· Business Writing — Fridays — $180\n\nEarly-bird discount: 15% off any course booked before 15 September.\nGroup discount: book three or more places on the same course and receive a further 10% off the discounted price.\n\n---\n\nEMAIL\nFrom: t.okoye@lambertco.example\nTo: bookings@westgateskills.example\nDate: 8 September\nSubject: Autumn course booking\n\nHello,\n\nI would like to book places for four members of my team on the Project Scheduling course. All four can attend on the advertised day.\n\nI note from your website that the Riverside campus is being refurbished this autumn. Could you confirm where the course will actually be held?\n\nOne further question: two of my team will travel from our Eastbrook office. Is there parking on site?\n\nRegards,\nTemi Okoye\n\n---\n\nSCHEDULE (revised 5 September)\nWestgate Business Skills — Autumn term venue changes\n\nDue to refurbishment work at Riverside, the following courses will be held at the Meadowbank Centre instead:\n· Project Scheduling (Thursdays)\n· Business Writing (Fridays)\n\nNegotiation Essentials and Data Presentation remain at Riverside.\nMeadowbank Centre has no on-site parking; the nearest public car park is on Fenn Street, a five-minute walk away.",
+    "timeLimitSec": 375,
+    "questions": [
+      {
+        "id": "p7-186",
+        "kind": "mcq",
+        "prompt": "186. Where will Ms Okoye's team attend their course?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Riverside campus"
+          },
+          {
+            "id": "b",
+            "text": "Eastbrook office"
+          },
+          {
+            "id": "c",
+            "text": "Meadowbank Centre"
+          },
+          {
+            "id": "d",
+            "text": "Fenn Street"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "Email đặt khoá Project Scheduling; lịch sửa đổi cho biết khoá này chuyển sang Meadowbank. Phải ghép email với lịch."
+      },
+      {
+        "id": "p7-187",
+        "kind": "mcq",
+        "prompt": "187. What is the price per place for Ms Okoye's booking?",
+        "options": [
+          {
+            "id": "a",
+            "text": "$198.90"
+          },
+          {
+            "id": "b",
+            "text": "$260.00"
+          },
+          {
+            "id": "c",
+            "text": "$221.00"
+          },
+          {
+            "id": "d",
+            "text": "$234.00"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "Đặt ngày 8/9 nên được giảm sớm 15%: 260 × 0,85 = 221. Đặt 4 chỗ nên giảm thêm 10% trên giá ĐÃ giảm: 221 × 0,9 = 198,90. Bẫy là (C), tức quên mức giảm thứ hai."
+      },
+      {
+        "id": "p7-188",
+        "kind": "mcq",
+        "prompt": "188. What is the answer to Ms Okoye's parking question?",
+        "options": [
+          {
+            "id": "a",
+            "text": "There is free parking at the venue."
+          },
+          {
+            "id": "b",
+            "text": "There is no on-site parking; a public car park is nearby."
+          },
+          {
+            "id": "c",
+            "text": "Parking must be booked in advance."
+          },
+          {
+            "id": "d",
+            "text": "Parking is only available at Riverside."
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'Meadowbank Centre has no on-site parking; the nearest public car park is on Fenn Street'."
+      },
+      {
+        "id": "p7-189",
+        "kind": "mcq",
+        "prompt": "189. Which course was NOT affected by the venue change?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Project Scheduling"
+          },
+          {
+            "id": "b",
+            "text": "Business Writing"
+          },
+          {
+            "id": "c",
+            "text": "All courses moved."
+          },
+          {
+            "id": "d",
+            "text": "Data Presentation"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'Negotiation Essentials and Data Presentation remain at Riverside'."
+      },
+      {
+        "id": "p7-190",
+        "kind": "mcq",
+        "prompt": "190. On which day of the week will the team attend?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Thursday"
+          },
+          {
+            "id": "b",
+            "text": "Tuesday"
+          },
+          {
+            "id": "c",
+            "text": "Wednesday"
+          },
+          {
+            "id": "d",
+            "text": "Friday"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "Project Scheduling chạy vào thứ Năm theo quảng cáo, và lịch sửa đổi giữ nguyên ngày, chỉ đổi địa điểm."
+      }
+    ]
+  },
+  {
+    "id": "reading-part7-t2",
+    "skill": "reading",
+    "title": "Part 7 — Triple passage 2: policy, claim form and reply",
+    "format": "TOEIC Reading — Part 7 · Triple passage (câu 191–195)",
+    "instructionsVi": "Bộ ba văn bản. Câu hỏi buộc ÁP DỤNG một điều khoản trong văn bản 1 vào tình huống ở văn bản 2 để suy ra kết quả ở văn bản 3.",
+    "promptEn": "Refer to the following policy extract, claim form and email, then answer the questions.",
+    "passage": "POLICY EXTRACT — Meridian Equipment Warranty\n\n1. Standard cover lasts 24 months from the date of delivery.\n2. Cover is extended to 36 months where the customer has purchased an annual service plan and all scheduled services have been completed.\n3. Damage caused by operation outside the stated temperature range (5°C to 40°C) is excluded from all cover.\n4. Claims must be submitted within 30 days of the fault being discovered.\n5. Notwithstanding clause 3, cover applies where the customer can show that the temperature excursion resulted from a failure of equipment supplied by Meridian.\n\n---\n\nCLAIM FORM — submitted 14 April\n\nCustomer: Halloway Cold Storage\nUnit: Meridian CX-40 compressor\nDate of delivery: 3 March, two years and one month ago\nAnnual service plan: Yes — services completed March (year 1) and March (year 2)\nFault discovered: 2 April\nDescription: Compressor failed after the unit's own thermostat, also supplied by Meridian, stopped regulating and allowed the chamber to reach 46°C overnight.\n\n---\n\nEMAIL\nFrom: claims@meridianequip.example\nTo: j.halloway@hallowaycold.example\nDate: 21 April\nSubject: Claim MC-2214\n\nDear Ms Halloway,\n\nThank you for your claim, which we have now assessed. I can confirm that we will repair the compressor at no charge and replace the thermostat unit at the same visit.\n\nOur engineer is available on 28 or 29 April. Please confirm which you prefer.\n\nRegards,\nClaims Team",
+    "timeLimitSec": 375,
+    "questions": [
+      {
+        "id": "p7-191",
+        "kind": "mcq",
+        "prompt": "191. Why is the unit still covered despite being more than 24 months old?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Because an annual service plan was held and all services were completed"
+          },
+          {
+            "id": "b",
+            "text": "Because the fault was discovered within 30 days"
+          },
+          {
+            "id": "c",
+            "text": "Because the customer is a long-standing client"
+          },
+          {
+            "id": "d",
+            "text": "Because compressors have a separate warranty period"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "Điều 2: có gói bảo dưỡng năm và hoàn thành đủ các lần bảo dưỡng thì cover kéo dài 36 tháng. Máy mới 25 tháng nên vẫn trong hạn."
+      },
+      {
+        "id": "p7-192",
+        "kind": "mcq",
+        "prompt": "192. Why does the temperature exclusion not apply here?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Because 46°C is within the stated range"
+          },
+          {
+            "id": "b",
+            "text": "Because the fault occurred overnight"
+          },
+          {
+            "id": "c",
+            "text": "Because the excursion was caused by Meridian's own thermostat failing"
+          },
+          {
+            "id": "d",
+            "text": "Because clause 3 was removed from the policy"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "Điều 5 là ngoại lệ của điều 3: nếu vượt nhiệt do thiết bị của chính Meridian hỏng thì vẫn được bảo hành."
+      },
+      {
+        "id": "p7-193",
+        "kind": "mcq",
+        "prompt": "193. Was the claim submitted in time?",
+        "options": [
+          {
+            "id": "a",
+            "text": "No — it was submitted after 30 days"
+          },
+          {
+            "id": "b",
+            "text": "Yes — but only because the deadline was waived"
+          },
+          {
+            "id": "c",
+            "text": "The policy does not set a deadline."
+          },
+          {
+            "id": "d",
+            "text": "Yes — 12 days after the fault was discovered"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "Phát hiện lỗi ngày 2/4, nộp ngày 14/4 — cách nhau 12 ngày, trong hạn 30 ngày của điều 4."
+      },
+      {
+        "id": "p7-194",
+        "kind": "mcq",
+        "prompt": "194. What is NOT mentioned in the email?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The compressor will be repaired free of charge."
+          },
+          {
+            "id": "b",
+            "text": "The warranty will be extended by a further year."
+          },
+          {
+            "id": "c",
+            "text": "The thermostat will be replaced."
+          },
+          {
+            "id": "d",
+            "text": "Two possible visit dates are offered."
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "Email nêu ba việc đầu, hoàn toàn không nhắc tới gia hạn bảo hành. Dạng NOT buộc đối chiếu từng phương án."
+      },
+      {
+        "id": "p7-195",
+        "kind": "mcq",
+        "prompt": "195. What is Ms Halloway asked to do?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Submit further evidence"
+          },
+          {
+            "id": "b",
+            "text": "Pay a contribution towards the repair"
+          },
+          {
+            "id": "c",
+            "text": "Choose between two visit dates"
+          },
+          {
+            "id": "d",
+            "text": "Return the compressor to Meridian"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'Our engineer is available on 28 or 29 April. Please confirm which you prefer'."
+      }
+    ]
+  },
+  {
+    "id": "reading-part7-t3",
+    "skill": "reading",
+    "title": "Part 7 — Triple passage 3: job advert, application and interview note",
+    "format": "TOEIC Reading — Part 7 · Triple passage (câu 196–200)",
+    "instructionsVi": "Bộ ba văn bản cuối cùng của đề. Có một câu hỏi hàm ý và một câu đối chiếu yêu cầu tuyển dụng với hồ sơ ứng viên.",
+    "promptEn": "Refer to the following advertisement, email and note, then answer the questions.",
+    "passage": "ADVERTISEMENT\nWAREHOUSE SUPERVISOR — Halloran Distribution, Fairport\n\nEvening shift, Monday to Friday, 2 p.m. to 10 p.m. Permanent.\n\nEssential: three years' warehouse experience; valid forklift certificate; available to start by 1 June.\nDesirable: experience with stock management software; a second language.\n\nApplications close 30 April. Interviews week commencing 6 May.\nApply to recruitment@halloran.example with a CV and covering letter.\n\n---\n\nEMAIL\nFrom: s.mensah@example.com\nTo: recruitment@halloran.example\nDate: 24 April\nSubject: Warehouse Supervisor application\n\nDear Recruitment team,\n\nPlease find attached my CV for the Warehouse Supervisor position.\n\nI have five years' experience in warehousing, the last two as a shift leader at Kesten Logistics, where I introduced the stock scanning system now used across all three of their sites. I hold a current forklift certificate, renewed in January, and I speak Portuguese as well as English.\n\nI should mention that I am currently serving a notice period which ends on 10 June. I hope this does not rule me out, and I would be glad to discuss it.\n\nRegards,\nSelina Mensah\n\n---\n\nINTERVIEW NOTE — 8 May\nCandidate: S. Mensah · Panel: R. Beck, I. Duarte\n\nStrong on the operational questions; clearly the most experienced candidate seen this week. Handled the scenario on managing an underperforming team member particularly well.\n\nOnly issue is the start date. Panel agreed the June deadline was set for the summer peak and there is some flexibility. R. Beck to check with Operations whether a mid-June start is workable before we make an offer.",
+    "timeLimitSec": 375,
+    "questions": [
+      {
+        "id": "p7-196",
+        "kind": "mcq",
+        "prompt": "196. Which essential requirement does Ms Mensah NOT meet?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Three years' warehouse experience"
+          },
+          {
+            "id": "b",
+            "text": "Availability by 1 June"
+          },
+          {
+            "id": "c",
+            "text": "A valid forklift certificate"
+          },
+          {
+            "id": "d",
+            "text": "She meets all essential requirements."
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "Yêu cầu bắt buộc là bắt đầu trước 1/6, nhưng bà ấy hết hạn báo trước ngày 10/6. Phải đối chiếu quảng cáo với email."
+      },
+      {
+        "id": "p7-197",
+        "kind": "mcq",
+        "prompt": "197. Which desirable criteria does she meet?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Both"
+          },
+          {
+            "id": "b",
+            "text": "Neither"
+          },
+          {
+            "id": "c",
+            "text": "Stock management software only"
+          },
+          {
+            "id": "d",
+            "text": "A second language only"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "Bà ấy triển khai hệ thống quét kho VÀ nói được tiếng Bồ Đào Nha — đủ cả hai tiêu chí mong muốn."
+      },
+      {
+        "id": "p7-198",
+        "kind": "mcq",
+        "prompt": "198. What does the interview note suggest about the start date requirement?",
+        "options": [
+          {
+            "id": "a",
+            "text": "It cannot be changed under any circumstances."
+          },
+          {
+            "id": "b",
+            "text": "It has already been extended to July."
+          },
+          {
+            "id": "c",
+            "text": "It applies only to temporary staff."
+          },
+          {
+            "id": "d",
+            "text": "It was set for a reason that may allow some flexibility."
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'the June deadline was set for the summer peak and there is some flexibility'."
+      },
+      {
+        "id": "p7-199",
+        "kind": "mcq",
+        "prompt": "199. What must happen before an offer is made?",
+        "options": [
+          {
+            "id": "a",
+            "text": "References must be obtained."
+          },
+          {
+            "id": "b",
+            "text": "A second interview must be held."
+          },
+          {
+            "id": "c",
+            "text": "Operations must confirm a mid-June start is workable."
+          },
+          {
+            "id": "d",
+            "text": "The forklift certificate must be verified."
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'R. Beck to check with Operations whether a mid-June start is workable before we make an offer'."
+      },
+      {
+        "id": "p7-200",
+        "kind": "mcq",
+        "prompt": "200. What is implied about the other candidates?",
+        "options": [
+          {
+            "id": "a",
+            "text": "None of them held a forklift certificate."
+          },
+          {
+            "id": "b",
+            "text": "They had less experience than Ms Mensah."
+          },
+          {
+            "id": "c",
+            "text": "They were all available from 1 June."
+          },
+          {
+            "id": "d",
+            "text": "They were interviewed in a different week."
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'clearly the most experienced candidate seen this week' — hàm ý những người khác kinh nghiệm ít hơn. Ba phương án kia không có căn cứ trong bài."
+      }
+    ]
+  }
+]

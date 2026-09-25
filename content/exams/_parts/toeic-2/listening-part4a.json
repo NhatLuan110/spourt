@@ -1,0 +1,547 @@
+[
+  {
+    "id": "listening-part4-t1",
+    "skill": "listening",
+    "title": "Part 4 — Talk 1: airport announcement",
+    "format": "TOEIC Listening — Part 4 · Talk 1 (câu 71–73)",
+    "instructionsVi": "Thông báo một chiều, mọi thông tin chỉ nói một lần. Có một chỗ đính chính thông tin in trên bảng.",
+    "promptEn": "Listen to the announcement and answer questions 71 through 73.",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "Announcer",
+        "text": "This is an announcement for passengers on flight LK four-one-two to Copenhagen."
+      },
+      {
+        "speaker": "Announcer",
+        "text": "Boarding will now take place at gate twenty-two, not gate fifteen as shown on the departure boards. We apologise for the change."
+      },
+      {
+        "speaker": "Announcer",
+        "text": "Boarding begins in twenty minutes and will be by row number. Passengers requiring assistance, and those travelling with young children, are invited to board first."
+      },
+      {
+        "speaker": "Announcer",
+        "text": "Please have your boarding pass and passport ready. Note that only one item of hand luggage may be taken on board; any second bag will be placed in the hold free of charge at the gate."
+      },
+      {
+        "speaker": "Announcer",
+        "text": "The flight is expected to arrive on schedule despite the gate change."
+      }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p4-71",
+        "kind": "mcq",
+        "prompt": "71. Which gate should passengers go to?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Gate 12"
+          },
+          {
+            "id": "b",
+            "text": "Gate 15"
+          },
+          {
+            "id": "c",
+            "text": "Gate 20"
+          },
+          {
+            "id": "d",
+            "text": "Gate 22"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'gate twenty-two, not gate fifteen as shown on the departure boards'. Cổng 15 là thông tin SAI trên bảng."
+      },
+      {
+        "id": "p4-72",
+        "kind": "mcq",
+        "prompt": "72. Who may board first?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Passengers in the front rows"
+          },
+          {
+            "id": "b",
+            "text": "Passengers with only hand luggage"
+          },
+          {
+            "id": "c",
+            "text": "Passengers needing assistance and those with young children"
+          },
+          {
+            "id": "d",
+            "text": "Business class passengers"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'Passengers requiring assistance, and those travelling with young children, are invited to board first'."
+      },
+      {
+        "id": "p4-73",
+        "kind": "mcq",
+        "prompt": "73. What happens to a second piece of hand luggage?",
+        "options": [
+          {
+            "id": "a",
+            "text": "It is refused."
+          },
+          {
+            "id": "b",
+            "text": "It goes in the hold at no cost."
+          },
+          {
+            "id": "c",
+            "text": "A fee is charged."
+          },
+          {
+            "id": "d",
+            "text": "It must be checked in earlier."
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'any second bag will be placed in the hold free of charge at the gate'."
+      }
+    ]
+  },
+  {
+    "id": "listening-part4-t2",
+    "skill": "listening",
+    "title": "Part 4 — Talk 2: voicemail from a landlord",
+    "format": "TOEIC Listening — Part 4 · Talk 2 (câu 74–76)",
+    "instructionsVi": "Tin nhắn thoại. Có một yêu cầu hành động ở cuối và một điều kiện đi kèm.",
+    "promptEn": "Listen to the telephone message and answer questions 74 through 76.",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "Caller",
+        "text": "Hello, this is Marek from Hartley Lettings, calling for Ms Nguyen about the flat on Meadow Road."
+      },
+      {
+        "speaker": "Caller",
+        "text": "The boiler engineer can come on Thursday morning or Saturday afternoon. Thursday is a standard visit; Saturday carries a weekend call-out charge, though in this case we'd cover it since the fault is ours."
+      },
+      {
+        "speaker": "Caller",
+        "text": "He'll need access to the airing cupboard, so if you're out, please leave a key with the neighbour and let me know which flat."
+      },
+      {
+        "speaker": "Caller",
+        "text": "One more thing — the annual gas safety check is due next month, and we can combine the two visits if you take the Thursday slot. That saves you a second appointment."
+      },
+      {
+        "speaker": "Caller",
+        "text": "Call me back on 0117 496 2280 to confirm. If I don't hear by Wednesday lunchtime I'll book Thursday by default."
+      }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p4-74",
+        "kind": "mcq",
+        "prompt": "74. What is said about the Saturday appointment?",
+        "options": [
+          {
+            "id": "a",
+            "text": "It is not available."
+          },
+          {
+            "id": "b",
+            "text": "The tenant must pay a call-out charge."
+          },
+          {
+            "id": "c",
+            "text": "It would include the gas safety check."
+          },
+          {
+            "id": "d",
+            "text": "The charge would be covered by the agency."
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'Saturday carries a weekend call-out charge, though in this case we'd cover it since the fault is ours'."
+      },
+      {
+        "id": "p4-75",
+        "kind": "mcq",
+        "prompt": "75. What is the advantage of the Thursday slot?",
+        "options": [
+          {
+            "id": "a",
+            "text": "It is earlier in the week."
+          },
+          {
+            "id": "b",
+            "text": "No access is needed."
+          },
+          {
+            "id": "c",
+            "text": "Two visits can be combined."
+          },
+          {
+            "id": "d",
+            "text": "It is cheaper for the tenant."
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'we can combine the two visits if you take the Thursday slot. That saves you a second appointment'."
+      },
+      {
+        "id": "p4-76",
+        "kind": "mcq",
+        "prompt": "76. What happens if the tenant does not reply?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The visit is cancelled."
+          },
+          {
+            "id": "b",
+            "text": "Thursday will be booked by default."
+          },
+          {
+            "id": "c",
+            "text": "Saturday will be booked."
+          },
+          {
+            "id": "d",
+            "text": "The agency will call again."
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'If I don't hear by Wednesday lunchtime I'll book Thursday by default'."
+      }
+    ]
+  },
+  {
+    "id": "listening-part4-t3",
+    "skill": "listening",
+    "title": "Part 4 — Talk 3: weather and travel bulletin",
+    "format": "TOEIC Listening — Part 4 · Talk 3 (câu 77–79)",
+    "instructionsVi": "Bản tin. Nhiều địa danh và mốc thời gian nối nhau nhanh — ghi nhanh trong lúc nghe.",
+    "promptEn": "Listen to the bulletin and answer questions 77 through 79.",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "Presenter",
+        "text": "Here is the travel and weather bulletin at seven forty-five."
+      },
+      {
+        "speaker": "Presenter",
+        "text": "Heavy rain is expected across the region from mid-morning, easing by early evening. Localised flooding is likely on low-lying roads, particularly the coastal route between Fairport and Kirby."
+      },
+      {
+        "speaker": "Presenter",
+        "text": "Rail services are running normally, but the operator has warned that speed restrictions may be introduced this afternoon if conditions worsen."
+      },
+      {
+        "speaker": "Presenter",
+        "text": "The Harbour Bridge is closed to high-sided vehicles because of strong winds. Cars and vans are unaffected."
+      },
+      {
+        "speaker": "Presenter",
+        "text": "And a reminder that the Fairport park-and-ride is running a reduced timetable this week while the car park is resurfaced — buses every twenty minutes rather than every ten."
+      }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p4-77",
+        "kind": "mcq",
+        "prompt": "77. Which route is most at risk of flooding?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The Harbour Bridge"
+          },
+          {
+            "id": "b",
+            "text": "The coastal route between Fairport and Kirby"
+          },
+          {
+            "id": "c",
+            "text": "The railway line"
+          },
+          {
+            "id": "d",
+            "text": "The park-and-ride route"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'Localised flooding is likely on low-lying roads, particularly the coastal route between Fairport and Kirby'."
+      },
+      {
+        "id": "p4-78",
+        "kind": "mcq",
+        "prompt": "78. Who is affected by the bridge closure?",
+        "options": [
+          {
+            "id": "a",
+            "text": "All vehicles"
+          },
+          {
+            "id": "b",
+            "text": "Cars and vans"
+          },
+          {
+            "id": "c",
+            "text": "High-sided vehicles only"
+          },
+          {
+            "id": "d",
+            "text": "Pedestrians"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'closed to high-sided vehicles because of strong winds. Cars and vans are unaffected'."
+      },
+      {
+        "id": "p4-79",
+        "kind": "mcq",
+        "prompt": "79. How often are park-and-ride buses running this week?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Every twenty minutes"
+          },
+          {
+            "id": "b",
+            "text": "Every ten minutes"
+          },
+          {
+            "id": "c",
+            "text": "Every forty-five minutes"
+          },
+          {
+            "id": "d",
+            "text": "They are not running."
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'every twenty minutes rather than every ten'. Mười phút là tần suất bình thường."
+      }
+    ]
+  },
+  {
+    "id": "listening-part4-t4",
+    "skill": "listening",
+    "title": "Part 4 — Talk 4: introducing a new product",
+    "format": "TOEIC Listening — Part 4 · Talk 4 (câu 80–82)",
+    "instructionsVi": "Bài giới thiệu sản phẩm. Câu hỏi hay hỏi điểm khác biệt so với bản cũ và điều kiện ưu đãi.",
+    "promptEn": "Listen to the presentation and answer questions 80 through 82.",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "Speaker",
+        "text": "Thanks for coming. I want to show you the CX-50, which replaces the CX-40 from October."
+      },
+      {
+        "speaker": "Speaker",
+        "text": "The headline change isn't the motor — that's unchanged. It's the control board, which now logs temperature every thirty seconds and stores ninety days of history on the unit itself."
+      },
+      {
+        "speaker": "Speaker",
+        "text": "Why that matters: when a unit fails, the commonest question is what the conditions were beforehand, and until now the honest answer was that nobody knew."
+      },
+      {
+        "speaker": "Speaker",
+        "text": "Pricing is within two per cent of the CX-40, and existing service plans transfer across without change."
+      },
+      {
+        "speaker": "Speaker",
+        "text": "Customers who order before the end of August get the extended warranty at no cost. After that it's an option at the usual rate."
+      }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p4-80",
+        "kind": "mcq",
+        "prompt": "80. What is the main difference from the previous model?",
+        "options": [
+          {
+            "id": "a",
+            "text": "A more powerful motor"
+          },
+          {
+            "id": "b",
+            "text": "A control board that logs and stores data"
+          },
+          {
+            "id": "c",
+            "text": "A lower price"
+          },
+          {
+            "id": "d",
+            "text": "A smaller physical size"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'The headline change isn't the motor — that's unchanged. It's the control board'. Câu phủ định loại thẳng (A)."
+      },
+      {
+        "id": "p4-81",
+        "kind": "mcq",
+        "prompt": "81. Why does the speaker say this matters?",
+        "options": [
+          {
+            "id": "a",
+            "text": "It reduces energy use."
+          },
+          {
+            "id": "b",
+            "text": "It makes the unit easier to install."
+          },
+          {
+            "id": "c",
+            "text": "It extends the warranty automatically."
+          },
+          {
+            "id": "d",
+            "text": "It answers what conditions preceded a failure."
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'the commonest question is what the conditions were beforehand, and until now the honest answer was that nobody knew'."
+      },
+      {
+        "id": "p4-82",
+        "kind": "mcq",
+        "prompt": "82. What do customers ordering before the end of August receive?",
+        "options": [
+          {
+            "id": "a",
+            "text": "A free extended warranty"
+          },
+          {
+            "id": "b",
+            "text": "A two per cent discount"
+          },
+          {
+            "id": "c",
+            "text": "A free service plan"
+          },
+          {
+            "id": "d",
+            "text": "Free installation"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'order before the end of August get the extended warranty at no cost'. Hai phần trăm là chênh lệch GIÁ, không phải giảm giá."
+      }
+    ]
+  },
+  {
+    "id": "listening-part4-t5",
+    "skill": "listening",
+    "title": "Part 4 — Talk 5: recorded information line",
+    "format": "TOEIC Listening — Part 4 · Talk 5 (câu 83–85)",
+    "instructionsVi": "Tổng đài tự động. Nhiều lựa chọn bấm phím nối nhau; câu hỏi hỏi phải làm gì trong một tình huống cụ thể.",
+    "promptEn": "Listen to the recorded message and answer questions 83 through 85.",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "Recording",
+        "text": "Thank you for calling Fairport City Library. Our opening hours have changed, so please listen carefully."
+      },
+      {
+        "speaker": "Recording",
+        "text": "The central library is open Monday to Saturday from nine until seven, and on Sundays from eleven until four."
+      },
+      {
+        "speaker": "Recording",
+        "text": "To renew a loan, press one. To reserve an item, press two. To report a lost card, press three."
+      },
+      {
+        "speaker": "Recording",
+        "text": "Please note that items already overdue cannot be renewed by phone — you will need to bring them to a branch."
+      },
+      {
+        "speaker": "Recording",
+        "text": "Branch libraries have separate hours, which are listed on our website. All branches are closed on Mondays."
+      }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p4-83",
+        "kind": "mcq",
+        "prompt": "83. What should a caller with an overdue item do?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Take the item to a branch"
+          },
+          {
+            "id": "b",
+            "text": "Press one to renew"
+          },
+          {
+            "id": "c",
+            "text": "Press three"
+          },
+          {
+            "id": "d",
+            "text": "Call back on a Monday"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'items already overdue cannot be renewed by phone — you will need to bring them to a branch'."
+      },
+      {
+        "id": "p4-84",
+        "kind": "mcq",
+        "prompt": "84. When does the central library close on Sundays?",
+        "options": [
+          {
+            "id": "a",
+            "text": "At seven"
+          },
+          {
+            "id": "b",
+            "text": "At eleven"
+          },
+          {
+            "id": "c",
+            "text": "At four"
+          },
+          {
+            "id": "d",
+            "text": "It is closed on Sundays."
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'on Sundays from eleven until four'. Bảy giờ là giờ đóng cửa các ngày trong tuần."
+      },
+      {
+        "id": "p4-85",
+        "kind": "mcq",
+        "prompt": "85. What is said about branch libraries?",
+        "options": [
+          {
+            "id": "a",
+            "text": "They keep the same hours as the central library."
+          },
+          {
+            "id": "b",
+            "text": "They cannot renew loans."
+          },
+          {
+            "id": "c",
+            "text": "They are closed at weekends."
+          },
+          {
+            "id": "d",
+            "text": "They are all closed on Mondays."
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'All branches are closed on Mondays'."
+      }
+    ]
+  }
+]

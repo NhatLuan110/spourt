@@ -1,0 +1,40 @@
+[
+  {
+    "id": "writing-respond-complaint",
+    "skill": "writing",
+    "title": "Writing Q6–7 — Respond to a written request",
+    "format": "TOEIC Writing — Respond to a Written Request · 10 phút, email xử lý khiếu nại",
+    "instructionsVi": "Viết 60–130 từ. Ở mức này đề yêu cầu ba việc và có yếu tố tế nhị: phải vừa xin lỗi, vừa nêu giải pháp, vừa hỏi thêm thông tin mà không đổ lỗi cho khách.",
+    "promptEn": "Read the email below and respond.\n\nFrom: Helen Marsh\nTo: Customer Service, Fairmont Office Supplies\nSubject: Damaged delivery — order 77310\n\nOur order arrived this morning and three of the six chairs have damaged armrests. We need them for a training session next Wednesday. This is the second time an order from you has arrived damaged.\n\n---\n\nDIRECTIONS: Respond as a customer service representative. In your reply, apologise, propose ONE solution, and ask ONE question.",
+    "timeLimitSec": 600,
+    "minWords": 60,
+    "maxWords": 130,
+    "sampleAnswer": "Dear Ms Marsh,\n\nThank you for letting us know, and I am very sorry that three of the chairs arrived damaged. I understand this is the second time, and that is not the standard we aim for.\n\nI would like to send three replacement chairs by express courier so that they reach you on Monday, ahead of your training session on Wednesday. We will arrange collection of the damaged items at the same time, at no cost to you.\n\nSo that I can pass this to our warehouse team, could you tell me whether the outer packaging was also damaged when the delivery arrived? That will help us identify where the problem is occurring.\n\nI will confirm the courier booking today.\n\nBest regards,\nAmara Diallo\nCustomer Service, Fairmont Office Supplies",
+    "rubricVi": [
+      "Làm đủ ba việc: xin lỗi, đề xuất một giải pháp, hỏi một câu. Đây là tiêu chí chấm quan trọng nhất.",
+      "Giải pháp phải giải quyết được ràng buộc thời gian của khách (buổi tập huấn thứ Tư). Giải pháp chung chung kiểu 'we will look into it' bị coi là không hoàn thành nhiệm vụ.",
+      "Thừa nhận việc lặp lại lần hai thay vì lờ đi. Bỏ qua chi tiết khách nêu là lỗi nội dung.",
+      "Câu hỏi phải nhằm giải quyết vấn đề, không được ngụ ý đổ lỗi cho khách hàng.",
+      "Giữ giọng lịch sự, thể thức email đầy đủ. 60–130 từ là vừa; viết dài hơn không cộng điểm."
+    ]
+  },
+  {
+    "id": "writing-opinion-remote",
+    "skill": "writing",
+    "title": "Writing Q8 — Write an opinion essay",
+    "format": "TOEIC Writing — Opinion Essay · 30 phút, tối thiểu 300 từ",
+    "instructionsVi": "Viết 300–380 từ. Đề dạng 'agree or disagree' — chọn hẳn một bên và chống đỡ bằng ba lý do có ví dụ cụ thể. Đừng bàn cân bằng hai phía như IELTS, TOEIC chấm sự rõ ràng.",
+    "promptEn": "Do you agree or disagree with the following statement?\n\n'It is better for a company to promote employees from within than to hire managers from outside the company.'\n\nUse specific reasons and examples to support your answer.",
+    "timeLimitSec": 1800,
+    "minWords": 300,
+    "maxWords": 380,
+    "sampleAnswer": "I agree that companies should generally promote from within rather than hire managers externally. I believe this for three reasons: existing employees already understand the business, internal promotion motivates the whole team, and the cost of a mistake is lower.\n\nFirst, an internal candidate already knows how the company actually works. Written procedures never capture everything; a great deal of practical knowledge exists only in people's heads. At a factory where my cousin works, an external production manager was hired last year and spent almost six months simply learning which suppliers were reliable and which machines required special handling. An internal candidate would have known this from the first day, and that half-year of learning was effectively lost output.\n\nSecond, promoting from within has a strong effect on the people who are not promoted. When employees see that good work leads to advancement, they have a concrete reason to develop their skills. When every senior role is filled from outside, the message is that effort inside the company leads nowhere. I have seen this directly: a former employer filled three management posts externally in one year, and four experienced staff resigned within the following six months.\n\nThird, the company already has reliable information about an internal candidate. Interviews and references reveal very little about how someone behaves under pressure over several years, whereas a manager promoted internally has been observed doing exactly that. If the promotion does not work out, the company also has more options, because the person can often return to a previous role.\n\nI would accept one exception. When a company needs to change direction significantly, an outsider may be necessary precisely because they are not attached to existing practices. But this is a special situation rather than a general rule.\n\nIn conclusion, I believe internal promotion is usually the better choice, because it preserves knowledge, motivates staff, and reduces the risk of a poor appointment.",
+    "rubricVi": [
+      "Chọn hẳn một bên ngay câu đầu và giữ tới cuối. TOEIC không thưởng cho bài lập lờ như IELTS band cao.",
+      "Đúng ba lý do, mỗi lý do một đoạn, mỗi đoạn một ví dụ cụ thể. Đề yêu cầu 'specific reasons and examples'.",
+      "Ví dụ nên là chuyện có thật hoặc hợp lý trong đời sống công sở, có chi tiết (sáu tháng, bốn người nghỉ việc). Ví dụ chung chung không tính là ví dụ.",
+      "Nêu một ngoại lệ ngắn ở gần cuối để bài không một chiều, nhưng đừng để nó lấn át lập trường chính.",
+      "Đủ 300 từ, kết bài nhắc lại ba lý do. Dưới 300 từ bị hạ điểm bất kể chất lượng."
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+/** §6.1 — error codes are SCREAMING_SNAKE and documented in docs/errors.md. */
+export const ERROR_CODES = {
+  VALIDATION_FAILED: 'VALIDATION_FAILED',
+  UNAUTHENTICATED: 'UNAUTHENTICATED',
+  INVALID_CREDENTIALS: 'INVALID_CREDENTIALS',
+  EMAIL_ALREADY_REGISTERED: 'EMAIL_ALREADY_REGISTERED',
+  REFRESH_TOKEN_INVALID: 'REFRESH_TOKEN_INVALID',
+  REFRESH_TOKEN_REUSED: 'REFRESH_TOKEN_REUSED',
+  FORBIDDEN: 'FORBIDDEN',
+  NOT_FOUND: 'NOT_FOUND',
+  RATE_LIMITED: 'RATE_LIMITED',
+  AI_QUOTA_EXCEEDED: 'AI_QUOTA_EXCEEDED',
+  AI_PROVIDER_ERROR: 'AI_PROVIDER_ERROR',
+  SRS_QUEUE_EMPTY: 'SRS_QUEUE_EMPTY',
+  SRS_CARD_NOT_DUE: 'SRS_CARD_NOT_DUE',
+  WORD_ALREADY_LEARNING: 'WORD_ALREADY_LEARNING',
+  LESSON_LOCKED: 'LESSON_LOCKED',
+  UPLOAD_TOO_LARGE: 'UPLOAD_TOO_LARGE',
+  UNSUPPORTED_MEDIA_TYPE: 'UNSUPPORTED_MEDIA_TYPE',
+  INSUFFICIENT_COINS: 'INSUFFICIENT_COINS',
+  ATTEMPT_ALREADY_SUBMITTED: 'ATTEMPT_ALREADY_SUBMITTED',
+  TEST_NOT_ANSWERED: 'TEST_NOT_ANSWERED',
+  TEST_NOT_SUBMITTED: 'TEST_NOT_SUBMITTED',
+  INTERNAL_ERROR: 'INTERNAL_ERROR',
+} as const;
+
+export type ErrorCode = (typeof ERROR_CODES)[keyof typeof ERROR_CODES];
+
+/** User-facing Vietnamese message per code — the API sends these as a fallback. */
+export const ERROR_MESSAGE_VI: Record<ErrorCode, string> = {
+  VALIDATION_FAILED: 'Dữ liệu gửi lên chưa hợp lệ.',
+  UNAUTHENTICATED: 'Bạn cần đăng nhập để tiếp tục.',
+  INVALID_CREDENTIALS: 'Email hoặc mật khẩu không đúng.',
+  EMAIL_ALREADY_REGISTERED: 'Email này đã được đăng ký.',
+  REFRESH_TOKEN_INVALID: 'Phiên đăng nhập đã hết hạn.',
+  REFRESH_TOKEN_REUSED: 'Phiên đăng nhập không an toàn, vui lòng đăng nhập lại.',
+  FORBIDDEN: 'Bạn không có quyền thực hiện thao tác này.',
+  NOT_FOUND: 'Không tìm thấy nội dung.',
+  RATE_LIMITED: 'Bạn thao tác hơi nhanh, thử lại sau ít giây nhé.',
+  AI_QUOTA_EXCEEDED: 'Bạn đã dùng hết lượt AI hôm nay.',
+  AI_PROVIDER_ERROR: 'AI đang bận, vui lòng thử lại.',
+  SRS_QUEUE_EMPTY: 'Hôm nay bạn không còn thẻ nào phải ôn.',
+  SRS_CARD_NOT_DUE: 'Thẻ này chưa đến hạn ôn.',
+  WORD_ALREADY_LEARNING: 'Từ này đã có trong bộ từ của bạn.',
+  LESSON_LOCKED: 'Bạn cần hoàn thành bài trước đó.',
+  UPLOAD_TOO_LARGE: 'Tệp vượt quá dung lượng cho phép.',
+  UNSUPPORTED_MEDIA_TYPE: 'Định dạng tệp không được hỗ trợ.',
+  INSUFFICIENT_COINS: 'Bạn không đủ xu.',
+  ATTEMPT_ALREADY_SUBMITTED: 'Bài làm này đã được nộp.',
+  TEST_NOT_ANSWERED: 'Bài kiểm tra chưa có câu trả lời nào để chấm.',
+  TEST_NOT_SUBMITTED: 'Lượt kiểm tra này chưa nộp nên chưa có kết quả.',
+  INTERNAL_ERROR: 'Có lỗi xảy ra, vui lòng thử lại.',
+};

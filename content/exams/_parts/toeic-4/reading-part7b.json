@@ -1,0 +1,342 @@
+[
+  {
+    "id": "reading-part7-s8",
+    "skill": "reading",
+    "title": "Part 7 — Single passage 8: press release",
+    "format": "TOEIC Reading — Part 7 · Single passage (câu 166–169)",
+    "instructionsVi": "Thông cáo báo chí viết cho hai đối tượng cùng lúc: nhà đầu tư và khách hàng. Câu hỏi hay hỏi điều công ty tránh nói ra.",
+    "promptEn": "Read the press release and answer questions 166 through 169.",
+    "passage": "FOR IMMEDIATE RELEASE\n\nKelbrook Logistics restates prior-year results\n\nKelbrook Logistics plc today published restated accounts for the two financial years ended 31 March. The restatement follows a review of the group's revenue recognition on multi-year haulage contracts and moves approximately £40m of previously recognised income into later periods.\n\nNo cash has been lost, no customer contract is affected, and the group's cash position and banking covenants are unchanged. Underlying volumes for the current year remain in line with guidance issued in June.\n\nThe review was prompted by a query raised internally in March. The audit committee has acknowledged that the matter should have been reported to the board before August and has commissioned an independent examination of its own reporting practices, to conclude by the end of the calendar year.\n\nSanjay Ruel, Chief Financial Officer, will step down at the end of the quarter. A search for a successor has begun and an interim appointment will be announced shortly. Priya Nandra continues as Chief Executive.\n\nThe restated accounts, together with a reconciliation to the figures previously published, are available on the group's investor pages.",
+    "timeLimitSec": 180,
+    "questions": [
+      {
+        "id": "p7-166",
+        "kind": "mcq",
+        "prompt": "166. What is the effect of the restatement?",
+        "options": [
+          { "id": "a", "text": "£40m of income is recognised in later periods." },
+          { "id": "b", "text": "£40m of cash has been written off." },
+          { "id": "c", "text": "Customer contracts worth £40m have been cancelled." },
+          { "id": "d", "text": "Banking covenants have been renegotiated." }
+        ],
+        "answer": "a",
+        "explanationVi": "'moves approximately £40m of previously recognised income into later periods'. Thông cáo phủ định rõ ba phương án còn lại ở đoạn tiếp theo.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p7-167",
+        "kind": "mcq",
+        "prompt": "167. What has the audit committee accepted?",
+        "options": [
+          { "id": "a", "text": "That the revenue policy was deliberately misapplied" },
+          { "id": "b", "text": "That the board should have been told sooner" },
+          { "id": "c", "text": "That the June guidance was too optimistic" },
+          { "id": "d", "text": "That an external auditor should be replaced" }
+        ],
+        "answer": "b",
+        "explanationVi": "'should have been reported to the board before August'. Thông cáo không hề thừa nhận cố ý — 'query raised internally' là cách nói trung tính.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p7-168",
+        "kind": "mcq",
+        "prompt": "168. What is indicated about the Chief Financial Officer?",
+        "options": [
+          { "id": "a", "text": "He will remain until a permanent successor is found." },
+          { "id": "b", "text": "He will move to the audit committee." },
+          { "id": "c", "text": "He will leave at the end of the quarter." },
+          { "id": "d", "text": "He has been suspended pending the examination." }
+        ],
+        "answer": "c",
+        "explanationVi": "'will step down at the end of the quarter'. (A) trái với việc thông cáo nói sẽ có người được bổ nhiệm TẠM QUYỀN.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p7-169",
+        "kind": "mcq",
+        "prompt": "169. What is NOT mentioned as available to investors?",
+        "options": [
+          { "id": "a", "text": "The restated accounts" },
+          { "id": "b", "text": "A reconciliation to the previous figures" },
+          { "id": "c", "text": "The findings of the independent examination" },
+          { "id": "d", "text": "The guidance issued in June" }
+        ],
+        "answer": "c",
+        "explanationVi": "Cuộc kiểm tra độc lập mới chỉ được đặt hàng và sẽ kết thúc cuối năm dương lịch — chưa có kết quả để công bố.",
+        "difficulty": "hard"
+      }
+    ]
+  },
+  {
+    "id": "reading-part7-s9",
+    "skill": "reading",
+    "title": "Part 7 — Single passage 9: memo with a comparison table",
+    "format": "TOEIC Reading — Part 7 · Single passage (câu 170–172)",
+    "instructionsVi": "Bảng trong bài đọc: câu hỏi thường yêu cầu áp một điều kiện nêu trong phần chữ vào các dòng của bảng.",
+    "promptEn": "Read the memo and answer questions 170 through 172.",
+    "passage": "MEMORANDUM\nTo: Procurement Committee\nFrom: Facilities\nSubject: Cleaning contract — shortlist\n\nFour firms responded. The table summarises the bids. Our stated requirement is a firm that can cover all six sites, holds current accreditation, and can start on 1 February. Price is the deciding factor only among bids that meet all three.\n\nBidder | Annual price | Sites covered | Accreditation | Earliest start\nAldervale | £212,000 | 6 | Current | 1 February\nBrightpath | £186,000 | 4 | Current | 1 February\nCavendish | £198,000 | 6 | Expired (renewal pending) | 1 February\nDunmore | £205,000 | 6 | Current | 1 March\n\nOne further point. Brightpath has offered to subcontract the two sites it cannot staff. Our standing policy is that subcontracting is permitted only where the subcontractor is separately accredited and named in the bid. Brightpath has named no subcontractor.",
+    "timeLimitSec": 180,
+    "questions": [
+      {
+        "id": "p7-170",
+        "kind": "mcq",
+        "prompt": "170. Which bidder meets all three stated requirements?",
+        "options": [
+          { "id": "a", "text": "Aldervale" },
+          { "id": "b", "text": "Brightpath" },
+          { "id": "c", "text": "Cavendish" },
+          { "id": "d", "text": "Dunmore" }
+        ],
+        "answer": "a",
+        "explanationVi": "Brightpath thiếu hai điểm phục vụ, Cavendish hết hạn chứng nhận, Dunmore chỉ bắt đầu được từ 1/3. Chỉ Aldervale đủ cả ba — dù là bên đắt nhất, vì giá chỉ xét sau khi đã đạt điều kiện.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p7-171",
+        "kind": "mcq",
+        "prompt": "171. Why is Brightpath's subcontracting offer unacceptable?",
+        "options": [
+          { "id": "a", "text": "Subcontracting is prohibited in all circumstances." },
+          { "id": "b", "text": "No named, separately accredited subcontractor was given." },
+          { "id": "c", "text": "The subcontractor could not start until 1 March." },
+          { "id": "d", "text": "The combined price would exceed £212,000." }
+        ],
+        "answer": "b",
+        "explanationVi": "Chính sách cho phép thầu phụ NẾU bên đó được nêu tên và có chứng nhận riêng — Brightpath không nêu tên ai. (A) đọc quá lên thành cấm tuyệt đối.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p7-172",
+        "kind": "mcq",
+        "prompt": "172. What can be inferred about the role of price in this decision?",
+        "options": [
+          { "id": "a", "text": "The cheapest compliant bid wins automatically." },
+          { "id": "b", "text": "Price is weighted equally with accreditation." },
+          { "id": "c", "text": "Price separates bids only after the three conditions are met." },
+          { "id": "d", "text": "Price was not considered at all." }
+        ],
+        "answer": "c",
+        "explanationVi": "'Price is the deciding factor only among bids that meet all three'. (A) sai vì ở đây chỉ còn một hồ sơ hợp lệ, nên giá không phân định được gì.",
+        "difficulty": "hard"
+      }
+    ]
+  },
+  {
+    "id": "reading-part7-s10",
+    "skill": "reading",
+    "title": "Part 7 — Single passage 10: extract from an agreement",
+    "format": "TOEIC Reading — Part 7 · Single passage (câu 173–175)",
+    "instructionsVi": "Trích đoạn hợp đồng: 'shall' là nghĩa vụ, 'may' là quyền, 'notwithstanding' đảo ngược điều khoản được nhắc tên. Ba từ này quyết định cả ba câu hỏi.",
+    "promptEn": "Read the extract from the agreement and answer questions 173 through 175.",
+    "passage": "EXTRACT — Distribution Agreement, clauses 11 to 14\n\n11. Territory. The Distributor shall have the exclusive right to market the Products in the Territory defined in Schedule 2. The Supplier shall not appoint another distributor in that Territory during the Term.\n\n12. Minimum purchase. The Distributor shall purchase Products to a value of not less than £400,000 in each Contract Year. Failure to meet the minimum in any Contract Year entitles the Supplier to convert the appointment from exclusive to non-exclusive on thirty days' written notice.\n\n13. Indemnity. Each party shall indemnify the other against third-party claims arising from its own breach of this Agreement. The liability of each party under this clause shall not exceed twice the fees paid by the Distributor in the preceding twelve months.\n\n14. Entire agreement. This Agreement supersedes all prior arrangements between the parties relating to its subject matter. Notwithstanding the foregoing, the letter dated 4 March 2021 concerning the north-east territory shall remain in force and shall be read as part of Schedule 2.",
+    "timeLimitSec": 180,
+    "questions": [
+      {
+        "id": "p7-173",
+        "kind": "mcq",
+        "prompt": "173. What happens if the Distributor buys less than £400,000 of Products in a Contract Year?",
+        "options": [
+          { "id": "a", "text": "The Agreement terminates automatically." },
+          { "id": "b", "text": "The Supplier may end the exclusivity with notice." },
+          { "id": "c", "text": "The Distributor must pay the shortfall." },
+          { "id": "d", "text": "The Territory is reduced by half." }
+        ],
+        "answer": "b",
+        "explanationVi": "'entitles the Supplier to convert… on thirty days' written notice' — là QUYỀN của nhà cung cấp, không phải hậu quả tự động. (A) đọc thành chấm dứt tức thì.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p7-174",
+        "kind": "mcq",
+        "prompt": "174. How is liability under the indemnity limited?",
+        "options": [
+          { "id": "a", "text": "To £400,000 per Contract Year" },
+          { "id": "b", "text": "To the fees paid in the last twelve months" },
+          { "id": "c", "text": "To twice those fees" },
+          { "id": "d", "text": "It is unlimited for the Supplier." }
+        ],
+        "answer": "c",
+        "explanationVi": "'shall not exceed twice the fees paid by the Distributor in the preceding twelve months'. (B) bỏ mất chữ 'twice' — bẫy đọc lướt điển hình.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p7-175",
+        "kind": "mcq",
+        "prompt": "175. What is the status of the letter of 4 March 2021?",
+        "options": [
+          { "id": "a", "text": "It is cancelled by clause 14." },
+          { "id": "b", "text": "It survives and forms part of Schedule 2." },
+          { "id": "c", "text": "It applies only until the end of the current Contract Year." },
+          { "id": "d", "text": "It is superseded unless renewed in writing." }
+        ],
+        "answer": "b",
+        "explanationVi": "'Notwithstanding the foregoing' đảo ngược đúng câu vừa nói. Không có từ này thì (A) mới đúng — cả câu hỏi xoay quanh một từ duy nhất.",
+        "difficulty": "hard"
+      }
+    ]
+  },
+  {
+    "id": "reading-part7-d1",
+    "skill": "reading",
+    "title": "Part 7 — Double passage 1: article and rate table",
+    "format": "TOEIC Reading — Part 7 · Double passage (câu 176–180)",
+    "instructionsVi": "Bài đôi luôn có ít nhất hai câu bắt buộc dùng CẢ HAI văn bản. Đọc câu hỏi trước, đánh dấu câu nào cần ghép chéo.",
+    "promptEn": "Read the article and the table, then answer questions 176 through 180.",
+    "passage": "PASSAGE 1 — Trade press, 3 October\n\nPRINT BUYERS EDGE TOWARDS COMMITMENT DEALS\n\nCommercial printers are increasingly offering rates based on projected rather than historical volume, in exchange for a minimum annual commitment. The attraction for buyers is obvious: a firm printing just under a band threshold pays materially more per sheet than one printing just over it.\n\nThe risk is equally obvious. Where a customer commits to a volume and falls short, most contracts require the shortfall to be paid at the rate that would have applied to the volume actually used — which can wipe out the saving and more.\n\nBuyers who have done well from these deals tend to share one habit: they model the downside first. 'If the exposure on the commitment is larger than the saving, you have bought a lottery ticket, not a contract,' one procurement manager told us.\n\nPASSAGE 2 — Meridian Print, annual contract rates (per thousand sheets)\n\nMonthly volume | Rate\nUp to 20,000 | £9.20\n20,001 – 50,000 | £7.80\n50,001 – 100,000 | £6.40\nOver 100,000 | £5.10\n\nNote: customers committing to a minimum monthly volume are charged at the rate for the committed band from month one. Any shortfall against the commitment is invoiced at the end of the contract year at the rate applicable to the volume actually used.",
+    "timeLimitSec": 300,
+    "questions": [
+      {
+        "id": "p7-176",
+        "kind": "mcq",
+        "prompt": "176. What is the main subject of the article?",
+        "options": [
+          { "id": "a", "text": "A shortage of paper affecting commercial printers" },
+          { "id": "b", "text": "Contracts priced on expected volume in return for a commitment" },
+          { "id": "c", "text": "A rise in print prices across the industry" },
+          { "id": "d", "text": "New printing technology reducing unit costs" }
+        ],
+        "answer": "b",
+        "explanationVi": "Câu mở đầu nêu trọn chủ đề: giá theo sản lượng DỰ KIẾN đổi lấy cam kết tối thiểu.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p7-177",
+        "kind": "mcq",
+        "prompt": "177. In the article, the phrase \"model the downside first\" most nearly means",
+        "options": [
+          { "id": "a", "text": "negotiate the lowest possible rate" },
+          { "id": "b", "text": "calculate what happens if the commitment is missed" },
+          { "id": "c", "text": "compare several suppliers before deciding" },
+          { "id": "d", "text": "start with the smallest print run" }
+        ],
+        "answer": "b",
+        "explanationVi": "Câu trích dẫn ngay sau đó nói về 'the exposure on the commitment' — tức tính trước thiệt hại khi không đạt cam kết.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p7-178",
+        "kind": "mcq",
+        "prompt": "178. According to the table, what does a customer printing 62,000 sheets a month pay per thousand, with no commitment?",
+        "options": [
+          { "id": "a", "text": "£9.20" },
+          { "id": "b", "text": "£7.80" },
+          { "id": "c", "text": "£6.40" },
+          { "id": "d", "text": "£5.10" }
+        ],
+        "answer": "c",
+        "explanationVi": "62.000 rơi vào bậc 50.001–100.000 → £6,40.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p7-179",
+        "kind": "mcq",
+        "prompt": "179. A customer commits to 105,000 sheets a month but averages 96,000. Based on both passages, how will the shortfall be treated?",
+        "options": [
+          { "id": "a", "text": "It will be waived because the customer exceeded 50,000." },
+          { "id": "b", "text": "It will be invoiced at £5.10 per thousand." },
+          { "id": "c", "text": "It will be invoiced at the rate for the volume actually used, £6.40." },
+          { "id": "d", "text": "It will be carried forward to the following contract year." }
+        ],
+        "answer": "c",
+        "explanationVi": "Ghi chú của bảng và đoạn hai của bài báo nói cùng một điều: phần thiếu hụt bị tính theo mức giá ứng với sản lượng THỰC TẾ. 96.000 nằm ở bậc £6,40, không phải bậc đã cam kết £5,10.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p7-180",
+        "kind": "mcq",
+        "prompt": "180. Why does the article call such a deal \"a lottery ticket\" in some cases?",
+        "options": [
+          { "id": "a", "text": "Because rates are chosen at random by the printer" },
+          { "id": "b", "text": "Because the potential loss can exceed the saving" },
+          { "id": "c", "text": "Because only a few customers are offered the deal" },
+          { "id": "d", "text": "Because the contract can be cancelled at any time" }
+        ],
+        "answer": "b",
+        "explanationVi": "'If the exposure on the commitment is larger than the saving'. Phép so sánh nhắm vào tỉ lệ được–mất, không nhắm vào tính ngẫu nhiên.",
+        "difficulty": "hard"
+      }
+    ]
+  },
+  {
+    "id": "reading-part7-d2",
+    "skill": "reading",
+    "title": "Part 7 — Double passage 2: two emails",
+    "format": "TOEIC Reading — Part 7 · Double passage (câu 181–185)",
+    "instructionsVi": "Hai thư trả lời nhau: mâu thuẫn giữa hai văn bản chính là chỗ ra câu hỏi khó nhất.",
+    "promptEn": "Read the two emails and answer questions 181 through 185.",
+    "passage": "PASSAGE 1\n\nTo: r.vaz@harlandhouse.example\nFrom: t.berdy@harlandhouse.example\nDate: 8 January\nSubject: Break notice — Harland House\n\nRenata,\n\nI have the lease in front of me. The break date is 31 March and notice must be received — not posted — six months before, which makes the deadline 30 September. We are past that. The next break is 31 March three years later.\n\nBefore you ask: yes, I raised this in August. The response was that we should wait for the desk-count study. The study reported on 12 October.\n\nI am not writing to allocate blame. I am writing because the rent review falls due in April and we now have no leverage at all. If we want any, it has to come from somewhere other than the threat of leaving.\n\nTomas\n\nPASSAGE 2\n\nTo: t.berdy@harlandhouse.example\nFrom: r.vaz@harlandhouse.example\nDate: 8 January\nSubject: RE: Break notice — Harland House\n\nTomas,\n\nAgreed on the dates, and thank you for putting it plainly.\n\nOne correction: the study was commissioned in July and was due on 30 August. It reported six weeks late. That does not change where we are, but it does change what we fix, and the fix is not 'chase Facilities harder' — it is that no lease decision should ever have been made contingent on a study with no deadline in its terms of reference.\n\nOn leverage: we take a five-year renewal to the landlord ourselves, at a rent we set, and we make it clear the alternative is a three-year stay followed by certain departure. Landlords in this market discount future vacancy heavily. It is weaker than a break notice, but it is not nothing.\n\nI will draft the terms of reference change this week so that the next one carries a hard date.\n\nRenata",
+    "timeLimitSec": 300,
+    "questions": [
+      {
+        "id": "p7-181",
+        "kind": "mcq",
+        "prompt": "181. What is the problem described in the first email?",
+        "options": [
+          { "id": "a", "text": "The lease has already expired." },
+          { "id": "b", "text": "The deadline to give break notice has passed." },
+          { "id": "c", "text": "The landlord has refused a rent review." },
+          { "id": "d", "text": "The desk-count study contained errors." }
+        ],
+        "answer": "b",
+        "explanationVi": "'the deadline 30 September. We are past that.' Hợp đồng thuê vẫn còn hiệu lực — chỉ mất quyền chấm dứt sớm.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p7-182",
+        "kind": "mcq",
+        "prompt": "182. What does Mr Berdy say about his own earlier action?",
+        "options": [
+          { "id": "a", "text": "He forgot to check the lease." },
+          { "id": "b", "text": "He raised the issue in August and was told to wait." },
+          { "id": "c", "text": "He commissioned the desk-count study." },
+          { "id": "d", "text": "He posted the notice but it arrived late." }
+        ],
+        "answer": "b",
+        "explanationVi": "'yes, I raised this in August. The response was that we should wait'. Anh ta nói thêm 'I am not writing to allocate blame' để chặn cách đọc rằng đây là lời đổ lỗi.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p7-183",
+        "kind": "mcq",
+        "prompt": "183. What does Ms Vaz correct in the second email?",
+        "options": [
+          { "id": "a", "text": "The date of the break clause" },
+          { "id": "b", "text": "The notice period required" },
+          { "id": "c", "text": "The timing and lateness of the study" },
+          { "id": "d", "text": "The month in which the rent review falls" }
+        ],
+        "answer": "c",
+        "explanationVi": "Cô ấy đồng ý về các mốc trong hợp đồng và chỉ bổ sung rằng nghiên cứu đáng lẽ phải xong 30/8, tức trễ sáu tuần. So sánh 12/10 với 30/8 là chỗ ghép chéo hai thư.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p7-184",
+        "kind": "mcq",
+        "prompt": "184. What does Ms Vaz identify as the underlying failure?",
+        "options": [
+          { "id": "a", "text": "Facilities were not chased often enough." },
+          { "id": "b", "text": "A lease decision depended on a study with no fixed deadline." },
+          { "id": "c", "text": "The lease was signed on unfavourable terms." },
+          { "id": "d", "text": "The desk-count method was unreliable." }
+        ],
+        "answer": "b",
+        "explanationVi": "'the fix is not chase Facilities harder — it is that no lease decision should ever have been made contingent on a study with no deadline'. (A) là đúng cái cô ấy bác bỏ.",
+        "difficulty": "hard"
+      },
+      {
+        "id": "p7-185",
+        "kind": "mcq",
+        "prompt": "185. What does Ms Vaz propose to replace the lost leverage?",
+        "options": [
+          { "id": "a", "text": "Serving the break notice late and hoping it is accepted" },
+          { "id": "b", "text": "Moving out at the end of the current year" },
+          { "id": "c", "text": "Offering a five-year renewal on terms the tenant sets" },
+          { "id": "d", "text": "Asking the landlord to postpone the rent review" }
+        ],
+        "answer": "c",
+        "explanationVi": "'we take a five-year renewal to the landlord ourselves, at a rent we set'. Cô ấy thừa nhận cách này yếu hơn thông báo chấm dứt nhưng 'không phải là không có gì'.",
+        "difficulty": "hard"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1455 @@
+# Ngữ pháp B1 — bốn cấu trúc làm nên câu tiếng Anh "người lớn".
+cefr: B1
+lessons:
+  - slug: present-perfect
+    title: Present Perfect
+    titleVi: Thì hiện tại hoàn thành
+    summary: Quá khứ còn dính đến hiện tại — thì mà tiếng Việt không có tương đương.
+    estimatedMinutes: 16
+    xpReward: 30
+    order: 1
+    prerequisites: [past-simple]
+    sections:
+      - kind: theory
+        title: Cấu trúc và bốn cách dùng
+        body: |
+          **have / has + quá khứ phân từ (V3)**
+
+          Tiếng Việt không có thì này, nên đừng tìm cách dịch — hãy nhớ **tình huống**.
+          Hiện tại hoàn thành nói về quá khứ **theo cách còn liên quan đến bây giờ**:
+
+          1. **Kinh nghiệm** — có bao giờ hay chưa, không quan tâm khi nào
+             I **have been** to Japan twice.
+          2. **Việc vừa xong, kết quả còn đó**
+             She **has broken** her phone. *(nên bây giờ không gọi được)*
+          3. **Kéo dài từ quá khứ đến hiện tại** — với `for` và `since`
+             We **have lived** here **for** ten years. *(và vẫn đang ở)*
+          4. **Trong khoảng thời gian chưa kết thúc**
+             I **have drunk** three coffees **today**. *(hôm nay chưa hết)*
+
+          `for` + khoảng thời gian (for three days), `since` + mốc thời gian
+          (since 2019, since Monday).
+      - kind: examples
+        title: Ví dụ
+        body: |
+          - I **have worked** at this company since 2021.
+            *Tôi làm ở công ty này từ năm 2021 (và vẫn đang làm).*
+          - **Have** you ever **eaten** durian?
+            *Bạn đã bao giờ ăn sầu riêng chưa?*
+          - He **has just finished** his report.
+            *Anh ấy vừa làm xong báo cáo.*
+          - They **haven't replied** to my email yet.
+            *Họ vẫn chưa trả lời email của tôi.*
+      - kind: tips
+        title: Những trạng từ đi kèm
+        body: |
+          | Trạng từ | Vị trí | Nghĩa |
+          |---|---|---|
+          | ever / never | giữa have và V3 | đã bao giờ / chưa bao giờ |
+          | just | giữa have và V3 | vừa mới |
+          | already | giữa have và V3 | đã rồi (sớm hơn mong đợi) |
+          | yet | cuối câu, phủ định và nghi vấn | chưa / đã ... chưa |
+          | recently / lately | cuối câu | gần đây |
+
+          Thấy `for`, `since`, `ever`, `never`, `just`, `already`, `yet` là tín hiệu
+          mạnh của hiện tại hoàn thành.
+      - kind: common-mistakes
+        title: Lỗi người Việt hay mắc
+        body: |
+          | Sai | Đúng | Vì sao |
+          |---|---|---|
+          | I have went there. | I have **gone** there. | Sau have là V3, không phải V2 |
+          | I have seen him yesterday. | I **saw** him yesterday. | yesterday là mốc đã xong, dùng quá khứ đơn |
+          | I am here since Monday. | I **have been** here since Monday. | since đi với hiện tại hoàn thành |
+          | She has finish. | She has **finished**. | Đừng quên đuôi -ed/V3 |
+          | I have lived here for 2019. | ... **since** 2019. | for + khoảng, since + mốc |
+    exercises:
+      - type: MCQ
+        prompt: "I ____ my homework, so I can go out now."
+        promptVi: Chọn dạng đúng.
+        options: [have finished, finished, have finish, am finishing]
+        answer: have finished
+        explanationVi: "Việc vừa xong và kết quả còn đó ở hiện tại (nên bây giờ đi chơi
+          được) nên dùng hiện tại hoàn thành."
+      - type: MCQ
+        prompt: "We ____ in this house since 2015."
+        promptVi: Chọn dạng đúng.
+        options: [have lived, lived, live, are living]
+        answer: have lived
+        explanationVi: "since đánh dấu việc bắt đầu trong quá khứ và còn tiếp diễn nên
+          dùng have lived."
+      - type: GAP_FILL
+        prompt: "____ you ever ____ (be) to Hue?"
+        promptVi: "Điền hai từ: trợ động từ và V3."
+        answer: Have been
+        accept: ["Have been", "have been"]
+        explanationVi: "Câu hỏi kinh nghiệm với ever: Have you ever been to Hue? Dạng
+          V3 của be là been."
+      - type: GAP_FILL
+        prompt: "She ____ (not / call) me back yet."
+        promptVi: Điền dạng phủ định.
+        answer: has not called
+        accept: ["has not called", "hasn't called"]
+        explanationVi: "yet ở cuối câu phủ định là tín hiệu của hiện tại hoàn thành:
+          hasn't called."
+      - type: TRUE_FALSE
+        prompt: Câu sau đúng ngữ pháp hay sai?
+        statement: I have met your sister last week.
+        answer: false
+        explanationVi: "Sai. last week là mốc thời gian đã kết thúc nên phải dùng quá
+          khứ đơn: I met your sister last week."
+      - type: REORDER
+        prompt: Sắp xếp thành một câu đúng.
+        chunks: ["My brother", "has already", "sent", "the documents"]
+        explanationVi: "already đứng giữa trợ động từ has và quá khứ phân từ sent."
+      - type: SHORT_ANSWER
+        prompt: "Điền for hoặc since: \"They have known each other ____ ten years.\""
+        accept: [for]
+        explanationVi: "ten years là một khoảng thời gian nên dùng for. since dùng với
+          mốc như since 2015."
+      - type: MCQ
+        prompt: I ____ that movie twice already. It's really good.
+        promptVi: Chọn dạng hiện tại hoàn thành; khi nói về trải nghiệm đi rồi trở về, dùng cấu trúc với been.
+        options:
+          - saw
+          - have seen
+          - see
+          - have saw
+        answer: have seen
+        explanationVi: Dùng thì hiện tại hoàn thành để nói về trải nghiệm (đã xem hai lần) tính đến thời
+          điểm hiện tại. V3 của 'see' là 'seen'.
+      - type: MCQ
+        prompt: She ____ her keys. She can't get into her apartment now.
+        promptVi: Chọn dạng hiện tại hoàn thành; khi nói về trải nghiệm đi rồi trở về, dùng cấu trúc với been.
+        options:
+          - lost
+          - loses
+          - has lose
+          - has lost
+        answer: has lost
+        explanationVi: Sự việc xảy ra trong quá khứ nhưng để lại hậu quả trực tiếp ở hiện tại (bây giờ không
+          vào nhà được) nên dùng hiện tại hoàn thành.
+      - type: MCQ
+        prompt: They ____ each other since they were at university.
+        promptVi: Chọn dạng hiện tại hoàn thành; khi nói về trải nghiệm đi rồi trở về, dùng cấu trúc với been.
+        options:
+          - have known
+          - have knew
+          - know
+          - knew
+        answer: have known
+        explanationVi: Họ quen nhau từ thời đại học và hiện tại vẫn quen nhau. 'Since' đi với thì hiện tại
+          hoàn thành, và V3 của 'know' là 'known'.
+      - type: MCQ
+        prompt: How long ____ you ____ in this city?
+        promptVi: Chọn dạng hiện tại hoàn thành; khi nói về trải nghiệm đi rồi trở về, dùng cấu trúc với been.
+        options:
+          - has / lived
+          - did / live
+          - do / live
+          - have / lived
+        answer: have / lived
+        explanationVi: Câu hỏi 'How long' để hỏi về khoảng thời gian kéo dài từ quá khứ đến nay, đi với chủ
+          ngữ 'you' nên dùng 'have lived'.
+      - type: MCQ
+        prompt: I ____ a lot of water today, so I feel hydrated.
+        promptVi: Chọn dạng hiện tại hoàn thành; khi nói về trải nghiệm đi rồi trở về, dùng cấu trúc với been.
+        options:
+          - drank
+          - have drunk
+          - drink
+          - have drank
+        answer: have drunk
+        explanationVi: "'Today' là khoảng thời gian chưa kết thúc. V3 của 'drink' là 'drunk'."
+      - type: MCQ
+        prompt: He ____ any emails this morning, and it's already 11 AM.
+        promptVi: Chọn dạng hiện tại hoàn thành; khi nói về trải nghiệm đi rồi trở về, dùng cấu trúc với been.
+        options:
+          - didn't send
+          - doesn't send
+          - hasn't send
+          - hasn't sent
+        answer: hasn't sent
+        explanationVi: "'This morning' là khoảng thời gian chưa kết thúc tại thời điểm nói (11 giờ sáng).
+          Dùng phủ định của hiện tại hoàn thành: 'hasn't sent'."
+      - type: MCQ
+        prompt: We ____ to that new restaurant yet. Is it good?
+        promptVi: Chọn dạng hiện tại hoàn thành; khi nói về trải nghiệm đi rồi trở về, dùng cấu trúc với been.
+        options:
+          - haven't went
+          - don't go
+          - haven't been
+          - didn't go
+        answer: haven't been
+        explanationVi: Trạng từ 'yet' ở cuối câu phủ định là dấu hiệu của hiện tại hoàn thành. Cấu trúc
+          'have been to' dùng để chỉ việc đã từng (hoặc chưa từng) đi đến đâu đó.
+      - type: MCQ
+        prompt: My parents ____ to Europe several times.
+        promptVi: Chọn dạng hiện tại hoàn thành; khi nói về trải nghiệm đi rồi trở về, dùng cấu trúc với been.
+        options:
+          - are going
+          - went
+          - have been
+          - have went
+        answer: have been
+        explanationVi: Nói về trải nghiệm đi du lịch và đã trở về, ta dùng 'have been' chứ không dùng 'have
+          gone' (chỉ người đi chưa về).
+      - type: MCQ
+        prompt: The train ____. The platform is empty now.
+        promptVi: Chọn dạng hiện tại hoàn thành; khi nói về trải nghiệm đi rồi trở về, dùng cấu trúc với been.
+        options:
+          - has just left
+          - just left
+          - leaves just
+          - has just leave
+        answer: has just left
+        explanationVi: Sự việc vừa mới xảy ra và có kết quả ở hiện tại (sân ga trống trơn). Trạng từ 'just'
+          đứng giữa 'has' và V3 'left'.
+      - type: MCQ
+        prompt: I have worked as a teacher ____ five years.
+        promptVi: Chọn từ thích hợp điền vào chỗ trống.
+        options:
+          - for
+          - ago
+          - in
+          - since
+        answer: for
+        explanationVi: "'Five years' là một khoảng thời gian nên ta dùng giới từ 'for'."
+      - type: GAP_FILL
+        prompt: I ____ (not / see) him since last Monday.
+        promptVi: Chia động từ trong ngoặc ở thì hiện tại hoàn thành (dạng phủ định).
+        answer: haven't seen
+        accept:
+          - haven't seen
+          - have not seen
+        explanationVi: Chủ ngữ 'I' đi với 'have not' (haven't) và V3 của 'see' là 'seen'.
+      - type: GAP_FILL
+        prompt: ____ (she / finish) her project yet?
+        promptVi: Điền cụm từ gồm trợ động từ, chủ ngữ và phân từ để tạo câu hỏi hiện tại hoàn thành.
+        answer: Has she finished
+        accept:
+          - Has she finished
+        explanationVi: Chủ ngữ 'she' đi với trợ động từ 'Has', động từ 'finish' thêm '-ed' thành 'finished'.
+      - type: GAP_FILL
+        prompt: They ____ (live) in London since 2018.
+        promptVi: Chia động từ trong ngoặc ở thì hiện tại hoàn thành.
+        answer: have lived
+        accept:
+          - have lived
+          - have been living
+        explanationVi: Since 2018 nêu mốc bắt đầu trong quá khứ kéo dài đến hiện tại. Có thể dùng have lived
+          hoặc have been living.
+      - type: GAP_FILL
+        prompt: We ____ (already / buy) the tickets for the concert.
+        promptVi: Điền trợ động từ, trạng từ và động từ trong ngoặc ở dạng V3.
+        answer: have already bought
+        accept:
+          - have already bought
+        explanationVi: Trạng từ 'already' đứng giữa 'have' và V3 'bought' (từ động từ buy).
+      - type: GAP_FILL
+        prompt: He ____ (never / try) sushi before.
+        promptVi: Điền trợ động từ, trạng từ và động từ trong ngoặc ở dạng V3.
+        answer: has never tried
+        accept:
+          - has never tried
+        explanationVi: Chủ ngữ 'He' đi với 'has'. Trạng từ 'never' đứng trước V3 'tried'.
+      - type: GAP_FILL
+        prompt: She has been a doctor ____ she graduated.
+        promptVi: Điền giới từ 'for' hoặc 'since' thích hợp.
+        answer: since
+        accept:
+          - since
+        explanationVi: "'She graduated' (cô ấy tốt nghiệp) là một mốc thời gian trong quá khứ nên ta dùng 'since'."
+      - type: TRUE_FALSE
+        prompt: Câu sau có đúng ngữ pháp không?
+        statement: I have lived in Hanoi for ten years, and I still live here.
+        answer: true
+        explanationVi: Đúng. Have lived kết hợp với for ten years diễn tả việc sống ở Hà Nội bắt đầu trong
+          quá khứ và kéo dài đến hiện tại; vế sau xác nhận người nói vẫn sống ở đó.
+        promptVi: Câu sau có đúng ngữ pháp không?
+      - type: TRUE_FALSE
+        prompt: Câu sau có đúng ngữ pháp không?
+        statement: She has graduated from college in 2020.
+        answer: false
+        explanationVi: "Sai vì 'in 2020' là mốc thời gian đã kết thúc hoàn toàn trong quá khứ, nên phải dùng
+          quá khứ đơn: 'She graduated from college in 2020'."
+        promptVi: Câu sau có đúng ngữ pháp không?
+      - type: REORDER
+        prompt: Sắp xếp thành câu bắt đầu bằng "Have" và kết thúc bằng "gallery?".
+        chunks:
+          - Have
+          - you
+          - ever
+          - visited
+          - an
+          - art
+          - gallery?
+        promptVi: Sắp xếp thành câu hỏi kinh nghiệm.
+        explanationVi: "Cấu trúc câu hỏi kinh nghiệm: Have + chủ ngữ + ever + V3 + tân ngữ?"
+      - type: REORDER
+        prompt: Sắp xếp thành câu bắt đầu bằng "She" và kết thúc bằng "yet.".
+        chunks:
+          - She
+          - has
+          - not
+          - received
+          - the
+          - package
+          - yet.
+        promptVi: Sắp xếp thành câu phủ định hoàn chỉnh.
+        explanationVi: Trong câu phủ định, 'yet' thường đứng ở cuối câu.
+
+  - slug: conditionals-1-2
+    title: First and Second Conditionals
+    titleVi: Câu điều kiện loại 1 và loại 2
+    summary: Có thể xảy ra, hay chỉ là tưởng tượng — hai loại câu "nếu" khác nhau.
+    estimatedMinutes: 15
+    xpReward: 30
+    order: 2
+    prerequisites: [past-simple]
+    sections:
+      - kind: theory
+        title: Hai loại, hai mức độ thật
+        body: |
+          **Loại 1 — có thể xảy ra thật**
+
+          `If + hiện tại đơn, ... will + nguyên thể`
+
+          - **If** it **rains**, we **will stay** at home.
+            *Nếu trời mưa, chúng ta sẽ ở nhà.* (trời có thể mưa thật)
+
+          **Loại 2 — tưởng tượng, trái với hiện tại**
+
+          `If + quá khứ đơn, ... would + nguyên thể`
+
+          - **If** I **had** a car, I **would drive** to work.
+            *Nếu tôi có ô tô, tôi sẽ lái đi làm.* (thực tế là không có)
+
+          Chú ý: mệnh đề `if` của loại 2 dùng **hình thức** quá khứ nhưng **nghĩa** hiện
+          tại. Với động từ `be`, văn viết chuẩn dùng **were** cho mọi ngôi:
+          If I **were** you, I would apologise.
+      - kind: examples
+        title: Ví dụ
+        body: |
+          - If you **study** hard, you **will pass** the exam. *(loại 1 — có thể)*
+            *Nếu bạn học chăm, bạn sẽ đỗ.*
+          - If I **spoke** French, I **would work** in Paris. *(loại 2 — không biết tiếng Pháp)*
+            *Nếu tôi biết tiếng Pháp, tôi sẽ làm việc ở Paris.*
+          - If I **were** you, I **wouldn't buy** that phone.
+            *Nếu tôi là bạn, tôi sẽ không mua chiếc điện thoại đó.*
+          - **Unless** you hurry, you **will miss** the bus.
+            *Nếu bạn không nhanh lên thì sẽ lỡ xe buýt.*
+      - kind: tips
+        title: Trật tự và dấu phẩy
+        body: |
+          Hai mệnh đề đảo được cho nhau. Khi `if` đứng **trước** thì có dấu phẩy; khi
+          đứng **sau** thì không:
+
+          - If it rains**,** we will stay at home.
+          - We will stay at home **if** it rains.
+
+          `unless` = `if ... not`, nên đừng phủ định hai lần:
+          *Unless you don't hurry* là sai.
+      - kind: common-mistakes
+        title: Lỗi người Việt hay mắc
+        body: |
+          | Sai | Đúng | Vì sao |
+          |---|---|---|
+          | If it will rain, we will stay. | If it **rains**, we will stay. | Mệnh đề if loại 1 không dùng will |
+          | If I would have money... | If I **had** money... | Mệnh đề if không dùng would |
+          | If I was you... | If I **were** you... | Loại 2 dùng were cho mọi ngôi |
+          | If she studied, she will pass. | ... she **would** pass. | Không trộn loại 1 với loại 2 |
+    exercises:
+      - type: MCQ
+        prompt: "If the weather ____ good tomorrow, we will go to the beach."
+        promptVi: Chọn dạng đúng.
+        options: [is, will be, would be, were]
+        answer: is
+        explanationVi: "Điều kiện loại 1: mệnh đề if dùng hiện tại đơn, không dùng will."
+      - type: MCQ
+        prompt: "If I ____ more free time, I would learn the guitar."
+        promptVi: Chọn dạng đúng.
+        options: [had, have, will have, would have]
+        answer: had
+        explanationVi: "Đây là tưởng tượng trái với hiện tại nên là loại 2: mệnh đề if
+          dùng quá khứ đơn."
+      - type: GAP_FILL
+        prompt: "If you ____ (not / leave) now, you will be late."
+        promptVi: Điền dạng đúng.
+        answer: do not leave
+        accept: ["do not leave", "don't leave"]
+        explanationVi: "Loại 1, mệnh đề if ở hiện tại đơn nên phủ định là don't leave."
+      - type: GAP_FILL
+        prompt: "If I were you, I ____ (take) the job."
+        promptVi: Điền dạng đúng.
+        answer: would take
+        accept: ["would take", "'d take"]
+        explanationVi: "Loại 2: mệnh đề chính dùng would + nguyên thể."
+      - type: TRUE_FALSE
+        prompt: Câu sau đúng ngữ pháp hay sai?
+        statement: If I will have enough money, I will buy a new laptop.
+        answer: false
+        explanationVi: "Sai. Mệnh đề if của loại 1 không dùng will: If I have enough
+          money, I will buy a new laptop."
+      - type: REORDER
+        prompt: Sắp xếp thành một câu đúng.
+        chunks: ["If I lived", "closer to the office", "I would walk", "to work every day"]
+        explanationVi: "Mệnh đề if đứng trước, mệnh đề chính với would đứng sau."
+      - type: SHORT_ANSWER
+        prompt: "Viết lại dùng unless: \"If you don't book early, you won't get a seat.\""
+        accept: ["Unless you book early, you won't get a seat",
+                 "Unless you book early you won't get a seat",
+                 "Unless you book early, you will not get a seat"]
+        explanationVi: "unless đã mang nghĩa phủ định nên mệnh đề sau nó ở dạng khẳng
+          định: Unless you book early, you won't get a seat."
+      - type: MCQ
+        prompt: If she ____ harder, she would pass the exam easily, but she is very lazy.
+        promptVi: Chọn dạng đúng của động từ để hoàn thành câu điều kiện loại 2.
+        options:
+          - studied
+          - studies
+          - would study
+          - will study
+        answer: studied
+        explanationVi: Câu này diễn tả một giả định trái với thực tế ở hiện tại (cô ấy lười), nên ta dùng
+          câu điều kiện loại 2. Mệnh đề 'if' chia ở thì quá khứ đơn.
+      - type: MCQ
+        prompt: We will miss the train unless we ____ a taxi right now.
+        promptVi: Chọn từ thích hợp để điền vào chỗ trống.
+        options:
+          - don't take
+          - will take
+          - took
+          - take
+        answer: take
+        explanationVi: Unless we take a taxi tương đương if we do not take a taxi trong câu này. Không thêm
+          don't, vì như vậy sẽ đảo ngược điều kiện cần để tránh lỡ tàu.
+      - type: MCQ
+        prompt: If I ____ you, I would think twice before making that decision.
+        promptVi: Chọn dạng đúng của động từ 'to be' cho câu điều kiện loại 2.
+        options:
+          - be
+          - would be
+          - were
+          - am
+        answer: were
+        explanationVi: Trong câu điều kiện loại 2, động từ 'be' được chia là 'were' cho tất cả các ngôi
+          trong văn viết trang trọng hoặc lời khuyên.
+      - type: MCQ
+        prompt: If you need any help, I ____ happy to assist you tomorrow.
+        promptVi: Chọn mệnh đề kết quả dùng will của câu điều kiện loại 1.
+        options:
+          - were
+          - will be
+          - would be
+          - am
+        answer: will be
+        explanationVi: Đây là câu điều kiện loại 1, diễn tả một sự việc có thể xảy ra ở hiện tại hoặc tương
+          lai. Mệnh đề chính dùng 'will + động từ nguyên mẫu'.
+      - type: MCQ
+        prompt: What ____ you do if you won the lottery tomorrow?
+        promptVi: Chọn từ thích hợp để hoàn thành câu hỏi điều kiện loại 2.
+        options:
+          - would
+          - will
+          - do
+          - did
+        answer: would
+        explanationVi: Mệnh đề 'if' chia ở quá khứ đơn ('won'), cho thấy đây là câu điều kiện loại 2 (giả
+          định khó xảy ra). Mệnh đề chính dùng 'would' cho câu hỏi.
+      - type: MCQ
+        prompt: If they ____ enough money, they would buy that house, but it is too expensive.
+        promptVi: Chọn dạng đúng của động từ.
+        options:
+          - have
+          - would have
+          - will have
+          - had
+        answer: had
+        explanationVi: Thực tế là ngôi nhà quá đắt và họ không có đủ tiền. Đây là tình huống giả định ở hiện
+          tại (loại 2), mệnh đề 'if' dùng quá khứ đơn.
+      - type: MCQ
+        prompt: You will get wet if you ____ your umbrella with you.
+        promptVi: Chọn dạng đúng của động từ trong mệnh đề 'if'.
+        options:
+          - didn't take
+          - wouldn't take
+          - don't take
+          - won't take
+        answer: don't take
+        explanationVi: Đây là câu điều kiện loại 1 (có thể xảy ra). Mệnh đề 'if' chia ở thì hiện tại đơn dạng phủ định.
+      - type: MCQ
+        prompt: If I had his phone number, I ____ him to the party.
+        promptVi: Chọn từ thích hợp để điền vào chỗ trống.
+        options:
+          - invite
+          - would invite
+          - will invite
+          - invited
+        answer: would invite
+        explanationVi: Mệnh đề 'if' dùng 'had' (quá khứ đơn), biểu thị điều kiện loại 2. Mệnh đề chính phải
+          dùng 'would + nguyên thể'.
+      - type: MCQ
+        prompt: If the ice melts, the sea level ____.
+        promptVi: Chọn dạng kết quả với will để dự đoán một tình huống tương lai cụ thể (điều kiện loại 1).
+        options:
+          - will rise
+          - would rise
+          - rose
+          - rises
+        answer: will rise
+        explanationVi: Đây là mối quan hệ nguyên nhân - kết quả có thực tế cao (điều kiện loại 1). Mệnh đề
+          chính dùng 'will + nguyên thể'.
+      - type: MCQ
+        prompt: If I ____ a famous actor, I would live in Hollywood.
+        promptVi: Chọn từ thích hợp điền vào chỗ trống.
+        options:
+          - am
+          - will be
+          - would be
+          - were
+        answer: were
+        explanationVi: Đây là giả định không có thật ở hiện tại (loại 2). Động từ 'be' chia là 'were' cho chủ ngữ 'I'.
+      - type: GAP_FILL
+        prompt: If we don't protect the environment, many species ____ (die) out.
+        promptVi: Chia động từ trong ngoặc ở thì tương lai đơn (điều kiện loại 1).
+        answer: will die
+        accept:
+          - will die
+        explanationVi: Đây là câu điều kiện loại 1, mệnh đề chính diễn tả kết quả có thể xảy ra trong tương
+          lai nên dùng 'will + nguyên thể'.
+      - type: GAP_FILL
+        prompt: If I ____ (have) wings, I would fly around the world.
+        promptVi: Chia động từ 'have' ở dạng thích hợp cho câu điều kiện loại 2.
+        answer: had
+        accept:
+          - had
+        explanationVi: Việc con người có cánh là không tưởng, do đó ta dùng câu điều kiện loại 2 và chia
+          mệnh đề 'if' ở thì quá khứ đơn.
+      - type: GAP_FILL
+        prompt: She would be very angry if you ____ (break) her favorite vase.
+        promptVi: Chia động từ 'break' ở dạng thích hợp cho câu điều kiện loại 2.
+        answer: broke
+        accept:
+          - broke
+        explanationVi: Mệnh đề chính dùng 'would be' cho thấy đây là điều kiện loại 2. Mệnh đề 'if' cần chia
+          ở quá khứ đơn.
+      - type: GAP_FILL
+        prompt: If you ____ (not / study) now, you will fail the test tomorrow.
+        promptVi: Chia động từ trong ngoặc ở dạng phủ định thì hiện tại đơn (điều kiện loại 1).
+        answer: do not study
+        accept:
+          - do not study
+          - don't study
+        explanationVi: Trong câu điều kiện loại 1, mệnh đề 'if' chia ở thì hiện tại đơn. Dạng phủ định với
+          chủ ngữ 'you' là 'do not study' hoặc 'don't study'.
+      - type: GAP_FILL
+        prompt: If I were rich, I ____ (travel) to space.
+        promptVi: Chia động từ 'travel' ở dạng thích hợp cho câu điều kiện loại 2.
+        answer: would travel
+        accept:
+          - would travel
+        explanationVi: Mệnh đề 'if' dùng 'were' (loại 2), nên mệnh đề chính dùng 'would + nguyên thể' để
+          diễn tả giả định không có thật.
+      - type: GAP_FILL
+        prompt: If the train ____ (arrive) on time, we will make it to the meeting.
+        promptVi: Chia động từ 'arrive' ở thì hiện tại đơn (điều kiện loại 1).
+        answer: arrives
+        accept:
+          - arrives
+        explanationVi: Mệnh đề 'if' của câu điều kiện loại 1 chia ở thì hiện tại đơn. Chủ ngữ 'the train' là
+          ngôi thứ ba số ít nên động từ thêm 's'.
+      - type: TRUE_FALSE
+        prompt: Câu sau có đúng ngữ pháp không?
+        statement: If I would win the competition, I would celebrate with my family.
+        answer: false
+        explanationVi: "Sai. Trong câu điều kiện loại 2, mệnh đề 'if' không được dùng 'would'. Câu đúng phải
+          là: 'If I won the competition, I would celebrate...'"
+        promptVi: Câu sau có đúng ngữ pháp không?
+      - type: TRUE_FALSE
+        prompt: Câu sau có đúng ngữ pháp không?
+        statement: Unless you practice every day, you won't improve your English.
+        answer: true
+        explanationVi: Đúng. 'Unless' tương đương với 'If you don't', mệnh đề sau 'unless' chia ở khẳng định
+          và mệnh đề chính ở dạng phủ định là hoàn toàn chính xác.
+        promptVi: Câu sau có đúng ngữ pháp không?
+      - type: REORDER
+        prompt: Sắp xếp thành câu bắt đầu bằng "If you eat" và kết thúc bằng "a stomach ache".
+        chunks:
+          - If you eat
+          - too much chocolate,
+          - you will get
+          - a stomach ache
+        explanationVi: Mệnh đề if đứng trước và dùng hiện tại đơn; dấu phẩy ngăn cách nó với mệnh đề kết quả
+          dùng will + động từ nguyên thể.
+      - type: REORDER
+        prompt: Sắp xếp thành câu bắt đầu bằng "I would buy" và kết thúc bằng "a lot of money".
+        chunks:
+          - I would buy
+          - a big house
+          - if I had
+          - a lot of money
+        explanationVi: Mệnh đề chính dùng 'would' đứng trước, theo sau là mệnh đề 'if' dùng thì quá khứ đơn
+          mà không cần dấu phẩy ngăn cách.
+
+  - slug: passive-voice
+    title: The Passive Voice
+    titleVi: Câu bị động
+    summary: Khi việc quan trọng hơn người làm — và vì sao "được/bị" không dịch thẳng được.
+    estimatedMinutes: 15
+    xpReward: 30
+    order: 3
+    prerequisites: [past-simple, present-perfect]
+    sections:
+      - kind: theory
+        title: be + V3, chia thì ở be
+        body: |
+          Bị động luôn là **be + quá khứ phân từ**. Thì nằm ở `be`, còn V3 không đổi:
+
+          | Thì | Chủ động | Bị động |
+          |---|---|---|
+          | Hiện tại đơn | They **clean** the office. | The office **is cleaned**. |
+          | Quá khứ đơn | They **cleaned** it. | It **was cleaned**. |
+          | Hiện tại hoàn thành | They **have cleaned** it. | It **has been cleaned**. |
+          | Tương lai | They **will clean** it. | It **will be cleaned**. |
+          | Khiếm khuyết | They **must clean** it. | It **must be cleaned**. |
+
+          Người thực hiện, nếu cần nói, đi sau **by**:
+          The report **was written by** my colleague.
+
+          Dùng bị động khi **không biết** ai làm, **không quan trọng** ai làm, hoặc
+          muốn đưa đối tượng lên đầu câu cho mạch văn liền.
+      - kind: examples
+        title: Ví dụ
+        body: |
+          - English **is spoken** in more than fifty countries.
+            *Tiếng Anh được nói ở hơn năm mươi nước.*
+          - My bicycle **was stolen** last night.
+            *Xe đạp của tôi bị mất trộm tối qua.*
+          - The bridge **has been repaired**.
+            *Cây cầu đã được sửa xong.*
+          - Applications **must be submitted** before Friday.
+            *Hồ sơ phải được nộp trước thứ Sáu.*
+      - kind: tips
+        title: Mẹo và giới hạn
+        body: |
+          Chỉ **ngoại động từ** (có tân ngữ) mới đổi sang bị động được. `happen`,
+          `arrive`, `sleep`, `die` không có bị động — *the accident was happened* là sai.
+
+          Tiếng Việt phân biệt "được" (tốt) và "bị" (xấu); tiếng Anh không. Cả
+          *được khen* và *bị phạt* đều là bị động thường:
+          She **was praised**. / He **was fined**.
+
+          Với động từ hai tân ngữ, thường đưa **người** lên làm chủ ngữ:
+          They gave **me** a prize → **I was given** a prize.
+      - kind: common-mistakes
+        title: Lỗi người Việt hay mắc
+        body: |
+          | Sai | Đúng | Vì sao |
+          |---|---|---|
+          | The letter was wrote. | The letter was **written**. | Sau be là V3, không phải V2 |
+          | My phone is stole yesterday. | My phone **was stolen** yesterday. | Chia thì ở be, và dùng V3 |
+          | The accident was happened. | The accident **happened**. | happen là nội động từ, không có bị động |
+          | It has been repair. | It has been **repaired**. | Đừng quên đuôi V3 |
+          | This book was writing by him. | This book was **written** by him. | writing là V-ing, không phải V3 |
+    exercises:
+      - type: MCQ
+        prompt: "The new library ____ last year."
+        promptVi: Chọn dạng đúng.
+        options: [was built, was build, is built, has built]
+        answer: was built
+        explanationVi: "last year là quá khứ đã xong nên dùng was + V3 của build là built."
+      - type: MCQ
+        prompt: "All the tickets ____ already ____."
+        promptVi: Chọn cặp từ đúng.
+        options: [have / been sold, have / sold, has / been sold, were / been sold]
+        answer: have / been sold
+        explanationVi: "Bị động ở hiện tại hoàn thành là have/has been + V3. Chủ ngữ
+          tickets số nhiều nên dùng have."
+      - type: GAP_FILL
+        prompt: "This road ____ (repair) at the moment."
+        promptVi: Điền dạng bị động tiếp diễn.
+        answer: is being repaired
+        accept: ["is being repaired"]
+        explanationVi: "at the moment là hiện tại tiếp diễn; bị động của nó là
+          is being + V3."
+      - type: GAP_FILL
+        prompt: "The forms ____ (must / send) before Friday."
+        promptVi: Điền dạng bị động với động từ khiếm khuyết.
+        answer: must be sent
+        accept: ["must be sent"]
+        explanationVi: "Sau động từ khiếm khuyết, bị động là be + V3: must be sent."
+      - type: TRUE_FALSE
+        prompt: Câu sau đúng ngữ pháp hay sai?
+        statement: A serious accident was happened on the highway.
+        answer: false
+        explanationVi: "Sai. happen là nội động từ nên không có dạng bị động:
+          A serious accident happened on the highway."
+      - type: REORDER
+        prompt: Sắp xếp thành một câu đúng.
+        chunks: ["The results", "will be announced", "by the committee", "next Monday"]
+        explanationVi: "Bị động tương lai là will be + V3, cụm by đứng trước trạng ngữ
+          thời gian."
+      - type: SHORT_ANSWER
+        prompt: "Chuyển sang bị động: \"Someone stole my wallet.\""
+        accept: ["My wallet was stolen", "My wallet was stolen."]
+        explanationVi: "Người làm không quan trọng nên bỏ by someone: My wallet was stolen."
+      - type: MCQ
+        prompt: The package ________ to your office tomorrow morning.
+        promptVi: Chọn dạng tương lai đơn bị động với will.
+        options:
+          - will deliver
+          - will be delivered
+          - is delivered
+          - has been delivered
+        answer: will be delivered
+        explanationVi: Trạng từ 'tomorrow morning' chỉ tương lai đơn. Cấu trúc bị động tương lai đơn là 'will be + V3'.
+      - type: MCQ
+        prompt: These beautiful photos ________ by my sister during her last trip.
+        promptVi: Chọn dạng bị động đúng ở thì quá khứ đơn.
+        options:
+          - was taken
+          - are taken
+          - have been taken
+          - were taken
+        answer: were taken
+        explanationVi: Chủ ngữ 'These beautiful photos' là số nhiều và hành động xảy ra trong quá khứ ('last
+          trip'), do đó ta dùng 'were taken'.
+      - type: MCQ
+        prompt: I ________ a very interesting book for my birthday last week.
+        promptVi: Chọn dạng bị động phù hợp với chủ ngữ chỉ người.
+        options:
+          - am given
+          - has been given
+          - was given
+          - gave
+        answer: was given
+        explanationVi: "Với động từ có hai tân ngữ như 'give', ta thường đưa tân ngữ chỉ người ('I') lên làm
+          chủ ngữ bị động. Thời gian 'last week' yêu cầu thì quá khứ đơn: 'was given'."
+      - type: MCQ
+        prompt: The project ________ by the team yet.
+        promptVi: Chọn dạng hiện tại hoàn thành bị động phủ định.
+        options:
+          - will not finish
+          - has not been finished
+          - is not finished
+          - was not finished
+        answer: has not been finished
+        explanationVi: Trạng từ 'yet' thường dùng trong câu phủ định của thì hiện tại hoàn thành. Cấu trúc
+          bị động phủ định hiện tại hoàn thành là 'has/have not been + V3'.
+      - type: MCQ
+        prompt: This room ________ every day to keep it clean.
+        promptVi: Chọn hiện tại đơn bị động để nói về thói quen đang được duy trì.
+        options:
+          - is swept
+          - sweeps
+          - was swept
+          - has been swept
+        answer: is swept
+        explanationVi: "'Every day' chỉ một thói quen, hành động lặp đi lặp lại ở hiện tại. Bị động hiện tại
+          đơn là 'is/are + V3'. Quá khứ phân từ của 'sweep' là 'swept'."
+      - type: MCQ
+        prompt: 'Active: "They will build a new school here." -> Passive: "A new school ________ here."'
+        promptVi: Chuyển câu chủ động sang bị động.
+        options:
+          - will build
+          - is built
+          - was built
+          - will be built
+        answer: will be built
+        explanationVi: Bị động của 'will build' (tương lai đơn) là 'will be built' (will be + V3).
+      - type: MCQ
+        prompt: 'Active: "The police have arrested the thief." -> Passive: "The thief ________ by the police."'
+        promptVi: Chuyển câu chủ động sang bị động.
+        options:
+          - was arrested
+          - is arrested
+          - has been arrested
+          - have been arrested
+        answer: has been arrested
+        explanationVi: "'The thief' là chủ ngữ số ít, do đó cấu trúc bị động hiện tại hoàn thành chuyển từ
+          'have arrested' thành 'has been arrested'."
+      - type: MCQ
+        prompt: Why ________ the meeting ________ until next week?
+        promptVi: Chọn dạng bị động đúng cho câu hỏi.
+        options:
+          - is / postponing
+          - was / postponed
+          - did / postpone
+          - has / postponed
+        answer: was / postponed
+        explanationVi: "Câu hỏi bị động ở quá khứ đơn có dạng: Wh-word + was/were + S + V3. Phương án 'was /
+          postponed' là chính xác."
+      - type: MCQ
+        prompt: The trash ________ before 8 AM every morning.
+        promptVi: Chọn dạng bị động với must để diễn tả quy định bắt buộc.
+        options:
+          - must be collected
+          - must collect
+          - is collect
+          - was collected
+        answer: must be collected
+        explanationVi: Để diễn tả một việc bắt buộc phải làm, ta dùng động từ khiếm khuyết 'must'. Bị động
+          với động từ khiếm khuyết là 'must be + V3'.
+      - type: MCQ
+        prompt: Our car ________ at the garage at the moment.
+        promptVi: Chọn dạng bị động ở thì hiện tại tiếp diễn.
+        options:
+          - is repairing
+          - was repaired
+          - has been repaired
+          - is being repaired
+        answer: is being repaired
+        explanationVi: "'At the moment' là dấu hiệu của thì hiện tại tiếp diễn. Cấu trúc bị động hiện tại
+          tiếp diễn là 'am/is/are + being + V3'."
+      - type: GAP_FILL
+        prompt: The window ________ (break) by the children yesterday.
+        promptVi: Chia động từ 'break' ở dạng bị động quá khứ đơn.
+        answer: was broken
+        accept:
+          - was broken
+        explanationVi: "'Yesterday' chỉ quá khứ đơn. Chủ ngữ 'The window' số ít nên dùng 'was + V3' (broken)."
+      - type: GAP_FILL
+        prompt: Many trees ________ (plant) in the park since last month.
+        promptVi: Chia động từ 'plant' ở dạng bị động hiện tại hoàn thành.
+        answer: have been planted
+        accept:
+          - have been planted
+        explanationVi: "'Since last month' là dấu hiệu của thì hiện tại hoàn thành. Chủ ngữ 'Many trees' số
+          nhiều nên dùng 'have been planted'."
+      - type: GAP_FILL
+        prompt: This homework ________ (must / finish) before you go to bed.
+        promptVi: Chia động từ ở dạng bị động với động từ khiếm khuyết 'must'.
+        answer: must be finished
+        accept:
+          - must be finished
+        explanationVi: "Bị động với động từ khiếm khuyết 'must' có cấu trúc: must be + V3 (finished)."
+      - type: GAP_FILL
+        prompt: English ________ (speak) all over the world.
+        promptVi: Chia động từ 'speak' ở dạng bị động hiện tại đơn.
+        answer: is spoken
+        accept:
+          - is spoken
+        explanationVi: Đây là một sự thật hiển nhiên ở hiện tại. Chủ ngữ 'English' số ít nên dùng 'is + V3' (spoken).
+      - type: GAP_FILL
+        prompt: The email ________ (not / send) yet.
+        promptVi: Chia động từ ở dạng phủ định bị động hiện tại hoàn thành.
+        answer: has not been sent
+        accept:
+          - has not been sent
+          - hasn't been sent
+        explanationVi: "'Yet' chỉ thì hiện tại hoàn thành thể phủ định. Chủ ngữ 'The email' số ít nên dùng
+          'has not been sent' hoặc 'hasn't been sent'."
+      - type: GAP_FILL
+        prompt: The house ________ (paint) when we arrived.
+        promptVi: Dùng quá khứ tiếp diễn bị động để chỉ việc sơn đang diễn ra lúc chúng tôi đến.
+        answer: was being painted
+        accept:
+          - was being painted
+        explanationVi: Hành động đang xảy ra trong quá khứ khi có hành động khác xen vào ('when we
+          arrived'). Bị động quá khứ tiếp diễn là 'was/were being + V3'.
+      - type: TRUE_FALSE
+        prompt: Câu sau có đúng ngữ pháp không?
+        statement: The package was arrived at the post office this morning.
+        answer: false
+        explanationVi: Sai vì 'arrive' là nội động từ (không có tân ngữ), không thể chia ở thể bị động.
+        promptVi: Câu sau có đúng ngữ pháp không?
+      - type: TRUE_FALSE
+        prompt: Câu sau có đúng ngữ pháp không?
+        statement: He was offered a new job by the manager.
+        answer: true
+        explanationVi: Đúng. Đây là câu bị động quá khứ đơn với động từ hai tân ngữ 'offer', đưa tân ngữ chỉ
+          người 'He' lên làm chủ ngữ.
+        promptVi: Câu sau có đúng ngữ pháp không?
+      - type: REORDER
+        prompt: Sắp xếp thành câu bắt đầu bằng "The museum" và kết thúc bằng "every year".
+        chunks:
+          - The museum
+          - is visited
+          - by thousands of tourists
+          - every year
+        explanationVi: Chủ ngữ 'The museum' + động từ bị động hiện tại đơn 'is visited' + tác nhân 'by...' +
+          trạng từ chỉ tần suất 'every year'.
+      - type: REORDER
+        prompt: Sắp xếp thành câu bắt đầu bằng "My car" và kết thúc bằng "already".
+        chunks:
+          - My car
+          - has been repaired
+          - by the mechanic
+          - already
+        explanationVi: Chủ ngữ 'My car' + bị động hiện tại hoàn thành 'has been repaired' + tác nhân 'by...'
+          + trạng từ 'already'.
+
+  - slug: relative-clauses
+    title: Relative Clauses
+    titleVi: Mệnh đề quan hệ
+    summary: Nối hai câu thành một bằng who, which, that — và biết khi nào cần dấu phẩy.
+    estimatedMinutes: 16
+    xpReward: 30
+    order: 4
+    prerequisites: [present-simple]
+    sections:
+      - kind: theory
+        title: Chọn đại từ quan hệ
+        body: |
+          | Đại từ | Thay cho | Ví dụ |
+          |---|---|---|
+          | who | người | The man **who** called you is my boss. |
+          | which | vật, việc | The book **which** I bought is heavy. |
+          | that | người hoặc vật (mệnh đề xác định) | The bus **that** goes to the airport |
+          | whose | sở hữu | The girl **whose** father is a doctor |
+          | where | nơi chốn | The cafe **where** we met |
+          | when | thời gian | The day **when** we arrived |
+
+          **Hai loại mệnh đề, khác nhau ở dấu phẩy:**
+
+          **Xác định** — thông tin cần thiết để biết đang nói ai/cái gì. **Không phẩy**,
+          dùng được `that`:
+          The student **who sits next to me** is from Hue.
+
+          **Không xác định** — thông tin thêm, bỏ đi câu vẫn đủ nghĩa. **Có phẩy**,
+          **không** dùng `that`:
+          My brother**, who lives in Da Nang,** is a nurse.
+      - kind: examples
+        title: Ví dụ
+        body: |
+          - I know a woman **who speaks** five languages.
+            *Tôi biết một người phụ nữ nói được năm thứ tiếng.*
+          - The laptop **that I bought** last month has stopped working.
+            *Cái laptop tôi mua tháng trước đã hỏng.*
+          - Hoi An**, which is famous for its lanterns,** attracts many tourists.
+            *Hội An, nơi nổi tiếng với đèn lồng, thu hút nhiều khách du lịch.*
+          - That is the school **where** my mother taught for twenty years.
+            *Đó là ngôi trường nơi mẹ tôi đã dạy hai mươi năm.*
+      - kind: tips
+        title: Khi nào bỏ được đại từ quan hệ
+        body: |
+          Bỏ được `who/which/that` khi nó là **tân ngữ** của mệnh đề quan hệ:
+
+          - The book **(that)** I read was excellent. ✔ bỏ được — that là tân ngữ của read
+          - The man **who** called me was polite. ✘ không bỏ được — who là chủ ngữ
+
+          Cách kiểm tra: ngay sau đại từ quan hệ có một chủ ngữ mới không? Có thì
+          bỏ được.
+      - kind: common-mistakes
+        title: Lỗi người Việt hay mắc
+        body: |
+          | Sai | Đúng | Vì sao |
+          |---|---|---|
+          | The man which called me | The man **who** called me | who cho người |
+          | My father, that is 60, ... | My father, **who** is 60, ... | Mệnh đề có phẩy không dùng that |
+          | The book which I bought it | The book which I bought | Không lặp lại tân ngữ |
+          | The city where I was born there | ... where I was born | where đã thay cho "ở đó" |
+          | The house who I live in | The house **which/that** I live in | which cho vật |
+    exercises:
+      - type: MCQ
+        prompt: "The woman ____ answered the phone was very helpful."
+        promptVi: Chọn đại từ quan hệ đúng.
+        options: [who, which, whose, where]
+        answer: who
+        explanationVi: "Đại từ thay cho the woman, là người, và làm chủ ngữ của
+          answered, nên dùng who."
+      - type: MCQ
+        prompt: "Ha Long Bay, ____ is a World Heritage Site, is in Quang Ninh."
+        promptVi: Chọn đại từ quan hệ đúng.
+        options: [which, that, who, where]
+        answer: which
+        explanationVi: "Mệnh đề nằm giữa hai dấu phẩy nên là mệnh đề không xác định,
+          không được dùng that; chủ thể là địa danh nên dùng which."
+      - type: GAP_FILL
+        prompt: "I met a man ____ son studies at my university."
+        promptVi: "Điền một đại từ quan hệ."
+        answer: whose
+        accept: [whose]
+        explanationVi: "Quan hệ sở hữu — con trai của người đàn ông ấy — nên dùng whose."
+      - type: GAP_FILL
+        prompt: "This is the restaurant ____ we had dinner last week."
+        promptVi: "Điền một đại từ quan hệ chỉ nơi chốn."
+        answer: where
+        accept: [where]
+        explanationVi: "Chỉ nơi chốn và sau đó là một mệnh đề đủ chủ ngữ tân ngữ nên
+          dùng where."
+      - type: TRUE_FALSE
+        prompt: Câu sau đúng ngữ pháp hay sai?
+        statement: My sister, that works in Hanoi, is coming home tonight.
+        answer: false
+        explanationVi: "Sai. Mệnh đề không xác định (có dấu phẩy) không dùng that:
+          My sister, who works in Hanoi, ..."
+      - type: TRUE_FALSE
+        prompt: Câu sau đúng ngữ pháp hay sai?
+        statement: The film we watched yesterday was boring.
+        answer: true
+        explanationVi: "Đúng. Đại từ quan hệ that là tân ngữ của watched nên bỏ được."
+      - type: SHORT_ANSWER
+        prompt: "Nối hai câu bằng mệnh đề quan hệ: \"I have a friend. He works for a bank.\""
+        accept: ["I have a friend who works for a bank",
+                 "I have a friend that works for a bank"]
+        explanationVi: "He thay bằng who (hoặc that trong mệnh đề xác định):
+          I have a friend who works for a bank."
+      - type: MCQ
+        prompt: The teacher ____ class I attended yesterday was extremely knowledgeable.
+        promptVi: Chọn đại từ quan hệ đúng.
+        options:
+          - who
+          - which
+          - whose
+          - whom
+        answer: whose
+        explanationVi: Dùng 'whose' để chỉ sở hữu (lớp học của giáo viên đó). Sau 'whose' là một danh từ 'class'.
+      - type: MCQ
+        prompt: My uncle, ____ is a famous chef, is opening a new restaurant next month.
+        promptVi: Chọn đại từ quan hệ đúng.
+        options:
+          - who
+          - which
+          - whose
+          - that
+        answer: who
+        explanationVi: Đây là mệnh đề quan hệ không xác định (có dấu phẩy) chỉ người, do đó ta dùng 'who' và
+          không được dùng 'that'.
+      - type: MCQ
+        prompt: The hotel ____ we stayed during our vacation was very clean.
+        promptVi: Chọn đại từ quan hệ đúng.
+        options:
+          - that
+          - who
+          - where
+          - which
+        answer: where
+        explanationVi: Dùng 'where' để chỉ nơi chốn (tại khách sạn đó chúng tôi đã ở).
+      - type: MCQ
+        prompt: The year ____ my sister graduated from university was 2018.
+        promptVi: Chọn đại từ quan hệ đúng.
+        options:
+          - when
+          - where
+          - which
+          - who
+        answer: when
+        explanationVi: Dùng 'when' để thay thế cho trạng từ chỉ thời gian (vào năm đó).
+      - type: MCQ
+        prompt: Is this the smartphone ____ you recommended to me?
+        promptVi: Chọn đại từ quan hệ đúng.
+        options:
+          - who
+          - whose
+          - which
+          - where
+        answer: which
+        explanationVi: Dùng 'which' (hoặc 'that') để thay thế cho danh từ chỉ vật 'the smartphone' đóng vai trò tân ngữ.
+      - type: MCQ
+        prompt: The doctor ____ treated my grandmother was very kind.
+        promptVi: Chọn đại từ quan hệ đúng.
+        options:
+          - who
+          - whose
+          - where
+          - which
+        answer: who
+        explanationVi: Dùng 'who' làm chủ ngữ thay thế cho danh từ chỉ người 'the doctor'.
+      - type: MCQ
+        prompt: The presentation, ____ lasted for two hours, was very boring.
+        promptVi: Chọn đại từ quan hệ đúng.
+        options:
+          - which
+          - whose
+          - that
+          - who
+        answer: which
+        explanationVi: Mệnh đề không xác định (có dấu phẩy) bổ nghĩa cho vật 'the presentation' nên phải
+          dùng 'which', không dùng 'that'.
+      - type: MCQ
+        prompt: The children ____ dog was lost were crying in the park.
+        promptVi: Chọn đại từ quan hệ đúng.
+        options:
+          - where
+          - who
+          - whose
+          - which
+        answer: whose
+        explanationVi: Dùng 'whose' để chỉ sự sở hữu (con chó của những đứa trẻ).
+      - type: MCQ
+        prompt: The museum ____ we visited last Sunday had many beautiful paintings.
+        promptVi: Chọn đại từ quan hệ đúng.
+        options:
+          - which
+          - where
+          - who
+          - when
+        answer: which
+        explanationVi: Ở đây 'the museum' đóng vai trò tân ngữ của động từ 'visited' (chúng tôi đã ghé thăm
+          bảo tàng), nên dùng 'which' chứ không dùng 'where'.
+      - type: MCQ
+        prompt: I will never forget the day ____ I first met my best friend.
+        promptVi: Chọn đại từ quan hệ đúng.
+        options:
+          - which
+          - who
+          - when
+          - where
+        answer: when
+        explanationVi: Dùng 'when' để chỉ thời gian, bổ nghĩa cho danh từ 'the day'.
+      - type: GAP_FILL
+        prompt: The man ____ you met yesterday is my English teacher.
+        promptVi: Điền một đại từ quan hệ chỉ người làm tân ngữ.
+        answer: who
+        accept:
+          - who
+          - whom
+          - that
+        explanationVi: Trong mệnh đề xác định, ta có thể dùng 'who', 'whom' hoặc 'that' để thay thế cho tân
+          ngữ chỉ người 'the man'.
+      - type: GAP_FILL
+        prompt: This is the house ____ my grandfather built fifty years ago.
+        promptVi: Điền một đại từ quan hệ chỉ vật.
+        answer: which
+        accept:
+          - which
+          - that
+        explanationVi: Ta dùng 'which' hoặc 'that' để thay thế cho vật 'the house' làm tân ngữ cho động từ 'built'.
+      - type: GAP_FILL
+        prompt: The woman ____ car broke down had to call for help.
+        promptVi: Điền một đại từ quan hệ chỉ sự sở hữu.
+        answer: whose
+        accept:
+          - whose
+        explanationVi: Ta dùng 'whose' để chỉ sự sở hữu (xe hơi của người phụ nữ).
+      - type: GAP_FILL
+        prompt: London, ____ is the capital of the UK, is a very expensive city.
+        promptVi: Điền đại từ quan hệ phù hợp cho mệnh đề không xác định này.
+        answer: which
+        accept:
+          - which
+        explanationVi: Vì đây là mệnh đề không xác định (có dấu phẩy) bổ nghĩa cho địa danh, ta chỉ được
+          dùng 'which', không được dùng 'that'.
+      - type: GAP_FILL
+        prompt: The park ____ we usually play football is near my house.
+        promptVi: Điền một từ quan hệ chỉ nơi chốn.
+        answer: where
+        accept:
+          - where
+        explanationVi: Dùng 'where' để chỉ địa điểm nơi hành động 'play football' diễn ra.
+      - type: GAP_FILL
+        prompt: My mother, ____ is 50 years old, still loves playing tennis.
+        promptVi: Điền đại từ quan hệ phù hợp cho mệnh đề không xác định chỉ người.
+        answer: who
+        accept:
+          - who
+        explanationVi: Mệnh đề không xác định chỉ người và làm chủ ngữ thì chỉ dùng 'who', không dùng 'that'.
+      - type: TRUE_FALSE
+        prompt: Câu sau có đúng ngữ pháp không?
+        promptVi: Câu sau có đúng ngữ pháp không?
+        statement: The cake which my mother baked it was delicious.
+        answer: false
+        explanationVi: Sai vì thừa tân ngữ 'it'. Khi đã dùng đại từ quan hệ 'which' thay thế cho 'the cake'
+          thì không dùng 'it' ở sau động từ 'baked' nữa.
+      - type: TRUE_FALSE
+        prompt: Câu sau có đúng ngữ pháp không?
+        promptVi: Câu sau có đúng ngữ pháp không?
+        statement: The student whose laptop was stolen went to the police.
+        answer: true
+        explanationVi: Đúng. 'Whose' được dùng chính xác để chỉ sự sở hữu (laptop của học sinh).
+      - type: REORDER
+        prompt: Sắp xếp thành câu bắt đầu bằng "The girl" và kết thúc bằng "is very friendly.".
+        promptVi: Sắp xếp các từ thành câu hoàn chỉnh.
+        chunks:
+          - The girl
+          - who sits
+          - next to me
+          - is very friendly.
+        explanationVi: Chủ ngữ 'The girl' được bổ nghĩa bằng mệnh đề quan hệ xác định 'who sits next to me',
+          theo sau là vị ngữ chính 'is very friendly'.
+      - type: REORDER
+        prompt: Sắp xếp thành câu bắt đầu bằng "The book" và kết thúc bằng "is interesting.".
+        promptVi: Sắp xếp các từ thành câu hoàn chỉnh.
+        chunks:
+          - The book
+          - that I bought
+          - yesterday
+          - is interesting.
+        explanationVi: Chủ ngữ 'The book' được bổ nghĩa bởi mệnh đề quan hệ 'that I bought yesterday', theo
+          sau là động từ chính 'is interesting'.
+
+  - slug: modal-verbs
+    title: Modal Verbs
+    titleVi: Động từ khiếm khuyết
+    summary: can, must, should, might — và vì sao chúng không bao giờ thêm -s.
+    estimatedMinutes: 15
+    xpReward: 30
+    order: 5
+    prerequisites: [present-simple]
+    sections:
+      - kind: theory
+        title: Một nhóm động từ có luật riêng
+        body: |
+          Động từ khiếm khuyết đứng trước động từ chính và **không đổi hình bao giờ**:
+          không `-s`, không `-ed`, không `to` phía sau.
+
+          | Động từ | Nghĩa | Ví dụ |
+          |---|---|---|
+          | can / could | khả năng, xin phép | I **can** swim. |
+          | must | bắt buộc (do người nói) | You **must** wear a helmet. |
+          | have to | bắt buộc (do hoàn cảnh) | I **have to** work on Saturday. |
+          | should | lời khuyên | You **should** see a doctor. |
+          | may / might | có thể xảy ra | It **might** rain later. |
+          | will / would | tương lai, lịch sự | **Would** you help me? |
+
+          Phủ định thêm thẳng **not**, không cần do/does:
+          She **cannot** come. / You **should not** worry.
+
+          Câu hỏi đảo động từ khiếm khuyết lên đầu:
+          **Can** you help me? — không phải *Do you can help me?*
+      - kind: examples
+        title: Ví dụ
+        body: |
+          - You **must** show your passport at the gate.
+            *Bạn phải xuất trình hộ chiếu ở cửa.*
+          - He **might** be at the library.
+            *Có thể anh ấy đang ở thư viện.*
+          - We **should** leave now if we want to be on time.
+            *Chúng ta nên đi ngay nếu muốn đúng giờ.*
+          - I **couldn't** find the file yesterday.
+            *Hôm qua tôi không tìm được tệp đó.*
+      - kind: tips
+        title: must và have to khác nhau ở đâu
+        body: |
+          Cả hai đều là "phải", nhưng nguồn của sự bắt buộc khác nhau:
+
+          - **must** — người nói tự thấy cần: I **must** call my mother.
+          - **have to** — quy định hoặc hoàn cảnh bên ngoài: I **have to** wear
+            a uniform at work.
+
+          Phủ định thì khác hẳn nghĩa, đây là chỗ dễ sai nhất:
+
+          | | Nghĩa |
+          |---|---|
+          | You **mustn't** park here. | **Cấm** đỗ xe ở đây |
+          | You **don't have to** park here. | **Không cần** đỗ ở đây, đỗ chỗ khác cũng được |
+      - kind: common-mistakes
+        title: Lỗi người Việt hay mắc
+        body: |
+          | Sai | Đúng | Vì sao |
+          |---|---|---|
+          | She cans swim. | She **can** swim. | Khiếm khuyết không thêm -s |
+          | He must to go. | He **must** go. | Sau must không có to |
+          | Do you can help me? | **Can** you help me? | Không dùng do với khiếm khuyết |
+          | You mustn't come if you are busy. | You **don't have to** come. | mustn't là cấm, không phải "không cần" |
+          | I will can speak English. | I **will be able to** speak English. | Không đặt hai khiếm khuyết cạnh nhau |
+    exercises:
+      - type: MCQ
+        prompt: "You ____ smoke in the hospital. It is forbidden."
+        promptVi: Chọn phương án đúng.
+        options: [mustn't, don't have to, shouldn't have to, needn't]
+        answer: mustn't
+        explanationVi: "It is forbidden nghĩa là cấm, nên dùng mustn't. don't have to
+          chỉ có nghĩa không bắt buộc."
+      - type: MCQ
+        prompt: "It's Sunday, so I ____ get up early."
+        promptVi: Chọn phương án đúng.
+        options: [don't have to, mustn't, can't, shouldn't]
+        answer: don't have to
+        explanationVi: "Chủ nhật thì không bắt buộc dậy sớm, nhưng không ai cấm — nên
+          dùng don't have to."
+      - type: MCQ
+        prompt: "____ you pass me the salt, please?"
+        promptVi: Chọn phương án lịch sự nhất.
+        options: [Could, Must, Should, Do]
+        answer: Could
+        explanationVi: "Could dùng để nhờ vả một cách lịch sự."
+      - type: GAP_FILL
+        prompt: "She ____ (not / can) come to the party last night."
+        promptVi: Điền dạng quá khứ phủ định.
+        answer: could not
+        accept: ["could not", "couldn't"]
+        explanationVi: "Quá khứ của can là could; phủ định thêm thẳng not."
+      - type: TRUE_FALSE
+        prompt: Câu sau đúng ngữ pháp hay sai?
+        statement: He must to finish the report today.
+        answer: false
+        explanationVi: "Sai. Sau động từ khiếm khuyết không có to: He must finish."
+      - type: REORDER
+        prompt: Sắp xếp thành một câu đúng.
+        chunks: ["You", "should not", "drink coffee", "after nine o'clock"]
+        explanationVi: "should not đứng ngay sau chủ ngữ, trước động từ nguyên thể."
+      - type: SHORT_ANSWER
+        prompt: "Sửa câu sai: \"Do you can speak Japanese?\""
+        accept: ["Can you speak Japanese", "Can you speak Japanese?"]
+        explanationVi: "Câu hỏi với khiếm khuyết thì đảo chính nó lên đầu, không dùng do."
+      - type: MCQ
+        prompt: At the age of six, Eva ____ read music.
+        promptVi: Chọn từ diễn tả khả năng trong quá khứ.
+        options:
+          - can
+          - could
+          - must
+          - will
+        answer: could
+        explanationVi: At the age of six xác định khả năng trong quá khứ. Dùng could + động từ nguyên thể read.
+      - type: MCQ
+        prompt: Visitors ____ feed the animals. The sign says it is prohibited.
+        promptVi: Chọn phương án đúng.
+        options:
+          - do not have to
+          - need not
+          - are not having to
+          - must not
+        answer: must not
+        explanationVi: Prohibited nghĩa là bị cấm. Must not diễn tả sự cấm đoán, còn do not have to và need
+          not chỉ nói không cần thiết.
+      - type: MCQ
+        prompt: The ticket is free, so you ____ pay to enter.
+        promptVi: Chọn cụm từ có nghĩa không bắt buộc.
+        options:
+          - do not have to
+          - should not
+          - must not
+          - cannot
+        answer: do not have to
+        explanationVi: Vé miễn phí nghĩa là không có nghĩa vụ trả tiền. Do not have to diễn tả việc không cần thiết.
+      - type: MCQ
+        prompt: You look exhausted. You ____ take a short break.
+        promptVi: Chọn phương án đúng.
+        options:
+          - should to
+          - should
+          - must to
+          - ought
+        answer: should
+        explanationVi: Lời khuyên dùng should + động từ nguyên thể. Ought cần có to, còn should không đi với to.
+      - type: MCQ
+        prompt: She can ____ the problem without a calculator.
+        promptVi: Chọn phương án đúng.
+        options:
+          - solves
+          - solving
+          - solve
+          - to solve
+        answer: solve
+        explanationVi: Sau can dùng động từ nguyên thể không to. Không thêm -s dù chủ ngữ là she.
+      - type: MCQ
+        prompt: ____ I use your charger for a minute?
+        promptVi: Chọn phương án đúng.
+        options:
+          - Do
+          - Am
+          - Have
+          - May
+        answer: May
+        explanationVi: May I + động từ nguyên thể là cách xin phép lịch sự.
+      - type: MCQ
+        prompt: After more practice, I will ____ speak more confidently.
+        promptVi: Chọn phương án đúng.
+        options:
+          - could
+          - am able to
+          - can
+          - be able to
+        answer: be able to
+        explanationVi: Không đặt will và can cạnh nhau. Diễn tả khả năng trong tương lai bằng will be able
+          to + động từ nguyên thể.
+      - type: MCQ
+        prompt: There were no buses, so we ____ walk home last night.
+        promptVi: Chọn phương án đúng.
+        options:
+          - has to
+          - must
+          - had to
+          - have to
+        answer: had to
+        explanationVi: Nghĩa vụ do hoàn cảnh trong quá khứ dùng had to. Last night xác định thời gian đã kết thúc.
+      - type: MCQ
+        prompt: The forecast is uncertain; it ____ rain later.
+        promptVi: Chọn phương án đúng.
+        options:
+          - mights
+          - might to
+          - might
+          - is might
+        answer: might
+        explanationVi: Might diễn tả khả năng chưa chắc chắn và theo sau là động từ nguyên thể rain.
+      - type: MCQ
+        prompt: ____ you open this jar for me, please?
+        promptVi: Chọn phương án đúng.
+        options:
+          - Does
+          - Are
+          - Have
+          - Could
+        answer: Could
+        explanationVi: Could you + động từ nguyên thể là mẫu câu nhờ người khác giúp một cách lịch sự.
+      - type: GAP_FILL
+        prompt: I ____ (not / can) hear the announcement yesterday.
+        promptVi: Dùng dạng quá khứ phủ định của can.
+        answer: could not
+        accept:
+          - could not
+          - couldn't
+        explanationVi: Yesterday chỉ quá khứ. Dạng phủ định của could là could not hoặc couldn't.
+      - type: GAP_FILL
+        prompt: Students ____ bring laptops; the school provides computers.
+        promptVi: Điền dạng phủ định hiện tại của have to.
+        answer: do not have to
+        accept:
+          - do not have to
+          - don't have to
+        explanationVi: Trường đã cung cấp máy tính nên học sinh không cần mang laptop. Do not have to khác
+          với must not là bị cấm.
+      - type: GAP_FILL
+        prompt: You ____ (should / not / share) your password with strangers.
+        promptVi: Dùng should để đưa ra lời khuyên phủ định.
+        answer: should not share
+        accept:
+          - should not share
+          - shouldn't share
+        explanationVi: Should not + động từ nguyên thể dùng để khuyên không làm điều gì. Share giữ nguyên thể.
+      - type: GAP_FILL
+        prompt: ____ (can / your sister / swim) across this pool?
+        promptVi: Điền cả cụm từ thành câu hỏi với can.
+        answer: Can your sister swim
+        accept:
+          - Can your sister swim
+        explanationVi: Câu hỏi về khả năng đảo can lên trước chủ ngữ. Không dùng does và không thêm -s vào swim.
+      - type: GAP_FILL
+        prompt: The lift is broken, so he ____ use the stairs today.
+        promptVi: Điền dạng hiện tại của have to.
+        answer: has to
+        accept:
+          - has to
+        explanationVi: Chủ ngữ he đi với has to. Thang máy hỏng là hoàn cảnh khiến anh ấy phải dùng cầu thang.
+      - type: GAP_FILL
+        prompt: The workshop is optional. You ____ attend it.
+        promptVi: Dùng need ở vai trò động từ khiếm khuyết phủ định.
+        answer: need not
+        accept:
+          - need not
+          - needn't
+        explanationVi: Need not + động từ nguyên thể chỉ việc không cần thiết. Optional nghĩa là tự chọn.
+      - type: TRUE_FALSE
+        prompt: Câu sau có đúng ngữ pháp không?
+        statement: Does she can play the violin?
+        answer: false
+        explanationVi: Sai. Câu hỏi với can không dùng does. Câu đúng là Can she play the violin?
+        promptVi: Câu sau có đúng ngữ pháp không?
+      - type: TRUE_FALSE
+        prompt: Câu sau có đúng ngữ pháp không?
+        statement: We might arrive after lunch.
+        answer: true
+        explanationVi: Đúng. Might giữ nguyên với mọi chủ ngữ và đi với arrive ở dạng nguyên thể để nói về khả năng.
+        promptVi: Câu sau có đúng ngữ pháp không?
+      - type: REORDER
+        prompt: Sắp xếp thành câu bắt đầu bằng "You" và kết thúc bằng "this door open.".
+        chunks:
+          - You
+          - must not
+          - leave
+          - this door open.
+        explanationVi: Must not đứng trước leave để nói rằng không được để cửa mở.
+      - type: REORDER
+        prompt: Sắp xếp thành câu bắt đầu bằng "Could" và kết thúc bằng "the nearest exit?".
+        chunks:
+          - Could
+          - you
+          - show me
+          - the nearest exit?
+        explanationVi: Câu nhờ giúp đỡ lịch sự có cấu trúc Could + chủ ngữ + động từ nguyên thể.
+

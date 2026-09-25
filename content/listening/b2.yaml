@@ -1,0 +1,1401 @@
+cefr: B2
+tracks:
+  - slug: campus-radio-on-recycling
+    title: Campus Radio - Does Our Recycling Actually Work?
+    titleVi: Radio trường - Việc phân loại rác của chúng ta có thật sự hiệu quả?
+    topic: environment
+    accent: US
+    format: podcast
+    speakerCount: 2
+    glossary:
+      - recycle
+      - recycling
+      - landfill
+      - contaminate
+      - sustainable
+      - recyclable
+      - conservation
+    segments:
+      - speaker: Host
+        text: "You're listening to Green Hour. This week, a question a listener sent in: does the recycling
+          we do on campus actually go anywhere?"
+        vi: "Bạn đang nghe Green Hour. Tuần này là câu hỏi của một thính giả gửi tới: rác phân loại trong
+          trường có thật sự đi đến đâu không?"
+      - speaker: Host
+        text: I'm here with Trang, who spent last semester following the bins. Trang, what did you find?
+        vi: Cùng tôi hôm nay là Trang, người đã dành cả học kỳ trước để theo dõi các thùng rác. Trang, bạn
+          tìm ra điều gì?
+      - speaker: Trang
+        text: The short answer is yes, but a lot less of it than people assume, and the reason is not the
+          one most students guess.
+        vi: Câu trả lời ngắn là có, nhưng ít hơn nhiều so với mọi người tưởng, và lý do không phải điều sinh
+          viên hay đoán.
+      - speaker: Host
+        text: Most people would guess the university just throws it all in one truck.
+        vi: Phần lớn sẽ đoán là nhà trường đổ tất cả lên cùng một xe.
+      - speaker: Trang
+        text: That's the myth, and it's not true here. The trucks are separate. The problem happens earlier,
+          at the bin itself.
+        vi: Đó là điều đồn thổi, và ở đây thì không đúng. Xe tải là riêng biệt. Vấn đề xảy ra sớm hơn, ngay
+          tại thùng rác.
+      - speaker: Trang
+        text: If one person puts a half-full cup of milk tea into the paper bin, the liquid soaks the paper
+          around it. That whole bag is then contaminated and goes to landfill.
+        vi: Nếu một người bỏ cốc trà sữa còn nửa vào thùng giấy, chất lỏng thấm vào giấy xung quanh. Cả túi
+          đó bị nhiễm bẩn và bị đưa ra bãi rác.
+      - speaker: Host
+        text: So one cup can ruin an entire bag.
+        vi: Vậy một cái cốc có thể làm hỏng cả một túi.
+      - speaker: Trang
+        text: One cup, yes. And in the buildings we sampled, contamination was running at about thirty
+          percent, which is roughly the national average and much worse than it needs to be.
+        vi: Đúng, một cái cốc. Và ở những toà nhà chúng tôi lấy mẫu, tỷ lệ nhiễm bẩn khoảng ba mươi phần
+          trăm, xấp xỉ mức trung bình cả nước và tệ hơn mức đáng lẽ phải có.
+      - speaker: Host
+        text: What would move that number?
+        vi: Điều gì sẽ thay đổi con số đó?
+      - speaker: Trang
+        text: Honestly, not posters. What worked in the trial was putting a liquid disposal bucket next to
+          the bins, so people had somewhere to empty a drink before sorting the cup.
+        vi: Thật lòng thì không phải áp phích. Thứ hiệu quả trong đợt thử nghiệm là đặt một xô đổ chất lỏng
+          ngay cạnh thùng rác, để người ta có chỗ đổ đồ uống trước khi phân loại cái cốc.
+      - speaker: Trang
+        text: Contamination in those two buildings dropped to about eleven percent in six weeks. It cost
+          almost nothing.
+        vi: Tỷ lệ nhiễm bẩn ở hai toà đó giảm còn khoảng mười một phần trăm sau sáu tuần. Chi phí gần như
+          bằng không.
+      - speaker: Host
+        text: Which is a nice reminder that the sustainable answer is often boring and cheap rather than
+          clever.
+        vi: Đó là một lời nhắc dễ chịu rằng giải pháp bền vững thường nhàm chán và rẻ tiền, chứ không phải
+          thông minh.
+    dictation:
+      - 6
+      - 8
+      - 11
+    questions:
+      - type: MCQ
+        prompt: What does Trang say is the real cause of the problem?
+        options:
+          - Contamination at the bin, before collection
+          - The university mixing everything into one truck
+          - A shortage of recycling plants
+          - Students not knowing which bin to use at all
+        answer: Contamination at the bin, before collection
+        explanationVi: Trang nói xe tải là riêng biệt; vấn đề xảy ra sớm hơn, ngay tại thùng rác, khi rác bị
+          nhiễm bẩn.
+      - type: MCQ
+        prompt: What intervention worked in the trial?
+        options:
+          - A bucket for emptying liquids next to the bins
+          - More posters explaining the rules
+          - Fines for students who sort incorrectly
+          - Removing the paper bins entirely
+        answer: A bucket for emptying liquids next to the bins
+        explanationVi: '"putting a liquid disposal bucket next to the bins" — và Trang nói rõ áp phích thì
+          không hiệu quả.'
+      - type: MCQ
+        prompt: What is the host's closing point?
+        options:
+          - Effective solutions are often cheap and unexciting
+          - Recycling is not worth the effort
+          - Students should be taught more about conservation
+          - The national average is a good target
+        answer: Effective solutions are often cheap and unexciting
+        explanationVi: '"the sustainable answer is often boring and cheap rather than clever".'
+      - type: TRUE_FALSE
+        prompt: Đúng hay sai theo đoạn hội thoại?
+        statement: The university does put recyclables and general waste in the same truck.
+        answer: false
+        explanationVi: Sai. Trang gọi đó là lời đồn và nói "The trucks are separate".
+      - type: TRUE_FALSE
+        prompt: Đúng hay sai theo đoạn hội thoại?
+        statement: The campus contamination rate was close to the national average.
+        answer: true
+        explanationVi: Đúng. Khoảng ba mươi phần trăm, "roughly the national average".
+      - type: SHORT_ANSWER
+        prompt: What did contamination fall to in the trial buildings?
+        accept:
+          - eleven percent
+          - 11%
+          - 11 percent
+          - about eleven percent
+          - eleven per cent
+        explanationVi: '"dropped to about eleven percent in six weeks".'
+      - type: SHORT_ANSWER
+        prompt: How long did the trial take to produce that result?
+        accept:
+          - six weeks
+          - 6 weeks
+          - six
+        explanationVi: '"in six weeks" — sáu tuần.'
+  - slug: the-first-five-minutes-of-an-interview
+    title: The First Five Minutes of an Interview
+    titleVi: Năm phút đầu của một buổi phỏng vấn
+    topic: work
+    accent: UK
+    format: interview
+    speakerCount: 2
+    glossary:
+      - recruit
+      - applicant
+      - promotion
+      - freelance
+      - startup
+      - negotiate
+      - application
+    segments:
+      - speaker: Interviewer
+        text: Thanks for coming in. Before we start properly, how much do you already know about what the
+          team does?
+        vi: Cảm ơn bạn đã đến. Trước khi bắt đầu chính thức, bạn đã biết gì về công việc của nhóm này rồi?
+      - speaker: Candidate
+        text: A reasonable amount, I think. You build the payments layer that the rest of the product sits
+          on, and you moved off a third-party provider last year.
+        vi: Tôi nghĩ là khá nhiều. Nhóm xây tầng thanh toán mà cả sản phẩm dựa lên, và năm ngoái các anh chị
+          đã chuyển khỏi nhà cung cấp bên thứ ba.
+      - speaker: Interviewer
+        text: That's right. What made you look at us rather than staying freelance? Your last three years
+          have been independent work.
+        vi: Đúng vậy. Điều gì khiến bạn nhìn về phía chúng tôi thay vì tiếp tục làm tự do? Ba năm qua bạn
+          làm độc lập mà.
+      - speaker: Candidate
+        text: Honestly, the range of problems. Freelance work paid well and I chose my hours, but each
+          project ended before anything got difficult in an interesting way.
+        vi: Thật lòng là vì phạm vi vấn đề. Làm tự do trả tiền tốt và tôi chọn được giờ giấc, nhưng dự án
+          nào cũng kết thúc trước khi có gì khó theo kiểu thú vị.
+      - speaker: Candidate
+        text: I'd hand over a working system and never see what it looked like after two years of real
+          traffic.
+        vi: Tôi bàn giao một hệ thống chạy được rồi không bao giờ thấy nó ra sao sau hai năm chịu lưu lượng
+          thật.
+      - speaker: Interviewer
+        text: That's a fair answer, and a more useful one than most. Let me push on it though. Small
+          startups also end quickly, sometimes faster than a contract.
+        vi: Đó là câu trả lời hợp lý, và hữu ích hơn phần lớn câu khác. Nhưng để tôi hỏi tới. Công ty khởi
+          nghiệp nhỏ cũng kết thúc nhanh, đôi khi còn nhanh hơn một hợp đồng.
+      - speaker: Candidate
+        text: They do. That's why I looked at the engineering blog before I applied, and at how long the
+          people writing it had been here.
+        vi: Đúng thế. Vì vậy trước khi nộp đơn tôi đã đọc blog kỹ thuật, và xem những người viết nó đã ở đây
+          bao lâu.
+      - speaker: Interviewer
+        text: And what did that tell you?
+        vi: Và điều đó nói lên gì?
+      - speaker: Candidate
+        text: That the average was about four years, which for a company your size is unusual. People stay
+          when the work keeps changing under them.
+        vi: Rằng trung bình khoảng bốn năm, một con số bất thường với công ty quy mô như anh chị. Người ta ở
+          lại khi công việc liên tục thay đổi bên dưới họ.
+      - speaker: Interviewer
+        text: We'll come back to that at the end, because I suspect you'll have better questions than we
+          usually get. Shall we start with the technical part?
+        vi: Cuối buổi ta sẽ quay lại chuyện đó, vì tôi nghĩ bạn sẽ có những câu hỏi hay hơn thường lệ. Bắt
+          đầu phần kỹ thuật nhé?
+    dictation:
+      - 4
+      - 7
+      - 9
+    questions:
+      - type: MCQ
+        prompt: What reason does the candidate give for leaving freelance work?
+        options:
+          - Projects ended before the problems became interesting
+          - The pay was too low
+          - Clients did not respect their working hours
+          - They could not find enough contracts
+        answer: Projects ended before the problems became interesting
+        explanationVi: Ứng viên nói tiền tốt và giờ giấc tự chủ, nhưng dự án luôn kết thúc trước khi có gì
+          khó theo kiểu thú vị.
+      - type: MCQ
+        prompt: How did the candidate check whether the company was stable?
+        options:
+          - They read the engineering blog and looked at how long authors had stayed
+          - They asked a recruiter for financial reports
+          - They spoke to a former employee
+          - They compared salaries with competitors
+        answer: They read the engineering blog and looked at how long authors had stayed
+        explanationVi: '"I looked at the engineering blog before I applied, and at how long the people
+          writing it had been here."'
+      - type: MCQ
+        prompt: What does the interviewer suggest at the end?
+        options:
+          - Moving on to the technical part and returning to the topic later
+          - Ending the interview early
+          - Bringing in another interviewer
+          - Discussing salary immediately
+        answer: Moving on to the technical part and returning to the topic later
+        explanationVi: "\"We'll come back to that at the end ... Shall we start with the technical part?\""
+      - type: TRUE_FALSE
+        prompt: Đúng hay sai theo đoạn phỏng vấn?
+        statement: The candidate says freelance work paid badly.
+        answer: false
+        explanationVi: Sai. Ứng viên nói "Freelance work paid well" — vấn đề là phạm vi công việc, không
+          phải thu nhập.
+      - type: TRUE_FALSE
+        prompt: Đúng hay sai theo đoạn phỏng vấn?
+        statement: The interviewer challenges the candidate's reasoning rather than accepting it.
+        answer: true
+        explanationVi: Đúng. "Let me push on it though" — người phỏng vấn phản biện bằng việc chỉ ra startup
+          cũng kết thúc nhanh.
+      - type: SHORT_ANSWER
+        prompt: What was the average time the blog authors had stayed at the company?
+        accept:
+          - four years
+          - about four years
+          - 4 years
+          - four
+        explanationVi: '"the average was about four years".'
+  - slug: why-we-forget-what-we-learn
+    title: Why We Forget What We Learn
+    titleVi: Vì sao ta quên những gì đã học
+    topic: education
+    accent: UK
+    format: podcast
+    speakerCount: 1
+    glossary:
+      - revision
+      - memorise
+      - research
+      - analyse
+    segments:
+      - speaker: Host
+        text: If you have ever studied hard for an exam and forgotten everything a week later, you are not
+          lazy. You are normal.
+        vi: Nếu bạn từng học rất chăm cho một kỳ thi rồi một tuần sau quên sạch, bạn không lười đâu. Bạn
+          bình thường thôi.
+      - speaker: Host
+        text: In the eighteen eighties a German researcher named Hermann Ebbinghaus tested this on himself.
+        vi: Vào những năm 1880, một nhà nghiên cứu người Đức tên Hermann Ebbinghaus đã tự thử nghiệm điều
+          này trên chính mình.
+      - speaker: Host
+        text: He memorised lists of meaningless syllables, then measured how much he could recall over the
+          following days.
+        vi: Ông học thuộc các danh sách âm tiết vô nghĩa, rồi đo xem những ngày sau còn nhớ được bao nhiêu.
+      - speaker: Host
+        text: What he found is now called the forgetting curve, and it is steeper than most people expect.
+        vi: Điều ông tìm ra nay gọi là đường cong quên lãng, và nó dốc hơn hầu hết mọi người tưởng.
+      - speaker: Host
+        text: Within twenty-four hours he had lost roughly half of what he learned. Within a week, close to
+          eighty percent.
+        vi: Trong vòng hai mươi bốn giờ, ông mất khoảng một nửa những gì đã học. Trong một tuần, gần tám
+          mươi phần trăm.
+      - speaker: Host
+        text: But there was a second finding, and it matters more than the first.
+        vi: Nhưng còn một phát hiện thứ hai, và nó quan trọng hơn phát hiện đầu.
+      - speaker: Host
+        text: Each time he reviewed the same list, the curve became flatter. Forgetting slowed down.
+        vi: Mỗi lần ông ôn lại cùng danh sách đó, đường cong lại thoải ra. Việc quên chậm lại.
+      - speaker: Host
+        text: The lesson is not that repetition works. Everybody knows that. It is that the timing of
+          repetition matters more than the amount.
+        vi: Bài học không phải là lặp lại thì có ích. Ai cũng biết rồi. Mà là thời điểm lặp lại quan trọng
+          hơn số lần lặp.
+      - speaker: Host
+        text: Reviewing something just as you are about to forget it is far more effective than reviewing it
+          while you still remember it well.
+        vi: Ôn lại đúng lúc sắp quên hiệu quả hơn nhiều so với ôn khi vẫn còn nhớ rõ.
+      - speaker: Host
+        text: Which is an uncomfortable conclusion, because it means the study session that feels easiest is
+          usually the one teaching you least.
+        vi: Đó là một kết luận khó chịu, vì nó có nghĩa buổi học nào thấy dễ nhất thường là buổi dạy bạn
+          được ít nhất.
+    dictation:
+      - 5
+      - 7
+      - 9
+    questions:
+      - type: MCQ
+        prompt: What did Ebbinghaus memorise in his experiment?
+        options:
+          - Lists of meaningless syllables
+          - Poems in German
+          - Lists of foreign words
+          - Mathematical formulas
+        answer: Lists of meaningless syllables
+        explanationVi: '"He memorised lists of meaningless syllables".'
+      - type: MCQ
+        prompt: According to the podcast, roughly how much was forgotten within a week?
+        options:
+          - Eighty percent
+          - Half
+          - A third
+          - Twenty percent
+        answer: Eighty percent
+        explanationVi: '"Within a week, close to eighty percent." Một nửa là con số của hai mươi bốn giờ đầu.'
+      - type: MCQ
+        prompt: What does the host say matters most about repetition?
+        options:
+          - When you repeat, not how much
+          - How much you repeat
+          - Where you study
+          - How long each session is
+        answer: When you repeat, not how much
+        explanationVi: '"the timing of repetition matters more than the amount".'
+      - type: TRUE_FALSE
+        prompt: Đúng hay sai theo bài nghe?
+        statement: The host says a study session that feels easy is usually the most effective one.
+        answer: false
+        explanationVi: Ngược lại. Người dẫn nói buổi học thấy dễ nhất thường là buổi dạy được ít nhất.
+      - type: TRUE_FALSE
+        prompt: Đúng hay sai theo bài nghe?
+        statement: Reviewing made the forgetting curve flatter each time.
+        answer: true
+        explanationVi: '"Each time he reviewed the same list, the curve became flatter."'
+      - type: SHORT_ANSWER
+        prompt: What is the curve Ebbinghaus discovered called?
+        accept:
+          - the forgetting curve
+          - forgetting curve
+        explanationVi: '"What he found is now called the forgetting curve".'
+  - slug: negotiating-a-project-deadline
+    title: Negotiating a Project Deadline
+    titleVi: Thương lượng hạn chót dự án
+    topic: work
+    accent: UK
+    format: dialogue
+    speakerCount: 2
+    glossary: []
+    segments:
+      - speaker: Mark
+        text: Sarah, do you have a few minutes to discuss the timeline for the Apex marketing campaign?
+        vi: Sarah, bạn có vài phút để thảo luận về tiến độ của chiến dịch tiếp thị Apex không?
+      - speaker: Sarah
+        text: Of course, Mark. I was actually going to bring that up. We need the final deliverables by this
+          Friday.
+        vi: Chắc chắn rồi, Mark. Tôi thực ra cũng định nhắc đến chuyện đó. Chúng ta cần các sản phẩm bàn
+          giao cuối cùng vào thứ Sáu tuần này.
+      - speaker: Mark
+        text: To be completely honest, Friday is going to be extremely tight for the design team. We ran
+          into some unexpected rendering issues yesterday.
+        vi: Thành thật mà nói, thứ Sáu sẽ rất gấp đối với đội ngũ thiết kế. Chúng tôi đã gặp một số sự cố
+          kết xuất không mong muốn vào ngày hôm qua.
+      - speaker: Sarah
+        text: I understand technical hiccups happen, but the client explicitly booked the presentation for
+          next Monday morning. We cannot push the main meeting back.
+        vi: Tôi hiểu là trục trặc kỹ thuật có thể xảy ra, nhưng khách hàng đã đặt lịch thuyết trình vào sáng
+          thứ Hai tuần tới một cách rõ ràng. Chúng ta không thể lùi cuộc họp chính lại được.
+      - speaker: Mark
+        text: What if we deliver the core branding assets by Friday, but leave the secondary social media
+          graphics for early next week?
+        vi: Thế nếu chúng ta bàn giao các tài sản thương hiệu cốt lõi trước thứ Sáu, nhưng để lại các đồ họa
+          mạng xã hội phụ vào đầu tuần tới thì sao?
+      - speaker: Sarah
+        text: That partially helps, but the client wants to review everything together before the weekend so
+          they can prepare their board notes.
+        vi: Điều đó giúp ích phần nào, nhưng khách hàng muốn xem xét mọi thứ cùng nhau trước cuối tuần để họ
+          có thể chuẩn bị ghi chú cho ban quản trị.
+      - speaker: Mark
+        text: We could pull in two freelance designers from the London office to speed up the secondary
+          graphics tonight. Would that bridge the gap?
+        vi: Chúng ta có thể huy động hai nhà thiết kế tự do từ văn phòng Luân Đôn để đẩy nhanh tiến độ đồ
+          họa phụ vào tối nay. Điều đó có thu hẹp khoảng cách được không?
+      - speaker: Sarah
+        text: That would definitely relieve the pressure. Can you guarantee those freelancers will start
+          immediately and finish by Thursday evening?
+        vi: Điều đó chắc chắn sẽ giảm bớt áp lực. Anh có thể đảm bảo những người làm tự do đó sẽ bắt đầu
+          ngay lập tức và hoàn thành trước tối thứ Năm không?
+      - speaker: Mark
+        text: Yes, I spoke with them this morning. They are available and already familiar with our brand
+          guidelines.
+        vi: Vâng, tôi đã nói chuyện với họ sáng nay. Họ rảnh và đã quen thuộc với hướng dẫn thương hiệu của
+          chúng ta.
+      - speaker: Sarah
+        text: Alright, if you can secure them by noon today, I will agree to a phased delivery where the
+          final review happens at 4 PM on Friday.
+        vi: Được thôi, nếu anh có thể tuyển họ trước trưa nay, tôi sẽ đồng ý giao hàng theo từng giai đoạn,
+          trong đó buổi đánh giá cuối cùng diễn ra vào lúc 4 giờ chiều thứ Sáu.
+      - speaker: Mark
+        text: That sounds fair and achievable. I will send over the contracts and briefing notes right away.
+        vi: Nghe có vẻ công bằng và có thể đạt được. Tôi sẽ gửi hợp đồng và ghi chú tóm tắt ngay lập tức.
+      - speaker: Sarah
+        text: Perfect. Let's touch base tomorrow morning to confirm everything is on track.
+        vi: Hoàn hảo. Chúng ta hãy liên lạc vào sáng mai để xác nhận mọi thứ vẫn đúng tiến độ.
+    dictation:
+      - 3
+      - 6
+      - 9
+      - 11
+    questions:
+      - type: MCQ
+        prompt: What is the main deadline issue discussed in the conversation?
+        promptVi: Vấn đề hạn chót chính được thảo luận trong cuộc trò chuyện là gì?
+        options:
+          - A) The client moved the meeting to Wednesday
+          - B) The design team faces tight deadlines for Friday
+          - C) The London office is closed
+          - D) The freelancers quit
+        answer: B) The design team faces tight deadlines for Friday
+        explanationVi: Đoạn hội thoại nêu rõ Mark cho biết thứ Sáu sẽ rất gấp đối với đội ngũ thiết kế do sự
+          cố kỹ thuật.
+      - type: MCQ
+        prompt: When is the client's presentation scheduled?
+        promptVi: Buổi thuyết trình của khách hàng được lên lịch vào lúc nào?
+        options:
+          - A) Next Monday morning
+          - B) This Friday afternoon
+          - C) Next Thursday evening
+          - D) Tomorrow morning
+        answer: A) Next Monday morning
+        explanationVi: Sarah xác nhận rằng khách hàng đã đặt lịch thuyết trình vào sáng thứ Hai tuần tới.
+      - type: MCQ
+        prompt: How many freelance designers does Mark propose to bring in?
+        promptVi: Mark đề xuất huy động bao nhiêu nhà thiết kế tự do?
+        options:
+          - A) One
+          - B) Two
+          - C) Three
+          - D) Four
+        answer: B) Two
+        explanationVi: Mark đề xuất huy động hai nhà thiết kế tự do từ văn phòng Luân Đôn.
+      - type: MCQ
+        prompt: At what time will the final review happen on Friday according to the agreement?
+        promptVi: Theo thỏa thuận, buổi đánh giá cuối cùng vào thứ Sáu sẽ diễn ra vào lúc mấy giờ?
+        options:
+          - A) 9 AM
+          - B) 12 PM
+          - C) 4 PM
+          - D) 5 PM
+        answer: C) 4 PM
+        explanationVi: Sarah đồng ý buổi đánh giá cuối cùng diễn ra lúc 4 giờ chiều thứ Sáu.
+      - type: TRUE_FALSE
+        prompt: Mark and Sarah agree to postpone the client presentation to next week.
+        promptVi: Mark và Sarah đồng ý hoãn buổi thuyết trình với khách hàng sang tuần sau.
+        answer: false
+        explanationVi: Sarah khẳng định không thể lùi cuộc họp chính vì khách hàng đã đặt lịch vào sáng thứ Hai.
+        statement: Mark and Sarah agree to postpone the client presentation to next week.
+      - type: TRUE_FALSE
+        prompt: The freelance designers are already familiar with the company's brand guidelines.
+        promptVi: Các nhà thiết kế tự do đã quen thuộc với các hướng dẫn thương hiệu của công ty.
+        answer: true
+        explanationVi: Mark xác nhận rằng họ rảnh và đã quen thuộc với hướng dẫn thương hiệu của chúng ta.
+        statement: The freelance designers are already familiar with the company's brand guidelines.
+      - type: SHORT_ANSWER
+        prompt: Which city is the support office located in?
+        promptVi: Văn phòng hỗ trợ nằm ở thành phố nào?
+        accept:
+          - London
+          - Luân Đôn
+        explanationVi: Mark đề cập đến việc huy động nhà thiết kế tự do từ văn phòng Luân Đôn.
+      - type: SHORT_ANSWER
+        prompt: By what time today must Mark secure the freelancers?
+        promptVi: Hôm nay Mark phải xác nhận thuê được các nhà thiết kế tự do trước mấy giờ?
+        accept:
+          - noon
+          - by noon
+          - "12"
+          - 12 pm
+          - 12 p.m.
+          - 12:00
+          - 12:00 pm
+          - twelve noon
+          - midday
+        explanationVi: Sarah nói nếu Mark xác nhận thuê được họ trước trưa hôm nay (by noon today), cô sẽ
+          đồng ý với phương án bàn giao.
+  - slug: debating-a-car-free-city-centre
+    title: Debating a Car-Free City Centre
+    titleVi: Tranh luận về khu trung tâm thành phố không có ô tô
+    topic: environment
+    accent: US
+    format: dialogue
+    speakerCount: 2
+    glossary: []
+    segments:
+      - speaker: David
+        text: Elena, have you looked at the city council's new proposal to make the entire downtown area
+          car-free by next year?
+        vi: Elena, bạn đã xem đề xuất mới của hội đồng thành phố về việc biến toàn bộ khu vực trung tâm
+          thành phố thành khu vực không có ô tô vào năm tới chưa?
+      - speaker: Elena
+        text: Yes, I have, David. While I support better air quality, I am really concerned about how local
+          retail shops will survive without drive-by customers.
+        vi: Rồi, David ạ. Mặc dù tôi ủng hộ chất lượng không khí tốt hơn, nhưng tôi thực sự lo lắng về cách
+          các cửa hàng bán lẻ địa phương sẽ sống sót nếu không có khách hàng lái xe ghé qua.
+      - speaker: David
+        text: The council's draft forecast suggests that pedestrian zones could increase local foot traffic
+          and spending by up to thirty percent. That is an estimate, rather than a result measured
+          here.
+        vi: Bản dự báo dự thảo của hội đồng cho rằng khu đi bộ có thể tăng lượng người đi bộ và chi tiêu tại
+          địa phương lên tới 30%. Đó là con số ước tính, chưa phải kết quả đo được ở đây.
+      - speaker: Elena
+        text: That sounds promising in theory, but our public transit network is still limited. I would want
+          to see the assumptions behind that forecast.
+        vi: Về lý thuyết thì có triển vọng, nhưng mạng lưới giao thông công cộng của chúng ta vẫn hạn chế.
+          Tôi muốn xem những giả định làm cơ sở cho dự báo đó.
+      - speaker: David
+        text: That is a fair point. The council is planning to add ten new electric bus routes and
+          subsidized bike-sharing stations before the ban takes effect.
+        vi: Đó là một ý kiến hợp lý. Hội đồng đang có kế hoạch bổ sung mười tuyến xe buýt điện mới và các
+          trạm chia sẻ xe đạp được trợ giá trước khi lệnh cấm có hiệu lực.
+      - speaker: Elena
+        text: Ten routes might not be enough for commuters coming from the eastern suburbs. What about
+          delivery trucks servicing restaurants and supermarkets?
+        vi: Mười tuyến có thể không đủ cho những người đi làm đến từ các vùng ngoại ô phía đông. Còn những
+          chiếc xe tải giao hàng phục vụ nhà hàng và siêu thị thì sao?
+      - speaker: David
+        text: Commercial deliveries would still be permitted during designated early morning hours, between
+          four and seven AM.
+        vi: Việc giao hàng thương mại vẫn sẽ được phép trong khung giờ sáng sớm được chỉ định, từ bốn đến
+          bảy giờ sáng.
+      - speaker: Elena
+        text: Four to seven is awfully early for small boutique owners to receive stock and manage inventory
+          before opening.
+        vi: Từ bốn đến bảy giờ là quá sớm để các chủ cửa hàng nhỏ nhận hàng và quản lý kho trước khi mở cửa.
+      - speaker: David
+        text: Perhaps the window could be extended until nine AM, or restricted loading bays could be
+          installed on the outer edges.
+        vi: Có lẽ khoảng thời gian này có thể kéo dài đến 9 giờ sáng, hoặc các khu vực bốc dỡ hàng hóa hạn
+          chế có thể được lắp đặt ở rìa ngoài.
+      - speaker: Elena
+        text: Extending it to nine AM would make a huge difference for small businesses. If they make that
+          adjustment, I would back the initiative.
+        vi: Kéo dài đến 9 giờ sáng sẽ tạo ra sự khác biệt lớn cho các doanh nghiệp nhỏ. Nếu họ điều chỉnh
+          đó, tôi sẽ ủng hộ sáng kiến này.
+      - speaker: David
+        text: Excellent. I am attending the public hearing on Thursday, so I will voice support for that
+          specific compromise.
+        vi: Tuyệt vời. Tôi sẽ tham dự phiên điều trần công khai vào thứ Năm, vì vậy tôi sẽ lên tiếng ủng hộ
+          thỏa hiệp cụ thể đó.
+      - speaker: Elena
+        text: Thank you, David. Let's write a joint letter to the council member representing our district
+          as well.
+        vi: Cảm ơn bạn, David. Chúng ta cũng hãy viết một bức thư chung gửi cho ủy viên hội đồng đại diện
+          cho quận của chúng ta nhé.
+    dictation:
+      - 2
+      - 5
+      - 8
+      - 10
+    questions:
+      - type: MCQ
+        prompt: What is the main topic of discussion between David and Elena?
+        promptVi: Chủ đề thảo luận chính giữa David và Elena là gì?
+        options:
+          - A) Building a new subway station
+          - B) Making the downtown area car-free
+          - C) Increasing parking fees
+          - D) Opening a new park
+        answer: B) Making the downtown area car-free
+        explanationVi: Cuộc thảo luận tập trung vào đề xuất của hội đồng thành phố về việc biến toàn bộ khu
+          vực trung tâm thành khu vực không có ô tô.
+      - type: MCQ
+        prompt: What maximum increase in foot traffic and spending does the council's draft forecast
+          suggest?
+        promptVi: Bản dự báo dự thảo của hội đồng ước tính lượng người đi bộ và chi tiêu có thể tăng tối đa
+          bao nhiêu?
+        options:
+          - A) Ten percent
+          - B) Twenty percent
+          - C) Thirty percent
+          - D) Fifty percent
+        answer: C) Thirty percent
+        explanationVi: David nhắc mức tăng ước tính tối đa là 30%, đồng thời nói rõ đây chưa phải kết quả
+          được đo tại địa phương.
+      - type: MCQ
+        prompt: How many new electric bus routes are planned by the council?
+        promptVi: Hội đồng thành phố lên kế hoạch bổ sung bao nhiêu tuyến xe buýt điện mới?
+        options:
+          - A) Five
+          - B) Ten
+          - C) Fifteen
+          - D) Twenty
+        answer: B) Ten
+        explanationVi: David cho biết hội đồng đang lên kế hoạch bổ sung mười tuyến xe buýt điện mới.
+      - type: MCQ
+        prompt: Which proposed change to delivery hours would make Elena support the plan?
+        promptVi: Thay đổi nào về giờ giao hàng sẽ khiến Elena ủng hộ kế hoạch?
+        options:
+          - A) Extend delivery hours until 9 AM
+          - B) Allow deliveries all day
+          - C) Move deliveries to the evening
+          - D) Restrict deliveries to weekends
+        answer: A) Extend delivery hours until 9 AM
+        explanationVi: Elena đề xuất kéo dài thời gian giao hàng đến 9 giờ sáng để giúp ích cho các doanh
+          nghiệp nhỏ.
+      - type: TRUE_FALSE
+        prompt: Elena completely opposes any form of pedestrian zone in the city.
+        promptVi: Elena hoàn toàn phản đối mọi hình thức khu vực dành cho người đi bộ trong thành phố.
+        answer: false
+        explanationVi: Elena bày tỏ sự ủng hộ đối với chất lượng không khí tốt hơn nhưng lo lắng về các cửa
+          hàng bán lẻ và việc giao hàng.
+        statement: Elena completely opposes any form of pedestrian zone in the city.
+      - type: TRUE_FALSE
+        prompt: David plans to attend the public hearing on Thursday.
+        promptVi: David dự định tham dự phiên điều trần công khai vào thứ Năm.
+        answer: true
+        explanationVi: David xác nhận anh sẽ tham dự phiên điều trần công khai vào thứ Năm.
+        statement: David plans to attend the public hearing on Thursday.
+      - type: SHORT_ANSWER
+        prompt: From which part of the city do the commuters Elena mentions travel? Give the two-word
+          phrase.
+        promptVi: Những người đi làm mà Elena nhắc đến xuất phát từ khu vực nào của thành phố? Viết cụm hai
+          từ.
+        accept:
+          - eastern suburbs
+          - the eastern suburbs
+        explanationVi: Elena lo mười tuyến mới chưa đủ cho người đi làm từ eastern suburbs, tức vùng ngoại ô
+          phía đông.
+      - type: SHORT_ANSWER
+        prompt: On what day is the public hearing taking place?
+        promptVi: Phiên điều trần công khai diễn ra vào ngày nào trong tuần?
+        accept:
+          - Thursday
+          - on Thursday
+        explanationVi: David nói anh sẽ tham dự phiên điều trần công khai vào thứ Năm.
+  - slug: discussing-digital-privacy-at-work
+    title: Discussing Digital Privacy at Work
+    titleVi: Thảo luận về quyền riêng tư kỹ thuật số tại nơi làm việc
+    topic: technology
+    accent: US
+    format: dialogue
+    speakerCount: 2
+    glossary: []
+    segments:
+      - speaker: Mark
+        text: Have you seen the new monitoring software the company is installing on our work laptops
+          tomorrow?
+        vi: Bạn đã thấy phần mềm giám sát mới mà công ty cài đặt trên máy tính xách tay công việc của chúng
+          ta vào ngày mai chưa?
+      - speaker: Sarah
+        text: Yes, I got the memo this morning. Honestly, I'm quite concerned about how much data they will
+          be collecting on our daily activity.
+        vi: Rồi, tôi nhận được thông báo sáng nay. Thành thật mà nói, tôi khá lo lắng về lượng dữ liệu họ sẽ
+          thu thập về hoạt động hàng ngày của chúng ta.
+      - speaker: Mark
+        text: Management claims it is strictly for productivity analysis and security enhancement, but it
+          feels like an overreach into personal boundaries.
+        vi: Ban quản lý tuyên bố nó hoàn toàn dùng để phân tích năng suất và tăng cường bảo mật, nhưng có
+          cảm giác như sự vượt quyền xâm phạm ranh giới cá nhân.
+      - speaker: Sarah
+        text: Exactly. While I understand they need to protect proprietary information, logging keystrokes
+          and taking random screenshots goes far beyond standard network security.
+        vi: Chính xác. Mặc dù tôi hiểu họ cần bảo vệ thông tin độc quyền, việc ghi lại thao tác phím và chụp
+          ảnh màn hình ngẫu nhiên vượt xa bảo mật mạng tiêu chuẩn.
+      - speaker: Mark
+        text: On the other hand, the IT director mentioned during the briefing that personal browsing during
+          work hours has increased significantly this quarter.
+        vi: Mặt khác, giám đốc CNTT nói trong buổi trao đổi rằng việc lướt web cho mục đích cá nhân trong
+          giờ làm đã tăng đáng kể trong quý này.
+      - speaker: Sarah
+        text: That might be true for some departments, but penalizing everyone for a few exceptions is
+          unfair. What about checking a personal banking app during a break?
+        vi: Điều đó có thể đúng với một số phòng ban, nhưng việc phạt tất cả mọi người vì một vài ngoại lệ
+          là không công bằng. Còn việc kiểm tra ứng dụng ngân hàng cá nhân trong giờ nghỉ thì sao?
+      - speaker: Mark
+        text: The policy document states that personal tabs can be kept open as long as they don't interfere
+          with core tasks, though the software itself doesn't automatically filter out private data.
+        vi: Tài liệu chính sách nêu rõ rằng các tab cá nhân có thể được mở miễn là chúng không cản trở các
+          nhiệm vụ cốt lõi, mặc dù bản thân phần mềm không tự động lọc dữ liệu riêng tư.
+      - speaker: Sarah
+        text: That lack of automated filtering is precisely my main reservation. It creates a massive
+          security liability on our end if private credentials get captured.
+        vi: Việc thiếu bộ lọc tự động chính là điều tôi băn khoăn nhất. Nếu thông tin đăng nhập cá nhân bị
+          ghi lại, chúng ta sẽ đối mặt với rủi ro bảo mật rất lớn.
+      - speaker: Mark
+        text: We do have the option to log out of personal accounts entirely and use our smartphones for any
+          urgent private matters during the day.
+        vi: Chúng ta có tùy chọn đăng xuất hoàn toàn khỏi các tài khoản cá nhân và sử dụng điện thoại thông
+          minh cho bất kỳ việc riêng khẩn cấp nào trong ngày.
+      - speaker: Sarah
+        text: True, but relying on a workaround shouldn't be necessary if the core monitoring tool was
+          designed with employee privacy in mind.
+        vi: Đúng vậy, nhưng việc dựa vào giải pháp tạm thời lẽ ra không cần thiết nếu công cụ giám sát chính
+          được thiết kế với sự tôn trọng quyền riêng tư của nhân viên.
+      - speaker: Mark
+        text: Perhaps we can draft a formal request asking HR to clarify how long this collected data is
+          retained before deletion.
+        vi: Có lẽ chúng ta có thể soạn thảo một yêu cầu chính thức đề nghị nhân sự làm rõ thời gian lưu giữ
+          dữ liệu được thu thập này trước khi xóa.
+      - speaker: Sarah
+        text: That sounds like a constructive step forward. Let's write up a shared proposal and discuss it
+          with the team leads this afternoon.
+        vi: Nghe có vẻ là một bước tiến mang tính xây dựng. Hãy cùng viết một bản đề xuất chung và thảo luận
+          với các trưởng nhóm vào chiều nay.
+    dictation:
+      - 2
+      - 4
+      - 8
+      - 12
+    questions:
+      - type: MCQ
+        prompt: When is the company installing the new monitoring software?
+        promptVi: Công ty lắp đặt phần mềm giám sát mới khi nào?
+        options:
+          - Next week
+          - Tomorrow
+          - This morning
+          - Next month
+        answer: Tomorrow
+        explanationVi: Trong đoạn đầu tiên, Mark hỏi Sarah về phần mềm giám sát mà công ty sẽ cài đặt vào
+          ngày mai ('tomorrow').
+      - type: MCQ
+        prompt: What reason does management give for installing the software?
+        promptVi: Ban quản lý đưa ra lý do gì để cài đặt phần mềm?
+        options:
+          - Cost reduction and efficiency
+          - Productivity analysis and security enhancement
+          - Employee performance tracking for bonuses
+          - Remote work compliance
+        answer: Productivity analysis and security enhancement
+        explanationVi: Mark nêu rõ ban quản lý tuyên bố phần mềm dùng cho việc phân tích năng suất và tăng
+          cường bảo mật ('productivity analysis and security enhancement').
+      - type: MCQ
+        prompt: According to the IT director, what has increased significantly this quarter?
+        promptVi: Theo giám đốc CNTT, điều gì đã tăng lên đáng kể trong quý này?
+        options:
+          - Personal browsing during work hours
+          - Overtime hours requested by staff
+          - Software license complaints
+          - Network security breaches
+        answer: Personal browsing during work hours
+        explanationVi: Mark đề cập rằng giám đốc CNTT lưu ý việc lướt web cá nhân trong giờ làm việc đã tăng
+          đáng kể trong quý này.
+      - type: MCQ
+        prompt: What final action do Mark and Sarah decide to take?
+        promptVi: Hành động cuối cùng nào mà Mark và Sarah quyết định thực hiện?
+        options:
+          - Resign from their positions
+          - Ignore the software installation
+          - Write a shared proposal for team leads
+          - File a lawsuit against HR
+        answer: Write a shared proposal for team leads
+        explanationVi: Ở lượt cuối, Sarah đề nghị viết một bản đề xuất chung và thảo luận với các trưởng
+          nhóm vào chiều nay.
+      - type: TRUE_FALSE
+        prompt: Sarah received the memo regarding the monitoring software this morning.
+        promptVi: Sarah đã nhận được thông báo về phần mềm giám sát vào sáng nay.
+        answer: true
+        explanationVi: Sarah xác nhận cô đã nhận được thông báo vào sáng nay ('memo this morning') ở lượt thứ hai.
+        statement: Sarah received the memo regarding the monitoring software this morning.
+      - type: TRUE_FALSE
+        prompt: The monitoring software automatically filters out private data to protect employees.
+        promptVi: Phần mềm giám sát tự động lọc dữ liệu riêng tư để bảo vệ nhân viên.
+        answer: false
+        explanationVi: Mark thừa nhận rằng bản thân phần mềm không tự động lọc dữ liệu riêng tư ('doesn't
+          automatically filter out private data').
+        statement: The monitoring software automatically filters out private data to protect employees.
+      - type: SHORT_ANSWER
+        prompt: Whom do Mark and Sarah plan to talk to this afternoon?
+        promptVi: Mark và Sarah dự định nói chuyện với ai vào chiều nay?
+        accept:
+          - team leads
+          - The team leads
+          - team leaders
+        explanationVi: Sarah đề xuất thảo luận bản đề xuất với các trưởng nhóm ('team leads') vào chiều nay.
+      - type: SHORT_ANSWER
+        prompt: What specific device do Mark and Sarah suggest using for urgent private matters?
+        promptVi: Thiết bị cụ thể nào mà Mark và Sarah đề xuất sử dụng cho các việc riêng khẩn cấp?
+        accept:
+          - smartphones
+          - smartphone
+          - phones
+          - phone
+        explanationVi: Mark đề cập đến việc sử dụng điện thoại thông minh ('smartphones') cho bất kỳ vấn đề
+          riêng tư khẩn cấp nào trong ngày.
+  - slug: evaluating-a-student-research-survey
+    title: Evaluating a Student Research Survey
+    titleVi: Đánh giá một khảo sát nghiên cứu của sinh viên
+    topic: education
+    accent: UK
+    format: dialogue
+    speakerCount: 2
+    glossary: []
+    segments:
+      - speaker: Dr. Evans
+        text: Come in, Alex. I have looked over the draft of your undergraduate research survey on campus
+          study habits.
+        vi: Vào đi, Alex. Tôi đã xem qua bản nháp khảo sát nghiên cứu bậc đại học của bạn về thói quen học
+          tập trong khuôn viên trường.
+      - speaker: Alex
+        text: Thank you, Dr. Evans. I am quite anxious to hear your feedback before I release the
+          questionnaire to the student body.
+        vi: Cảm ơn thầy, Tiến sĩ Evans. Em rất mong được nghe nhận xét của thầy trước khi phát hành bảng hỏi
+          cho sinh viên toàn trường.
+      - speaker: Dr. Evans
+        text: Your research question is useful, but your sampling plan is too narrow to represent study
+          habits across the college.
+        vi: Câu hỏi nghiên cứu của em có ích, nhưng kế hoạch chọn mẫu quá hẹp để phản ánh thói quen học tập
+          của toàn trường.
+      - speaker: Alex
+        text: I initially planned to survey only final-year biology majors, believing it would keep the data
+          focused and manageable.
+        vi: Ban đầu em dự định chỉ khảo sát sinh viên năm cuối chuyên ngành sinh học, vì tin rằng nó sẽ giữ
+          cho dữ liệu tập trung và dễ quản lý.
+      - speaker: Dr. Evans
+        text: While manageability is important, restricting it to one single major introduces a severe
+          selection bias. You need cross-departmental representation.
+        vi: Mặc dù tính dễ quản lý là quan trọng, việc giới hạn nó trong một chuyên ngành duy nhất tạo ra sự
+          thiên vị lựa chọn nghiêm trọng. Bạn cần có đại diện liên khoa.
+      - speaker: Alex
+        text: That makes sense. If I expand it to include humanities and engineering students, would a total
+          of two hundred respondents be sufficient?
+        vi: Điều đó hợp lý. Nếu em mở rộng nó để bao gồm sinh viên ngành nhân văn và kỹ thuật, tổng cộng hai
+          trăm người trả lời có đủ không?
+      - speaker: Dr. Evans
+        text: Two hundred is a much healthier target. However, look closely at your question phrasing,
+          particularly question twelve regarding screen time.
+        vi: Hai trăm là mục tiêu khả quan hơn nhiều. Tuy nhiên, hãy xem kỹ cách diễn đạt câu hỏi của bạn,
+          đặc biệt là câu hỏi số mười hai về thời gian sử dụng màn hình.
+      - speaker: Alex
+        text: Is it too ambiguous? I asked students to estimate how many hours they spend studying online
+          daily.
+        vi: Nó quá mơ hồ phải không ạ? Em đã yêu cầu sinh viên ước tính họ dành bao nhiêu giờ học trực tuyến
+          mỗi ngày.
+      - speaker: Dr. Evans
+        text: Exactly. 'Studying' can overlap with casual web browsing or social media use, skewing your
+          metrics completely.
+        vi: Chính xác. 'Học tập' có thể chồng chéo với việc lướt web thông thường hoặc dùng mạng xã hội, làm
+          sai lệch hoàn toàn số liệu của bạn.
+      - speaker: Alex
+        text: I see your point. I should separate academic platform access from general internet usage to
+          keep the variables distinct.
+        vi: Em hiểu ý thầy. Em nên tách việc sử dụng các nền tảng học tập khỏi hoạt động dùng Internet thông
+          thường để các biến số được phân biệt rõ.
+      - speaker: Dr. Evans
+        text: Spot on. Revise those definitions, expand your participant pool, and send me the updated draft
+          by Friday morning.
+        vi: Chuẩn xác. Hãy sửa lại các định nghĩa đó, mở rộng nhóm người tham gia và gửi cho tôi bản nháp
+          cập nhật trước sáng thứ Sáu.
+      - speaker: Alex
+        text: I will make those revisions right away and email you the updated document before the weekend.
+          Thank you for your guidance.
+        vi: Em sẽ thực hiện các chỉnh sửa đó ngay lập tức và gửi email tài liệu cập nhật cho thầy trước cuối
+          tuần. Cảm ơn sự hướng dẫn của thầy.
+    dictation:
+      - 3
+      - 5
+      - 9
+      - 11
+    questions:
+      - type: MCQ
+        prompt: What is the primary topic of Alex's undergraduate research survey?
+        promptVi: Chủ đề chính trong khảo sát nghiên cứu bậc đại học của Alex là gì?
+        options:
+          - Campus housing conditions
+          - Campus study habits
+          - Online exam preferences
+          - Library resource utilization
+        answer: Campus study habits
+        explanationVi: Dr. Evans đề cập rằng khảo sát nghiên cứu nói về thói quen học tập trong khuôn viên
+          trường ('campus study habits').
+      - type: MCQ
+        prompt: Initially, which specific group of students did Alex plan to survey?
+        promptVi: Ban đầu, Alex dự định khảo sát nhóm sinh viên cụ thể nào?
+        options:
+          - Final-year biology majors
+          - First-year engineering students
+          - Humanities postgraduate scholars
+          - All science department undergraduates
+        answer: Final-year biology majors
+        explanationVi: Alex giải thích ban đầu dự định chỉ khảo sát sinh viên năm cuối chuyên ngành sinh học
+          ('final-year biology majors').
+      - type: MCQ
+        prompt: What target sample size does Dr. Evans consider much healthier?
+        promptVi: Quy mô mẫu mục tiêu nào mà Tiến sĩ Evans cho là khả quan hơn nhiều?
+        options:
+          - Fifty respondents
+          - One hundred respondents
+          - Two hundred respondents
+          - Five hundred respondents
+        answer: Two hundred respondents
+        explanationVi: Dr. Evans xác nhận hai trăm người trả lời ('two hundred respondents') là mục tiêu tốt hơn.
+      - type: MCQ
+        prompt: According to Dr. Evans, what specific question number has problematic phrasing regarding
+          screen time?
+        promptVi: Theo Tiến sĩ Evans, câu hỏi số mấy có cách diễn đạt có vấn đề về thời gian sử dụng màn
+          hình?
+        options:
+          - Question 8
+          - Question 10
+          - Question 12
+          - Question 15
+        answer: Question 12
+        explanationVi: Dr. Evans bảo Alex xem kỹ câu hỏi số mười hai ('question twelve') về thời gian sử
+          dụng màn hình.
+      - type: TRUE_FALSE
+        prompt: Dr. Evans thinks Alex's initial sampling plan represents students across different
+          departments.
+        promptVi: Thầy Evans cho rằng kế hoạch chọn mẫu ban đầu của Alex đại diện cho sinh viên ở các khoa
+          khác nhau.
+        answer: false
+        explanationVi: Thầy nhận xét kế hoạch quá hẹp vì chỉ chọn sinh viên sinh học năm cuối, nên chưa đại
+          diện cho toàn trường.
+        statement: Dr. Evans thinks Alex's initial sampling plan represents students across different
+          departments.
+      - type: TRUE_FALSE
+        prompt: Alex needs to send the updated draft to Dr. Evans by Friday morning.
+        promptVi: Alex cần gửi bản nháp cập nhật cho Tiến sĩ Evans trước sáng thứ Sáu.
+        answer: true
+        explanationVi: Dr. Evans yêu cầu Alex gửi bản nháp cập nhật trước sáng thứ Sáu ('by Friday morning').
+        statement: Alex needs to send the updated draft to Dr. Evans by Friday morning.
+      - type: SHORT_ANSWER
+        prompt: Which two new student groups does Alex suggest including in the expanded survey?
+        promptVi: Hai nhóm sinh viên mới nào mà Alex đề xuất đưa vào khảo sát mở rộng?
+        accept:
+          - humanities and engineering
+          - humanities and engineering students
+          - engineering and humanities
+          - engineering and humanities students
+        explanationVi: Alex đề xuất mở rộng để bao gồm sinh viên nhân văn và kỹ thuật ('humanities and
+          engineering students').
+      - type: SHORT_ANSWER
+        prompt: What specific term in question twelve does Dr. Evans say can overlap with casual web
+          browsing?
+        promptVi: Thuật ngữ cụ thể nào trong câu hỏi mười hai mà Tiến sĩ Evans nói có thể chồng chéo với
+          việc lướt web thông thường?
+        accept:
+          - Studying
+          - studying
+        explanationVi: Dr. Evans giải thích rằng từ 'Studying' (học tập) có thể chồng chéo với việc lướt web
+          thông thường.
+  - slug: choosing-a-sustainable-travel-policy
+    title: Choosing a Sustainable Travel Policy
+    titleVi: Lựa chọn chính sách du lịch bền vững
+    topic: travel
+    accent: UK
+    format: dialogue
+    speakerCount: 2
+    glossary: []
+    segments:
+      - speaker: Elena
+        text: Mark, we urgently need to finalize our comprehensive corporate business travel policy before
+          the major board meeting scheduled for next Tuesday morning.
+        vi: Mark, chúng ta cần khẩn trương hoàn thiện chính sách đi lại doanh nghiệp toàn diện trước cuộc
+          họp hội đồng quản trị lớn dự kiến vào sáng thứ Ba tuần tới.
+      - speaker: Mark
+        text: Absolutely, Elena. I’ve thoroughly reviewed the preliminary drafts, but I have very serious
+          reservations about completely banning all domestic short-haul flights right away.
+        vi: Chắc chắn rồi, Elena. Tôi đã xem xét kỹ lưỡng các bản thảo sơ bộ, nhưng tôi có những lo ngại rất
+          nghiêm túc về việc cấm hoàn toàn các chuyến bay nội địa chặng ngắn ngay lập tức.
+      - speaker: Elena
+        text: I completely understand that it feels overly restrictive, but our strict corporate carbon
+          reduction targets leave us very little room for negotiation.
+        vi: Tôi hoàn toàn hiểu rằng điều đó có cảm giác quá hạn chế, nhưng các mục tiêu giảm phát thải
+          carbon nghiêm ngặt của công ty để lại cho chúng ta rất ít dư địa để đàm phán.
+      - speaker: Mark
+        text: That is true, yet forcing busy employees to take the train for journeys over four hours will
+          noticeably reduce our weekly operational productivity.
+        vi: Điều đó đúng, nhưng việc ép các nhân viên bận rộn đi tàu cho những chuyến đi kéo dài hơn bốn giờ
+          sẽ làm giảm đáng kể năng suất hoạt động hàng tuần của chúng ta.
+      - speaker: Elena
+        text: "That is a fair point, so perhaps we could offer a practical compromise: allow flights only if
+          the alternative train journey exceeds six hours."
+        vi: "Đó là một ý kiến hợp lý, vì vậy có lẽ chúng ta có thể đưa ra một thỏa hiệp thiết thực: chỉ cho
+          phép đi máy bay nếu hành trình tàu thay thế vượt quá sáu giờ."
+      - speaker: Mark
+        text: Six hours feels significantly more reasonable, though we must also address the budget issue
+          since express rail tickets are frequently much pricier than standard flights.
+        vi: Sáu giờ có vẻ hợp lý hơn đáng kể, mặc dù chúng ta cũng phải giải quyết vấn đề ngân sách vì vé
+          tàu tốc hành thường đắt hơn nhiều so với các chuyến bay tiêu chuẩn.
+      - speaker: Elena
+        text: We can easily offset higher ticket costs by reducing standard hotel allowances slightly for
+          those specific trips. How does that sound to you?
+        vi: Chúng ta có thể dễ dàng bù đắp chi phí vé cao hơn bằng cách giảm nhẹ trợ cấp khách sạn tiêu
+          chuẩn cho những chuyến đi cụ thể đó. Bạn thấy thế nào?
+      - speaker: Mark
+        text: That financial concession works exceptionally well. What about hotel selection itself? Should
+          we mandate eco-certified accommodations exclusively across the board?
+        vi: Sự nhượng bộ tài chính đó hoạt động cực kỳ tốt. Còn về việc lựa chọn khách sạn thì sao? Chúng ta
+          có nên bắt buộc chỉ sử dụng các cơ sở lưu trú đạt chuẩn sinh thái trên toàn bộ hệ thống
+          không?
+      - speaker: Elena
+        text: Ideally, yes, but many regional conference locations lack certified options, so we should make
+          it a strong preference rather than a strict mandate.
+        vi: Về lý thuyết thì có, nhưng nhiều địa điểm hội nghị khu vực thiếu các lựa chọn được chứng nhận,
+          vì vậy chúng ta nên biến nó thành một ưu tiên mạnh mẽ hơn là một lệnh bắt buộc nghiêm
+          ngặt.
+      - speaker: Mark
+        text: Agreed completely. Mandating it outright would create endless administrative friction for our
+          booking coordinators during peak conference seasons.
+        vi: Hoàn toàn đồng ý. Việc bắt buộc ngay lập tức sẽ tạo ra những rắc rối hành chính bất tận cho các
+          điều phối viên đặt phòng của chúng ta trong các mùa hội nghị cao điểm.
+      - speaker: Elena
+        text: Perfect. Let’s officially draft the final policy with the six-hour flight threshold and the
+          preferred eco-hotel guideline clearly included.
+        vi: Tốt rồi. Hãy soạn chính sách cuối cùng, nêu rõ chỉ cho phép bay khi chuyến tàu thay thế kéo dài
+          hơn sáu giờ và ưu tiên khách sạn có chứng nhận sinh thái.
+      - speaker: Mark
+        text: It sounds like a remarkably balanced approach now. I will update the operations manual and
+          circulate the document by tomorrow afternoon.
+        vi: Bây giờ nghe có vẻ là một cách tiếp cận cực kỳ cân bằng. Tôi sẽ cập nhật sổ tay vận hành và lưu
+          hành tài liệu trước chiều mai.
+    dictation:
+      - 2
+      - 5
+      - 8
+      - 11
+    questions:
+      - type: MCQ
+        prompt: What is the main deadline discussed by Elena and Mark?
+        promptVi: Thời hạn chính được Elena và Mark thảo luận là gì?
+        explanationVi: Elena nhắc đến cuộc họp hội đồng quản trị lớn được lên lịch vào sáng thứ Ba tuần tới
+          (next Tuesday morning).
+        options:
+          - Next Monday afternoon
+          - Next Tuesday morning
+          - This Friday evening
+          - Next Wednesday noon
+        answer: Next Tuesday morning
+      - type: MCQ
+        prompt: What is Mark's initial concern about travel?
+        promptVi: Mối quan ngại ban đầu của Mark về việc đi lại là gì?
+        explanationVi: Mark bày tỏ sự lo ngại về việc cấm hoàn toàn tất cả các chuyến bay nội địa chặng ngắn
+          (banning all domestic short-haul flights).
+        options:
+          - Hotel costs
+          - Train ticket availability
+          - Banning domestic short-haul flights
+          - Carbon emissions reporting
+        answer: Banning domestic short-haul flights
+      - type: MCQ
+        prompt: What is the agreed time threshold for allowing flights instead of trains?
+        promptVi: Ngưỡng thời gian được thỏa thuận để cho phép đi máy bay thay vì đi tàu là bao lâu?
+        explanationVi: Họ đồng ý cho phép đi máy bay nếu hành trình tàu thay thế vượt quá sáu giờ (exceeds
+          six hours).
+        options:
+          - Two hours
+          - Four hours
+          - Six hours
+          - Eight hours
+        answer: Six hours
+      - type: MCQ
+        prompt: How do they plan to offset higher train ticket expenses?
+        promptVi: Họ dự định bù đắp chi phí vé tàu cao hơn bằng cách nào?
+        explanationVi: Elena đề xuất bù đắp bằng cách giảm nhẹ trợ cấp khách sạn tiêu chuẩn (reducing
+          standard hotel allowances slightly).
+        options:
+          - Reducing standard hotel allowances slightly
+          - Cutting conference budgets
+          - Increasing employee salaries
+          - Canceling other trips
+        answer: Reducing standard hotel allowances slightly
+      - type: TRUE_FALSE
+        prompt: Elena suggests making eco-certified accommodations a strict mandatory rule without
+          exceptions.
+        promptVi: Elena đề xuất biến các cơ sở lưu trú đạt chuẩn sinh thái thành quy định bắt buộc nghiêm
+          ngặt không ngoại lệ.
+        explanationVi: Sai, vì Elena cho rằng nhiều nơi không có lựa chọn được chứng nhận, nên họ chỉ nên
+          coi đó là ưu tiên mạnh mẽ chứ không phải bắt buộc nghiêm ngặt.
+        statement: Elena suggests making eco-certified accommodations a strict mandatory rule without
+          exceptions.
+        answer: false
+      - type: TRUE_FALSE
+        prompt: Mark agrees to update the operations manual and circulate the document by tomorrow
+          afternoon.
+        promptVi: Mark đồng ý cập nhật sổ tay vận hành và lưu hành tài liệu trước chiều mai.
+        explanationVi: Đúng, Mark khẳng định anh ấy sẽ cập nhật sổ tay và lưu hành tài liệu vào chiều hôm
+          sau ở lượt nói cuối cùng.
+        statement: Mark agrees to update the operations manual and circulate the document by tomorrow
+          afternoon.
+        answer: true
+      - type: SHORT_ANSWER
+        prompt: Who is responsible for updating the operations manual?
+        promptVi: Ai chịu trách nhiệm cập nhật sổ tay vận hành?
+        explanationVi: Mark là người nói rằng anh ấy sẽ cập nhật sổ tay vận hành.
+        accept:
+          - Mark
+      - type: SHORT_ANSWER
+        prompt: What type of accommodation does the policy strongly prefer?
+        promptVi: Chính sách ưu tiên mạnh mẽ loại hình chỗ ở nào?
+        explanationVi: Chính sách hướng tới các cơ sở lưu trú đạt chuẩn sinh thái (eco-certified
+          accommodations/hotels).
+        accept:
+          - eco-certified accommodations
+          - eco-certified hotels
+          - eco-certified
+          - eco hotel
+  - slug: planning-an-accessible-museum-exhibition
+    title: Planning an Accessible Museum Exhibition
+    titleVi: Lập kế hoạch cho một triển lãm bảo tàng dễ tiếp cận
+    topic: education
+    accent: US
+    format: dialogue
+    speakerCount: 2
+    glossary: []
+    segments:
+      - speaker: Sarah
+        text: David, we need to review the layout plans for our upcoming modern art exhibition to ensure
+          full accessibility for everyone.
+        vi: David, chúng ta cần xem xét các bản vẽ bố trí cho triển lãm nghệ thuật hiện đại sắp tới để đảm
+          bảo khả năng tiếp cận đầy đủ cho mọi người.
+      - speaker: David
+        text: Thanks for scheduling this, Sarah. I checked the current blueprints, and honestly, the spacing
+          between display pedestals is far too narrow for wheelchairs.
+        vi: Cảm ơn vì đã sắp xếp việc này, Sarah. Tôi đã kiểm tra bản thiết kế hiện tại, và thành thật mà
+          nói, khoảng cách giữa các bục trưng bày quá hẹp đối với xe lăn.
+      - speaker: Sarah
+        text: I was afraid you might say that, but the gallery space is quite limited, and we have nearly
+          eighty distinct pieces to exhibit.
+        vi: Tôi đã sợ bạn sẽ nói thế, nhưng không gian phòng trưng bày khá hạn chế và chúng ta có gần tám
+          mươi tác phẩm riêng biệt để trưng bày.
+      - speaker: David
+        text: I recognize space is at a premium, but compliance with disability standards isn't optional; we
+          must widen those main pathways.
+        vi: Tôi nhận thấy không gian rất quý giá, nhưng việc tuân thủ các tiêu chuẩn người khuyết tật không
+          phải là tùy chọn; chúng ta phải mở rộng các lối đi chính đó.
+      - speaker: Sarah
+        text: Fair enough. If we remove the central sculpture installation, that should give us the extra
+          clearance we need without dropping too many artworks.
+        vi: Được rồi. Nếu chúng ta gỡ bỏ cụm tác phẩm điêu khắc ở trung tâm, điều đó sẽ mang lại cho chúng
+          ta khoảng không gian bổ sung cần thiết mà không phải loại bỏ quá nhiều tác phẩm nghệ
+          thuật.
+      - speaker: David
+        text: That compromise preserves the core collection nicely. What about the informational plaques and
+          wall texts? Are they mounted at a proper height?
+        vi: Thỏa hiệp đó giữ lại bộ sưu tập cốt lõi rất tốt. Còn về các bảng thông tin và văn bản trên tường
+          thì sao? Chúng có được gắn ở độ cao phù hợp không?
+      - speaker: Sarah
+        text: They are currently at standard eye level, which I thought was correct, though I realize now it
+          might exclude children and seated visitors.
+        vi: Chúng hiện đang ở tầm mắt tiêu chuẩn, điều mà tôi nghĩ là đúng, mặc dù bây giờ tôi nhận ra nó có
+          thể loại trừ trẻ em và khách tham quan ngồi xe lăn.
+      - speaker: David
+        text: Exactly. We should lower them slightly and also provide high-contrast large print versions for
+          visually impaired attendees near every major display.
+        vi: Đúng vậy. Chúng ta nên hạ chúng xuống một chút, đồng thời đặt các bản chữ lớn có độ tương phản
+          cao gần mỗi khu trưng bày chính để hỗ trợ khách có thị lực kém.
+      - speaker: Sarah
+        text: That makes complete sense. We can print those booklets in-house to keep within our very tight
+          department budget constraints.
+        vi: Điều đó hoàn toàn có lý. Chúng ta có thể tự in những cuốn sách nhỏ đó trong nội bộ để nằm trong
+          hạn mức ngân sách phòng ban rất chặt chẽ của chúng ta.
+      - speaker: David
+        text: Excellent. Finally, have we arranged sign language interpretation for the opening night gala
+          and the weekend guided tours?
+        vi: Tuyệt vời. Cuối cùng, chúng ta đã sắp xếp phiên dịch ngôn ngữ ký hiệu cho buổi gala khai mạc và
+          các chuyến tham quan có hướng dẫn vào cuối tuần chưa?
+      - speaker: Sarah
+        text: Not yet, but I can contact the local community translation service tomorrow morning to secure
+          two certified interpreters for those events.
+        vi: Vẫn chưa, nhưng tôi có thể liên hệ với dịch vụ dịch thuật cộng đồng địa phương vào sáng mai để
+          đảm bảo có hai thông dịch viên được chứng nhận cho các sự kiện đó.
+      - speaker: David
+        text: Wonderful. With those adjustments in place, this exhibition will be genuinely inclusive and
+          welcoming to all visitors.
+        vi: Tuyệt vời. Với những điều chỉnh đó được áp dụng, triển lãm này sẽ thực sự hòa nhập và chào đón
+          tất cả mọi du khách.
+    dictation:
+      - 2
+      - 6
+      - 9
+      - 12
+    questions:
+      - type: MCQ
+        prompt: What is the primary issue David finds with the current gallery blueprints?
+        promptVi: Vấn đề chính mà David nhận thấy với bản thiết kế phòng trưng bày hiện tại là gì?
+        explanationVi: David nhận xét khoảng cách giữa các bục trưng bày quá hẹp đối với xe lăn (spacing
+          between display pedestals is far too narrow for wheelchairs).
+        options:
+          - The lighting is too dim
+          - Display pedestals are too close for wheelchairs
+          - The walls are painted the wrong color
+          - There are too many exits
+        answer: Display pedestals are too close for wheelchairs
+      - type: MCQ
+        prompt: How do they resolve the space issue for pathways?
+        promptVi: Họ giải quyết vấn đề không gian cho lối đi bằng cách nào?
+        explanationVi: Sarah đề xuất gỡ bỏ cụm tác phẩm điêu khắc ở trung tâm (removing the central
+          sculpture installation).
+        options:
+          - By removing the central sculpture installation
+          - By canceling half the exhibition
+          - By moving to a larger building
+          - By closing the gallery on weekends
+        answer: By removing the central sculpture installation
+      - type: MCQ
+        prompt: What addition is planned for visually impaired attendees?
+        promptVi: Kế hoạch bổ sung nào dành cho những người tham dự bị khiếm thị?
+        explanationVi: David đề xuất cung cấp các phiên bản in chữ lớn có độ tương phản cao (high-contrast
+          large print versions).
+        options:
+          - Audio guides in every room
+          - Braille maps only
+          - High-contrast large print versions of wall texts
+          - Personal assistants
+        answer: High-contrast large print versions of wall texts
+      - type: MCQ
+        prompt: When will Sarah contact the local community translation service?
+        promptVi: Khi nào Sarah sẽ liên hệ với dịch vụ dịch thuật cộng đồng địa phương?
+        explanationVi: Sarah cho biết cô ấy có thể liên hệ vào sáng mai (tomorrow morning).
+        options:
+          - Tomorrow morning
+          - Next week
+          - This afternoon
+          - After the opening gala
+        answer: Tomorrow morning
+      - type: TRUE_FALSE
+        prompt: Sarah initially placed the informational plaques at standard eye level.
+        promptVi: Ban đầu Sarah đã đặt các bảng thông tin ở tầm mắt tiêu chuẩn.
+        explanationVi: Đúng, Sarah thừa nhận chúng hiện đang ở tầm mắt tiêu chuẩn (standard eye level).
+        statement: Sarah initially placed the informational plaques at standard eye level.
+        answer: true
+      - type: TRUE_FALSE
+        prompt: The department has an unlimited budget to print booklet materials.
+        promptVi: Phòng ban có ngân sách không giới hạn để in các tài liệu sách nhỏ.
+        explanationVi: Sai, vì Sarah nhắc đến việc họ bị ràng buộc bởi ngân sách phòng ban rất chặt chẽ
+          (very tight department budget constraints).
+        statement: The department has an unlimited budget to print booklet materials.
+        answer: false
+      - type: SHORT_ANSWER
+        prompt: Who checked the blueprints and noticed that the display pedestals were too close together?
+        promptVi: Ai đã kiểm tra bản vẽ và nhận thấy các bục trưng bày đặt quá sát nhau?
+        explanationVi: Ở lượt thứ hai, David nói anh đã kiểm tra bản vẽ và thấy khoảng cách giữa các bục quá
+          hẹp cho xe lăn.
+        accept:
+          - David
+      - type: SHORT_ANSWER
+        prompt: How many certified interpreters does Sarah plan to secure?
+        promptVi: Sarah dự định bảo đảm có bao nhiêu thông dịch viên được chứng nhận?
+        explanationVi: Sarah nói cô ấy sẽ đảm bảo có hai thông dịch viên (two certified interpreters).
+        accept:
+          - two
+          - "2"
+  - slug: reviewing-a-space-science-podcast
+    title: Reviewing a Space Science Podcast
+    titleVi: Đánh giá một podcast khoa học vũ trụ
+    topic: space
+    accent: US
+    format: dialogue
+    speakerCount: 2
+    glossary: []
+    segments:
+      - speaker: Maya
+        text: Leo, did you finally get a chance to listen to the latest episode of Cosmic Horizons focusing
+          on the James Webb telescope's exoplanet findings?
+        vi: Leo, cuối cùng bạn đã có cơ hội nghe tập mới nhất của Cosmic Horizons tập trung vào những phát
+          hiện ngoại hành tinh của kính thiên văn James Webb chưa?
+      - speaker: Leo
+        text: I did, Maya, but honestly, I had very mixed feelings about the entire presentation. While the
+          audio production quality was fantastic, I thought they exaggerated the likelihood of
+          finding alien life.
+        vi: Mình nghe rồi, Maya, nhưng thành thật mà nói, mình có cảm xúc rất trái chiều về toàn bộ phần
+          trình bày. Dù chất lượng sản xuất âm thanh tuyệt vời, mình nghĩ họ đã phóng đại khả năng
+          tìm thấy sự sống ngoài hành tinh.
+      - speaker: Maya
+        text: That is a fair reservation. They definitely leaned heavily into sensationalism, especially
+          when discussing the atmospheric composition of planet K2-18b.
+        vi: Đó là một sự hoài nghi hợp lý. Họ chắc chắn nghiêng nhiều về tính giật gân, đặc biệt là khi thảo
+          luận về thành phần khí quyển của hành tinh K2-18b.
+      - speaker: Leo
+        text: Exactly my point. They completely glossed over the massive statistical uncertainties and
+          presented simple methane detection as definitive proof of biological processes.
+        vi: Đúng là ý mình. Họ hoàn toàn phớt lờ những bất định thống kê lớn và trình bày việc phát hiện khí
+          metan đơn giản như là bằng chứng xác thực về các quá trình sinh học.
+      - speaker: Maya
+        text: True, but you have to admit their general explanation of transit spectroscopy was remarkably
+          clear for a broad, non-scientific audience.
+        vi: Đúng vậy, nhưng bạn phải thừa nhận rằng lời giải thích chung của họ về phương pháp quang phổ
+          truyền qua rất rõ ràng đối với khán giả đại chúng không chuyên khoa.
+      - speaker: Leo
+        text: I will concede that point. My younger brother, who usually knows nothing about astronomy,
+          actually understood how scientists measure starlight dips.
+        vi: Mình sẽ nhượng bộ điểm đó. Em trai mình, người thường chẳng biết gì về thiên văn học, thực sự đã
+          hiểu cách các nhà khoa học đo lường độ suy giảm ánh sáng sao.
+      - speaker: Maya
+        text: Right! And despite the slightly overhyped conclusions, it sparks genuine public curiosity
+          about astrobiology and modern space exploration.
+        vi: Đúng thế! Và bất chấp những kết luận có phần bị thổi phồng quá mức, nó khơi dậy sự tò mò thực sự
+          của công chúng về sinh học thiên văn và khám phá không gian hiện đại.
+      - speaker: Leo
+        text: True, but as editors of a university science club newsletter, shouldn't we hold ourselves to a
+          much higher standard of rigorous accuracy?
+        vi: Đúng, nhưng là người biên tập bản tin câu lạc bộ khoa học của trường, chẳng phải chúng ta nên
+          đặt ra tiêu chuẩn cao hơn nhiều về độ chính xác sao?
+      - speaker: Maya
+        text: We definitely should. What if we write a review that recommends listening to the episode for
+          its engaging format, but includes a sidebar clarifying the methodological caveats?
+        vi: Chúng ta chắc chắn nên thế. Hay là chúng ta viết một bài đánh giá khuyên nên nghe tập này vì
+          định dạng hấp dẫn của nó, nhưng kèm theo một khung bên lề làm rõ các lưu ý về phương pháp
+          luận?
+      - speaker: Leo
+        text: Oh, I really like that compromise. It addresses our scientific concerns without completely
+          dismissing their valuable science outreach efforts.
+        vi: Ồ, mình rất thích sự thỏa hiệp đó. Nó giải quyết được những lo ngại khoa học của chúng ta mà
+          không bác bỏ hoàn toàn nỗ lực phổ biến khoa học quý giá của họ.
+      - speaker: Maya
+        text: Perfect. I will draft the main summary tonight after my lab class, and you can add the
+          technical fact-check section tomorrow morning.
+        vi: Hoàn hảo. Mình sẽ phác thảo bản tóm tắt chính tối nay sau lớp thí nghiệm, và bạn có thể thêm
+          phần kiểm tra thực tế kỹ thuật vào sáng mai.
+      - speaker: Leo
+        text: It’s a deal. Let’s aim to publish the newsletter by Thursday afternoon so members have time to
+          listen before our weekend discussion meeting.
+        vi: Thế nhé. Chúng ta hãy đặt mục tiêu xuất bản bản tin trước chiều thứ Năm để các thành viên có
+          thời gian nghe trước buổi họp thảo luận cuối tuần.
+    dictation:
+      - 3
+      - 6
+      - 9
+      - 11
+    questions:
+      - type: MCQ
+        prompt: What is the name of the podcast they are reviewing?
+        promptVi: Tên của podcast mà họ đang đánh giá là gì?
+        options:
+          - Cosmic Horizons
+          - Galaxy Quest
+          - Starlight Pod
+          - Astronomy Daily
+        answer: Cosmic Horizons
+        explanationVi: Maya đã mở đầu bằng việc hỏi Leo về tập mới nhất của podcast *Cosmic Horizons*.
+      - type: MCQ
+        prompt: What specific planet's atmospheric composition did they discuss?
+        promptVi: Thành phần khí quyển của hành tinh cụ thể nào đã được họ thảo luận?
+        options:
+          - Mars
+          - K2-18b
+          - Kepler-22b
+          - Proxima b
+        answer: K2-18b
+        explanationVi: Họ đã thảo luận về thành phần khí quyển của hành tinh K2-18b trong đoạn hội thoại.
+      - type: MCQ
+        prompt: Which scientific method did Leo admit was explained very clearly?
+        promptVi: Phương pháp khoa học nào được Leo thừa nhận là được giải thích rất rõ ràng?
+        options:
+          - Transit spectroscopy
+          - Radiometric dating
+          - Gravitational lensing
+          - Radio astronomy
+        answer: Transit spectroscopy
+        explanationVi: Leo thừa nhận rằng phương pháp quang phổ truyền qua (transit spectroscopy) được giải
+          thích rất rõ ràng cho người không chuyên.
+      - type: MCQ
+        prompt: When do they plan to publish the newsletter?
+        promptVi: Khi nào họ dự định xuất bản bản tin?
+        options:
+          - Wednesday evening
+          - Thursday afternoon
+          - Friday morning
+          - Weekend meeting
+        answer: Thursday afternoon
+        explanationVi: Leo đề xuất nhắm mục tiêu xuất bản bản tin vào chiều thứ Năm (Thursday afternoon).
+      - type: TRUE_FALSE
+        prompt: Leo thought the podcast exaggerated the likelihood of finding alien life.
+        promptVi: Leo cho rằng podcast đã phóng đại khả năng tìm thấy sự sống ngoài hành tinh.
+        answer: true
+        explanationVi: Leo đồng ý rằng podcast đã phóng đại khả năng tìm thấy sự sống ngoài hành tinh trong
+          phần đầu cuộc trò chuyện.
+        statement: Leo thought the podcast exaggerated the likelihood of finding alien life.
+      - type: TRUE_FALSE
+        prompt: Leo says his younger brother was already an expert in astronomy before listening.
+        promptVi: Leo nói em trai mình đã là chuyên gia thiên văn trước khi nghe tập này.
+        answer: false
+        explanationVi: Leo nói em trai vốn gần như không biết gì về thiên văn nhưng đã hiểu lời giải thích
+          trong tập podcast.
+        statement: Leo says his younger brother was already an expert in astronomy before listening.
+      - type: SHORT_ANSWER
+        prompt: What gas did the podcast present as proof of biological processes?
+        promptVi: Podcast đã trình bày loại khí nào như là bằng chứng của các quá trình sinh học?
+        accept:
+          - methane
+          - Methane
+          - CH4
+        explanationVi: Podcast đã trình bày việc phát hiện khí metan (methane) đơn giản như là bằng chứng
+          xác thực về quá trình sinh học.
+      - type: SHORT_ANSWER
+        prompt: Who will draft the main summary tonight?
+        promptVi: Ai sẽ phác thảo bản tóm tắt chính vào tối nay?
+        accept:
+          - Maya
+          - maya
+        explanationVi: Maya xác nhận rằng cô ấy sẽ phác thảo bản tóm tắt chính vào tối nay sau lớp học thí nghiệm.

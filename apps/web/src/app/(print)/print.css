@@ -1,0 +1,67 @@
+/*
+ * Khổ giấy A4 cho bảng tập viết.
+ *
+ * Toàn bộ kích thước dùng mm để bản xem trên màn hình và bản in ra giấy khớp
+ * nhau: một ô 18mm trên màn hình đúng bằng 18mm khi cầm thước đo trên giấy.
+ */
+
+@page {
+  size: A4 portrait;
+  margin: 10mm;
+}
+
+.print-root {
+  background: #e8e6e1;
+  min-height: 100dvh;
+  padding: 16px 0 48px;
+}
+
+/* Một tờ A4. Trừ lề 10mm mỗi bên còn 190mm × 277mm phần in được. */
+.sheet {
+  width: 190mm;
+  min-height: 277mm;
+  margin: 0 auto 16px;
+  padding: 0;
+  background: #fff;
+  color: #111;
+  box-shadow: 0 2px 12px rgb(0 0 0 / 18%);
+  box-sizing: content-box;
+}
+
+.sheet-inner {
+  padding: 0 0 6mm;
+}
+
+/* Mỗi chữ là một khối; không cho khối bị cắt đôi giữa hai trang. */
+.glyph-block {
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
+
+@media print {
+  .print-root {
+    background: none;
+    padding: 0;
+  }
+
+  .sheet {
+    width: auto;
+    min-height: 0;
+    margin: 0;
+    box-shadow: none;
+  }
+
+  /* Thanh công cụ chỉ để bấm trên màn hình. */
+  .no-print {
+    display: none !important;
+  }
+
+  /*
+   * Chữ mẫu mờ và nét kẻ ô là những thứ trình duyệt hay bỏ khi in cho tiết kiệm
+   * mực. Bắt buộc giữ lại, không có chúng thì tờ giấy thành tờ trắng.
+   */
+  * {
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+}

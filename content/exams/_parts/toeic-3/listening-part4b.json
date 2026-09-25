@@ -1,0 +1,547 @@
+[
+  {
+    "id": "listening-part4-t6",
+    "skill": "listening",
+    "title": "Part 4 — Talk 6: project status update",
+    "format": "TOEIC Listening — Part 4 · Talk 6 (câu 86–88)",
+    "instructionsVi": "Cập nhật tiến độ. Có một chuỗi nhân quả nhiều bước — nghe hụt một mắt xích là mất câu trả lời.",
+    "promptEn": "Listen to the update and answer questions 86 through 88.",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "Speaker",
+        "text": "Quick status on the Fairport fit-out before we go into detail."
+      },
+      {
+        "speaker": "Speaker",
+        "text": "We finished the survey two weeks early, which gave us a buffer. We then used most of that buffer, because the concrete pour was delayed twice by frost."
+      },
+      {
+        "speaker": "Speaker",
+        "text": "Net effect: the foundations finished about ten days late rather than two weeks early. The frame was due to start on the first of February and will now begin on the eleventh."
+      },
+      {
+        "speaker": "Speaker",
+        "text": "The steel supplier has confirmed they can hold our delivery slot, so we are not losing further time there."
+      },
+      {
+        "speaker": "Speaker",
+        "text": "What I need from this room is the interior specification signed off before the frame is complete, not after — the electrical routing depends on it. If that slips past the end of March, we lose the summer completion date entirely, and that is not recoverable."
+      }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p4-86",
+        "kind": "mcq",
+        "prompt": "86. What caused the delay to the foundations?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The survey overran."
+          },
+          {
+            "id": "b",
+            "text": "Frost delayed the concrete pour twice."
+          },
+          {
+            "id": "c",
+            "text": "The steel supplier missed a delivery."
+          },
+          {
+            "id": "d",
+            "text": "The specification was not signed off."
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'the concrete pour was delayed twice by frost'. Khảo sát xong SỚM hai tuần, không phải chậm."
+      },
+      {
+        "id": "p4-87",
+        "kind": "mcq",
+        "prompt": "87. On which date will the frame now start?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The eleventh of February"
+          },
+          {
+            "id": "b",
+            "text": "The first of February"
+          },
+          {
+            "id": "c",
+            "text": "The end of March"
+          },
+          {
+            "id": "d",
+            "text": "In the summer"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'due to start on the first of February and will now begin on the eleventh'."
+      },
+      {
+        "id": "p4-88",
+        "kind": "mcq",
+        "prompt": "88. Why must the specification be signed off before the frame is complete?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The steel supplier requires it."
+          },
+          {
+            "id": "b",
+            "text": "The budget expires in March."
+          },
+          {
+            "id": "c",
+            "text": "The electrical routing depends on it."
+          },
+          {
+            "id": "d",
+            "text": "The survey has to be repeated otherwise."
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'signed off before the frame is complete, not after — the electrical routing depends on it'."
+      }
+    ]
+  },
+  {
+    "id": "listening-part4-t7",
+    "skill": "listening",
+    "title": "Part 4 — Talk 7: museum orientation",
+    "format": "TOEIC Listening — Part 4 · Talk 7 (câu 89–91)",
+    "instructionsVi": "Bài mở đầu tham quan. Điều được phép và điều bị cấm nằm sát nhau trong cùng một câu.",
+    "promptEn": "Listen to the orientation talk and answer questions 89 through 91.",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "Guide",
+        "text": "Welcome to the Riverside Industrial Museum. I'll keep this short so you have time in the galleries."
+      },
+      {
+        "speaker": "Guide",
+        "text": "Three floors. Ground floor is the mills, first floor is the people who worked in them, second floor is temporary exhibitions — currently photography from the 1930s."
+      },
+      {
+        "speaker": "Guide",
+        "text": "One change from your leaflet: the working loom demonstration is no longer at three. It now runs twice, at half eleven and at two, and lasts about twenty minutes."
+      },
+      {
+        "speaker": "Guide",
+        "text": "Photography is welcome throughout, but switch your flash off on the second floor — the prints up there are light-sensitive."
+      },
+      {
+        "speaker": "Guide",
+        "text": "The lift reaches the first floor only. For step-free access to the second, speak to any staff member in a green lanyard and they'll take you up in the service lift."
+      }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p4-89",
+        "kind": "mcq",
+        "prompt": "89. When does the loom demonstration now run?",
+        "options": [
+          {
+            "id": "a",
+            "text": "At three only"
+          },
+          {
+            "id": "b",
+            "text": "At half eleven and at two"
+          },
+          {
+            "id": "c",
+            "text": "At half eleven only"
+          },
+          {
+            "id": "d",
+            "text": "It has been cancelled."
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'It now runs twice, at half eleven and at two'. Ba giờ là giờ CŨ in trên tờ rơi."
+      },
+      {
+        "id": "p4-90",
+        "kind": "mcq",
+        "prompt": "90. What rule applies to photography?",
+        "options": [
+          {
+            "id": "a",
+            "text": "It is allowed, but without flash on the second floor."
+          },
+          {
+            "id": "b",
+            "text": "It is banned throughout the museum."
+          },
+          {
+            "id": "c",
+            "text": "It is allowed on the ground floor only."
+          },
+          {
+            "id": "d",
+            "text": "Permission must be requested."
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'Photography is welcome throughout, but switch your flash off on the second floor'."
+      },
+      {
+        "id": "p4-91",
+        "kind": "mcq",
+        "prompt": "91. How can a visitor reach the second floor without stairs?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The main lift goes to all floors."
+          },
+          {
+            "id": "b",
+            "text": "Step-free access is not available."
+          },
+          {
+            "id": "c",
+            "text": "By asking a staff member in a green lanyard"
+          },
+          {
+            "id": "d",
+            "text": "By booking in advance"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'The lift reaches the first floor only… speak to any staff member in a green lanyard'."
+      }
+    ]
+  },
+  {
+    "id": "listening-part4-t8",
+    "skill": "listening",
+    "title": "Part 4 — Talk 8: service advertisement",
+    "format": "TOEIC Listening — Part 4 · Talk 8 (câu 92–94)",
+    "instructionsVi": "Quảng cáo có nhiều điều kiện loại trừ ở cuối, nói rất nhanh.",
+    "promptEn": "Listen to the advertisement and answer questions 92 through 94.",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "Voice",
+        "text": "Is your accounts team still chasing paper invoices? Kestrel Ledger can take that off your desk."
+      },
+      {
+        "speaker": "Voice",
+        "text": "We handle invoice capture, approval routing and payment scheduling, and we integrate with the four systems most mid-sized firms already use."
+      },
+      {
+        "speaker": "Voice",
+        "text": "Set-up is normally twelve hundred pounds. This quarter, we're waiving it for firms processing more than five hundred invoices a month."
+      },
+      {
+        "speaker": "Voice",
+        "text": "That waiver covers set-up only. Data migration from your old system is quoted separately, and the monthly licence is unchanged."
+      },
+      {
+        "speaker": "Voice",
+        "text": "Book a demonstration at kestrelledger dot example. Demonstrations run Tuesdays and Thursdays, and take about forty minutes."
+      }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p4-92",
+        "kind": "mcq",
+        "prompt": "92. Who qualifies for the waived set-up fee?",
+        "options": [
+          {
+            "id": "a",
+            "text": "All new customers"
+          },
+          {
+            "id": "b",
+            "text": "Firms processing more than 500 invoices a month"
+          },
+          {
+            "id": "c",
+            "text": "Firms using one of the four supported systems"
+          },
+          {
+            "id": "d",
+            "text": "Firms booking a demonstration"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'we're waiving it for firms processing more than five hundred invoices a month'."
+      },
+      {
+        "id": "p4-93",
+        "kind": "mcq",
+        "prompt": "93. What does the waiver NOT cover?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Data migration and the monthly licence"
+          },
+          {
+            "id": "b",
+            "text": "Invoice capture"
+          },
+          {
+            "id": "c",
+            "text": "Approval routing"
+          },
+          {
+            "id": "d",
+            "text": "The demonstration"
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'Data migration from your old system is quoted separately, and the monthly licence is unchanged'."
+      },
+      {
+        "id": "p4-94",
+        "kind": "mcq",
+        "prompt": "94. When are demonstrations available?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Every weekday"
+          },
+          {
+            "id": "b",
+            "text": "Weekends only"
+          },
+          {
+            "id": "c",
+            "text": "By arrangement at any time"
+          },
+          {
+            "id": "d",
+            "text": "Tuesdays and Thursdays"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "'Demonstrations run Tuesdays and Thursdays'."
+      }
+    ]
+  },
+  {
+    "id": "listening-part4-t9",
+    "skill": "listening",
+    "title": "Part 4 — Talk 9: with a sales table on the test paper",
+    "format": "TOEIC Listening — Part 4 · Talk 9, kèm bảng trên đề (câu 95–97)",
+    "instructionsVi": "Dạng 'Look at the graphic' khó: người nói KHÔNG đọc con số nào, chỉ mô tả bằng thứ hạng và quan hệ.",
+    "promptEn": "Listen to the presentation and answer questions 95 through 97. Refer to the table below where indicated.\n\nREGIONAL SALES, Q3 (£m)\nNorth — 12.4\nSouth — 8.9\nEast — 15.1\nWest — 9.7",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "Speaker",
+        "text": "Thanks. Headlines only; we'll go into detail in the breakouts."
+      },
+      {
+        "speaker": "Speaker",
+        "text": "The quarter came in slightly ahead of plan overall, but the regional picture is uneven and that's what needs a decision today."
+      },
+      {
+        "speaker": "Speaker",
+        "text": "Our strongest region is performing well and I'm not going to spend time on it, because nothing there requires anything from this group."
+      },
+      {
+        "speaker": "Speaker",
+        "text": "The one I want to discuss is the region that came in lowest. That result is not a surprise — we closed two depots there in June — but the recovery has been slower than the model predicted. We now think the second half of next year is realistic, rather than the first."
+      },
+      {
+        "speaker": "Speaker",
+        "text": "One caveat before questions. The figures in front of you exclude the Meridian acquisition, which completed in August. Including it would add roughly two million to the eastern total, so please don't quote these externally without that note."
+      }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p4-95",
+        "kind": "mcq",
+        "prompt": "95. Look at the graphic. Which region does the speaker want to discuss?",
+        "options": [
+          {
+            "id": "a",
+            "text": "North"
+          },
+          {
+            "id": "b",
+            "text": "East"
+          },
+          {
+            "id": "c",
+            "text": "West"
+          },
+          {
+            "id": "d",
+            "text": "South"
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "Vùng có kết quả THẤP NHẤT là South (8,9). Con số không được đọc ra, phải tự tra bảng."
+      },
+      {
+        "id": "p4-96",
+        "kind": "mcq",
+        "prompt": "96. Why does the speaker skip the strongest region?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Its figures are not final."
+          },
+          {
+            "id": "b",
+            "text": "No decision is required from this group about it."
+          },
+          {
+            "id": "c",
+            "text": "Another speaker will cover it."
+          },
+          {
+            "id": "d",
+            "text": "It performed below plan."
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'nothing there requires anything from this group'."
+      },
+      {
+        "id": "p4-97",
+        "kind": "mcq",
+        "prompt": "97. What caveat is given?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The figures exclude an acquisition worth about £2m in the East."
+          },
+          {
+            "id": "b",
+            "text": "The figures include an August acquisition."
+          },
+          {
+            "id": "c",
+            "text": "The figures are provisional and will be restated."
+          },
+          {
+            "id": "d",
+            "text": "Only two regions are covered."
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "'The figures… exclude the Meridian acquisition… would add roughly two million to the eastern total'. Chú ý 'exclude', dễ nghe nhầm thành 'include'."
+      }
+    ]
+  },
+  {
+    "id": "listening-part4-t10",
+    "skill": "listening",
+    "title": "Part 4 — Talk 10: closing remarks at a review meeting",
+    "format": "TOEIC Listening — Part 4 · Talk 10 (câu 98–100)",
+    "instructionsVi": "Bài cuối của Listening. Người nói phân biệt hai khái niệm dễ bị gộp và rút ra một kết luận có điều kiện.",
+    "promptEn": "Listen to the closing remarks and answer questions 98 through 100.",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "Speaker",
+        "text": "Before we finish, one observation about how we've been reading the complaint data."
+      },
+      {
+        "speaker": "Speaker",
+        "text": "Complaints are up eighteen per cent. Everyone in this room has treated that as bad news, and I want to separate two things that have been getting merged."
+      },
+      {
+        "speaker": "Speaker",
+        "text": "One is whether more things are going wrong. The other is whether more people are telling us. We introduced the in-app reporting button in February, and the rise starts in February."
+      },
+      {
+        "speaker": "Speaker",
+        "text": "So it is quite possible that the underlying failure rate hasn't moved at all and we're simply hearing about more of it — which, if true, is good news wearing a bad disguise."
+      },
+      {
+        "speaker": "Speaker",
+        "text": "The action I want is to compare complaint volume against warranty claims, which are recorded independently of the button. If warranty claims are flat, we have our answer."
+      }
+    ],
+    "timeLimitSec": 150,
+    "questions": [
+      {
+        "id": "p4-98",
+        "kind": "mcq",
+        "prompt": "98. What two things does the speaker separate?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Complaints and compliments"
+          },
+          {
+            "id": "b",
+            "text": "More failures occurring, and more failures being reported"
+          },
+          {
+            "id": "c",
+            "text": "Warranty claims and refunds"
+          },
+          {
+            "id": "d",
+            "text": "Product faults and service faults"
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "'One is whether more things are going wrong. The other is whether more people are telling us'."
+      },
+      {
+        "id": "p4-99",
+        "kind": "mcq",
+        "prompt": "99. What does the speaker mean by 'good news wearing a bad disguise'?",
+        "options": [
+          {
+            "id": "a",
+            "text": "The complaint data has been falsified."
+          },
+          {
+            "id": "b",
+            "text": "Complaints will fall again next quarter."
+          },
+          {
+            "id": "c",
+            "text": "The reporting button should be removed."
+          },
+          {
+            "id": "d",
+            "text": "A rise in complaints may reflect better reporting, not worse quality."
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "Nếu tỉ lệ hỏng không đổi mà chỉ có nhiều người phản ánh hơn, thì con số tăng thực ra là dấu hiệu tốt."
+      },
+      {
+        "id": "p4-100",
+        "kind": "mcq",
+        "prompt": "100. What action does the speaker request?",
+        "options": [
+          {
+            "id": "a",
+            "text": "Removing the in-app reporting button"
+          },
+          {
+            "id": "b",
+            "text": "Surveying customers directly"
+          },
+          {
+            "id": "c",
+            "text": "Comparing complaints with warranty claims"
+          },
+          {
+            "id": "d",
+            "text": "Reducing the complaint response time"
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "'compare complaint volume against warranty claims, which are recorded independently of the button'."
+      }
+    ]
+  }
+]

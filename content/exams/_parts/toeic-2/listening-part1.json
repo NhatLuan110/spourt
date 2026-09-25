@@ -1,0 +1,190 @@
+[
+  {
+    "id": "listening-part1-photographs",
+    "skill": "listening",
+    "title": "Part 1 — Photographs",
+    "format": "TOEIC Listening — Part 1 · Photographs, 6 câu, bốn lựa chọn, chỉ nghe không có chữ",
+    "instructionsVi": "Nhìn ảnh rồi nghe bốn câu mô tả, chọn câu đúng nhất. Ở mục tiêu 650, bẫy chính chuyển từ 'sai hành động' sang 'sai thì bị động' — phân biệt 'is being placed' (có người đang làm) với 'has been placed' (không có ai trong ảnh).",
+    "promptEn": "Look at each photograph and listen to the four statements. Select the statement that best describes what you see.\n\nPHOTO 1: A woman in a laboratory coat looks through a microscope. Beside her, a notebook lies open with a pen resting on it. No one else is in the room.\n\nPHOTO 2: A construction site. Steel beams have been stacked along one edge of the site. A crane stands idle; its hook hangs empty above the stack.\n\nPHOTO 3: Two men in a kitchen. One is chopping vegetables on a board; the other is reading from a tablet propped against the wall.\n\nPHOTO 4: An airport check-in area. A queue of travellers waits behind a barrier. At the desk, an agent is attaching a tag to a suitcase.\n\nPHOTO 5: A lecture theatre with tiered seating. Every seat is empty. A laptop sits open on the front desk and the projector screen shows a title slide.\n\nPHOTO 6: A garden centre. Rows of potted plants line a bench. A customer is bending down to read a label; a watering can stands on the ground nearby.",
+    "accent": "us",
+    "transcript": [
+      {
+        "speaker": "Photo 1",
+        "text": "(A) She's writing in a notebook. (B) She's looking through a microscope. (C) She's putting on a coat. (D) She's talking to a colleague."
+      },
+      {
+        "speaker": "Photo 2",
+        "text": "(A) Beams are being lifted by the crane. (B) Workers are carrying materials. (C) Steel beams have been stacked at the site. (D) The crane is being repaired."
+      },
+      {
+        "speaker": "Photo 3",
+        "text": "(A) They're eating a meal together. (B) One of the men is chopping vegetables. (C) They're washing dishes. (D) A tablet is being handed over."
+      },
+      {
+        "speaker": "Photo 4",
+        "text": "(A) Passengers are boarding a plane. (B) A tag is being attached to a suitcase. (C) The queue has been cleared. (D) Luggage is being loaded onto a cart."
+      },
+      {
+        "speaker": "Photo 5",
+        "text": "(A) A lecture is being given. (B) Students are taking notes. (C) The room has been prepared for a presentation. (D) The screen is being lowered."
+      },
+      {
+        "speaker": "Photo 6",
+        "text": "(A) Plants are being watered. (B) A customer is examining a label. (C) The bench is being moved. (D) Pots are being stacked."
+      }
+    ],
+    "timeLimitSec": 180,
+    "questions": [
+      {
+        "id": "p1-1",
+        "kind": "mcq",
+        "prompt": "Photo 1",
+        "options": [
+          {
+            "id": "a",
+            "text": "She's looking through a microscope."
+          },
+          {
+            "id": "b",
+            "text": "She's writing in a notebook."
+          },
+          {
+            "id": "c",
+            "text": "She's putting on a coat."
+          },
+          {
+            "id": "d",
+            "text": "She's talking to a colleague."
+          }
+        ],
+        "answer": "a",
+        "explanationVi": "Cuốn sổ có trong ảnh nhưng bà ấy KHÔNG viết, cây bút đang đặt trên đó. (D) sai vì ảnh ghi rõ không có ai khác trong phòng."
+      },
+      {
+        "id": "p1-2",
+        "kind": "mcq",
+        "prompt": "Photo 2",
+        "options": [
+          {
+            "id": "a",
+            "text": "Beams are being lifted by the crane."
+          },
+          {
+            "id": "b",
+            "text": "Workers are carrying materials."
+          },
+          {
+            "id": "c",
+            "text": "The crane is being repaired."
+          },
+          {
+            "id": "d",
+            "text": "Steel beams have been stacked at the site."
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "Cần cẩu đứng yên, móc trống, không có người. Ảnh không người thì phải dùng hoàn thành bị động 'have been stacked', không dùng 'are being lifted'."
+      },
+      {
+        "id": "p1-3",
+        "kind": "mcq",
+        "prompt": "Photo 3",
+        "options": [
+          {
+            "id": "a",
+            "text": "They're eating a meal together."
+          },
+          {
+            "id": "b",
+            "text": "They're washing dishes."
+          },
+          {
+            "id": "c",
+            "text": "One of the men is chopping vegetables."
+          },
+          {
+            "id": "d",
+            "text": "A tablet is being handed over."
+          }
+        ],
+        "answer": "c",
+        "explanationVi": "Máy tính bảng đang DỰA vào tường, không ai đưa cho ai — (D) là bẫy dùng đúng đồ vật nhưng sai hành động."
+      },
+      {
+        "id": "p1-4",
+        "kind": "mcq",
+        "prompt": "Photo 4",
+        "options": [
+          {
+            "id": "a",
+            "text": "Passengers are boarding a plane."
+          },
+          {
+            "id": "b",
+            "text": "A tag is being attached to a suitcase."
+          },
+          {
+            "id": "c",
+            "text": "The queue has been cleared."
+          },
+          {
+            "id": "d",
+            "text": "Luggage is being loaded onto a cart."
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "Có người đang thực hiện hành động nên bị động tiếp diễn là đúng. (C) sai vì hàng người vẫn đang đứng chờ."
+      },
+      {
+        "id": "p1-5",
+        "kind": "mcq",
+        "prompt": "Photo 5",
+        "options": [
+          {
+            "id": "a",
+            "text": "A lecture is being given."
+          },
+          {
+            "id": "b",
+            "text": "Students are taking notes."
+          },
+          {
+            "id": "c",
+            "text": "The screen is being lowered."
+          },
+          {
+            "id": "d",
+            "text": "The room has been prepared for a presentation."
+          }
+        ],
+        "answer": "d",
+        "explanationVi": "Phòng trống hoàn toàn, nên mọi phương án có người hành động đều loại. Màn chiếu ĐÃ hạ sẵn, không phải đang được hạ."
+      },
+      {
+        "id": "p1-6",
+        "kind": "mcq",
+        "prompt": "Photo 6",
+        "options": [
+          {
+            "id": "a",
+            "text": "Plants are being watered."
+          },
+          {
+            "id": "b",
+            "text": "A customer is examining a label."
+          },
+          {
+            "id": "c",
+            "text": "The bench is being moved."
+          },
+          {
+            "id": "d",
+            "text": "Pots are being stacked."
+          }
+        ],
+        "answer": "b",
+        "explanationVi": "Bình tưới chỉ ĐỨNG trên mặt đất, không ai dùng — (A) là bẫy suy diễn từ đồ vật có trong ảnh."
+      }
+    ]
+  }
+]
