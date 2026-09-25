@@ -91,22 +91,24 @@ export default function RegisterPage() {
             </p>
           ) : null}
 
-          <Button type="submit" block loading={isSubmitting} loadingLabel={t('auth.submitting')}>
+          <Button type="submit" block disabled={!API_URL} loading={isSubmitting} loadingLabel={t('auth.submitting')}>
             {t('auth.register')}
           </Button>
         </form>
 
+        {process.env.NEXT_PUBLIC_GOOGLE_LOGIN !== 'false' && <>
         <div className="my-5 flex items-center gap-3 text-[12px] text-[var(--text-subtle)]">
           <span className="h-px flex-1 bg-[var(--border)]" />
           {t('auth.orContinueWith')}
           <span className="h-px flex-1 bg-[var(--border)]" />
         </div>
 
-        <a href={`${API_URL}/auth/google`} className="block">
-          <Button variant="secondary" block type="button">
+        <a href={API_URL ? `${API_URL}/auth/google` : undefined} aria-disabled={!API_URL} className="block">
+          <Button variant="secondary" block type="button" disabled={!API_URL}>
             {t('auth.google')}
           </Button>
         </a>
+        </>}
 
         <p className="mt-5 text-center text-[14px] text-[var(--text-muted)]">
           {t('auth.hasAccount')}{' '}

@@ -13,6 +13,8 @@ export const envSchema = z.object({
 
   WEB_ORIGIN: z.string().url().default('http://localhost:3000'),
   COOKIE_DOMAIN: z.string().optional(),
+  // Enable for a GitHub Pages frontend calling an API on another site.
+  COOKIE_CROSS_SITE: z.enum(['true', 'false']).default('false').transform(value => value === 'true'),
   COOKIE_SECRET: z.string().min(16).default('sprout-dev-cookie-secret-change-me'),
   /**
    * Encrypts secrets the server must read back, currently only a learner's own

@@ -49,6 +49,7 @@ interface RequestOptions extends Omit<RequestInit, 'body'> {
 let refreshInFlight: Promise<boolean> | null = null;
 
 async function refreshAccessToken(): Promise<boolean> {
+  if (!API_URL) return false;
   // Concurrent 401s share one refresh call, otherwise they rotate each other out.
   refreshInFlight ??= (async () => {
     try {
@@ -75,6 +76,9 @@ async function refreshAccessToken(): Promise<boolean> {
 }
 
 async function apiRaw<T>(path: string, options: RequestOptions = {}): Promise<{ data: T } & Record<string, unknown>> {
+  if (!API_URL) {
+    throw new ApiError('SERVICE_UNAVAILABLE', 'Dịch vụ đang được kết nối. Vui lòng quay lại sau.', 503);
+  }
   const { body, retryOnUnauthorized = true, headers, ...rest } = options;
 
   const send = async (): Promise<Response> =>

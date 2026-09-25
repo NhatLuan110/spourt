@@ -3,6 +3,7 @@
  * không phải gánh thêm kiểu dữ liệu của một ngăn mà nó không dùng.
  */
 import { api } from '@/lib/api-client';
+import { publicAssetUrl } from '@/lib/asset-url';
 import type { HskLevel } from '@sprout/shared';
 
 export interface HskLevelCard {
@@ -215,7 +216,7 @@ export function loadStrokes(character: string): Promise<StrokeData | null> {
   const cached = strokeCache.get(character);
   if (cached) return cached;
 
-  const request = fetch(`/hanzi-data/${encodeURIComponent(character)}.json`)
+  const request = fetch(publicAssetUrl(`/hanzi-data/${encodeURIComponent(character)}.json`))
     .then((response) => (response.ok ? (response.json() as Promise<StrokeData>) : null))
     .catch(() => null);
 

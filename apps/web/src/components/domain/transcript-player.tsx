@@ -1,5 +1,7 @@
 'use client';
 
+import { mediaUrl } from '@/lib/asset-url';
+
 import { useCallback, useEffect, useRef, useState } from 'react';
 import { useTranslations } from 'next-intl';
 import { PLAYBACK_RATES } from '@sprout/shared';
@@ -158,7 +160,7 @@ export function TranscriptPlayer({
           // The transcript below is the caption, and it is richer than a track
           // file: it is per speaker, translated, and clickable to replay a line.
           // eslint-disable-next-line jsx-a11y/media-has-caption
-          <audio ref={audio} src={audioUrl} controls className="w-full" />
+          <audio ref={audio} src={mediaUrl(audioUrl)} controls className="w-full" />
         )}
 
         {showTranscript ? (

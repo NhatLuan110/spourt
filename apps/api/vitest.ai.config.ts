@@ -6,7 +6,7 @@ import { resolve } from 'node:path';
 export default defineConfig({
   plugins: [swc.vite({ module: { type: 'es6' } })],
   test: {
-    include: ['test/ai-provider.spec.ts', 'test/ai-resilience.spec.ts', 'test/tutor.spec.ts', 'test/writing.spec.ts', 'test/secret-box.spec.ts'],
+    include: ['test/ai-provider.spec.ts', 'test/ai-resilience.spec.ts', 'test/tutor.spec.ts', 'test/writing.spec.ts', 'test/secret-box.spec.ts', 'test/auth-cookie.spec.ts'],
     environment: 'node',
     env: { NODE_ENV: 'test', DATABASE_URL: 'postgresql://unused/unused' },
   },

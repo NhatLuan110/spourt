@@ -34,7 +34,7 @@ async function bootstrap(): Promise<void> {
   });
 
   app.enableCors({
-    origin: [webOrigin],
+    origin: [new URL(webOrigin).origin],
     credentials: true,
     methods: ['GET', 'POST', 'PATCH', 'PUT', 'DELETE', 'OPTIONS'],
   });

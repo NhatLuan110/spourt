@@ -4,6 +4,8 @@
  * own speech synthesis stands in: it is offline, free, and present in every
  * target browser. A real recording always wins when the word has one.
  */
+import { mediaUrl } from './asset-url';
+
 export type Accent = 'us' | 'uk';
 
 const VOICE_LANG: Record<Accent, string> = { us: 'en-US', uk: 'en-GB' };
@@ -75,7 +77,7 @@ export async function playWord(params: {
 
   if (params.url) {
     try {
-      const audio = new Audio(params.url);
+      const audio = new Audio(mediaUrl(params.url));
       audio.playbackRate = params.rate ?? 1;
       await audio.play();
       return 'file';

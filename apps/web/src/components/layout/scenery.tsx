@@ -1,5 +1,7 @@
 'use client';
 
+import { publicAssetUrl } from '@/lib/asset-url';
+
 import { useEffect, useState } from 'react';
 
 export interface Scene {
@@ -103,7 +105,7 @@ export function Scenery({
           key={scene.slug}
           className="absolute inset-0 bg-cover bg-center transition-opacity duration-[2500ms] ease-in-out"
           style={{
-            backgroundImage: `url(/${dir}/${scene.slug}.jpg)`,
+            backgroundImage: `url(${publicAssetUrl(`/${dir}/${scene.slug}.jpg`)})`,
             // Ảnh phong cảnh hay hơi trầm; nhấc sáng và bão hoà lên một chút.
             filter: 'brightness(1.18) saturate(1.12) contrast(1.03)',
             opacity: sceneIndex === index ? 1 : 0,

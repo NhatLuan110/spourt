@@ -1,5 +1,7 @@
 'use client';
 
+import { mediaUrl } from '@/lib/asset-url';
+
 import { useState } from 'react';
 import { useTranslations } from 'next-intl';
 import type { PracticeItem, PracticeOption } from '@sprout/shared';
@@ -173,7 +175,7 @@ function ListenQuestion({
           variant="secondary"
           onClick={() => {
             if (item.audioUrl) {
-              void new Audio(item.audioUrl).play().catch(() => speak(item.speakText, 'us'));
+              void new Audio(mediaUrl(item.audioUrl)).play().catch(() => speak(item.speakText, 'us'));
               return;
             }
             speak(item.speakText, 'us');

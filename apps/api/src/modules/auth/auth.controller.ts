@@ -44,6 +44,7 @@ export class AuthController {
     @Req() request: FastifyRequest,
     @Res({ passthrough: true }) reply: FastifyReply,
   ) {
+    this.assertCookieOrigin(request);
     const result = await this.auth.register(body, this.contextOf(request));
     return this.respond(result, reply);
   }
@@ -57,6 +58,7 @@ export class AuthController {
     @Req() request: FastifyRequest,
     @Res({ passthrough: true }) reply: FastifyReply,
   ) {
+    this.assertCookieOrigin(request);
     const result = await this.auth.login(body, this.contextOf(request));
     return this.respond(result, reply);
   }
@@ -68,6 +70,7 @@ export class AuthController {
     @Req() request: FastifyRequest,
     @Res({ passthrough: true }) reply: FastifyReply,
   ) {
+    this.assertCookieOrigin(request);
     const presented = this.readRefreshCookie(request);
     if (!presented) throw AppException.unauthenticated();
     const result = await this.auth.refresh(presented, this.contextOf(request));
@@ -78,8 +81,9 @@ export class AuthController {
   @Post('logout')
   @HttpCode(HttpStatus.OK)
   async logout(@Req() request: FastifyRequest, @Res({ passthrough: true }) reply: FastifyReply) {
+    this.assertCookieOrigin(request);
     await this.auth.logout(this.readRefreshCookie(request));
-    void reply.clearCookie(REFRESH_COOKIE, { path: '/' });
+    void reply.clearCookie(REFRESH_COOKIE, this.refreshCookieOptions());
     return { success: true };
   }
 
@@ -91,7 +95,7 @@ export class AuthController {
     @Res({ passthrough: true }) reply: FastifyReply,
   ) {
     const count = await this.auth.logoutEverywhere(userId);
-    void reply.clearCookie(REFRESH_COOKIE, { path: '/' });
+    void reply.clearCookie(REFRESH_COOKIE, this.refreshCookieOptions());
     return { revokedSessions: count };
   }
 
@@ -99,6 +103,9 @@ export class AuthController {
   @Get('google')
   @ApiOperation({ summary: 'Start the Google OAuth flow' })
   async googleStart(@Res() reply: FastifyReply) {
+    if (this.config.get<boolean>('COOKIE_CROSS_SITE')) {
+      throw AppException.forbidden('Vui lòng đăng nhập bằng email và mật khẩu trên trang này.');
+    }
     const { url, state, verifier } = this.google.buildAuthorizationUrl();
     void reply
       .setCookie('sprout_oauth', `${state}.${verifier}`, {
@@ -176,13 +183,31 @@ export class AuthController {
 
   private setRefreshCookie(reply: FastifyReply, result: AuthResult): void {
     void reply.setCookie(REFRESH_COOKIE, result.refreshToken, {
-      httpOnly: true,
-      secure: this.isSecure(),
-      sameSite: 'lax',
-      path: '/',
-      domain: this.config.get<string>('COOKIE_DOMAIN'),
+      ...this.refreshCookieOptions(),
       expires: result.refreshExpiresAt,
     });
+  }
+
+  private refreshCookieOptions() {
+    const crossSite = this.config.get<boolean>('COOKIE_CROSS_SITE') === true;
+    return {
+      httpOnly: true,
+      secure: crossSite || this.isSecure(),
+      sameSite: crossSite ? 'none' as const : 'lax' as const,
+      partitioned: crossSite || undefined,
+      path: '/',
+      domain: this.config.get<string>('COOKIE_DOMAIN'),
+    };
+  }
+
+  private assertCookieOrigin(request: FastifyRequest): void {
+    if (this.config.get<boolean>('COOKIE_CROSS_SITE') !== true) return;
+    const web = this.config.get<string>('WEB_ORIGIN') ?? 'http://localhost:3000';
+    // SameSite=None permits cross-site cookies, so CORS alone is insufficient:
+    // reject mutations before consuming or rotating a session, including forms.
+    if (request.headers.origin !== new URL(web).origin) {
+      throw AppException.forbidden('Yêu cầu đăng nhập không đến từ trang web được phép.');
+    }
   }
 
   private readRefreshCookie(request: FastifyRequest): string | undefined {

@@ -1,0 +1,22 @@
+@import '../src/app/globals.css';
+@source '../src';
+
+:root {
+  --font-fraunces: 'Fraunces', Georgia, serif;
+  --font-be-vietnam: 'Be Vietnam Pro', system-ui, sans-serif;
+  --font-charis: 'Charis SIL', Georgia, serif;
+}
+
+.service-notice {
+  position: relative;
+  z-index: 60;
+  padding: 12px 20px;
+  background: var(--warning-soft);
+  color: var(--text);
+  text-align: center;
+  font-size: 14px;
+}
+
+@media print {
+  .service-notice { display: none; }
+}

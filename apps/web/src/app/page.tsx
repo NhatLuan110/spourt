@@ -1,11 +1,13 @@
+'use client';
+
 import Link from 'next/link';
-import { getTranslations } from 'next-intl/server';
+import { useTranslations } from 'next-intl';
 import { Button } from '@/components/ui/button';
 import { Card, CardBody, CardTitle, CardDescription } from '@/components/ui/card';
 import { TreeCanvas } from '@/components/domain/tree-canvas';
 
-export default async function LandingPage() {
-  const t = await getTranslations();
+export default function LandingPage() {
+  const t = useTranslations();
 
   return (
     <main className="relative min-h-dvh overflow-hidden">

@@ -15,7 +15,9 @@ services:
       - key: DATABASE_URL
         sync: false
       - key: WEB_ORIGIN
-        sync: false
+        value: https://nhatluan110.github.io/spourt/
+      - key: COOKIE_CROSS_SITE
+        value: "true"
       - key: COOKIE_SECRET
         generateValue: true
       - key: SECRET_ENCRYPTION_KEY
