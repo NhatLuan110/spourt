@@ -97,10 +97,9 @@ Hoặc tạo Web Service thủ công theo các bước dưới đây.
    ở Bước 3. Các khóa AI có thể bổ sung sau; thiếu khóa thì tính năng AI báo
    chưa cấu hình. Không dùng khóa phát triển trong repo cho production.
 
-   > `JWT_PRIVATE_KEY` / `JWT_PUBLIC_KEY` có thể để trống — API tự sinh cặp khoá
-   > lúc khởi động nếu thiếu. Nhưng mỗi lần Render khởi động lại container sẽ
-   > sinh khoá mới và vô hiệu hóa access token đã cấp. Nên cấu hình một cặp
-   > RSA riêng cho production dưới dạng secret để khóa ổn định qua các lần deploy.
+   > `JWT_PRIVATE_KEY` và `JWT_PUBLIC_KEY` bắt buộc trong production. Sinh một
+   > cặp RSA riêng và lưu dưới dạng secret trên Render; API sẽ từ chối khởi
+   > động nếu thiếu. Không dùng cặp khóa phát triển hoặc commit khóa riêng.
 
 5. **Create Web Service**. Render sẽ build (mất 5–10 phút lần đầu) rồi cho ra
    một URL dạng `https://sprout-api.onrender.com`

@@ -20,6 +20,10 @@ services:
         value: "true"
       - key: COOKIE_SECRET
         generateValue: true
+      - key: JWT_PRIVATE_KEY
+        sync: false
+      - key: JWT_PUBLIC_KEY
+        sync: false
       - key: SECRET_ENCRYPTION_KEY
         generateValue: true
       - key: STORAGE_PUBLIC_URL

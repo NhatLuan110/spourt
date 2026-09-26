@@ -42,6 +42,8 @@ Kiểm tra bằng `node scripts/test-pages.mjs`; cài trình duyệt bằng
    | `WEB_ORIGIN` | `https://nhatluan110.github.io/spourt/` |
    | `COOKIE_CROSS_SITE` | `true` |
    | `COOKIE_DOMAIN` | Không đặt |
+   | `JWT_PRIVATE_KEY` | Khóa RSA riêng cho production, định dạng PEM |
+   | `JWT_PUBLIC_KEY` | Khóa công khai tương ứng, định dạng PEM |
    | `AI_PROVIDER` | `gemini` |
    | `AI_API_KEY` | Khóa riêng, chỉ lưu trên Render |
    | `STORAGE_PUBLIC_URL` | `/media` |
@@ -51,6 +53,9 @@ Kiểm tra bằng `node scripts/test-pages.mjs`; cài trình duyệt bằng
    các khóa AI đó. Cookie phiên dùng `HttpOnly; Secure; SameSite=None;
    Partitioned`; API kiểm tra Origin trước khi đổi phiên. Bản GitHub Pages
    dùng email/mật khẩu, chưa hỗ trợ chuyển hướng Google OAuth.
+   Hai khóa JWT là bắt buộc: API production sẽ từ chối khởi động nếu thiếu.
+   Sinh một cặp RSA 2048 bit trở lên và lưu chúng trong cấu hình Render,
+   không dùng cặp khóa phát triển hoặc commit khóa riêng vào repo.
 4. Chờ API build xong, `/readyz` phải báo database sẵn sàng. Container tự chạy
    migration nhưng không tự seed bài học. Với database mới, chạy migration
    và seed bằng biến môi trường production trong terminal riêng. Với dữ liệu
