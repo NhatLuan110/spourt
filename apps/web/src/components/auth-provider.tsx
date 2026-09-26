@@ -89,6 +89,13 @@ export function useSessionStarter() {
   const queryClient = useQueryClient();
   return async (accessToken: string) => {
     setAccessToken(accessToken);
-    await queryClient.invalidateQueries({ queryKey: queryKeys.me });
+    // The /me query is still disabled until the token change re-renders the
+    // provider, so invalidating it would resolve without fetching and the app
+    // layout would see no user and bounce to /login. Load it explicitly.
+    await queryClient.fetchQuery({
+      queryKey: queryKeys.me,
+      queryFn: () => api.get<MeResponse>('/me'),
+      staleTime: 0,
+    });
   };
 }
