@@ -30,6 +30,11 @@ try {
   }
   browser = await chromium.launch({ headless: true, channel: process.env.PAGES_BROWSER_CHANNEL || undefined });
   const page = await browser.newPage({ viewport: { width: 1365, height: 900 } });
+  if (!process.argv[2]) {
+    // The built site calls the hosted API. A sleeping or redeploying free API
+    // must not stall `networkidle`, so the artifact check treats it as offline.
+    await page.route(url => !url.href.startsWith(base) && url.pathname.includes('/api/v1/'), route => route.abort());
+  }
   const errors = [];
   const failedAssets = [];
   page.on('pageerror', error => errors.push(error.message));
